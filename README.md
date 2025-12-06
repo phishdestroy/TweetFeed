@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-12-06 08:46:42 (UTC)</th>
+        <th colspan=4>2025-12-06 09:14:54 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 7 | 1077 | 4659 | 90690 |
-| **:globe_with_meridians: Domains** | 7 | 996 | 3953 | 60216 |
+| **:link: URLs** | 8 | 1078 | 4660 | 90691 |
+| **:globe_with_meridians: Domains** | 8 | 997 | 3954 | 60217 |
 | **:triangular_flag_on_post: IPs** | 6 | 93 | 761 | 28319 |
-| **:1234: SHA256** | 0 | 30 | 121 | 2092 |
+| **:1234: SHA256** | 1 | 31 | 122 | 2093 |
 | **:1234: MD5** | 0 | 23 | 213 | 3576 |
 
 </div>
@@ -168,9 +168,9 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 8 |
-| **#3** | [dan__PR](https://twitter.com/dan__PR) | 2 |
-| **#4** | [harugasumi](https://twitter.com/harugasumi) | 2 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 3 |
+| **#4** | [dan__PR](https://twitter.com/dan__PR) | 2 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
