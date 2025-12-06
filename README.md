@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-12-06 00:16:21 (UTC)</th>
+        <th colspan=4>2025-12-06 00:45:26 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 1070 | 4652 | 90683 |
-| **:globe_with_meridians: Domains** | 0 | 989 | 3946 | 60209 |
+| **:link: URLs** | 1 | 1071 | 4653 | 90684 |
+| **:globe_with_meridians: Domains** | 1 | 990 | 3947 | 60210 |
 | **:triangular_flag_on_post: IPs** | 0 | 87 | 755 | 28313 |
 | **:1234: SHA256** | 0 | 30 | 121 | 2092 |
 | **:1234: MD5** | 0 | 23 | 213 | 3576 |
@@ -124,7 +124,7 @@ If you like the project, please consider:
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 0 | 627 | 4766 | 103997 |
-| **#scam** | 0 | 219 | 1011 | 14205 |
+| **#scam** | 2 | 221 | 1013 | 14207 |
 | **#opendir** | 0 | 6 | 36 | 887 |
 | **#malware** | 0 | 31 | 124 | 22327 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
+| **#1** | [dan__PR](https://twitter.com/dan__PR) | 2 |
 | **#2** | [-](https://twitter.com/-) | 0 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
