@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-12-06 13:12:14 (UTC)</th>
+        <th colspan=4>2025-12-06 13:42:53 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 16 | 1086 | 4668 | 90699 |
-| **:globe_with_meridians: Domains** | 16 | 1005 | 3962 | 60225 |
+| **:link: URLs** | 17 | 1087 | 4669 | 90700 |
+| **:globe_with_meridians: Domains** | 17 | 1006 | 3963 | 60226 |
 | **:triangular_flag_on_post: IPs** | 6 | 93 | 761 | 28319 |
 | **:1234: SHA256** | 1 | 31 | 122 | 2093 |
 | **:1234: MD5** | 0 | 23 | 213 | 3576 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 12 |
+| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 14 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 8 |
 | **#3** | [masaomi346](https://twitter.com/masaomi346) | 6 |
 | **#4** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 4 |
