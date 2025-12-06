@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-12-06 09:14:54 (UTC)</th>
+        <th colspan=4>2025-12-06 09:43:28 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 8 | 1078 | 4660 | 90691 |
-| **:globe_with_meridians: Domains** | 8 | 997 | 3954 | 60217 |
+| **:link: URLs** | 9 | 1079 | 4661 | 90692 |
+| **:globe_with_meridians: Domains** | 9 | 998 | 3955 | 60218 |
 | **:triangular_flag_on_post: IPs** | 6 | 93 | 761 | 28319 |
 | **:1234: SHA256** | 1 | 31 | 122 | 2093 |
 | **:1234: MD5** | 0 | 23 | 213 | 3576 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
+| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 10 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 8 |
 | **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 3 |
 | **#4** | [dan__PR](https://twitter.com/dan__PR) | 2 |
