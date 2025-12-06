@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-12-06 06:48:54 (UTC)</th>
+        <th colspan=4>2025-12-06 07:19:06 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -109,7 +109,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 6 | 1076 | 4658 | 90689 |
 | **:globe_with_meridians: Domains** | 6 | 995 | 3952 | 60215 |
-| **:triangular_flag_on_post: IPs** | 1 | 88 | 756 | 28314 |
+| **:triangular_flag_on_post: IPs** | 6 | 93 | 761 | 28319 |
 | **:1234: SHA256** | 0 | 30 | 121 | 2092 |
 | **:1234: MD5** | 0 | 23 | 213 | 3576 |
 
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
-| **#2** | [skocherhan](https://twitter.com/skocherhan) | 3 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 8 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
 | **#3** | [dan__PR](https://twitter.com/dan__PR) | 2 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 2 |
 | **#5** | [-](https://twitter.com/-) | 0 |
