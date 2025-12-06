@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-12-06 01:14:21 (UTC)</th>
+        <th colspan=4>2025-12-06 01:43:11 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 2 | 1072 | 4654 | 90685 |
-| **:globe_with_meridians: Domains** | 2 | 991 | 3948 | 60211 |
+| **:link: URLs** | 3 | 1073 | 4655 | 90686 |
+| **:globe_with_meridians: Domains** | 3 | 992 | 3949 | 60212 |
 | **:triangular_flag_on_post: IPs** | 0 | 87 | 755 | 28313 |
 | **:1234: SHA256** | 0 | 30 | 121 | 2092 |
 | **:1234: MD5** | 0 | 23 | 213 | 3576 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [dan__PR](https://twitter.com/dan__PR) | 2 |
 | **#2** | [harugasumi](https://twitter.com/harugasumi) | 2 |
-| **#3** | [-](https://twitter.com/-) | 0 |
+| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
