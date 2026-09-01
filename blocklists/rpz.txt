@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 3197
-; Updated: 2026-09-01T07:00:18Z
+; Entries: 3198
+; Updated: 2026-09-01T07:15:15Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788246018 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788246915 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2004,6 +2004,8 @@ flowbilding.ydns.eu CNAME .
 *.flowbilding.ydns.eu CNAME .
 flowers.theflowerflat.com CNAME .
 *.flowers.theflowerflat.com CNAME .
+fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud CNAME .
+*.fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud CNAME .
 fluidpolicyreview.com CNAME .
 *.fluidpolicyreview.com CNAME .
 fmpqwyp.cn CNAME .
