@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 3198
-; Updated: 2026-09-01T07:15:15Z
+; Entries: 3199
+; Updated: 2026-09-01T08:45:15Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788246915 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788252315 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3450,6 +3450,8 @@ mjrnarch.com CNAME .
 *.mjrnarch.com CNAME .
 mk2bys.duckdns.org CNAME .
 *.mk2bys.duckdns.org CNAME .
+mkgheye78fdfb.sryoung56.workers.dev CNAME .
+*.mkgheye78fdfb.sryoung56.workers.dev CNAME .
 mklove.damaicn.cc CNAME .
 *.mklove.damaicn.cc CNAME .
 mklv.mahuacm.com CNAME .
