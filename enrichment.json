@@ -1,5 +1,5 @@
 {
-  "count": 5059,
+  "count": 5033,
   "dead_tweets": {
     "2082982439425560754": {
       "attempts": 2,
@@ -12,6 +12,10 @@
     "2083419281597849775": {
       "attempts": 2,
       "last_attempt": "2026-08-31T18:40:04Z"
+    },
+    "2083749221908303908": {
+      "attempts": 1,
+      "last_attempt": "2026-09-01T12:40:05Z"
     },
     "2083797488222298572": {
       "attempts": 2,
@@ -615,22 +619,6 @@
       "tweet_id": "2088252611208061382",
       "type": "domain",
       "value": "0306sendrat.duckdns.org"
-    },
-    "0391cc7f5e979b36d82a3f3ebe00f4dd": {
-      "confidence": 0.8,
-      "date": "2026-08-02 11:37:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Arechclient2/SecTopRAT samples with C2 servers at 212.43.147.70:9000 and 77.238.248.158:9000; two MD5 hashes shared.",
-      "threat_type": "c2",
-      "tweet_id": "2083879886335168785",
-      "type": "md5",
-      "value": "0391cc7f5e979b36d82a3f3ebe00f4dd"
     },
     "03webzoominvite.us": {
       "confidence": 0.9,
@@ -1832,22 +1820,19 @@
       "type": "ip",
       "value": "103.117.100.117"
     },
-    "103.160.59.70": {
-      "confidence": 0.8,
-      "date": "2026-08-02 08:22:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
+    "103.133.1.1": {
+      "confidence": 0.9,
+      "date": "2026-09-01 07:01:24",
+      "enriched_at": "2026-09-01T12:40:05Z",
       "family": null,
       "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "c2",
-        "malware"
+        "phishing"
       ],
-      "summary": "VoogStealer C2 at 103.160.59.70 linked to foxycim.xyz; SHA256 sample hash shared.",
-      "threat_type": "c2",
-      "tweet_id": "2083830701536039256",
+      "summary": "Microsoft/Hotmail credential phishing page hosted on Laravel Cloud, proxied via Cloudflare London (AS209242)",
+      "threat_type": "phishing",
+      "tweet_id": "2094682017602339118",
       "type": "ip",
-      "value": "103.160.59.70"
+      "value": "103.133.1.1"
     },
     "103.170.154.120": {
       "confidence": 0.88,
@@ -5039,21 +5024,6 @@
       "type": "url",
       "value": "http://165.154.241.48"
     },
-    "166.88.134.62": {
-      "confidence": 0.75,
-      "date": "2026-08-02 10:26:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malicious script decodes C2 IP 166.88.134.62 from Ethereum transaction data for payload delivery.",
-      "threat_type": "malware",
-      "tweet_id": "2083862035545125305",
-      "type": "url",
-      "value": "http://166.88.134.62"
-    },
     "167.172.177.118": {
       "confidence": 0.6,
       "date": "2026-08-07 08:58:00",
@@ -7907,23 +7877,6 @@
       "type": "md5",
       "value": "1afdac960243d3c9b888689394148bb0"
     },
-    "1b5f9416759d2d41171c0b36c702ae8b5ba2fefba14f58d9e0f21c25ed255e4a": {
-      "confidence": 0.8,
-      "date": "2026-08-02 08:22:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "VoogStealer C2 at 103.160.59.70 linked to foxycim.xyz; SHA256 sample hash shared.",
-      "threat_type": "c2",
-      "tweet_id": "2083830701536039256",
-      "type": "sha256",
-      "value": "1b5f9416759d2d41171c0b36c702ae8b5ba2fefba14f58d9e0f21c25ed255e4a"
-    },
     "1b873c981db25d16bd539aef3952a2e869dd55c27e0937064cafc5dafb70c79a": {
       "confidence": 0.75,
       "date": "2026-08-06 17:39:00",
@@ -8110,21 +8063,6 @@
       "tweet_id": "2084987299738317301",
       "type": "sha256",
       "value": "1f7ab5418d489fdd2fb392ada3accc77c13586f94f059ee8e5cc83c0974b614b"
-    },
-    "1fe2c62a3dd1f3c5ced1f5a3134f112e": {
-      "confidence": 0.6,
-      "date": "2026-08-02 11:35:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "malvertising"
-      ],
-      "summary": "Malware infrastructure including notepadreleased.com and one-two.online subdomains with multiple file hashes and IP 89.110.110.119.",
-      "threat_type": "malware",
-      "tweet_id": "2083879416866685122",
-      "type": "md5",
-      "value": "1fe2c62a3dd1f3c5ced1f5a3134f112e"
     },
     "2.26.126.50": {
       "confidence": 0.8,
@@ -8391,21 +8329,6 @@
       "tweet_id": "2093670314366419326",
       "type": "ip",
       "value": "200.58.111.123"
-    },
-    "200.9.155.40": {
-      "confidence": 0.8,
-      "date": "2026-08-02 09:38:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "VulkanC2 framework server at 200.9.155.40:8443 associated with domain vulkan-api-services.com.",
-      "threat_type": "c2",
-      "tweet_id": "2083849788131287317",
-      "type": "ip",
-      "value": "200.9.155.40"
     },
     "202.141.236.42": {
       "confidence": 0.9,
@@ -9159,68 +9082,6 @@
       "type": "ip",
       "value": "212.119.42.58"
     },
-    "212.43.147.70": {
-      "confidence": 0.8,
-      "date": "2026-08-02 11:37:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Arechclient2/SecTopRAT samples with C2 servers at 212.43.147.70:9000 and 77.238.248.158:9000; two MD5 hashes shared.",
-      "threat_type": "c2",
-      "tweet_id": "2083879886335168785",
-      "type": "ip",
-      "value": "212.43.147.70"
-    },
-    "212.43.147.70:9000": {
-      "confidence": 0.8,
-      "date": "2026-08-02 11:37:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Arechclient2/SecTopRAT samples with C2 servers at 212.43.147.70:9000 and 77.238.248.158:9000; two MD5 hashes shared.",
-      "threat_type": "c2",
-      "tweet_id": "2083879886335168785",
-      "type": "url",
-      "value": "http://212.43.147.70:9000"
-    },
-    "212.43.156.153": {
-      "confidence": 0.65,
-      "date": "2026-08-02 11:54:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Two IPs flagged as C2 infrastructure: 85.239.144.31:6600 (DE, Dedik Services) and 212.43.156.153:9000 (NL, Podaon SIA).",
-      "threat_type": "c2",
-      "tweet_id": "2083884033281278034",
-      "type": "ip",
-      "value": "212.43.156.153"
-    },
-    "212.43.156.153:9000": {
-      "confidence": 0.65,
-      "date": "2026-08-02 11:54:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Two IPs flagged as C2 infrastructure: 85.239.144.31:6600 (DE, Dedik Services) and 212.43.156.153:9000 (NL, Podaon SIA).",
-      "threat_type": "c2",
-      "tweet_id": "2083884033281278034",
-      "type": "url",
-      "value": "http://212.43.156.153:9000"
-    },
     "212acf6988a147dc48a67ac51cbd267121791f8f79ae733698c614ab56511fa6": {
       "confidence": 0.8,
       "date": "2026-08-09 09:33:00",
@@ -9368,21 +9229,6 @@
       "type": "url",
       "value": "http://217.119.129.122"
     },
-    "217.156.122.129": {
-      "confidence": 0.7,
-      "date": "2026-08-02 10:41:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "IP 217.156.122.129:8080 reported as C2 control panel via DXSCAN for defensive purposes.",
-      "threat_type": "c2",
-      "tweet_id": "2083865657226248694",
-      "type": "ip",
-      "value": "217.156.122.129"
-    },
     "217.60.195.113": {
       "confidence": 0.88,
       "date": "2026-08-20 07:34:56",
@@ -9410,24 +9256,6 @@
       "tweet_id": "2090341799273365521",
       "type": "url",
       "value": "https://217.60.195.113/sh"
-    },
-    "217.60.195.192": {
-      "confidence": 0.75,
-      "date": "2026-08-02 07:17:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "malware",
-        "opendir",
-        "trojan",
-        "banker"
-      ],
-      "summary": "HTA dropper chain via mshta/AutoIt into process-hollowed attrib.exe; system-wide keylogger hooks; C2 at 217.60.195.192; Brazilian boleto lure domain.",
-      "threat_type": "malware",
-      "tweet_id": "2083814480232984653",
-      "type": "url",
-      "value": "http://217.60.195.192"
     },
     "217.60.195.197": {
       "confidence": 0.8,
@@ -17114,38 +16942,6 @@
       "type": "url",
       "value": "http://77.237.245.173:8081"
     },
-    "77.238.248.158": {
-      "confidence": 0.8,
-      "date": "2026-08-02 11:37:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Arechclient2/SecTopRAT samples with C2 servers at 212.43.147.70:9000 and 77.238.248.158:9000; two MD5 hashes shared.",
-      "threat_type": "c2",
-      "tweet_id": "2083879886335168785",
-      "type": "ip",
-      "value": "77.238.248.158"
-    },
-    "77.238.248.158:9000": {
-      "confidence": 0.8,
-      "date": "2026-08-02 11:37:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Arechclient2/SecTopRAT samples with C2 servers at 212.43.147.70:9000 and 77.238.248.158:9000; two MD5 hashes shared.",
-      "threat_type": "c2",
-      "tweet_id": "2083879886335168785",
-      "type": "url",
-      "value": "http://77.238.248.158:9000"
-    },
     "77.239.124.108": {
       "confidence": 0.92,
       "date": "2026-08-20 07:35:56",
@@ -17612,21 +17408,6 @@
       "tweet_id": "2029887800909156681",
       "type": "sha256",
       "value": "7bb759e468ede2efb3c8f6c517c584e17fc67a5530bef84d227ee191bcbc44e2"
-    },
-    "7c7e4bd0872b5cd3faf4055f524f9e43": {
-      "confidence": 0.6,
-      "date": "2026-08-02 11:35:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "malvertising"
-      ],
-      "summary": "Malware infrastructure including notepadreleased.com and one-two.online subdomains with multiple file hashes and IP 89.110.110.119.",
-      "threat_type": "malware",
-      "tweet_id": "2083879416866685122",
-      "type": "md5",
-      "value": "7c7e4bd0872b5cd3faf4055f524f9e43"
     },
     "7ccf8d47f5ebc4791b31dc6f14ac91f2cdf20f2efe0a3faa437ecc28aafebccd": {
       "confidence": 0.3,
@@ -18410,36 +18191,6 @@
       "type": "url",
       "value": "http://85.215.197.9:8080"
     },
-    "85.239.144.31": {
-      "confidence": 0.65,
-      "date": "2026-08-02 11:54:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Two IPs flagged as C2 infrastructure: 85.239.144.31:6600 (DE, Dedik Services) and 212.43.156.153:9000 (NL, Podaon SIA).",
-      "threat_type": "c2",
-      "tweet_id": "2083884033281278034",
-      "type": "ip",
-      "value": "85.239.144.31"
-    },
-    "85.239.144.31:6600": {
-      "confidence": 0.65,
-      "date": "2026-08-02 11:54:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Two IPs flagged as C2 infrastructure: 85.239.144.31:6600 (DE, Dedik Services) and 212.43.156.153:9000 (NL, Podaon SIA).",
-      "threat_type": "c2",
-      "tweet_id": "2083884033281278034",
-      "type": "url",
-      "value": "http://85.239.144.31:6600"
-    },
     "86.107.32.99": {
       "confidence": 0.9,
       "date": "2026-08-06 14:35:00",
@@ -18691,21 +18442,6 @@
       "tweet_id": "2093976478622912691",
       "type": "md5",
       "value": "88e824ea42dc271f4992957584b57d64"
-    },
-    "89.110.110.119": {
-      "confidence": 0.6,
-      "date": "2026-08-02 11:35:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "malvertising"
-      ],
-      "summary": "Malware infrastructure including notepadreleased.com and one-two.online subdomains with multiple file hashes and IP 89.110.110.119.",
-      "threat_type": "malware",
-      "tweet_id": "2083879416866685122",
-      "type": "url",
-      "value": "http://89.110.110.119"
     },
     "89.125.255.236": {
       "confidence": 0.85,
@@ -19198,6 +18934,21 @@
       "tweet_id": "2090366023988133974",
       "type": "md5",
       "value": "9033f5bed49269403341abcfbd8244eb"
+    },
+    "91.195.240.13": {
+      "confidence": 0.85,
+      "date": "2026-09-01 08:45:03",
+      "enriched_at": "2026-09-01T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Phishing page impersonating Adobe distributing an executable download, hosted at 91.195.240.13 (SEDO-AS, Germany)",
+      "threat_type": "phishing",
+      "tweet_id": "2094708099001000180",
+      "type": "ip",
+      "value": "91.195.240.13"
     },
     "91.204.224.146": {
       "confidence": 0.92,
@@ -21023,6 +20774,23 @@
       "tweet_id": "2091879406666977539",
       "type": "sha256",
       "value": "ac1f8b34486eabbb9ae6c3880a4b57dbf044cbfcc7f103ab3c93ed4f26285c3b"
+    },
+    "ac93919eef6e73335384c373816f0b032fde361244e494b64ff38ef01455c91a": {
+      "confidence": 0.87,
+      "date": "2026-09-01 09:28:05",
+      "enriched_at": "2026-09-01T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating Rakuten Points app distributed via point-raka.com",
+      "threat_type": "malware",
+      "tweet_id": "2094718930770403336",
+      "type": "sha256",
+      "value": "ac93919eef6e73335384c373816f0b032fde361244e494b64ff38ef01455c91a"
     },
     "acaimagia013.com": {
       "confidence": 0.97,
@@ -27443,21 +27211,6 @@
       "type": "md5",
       "value": "c9d13712cc16215185e68bc30da05f65"
     },
-    "ca88a6c055a96e1a6fa47e2586d41d2a": {
-      "confidence": 0.6,
-      "date": "2026-08-02 11:35:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "malvertising"
-      ],
-      "summary": "Malware infrastructure including notepadreleased.com and one-two.online subdomains with multiple file hashes and IP 89.110.110.119.",
-      "threat_type": "malware",
-      "tweet_id": "2083879416866685122",
-      "type": "md5",
-      "value": "ca88a6c055a96e1a6fa47e2586d41d2a"
-    },
     "cabalakosturkaltak.sbs": {
       "confidence": 0.98,
       "date": "2026-08-09 23:18:24",
@@ -29348,21 +29101,6 @@
       "tweet_id": "2087999609331404860",
       "type": "domain",
       "value": "cloud.fanpro.top"
-    },
-    "cloud.one-two.online": {
-      "confidence": 0.6,
-      "date": "2026-08-02 11:35:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "malvertising"
-      ],
-      "summary": "Malware infrastructure including notepadreleased.com and one-two.online subdomains with multiple file hashes and IP 89.110.110.119.",
-      "threat_type": "malware",
-      "tweet_id": "2083879416866685122",
-      "type": "domain",
-      "value": "cloud.one-two.online"
     },
     "cloudfrontenterprise.com": {
       "confidence": 0.85,
@@ -34169,21 +33907,6 @@
       "type": "sha256",
       "value": "e4d3f8d75c5c27178cad7bdb84e8531e618bdbc682a2127d962c8cdd7395c98f"
     },
-    "e51f36a8d0462a7019973199907487d3": {
-      "confidence": 0.6,
-      "date": "2026-08-02 11:35:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "malvertising"
-      ],
-      "summary": "Malware infrastructure including notepadreleased.com and one-two.online subdomains with multiple file hashes and IP 89.110.110.119.",
-      "threat_type": "malware",
-      "tweet_id": "2083879416866685122",
-      "type": "md5",
-      "value": "e51f36a8d0462a7019973199907487d3"
-    },
     "e5997f06aeb17e126cdef11a7f8b26a3": {
       "confidence": 0.9,
       "date": "2026-08-15 04:06:51",
@@ -34199,37 +33922,6 @@
       "tweet_id": "2088477496828424509",
       "type": "md5",
       "value": "e5997f06aeb17e126cdef11a7f8b26a3"
-    },
-    "e65b7fb23cd239c09c2d16fd910abc96": {
-      "confidence": 0.8,
-      "date": "2026-08-02 11:37:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Arechclient2/SecTopRAT samples with C2 servers at 212.43.147.70:9000 and 77.238.248.158:9000; two MD5 hashes shared.",
-      "threat_type": "c2",
-      "tweet_id": "2083879886335168785",
-      "type": "md5",
-      "value": "e65b7fb23cd239c09c2d16fd910abc96"
-    },
-    "e6e00a4ab651db96d9b484fe8f2fe0a6": {
-      "confidence": 0.6,
-      "date": "2026-08-02 11:35:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "malvertising"
-      ],
-      "summary": "Malware infrastructure including notepadreleased.com and one-two.online subdomains with multiple file hashes and IP 89.110.110.119.",
-      "threat_type": "malware",
-      "tweet_id": "2083879416866685122",
-      "type": "md5",
-      "value": "e6e00a4ab651db96d9b484fe8f2fe0a6"
     },
     "e74678f4-f.b-cdn.net": {
       "confidence": 0.98,
@@ -34815,21 +34507,6 @@
       "tweet_id": "2084771538969002414",
       "type": "domain",
       "value": "eeudjsb-baidu20260810x.014901490149w.com"
-    },
-    "ef436a36b3b42525f06b3839d5e3f50f6ff217549c8f25d88dfe6f24385ed161": {
-      "confidence": 0.7,
-      "date": "2026-08-02 07:22:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Malicious JS file (SHA256 ef436a36...) exhibits executable-drop behavior confirmed via dynamic analysis.",
-      "threat_type": "malware",
-      "tweet_id": "2083815805242970509",
-      "type": "sha256",
-      "value": "ef436a36b3b42525f06b3839d5e3f50f6ff217549c8f25d88dfe6f24385ed161"
     },
     "ef521d08056cdcf478d94ba9bbd487b3475e1846eca80d98ab5d031d0e90fea5": {
       "confidence": 0.87,
@@ -35781,21 +35458,6 @@
       "type": "sha256",
       "value": "f1cb8444675f9a1e517ec3f81bc1344ff98223d25842eb3c72d75b455c9d1fe5"
     },
-    "f1d8c9cd33b7da9356615a650cfd2d7e": {
-      "confidence": 0.6,
-      "date": "2026-08-02 11:35:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "malvertising"
-      ],
-      "summary": "Malware infrastructure including notepadreleased.com and one-two.online subdomains with multiple file hashes and IP 89.110.110.119.",
-      "threat_type": "malware",
-      "tweet_id": "2083879416866685122",
-      "type": "md5",
-      "value": "f1d8c9cd33b7da9356615a650cfd2d7e"
-    },
     "f1ef3f68231edf202df5cfe0936daab505a10ab6ca26cf55655096608390bed3": {
       "confidence": 0.6,
       "date": "2026-08-16 08:24:40",
@@ -36024,23 +35686,6 @@
       "tweet_id": "2087177925850251274",
       "type": "md5",
       "value": "f93f9aec0f8f927267ba50a92923d663"
-    },
-    "f98bd5d83bdc29c3c49840096d9694c6": {
-      "confidence": 0.85,
-      "date": "2026-08-02 12:00:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "rat",
-        "malware",
-        "fakecaptcha"
-      ],
-      "summary": "SmartApeSG ClickFix campaign distributing an unidentified RAT; MD5 hash and traffic analysis reference shared.",
-      "threat_type": "malware",
-      "tweet_id": "2083885770692038754",
-      "type": "md5",
-      "value": "f98bd5d83bdc29c3c49840096d9694c6"
     },
     "fa51ae0ec4d02f9b47a3ef566b4e7944": {
       "confidence": 0.8,
@@ -37327,6 +36972,34 @@
       "tweet_id": "2089935762632630504",
       "type": "domain",
       "value": "flowers.theflowerflat.com"
+    },
+    "fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud": {
+      "confidence": 0.9,
+      "date": "2026-09-01 07:01:24",
+      "enriched_at": "2026-09-01T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Microsoft/Hotmail credential phishing page hosted on Laravel Cloud, proxied via Cloudflare London (AS209242)",
+      "threat_type": "phishing",
+      "tweet_id": "2094682017602339118",
+      "type": "domain",
+      "value": "fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud"
+    },
+    "fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud/hotmail%20inbox%20main.html": {
+      "confidence": 0.9,
+      "date": "2026-09-01 07:01:24",
+      "enriched_at": "2026-09-01T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Microsoft/Hotmail credential phishing page hosted on Laravel Cloud, proxied via Cloudflare London (AS209242)",
+      "threat_type": "phishing",
+      "tweet_id": "2094682017602339118",
+      "type": "url",
+      "value": "http://fls-a29a8cd9-0161-4493-bf5c-9f682b16d0c8.laravel.cloud/hotmail%20inbox%20main.html"
     },
     "fluidpolicyreview.com": {
       "confidence": 0.97,
@@ -49979,6 +49652,20 @@
       "type": "domain",
       "value": "mk2bys.duckdns.org"
     },
+    "mkgheye78fdfb.sryoung56.workers.dev": {
+      "confidence": 0.7,
+      "date": "2026-09-01 08:31:33",
+      "enriched_at": "2026-09-01T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Scam site confirmed on Cloudflare Workers subdomain mkgheye78fdfb.sryoung56.workers.dev",
+      "threat_type": "scam",
+      "tweet_id": "2094704700956299541",
+      "type": "domain",
+      "value": "mkgheye78fdfb.sryoung56.workers.dev"
+    },
     "mklove.damaicn.cc": {
       "confidence": 0.87,
       "date": "2026-08-10 21:17:12",
@@ -51898,41 +51585,6 @@
       "type": "url",
       "value": "https://nfe.alfanotas.com/files/nfe.alfanotas.com/83857598ca20b24b/NotaEletronica--HPRMS0.zip"
     },
-    "nfe.boletos-notas.com": {
-      "confidence": 0.8,
-      "date": "2026-08-02 07:17:00",
-      "enriched_at": "2026-08-31T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "opendir",
-        "trojan",
-        "rat"
-      ],
-      "summary": "Brazilian HTA malware uses AutoIt loader to inject into attrib.exe; installs system-wide keyboard/mouse hooks, captures desktop frames, contacts remote C2",
-      "threat_type": "malware",
-      "tweet_id": "2083814480232984653",
-      "type": "domain",
-      "value": "nfe.boletos-notas.com"
-    },
-    "nfe.boletos-notas.com/h/estagio1.php?r=391c7ce85d88": {
-      "confidence": 0.75,
-      "date": "2026-08-02 07:17:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "malware",
-        "opendir",
-        "trojan",
-        "banker"
-      ],
-      "summary": "HTA dropper chain via mshta/AutoIt into process-hollowed attrib.exe; system-wide keylogger hooks; C2 at 217.60.195.192; Brazilian boleto lure domain.",
-      "threat_type": "malware",
-      "tweet_id": "2083814480232984653",
-      "type": "url",
-      "value": "https://nfe.boletos-notas.com/h/estagio1.php?r=391C7CE85D88"
-    },
     "nft.fragment.com": {
       "confidence": 0.95,
       "date": "2026-08-04 08:58:00",
@@ -52467,21 +52119,6 @@
       "tweet_id": "2089554202267656553",
       "type": "url",
       "value": "http://none.kingsnone-cpa.com:8041"
-    },
-    "notepadreleased.com": {
-      "confidence": 0.6,
-      "date": "2026-08-02 11:35:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "malvertising"
-      ],
-      "summary": "Malware infrastructure including notepadreleased.com and one-two.online subdomains with multiple file hashes and IP 89.110.110.119.",
-      "threat_type": "malware",
-      "tweet_id": "2083879416866685122",
-      "type": "domain",
-      "value": "notepadreleased.com"
     },
     "notification-portal.com": {
       "confidence": 0.94,
@@ -54814,6 +54451,23 @@
       "type": "domain",
       "value": "point-plsidaw.com"
     },
+    "point-raka.com": {
+      "confidence": 0.87,
+      "date": "2026-09-01 09:28:05",
+      "enriched_at": "2026-09-01T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating Rakuten Points app distributed via point-raka.com",
+      "threat_type": "malware",
+      "tweet_id": "2094718930770403336",
+      "type": "domain",
+      "value": "point-raka.com"
+    },
     "policiacivilmg.com": {
       "confidence": 0.55,
       "date": "2026-08-09 17:12:14",
@@ -56699,38 +56353,6 @@
       "type": "url",
       "value": "https://quest-22.com/curl/44tgqsi3ufvy/wv242quj7idscf3dze4.dat"
     },
-    "questealer.world": {
-      "confidence": 0.85,
-      "date": "2026-08-02 11:17:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "opendir"
-      ],
-      "summary": "Questealer infostealer panel exposed at questealer.world with accessible admin UI and app.js; Turkish-language panel branding visible.",
-      "threat_type": "malware",
-      "tweet_id": "2069122466346041369",
-      "type": "domain",
-      "value": "questealer.world"
-    },
-    "questealer.world/app.js": {
-      "confidence": 0.85,
-      "date": "2026-08-02 11:17:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "opendir"
-      ],
-      "summary": "Questealer infostealer panel exposed at questealer.world with accessible admin UI and app.js; Turkish-language panel branding visible.",
-      "threat_type": "malware",
-      "tweet_id": "2069122466346041369",
-      "type": "url",
-      "value": "https://questealer.world/app.js"
-    },
     "quill-flint.com": {
       "confidence": 0.9,
       "date": "2026-08-21 12:25:15",
@@ -57265,6 +56887,34 @@
       "type": "domain",
       "value": "rb-cloud.cc"
     },
+    "rbdvwwr.cn": {
+      "confidence": 0.9,
+      "date": "2026-09-01 06:44:07",
+      "enriched_at": "2026-09-01T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "VISA phishing site targeting Japanese users hosted at rbdvwwr.cn",
+      "threat_type": "phishing",
+      "tweet_id": "2094677665613828506",
+      "type": "domain",
+      "value": "rbdvwwr.cn"
+    },
+    "rbdvwwr.cn/czvwqwkt": {
+      "confidence": 0.9,
+      "date": "2026-09-01 06:44:07",
+      "enriched_at": "2026-09-01T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "VISA phishing site targeting Japanese users hosted at rbdvwwr.cn",
+      "threat_type": "phishing",
+      "tweet_id": "2094677665613828506",
+      "type": "url",
+      "value": "https://rbdvwwr.cn/CZVwQWkt/"
+    },
     "rbnkscot.com": {
       "confidence": 0.93,
       "date": "2026-08-13 13:15:12",
@@ -57625,24 +57275,6 @@
       "tweet_id": "2089052085459296766",
       "type": "url",
       "value": "http://remcooox.duckdns.org:62699"
-    },
-    "remoto.ddins.click": {
-      "confidence": 0.75,
-      "date": "2026-08-02 07:17:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "malware",
-        "opendir",
-        "trojan",
-        "banker"
-      ],
-      "summary": "HTA dropper chain via mshta/AutoIt into process-hollowed attrib.exe; system-wide keylogger hooks; C2 at 217.60.195.192; Brazilian boleto lure domain.",
-      "threat_type": "malware",
-      "tweet_id": "2083814480232984653",
-      "type": "domain",
-      "value": "remoto.ddins.click"
     },
     "renxintong.com": {
       "confidence": 0.95,
@@ -70078,21 +69710,6 @@
       "type": "domain",
       "value": "vpn.mihailgolban.com"
     },
-    "vpn.one-two.online": {
-      "confidence": 0.6,
-      "date": "2026-08-02 11:35:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "malvertising"
-      ],
-      "summary": "Malware infrastructure including notepadreleased.com and one-two.online subdomains with multiple file hashes and IP 89.110.110.119.",
-      "threat_type": "malware",
-      "tweet_id": "2083879416866685122",
-      "type": "domain",
-      "value": "vpn.one-two.online"
-    },
     "vpnbot.tech": {
       "confidence": 0.95,
       "date": "2026-08-04 08:58:00",
@@ -70106,21 +69723,6 @@
       "tweet_id": "2084564653015757266",
       "type": "domain",
       "value": "vpnbot.tech"
-    },
-    "vpnvl.one-two.online": {
-      "confidence": 0.6,
-      "date": "2026-08-02 11:35:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "malvertising"
-      ],
-      "summary": "Malware infrastructure including notepadreleased.com and one-two.online subdomains with multiple file hashes and IP 89.110.110.119.",
-      "threat_type": "malware",
-      "tweet_id": "2083879416866685122",
-      "type": "domain",
-      "value": "vpnvl.one-two.online"
     },
     "vsblobprodscussu5shard18.blob.core.windows.net": {
       "confidence": 0.9,
@@ -75845,23 +75447,6 @@
       "type": "url",
       "value": "http://zoorning.com/zoom.invite/Windows/invite.php"
     },
-    "zorvec.top": {
-      "confidence": 0.95,
-      "date": "2026-08-02 12:25:00",
-      "enriched_at": "2026-08-02T12:40:04Z",
-      "family": "asyncrat",
-      "suggested_tags": [
-        "asyncrat",
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "AsyncRat C2 domain zorvec.top reported.",
-      "threat_type": "c2",
-      "tweet_id": "2083892007844327656",
-      "type": "domain",
-      "value": "zorvec.top"
-    },
     "zpriv.cc": {
       "confidence": 0.53,
       "date": "2026-08-12 17:16:41",
@@ -76265,6 +75850,6 @@
       "value": "\u72b6\u614b\u3068\u63a5\u7d9a\u6570\u3068\u5e2f\u57df\u3092json\u5f62\u5f0f\u3067login.trees4sale.net"
     }
   },
-  "generated_at": "2026-09-01T06:40:04Z",
+  "generated_at": "2026-09-01T12:40:05Z",
   "window_days": 30
 }
