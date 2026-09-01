@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 3200
-; Updated: 2026-09-01T09:45:16Z
+; Entries: 3201
+; Updated: 2026-09-01T12:30:17Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788255916 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788265817 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2642,6 +2642,8 @@ inspirationalframedpoems.com CNAME .
 *.inspirationalframedpoems.com CNAME .
 instagram-accounts-login.duckdns.org CNAME .
 *.instagram-accounts-login.duckdns.org CNAME .
+instagram-app.cn CNAME .
+*.instagram-app.cn CNAME .
 instgram-account-ginxl9n.netlify.app CNAME .
 *.instgram-account-ginxl9n.netlify.app CNAME .
 instruments.piercemusic.com CNAME .
