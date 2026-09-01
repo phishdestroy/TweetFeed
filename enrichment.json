@@ -1,5 +1,5 @@
 {
-  "count": 5062,
+  "count": 5059,
   "dead_tweets": {
     "2082982439425560754": {
       "attempts": 2,
@@ -5659,23 +5659,6 @@
       "type": "url",
       "value": "http://178.16.55.171:56001"
     },
-    "178.17.61.110": {
-      "confidence": 0.85,
-      "date": "2026-08-02 01:50:00",
-      "enriched_at": "2026-08-02T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "malware",
-        "c2",
-        "rat"
-      ],
-      "summary": "Open directory at 178.17.61.110 serving PureCryptor loader (MD5: 6bd742f693e7350b27de5ec9fde0712c) with C2 at 91.92.241.160; drops ScreenConnect for remote access.",
-      "threat_type": "malware",
-      "tweet_id": "2083732061949686250",
-      "type": "url",
-      "value": "http://178.17.61.110"
-    },
     "178.17.61.110/md5": {
       "confidence": 0.85,
       "date": "2026-08-04 20:40:00",
@@ -6943,21 +6926,6 @@
       "tweet_id": "2084556669028360425",
       "type": "url",
       "value": "http://192.210.178.167"
-    },
-    "192.238.160.133": {
-      "confidence": 0.95,
-      "date": "2026-08-02 02:46:00",
-      "enriched_at": "2026-09-01T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "MUFG (\u4e09\u83f1UFJ\u9280\u884c) credential phishing via spoofed domain mg-euwqnasnd.com on AS138995 Antbox Networks (192.238.160.133), registered by Aceville Pte.",
-      "threat_type": "phishing",
-      "tweet_id": "2083746267960840662",
-      "type": "ip",
-      "value": "192.238.160.133"
     },
     "192.252.178.228": {
       "confidence": 0.82,
@@ -15454,20 +15422,6 @@
       "type": "ip",
       "value": "64.89.160.97"
     },
-    "64.89.161.147": {
-      "confidence": 0.9,
-      "date": "2026-08-02 06:17:00",
-      "enriched_at": "2026-08-02T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site hosted at email-social.com (IP 64.89.161.147, AS205759 GHOSTYNETWORKS), flagged via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2083799280570044916",
-      "type": "ip",
-      "value": "64.89.161.147"
-    },
     "64524325235.net": {
       "confidence": 0.98,
       "date": "2026-08-09 23:18:24",
@@ -16371,23 +16325,6 @@
       "tweet_id": "2091906018770931770",
       "type": "md5",
       "value": "6bd47e9c02827b252fb721122da14dc5"
-    },
-    "6bd742f693e7350b27de5ec9fde0712c": {
-      "confidence": 0.85,
-      "date": "2026-08-02 01:50:00",
-      "enriched_at": "2026-08-02T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "malware",
-        "c2",
-        "rat"
-      ],
-      "summary": "Open directory at 178.17.61.110 serving PureCryptor loader (MD5: 6bd742f693e7350b27de5ec9fde0712c) with C2 at 91.92.241.160; drops ScreenConnect for remote access.",
-      "threat_type": "malware",
-      "tweet_id": "2083732061949686250",
-      "type": "md5",
-      "value": "6bd742f693e7350b27de5ec9fde0712c"
     },
     "6c49d14c0edfd2acfd8ea90305c302ef": {
       "confidence": 0.92,
@@ -19319,23 +19256,6 @@
       "tweet_id": "2088626506385760568",
       "type": "url",
       "value": "http://91.92.240.224"
-    },
-    "91.92.241.160": {
-      "confidence": 0.85,
-      "date": "2026-08-02 01:50:00",
-      "enriched_at": "2026-08-02T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "malware",
-        "c2",
-        "rat"
-      ],
-      "summary": "Open directory at 178.17.61.110 serving PureCryptor loader (MD5: 6bd742f693e7350b27de5ec9fde0712c) with C2 at 91.92.241.160; drops ScreenConnect for remote access.",
-      "threat_type": "malware",
-      "tweet_id": "2083732061949686250",
-      "type": "url",
-      "value": "http://91.92.241.160"
     },
     "91.92.43.93": {
       "confidence": 0.9,
@@ -26464,6 +26384,20 @@
       "tweet_id": "2088261925574492649",
       "type": "domain",
       "value": "btczio.com"
+    },
+    "budgetweddingplanner.info": {
+      "confidence": 0.95,
+      "date": "2026-09-01 03:08:08",
+      "enriched_at": "2026-09-01T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing email with device-protection theme threatens cloud-file deletion and demands payment via renewal link at budgetweddingplanner.info.",
+      "threat_type": "phishing",
+      "tweet_id": "2094623313700303145",
+      "type": "domain",
+      "value": "budgetweddingplanner.info"
     },
     "build.rs": {
       "confidence": 0.95,
@@ -35085,20 +35019,6 @@
       "type": "domain",
       "value": "elvp.qunaeer.com"
     },
-    "email-social.com": {
-      "confidence": 0.9,
-      "date": "2026-08-02 06:17:00",
-      "enriched_at": "2026-08-02T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site hosted at email-social.com (IP 64.89.161.147, AS205759 GHOSTYNETWORKS), flagged via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2083799280570044916",
-      "type": "domain",
-      "value": "email-social.com"
-    },
     "emanuelecannata.com": {
       "confidence": 0.9,
       "date": "2026-08-29 02:57:42",
@@ -36504,6 +36424,22 @@
       "tweet_id": "2085844709713358923",
       "type": "md5",
       "value": "fb4ba2e5283e16c3d2512a5eb92bfb77"
+    },
+    "fb86366bffbc63e8b355fd9d1ebef9ab280ffe628b059bea378d28845d8374a5": {
+      "confidence": 0.85,
+      "date": "2026-09-01 00:31:39",
+      "enriched_at": "2026-09-01T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating the Rakuten Points app distributed via point-plsidaw.com; SHA256 hash provided.",
+      "threat_type": "malware",
+      "tweet_id": "2094583933044392305",
+      "type": "sha256",
+      "value": "fb86366bffbc63e8b355fd9d1ebef9ab280ffe628b059bea378d28845d8374a5"
     },
     "fbsuasxiddh.top": {
       "confidence": 0.9,
@@ -38569,6 +38505,21 @@
       "tweet_id": "2091867494042538308",
       "type": "url",
       "value": "http://github.com/cqasdgqa-code/"
+    },
+    "github.com/dcm1-6626": {
+      "confidence": 0.9,
+      "date": "2026-08-07 10:02:00",
+      "enriched_at": "2026-09-01T06:40:04Z",
+      "family": "Braodo",
+      "suggested_tags": [
+        "stealer",
+        "infostealer"
+      ],
+      "summary": "Braodo Stealer delivered via RAR archive; downloads payload and Python libraries from GitHub repositories dcm1-6626 and dm1-21726.",
+      "threat_type": "malware",
+      "tweet_id": "2085667850132558196",
+      "type": "url",
+      "value": "http://github.com/dcm1-6626"
     },
     "github.com/dm1-21726": {
       "confidence": 0.85,
@@ -43211,6 +43162,20 @@
       "type": "domain",
       "value": "inquisitive-teal-omezr4ob.edgeone.dev"
     },
+    "inspirationalframedpoems.com": {
+      "confidence": 0.93,
+      "date": "2026-09-01 03:07:52",
+      "enriched_at": "2026-09-01T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing email spoofing QuoteWizard brand sent from inspirationalframedpoems.com despite passing DKIM/DMARC; links to separate malicious domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2094623244238434411",
+      "type": "domain",
+      "value": "inspirationalframedpoems.com"
+    },
     "instagram-accounts-login.duckdns.org": {
       "confidence": 0.97,
       "date": "2026-08-31 07:01:21",
@@ -43224,21 +43189,6 @@
       "tweet_id": "2094319616843538480",
       "type": "domain",
       "value": "instagram-accounts-login.duckdns.org"
-    },
-    "instgram-account-ginxl9n.netlify.app": {
-      "confidence": 0.88,
-      "date": "2026-08-02 01:01:00",
-      "enriched_at": "2026-08-02T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing/scam page impersonating Instagram account recovery hosted on Netlify (instgram-account-ginxl9n.netlify.app), confirmed malicious by scanmalware.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2083719845783237113",
-      "type": "domain",
-      "value": "instgram-account-ginxl9n.netlify.app"
     },
     "instruments.piercemusic.com": {
       "confidence": 0.88,
@@ -47923,20 +47873,6 @@
       "type": "domain",
       "value": "lun528do541.live"
     },
-    "lynx-trading.org": {
-      "confidence": 0.85,
-      "date": "2026-08-02 02:58:00",
-      "enriched_at": "2026-08-02T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Unregulated high-risk trading platforms lynx-ai.pro and lynx-trading.org flagged as investment scams with multiple review-site warnings.",
-      "threat_type": "scam",
-      "tweet_id": "2083749221908303908",
-      "type": "domain",
-      "value": "lynx-trading.org"
-    },
     "lzsifuiseurtt.eu.cc": {
       "confidence": 0.85,
       "date": "2026-08-03 12:46:00",
@@ -48482,6 +48418,20 @@
       "tweet_id": "2086592966127177859",
       "type": "domain",
       "value": "maintaining-drawings-rand-porter.trycloudflare.com"
+    },
+    "malahideproperty.com": {
+      "confidence": 0.95,
+      "date": "2026-09-01 03:07:35",
+      "enriched_at": "2026-09-01T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing email mimicking cloud-renewal notice requests payment details; sender malahideproperty.com redirects victims to revivesourhearts.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2094623174281535884",
+      "type": "domain",
+      "value": "malahideproperty.com"
     },
     "malfeasantboogie.com": {
       "confidence": 0.92,
@@ -49077,36 +49027,6 @@
       "tweet_id": "2087154633047446000",
       "type": "domain",
       "value": "mfapasskeysetup.com"
-    },
-    "mg-euwqnasnd.com": {
-      "confidence": 0.95,
-      "date": "2026-08-02 02:46:00",
-      "enriched_at": "2026-08-02T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing page impersonating MUFG (Mitsubishi UFJ Bank) hosted at mg-euwqnasnd.com (AS138995 Antbox Networks), targeting Japanese banking credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2083746267960840662",
-      "type": "domain",
-      "value": "mg-euwqnasnd.com"
-    },
-    "mg-euwqnasnd.com/pc_0010021312/sp_001239u1923/login/loginusername": {
-      "confidence": 0.95,
-      "date": "2026-08-02 02:46:00",
-      "enriched_at": "2026-08-02T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing page impersonating MUFG (Mitsubishi UFJ Bank) hosted at mg-euwqnasnd.com (AS138995 Antbox Networks), targeting Japanese banking credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2083746267960840662",
-      "type": "url",
-      "value": "https://mg-euwqnasnd.com/pc_0010021312/sp_001239u1923/login/loginUsername"
     },
     "mg-iuwanmsd.com": {
       "confidence": 0.97,
@@ -54878,6 +54798,22 @@
       "type": "domain",
       "value": "pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion"
     },
+    "point-plsidaw.com": {
+      "confidence": 0.85,
+      "date": "2026-09-01 00:31:39",
+      "enriched_at": "2026-09-01T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating the Rakuten Points app distributed via point-plsidaw.com; SHA256 hash provided.",
+      "threat_type": "malware",
+      "tweet_id": "2094583933044392305",
+      "type": "domain",
+      "value": "point-plsidaw.com"
+    },
     "policiacivilmg.com": {
       "confidence": 0.55,
       "date": "2026-08-09 17:12:14",
@@ -57930,6 +57866,20 @@
       "tweet_id": "2088625699493941341",
       "type": "domain",
       "value": "review.casacompliance.info"
+    },
+    "revivesourhearts.com": {
+      "confidence": 0.95,
+      "date": "2026-09-01 03:07:35",
+      "enriched_at": "2026-09-01T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing email mimicking cloud-renewal notice requests payment details; sender malahideproperty.com redirects victims to revivesourhearts.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2094623174281535884",
+      "type": "domain",
+      "value": "revivesourhearts.com"
     },
     "revviewfiles.es": {
       "confidence": 0.9,
@@ -76315,6 +76265,6 @@
       "value": "\u72b6\u614b\u3068\u63a5\u7d9a\u6570\u3068\u5e2f\u57df\u3092json\u5f62\u5f0f\u3067login.trees4sale.net"
     }
   },
-  "generated_at": "2026-09-01T00:40:04Z",
+  "generated_at": "2026-09-01T06:40:04Z",
   "window_days": 30
 }
