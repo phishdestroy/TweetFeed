@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 3212
-; Updated: 2026-09-01T21:00:16Z
+; Entries: 3213
+; Updated: 2026-09-01T22:15:16Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788296416 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788300916 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3764,6 +3764,8 @@ npm-cache.com CNAME .
 *.npm-cache.com CNAME .
 ns1.aidsp.top CNAME .
 *.ns1.aidsp.top CNAME .
+ns1.serverjjtech1.cc CNAME .
+*.ns1.serverjjtech1.cc CNAME .
 ns2.aidsp.top CNAME .
 *.ns2.aidsp.top CNAME .
 ns7y6bxawualjj5rpo5num6syejd7hgaowrndk3r4duxu2iyinzv6hid.onion CNAME .
