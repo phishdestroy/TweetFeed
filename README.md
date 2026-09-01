@@ -47,7 +47,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-09-01 14:15:17 (UTC)</th>
+        <th colspan=4>2026-09-01 14:30:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -180,8 +180,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 12 | 132 | 3755 | 52608 |
-| **:globe_with_meridians: Domains** | 12 | 123 | 3305 | 42087 |
+| **:link: URLs** | 13 | 133 | 3756 | 52609 |
+| **:globe_with_meridians: Domains** | 13 | 124 | 3306 | 42088 |
 | **:triangular_flag_on_post: IPs** | 3 | 22 | 643 | 8936 |
 | **:1234: SHA256** | 2 | 9 | 381 | 2726 |
 | **:1234: MD5** | 0 | 5 | 203 | 2434 |
@@ -197,11 +197,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 27 | 231 | 4418 | 40298 |
+| **#phishing** | 29 | 233 | 4420 | 40300 |
 | **#Kimsuky** | 0 | 4 | 90 | 13244 |
 | **#DPRK** | 0 | 0 | 82 | 11647 |
 | **#C2** | 0 | 4 | 150 | 7990 |
-| **#scam** | 0 | 4 | 22 | 5332 |
+| **#scam** | 2 | 6 | 24 | 5334 |
 | **#malware** | 6 | 47 | 423 | 2741 |
 | **#CobaltStrike** | 0 | 4 | 11 | 1825 |
 | **#APT** | 0 | 8 | 197 | 1709 |
@@ -227,7 +227,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->93<!-- TAG_COUNT_END --> tag
 | **#3** | [phishunt_io](https://x.com/phishunt_io) | 6 |
 | **#4** | [PhishStats](https://x.com/PhishStats) | 3 |
 | **#5** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#6** | [-](https://x.com/-) | 0 |
+| **#6** | [Coolcarlos17](https://x.com/Coolcarlos17) | 2 |
 | **#7** | [-](https://x.com/-) | 0 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |

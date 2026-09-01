@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 3201
-; Updated: 2026-09-01T12:30:17Z
+; Entries: 3202
+; Updated: 2026-09-01T14:30:20Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788265817 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788273020 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -4626,6 +4626,8 @@ siskolarlaberke.xyz CNAME .
 *.siskolarlaberke.xyz CNAME .
 sistematroll.net CNAME .
 *.sistematroll.net CNAME .
+site-havan.com CNAME .
+*.site-havan.com CNAME .
 site-oficial-havan.online CNAME .
 *.site-oficial-havan.online CNAME .
 sivri.ezpizi.click CNAME .
