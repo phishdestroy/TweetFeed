@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 3209
-; Updated: 2026-09-01T15:15:16Z
+; Entries: 3210
+; Updated: 2026-09-01T17:15:16Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788275716 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788282916 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1280,6 +1280,8 @@ clubdenut.club CNAME .
 *.clubdenut.club CNAME .
 clwzlysc.com CNAME .
 *.clwzlysc.com CNAME .
+cm.instagram-g.com.cn CNAME .
+*.cm.instagram-g.com.cn CNAME .
 cmw-baidu260804.www01490253dd.com CNAME .
 *.cmw-baidu260804.www01490253dd.com CNAME .
 cn-telegram-web.com.cn CNAME .
