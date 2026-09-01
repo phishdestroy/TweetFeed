@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 3191
-; Updated: 2026-09-01T00:00:21Z
+; Entries: 3192
+; Updated: 2026-09-01T00:45:13Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788220821 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788223513 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -4006,6 +4006,8 @@ plugandpwn.com CNAME .
 *.plugandpwn.com CNAME .
 pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion CNAME .
 *.pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion CNAME .
+point-plsidaw.com CNAME .
+*.point-plsidaw.com CNAME .
 policiacivilmg.com CNAME .
 *.policiacivilmg.com CNAME .
 policycompliancereview.com CNAME .
