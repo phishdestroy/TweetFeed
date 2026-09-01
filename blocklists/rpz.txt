@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 3202
-; Updated: 2026-09-01T14:30:20Z
+; Entries: 3207
+; Updated: 2026-09-01T14:45:17Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788273020 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788273917 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1126,6 +1126,8 @@ cas-edu.com CNAME .
 *.cas-edu.com CNAME .
 cas-edu.org CNAME .
 *.cas-edu.org CNAME .
+casinovirtualexperience.info CNAME .
+*.casinovirtualexperience.info CNAME .
 castlamp.com CNAME .
 *.castlamp.com CNAME .
 casualk.com CNAME .
@@ -2764,6 +2766,10 @@ jebwpgkoaiee.top CNAME .
 *.jebwpgkoaiee.top CNAME .
 jeddahshipchandler.com CNAME .
 *.jeddahshipchandler.com CNAME .
+jeffersongraphicsllc.com CNAME .
+*.jeffersongraphicsllc.com CNAME .
+jessicaleeinc.com CNAME .
+*.jessicaleeinc.com CNAME .
 jfcg.posmasters.lk CNAME .
 *.jfcg.posmasters.lk CNAME .
 jgaria.biz CNAME .
@@ -3754,6 +3760,8 @@ ns2.aidsp.top CNAME .
 *.ns2.aidsp.top CNAME .
 ns7y6bxawualjj5rpo5num6syejd7hgaowrndk3r4duxu2iyinzv6hid.onion CNAME .
 *.ns7y6bxawualjj5rpo5num6syejd7hgaowrndk3r4duxu2iyinzv6hid.onion CNAME .
+nsbpay.com CNAME .
+*.nsbpay.com CNAME .
 nsfhw.tech CNAME .
 *.nsfhw.tech CNAME .
 ntalospro.gr CNAME .
@@ -4622,6 +4630,8 @@ siege-close.com CNAME .
 *.siege-close.com CNAME .
 sikildimhepinizden.click CNAME .
 *.sikildimhepinizden.click CNAME .
+silvaveergygroup.com CNAME .
+*.silvaveergygroup.com CNAME .
 siskolarlaberke.xyz CNAME .
 *.siskolarlaberke.xyz CNAME .
 sistematroll.net CNAME .
