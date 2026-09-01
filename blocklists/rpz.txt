@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 3207
-; Updated: 2026-09-01T14:45:17Z
+; Entries: 3209
+; Updated: 2026-09-01T15:15:16Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788273917 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788275716 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -476,6 +476,8 @@ acms555.club CNAME .
 *.acms555.club CNAME .
 acnms.dmdoc.dynv6.net CNAME .
 *.acnms.dmdoc.dynv6.net CNAME .
+acorlns.shop CNAME .
+*.acorlns.shop CNAME .
 activeretirementrelocation.com CNAME .
 *.activeretirementrelocation.com CNAME .
 acuf444.club CNAME .
@@ -1126,6 +1128,8 @@ cas-edu.com CNAME .
 *.cas-edu.com CNAME .
 cas-edu.org CNAME .
 *.cas-edu.org CNAME .
+casaiutilidade.shop CNAME .
+*.casaiutilidade.shop CNAME .
 casinovirtualexperience.info CNAME .
 *.casinovirtualexperience.info CNAME .
 castlamp.com CNAME .
