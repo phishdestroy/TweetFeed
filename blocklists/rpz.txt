@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 3192
-; Updated: 2026-09-01T00:45:13Z
+; Entries: 3196
+; Updated: 2026-09-01T03:15:15Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788223513 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788232515 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1008,6 +1008,8 @@ btctreasuriescompliance.net CNAME .
 *.btctreasuriescompliance.net CNAME .
 btczio.com CNAME .
 *.btczio.com CNAME .
+budgetweddingplanner.info CNAME .
+*.budgetweddingplanner.info CNAME .
 build.rs CNAME .
 *.build.rs CNAME .
 built.3jkg8d.com CNAME .
@@ -2634,6 +2636,8 @@ inlogsysmx.com.mx CNAME .
 *.inlogsysmx.com.mx CNAME .
 inquisitive-teal-omezr4ob.edgeone.dev CNAME .
 *.inquisitive-teal-omezr4ob.edgeone.dev CNAME .
+inspirationalframedpoems.com CNAME .
+*.inspirationalframedpoems.com CNAME .
 instagram-accounts-login.duckdns.org CNAME .
 *.instagram-accounts-login.duckdns.org CNAME .
 instgram-account-ginxl9n.netlify.app CNAME .
@@ -3234,6 +3238,8 @@ mainmenuflo.ydns.eu CNAME .
 *.mainmenuflo.ydns.eu CNAME .
 maintaining-drawings-rand-porter.trycloudflare.com CNAME .
 *.maintaining-drawings-rand-porter.trycloudflare.com CNAME .
+malahideproperty.com CNAME .
+*.malahideproperty.com CNAME .
 malfeasantboogie.com CNAME .
 *.malfeasantboogie.com CNAME .
 manalyzer.org CNAME .
@@ -4350,6 +4356,8 @@ reverse-shell.sh CNAME .
 *.reverse-shell.sh CNAME .
 review.casacompliance.info CNAME .
 *.review.casacompliance.info CNAME .
+revivesourhearts.com CNAME .
+*.revivesourhearts.com CNAME .
 revviewfiles.es CNAME .
 *.revviewfiles.es CNAME .
 reward.damaicn.com CNAME .
