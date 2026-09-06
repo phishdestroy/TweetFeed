@@ -1,5 +1,5 @@
 {
-  "count": 4063,
+  "count": 4040,
   "dead_tweets": {
     "2083405583823126654": {
       "attempts": 2,
@@ -1840,22 +1840,6 @@
       "tweet_id": "2085760937739374794",
       "type": "domain",
       "value": "105.205.92.host.secureserver.net"
-    },
-    "107.128.45.122": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "url",
-      "value": "http://107.128.45.122"
     },
     "107.150.32.154": {
       "confidence": 0.95,
@@ -5015,22 +4999,6 @@
       "type": "ip",
       "value": "185.177.72.9"
     },
-    "185.178.208.153": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "url",
-      "value": "http://185.178.208.153"
-    },
     "185.199.199.136": {
       "confidence": 0.72,
       "date": "2026-08-15 17:32:00",
@@ -5271,6 +5239,21 @@
       "tweet_id": "2091571392420467110",
       "type": "ip",
       "value": "192.185.216.47"
+    },
+    "192.238.160.133": {
+      "confidence": 0.92,
+      "date": "2026-08-07 14:25:00",
+      "enriched_at": "2026-09-06T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "banker"
+      ],
+      "summary": "Rakuten Bank (\u697d\u5929\u9280\u884c) phishing pages on two lookalike domains, hosted on 192.238.160.133 (AS138995, JP), targeting banking credentials.",
+      "threat_type": "phishing",
+      "tweet_id": "2085734032415854882",
+      "type": "url",
+      "value": "http://192.238.160.133"
     },
     "192.252.178.228": {
       "confidence": 0.82,
@@ -5522,22 +5505,6 @@
       "type": "ip",
       "value": "193.32.234.161"
     },
-    "193.34.212.132": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "url",
-      "value": "http://193.34.212.132"
-    },
     "1932a80706489d55ae779ad1edfe0d0beb0239d0fc7bb10f99f89bc804ad3407": {
       "confidence": 0.83,
       "date": "2026-08-09 19:59:11",
@@ -5668,38 +5635,6 @@
       "tweet_id": "2089400926507274706",
       "type": "ip",
       "value": "194.87.31.229"
-    },
-    "195.140.213.114": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "url",
-      "value": "http://195.140.213.114"
-    },
-    "195.140.213.115": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "url",
-      "value": "http://195.140.213.115"
     },
     "195.210.46.27": {
       "confidence": 0.97,
@@ -7115,22 +7050,6 @@
       "type": "url",
       "value": "https://217.60.195.113/sh"
     },
-    "217.60.195.197": {
-      "confidence": 0.8,
-      "date": "2026-08-07 06:32:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": "quasar",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Quasar RAT C2 at 217.60.195.197 using AutoIt to load AHK config, beaconing on ports 56001 and 4782.",
-      "threat_type": "c2",
-      "tweet_id": "2085614979714068925",
-      "type": "ip",
-      "value": "217.60.195.197"
-    },
     "217.60.36.94": {
       "confidence": 0.72,
       "date": "2026-08-14 15:58:02",
@@ -7258,22 +7177,6 @@
       "tweet_id": "2091790507085373910",
       "type": "sha256",
       "value": "22d1b5576ccb3c425a94e405076a0665efa0dd2d59325bfb561b6b16969e267f"
-    },
-    "23.234.75.84": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "url",
-      "value": "http://23.234.75.84"
     },
     "23.254.165.112": {
       "confidence": 0.95,
@@ -8093,38 +7996,6 @@
       "type": "url",
       "value": "http://31.57.38.141:3333"
     },
-    "31.7.56.52": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "url",
-      "value": "http://31.7.56.52"
-    },
-    "31.7.56.61": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "url",
-      "value": "http://31.7.56.61"
-    },
     "31.76.87.37": {
       "confidence": 0.92,
       "date": "2026-08-07 12:45:00",
@@ -8604,22 +8475,6 @@
       "tweet_id": "2090029896609452372",
       "type": "ip",
       "value": "38.134.148.214"
-    },
-    "38.42.59.171": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "url",
-      "value": "http://38.42.59.171"
     },
     "38.55.199.55": {
       "confidence": 0.72,
@@ -10111,22 +9966,6 @@
       "tweet_id": "2087080593901191362",
       "type": "url",
       "value": "http://47.109.196.181"
-    },
-    "47.218.103.146": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "url",
-      "value": "http://47.218.103.146"
     },
     "47.236.136.61": {
       "confidence": 0.92,
@@ -13092,22 +12931,6 @@
       "tweet_id": "2092246118109499772",
       "type": "md5",
       "value": "75cf5b7282924207d505260a2ac1d496"
-    },
-    "76.103.148.180": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "url",
-      "value": "http://76.103.148.180"
     },
     "7640450a-b.b-cdn.net": {
       "confidence": 0.98,
@@ -16260,22 +16083,6 @@
       "tweet_id": "2085682189715546454",
       "type": "sha256",
       "value": "adb8347dfa1b1df1ca2211fe4d7e82f27ced939f1bf3d52548e52bc9e23fc52c"
-    },
-    "addssopasskey.com": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "domain",
-      "value": "addssopasskey.com"
     },
     "adl-irn.xyz": {
       "confidence": 0.95,
@@ -23996,22 +23803,6 @@
       "type": "domain",
       "value": "cqylt.net"
     },
-    "createssopasskey.com": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "domain",
-      "value": "createssopasskey.com"
-    },
     "crimson-orbit-tdrnyc2s.expresshost.cloud": {
       "confidence": 0.85,
       "date": "2026-08-25 04:39:07",
@@ -28572,6 +28363,22 @@
       "tweet_id": "2089321638420439515",
       "type": "domain",
       "value": "faceb00k-br.blogspot.com"
+    },
+    "facebook-task-one.vercel.app": {
+      "confidence": 0.8,
+      "date": "2026-09-06 01:52:38",
+      "enriched_at": "2026-09-06T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Facebook-themed scam site hosted on Vercel (facebook-task-one.vercel.app), confirmed scam by web malware scanner.",
+      "threat_type": "scam",
+      "tweet_id": "2096416251060887828",
+      "type": "domain",
+      "value": "facebook-task-one.vercel.app"
     },
     "facebook.affixlink.app": {
       "confidence": 0.95,
@@ -34089,22 +33896,6 @@
       "type": "domain",
       "value": "https.shlianban.com"
     },
-    "hubpasskey.com": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "domain",
-      "value": "hubpasskey.com"
-    },
     "huiousdt.com": {
       "confidence": 0.9,
       "date": "2026-08-14 13:50:15",
@@ -34431,22 +34222,6 @@
       "tweet_id": "2087237136533553655",
       "type": "domain",
       "value": "idiotection.store"
-    },
-    "idokta.com": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "domain",
-      "value": "idokta.com"
     },
     "ifconfig.me/system": {
       "confidence": 0.65,
@@ -36625,22 +36400,6 @@
       "tweet_id": "2086583761274012009",
       "type": "domain",
       "value": "keskn5brdaclsyrz.com"
-    },
-    "keysyncos.com": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "domain",
-      "value": "keysyncos.com"
     },
     "kgyyv7z6bdmofrf2.wolkamo.com": {
       "confidence": 0.85,
@@ -41383,22 +41142,6 @@
       "type": "domain",
       "value": "mylovemarry.com"
     },
-    "myoktasso.com": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "domain",
-      "value": "myoktasso.com"
-    },
     "myrtler.biz": {
       "confidence": 0.92,
       "date": "2026-08-10 00:17:02",
@@ -41956,34 +41699,6 @@
       "tweet_id": "2086635708375028154",
       "type": "domain",
       "value": "nittw.com"
-    },
-    "niuaniu.top": {
-      "confidence": 0.9,
-      "date": "2026-08-07 05:11:00",
-      "enriched_at": "2026-08-07T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating a V-points loyalty program, hosted at niuaniu.top/login.",
-      "threat_type": "phishing",
-      "tweet_id": "2085594781691048396",
-      "type": "domain",
-      "value": "niuaniu.top"
-    },
-    "niuaniu.top/login": {
-      "confidence": 0.9,
-      "date": "2026-08-07 05:11:00",
-      "enriched_at": "2026-08-07T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating a V-points loyalty program, hosted at niuaniu.top/login.",
-      "threat_type": "phishing",
-      "tweet_id": "2085594781691048396",
-      "type": "url",
-      "value": "https://niuaniu.top/login"
     },
     "niuousdc.com": {
       "confidence": 0.9,
@@ -43221,22 +42936,6 @@
       "type": "domain",
       "value": "osfcsl.com"
     },
-    "oskeysync.com": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "domain",
-      "value": "oskeysync.com"
-    },
     "osryl.com": {
       "confidence": 0.85,
       "date": "2026-08-10 02:08:15",
@@ -43628,38 +43327,6 @@
       "tweet_id": "2091531911449493728",
       "type": "domain",
       "value": "pas.coolnaruto.shop"
-    },
-    "passkeyhelpdesk.com": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "domain",
-      "value": "passkeyhelpdesk.com"
-    },
-    "passkeyms.com": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "domain",
-      "value": "passkeyms.com"
     },
     "patracorps.com": {
       "confidence": 0.95,
@@ -44440,22 +44107,6 @@
       "tweet_id": "2086592966127177859",
       "type": "domain",
       "value": "portalm1hrs.xyz"
-    },
-    "portalpasskey.com": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "domain",
-      "value": "portalpasskey.com"
     },
     "portalrandevuwsynxhak4n.duckdns.org": {
       "confidence": 0.98,
@@ -45759,6 +45410,66 @@
       "tweet_id": "2091787139042390399",
       "type": "domain",
       "value": "qzqy688.club"
+    },
+    "ra-kusdoawds.com": {
+      "confidence": 0.92,
+      "date": "2026-08-07 14:25:00",
+      "enriched_at": "2026-09-06T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "banker"
+      ],
+      "summary": "Rakuten Bank (\u697d\u5929\u9280\u884c) phishing pages on two lookalike domains, hosted on 192.238.160.133 (AS138995, JP), targeting banking credentials.",
+      "threat_type": "phishing",
+      "tweet_id": "2085734032415854882",
+      "type": "domain",
+      "value": "ra-kusdoawds.com"
+    },
+    "ra-kusdoawds.com/ms/main/rbs/loginusername": {
+      "confidence": 0.92,
+      "date": "2026-08-07 14:25:00",
+      "enriched_at": "2026-09-06T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "banker"
+      ],
+      "summary": "Rakuten Bank (\u697d\u5929\u9280\u884c) phishing pages on two lookalike domains, hosted on 192.238.160.133 (AS138995, JP), targeting banking credentials.",
+      "threat_type": "phishing",
+      "tweet_id": "2085734032415854882",
+      "type": "url",
+      "value": "http://ra-kusdoawds.com/MS/main/RBS/loginUsername"
+    },
+    "ra-posadwad.com": {
+      "confidence": 0.92,
+      "date": "2026-08-07 14:25:00",
+      "enriched_at": "2026-09-06T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "banker"
+      ],
+      "summary": "Rakuten Bank (\u697d\u5929\u9280\u884c) phishing pages on two lookalike domains, hosted on 192.238.160.133 (AS138995, JP), targeting banking credentials.",
+      "threat_type": "phishing",
+      "tweet_id": "2085734032415854882",
+      "type": "domain",
+      "value": "ra-posadwad.com"
+    },
+    "ra-posadwad.com/ms/main/rbs/loginusername": {
+      "confidence": 0.92,
+      "date": "2026-08-07 14:25:00",
+      "enriched_at": "2026-09-06T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "banker"
+      ],
+      "summary": "Rakuten Bank (\u697d\u5929\u9280\u884c) phishing pages on two lookalike domains, hosted on 192.238.160.133 (AS138995, JP), targeting banking credentials.",
+      "threat_type": "phishing",
+      "tweet_id": "2085734032415854882",
+      "type": "url",
+      "value": "http://ra-posadwad.com/MS/main/RBS/loginUsername"
     },
     "ra.hbjbkf.com": {
       "confidence": 0.9,
@@ -48342,38 +48053,6 @@
       "type": "domain",
       "value": "settingwallets.com"
     },
-    "setupsso.com": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "domain",
-      "value": "setupsso.com"
-    },
-    "setupssopasskey.com": {
-      "confidence": 0.95,
-      "date": "2026-08-07 06:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm",
-        "scam"
-      ],
-      "summary": "UNC6671 AiTM phishing campaign targets financial services and M365/Okta using passkey-themed domains, residential proxies, and automated SaaS data exfiltration.",
-      "threat_type": "phishing",
-      "tweet_id": "2085615388575101396",
-      "type": "domain",
-      "value": "setupssopasskey.com"
-    },
     "sevdlyrklerdebyyzsrgnlr.com": {
       "confidence": 0.98,
       "date": "2026-08-09 22:41:50",
@@ -48450,34 +48129,6 @@
       "tweet_id": "2092170724618449280",
       "type": "domain",
       "value": "sferyds.vpcap.xyz"
-    },
-    "sffosjcux.top": {
-      "confidence": 0.9,
-      "date": "2026-08-07 03:01:00",
-      "enriched_at": "2026-08-07T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Japan's Ministry of Internal Affairs Statistics Bureau (\u7dcf\u52d9\u7701\u7d71\u8a08\u5c40), hosted at sffosjcux.top/jp.",
-      "threat_type": "phishing",
-      "tweet_id": "2085562026773078392",
-      "type": "domain",
-      "value": "sffosjcux.top"
-    },
-    "sffosjcux.top/jp": {
-      "confidence": 0.9,
-      "date": "2026-08-07 03:01:00",
-      "enriched_at": "2026-08-07T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Japan's Ministry of Internal Affairs Statistics Bureau (\u7dcf\u52d9\u7701\u7d71\u8a08\u5c40), hosted at sffosjcux.top/jp.",
-      "threat_type": "phishing",
-      "tweet_id": "2085562026773078392",
-      "type": "url",
-      "value": "https://sffosjcux.top/jp"
     },
     "sfjalsflasfaksflkasflkasfljafkasfjasl.sbs": {
       "confidence": 0.98,
@@ -51235,21 +50886,6 @@
       "tweet_id": "2091531911449493728",
       "type": "domain",
       "value": "talk.narutosasuke.shop"
-    },
-    "tame-yellow-8ck2chxh.edgeone.dev": {
-      "confidence": 0.75,
-      "date": "2026-08-07 02:22:00",
-      "enriched_at": "2026-08-07T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "phishing"
-      ],
-      "summary": "Confirmed scam site hosted on tame-yellow-8ck2chxh.edgeone.dev, flagged by automated malware scan.",
-      "threat_type": "scam",
-      "tweet_id": "2085552206674031079",
-      "type": "domain",
-      "value": "tame-yellow-8ck2chxh.edgeone.dev"
     },
     "tanfanmansuf.sbs": {
       "confidence": 0.98,
@@ -61269,6 +60905,6 @@
       "value": "zzx.jcd666.vip"
     }
   },
-  "generated_at": "2026-09-06T00:40:04Z",
+  "generated_at": "2026-09-06T06:40:04Z",
   "window_days": 30
 }
