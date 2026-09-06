@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2611
-; Updated: 2026-09-06T14:15:15Z
+; Entries: 2612
+; Updated: 2026-09-06T15:15:15Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788704115 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788707715 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2914,6 +2914,8 @@ mhrsvatandasrandevu.duckdns.org CNAME .
 *.mhrsvatandasrandevu.duckdns.org CNAME .
 microcontrol-gucpbrefazgue6ad.z02.azurefd.net CNAME .
 *.microcontrol-gucpbrefazgue6ad.z02.azurefd.net CNAME .
+microsoft-alpha.vercel.app CNAME .
+*.microsoft-alpha.vercel.app CNAME .
 microsoftdesk.vintagefabrcations.com CNAME .
 *.microsoftdesk.vintagefabrcations.com CNAME .
 microsoftdocusign.com CNAME .
