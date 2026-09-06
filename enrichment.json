@@ -1,5 +1,5 @@
 {
-  "count": 4040,
+  "count": 3988,
   "dead_tweets": {
     "2083405583823126654": {
       "attempts": 2,
@@ -514,22 +514,6 @@
       "type": "sha256",
       "value": "05cce219ba84d0e650fb310b42a1734c86fe8a51b0cee199c645fb9e1c59f5d0"
     },
-    "0614cca495539cfe5c281a638060f1d9c990b6be0eda7c3bdbb363bd4f18206c": {
-      "confidence": 0.85,
-      "date": "2026-08-07 10:59:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Fake Google Meets MSI from drvupdates.com uses DLL sideloading with signed K7 binary; second-stage SpectraEmu.exe beacons to 31.57.38.141:3333.",
-      "threat_type": "malware",
-      "tweet_id": "2085682189715546454",
-      "type": "sha256",
-      "value": "0614cca495539cfe5c281a638060f1d9c990b6be0eda7c3bdbb363bd4f18206c"
-    },
     "06b32d2c3ed5de1b8eda0665b5758272": {
       "confidence": 0.75,
       "date": "2026-08-24 14:01:25",
@@ -893,22 +877,6 @@
       "tweet_id": "2089391922880413839",
       "type": "sha256",
       "value": "0f530c413a9dbfb63bec51dc3e0bf1131b86730aa81510c911dd2a53959c3b66"
-    },
-    "0f94b72741ecedb2ff640497d0f3cf10fcbc851ccf7c93e9b17f8f6d4475ca54": {
-      "confidence": 0.82,
-      "date": "2026-08-07 08:42:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "CURSE RAT C2 network dashboard identified at 37.60.250.63:3000 with one associated sample hash.",
-      "threat_type": "c2",
-      "tweet_id": "2085647634690179245",
-      "type": "sha256",
-      "value": "0f94b72741ecedb2ff640497d0f3cf10fcbc851ccf7c93e9b17f8f6d4475ca54"
     },
     "0fb111752cf34a50b16de3ec1fb36c419a621f74e1ed1aee2decca2609dd6ef4": {
       "confidence": 0.8,
@@ -3106,21 +3074,6 @@
       "type": "url",
       "value": "http://141.11.192.223:8800"
     },
-    "141079d8a6328c9764c1c74934fb6c9d5c9db12cb558e2da827dc45da7dd45f5": {
-      "confidence": 0.75,
-      "date": "2026-08-07 12:26:00",
-      "enriched_at": "2026-08-07T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "malware"
-      ],
-      "summary": "Open directory on 43.156.228.149:8888 hosting malware; SHA-256 hash shared for threat hunting.",
-      "threat_type": "malware",
-      "tweet_id": "2085704012163321903",
-      "type": "sha256",
-      "value": "141079d8a6328c9764c1c74934fb6c9d5c9db12cb558e2da827dc45da7dd45f5"
-    },
     "143.109.37.227": {
       "confidence": 0.82,
       "date": "2026-08-16 10:56:56",
@@ -3135,36 +3088,6 @@
       "tweet_id": "2088943085762060726",
       "type": "ip",
       "value": "143.109.37.227"
-    },
-    "143.110.195.12": {
-      "confidence": 0.6,
-      "date": "2026-08-07 08:58:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat"
-      ],
-      "summary": "Multiple IPs on port 3000 and domain duyai.app identified as C2 panel infrastructure, context suggests RAT campaign.",
-      "threat_type": "c2",
-      "tweet_id": "2085651901056438330",
-      "type": "ip",
-      "value": "143.110.195.12"
-    },
-    "143.110.195.12:3000": {
-      "confidence": 0.6,
-      "date": "2026-08-07 08:58:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat"
-      ],
-      "summary": "Multiple IPs on port 3000 and domain duyai.app identified as C2 panel infrastructure, context suggests RAT campaign.",
-      "threat_type": "c2",
-      "tweet_id": "2085651901056438330",
-      "type": "url",
-      "value": "http://143.110.195.12:3000"
     },
     "143.246.195.33": {
       "confidence": 0.8,
@@ -3244,36 +3167,6 @@
       "type": "url",
       "value": "http://147.182.241.212"
     },
-    "148.224.62.74": {
-      "confidence": 0.6,
-      "date": "2026-08-07 08:58:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat"
-      ],
-      "summary": "Multiple IPs on port 3000 and domain duyai.app identified as C2 panel infrastructure, context suggests RAT campaign.",
-      "threat_type": "c2",
-      "tweet_id": "2085651901056438330",
-      "type": "ip",
-      "value": "148.224.62.74"
-    },
-    "148.224.62.74:3000": {
-      "confidence": 0.6,
-      "date": "2026-08-07 08:58:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat"
-      ],
-      "summary": "Multiple IPs on port 3000 and domain duyai.app identified as C2 panel infrastructure, context suggests RAT campaign.",
-      "threat_type": "c2",
-      "tweet_id": "2085651901056438330",
-      "type": "url",
-      "value": "http://148.224.62.74:3000"
-    },
     "149.72.126.143": {
       "confidence": 0.92,
       "date": "2026-08-12 03:58:09",
@@ -3335,36 +3228,6 @@
       "tweet_id": "2088360603211452514",
       "type": "ip",
       "value": "15.204.108.68"
-    },
-    "150.251.146.213": {
-      "confidence": 0.6,
-      "date": "2026-08-07 08:58:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat"
-      ],
-      "summary": "Multiple IPs on port 3000 and domain duyai.app identified as C2 panel infrastructure, context suggests RAT campaign.",
-      "threat_type": "c2",
-      "tweet_id": "2085651901056438330",
-      "type": "ip",
-      "value": "150.251.146.213"
-    },
-    "150.251.146.213:3000": {
-      "confidence": 0.6,
-      "date": "2026-08-07 08:58:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat"
-      ],
-      "summary": "Multiple IPs on port 3000 and domain duyai.app identified as C2 panel infrastructure, context suggests RAT campaign.",
-      "threat_type": "c2",
-      "tweet_id": "2085651901056438330",
-      "type": "url",
-      "value": "http://150.251.146.213:3000"
     },
     "151.242.30.142": {
       "confidence": 0.53,
@@ -3812,36 +3675,6 @@
       "tweet_id": "2092554043709329808",
       "type": "url",
       "value": "http://165.154.241.48"
-    },
-    "167.172.177.118": {
-      "confidence": 0.6,
-      "date": "2026-08-07 08:58:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat"
-      ],
-      "summary": "Multiple IPs on port 3000 and domain duyai.app identified as C2 panel infrastructure, context suggests RAT campaign.",
-      "threat_type": "c2",
-      "tweet_id": "2085651901056438330",
-      "type": "ip",
-      "value": "167.172.177.118"
-    },
-    "167.172.177.118:3000": {
-      "confidence": 0.6,
-      "date": "2026-08-07 08:58:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat"
-      ],
-      "summary": "Multiple IPs on port 3000 and domain duyai.app identified as C2 panel infrastructure, context suggests RAT campaign.",
-      "threat_type": "c2",
-      "tweet_id": "2085651901056438330",
-      "type": "url",
-      "value": "http://167.172.177.118:3000"
     },
     "167.71.169.239": {
       "confidence": 0.95,
@@ -4515,21 +4348,6 @@
       "type": "domain",
       "value": "182.24612-yara.click"
     },
-    "182.92.180.194": {
-      "confidence": 0.8,
-      "date": "2026-08-07 07:14:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat"
-      ],
-      "summary": "Turbo RAT control panel identified at 182.92.180.194:8080.",
-      "threat_type": "c2",
-      "tweet_id": "2085625624534941911",
-      "type": "ip",
-      "value": "182.92.180.194"
-    },
     "1822-mehares.com": {
       "confidence": 0.98,
       "date": "2026-08-09 23:18:24",
@@ -5179,22 +4997,6 @@
       "tweet_id": "2092147550476533878",
       "type": "ip",
       "value": "188.40.225.137"
-    },
-    "192.109.11.213": {
-      "confidence": 0.75,
-      "date": "2026-08-07 10:44:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "android",
-        "rat"
-      ],
-      "summary": "APK Studio Pro tool identified as BTMOB C2 server at 192.109.11.213.",
-      "threat_type": "c2",
-      "tweet_id": "2085678499453641060",
-      "type": "url",
-      "value": "http://192.109.11.213"
     },
     "192.159.99.164": {
       "confidence": 0.62,
@@ -6306,6 +6108,20 @@
       "type": "ip",
       "value": "200.58.111.123"
     },
+    "200.76.161.229": {
+      "confidence": 0.95,
+      "date": "2026-09-06 12:01:26",
+      "enriched_at": "2026-09-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "BBVA bank phishing site hosted in Mexico via Alestra AS11172 with GoDaddy TLS cert targeting Spanish-speaking users.",
+      "threat_type": "phishing",
+      "tweet_id": "2096569461377482987",
+      "type": "ip",
+      "value": "200.76.161.229"
+    },
     "202.141.236.42": {
       "confidence": 0.9,
       "date": "2026-08-15 04:24:41",
@@ -7147,22 +6963,6 @@
       "type": "md5",
       "value": "221ef85ff6cbef2b7f1893e03df582e9"
     },
-    "22c9422358273b2c9ce7c6641f925e34ba1197efa7363ce8fc1553e105746df3": {
-      "confidence": 0.85,
-      "date": "2026-08-07 11:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Malware uses Spotify playlist name as PowerShell C2 command channel; renaming the playlist pushes new commands to all infected machines.",
-      "threat_type": "c2",
-      "tweet_id": "2085690853280903514",
-      "type": "sha256",
-      "value": "22c9422358273b2c9ce7c6641f925e34ba1197efa7363ce8fc1553e105746df3"
-    },
     "22d1b5576ccb3c425a94e405076a0665efa0dd2d59325bfb561b6b16969e267f": {
       "confidence": 0.82,
       "date": "2026-08-24 07:31:35",
@@ -7964,38 +7764,6 @@
       "type": "domain",
       "value": "3000twt.site"
     },
-    "31.57.38.141": {
-      "confidence": 0.85,
-      "date": "2026-08-07 10:59:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Fake Google Meets MSI from drvupdates.com uses DLL sideloading with signed K7 binary; second-stage SpectraEmu.exe beacons to 31.57.38.141:3333.",
-      "threat_type": "malware",
-      "tweet_id": "2085682189715546454",
-      "type": "ip",
-      "value": "31.57.38.141"
-    },
-    "31.57.38.141:3333": {
-      "confidence": 0.85,
-      "date": "2026-08-07 10:59:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Fake Google Meets MSI from drvupdates.com uses DLL sideloading with signed K7 binary; second-stage SpectraEmu.exe beacons to 31.57.38.141:3333.",
-      "threat_type": "malware",
-      "tweet_id": "2085682189715546454",
-      "type": "url",
-      "value": "http://31.57.38.141:3333"
-    },
     "31.76.87.37": {
       "confidence": 0.92,
       "date": "2026-08-07 12:45:00",
@@ -8027,22 +7795,6 @@
       "tweet_id": "2085708869406273724",
       "type": "url",
       "value": "http://31.76.87.37:8443"
-    },
-    "31.77.156.5": {
-      "confidence": 0.8,
-      "date": "2026-08-07 07:26:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "13a4RAT C2 server at 31.77.156.5:3000 with three associated malware sample hashes.",
-      "threat_type": "c2",
-      "tweet_id": "2085628695214195105",
-      "type": "ip",
-      "value": "31.77.156.5"
     },
     "31.77.227.102": {
       "confidence": 0.92,
@@ -8416,37 +8168,6 @@
       "type": "url",
       "value": "http://37.27.13.155"
     },
-    "37.60.250.63": {
-      "confidence": 0.82,
-      "date": "2026-08-07 08:42:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "CURSE RAT C2 network dashboard identified at 37.60.250.63:3000 with one associated sample hash.",
-      "threat_type": "c2",
-      "tweet_id": "2085647634690179245",
-      "type": "ip",
-      "value": "37.60.250.63"
-    },
-    "37.60.250.63:3000": {
-      "confidence": 0.6,
-      "date": "2026-08-07 08:58:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat"
-      ],
-      "summary": "Multiple IPs on port 3000 and domain duyai.app identified as C2 panel infrastructure, context suggests RAT campaign.",
-      "threat_type": "c2",
-      "tweet_id": "2085651901056438330",
-      "type": "url",
-      "value": "http://37.60.250.63:3000"
-    },
     "374c7a1815373b88dd4723a405d8c7a3": {
       "confidence": 0.7,
       "date": "2026-08-15 14:15:17",
@@ -8506,22 +8227,6 @@
       "tweet_id": "2092181245644198059",
       "type": "sha256",
       "value": "38005607bad6dd05b1cf807b2a0d26713808aa28b98dcec7ba1cb0df335e02f8"
-    },
-    "3818b9eb69fef63380c67dfe64b45b18": {
-      "confidence": 0.85,
-      "date": "2026-08-07 10:02:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": "braodo",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Braodo Stealer distributed via RAR archive disguised as medical X-ray records; downloads payload and Python libraries from GitHub.",
-      "threat_type": "malware",
-      "tweet_id": "2085667850132558196",
-      "type": "md5",
-      "value": "3818b9eb69fef63380c67dfe64b45b18"
     },
     "3828bb23aa9334de9536a6e5bbd01fb8264d4a48f5c41ba519e1127d632ee8b5": {
       "confidence": 0.92,
@@ -9143,21 +8848,6 @@
       "type": "ip",
       "value": "43.155.223.139"
     },
-    "43.156.228.149": {
-      "confidence": 0.75,
-      "date": "2026-08-07 12:26:00",
-      "enriched_at": "2026-08-07T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "malware"
-      ],
-      "summary": "Open directory on 43.156.228.149:8888 hosting malware; SHA-256 hash shared for threat hunting.",
-      "threat_type": "malware",
-      "tweet_id": "2085704012163321903",
-      "type": "ip",
-      "value": "43.156.228.149"
-    },
     "43.156.228.149:443": {
       "confidence": 0.85,
       "date": "2026-08-08 13:16:00",
@@ -9173,21 +8863,6 @@
       "tweet_id": "2086079140696904150",
       "type": "url",
       "value": "http://43.156.228.149:443"
-    },
-    "43.156.228.149:8888": {
-      "confidence": 0.75,
-      "date": "2026-08-07 12:26:00",
-      "enriched_at": "2026-08-07T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "malware"
-      ],
-      "summary": "Open directory on 43.156.228.149:8888 hosting malware; SHA-256 hash shared for threat hunting.",
-      "threat_type": "malware",
-      "tweet_id": "2085704012163321903",
-      "type": "url",
-      "value": "http://43.156.228.149:8888"
     },
     "43.160.253.172": {
       "confidence": 0.95,
@@ -10270,22 +9945,6 @@
       "type": "md5",
       "value": "4af8266ffe2ef42db33c2c6f3f5744c3"
     },
-    "4b4ae799a07bd7bc4b9bbce47fe30055f2257e05043e9c7a8be0d556ef55d718": {
-      "confidence": 0.85,
-      "date": "2026-08-07 11:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Malware uses Spotify playlist name as PowerShell C2 command channel; renaming the playlist pushes new commands to all infected machines.",
-      "threat_type": "c2",
-      "tweet_id": "2085690853280903514",
-      "type": "sha256",
-      "value": "4b4ae799a07bd7bc4b9bbce47fe30055f2257e05043e9c7a8be0d556ef55d718"
-    },
     "4b5c5b08a3562b923847d2fdc909d665feed737c772d0a61c96361fca1aaf853": {
       "confidence": 0.88,
       "date": "2026-08-13 08:19:21",
@@ -10944,22 +10603,6 @@
       "type": "domain",
       "value": "54435623412534265432.org"
     },
-    "54dc7ea54a1317cca0e890a2770630cf7fa6c97813e0cb9d2caa93012b350668": {
-      "confidence": 0.87,
-      "date": "2026-08-07 10:24:00",
-      "enriched_at": "2026-09-04T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "infostealer",
-        "stealer"
-      ],
-      "summary": "Shai-Hulud/Chaindrop self-propagating NPM supply chain worm harvesting developer credentials and cloud secrets via obfuscated Bun JS runtime.",
-      "threat_type": "malware",
-      "tweet_id": "2085673388266369237",
-      "type": "sha256",
-      "value": "54dc7ea54a1317cca0e890a2770630cf7fa6c97813e0cb9d2caa93012b350668"
-    },
     "54s9o2a.duckdns.org": {
       "confidence": 0.95,
       "date": "2026-08-24 21:48:06",
@@ -11004,22 +10647,6 @@
       "tweet_id": "2092092182253465923",
       "type": "md5",
       "value": "553f64001e0e802a9619bd934d791155"
-    },
-    "55565dd4f8070624f2a18e9ddd1ca6a04f46b587a6e0c9e804f60603c0258f82": {
-      "confidence": 0.85,
-      "date": "2026-08-07 11:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Malware uses Spotify playlist name as PowerShell C2 command channel; renaming the playlist pushes new commands to all infected machines.",
-      "threat_type": "c2",
-      "tweet_id": "2085690853280903514",
-      "type": "sha256",
-      "value": "55565dd4f8070624f2a18e9ddd1ca6a04f46b587a6e0c9e804f60603c0258f82"
     },
     "5573597932a8ab9f1e9b78d7a6754ac135f632c4a8d77dc819154f5a0dd9d77a": {
       "confidence": 0.92,
@@ -11476,22 +11103,6 @@
       "tweet_id": "2090360765156818965",
       "type": "sha256",
       "value": "61198155da51b838772eecf5bfaac6cbc4dcc388dccc56658fc28a8e831b34d4"
-    },
-    "61e7b67b3ca5412726f99a469d54c545": {
-      "confidence": 0.7,
-      "date": "2026-08-07 08:11:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "stealer"
-      ],
-      "summary": "Two executables (msedge.exe, SystemSettings.exe) hosted on typosquatted domain us.wind0ws.net impersonating legitimate Windows binaries.",
-      "threat_type": "malware",
-      "tweet_id": "2085640067482091965",
-      "type": "md5",
-      "value": "61e7b67b3ca5412726f99a469d54c545"
     },
     "61xs28l.duckdns.org": {
       "confidence": 0.92,
@@ -12494,22 +12105,6 @@
       "tweet_id": "2085712570372264359",
       "type": "ip",
       "value": "7.2.3.2"
-    },
-    "700a83012a83b14d0f8c9b931b5b0a41e47f89710f6c565d8d0846200e640c8c": {
-      "confidence": 0.8,
-      "date": "2026-08-07 07:26:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "13a4RAT C2 server at 31.77.156.5:3000 with three associated malware sample hashes.",
-      "threat_type": "c2",
-      "tweet_id": "2085628695214195105",
-      "type": "sha256",
-      "value": "700a83012a83b14d0f8c9b931b5b0a41e47f89710f6c565d8d0846200e640c8c"
     },
     "70bf0a8c0ffe5d1aa51358aba0ae365a1fab15cc356a02c07a36de6427e3ca7f": {
       "confidence": 0.75,
@@ -14481,22 +14076,6 @@
       "type": "sha256",
       "value": "8c78a55c8bf545e0d21b8757eaa0b709b4af47b13d34a38df81045e67026bd96"
     },
-    "8cfaa9120e316c59e4d6fa3093c7fe19e231b0ff1d39baa3993742627e26e105": {
-      "confidence": 0.85,
-      "date": "2026-08-07 11:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Malware uses Spotify playlist name as PowerShell C2 command channel; renaming the playlist pushes new commands to all infected machines.",
-      "threat_type": "c2",
-      "tweet_id": "2085690853280903514",
-      "type": "sha256",
-      "value": "8cfaa9120e316c59e4d6fa3093c7fe19e231b0ff1d39baa3993742627e26e105"
-    },
     "8dcc7caa82e7419da27913d56e4162d3": {
       "confidence": 0.88,
       "date": "2026-08-10 00:04:07",
@@ -15215,22 +14794,6 @@
       "type": "sha256",
       "value": "9f2021ae38b6273f3a3d221b19c2785b3c9a13991013f8becb786d3022f6e1f5"
     },
-    "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc": {
-      "confidence": 0.87,
-      "date": "2026-08-07 10:24:00",
-      "enriched_at": "2026-09-04T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "infostealer",
-        "stealer"
-      ],
-      "summary": "Shai-Hulud/Chaindrop self-propagating NPM supply chain worm harvesting developer credentials and cloud secrets via obfuscated Bun JS runtime.",
-      "threat_type": "malware",
-      "tweet_id": "2085673388266369237",
-      "type": "sha256",
-      "value": "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc"
-    },
     "9fde8fe7-9.b-cdn.net": {
       "confidence": 0.98,
       "date": "2026-08-09 23:18:24",
@@ -15520,22 +15083,6 @@
       "tweet_id": "2090903170847256972",
       "type": "md5",
       "value": "a7bcf7ea8e9f3f36ebfb85b823e39d91"
-    },
-    "a7df9a9665a96ca5814b40e4c6aac121d8822fd702d80b597b567b274ac943fd": {
-      "confidence": 0.85,
-      "date": "2026-08-07 11:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Malware uses Spotify playlist name as PowerShell C2 command channel; renaming the playlist pushes new commands to all infected machines.",
-      "threat_type": "c2",
-      "tweet_id": "2085690853280903514",
-      "type": "sha256",
-      "value": "a7df9a9665a96ca5814b40e4c6aac121d8822fd702d80b597b567b274ac943fd"
     },
     "a7f3c362-9.b-cdn.net": {
       "confidence": 0.98,
@@ -16067,22 +15614,6 @@
       "tweet_id": "2086583761274012009",
       "type": "domain",
       "value": "adamiboleskerzddskskvsdva.sbs"
-    },
-    "adb8347dfa1b1df1ca2211fe4d7e82f27ced939f1bf3d52548e52bc9e23fc52c": {
-      "confidence": 0.85,
-      "date": "2026-08-07 10:59:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Fake Google Meets MSI from drvupdates.com uses DLL sideloading with signed K7 binary; second-stage SpectraEmu.exe beacons to 31.57.38.141:3333.",
-      "threat_type": "malware",
-      "tweet_id": "2085682189715546454",
-      "type": "sha256",
-      "value": "adb8347dfa1b1df1ca2211fe4d7e82f27ced939f1bf3d52548e52bc9e23fc52c"
     },
     "adl-irn.xyz": {
       "confidence": 0.95,
@@ -17762,22 +17293,6 @@
       "type": "url",
       "value": "http://appfenxiang.com/hm3605.txt"
     },
-    "applanding.getpixeltap.com": {
-      "confidence": 0.85,
-      "date": "2026-08-07 08:49:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware",
-        "phishing"
-      ],
-      "summary": "ClickFix variant dubbed 'CrashFix' observed in the wild using domain applanding.getpixeltap.com.",
-      "threat_type": "malware",
-      "tweet_id": "2085649442015690895",
-      "type": "domain",
-      "value": "applanding.getpixeltap.com"
-    },
     "apple.fnbbamg.cn": {
       "confidence": 0.95,
       "date": "2026-08-31 23:10:29",
@@ -18477,22 +17992,6 @@
       "type": "sha256",
       "value": "b24c37a9a530b9cf7ef23cdcfe23754ac42bf7f06dbc8b0ca09b887c0a6a20f1"
     },
-    "b27b82afa5f15512f3856e549fb83d873fd0049759a4b62ce64c8d7d4dc2c678": {
-      "confidence": 0.9,
-      "date": "2026-08-07 10:24:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Self-propagating NPM supply chain worm 'Shai-Hulud'/'Chaindrop' harvests developer credentials, GitHub tokens, and cloud secrets, then republishes compromised packages.",
-      "threat_type": "malware",
-      "tweet_id": "2085673388266369237",
-      "type": "sha256",
-      "value": "b27b82afa5f15512f3856e549fb83d873fd0049759a4b62ce64c8d7d4dc2c678"
-    },
     "b2ee510d0b5012487dee143b459e4e2fcfb758960d3fe7ec4743552bc91be9e2": {
       "confidence": 0.8,
       "date": "2026-08-27 06:28:10",
@@ -19150,22 +18649,6 @@
       "tweet_id": "2086583761274012009",
       "type": "domain",
       "value": "bckdayigabrjo.ice.mom"
-    },
-    "bd8bf5c443279cf1a87f7b3b469d052396df8773451262af01369242c0dfda33": {
-      "confidence": 0.8,
-      "date": "2026-08-07 07:26:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "13a4RAT C2 server at 31.77.156.5:3000 with three associated malware sample hashes.",
-      "threat_type": "c2",
-      "tweet_id": "2085628695214195105",
-      "type": "sha256",
-      "value": "bd8bf5c443279cf1a87f7b3b469d052396df8773451262af01369242c0dfda33"
     },
     "bdb02dd75675bb7faf5033b30b047d33": {
       "confidence": 0.72,
@@ -21293,23 +20776,6 @@
       "type": "sha256",
       "value": "c5482d8ed604923573624e220b591427e46a9391215b438a1425ab14b508810d"
     },
-    "c5572f461bcc603de50104ec6c245098": {
-      "confidence": 0.95,
-      "date": "2026-08-07 07:53:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": "remcos",
-      "suggested_tags": [
-        "remcosrat",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "RemcosRAT malspam campaign in Italy using a quote-request lure; payload hosted on cinnamonthai.com, C2 via two duckdns.org domains.",
-      "threat_type": "malware",
-      "tweet_id": "2085635481727897848",
-      "type": "md5",
-      "value": "c5572f461bcc603de50104ec6c245098"
-    },
     "c55cf5029b8cccb179472fa1d22ce2687a66c7945f79a4ec8f757451f5af9138": {
       "confidence": 0.85,
       "date": "2026-08-11 12:00:12",
@@ -21390,22 +20856,6 @@
       "tweet_id": "2085752744699146319",
       "type": "sha256",
       "value": "c8756ea3af938d0c6d6940850b12d23963e1e417aae0aa15c2fcb13390974995"
-    },
-    "c8f7d8d9eef2476399e70a0859daecb0f2dde82a2dd06b89feedcd006e0cc4cd": {
-      "confidence": 0.85,
-      "date": "2026-08-07 10:59:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Fake Google Meets MSI from drvupdates.com uses DLL sideloading with signed K7 binary; second-stage SpectraEmu.exe beacons to 31.57.38.141:3333.",
-      "threat_type": "malware",
-      "tweet_id": "2085682189715546454",
-      "type": "sha256",
-      "value": "c8f7d8d9eef2476399e70a0859daecb0f2dde82a2dd06b89feedcd006e0cc4cd"
     },
     "c92d3d255e4e0cc98410b1bbffa80416": {
       "confidence": 0.88,
@@ -21669,23 +21119,6 @@
       "type": "domain",
       "value": "carderyakuptv.click"
     },
-    "careerlongprofit.duckdns.org": {
-      "confidence": 0.95,
-      "date": "2026-08-07 07:53:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": "remcos",
-      "suggested_tags": [
-        "remcosrat",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "RemcosRAT malspam campaign in Italy using a quote-request lure; payload hosted on cinnamonthai.com, C2 via two duckdns.org domains.",
-      "threat_type": "malware",
-      "tweet_id": "2085635481727897848",
-      "type": "domain",
-      "value": "careerlongprofit.duckdns.org"
-    },
     "carefullinkwatch.shop": {
       "confidence": 0.9,
       "date": "2026-08-08 10:26:00",
@@ -21945,22 +21378,6 @@
       "tweet_id": "2096131403025109209",
       "type": "sha256",
       "value": "cb5d4335ac73dc0cab2bbe6310fac64537352ed368049700d3993b53f6cf0884"
-    },
-    "cb5f23db25beb1488652c6284e233c3bed51b14c645fcf4dbc5451294cb36251": {
-      "confidence": 0.85,
-      "date": "2026-08-07 10:59:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Fake Google Meets MSI from drvupdates.com uses DLL sideloading with signed K7 binary; second-stage SpectraEmu.exe beacons to 31.57.38.141:3333.",
-      "threat_type": "malware",
-      "tweet_id": "2085682189715546454",
-      "type": "sha256",
-      "value": "cb5f23db25beb1488652c6284e233c3bed51b14c645fcf4dbc5451294cb36251"
     },
     "cb60833fedf0960a9469797746776ec9d28ef4bad90e3ee9a92fab76fe2a1284": {
       "confidence": 0.9,
@@ -22504,40 +21921,6 @@
       "tweet_id": "2091722942363455705",
       "type": "url",
       "value": "http://cicfo.com:6666"
-    },
-    "cinnamonthai.com": {
-      "confidence": 0.95,
-      "date": "2026-08-07 07:53:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": "remcos",
-      "suggested_tags": [
-        "remcosrat",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "RemcosRAT malspam campaign in Italy using a quote-request lure; payload hosted on cinnamonthai.com, C2 via two duckdns.org domains.",
-      "threat_type": "malware",
-      "tweet_id": "2085635481727897848",
-      "type": "domain",
-      "value": "cinnamonthai.com"
-    },
-    "cinnamonthai.com/cgi-bins/05.08_8080_64.exe": {
-      "confidence": 0.95,
-      "date": "2026-08-07 07:53:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": "remcos",
-      "suggested_tags": [
-        "remcosrat",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "RemcosRAT malspam campaign in Italy using a quote-request lure; payload hosted on cinnamonthai.com, C2 via two duckdns.org domains.",
-      "threat_type": "malware",
-      "tweet_id": "2085635481727897848",
-      "type": "url",
-      "value": "http://cinnamonthai.com/cgi-bins/05.08_8080_64.exe"
     },
     "cioiusd.com": {
       "confidence": 0.9,
@@ -23499,23 +22882,6 @@
       "tweet_id": "2095769197087224002",
       "type": "url",
       "value": "http://comecome.click/zxm/xx/alibaba/index.html"
-    },
-    "comeforreealz.duckdns.org": {
-      "confidence": 0.95,
-      "date": "2026-08-07 07:53:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": "remcos",
-      "suggested_tags": [
-        "remcosrat",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "RemcosRAT malspam campaign in Italy using a quote-request lure; payload hosted on cinnamonthai.com, C2 via two duckdns.org domains.",
-      "threat_type": "malware",
-      "tweet_id": "2085635481727897848",
-      "type": "domain",
-      "value": "comeforreealz.duckdns.org"
     },
     "compro.com.np": {
       "confidence": 0.97,
@@ -24746,22 +24112,6 @@
       "type": "domain",
       "value": "dbuh.55og.wolkamo.com"
     },
-    "dc0e7882ecfc9c1bc2157dda6a645be3": {
-      "confidence": 0.7,
-      "date": "2026-08-07 08:11:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "stealer"
-      ],
-      "summary": "Two executables (msedge.exe, SystemSettings.exe) hosted on typosquatted domain us.wind0ws.net impersonating legitimate Windows binaries.",
-      "threat_type": "malware",
-      "tweet_id": "2085640067482091965",
-      "type": "md5",
-      "value": "dc0e7882ecfc9c1bc2157dda6a645be3"
-    },
     "dc2c5491afdc25a2a5588c2ba2d1f054b0e2bdf4c925304fa0825f25f9d57dc8": {
       "confidence": 0.75,
       "date": "2026-08-20 09:00:25",
@@ -24868,22 +24218,6 @@
       "tweet_id": "2089460918170366153",
       "type": "domain",
       "value": "ddy.okv.mybluehost.me"
-    },
-    "de13761793b3e153e778c11f55aa2ed5090e5d0a972cdcfa2253b1425d67518d": {
-      "confidence": 0.85,
-      "date": "2026-08-07 10:59:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Fake Google Meets MSI from drvupdates.com uses DLL sideloading with signed K7 binary; second-stage SpectraEmu.exe beacons to 31.57.38.141:3333.",
-      "threat_type": "malware",
-      "tweet_id": "2085682189715546454",
-      "type": "sha256",
-      "value": "de13761793b3e153e778c11f55aa2ed5090e5d0a972cdcfa2253b1425d67518d"
     },
     "december-humans-blend-word.trycloudflare.com": {
       "confidence": 0.98,
@@ -26525,38 +25859,6 @@
       "type": "domain",
       "value": "drive-sharepoint.com"
     },
-    "drvupdates.com": {
-      "confidence": 0.85,
-      "date": "2026-08-07 10:59:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Fake Google Meets MSI from drvupdates.com uses DLL sideloading with signed K7 binary; second-stage SpectraEmu.exe beacons to 31.57.38.141:3333.",
-      "threat_type": "malware",
-      "tweet_id": "2085682189715546454",
-      "type": "domain",
-      "value": "drvupdates.com"
-    },
-    "drvupdates.com/meetsdrv.zip": {
-      "confidence": 0.85,
-      "date": "2026-08-07 10:59:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Fake Google Meets MSI from drvupdates.com uses DLL sideloading with signed K7 binary; second-stage SpectraEmu.exe beacons to 31.57.38.141:3333.",
-      "threat_type": "malware",
-      "tweet_id": "2085682189715546454",
-      "type": "url",
-      "value": "http://drvupdates.com/meetsdrv.zip"
-    },
     "dsadasasdasasdadsdasdsaadsdas.com": {
       "confidence": 0.98,
       "date": "2026-08-09 23:18:24",
@@ -26681,21 +25983,6 @@
       "tweet_id": "2086583761274012009",
       "type": "domain",
       "value": "duckduckdcqc.duckdns.org"
-    },
-    "duyai.app": {
-      "confidence": 0.6,
-      "date": "2026-08-07 08:58:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat"
-      ],
-      "summary": "Multiple IPs on port 3000 and domain duyai.app identified as C2 panel infrastructure, context suggests RAT campaign.",
-      "threat_type": "c2",
-      "tweet_id": "2085651901056438330",
-      "type": "domain",
-      "value": "duyai.app"
     },
     "dwppa.55656568.com": {
       "confidence": 0.87,
@@ -26886,22 +26173,6 @@
       "type": "md5",
       "value": "e3c817f7fe44cc870ecdbcbc3ea36132"
     },
-    "e42fece328b2bb6b8ff36703313ae64634e57c10c3de5c437fb9a86e7f6906f3": {
-      "confidence": 0.8,
-      "date": "2026-08-07 07:26:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "13a4RAT C2 server at 31.77.156.5:3000 with three associated malware sample hashes.",
-      "threat_type": "c2",
-      "tweet_id": "2085628695214195105",
-      "type": "sha256",
-      "value": "e42fece328b2bb6b8ff36703313ae64634e57c10c3de5c437fb9a86e7f6906f3"
-    },
     "e4d3f8d75c5c27178cad7bdb84e8531e618bdbc682a2127d962c8cdd7395c98f": {
       "confidence": 0.3,
       "date": "2026-08-21 22:52:02",
@@ -26945,22 +26216,6 @@
       "tweet_id": "2086592966127177859",
       "type": "domain",
       "value": "e74678f4-f.b-cdn.net"
-    },
-    "e7e5e7086870d785c55cde559c34d61552fe7ba2cffea32a436b66c21b1f79d2": {
-      "confidence": 0.85,
-      "date": "2026-08-07 10:59:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Fake Google Meets MSI from drvupdates.com uses DLL sideloading with signed K7 binary; second-stage SpectraEmu.exe beacons to 31.57.38.141:3333.",
-      "threat_type": "malware",
-      "tweet_id": "2085682189715546454",
-      "type": "sha256",
-      "value": "e7e5e7086870d785c55cde559c34d61552fe7ba2cffea32a436b66c21b1f79d2"
     },
     "e82ea6bf2d5f476068847d09bf1bb5986e20457261f47558788c86b3b2d53726": {
       "confidence": 0.65,
@@ -28207,22 +27462,6 @@
       "type": "domain",
       "value": "f433ddd.triumphexpuocoeventsinc.vu"
     },
-    "f44dc45f71ac594117fd2729fc3b9f52e9bbd56ffbac17fb628701899a0a4668": {
-      "confidence": 0.85,
-      "date": "2026-08-07 10:59:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Fake Google Meets MSI from drvupdates.com uses DLL sideloading with signed K7 binary; second-stage SpectraEmu.exe beacons to 31.57.38.141:3333.",
-      "threat_type": "malware",
-      "tweet_id": "2085682189715546454",
-      "type": "sha256",
-      "value": "f44dc45f71ac594117fd2729fc3b9f52e9bbd56ffbac17fb628701899a0a4668"
-    },
     "f69f9889b2f2f75520204756711756c03e82a50839156a8ef0c181acc69b74fa": {
       "confidence": 0.78,
       "date": "2026-09-02 23:34:36",
@@ -28253,22 +27492,6 @@
       "tweet_id": "2090335918368690279",
       "type": "sha256",
       "value": "f773c8ab32122ebb49962ad16a333bacd8e3ceb38435e2a22159cad66fb0af7a"
-    },
-    "f8e409319baa062bbba8bb4114889d7e3dfc5774780aefc57a46f19ff407c18b": {
-      "confidence": 0.85,
-      "date": "2026-08-07 10:59:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Fake Google Meets MSI from drvupdates.com uses DLL sideloading with signed K7 binary; second-stage SpectraEmu.exe beacons to 31.57.38.141:3333.",
-      "threat_type": "malware",
-      "tweet_id": "2085682189715546454",
-      "type": "sha256",
-      "value": "f8e409319baa062bbba8bb4114889d7e3dfc5774780aefc57a46f19ff407c18b"
     },
     "f90ceda6bb886444a342a7d3286598f8": {
       "confidence": 0.38,
@@ -28729,22 +27952,6 @@
       "tweet_id": "2089460918170366153",
       "type": "domain",
       "value": "fcp.tiu.mybluehost.me"
-    },
-    "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb": {
-      "confidence": 0.87,
-      "date": "2026-08-07 10:24:00",
-      "enriched_at": "2026-09-04T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "infostealer",
-        "stealer"
-      ],
-      "summary": "Shai-Hulud/Chaindrop self-propagating NPM supply chain worm harvesting developer credentials and cloud secrets via obfuscated Bun JS runtime.",
-      "threat_type": "malware",
-      "tweet_id": "2085673388266369237",
-      "type": "sha256",
-      "value": "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb"
     },
     "fe97d502bdac69d80d2dfb2fb15065556906393d02008e00e1c9c1af59319331": {
       "confidence": 0.6,
@@ -30316,37 +29523,6 @@
       "type": "url",
       "value": "http://github.com/cqasdgqa-code/"
     },
-    "github.com/dcm1-6626": {
-      "confidence": 0.9,
-      "date": "2026-08-07 10:02:00",
-      "enriched_at": "2026-09-01T06:40:04Z",
-      "family": "Braodo",
-      "suggested_tags": [
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "Braodo Stealer delivered via RAR archive; downloads payload and Python libraries from GitHub repositories dcm1-6626 and dm1-21726.",
-      "threat_type": "malware",
-      "tweet_id": "2085667850132558196",
-      "type": "url",
-      "value": "http://github.com/dcm1-6626"
-    },
-    "github.com/dm1-21726": {
-      "confidence": 0.85,
-      "date": "2026-08-07 10:02:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": "braodo",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Braodo Stealer distributed via RAR archive disguised as medical X-ray records; downloads payload and Python libraries from GitHub.",
-      "threat_type": "malware",
-      "tweet_id": "2085667850132558196",
-      "type": "url",
-      "value": "http://github.com/dm1-21726"
-    },
     "github.com/dthsdfhdgjfjdfg": {
       "confidence": 0.4,
       "date": "2026-08-21 05:14:09",
@@ -30475,22 +29651,6 @@
       "tweet_id": "2087077832228766028",
       "type": "url",
       "value": "https://github.com/nsaciagov/g/raw/refs/heads/main/svchost.exe"
-    },
-    "github.com/oven-sh/bun/releases/download": {
-      "confidence": 0.9,
-      "date": "2026-08-07 10:24:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Self-propagating NPM supply chain worm 'Shai-Hulud'/'Chaindrop' harvests developer credentials, GitHub tokens, and cloud secrets, then republishes compromised packages.",
-      "threat_type": "malware",
-      "tweet_id": "2085673388266369237",
-      "type": "url",
-      "value": "https://github.com/oven-sh/bun/releases/download/"
     },
     "github.com/srdhtfjkjghdfdsg": {
       "confidence": 0.4,
@@ -36919,6 +36079,20 @@
       "type": "domain",
       "value": "kwmsteam.com"
     },
+    "kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev": {
+      "confidence": 0.7,
+      "date": "2026-09-06 07:40:03",
+      "enriched_at": "2026-09-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Cloudflare Pages subdomain flagged as confirmed scam by automated malware scanner.",
+      "threat_type": "scam",
+      "tweet_id": "2096503681042538720",
+      "type": "domain",
+      "value": "kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev"
+    },
     "kydrmassanadmdglsn.com": {
       "confidence": 0.98,
       "date": "2026-08-09 23:18:24",
@@ -41036,6 +40210,34 @@
       "type": "domain",
       "value": "mxgfr.mahuacm.com"
     },
+    "mybroadbandservice.plutio.com": {
+      "confidence": 0.8,
+      "date": "2026-09-06 08:35:09",
+      "enriched_at": "2026-09-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing form hosted on legitimate Plutio SaaS platform abused to harvest credentials.",
+      "threat_type": "phishing",
+      "tweet_id": "2096517546136539405",
+      "type": "domain",
+      "value": "mybroadbandservice.plutio.com"
+    },
+    "mybroadbandservice.plutio.com/p/form/ittjkqd9fngbzrhnb": {
+      "confidence": 0.8,
+      "date": "2026-09-06 08:35:09",
+      "enriched_at": "2026-09-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing form hosted on legitimate Plutio SaaS platform abused to harvest credentials.",
+      "threat_type": "phishing",
+      "tweet_id": "2096517546136539405",
+      "type": "url",
+      "value": "https://mybroadbandservice.plutio.com/p/form/iTtJKQD9FnGbzrHNB"
+    },
     "mychap.co.uk": {
       "confidence": 0.9,
       "date": "2026-08-14 10:38:29",
@@ -42801,38 +42003,6 @@
       "tweet_id": "2092591838775705648",
       "type": "domain",
       "value": "opalblueprint10.com"
-    },
-    "open.spotify.com/playlist/2dvn7v4xceutltxfxk2z10": {
-      "confidence": 0.85,
-      "date": "2026-08-07 11:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Malware uses Spotify playlist name as PowerShell C2 command channel; renaming the playlist pushes new commands to all infected machines.",
-      "threat_type": "c2",
-      "tweet_id": "2085690853280903514",
-      "type": "url",
-      "value": "http://open.spotify.com/playlist/2dvn7V4XCeuTLtxfxk2Z10"
-    },
-    "open.spotify.com/playlist/77uhzsiaoltltvtgny5jhi": {
-      "confidence": 0.85,
-      "date": "2026-08-07 11:33:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Malware uses Spotify playlist name as PowerShell C2 command channel; renaming the playlist pushes new commands to all infected machines.",
-      "threat_type": "c2",
-      "tweet_id": "2085690853280903514",
-      "type": "url",
-      "value": "http://open.spotify.com/playlist/77UhzsiaoltLTvTgnY5jHI"
     },
     "openings-pest-seven-drinking.trycloudflare.com": {
       "confidence": 0.98,
@@ -46055,22 +45225,6 @@
       "type": "domain",
       "value": "relay.intexxxxmanifold.com"
     },
-    "release-assets.githubusercontent.com": {
-      "confidence": 0.9,
-      "date": "2026-08-07 10:24:00",
-      "enriched_at": "2026-08-07T12:40:07Z",
-      "family": null,
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Self-propagating NPM supply chain worm 'Shai-Hulud'/'Chaindrop' harvests developer credentials, GitHub tokens, and cloud secrets, then republishes compromised packages.",
-      "threat_type": "malware",
-      "tweet_id": "2085673388266369237",
-      "type": "domain",
-      "value": "release-assets.githubusercontent.com"
-    },
     "relyaccessed-virtual.info": {
       "confidence": 0.95,
       "date": "2026-08-17 16:27:04",
@@ -48591,6 +47745,20 @@
       "tweet_id": "2094796091728474388",
       "type": "domain",
       "value": "silvaveergygroup.com"
+    },
+    "simulador-credito-auto-bbva.ideeo.mx": {
+      "confidence": 0.95,
+      "date": "2026-09-06 12:01:26",
+      "enriched_at": "2026-09-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "BBVA bank phishing site hosted in Mexico via Alestra AS11172 with GoDaddy TLS cert targeting Spanish-speaking users.",
+      "threat_type": "phishing",
+      "tweet_id": "2096569461377482987",
+      "type": "domain",
+      "value": "simulador-credito-auto-bbva.ideeo.mx"
     },
     "siskolarlaberke.xyz": {
       "confidence": 0.98,
@@ -60905,6 +60073,6 @@
       "value": "zzx.jcd666.vip"
     }
   },
-  "generated_at": "2026-09-06T06:40:04Z",
+  "generated_at": "2026-09-06T12:40:04Z",
   "window_days": 30
 }
