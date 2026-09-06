@@ -1,5 +1,5 @@
 {
-  "count": 4044,
+  "count": 4063,
   "dead_tweets": {
     "2083405583823126654": {
       "attempts": 2,
@@ -26,8 +26,8 @@
       "last_attempt": "2026-09-05T06:40:04Z"
     },
     "2096234357635834097": {
-      "attempts": 1,
-      "last_attempt": "2026-09-05T18:40:04Z"
+      "attempts": 2,
+      "last_attempt": "2026-09-06T00:40:04Z"
     }
   },
   "entries": {
@@ -1406,6 +1406,22 @@
       "type": "url",
       "value": "http://103.170.154.120:443"
     },
+    "103.193.172.103": {
+      "confidence": 0.8,
+      "date": "2026-08-18 03:06:44",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2",
+        "phishing"
+      ],
+      "summary": "Japanese-language malspam delivering malware via wordtax.ink attachment; C2 at jpword.cc:8383 (103.193.172.103) and 122.10.117.3:8383.",
+      "threat_type": "malware",
+      "tweet_id": "2089549529335140762",
+      "type": "url",
+      "value": "http://103.193.172.103"
+    },
     "103.214.68.193": {
       "confidence": 0.82,
       "date": "2026-08-17 08:20:21",
@@ -2396,6 +2412,38 @@
       "type": "ip",
       "value": "121.43.59.16"
     },
+    "122.10.117.3": {
+      "confidence": 0.8,
+      "date": "2026-08-18 03:06:44",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2",
+        "phishing"
+      ],
+      "summary": "Japanese-language malspam delivering malware via wordtax.ink attachment; C2 at jpword.cc:8383 (103.193.172.103) and 122.10.117.3:8383.",
+      "threat_type": "malware",
+      "tweet_id": "2089549529335140762",
+      "type": "ip",
+      "value": "122.10.117.3"
+    },
+    "122.10.117.3:8383": {
+      "confidence": 0.8,
+      "date": "2026-08-18 03:06:44",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2",
+        "phishing"
+      ],
+      "summary": "Japanese-language malspam delivering malware via wordtax.ink attachment; C2 at jpword.cc:8383 (103.193.172.103) and 122.10.117.3:8383.",
+      "threat_type": "malware",
+      "tweet_id": "2089549529335140762",
+      "type": "url",
+      "value": "https://122.10.117.3:8383"
+    },
     "123.103.114.37": {
       "confidence": 0.9,
       "date": "2026-08-10 01:45:39",
@@ -2557,20 +2605,6 @@
       "tweet_id": "2088120876369866774",
       "type": "md5",
       "value": "1298c79f6811283a16ec76a072755e5d"
-    },
-    "130.12.182.77": {
-      "confidence": 0.6,
-      "date": "2026-08-06 19:27:00",
-      "enriched_at": "2026-08-07T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "IP flagged as botnet/malware host involved in exploitation activity.",
-      "threat_type": "malware",
-      "tweet_id": "2085447604087750952",
-      "type": "ip",
-      "value": "130.12.182.77"
     },
     "130.94.12.40": {
       "confidence": 0.65,
@@ -5238,21 +5272,6 @@
       "type": "ip",
       "value": "192.185.216.47"
     },
-    "192.238.160.133": {
-      "confidence": 0.95,
-      "date": "2026-08-06 21:29:00",
-      "enriched_at": "2026-09-05T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Rakuten Bank phishing campaign using ra-kusdoawds.com and ra-posadwad.com targeting Japanese banking credentials, hosted on AS138995 Antbox Networks.",
-      "threat_type": "phishing",
-      "tweet_id": "2085478409447374973",
-      "type": "ip",
-      "value": "192.238.160.133"
-    },
     "192.252.178.228": {
       "confidence": 0.82,
       "date": "2026-08-07 20:53:00",
@@ -7738,6 +7757,22 @@
       "type": "domain",
       "value": "2841948923.com"
     },
+    "28916c496d32ee3fde4f9edb44dda56d737cf194116bf9ca67e99cf14db9be63": {
+      "confidence": 0.82,
+      "date": "2026-08-18 03:06:44",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2",
+        "phishing"
+      ],
+      "summary": "Japanese malspam with fake purchase order PDF linking to w1mail.com to drop malicious IMG file; C2 at jpword.cc and 122.10.117.3:8383.",
+      "threat_type": "malware",
+      "tweet_id": "2085282098601243004",
+      "type": "sha256",
+      "value": "28916c496d32ee3fde4f9edb44dda56d737cf194116bf9ca67e99cf14db9be63"
+    },
     "28e4e19d097d6c779516e8bf1ed3611c85f536c48b7f45a882224e31f6e1f94c": {
       "confidence": 0.7,
       "date": "2026-08-14 13:02:53",
@@ -9223,6 +9258,21 @@
       "type": "ip",
       "value": "43.153.167.191"
     },
+    "43.155.174.59": {
+      "confidence": 0.8,
+      "date": "2026-08-12 07:17:38",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Phishing targeting Japan Statistics Bureau (\u7dcf\u52d9\u7701\u7d71\u8a08\u5c40) with CAPTCHA gate redirecting to gtttx.top/jp; hosted on IP 43.155.174.59 (AS132203).",
+      "threat_type": "phishing",
+      "tweet_id": "2087438341876945406",
+      "type": "url",
+      "value": "http://43.155.174.59"
+    },
     "43.155.223.139": {
       "confidence": 0.9,
       "date": "2026-08-15 04:24:41",
@@ -9297,6 +9347,21 @@
       "tweet_id": "2094315172395708636",
       "type": "url",
       "value": "http://43.160.253.172"
+    },
+    "43.163.207.119": {
+      "confidence": 0.8,
+      "date": "2026-08-10 02:44:03",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Japanese government phishing targeting Ministry of Internal Affairs labor survey with CAPTCHA gate at shgesheng.com; IP 43.163.207.119.",
+      "threat_type": "phishing",
+      "tweet_id": "2086644716930818231",
+      "type": "ip",
+      "value": "43.163.207.119"
     },
     "43.165.128.22": {
       "confidence": 0.92,
@@ -10463,6 +10528,22 @@
       "tweet_id": "2086098324625502345",
       "type": "sha256",
       "value": "4d4aec6120290e21778c1b14c94aa6ebff3b0816fb6798495dc2eae165db4566"
+    },
+    "4d7e9e75f44a68fd6c109bbfa6d6b8fd343b274e7ac1afb0a0a628f624a83308": {
+      "confidence": 0.85,
+      "date": "2026-09-05 23:09:02",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Rakuten distributed via three phishing domains including raku-point-ankanz.com.",
+      "threat_type": "malware",
+      "tweet_id": "2096375079101940086",
+      "type": "sha256",
+      "value": "4d7e9e75f44a68fd6c109bbfa6d6b8fd343b274e7ac1afb0a0a628f624a83308"
     },
     "4e5e892fc2c8809ccfb756e9eccb2e2ac9a45abac008284d3b5711631099aa4d": {
       "confidence": 0.9,
@@ -11632,6 +11713,21 @@
       "tweet_id": "2087598313378119925",
       "type": "ip",
       "value": "62.182.80.48"
+    },
+    "62.210.172.147": {
+      "confidence": 0.85,
+      "date": "2026-08-20 07:01:17",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Ledger cryptocurrency wallet phishing site at auth-ledgrelive-net.wasmer.app hosted on Scaleway (AS12876), France; IP 62.210.172.147.",
+      "threat_type": "phishing",
+      "tweet_id": "2090333329971183699",
+      "type": "ip",
+      "value": "62.210.172.147"
     },
     "62354234.net": {
       "confidence": 0.98,
@@ -14322,6 +14418,20 @@
       "tweet_id": "2086592966127177859",
       "type": "domain",
       "value": "8768345345.net"
+    },
+    "87e8d39db624f37d3e77aedf487a2dfd197f71a4730ea74f4e7a4341deaec2ff": {
+      "confidence": 0.8,
+      "date": "2026-08-19 17:31:21",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "BYOVD driver EDR killer not in Microsoft block lists enumerates 140+ security products and terminates PIDs via ZwTerminateProcess; activates on ScreenConnect payload strings.",
+      "threat_type": "malware",
+      "tweet_id": "2085255978367569939",
+      "type": "sha256",
+      "value": "87e8d39db624f37d3e77aedf487a2dfd197f71a4730ea74f4e7a4341deaec2ff"
     },
     "87hermana26laafirmacion.vip": {
       "confidence": 0.75,
@@ -19648,20 +19758,6 @@
       "type": "domain",
       "value": "biglcobeauth.vercel.app"
     },
-    "biglobe.superrroofer2397.workers.dev": {
-      "confidence": 0.95,
-      "date": "2026-08-06 21:39:00",
-      "enriched_at": "2026-08-07T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Japanese ISP BIGLOBE hosted on Cloudflare Workers.",
-      "threat_type": "phishing",
-      "tweet_id": "2085481013166404010",
-      "type": "domain",
-      "value": "biglobe.superrroofer2397.workers.dev"
-    },
     "biiousdt.com": {
       "confidence": 0.9,
       "date": "2026-08-14 13:50:15",
@@ -23185,6 +23281,34 @@
       "tweet_id": "2087999609331404860",
       "type": "domain",
       "value": "cloud.fanpro.top"
+    },
+    "cloud.shikarathekashmirspride.com": {
+      "confidence": 0.82,
+      "date": "2026-09-05 21:14:33",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page at cloud.shikarathekashmirspride.com/meeting/Iphone/invite.php using an iPhone meeting invite lure, hosted on Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2096346268377153669",
+      "type": "domain",
+      "value": "cloud.shikarathekashmirspride.com"
+    },
+    "cloud.shikarathekashmirspride.com/meeting/iphone/invite.php": {
+      "confidence": 0.82,
+      "date": "2026-09-05 21:14:33",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page at cloud.shikarathekashmirspride.com/meeting/Iphone/invite.php using an iPhone meeting invite lure, hosted on Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2096346268377153669",
+      "type": "url",
+      "value": "https://cloud.shikarathekashmirspride.com/meeting/Iphone/invite.php"
     },
     "cloudfrontenterprise.com": {
       "confidence": 0.85,
@@ -27138,6 +27262,22 @@
       "type": "md5",
       "value": "ebaed9ba059d9e28155aa1e0f8c1e5c1"
     },
+    "ebd6f8fa187c3bde2a3f6bf42f3b94e2664867e83d98554a91ecc2ebaf552dc0": {
+      "confidence": 0.85,
+      "date": "2026-09-05 23:15:32",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Rakuten distributed via phishing domains point-raraku.com and point-raraka.com.",
+      "threat_type": "malware",
+      "tweet_id": "2096376715471884489",
+      "type": "sha256",
+      "value": "ebd6f8fa187c3bde2a3f6bf42f3b94e2664867e83d98554a91ecc2ebaf552dc0"
+    },
     "eccentric-authentication.com": {
       "confidence": 0.9,
       "date": "2026-08-14 06:30:55",
@@ -28154,6 +28294,20 @@
       "type": "domain",
       "value": "ezcapsforums.com"
     },
+    "f005.backblazeb2.com": {
+      "confidence": 0.85,
+      "date": "2026-09-05 18:45:44",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page hosted on Backblaze B2 exfiltrating credentials via POST to submit-form.com/xfgxjYePW.",
+      "threat_type": "phishing",
+      "tweet_id": "2096308816535052485",
+      "type": "domain",
+      "value": "f005.backblazeb2.com"
+    },
     "f13682ae-e.b-cdn.net": {
       "confidence": 0.98,
       "date": "2026-08-09 23:18:24",
@@ -28167,21 +28321,6 @@
       "tweet_id": "2086592966127177859",
       "type": "domain",
       "value": "f13682ae-e.b-cdn.net"
-    },
-    "f1bd5817678f498966f033f61b617dee5c8e81191901fea7c4a89146bfe91091": {
-      "confidence": 0.7,
-      "date": "2026-08-07 00:02:00",
-      "enriched_at": "2026-08-07T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "Malicious LNK file disguised as insurance document, attributed to APT activity.",
-      "threat_type": "malware",
-      "tweet_id": "2085516940597141987",
-      "type": "sha256",
-      "value": "f1bd5817678f498966f033f61b617dee5c8e81191901fea7c4a89146bfe91091"
     },
     "f1cb8444675f9a1e517ec3f81bc1344ff98223d25842eb3c72d75b455c9d1fe5": {
       "confidence": 0.88,
@@ -29579,6 +29718,23 @@
       "tweet_id": "2089772009744150862",
       "type": "domain",
       "value": "followtheflan.com"
+    },
+    "fp2e7a.wpc.2be4.phicdn.net": {
+      "confidence": 0.9,
+      "date": "2026-09-05 18:14:57",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": "lummastealer",
+      "suggested_tags": [
+        "stealc",
+        "lummastealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "IDATLoader distributing StealC and LummaStealer via fp2e7a.wpc.2be4.phicdn.net CDN infrastructure.",
+      "threat_type": "malware",
+      "tweet_id": "2096301070989582701",
+      "type": "domain",
+      "value": "fp2e7a.wpc.2be4.phicdn.net"
     },
     "frameworklover.com": {
       "confidence": 0.95,
@@ -35916,6 +36072,38 @@
       "type": "domain",
       "value": "joyopposites.com"
     },
+    "jpword.cc": {
+      "confidence": 0.8,
+      "date": "2026-08-18 03:06:44",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2",
+        "phishing"
+      ],
+      "summary": "Japanese-language malspam delivering malware via wordtax.ink attachment; C2 at jpword.cc:8383 (103.193.172.103) and 122.10.117.3:8383.",
+      "threat_type": "malware",
+      "tweet_id": "2089549529335140762",
+      "type": "domain",
+      "value": "jpword.cc"
+    },
+    "jpword.cc:8383": {
+      "confidence": 0.8,
+      "date": "2026-08-18 03:06:44",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2",
+        "phishing"
+      ],
+      "summary": "Japanese-language malspam delivering malware via wordtax.ink attachment; C2 at jpword.cc:8383 (103.193.172.103) and 122.10.117.3:8383.",
+      "threat_type": "malware",
+      "tweet_id": "2089549529335140762",
+      "type": "url",
+      "value": "https://jpword.cc:8383"
+    },
     "jpxnziiujbcvf.top": {
       "confidence": 0.9,
       "date": "2026-08-10 01:39:07",
@@ -39424,6 +39612,20 @@
       "type": "domain",
       "value": "metamasky.com"
     },
+    "metamonetization.live": {
+      "confidence": 0.8,
+      "date": "2026-09-05 21:11:25",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Facebook phishing site at metamonetization.live.",
+      "threat_type": "phishing",
+      "tweet_id": "2096345481630663158",
+      "type": "domain",
+      "value": "metamonetization.live"
+    },
     "metropenhouses.com": {
       "confidence": 0.9,
       "date": "2026-08-25 03:20:56",
@@ -40836,20 +41038,6 @@
       "tweet_id": "2086592966127177859",
       "type": "domain",
       "value": "msshrrdkevu.com"
-    },
-    "mu.jpjy-09.shop": {
-      "confidence": 0.95,
-      "date": "2026-08-06 20:48:00",
-      "enriched_at": "2026-08-07T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating MUFG Card / DC Card / NICOS hosted via Gname registrar on Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2085468075093340177",
-      "type": "domain",
-      "value": "mu.jpjy-09.shop"
     },
     "mu.umbjp27.shop": {
       "confidence": 0.95,
@@ -44057,6 +44245,38 @@
       "type": "domain",
       "value": "point-raka.com"
     },
+    "point-raraka.com": {
+      "confidence": 0.85,
+      "date": "2026-09-05 23:15:32",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Rakuten distributed via phishing domains point-raraku.com and point-raraka.com.",
+      "threat_type": "malware",
+      "tweet_id": "2096376715471884489",
+      "type": "domain",
+      "value": "point-raraka.com"
+    },
+    "point-raraku.com": {
+      "confidence": 0.85,
+      "date": "2026-09-05 23:15:32",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Rakuten distributed via phishing domains point-raraku.com and point-raraka.com.",
+      "threat_type": "malware",
+      "tweet_id": "2096376715471884489",
+      "type": "domain",
+      "value": "point-raraku.com"
+    },
     "policiacivilmg.com": {
       "confidence": 0.55,
       "date": "2026-08-09 17:12:14",
@@ -45540,62 +45760,6 @@
       "type": "domain",
       "value": "qzqy688.club"
     },
-    "ra-kusdoawds.com": {
-      "confidence": 0.95,
-      "date": "2026-08-06 21:29:00",
-      "enriched_at": "2026-08-07T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing campaign targeting Rakuten Bank credentials via two lookalike domains hosted on AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085478409447374973",
-      "type": "domain",
-      "value": "ra-kusdoawds.com"
-    },
-    "ra-kusdoawds.com/ms/main/rbs/loginusername": {
-      "confidence": 0.95,
-      "date": "2026-08-06 21:29:00",
-      "enriched_at": "2026-08-07T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing campaign targeting Rakuten Bank credentials via two lookalike domains hosted on AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085478409447374973",
-      "type": "url",
-      "value": "https://ra-kusdoawds.com/MS/main/RBS/loginUsername"
-    },
-    "ra-posadwad.com": {
-      "confidence": 0.95,
-      "date": "2026-08-06 21:29:00",
-      "enriched_at": "2026-08-07T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing campaign targeting Rakuten Bank credentials via two lookalike domains hosted on AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085478409447374973",
-      "type": "domain",
-      "value": "ra-posadwad.com"
-    },
-    "ra-posadwad.com/ms/main/rbs/loginusername": {
-      "confidence": 0.95,
-      "date": "2026-08-06 21:29:00",
-      "enriched_at": "2026-08-07T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing campaign targeting Rakuten Bank credentials via two lookalike domains hosted on AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085478409447374973",
-      "type": "url",
-      "value": "https://ra-posadwad.com/MS/main/RBS/loginUsername"
-    },
     "ra.hbjbkf.com": {
       "confidence": 0.9,
       "date": "2026-09-04 03:01:53",
@@ -45639,6 +45803,54 @@
       "tweet_id": "2087233816595165496",
       "type": "domain",
       "value": "rajkumarred.duckdns.org"
+    },
+    "raku-point-ankanz.com": {
+      "confidence": 0.85,
+      "date": "2026-09-05 23:09:02",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Rakuten distributed via three phishing domains including raku-point-ankanz.com.",
+      "threat_type": "malware",
+      "tweet_id": "2096375079101940086",
+      "type": "domain",
+      "value": "raku-point-ankanz.com"
+    },
+    "raku-point-edia.com": {
+      "confidence": 0.85,
+      "date": "2026-09-05 23:09:02",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Rakuten distributed via three phishing domains including raku-point-ankanz.com.",
+      "threat_type": "malware",
+      "tweet_id": "2096375079101940086",
+      "type": "domain",
+      "value": "raku-point-edia.com"
+    },
+    "raku-point-gche.com": {
+      "confidence": 0.85,
+      "date": "2026-09-05 23:09:02",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Rakuten distributed via three phishing domains including raku-point-ankanz.com.",
+      "threat_type": "malware",
+      "tweet_id": "2096375079101940086",
+      "type": "domain",
+      "value": "raku-point-gche.com"
     },
     "rakuten-card.dksclz.com": {
       "confidence": 0.95,
@@ -49376,6 +49588,22 @@
       "type": "domain",
       "value": "spyroid.net"
     },
+    "sqllq.com": {
+      "confidence": 0.75,
+      "date": "2026-08-07 12:46:00",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "fakecaptcha",
+        "clickfix"
+      ],
+      "summary": "Webamon brief 2026-08-07: 76 tracked campaigns; FakeCAPTCHA Gate Network (4,864 domains), ClickFix Fake-Cloudflare malware delivery, sqllq.com subdomain phishing active.",
+      "threat_type": "phishing",
+      "tweet_id": "2085709242686705944",
+      "type": "domain",
+      "value": "sqllq.com"
+    },
     "srt.kizlarburada.click": {
       "confidence": 0.98,
       "date": "2026-08-09 22:41:50",
@@ -49898,6 +50126,34 @@
       "tweet_id": "2090687614030676140",
       "type": "domain",
       "value": "stylishhomegallery.com"
+    },
+    "submit-form.com": {
+      "confidence": 0.85,
+      "date": "2026-09-05 18:45:44",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page hosted on Backblaze B2 exfiltrating credentials via POST to submit-form.com/xfgxjYePW.",
+      "threat_type": "phishing",
+      "tweet_id": "2096308816535052485",
+      "type": "domain",
+      "value": "submit-form.com"
+    },
+    "submit-form.com/xfgxjyepw": {
+      "confidence": 0.85,
+      "date": "2026-09-05 18:45:44",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page hosted on Backblaze B2 exfiltrating credentials via POST to submit-form.com/xfgxjYePW.",
+      "threat_type": "phishing",
+      "tweet_id": "2096308816535052485",
+      "type": "url",
+      "value": "https://submit-form.com/xfgxjYePW"
     },
     "subscription-magnetic-recommended-meat.trycloudflare.com": {
       "confidence": 0.65,
@@ -56430,6 +56686,22 @@
       "type": "domain",
       "value": "w.zukwalletclaim.com"
     },
+    "w1mail.com": {
+      "confidence": 0.82,
+      "date": "2026-08-18 03:06:44",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2",
+        "phishing"
+      ],
+      "summary": "Japanese malspam with fake purchase order PDF linking to w1mail.com to drop malicious IMG file; C2 at jpword.cc and 122.10.117.3:8383.",
+      "threat_type": "malware",
+      "tweet_id": "2085282098601243004",
+      "type": "domain",
+      "value": "w1mail.com"
+    },
     "w50kzn94.xyz": {
       "confidence": 0.93,
       "date": "2026-08-12 00:13:07",
@@ -57975,6 +58247,20 @@
       "type": "url",
       "value": "http://www.login-accounts.dynu.net"
     },
+    "www.metamonetization.live": {
+      "confidence": 0.8,
+      "date": "2026-09-05 21:11:25",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Facebook phishing site at metamonetization.live.",
+      "threat_type": "phishing",
+      "tweet_id": "2096345481630663158",
+      "type": "url",
+      "value": "http://www.metamonetization.live"
+    },
     "www.ncloudtechlab.online": {
       "confidence": 0.87,
       "date": "2026-08-28 19:32:10",
@@ -59506,6 +59792,20 @@
       "type": "domain",
       "value": "yun.jcd666.vip"
     },
+    "yuntianchina.com": {
+      "confidence": 0.78,
+      "date": "2026-08-10 02:08:15",
+      "enriched_at": "2026-09-06T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Large cluster of 90+ Chinese phishing domains including Tmall brand spoofs using security verification lures.",
+      "threat_type": "phishing",
+      "tweet_id": "2086635708375028154",
+      "type": "domain",
+      "value": "yuntianchina.com"
+    },
     "yunxusdt.com": {
       "confidence": 0.9,
       "date": "2026-08-14 13:50:15",
@@ -60969,6 +61269,6 @@
       "value": "zzx.jcd666.vip"
     }
   },
-  "generated_at": "2026-09-05T18:40:04Z",
+  "generated_at": "2026-09-06T00:40:04Z",
   "window_days": 30
 }
