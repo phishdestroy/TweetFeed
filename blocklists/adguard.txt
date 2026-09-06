@@ -1,12 +1,12 @@
-# TweetFeed blocklist - AdGuard / uBlock syntax
-# Window: 30 days
-# Entries: 2610
-# Updated: 2026-09-06T12:30:19Z
-# License: CC0
-# Source: https://api.tweetfeed.live/v1/blocklist/adguard.txt
-# https://tweetfeed.live
-# Community-reported IOCs. Use at your own risk.
-
+! Title: TweetFeed - malicious domains (30 days)
+! Description: Domains shared as IOCs by the infosec community on X/Twitter, extracted by TweetFeed. Community reported, unverified.
+! Homepage: https://tweetfeed.live
+! License: CC0-1.0
+! Expires: 1 hour
+! Last modified: 2026-09-06T14:15:15Z
+! Entries: 2611
+! Source: https://api.tweetfeed.live/v1/blocklist/adguard.txt
+! Regenerated every 15 min - poll at most every 15 min; send If-None-Match (ETag) or If-Modified-Since to receive 304
 ||000.rich^
 ||0000110720265.sbs^
 ||00004444444022.net^
@@ -1415,6 +1415,7 @@
 ||metamonetization.live^
 ||metropenhouses.com^
 ||mfapasskeysetup.com^
+||mfawke.com^
 ||mh-r-al-randv-simdi-hemence.duckdns.org^
 ||mh-rs.182iletisim.click^
 ||mh.pxb70.com^

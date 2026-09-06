@@ -1,14 +1,16 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2610
-; Updated: 2026-09-06T12:30:19Z
+; Entries: 2611
+; Updated: 2026-09-06T14:15:15Z
+; Regenerated every 15 min - poll at most every 15 min
+; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788697819 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788704115 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2828,6 +2830,8 @@ metropenhouses.com CNAME .
 *.metropenhouses.com CNAME .
 mfapasskeysetup.com CNAME .
 *.mfapasskeysetup.com CNAME .
+mfawke.com CNAME .
+*.mfawke.com CNAME .
 mh-r-al-randv-simdi-hemence.duckdns.org CNAME .
 *.mh-r-al-randv-simdi-hemence.duckdns.org CNAME .
 mh-rs.182iletisim.click CNAME .
