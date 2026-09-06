@@ -47,7 +47,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-09-06 07:30:17 (UTC)</th>
+        <th colspan=4>2026-09-06 07:45:16 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -180,8 +180,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 1 | 125 | 3036 | 51768 |
-| **:globe_with_meridians: Domains** | 1 | 119 | 2694 | 41835 |
+| **:link: URLs** | 2 | 126 | 3037 | 51769 |
+| **:globe_with_meridians: Domains** | 2 | 120 | 2695 | 41836 |
 | **:triangular_flag_on_post: IPs** | 0 | 24 | 489 | 8489 |
 | **:1234: SHA256** | 0 | 9 | 301 | 2700 |
 | **:1234: MD5** | 0 | 3 | 130 | 2371 |
@@ -222,7 +222,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->93<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#1** | [scanmalware](https://x.com/scanmalware) | 4 |
 | **#2** | [-](https://x.com/-) | 0 |
 | **#3** | [-](https://x.com/-) | 0 |
 | **#4** | [-](https://x.com/-) | 0 |
