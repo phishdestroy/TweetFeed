@@ -47,7 +47,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-09-06 01:45:13 (UTC)</th>
+        <th colspan=4>2026-09-06 02:00:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -180,8 +180,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 124 | 3035 | 51767 |
-| **:globe_with_meridians: Domains** | 0 | 118 | 2693 | 41834 |
+| **:link: URLs** | 1 | 125 | 3036 | 51768 |
+| **:globe_with_meridians: Domains** | 1 | 119 | 2694 | 41835 |
 | **:triangular_flag_on_post: IPs** | 0 | 24 | 489 | 8489 |
 | **:1234: SHA256** | 0 | 9 | 301 | 2700 |
 | **:1234: MD5** | 0 | 3 | 130 | 2371 |
@@ -202,7 +202,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 0 | 80 | 11647 |
 | **#C2** | 0 | 4 | 113 | 7072 |
 | **#scam** | 0 | 8 | 20 | 5200 |
-| **#malware** | 0 | 59 | 405 | 2730 |
+| **#malware** | 2 | 61 | 407 | 2732 |
 | **#APT** | 0 | 8 | 146 | 1675 |
 | **#CobaltStrike** | 0 | 2 | 13 | 1512 |
 | **#AsyncRAT** | 0 | 0 | 21 | 832 |
@@ -222,7 +222,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->93<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [-](https://x.com/-) | 0 |
+| **#1** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#2** | [-](https://x.com/-) | 0 |
 | **#3** | [-](https://x.com/-) | 0 |
 | **#4** | [-](https://x.com/-) | 0 |
