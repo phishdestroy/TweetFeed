@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1254
-; Updated: 2026-09-15T22:00:20Z
+; Entries: 1256
+; Updated: 2026-09-15T23:00:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789509620 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789513219 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -562,6 +562,8 @@ dora0xyz.site CNAME .
 *.dora0xyz.site CNAME .
 dossieretudiant.polymlt.ca CNAME .
 *.dossieretudiant.polymlt.ca CNAME .
+downin.club CNAME .
+*.downin.club CNAME .
 download.cctoken.us CNAME .
 *.download.cctoken.us CNAME .
 download.vvtoken.top CNAME .
@@ -1918,6 +1920,8 @@ sqllq.com CNAME .
 *.sqllq.com CNAME .
 ss.idms-service-cloud2-651246814854185.workers.dev CNAME .
 *.ss.idms-service-cloud2-651246814854185.workers.dev CNAME .
+ssmail.ink CNAME .
+*.ssmail.ink CNAME .
 sso-godaddy-mxnbwzhrnswmmlwvkrtfdufx.pages.dev CNAME .
 *.sso-godaddy-mxnbwzhrnswmmlwvkrtfdufx.pages.dev CNAME .
 stachi.ydns.eu CNAME .
