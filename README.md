@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-03 10:30:20 (UTC)</th>
+        <th colspan=4>2026-10-03 10:45:16 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 20 | 425 | 1679 | 47312 |
-| **:globe_with_meridians: Domains** | 20 | 365 | 1502 | 41033 |
+| **:link: URLs** | 22 | 427 | 1681 | 47314 |
+| **:globe_with_meridians: Domains** | 22 | 367 | 1504 | 41035 |
 | **:triangular_flag_on_post: IPs** | 2 | 188 | 373 | 6298 |
 | **:1234: SHA256** | 0 | 74 | 172 | 2691 |
 | **:1234: MD5** | 0 | 11 | 69 | 2191 |
@@ -233,10 +233,10 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | **#1** | [TKemmerling](https://x.com/TKemmerling) | 22 |
 | **#2** | [masaomi346](https://x.com/masaomi346) | 6 |
 | **#3** | [MsftSecIntel](https://x.com/MsftSecIntel) | 6 |
-| **#4** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#5** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#6** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#4** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#5** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#6** | [phishunt_io](https://x.com/phishunt_io) | 3 |
+| **#7** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
