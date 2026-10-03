@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1352
-; Updated: 2026-10-03T01:30:18Z
+; Entries: 1355
+; Updated: 2026-10-03T02:00:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1790991018 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1790992819 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -406,6 +406,8 @@ capitaltrackspro.com CNAME .
 *.capitaltrackspro.com CNAME .
 capitalwillowgate.com CNAME .
 *.capitalwillowgate.com CNAME .
+capsysnet.vg CNAME .
+*.capsysnet.vg CNAME .
 captchatimestamp.com CNAME .
 *.captchatimestamp.com CNAME .
 car-vertical-report.com CNAME .
@@ -460,6 +462,8 @@ chocolate65.beer CNAME .
 *.chocolate65.beer CNAME .
 ciksecrets.net CNAME .
 *.ciksecrets.net CNAME .
+ciliabula.cc CNAME .
+*.ciliabula.cc CNAME .
 cinematicjazzorchestra.info CNAME .
 *.cinematicjazzorchestra.info CNAME .
 clainasns.beer CNAME .
@@ -506,6 +510,8 @@ cnplacen-jprakutanziu.com CNAME .
 *.cnplacen-jprakutanziu.com CNAME .
 coasthaorhoper.com CNAME .
 *.coasthaorhoper.com CNAME .
+cocojambo.us.com CNAME .
+*.cocojambo.us.com CNAME .
 codex-desk.com CNAME .
 *.codex-desk.com CNAME .
 coinbaseverify.vercel.app CNAME .
