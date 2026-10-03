@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1374
-; Updated: 2026-10-03T22:00:19Z
+; Entries: 1376
+; Updated: 2026-10-03T23:00:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1791064819 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1791068419 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1266,6 +1266,8 @@ krestmoais-reed.life CNAME .
 *.krestmoais-reed.life CNAME .
 kt6a61dr.cyou CNAME .
 *.kt6a61dr.cyou CNAME .
+ktcinvesting.com CNAME .
+*.ktcinvesting.com CNAME .
 kucoins-signin.com CNAME .
 *.kucoins-signin.com CNAME .
 kxlrq279nhw-fghzdfyn-3y0x1g-wp833a.pages.dev CNAME .
@@ -1300,6 +1302,8 @@ lelinhore.net CNAME .
 *.lelinhore.net CNAME .
 lemon-1789655480294.staticrun.app CNAME .
 *.lemon-1789655480294.staticrun.app CNAME .
+lepiceriemarket.com CNAME .
+*.lepiceriemarket.com CNAME .
 lervuni-mpt-qazvoro-c3d6me71.pages.dev CNAME .
 *.lervuni-mpt-qazvoro-c3d6me71.pages.dev CNAME .
 lesbolides.eu CNAME .
