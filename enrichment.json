@@ -1196,20 +1196,6 @@
       "type": "url",
       "value": "http://134.122.128.120"
     },
-    "135.181.34.42": {
-      "confidence": 0.95,
-      "date": "2026-09-03 07:01:31",
-      "enriched_at": "2026-09-03T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Microsoft OneDrive phishing page on compromised Angolan domain grupoimpaktu.ao, hosted on Hetzner IP in Finland.",
-      "threat_type": "phishing",
-      "tweet_id": "2095406821317984369",
-      "type": "ip",
-      "value": "135.181.34.42"
-    },
     "137.184.98.116": {
       "confidence": 0.95,
       "date": "2026-09-30 07:00:58",
@@ -1374,6 +1360,34 @@
       "tweet_id": "2098668370279166066",
       "type": "ip",
       "value": "147.124.219.81"
+    },
+    "147.45.39.43": {
+      "confidence": 0.5,
+      "date": "2026-10-03 10:47:58",
+      "enriched_at": "2026-10-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Exposed web control panel titled 'SPECTER - \u041f\u0430\u043d\u0435\u043b\u044c \u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f' on 147.45.39.43:7771 with Russian/Portuguese UI strings, likely a malware management panel.",
+      "threat_type": "c2",
+      "tweet_id": "2106335444946542920",
+      "type": "ip",
+      "value": "147.45.39.43"
+    },
+    "147.45.39.43:7771": {
+      "confidence": 0.5,
+      "date": "2026-10-03 10:47:58",
+      "enriched_at": "2026-10-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Exposed web control panel titled 'SPECTER - \u041f\u0430\u043d\u0435\u043b\u044c \u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f' on 147.45.39.43:7771 with Russian/Portuguese UI strings, likely a malware management panel.",
+      "threat_type": "c2",
+      "tweet_id": "2106335444946542920",
+      "type": "url",
+      "value": "http://147.45.39.43:7771"
     },
     "147.45.76.131": {
       "confidence": 0.85,
@@ -1690,6 +1704,20 @@
       "tweet_id": "2105931973499986036",
       "type": "ip",
       "value": "155.117.20.119"
+    },
+    "155.138.162.205": {
+      "confidence": 0.8,
+      "date": "2026-10-03 12:14:38",
+      "enriched_at": "2026-10-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site hosted at collateralvalueassessment[.]info on a Vultr-hosted IP in the United States, reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2106357254077534225",
+      "type": "ip",
+      "value": "155.138.162.205"
     },
     "156.226.182.245": {
       "confidence": 0.92,
@@ -4401,6 +4429,20 @@
       "tweet_id": "2098173414553133414",
       "type": "sha256",
       "value": "2f53cced4eb1de3502d13fdbfabc6d301949816da2fd4244e8ef294187871433"
+    },
+    "3.107.75.193": {
+      "confidence": 0.9,
+      "date": "2026-10-03 07:01:15",
+      "enriched_at": "2026-10-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Facebook credential phishing page at facebook[.]hosweb[.]online hosted on an Amazon IP in Australia.",
+      "threat_type": "phishing",
+      "tweet_id": "2106278390986641848",
+      "type": "ip",
+      "value": "3.107.75.193"
     },
     "3.120.154.17": {
       "confidence": 0.85,
@@ -10009,6 +10051,21 @@
       "type": "url",
       "value": "https://am-prime-sonnerie.com/blog/blog.php"
     },
+    "amber-ridge-bruixsioi.pro": {
+      "confidence": 0.8,
+      "date": "2026-10-03 08:46:30",
+      "enriched_at": "2026-10-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware"
+      ],
+      "summary": "Compromised site leading to ClickFix social-engineering lures via domains vale-quaeum-a4hc9[.]top and amber-ridge-bruixsioi[.]pro.",
+      "threat_type": "malware",
+      "tweet_id": "2106304875802001582",
+      "type": "domain",
+      "value": "amber-ridge-bruixsioi.pro"
+    },
     "americandreamlost.com": {
       "confidence": 0.72,
       "date": "2026-09-14 05:33:24",
@@ -10053,34 +10110,6 @@
       "tweet_id": "2102005183362531677",
       "type": "domain",
       "value": "amylouisesky.com"
-    },
-    "ana-log.therealmasterwithin.com": {
-      "confidence": 0.95,
-      "date": "2026-09-03 12:26:15",
-      "enriched_at": "2026-09-03T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating ANA (All Nippon Airways) at ana-log.therealmasterwithin.com/login-ana/.",
-      "threat_type": "phishing",
-      "tweet_id": "2095488543653306813",
-      "type": "domain",
-      "value": "ana-log.therealmasterwithin.com"
-    },
-    "ana-log.therealmasterwithin.com/login-ana": {
-      "confidence": 0.95,
-      "date": "2026-09-03 12:26:15",
-      "enriched_at": "2026-09-03T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating ANA (All Nippon Airways) at ana-log.therealmasterwithin.com/login-ana/.",
-      "threat_type": "phishing",
-      "tweet_id": "2095488543653306813",
-      "type": "url",
-      "value": "https://ana-log.therealmasterwithin.com/login-ana/"
     },
     "analytics-secure.com": {
       "confidence": 0.7,
@@ -17038,6 +17067,20 @@
       "type": "url",
       "value": "http://facebook.com%2f@appeal-case.about-help.com/app=xs"
     },
+    "facebook.hosweb.online": {
+      "confidence": 0.9,
+      "date": "2026-10-03 07:01:15",
+      "enriched_at": "2026-10-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Facebook credential phishing page at facebook[.]hosweb[.]online hosted on an Amazon IP in Australia.",
+      "threat_type": "phishing",
+      "tweet_id": "2106278390986641848",
+      "type": "domain",
+      "value": "facebook.hosweb.online"
+    },
     "facebook.sioll.net": {
       "confidence": 0.95,
       "date": "2026-09-30 07:00:58",
@@ -17895,6 +17938,20 @@
       "type": "domain",
       "value": "frameworkjsbns.beer"
     },
+    "fullpowerproperties.uk": {
+      "confidence": 0.7,
+      "date": "2026-10-03 11:10:59",
+      "enriched_at": "2026-10-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Domain fullpowerproperties[.]uk flagged by a web scanner as a confirmed scam website.",
+      "threat_type": "scam",
+      "tweet_id": "2106341235518534072",
+      "type": "domain",
+      "value": "fullpowerproperties.uk"
+    },
     "fusionshoppingworks.info": {
       "confidence": 0.85,
       "date": "2026-10-02 17:55:25",
@@ -18636,34 +18693,6 @@
       "tweet_id": "2105625326839906782",
       "type": "domain",
       "value": "grinosp.digital"
-    },
-    "grupoimpaktu.ao": {
-      "confidence": 0.95,
-      "date": "2026-09-03 07:01:31",
-      "enriched_at": "2026-09-03T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Microsoft OneDrive phishing page on compromised Angolan domain grupoimpaktu.ao, hosted on Hetzner IP in Finland.",
-      "threat_type": "phishing",
-      "tweet_id": "2095406821317984369",
-      "type": "domain",
-      "value": "grupoimpaktu.ao"
-    },
-    "grupoimpaktu.ao/quotesss/onedrive-verify-obf.html": {
-      "confidence": 0.95,
-      "date": "2026-09-03 07:01:31",
-      "enriched_at": "2026-09-03T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Microsoft OneDrive phishing page on compromised Angolan domain grupoimpaktu.ao, hosted on Hetzner IP in Finland.",
-      "threat_type": "phishing",
-      "tweet_id": "2095406821317984369",
-      "type": "url",
-      "value": "http://grupoimpaktu.ao/quotesss/onedrive-verify-obf.html"
     },
     "gtib96.onlinewebshop.net": {
       "confidence": 0.75,
@@ -22165,6 +22194,34 @@
       "type": "domain",
       "value": "lightspeed.report"
     },
+    "linksdocumentation001.blob.core.windows.net": {
+      "confidence": 0.85,
+      "date": "2026-10-03 10:33:42",
+      "enriched_at": "2026-10-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Credential phishing chain from an Azure Blob Storage URL redirecting to nettcasters[.]com/connect/ to harvest Microsoft account credentials.",
+      "threat_type": "phishing",
+      "tweet_id": "2106331856040055264",
+      "type": "domain",
+      "value": "linksdocumentation001.blob.core.windows.net"
+    },
+    "linksdocumentation001.blob.core.windows.net/00111/scan020825_0608202622001": {
+      "confidence": 0.85,
+      "date": "2026-10-03 10:33:42",
+      "enriched_at": "2026-10-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Credential phishing chain from an Azure Blob Storage URL redirecting to nettcasters[.]com/connect/ to harvest Microsoft account credentials.",
+      "threat_type": "phishing",
+      "tweet_id": "2106331856040055264",
+      "type": "url",
+      "value": "https://linksdocumentation001.blob.core.windows.net/00111/Scan020825_0608202622001"
+    },
     "linuxsupportsystem.com": {
       "confidence": 0.92,
       "date": "2026-09-23 06:52:04",
@@ -23533,34 +23590,6 @@
       "type": "url",
       "value": "https://miicrosofteamm.com/teams/Windows/"
     },
-    "mikjv2zuc2ct-pages-dev.translate.goog": {
-      "confidence": 0.92,
-      "date": "2026-09-03 08:33:06",
-      "enriched_at": "2026-09-03T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page impersonating Apple support hosted via Google Translate proxy to obscure malicious origin.",
-      "threat_type": "phishing",
-      "tweet_id": "2095429870536786114",
-      "type": "domain",
-      "value": "mikjv2zuc2ct-pages-dev.translate.goog"
-    },
-    "mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;_x_tr_sl=monex&amp;_x_tr_tl=ja": {
-      "confidence": 0.92,
-      "date": "2026-09-03 08:33:06",
-      "enriched_at": "2026-09-03T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page impersonating Apple support hosted via Google Translate proxy to obscure malicious origin.",
-      "threat_type": "phishing",
-      "tweet_id": "2095429870536786114",
-      "type": "url",
-      "value": "https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;_x_tr_sl=monex&amp;_x_tr_tl=ja"
-    },
     "mikoblico.xyz": {
       "confidence": 0.3,
       "date": "2026-09-30 07:05:39",
@@ -24444,6 +24473,34 @@
       "tweet_id": "2099755395338150244",
       "type": "domain",
       "value": "netflix.patelrudra.in"
+    },
+    "nettcasters.com": {
+      "confidence": 0.85,
+      "date": "2026-10-03 10:33:42",
+      "enriched_at": "2026-10-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Credential phishing chain from an Azure Blob Storage URL redirecting to nettcasters[.]com/connect/ to harvest Microsoft account credentials.",
+      "threat_type": "phishing",
+      "tweet_id": "2106331856040055264",
+      "type": "domain",
+      "value": "nettcasters.com"
+    },
+    "nettcasters.com/connect": {
+      "confidence": 0.85,
+      "date": "2026-10-03 10:33:42",
+      "enriched_at": "2026-10-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Credential phishing chain from an Azure Blob Storage URL redirecting to nettcasters[.]com/connect/ to harvest Microsoft account credentials.",
+      "threat_type": "phishing",
+      "tweet_id": "2106331856040055264",
+      "type": "url",
+      "value": "https://nettcasters.com/connect/"
     },
     "newfinancetips.io": {
       "confidence": 0.85,
@@ -28417,23 +28474,6 @@
       "type": "domain",
       "value": "rrbzy.jntqty.com"
     },
-    "rrr.12naga.org": {
-      "confidence": 0.97,
-      "date": "2026-09-03 11:32:19",
-      "enriched_at": "2026-09-03T12:40:04Z",
-      "family": "Vidar",
-      "suggested_tags": [
-        "vidar",
-        "infostealer",
-        "malware",
-        "stealer"
-      ],
-      "summary": "Vidar infostealer C2 domains identified across a 24+ domain cluster including sm188dvlv.icu and 12naga.org infrastructure.",
-      "threat_type": "malware",
-      "tweet_id": "2095474970084143382",
-      "type": "domain",
-      "value": "rrr.12naga.org"
-    },
     "rrrjp.shop": {
       "confidence": 0.88,
       "date": "2026-09-10 09:15:10",
@@ -29548,23 +29588,6 @@
       "tweet_id": "2105926962833498606",
       "type": "domain",
       "value": "settingsportal.com"
-    },
-    "sha.sm188dvlv.icu": {
-      "confidence": 0.97,
-      "date": "2026-09-03 11:32:19",
-      "enriched_at": "2026-09-03T12:40:04Z",
-      "family": "Vidar",
-      "suggested_tags": [
-        "vidar",
-        "infostealer",
-        "malware",
-        "stealer"
-      ],
-      "summary": "Vidar infostealer C2 domains identified across a 24+ domain cluster including sm188dvlv.icu and 12naga.org infrastructure.",
-      "threat_type": "malware",
-      "tweet_id": "2095474970084143382",
-      "type": "domain",
-      "value": "sha.sm188dvlv.icu"
     },
     "share.google/6l88qzwd8liiqotuz": {
       "confidence": 0.82,
@@ -31146,40 +31169,6 @@
       "type": "domain",
       "value": "swiftblooms.com"
     },
-    "tak.123ful.net": {
-      "confidence": 0.97,
-      "date": "2026-09-03 11:32:19",
-      "enriched_at": "2026-09-03T12:40:04Z",
-      "family": "Vidar",
-      "suggested_tags": [
-        "vidar",
-        "infostealer",
-        "malware",
-        "stealer"
-      ],
-      "summary": "Vidar infostealer C2 domains identified across a 24+ domain cluster including sm188dvlv.icu and 12naga.org infrastructure.",
-      "threat_type": "malware",
-      "tweet_id": "2095474970084143382",
-      "type": "domain",
-      "value": "tak.123ful.net"
-    },
-    "tak.sm188dvlv.icu": {
-      "confidence": 0.97,
-      "date": "2026-09-03 11:32:19",
-      "enriched_at": "2026-09-03T12:40:04Z",
-      "family": "Vidar",
-      "suggested_tags": [
-        "vidar",
-        "infostealer",
-        "malware",
-        "stealer"
-      ],
-      "summary": "Vidar infostealer C2 domains identified across a 24+ domain cluster including sm188dvlv.icu and 12naga.org infrastructure.",
-      "threat_type": "malware",
-      "tweet_id": "2095474970084143382",
-      "type": "domain",
-      "value": "tak.sm188dvlv.icu"
-    },
     "talkerresearch.report": {
       "confidence": 0.85,
       "date": "2026-09-16 08:43:19",
@@ -31836,23 +31825,6 @@
       "tweet_id": "2104738468362432676",
       "type": "domain",
       "value": "tqi21.vercel.app"
-    },
-    "tra.12naga.org": {
-      "confidence": 0.97,
-      "date": "2026-09-03 11:32:19",
-      "enriched_at": "2026-09-03T12:40:04Z",
-      "family": "Vidar",
-      "suggested_tags": [
-        "vidar",
-        "infostealer",
-        "malware",
-        "stealer"
-      ],
-      "summary": "Vidar infostealer C2 domains identified across a 24+ domain cluster including sm188dvlv.icu and 12naga.org infrastructure.",
-      "threat_type": "malware",
-      "tweet_id": "2095474970084143382",
-      "type": "domain",
-      "value": "tra.12naga.org"
     },
     "transferpopdownloadnow.monster": {
       "confidence": 0.92,
@@ -32867,6 +32839,21 @@
       "tweet_id": "2101697535022666155",
       "type": "url",
       "value": "https://v6-nq.global.ssl.fastly.net/pep1/30/veri.html?e=temo@microsoft.com"
+    },
+    "vale-quaeum-a4hc9.top": {
+      "confidence": 0.8,
+      "date": "2026-10-03 08:46:30",
+      "enriched_at": "2026-10-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware"
+      ],
+      "summary": "Compromised site leading to ClickFix social-engineering lures via domains vale-quaeum-a4hc9[.]top and amber-ridge-bruixsioi[.]pro.",
+      "threat_type": "malware",
+      "tweet_id": "2106304875802001582",
+      "type": "domain",
+      "value": "vale-quaeum-a4hc9.top"
     },
     "valeriediedrich13.screenconnect.com": {
       "confidence": 0.88,
@@ -35559,6 +35546,6 @@
       "value": "\u7d50\u5a5a\u5f0f\u306e\u3054\u62db\u5f85.zip"
     }
   },
-  "generated_at": "2026-10-03T06:40:05Z",
+  "generated_at": "2026-10-03T12:40:03Z",
   "window_days": 30
 }
