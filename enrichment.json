@@ -1,5 +1,5 @@
 {
-  "count": 2329,
+  "count": 2342,
   "dead_tweets": {
     "2096234357635834097": {
       "attempts": 2,
@@ -3050,6 +3050,20 @@
       "tweet_id": "2106046121827037599",
       "type": "ip",
       "value": "198.46.198.206"
+    },
+    "199.191.50.190": {
+      "confidence": 0.9,
+      "date": "2026-10-03 00:43:08",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating CIC/SFR/Cr\u00e9dit Mutuel client space on a direct-ing-online.site subdomain, hosted on a British Virgin Islands IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2106183232610091488",
+      "type": "ip",
+      "value": "199.191.50.190"
     },
     "199.59.150.93": {
       "confidence": 0.95,
@@ -6444,21 +6458,6 @@
       "type": "sha256",
       "value": "4fa7e28489d578b320723fedd5c5e8ce19e908ef7e2b9aaf843d77487d814f15"
     },
-    "5.135.193.194": {
-      "confidence": 0.9,
-      "date": "2026-09-03 01:29:54",
-      "enriched_at": "2026-09-03T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "phishing"
-      ],
-      "summary": "419 advance-fee fraud infrastructure: claudpod.com on 5.135.193.194 (OVH) used by scam facilitators.",
-      "threat_type": "scam",
-      "tweet_id": "2095323366995415429",
-      "type": "ip",
-      "value": "5.135.193.194"
-    },
     "5.175.221.206": {
       "confidence": 0.8,
       "date": "2026-09-12 16:07:03",
@@ -9656,6 +9655,21 @@
       "type": "sha256",
       "value": "afcc9ef22dce6325cbb04fcc582018814025af6889e2bfc0278f28d176155c91"
     },
+    "agas6-szl-rh1a-y71b1-17-09-2026-aa.pages.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-03 01:03:45",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Cloudflare pages.dev site flagged as a confirmed scam/phishing by a web malware scanner.",
+      "threat_type": "phishing",
+      "tweet_id": "2106188420917686612",
+      "type": "domain",
+      "value": "agas6-szl-rh1a-y71b1-17-09-2026-aa.pages.dev"
+    },
     "agenziaunipolsairoma.info": {
       "confidence": 0.9,
       "date": "2026-09-09 00:00:53",
@@ -10255,6 +10269,20 @@
       "tweet_id": "2103934814671745035",
       "type": "domain",
       "value": "anunds.com"
+    },
+    "aosasw.com": {
+      "confidence": 0.85,
+      "date": "2026-10-03 01:12:01",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating JCB card services hosted on aosasw.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2106190503675085052",
+      "type": "domain",
+      "value": "aosasw.com"
     },
     "api.npoint.io": {
       "confidence": 0.95,
@@ -11438,6 +11466,21 @@
       "type": "domain",
       "value": "bessemer.report"
     },
+    "bestdiscountzone.com": {
+      "confidence": 0.7,
+      "date": "2026-10-03 03:54:47",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Fake ClearChoice dental discount lure from bestdiscountzone.com redirecting to grabthedeals.net.",
+      "threat_type": "phishing",
+      "tweet_id": "2106231465059217644",
+      "type": "domain",
+      "value": "bestdiscountzone.com"
+    },
     "beton-beton.eu": {
       "confidence": 0.95,
       "date": "2026-09-25 14:31:15",
@@ -11986,34 +12029,6 @@
       "type": "domain",
       "value": "brandstrengththroughconsistency.de"
     },
-    "bravqhz.cfd": {
-      "confidence": 0.95,
-      "date": "2026-09-03 02:38:40",
-      "enriched_at": "2026-09-03T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Saison Card (Japanese credit card) at bravqhz.cfd/dsfd/#/index.",
-      "threat_type": "phishing",
-      "tweet_id": "2095340671628665137",
-      "type": "domain",
-      "value": "bravqhz.cfd"
-    },
-    "bravqhz.cfd/dsfd/#/index": {
-      "confidence": 0.95,
-      "date": "2026-09-03 02:38:40",
-      "enriched_at": "2026-09-03T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Saison Card (Japanese credit card) at bravqhz.cfd/dsfd/#/index.",
-      "threat_type": "phishing",
-      "tweet_id": "2095340671628665137",
-      "type": "url",
-      "value": "https://bravqhz.cfd/dsfd/#/index"
-    },
     "brewingwithoutagenda.de": {
       "confidence": 0.9,
       "date": "2026-10-02 13:51:37",
@@ -12057,21 +12072,6 @@
       "tweet_id": "2103492532810232027",
       "type": "domain",
       "value": "bruoth-family.eu"
-    },
-    "btc6688.com": {
-      "confidence": 0.88,
-      "date": "2026-09-03 02:30:16",
-      "enriched_at": "2026-09-03T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "scam"
-      ],
-      "summary": "Fraudulent crypto platform Btc6688.com flagged as scam; post promotes recovery-scam DM service.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2095338560459022392",
-      "type": "domain",
-      "value": "btc6688.com"
     },
     "budgetweddingplanner.info": {
       "confidence": 0.85,
@@ -12794,6 +12794,24 @@
       "type": "domain",
       "value": "capitalwillowgate.com"
     },
+    "capsysnet.vg": {
+      "confidence": 0.85,
+      "date": "2026-10-03 01:39:45",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "infostealer",
+        "malware",
+        "c2"
+      ],
+      "summary": "Compromised websites deliver ClickFix lures pre-caching a VBScript payload disguised as PNG; leads to PowerShell stages, credential theft and Python persistence.",
+      "threat_type": "malware",
+      "tweet_id": "2106197481960706155",
+      "type": "domain",
+      "value": "capsysnet.vg"
+    },
     "captchatimestamp.com": {
       "confidence": 0.7,
       "date": "2026-09-26 19:47:37",
@@ -13350,6 +13368,24 @@
       "type": "domain",
       "value": "ciksecrets.net"
     },
+    "ciliabula.cc": {
+      "confidence": 0.85,
+      "date": "2026-10-03 01:39:45",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "infostealer",
+        "malware",
+        "c2"
+      ],
+      "summary": "Compromised websites deliver ClickFix lures pre-caching a VBScript payload disguised as PNG; leads to PowerShell stages, credential theft and Python persistence.",
+      "threat_type": "malware",
+      "tweet_id": "2106197481960706155",
+      "type": "domain",
+      "value": "ciliabula.cc"
+    },
     "cinematicjazzorchestra.info": {
       "confidence": 0.85,
       "date": "2026-09-29 15:28:03",
@@ -13432,21 +13468,6 @@
       "tweet_id": "2103095348113924175",
       "type": "domain",
       "value": "claudjaframework.beer"
-    },
-    "claudpod.com": {
-      "confidence": 0.9,
-      "date": "2026-09-03 01:29:54",
-      "enriched_at": "2026-09-03T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "phishing"
-      ],
-      "summary": "419 advance-fee fraud infrastructure: claudpod.com on 5.135.193.194 (OVH) used by scam facilitators.",
-      "threat_type": "scam",
-      "tweet_id": "2095323366995415429",
-      "type": "domain",
-      "value": "claudpod.com"
     },
     "claufancdn.beer": {
       "confidence": 0.92,
@@ -13763,6 +13784,42 @@
       "type": "domain",
       "value": "cock.li"
     },
+    "cocojambo.us.com": {
+      "confidence": 0.85,
+      "date": "2026-10-03 01:39:45",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "infostealer",
+        "malware",
+        "c2"
+      ],
+      "summary": "Compromised websites deliver ClickFix lures pre-caching a VBScript payload disguised as PNG; leads to PowerShell stages, credential theft and Python persistence.",
+      "threat_type": "malware",
+      "tweet_id": "2106197481960706155",
+      "type": "domain",
+      "value": "cocojambo.us.com"
+    },
+    "cocojambo.us.com/alfa": {
+      "confidence": 0.85,
+      "date": "2026-10-03 01:39:45",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "infostealer",
+        "malware",
+        "c2"
+      ],
+      "summary": "Compromised websites deliver ClickFix lures pre-caching a VBScript payload disguised as PNG; leads to PowerShell stages, credential theft and Python persistence.",
+      "threat_type": "malware",
+      "tweet_id": "2106197481960706155",
+      "type": "url",
+      "value": "http://cocojambo.us.com/alfa"
+    },
     "codex-desk.com": {
       "confidence": 0.85,
       "date": "2026-09-14 12:20:45",
@@ -13793,6 +13850,21 @@
       "tweet_id": "2102689441202532606",
       "type": "domain",
       "value": "coinbaseverify.vercel.app"
+    },
+    "collateralvalueassessment.info": {
+      "confidence": 0.7,
+      "date": "2026-10-03 01:53:17",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Loan lure from collateralvalueassessment.info redirecting to another domain corroborated by public reports as malicious.",
+      "threat_type": "phishing",
+      "tweet_id": "2106200887240859805",
+      "type": "domain",
+      "value": "collateralvalueassessment.info"
     },
     "comecome.click": {
       "confidence": 0.95,
@@ -13936,6 +14008,21 @@
       "tweet_id": "2103429649749680556",
       "type": "url",
       "value": "http://corecloudwave.online:7843/documents_more_authority_services/"
+    },
+    "costcodeltosin.s3.us-east-1.amazonaws.com": {
+      "confidence": 0.75,
+      "date": "2026-10-03 00:54:14",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Fake Costco membership renewal lure from littledogdesigngoods.com redirecting to an S3-hosted page.",
+      "threat_type": "phishing",
+      "tweet_id": "2106186027211911261",
+      "type": "domain",
+      "value": "costcodeltosin.s3.us-east-1.amazonaws.com"
     },
     "cove-koi-hk753.xyz": {
       "confidence": 0.75,
@@ -18462,6 +18549,21 @@
       "type": "domain",
       "value": "gppcdnns.beer"
     },
+    "grabthedeals.net": {
+      "confidence": 0.7,
+      "date": "2026-10-03 03:54:47",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Fake ClearChoice dental discount lure from bestdiscountzone.com redirecting to grabthedeals.net.",
+      "threat_type": "phishing",
+      "tweet_id": "2106231465059217644",
+      "type": "domain",
+      "value": "grabthedeals.net"
+    },
     "grabtrendingoffer.com": {
       "confidence": 0.9,
       "date": "2026-09-22 13:27:58",
@@ -19119,6 +19221,21 @@
       "tweet_id": "2101207456357679495",
       "type": "domain",
       "value": "healthassistcarepro.com"
+    },
+    "healthbalancegrow.net": {
+      "confidence": 0.7,
+      "date": "2026-10-03 05:54:19",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing/scam lures offering nerve-support and eyesight products reused the domains news.healthnutrihubs.com and healthbalancegrow.net.",
+      "threat_type": "phishing",
+      "tweet_id": "2106261545911230666",
+      "type": "domain",
+      "value": "healthbalancegrow.net"
     },
     "healthcare.com": {
       "confidence": 0.85,
@@ -22017,6 +22134,21 @@
       "type": "domain",
       "value": "library.alexanderscourby.com"
     },
+    "lifewithmyfriend.com": {
+      "confidence": 0.7,
+      "date": "2026-10-03 04:54:07",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Auto-insurance lure originating from lifewithmyfriend.com redirected to a further malicious domain; users advised to avoid the offer.",
+      "threat_type": "phishing",
+      "tweet_id": "2106246397318287518",
+      "type": "domain",
+      "value": "lifewithmyfriend.com"
+    },
     "lightspeed.report": {
       "confidence": 0.85,
       "date": "2026-09-16 08:43:19",
@@ -22047,6 +22179,21 @@
       "tweet_id": "2102652200162095329",
       "type": "domain",
       "value": "linuxsupportsystem.com"
+    },
+    "littledogdesigngoods.com": {
+      "confidence": 0.75,
+      "date": "2026-10-03 00:54:14",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Fake Costco membership renewal lure from littledogdesigngoods.com redirecting to an S3-hosted page.",
+      "threat_type": "phishing",
+      "tweet_id": "2106186027211911261",
+      "type": "domain",
+      "value": "littledogdesigngoods.com"
     },
     "lkntansr.net": {
       "confidence": 0.9,
@@ -24312,6 +24459,21 @@
       "tweet_id": "2106171017370705986",
       "type": "domain",
       "value": "newfinancetips.io"
+    },
+    "news.healthnutrihubs.com": {
+      "confidence": 0.7,
+      "date": "2026-10-03 05:54:19",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing/scam lures offering nerve-support and eyesight products reused the domains news.healthnutrihubs.com and healthbalancegrow.net.",
+      "threat_type": "phishing",
+      "tweet_id": "2106261545911230666",
+      "type": "domain",
+      "value": "news.healthnutrihubs.com"
     },
     "neww-project-pdffiles.vercel.app": {
       "confidence": 0.6,
@@ -31902,6 +32064,21 @@
       "type": "domain",
       "value": "trust-wallet-bnb.vercel.app"
     },
+    "trustedhomeimprove.com": {
+      "confidence": 0.65,
+      "date": "2026-10-03 02:55:24",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Window Nation themed home-improvement offer from trustedhomeimprove.com leading to unrelated infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2106216520250790217",
+      "type": "domain",
+      "value": "trustedhomeimprove.com"
+    },
     "trustwallet-help.online": {
       "confidence": 0.85,
       "date": "2026-09-13 01:48:35",
@@ -34064,6 +34241,20 @@
       "type": "domain",
       "value": "wuyouwaosd.com"
     },
+    "ww17.cic-sfr-credit-mutuel-espace-client.direct-ing-online.site": {
+      "confidence": 0.9,
+      "date": "2026-10-03 00:43:08",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating CIC/SFR/Cr\u00e9dit Mutuel client space on a direct-ing-online.site subdomain, hosted on a British Virgin Islands IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2106183232610091488",
+      "type": "domain",
+      "value": "ww17.cic-sfr-credit-mutuel-espace-client.direct-ing-online.site"
+    },
     "www-finance-gov-pk.fetchdrives.info": {
       "confidence": 0.93,
       "date": "2026-09-05 08:51:25",
@@ -34107,6 +34298,20 @@
       "tweet_id": "2101205061028176339",
       "type": "url",
       "value": "http://www-robloxk.com/login?returlUrl=1445876836"
+    },
+    "www.aosasw.com/up/webmasters/myaccounts/iss": {
+      "confidence": 0.85,
+      "date": "2026-10-03 01:12:01",
+      "enriched_at": "2026-10-03T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating JCB card services hosted on aosasw.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2106190503675085052",
+      "type": "url",
+      "value": "https://www.aosasw.com/UP/Webmasters/MyAccounts/iss/"
     },
     "www.dongwana.com/amex_tgmail202609/turnstile-check": {
       "confidence": 0.95,
@@ -35354,6 +35559,6 @@
       "value": "\u7d50\u5a5a\u5f0f\u306e\u3054\u62db\u5f85.zip"
     }
   },
-  "generated_at": "2026-10-03T00:40:04Z",
+  "generated_at": "2026-10-03T06:40:05Z",
   "window_days": 30
 }
