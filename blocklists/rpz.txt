@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1369
-; Updated: 2026-10-03T13:45:16Z
+; Entries: 1370
+; Updated: 2026-10-03T15:30:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1791035116 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1791041418 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2450,6 +2450,8 @@ uoyleep.yzz.me CNAME .
 *.uoyleep.yzz.me CNAME .
 upascreaph.com CNAME .
 *.upascreaph.com CNAME .
+update-ssl.netlify.app CNAME .
+*.update-ssl.netlify.app CNAME .
 updates.nmwatchman.com CNAME .
 *.updates.nmwatchman.com CNAME .
 upwebbmaster.com CNAME .
