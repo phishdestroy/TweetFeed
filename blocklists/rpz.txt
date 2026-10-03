@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1360
-; Updated: 2026-10-03T05:15:15Z
+; Entries: 1362
+; Updated: 2026-10-03T06:15:13Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1791004515 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1791008113 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1002,6 +1002,8 @@ health.vitalhealthportal.com CNAME .
 *.health.vitalhealthportal.com CNAME .
 healthassistcarepro.com CNAME .
 *.healthassistcarepro.com CNAME .
+healthbalancegrow.net CNAME .
+*.healthbalancegrow.net CNAME .
 healthorazone.com CNAME .
 *.healthorazone.com CNAME .
 healthprimeflow.com CNAME .
@@ -1548,6 +1550,8 @@ netflix.patelrudra.in CNAME .
 *.netflix.patelrudra.in CNAME .
 newfinancetips.io CNAME .
 *.newfinancetips.io CNAME .
+news.healthnutrihubs.com CNAME .
+*.news.healthnutrihubs.com CNAME .
 neww-project-pdffiles.vercel.app CNAME .
 *.neww-project-pdffiles.vercel.app CNAME .
 nextgenshoppingcardeals.info CNAME .
