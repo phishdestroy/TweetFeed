@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1370
-; Updated: 2026-10-03T15:30:18Z
+; Entries: 1371
+; Updated: 2026-10-03T19:00:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1791041418 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1791054018 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2276,6 +2276,8 @@ stylishhomegallery.com CNAME .
 *.stylishhomegallery.com CNAME .
 submit-form.com CNAME .
 *.submit-form.com CNAME .
+suckmydick.implantsity.pro CNAME .
+*.suckmydick.implantsity.pro CNAME .
 sumsub.report CNAME .
 *.sumsub.report CNAME .
 sunyotech.com CNAME .
