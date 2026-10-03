@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1356
-; Updated: 2026-10-03T02:15:13Z
+; Entries: 1357
+; Updated: 2026-10-03T03:15:15Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1790993713 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1790997315 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2378,6 +2378,8 @@ truenorthworks.fun CNAME .
 *.truenorthworks.fun CNAME .
 trust-wallet-bnb.vercel.app CNAME .
 *.trust-wallet-bnb.vercel.app CNAME .
+trustedhomeimprove.com CNAME .
+*.trustedhomeimprove.com CNAME .
 trustwallet-help.online CNAME .
 *.trustwallet-help.online CNAME .
 tsanotityr.com CNAME .
