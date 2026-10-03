@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-03 14:00:18 (UTC)</th>
+        <th colspan=4>2026-10-03 14:15:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 26 | 431 | 1685 | 47318 |
+| **:link: URLs** | 36 | 441 | 1695 | 47328 |
 | **:globe_with_meridians: Domains** | 24 | 369 | 1506 | 41037 |
-| **:triangular_flag_on_post: IPs** | 4 | 190 | 375 | 6300 |
+| **:triangular_flag_on_post: IPs** | 14 | 200 | 385 | 6310 |
 | **:1234: SHA256** | 1 | 75 | 173 | 2692 |
 | **:1234: MD5** | 0 | 11 | 69 | 2191 |
 
@@ -213,7 +213,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#C2** | 0 | 29 | 121 | 2441 |
 | **#APT** | 0 | 10 | 44 | 1586 |
 | **#ClickFix** | 4 | 104 | 363 | 930 |
-| **#opendir** | 0 | 6 | 21 | 698 |
+| **#opendir** | 20 | 26 | 41 | 718 |
 | **#stealer** | 0 | 1 | 17 | 686 |
 <!-- TAG_TABLE_END -->
 
@@ -231,15 +231,15 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [TKemmerling](https://x.com/TKemmerling) | 22 |
-| **#2** | [masaomi346](https://x.com/masaomi346) | 6 |
-| **#3** | [MsftSecIntel](https://x.com/MsftSecIntel) | 6 |
-| **#4** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
-| **#5** | [PhishStats](https://x.com/PhishStats) | 4 |
-| **#6** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#7** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#8** | [smica83](https://x.com/smica83) | 3 |
-| **#9** | [petrovic082](https://x.com/petrovic082) | 1 |
-| **#10** | [-](https://x.com/-) | 0 |
+| **#2** | [momomopas](https://x.com/momomopas) | 20 |
+| **#3** | [masaomi346](https://x.com/masaomi346) | 6 |
+| **#4** | [MsftSecIntel](https://x.com/MsftSecIntel) | 6 |
+| **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
+| **#6** | [PhishStats](https://x.com/PhishStats) | 4 |
+| **#7** | [scanmalware](https://x.com/scanmalware) | 4 |
+| **#8** | [phishunt_io](https://x.com/phishunt_io) | 3 |
+| **#9** | [smica83](https://x.com/smica83) | 3 |
+| **#10** | [petrovic082](https://x.com/petrovic082) | 1 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
