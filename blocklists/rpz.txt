@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1348
-; Updated: 2026-10-03T01:00:20Z
+; Entries: 1351
+; Updated: 2026-10-03T01:15:14Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1790989220 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1790990114 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -98,6 +98,8 @@ aexshorthoo26d.w287qb.info CNAME .
 *.aexshorthoo26d.w287qb.info CNAME .
 afc-security-report.duckdns.org CNAME .
 *.afc-security-report.duckdns.org CNAME .
+agas6-szl-rh1a-y71b1-17-09-2026-aa.pages.dev CNAME .
+*.agas6-szl-rh1a-y71b1-17-09-2026-aa.pages.dev CNAME .
 agenziaunipolsairoma.info CNAME .
 *.agenziaunipolsairoma.info CNAME .
 ahrefs.report CNAME .
@@ -520,6 +522,8 @@ coral-thistle-kilmkruon.top CNAME .
 *.coral-thistle-kilmkruon.top CNAME .
 corecloudwave.online CNAME .
 *.corecloudwave.online CNAME .
+costcodeltosin.s3.us-east-1.amazonaws.com CNAME .
+*.costcodeltosin.s3.us-east-1.amazonaws.com CNAME .
 cove-koi-hk753.xyz CNAME .
 *.cove-koi-hk753.xyz CNAME .
 coxcommunication.screenconnect.com CNAME .
@@ -1288,6 +1292,8 @@ lightspeed.report CNAME .
 *.lightspeed.report CNAME .
 linuxsupportsystem.com CNAME .
 *.linuxsupportsystem.com CNAME .
+littledogdesigngoods.com CNAME .
+*.littledogdesigngoods.com CNAME .
 lkntansr.net CNAME .
 *.lkntansr.net CNAME .
 llamafile.info CNAME .
