@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-03 08:45:14 (UTC)</th>
+        <th colspan=4>2026-10-03 09:00:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 18 | 423 | 1677 | 47310 |
-| **:globe_with_meridians: Domains** | 18 | 363 | 1500 | 41031 |
+| **:link: URLs** | 20 | 425 | 1679 | 47312 |
+| **:globe_with_meridians: Domains** | 20 | 365 | 1502 | 41033 |
 | **:triangular_flag_on_post: IPs** | 2 | 188 | 373 | 6298 |
 | **:1234: SHA256** | 0 | 74 | 172 | 2691 |
 | **:1234: MD5** | 0 | 11 | 69 | 2191 |
@@ -209,10 +209,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#Kimsuky** | 0 | 12 | 90 | 13299 |
 | **#DPRK** | 0 | 3 | 20 | 11667 |
 | **#scam** | 0 | 16 | 82 | 4447 |
-| **#malware** | 0 | 140 | 603 | 3117 |
+| **#malware** | 4 | 144 | 607 | 3121 |
 | **#C2** | 0 | 29 | 121 | 2441 |
 | **#APT** | 0 | 10 | 44 | 1586 |
-| **#ClickFix** | 0 | 100 | 359 | 926 |
+| **#ClickFix** | 4 | 104 | 363 | 930 |
 | **#opendir** | 0 | 6 | 21 | 698 |
 | **#stealer** | 0 | 1 | 17 | 686 |
 <!-- TAG_TABLE_END -->
@@ -231,11 +231,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [TKemmerling](https://x.com/TKemmerling) | 22 |
-| **#2** | [MsftSecIntel](https://x.com/MsftSecIntel) | 6 |
-| **#3** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#4** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#5** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#6** | [masaomi346](https://x.com/masaomi346) | 2 |
+| **#2** | [masaomi346](https://x.com/masaomi346) | 6 |
+| **#3** | [MsftSecIntel](https://x.com/MsftSecIntel) | 6 |
+| **#4** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#5** | [phishunt_io](https://x.com/phishunt_io) | 3 |
+| **#6** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#7** | [-](https://x.com/-) | 0 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
