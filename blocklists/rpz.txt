@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1376
-; Updated: 2026-10-03T23:00:19Z
+; Entries: 1382
+; Updated: 2026-10-03T23:30:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1791068419 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1791070219 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1710,6 +1710,8 @@ pdfsharepoint.top CNAME .
 *.pdfsharepoint.top CNAME .
 peakhealthbalance.com CNAME .
 *.peakhealthbalance.com CNAME .
+pemfinsideo-jp.com CNAME .
+*.pemfinsideo-jp.com CNAME .
 periods-genetic-stones-government.trycloudflare.com CNAME .
 *.periods-genetic-stones-government.trycloudflare.com CNAME .
 pesgsa.zoyrd.com CNAME .
@@ -1986,6 +1988,8 @@ ricoldimateriaisparaconstrucoes.com CNAME .
 *.ricoldimateriaisparaconstrucoes.com CNAME .
 rinitiative.org CNAME .
 *.rinitiative.org CNAME .
+rivalcastmed-jp.com CNAME .
+*.rivalcastmed-jp.com CNAME .
 riverglasstop.top CNAME .
 *.riverglasstop.top CNAME .
 rnwm.fpewppc.cn CNAME .
@@ -2144,6 +2148,8 @@ sha.sm188dvlv.icu CNAME .
 *.sha.sm188dvlv.icu CNAME .
 shenzhenm-jprakutansui.com CNAME .
 *.shenzhenm-jprakutansui.com CNAME .
+shenzhenmk-jp.com CNAME .
+*.shenzhenmk-jp.com CNAME .
 shieldmetasetup.com CNAME .
 *.shieldmetasetup.com CNAME .
 shop.buyexclusivecart.com CNAME .
@@ -2218,6 +2224,8 @@ soundcloudapp.com CNAME .
 *.soundcloudapp.com CNAME .
 southcoastshop-etzax.com CNAME .
 *.southcoastshop-etzax.com CNAME .
+southportlane-jp.com CNAME .
+*.southportlane-jp.com CNAME .
 sp11ct-fardok-biz8-molvik-keslor.pages.dev CNAME .
 *.sp11ct-fardok-biz8-molvik-keslor.pages.dev CNAME .
 sp12ct-prandor-biz-fravik-lazsel.pages.dev CNAME .
@@ -2424,6 +2432,8 @@ tubive.com CNAME .
 *.tubive.com CNAME .
 tudaria.com CNAME .
 *.tudaria.com CNAME .
+turismodem-jp.com CNAME .
+*.turismodem-jp.com CNAME .
 turnitin-report.com CNAME .
 *.turnitin-report.com CNAME .
 turntablesky.pro CNAME .
@@ -2746,6 +2756,8 @@ zggangban.com CNAME .
 *.zggangban.com CNAME .
 zhangyexin-jprakutansui.com CNAME .
 *.zhangyexin-jprakutansui.com CNAME .
+zhangyexinx-jp.com CNAME .
+*.zhangyexinx-jp.com CNAME .
 zizhil.com CNAME .
 *.zizhil.com CNAME .
 zledu-sx.oss-cn-beijing.aliyuncs.com CNAME .
