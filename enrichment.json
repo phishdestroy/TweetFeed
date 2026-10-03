@@ -1,5 +1,5 @@
 {
-  "count": 2305,
+  "count": 2329,
   "dead_tweets": {
     "2096234357635834097": {
       "attempts": 2,
@@ -19,6 +19,21 @@
     }
   },
   "entries": {
+    "00575262fc54fb8a46fe59c5abc2b9c5229491da480df9f74aa6acb6954b24f7": {
+      "confidence": 0.6,
+      "date": "2026-10-02 21:31:20",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malicious JavaScript file posing as a Brazilian NFe invoice PDF, seen from Brazil, using a DuckDNS C2 domain and an associated IP.",
+      "threat_type": "c2",
+      "tweet_id": "2106134963691110599",
+      "type": "sha256",
+      "value": "00575262fc54fb8a46fe59c5abc2b9c5229491da480df9f74aa6acb6954b24f7"
+    },
     "046f16d9d267cbb5a97dc561ebc83062e3bd758c22da0eeab42ad17ef65c5087": {
       "confidence": 0.4,
       "date": "2026-09-25 19:35:14",
@@ -2180,6 +2195,21 @@
       "type": "sha256",
       "value": "1702f7ad2a56ef7fca815a01ce5d0ebb43328043d2dbd5cfb4b3f71d0605310c"
     },
+    "172.111.138.100": {
+      "confidence": 0.5,
+      "date": "2026-10-02 21:35:57",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malicious CMD script posing as a purchase order, seen from Thailand on MalwareBazaar, with an associated IP address.",
+      "threat_type": "malware",
+      "tweet_id": "2106136128579670352",
+      "type": "url",
+      "value": "http://172.111.138.100"
+    },
     "172.247.42.180": {
       "confidence": 0.85,
       "date": "2026-09-21 18:27:59",
@@ -2457,6 +2487,21 @@
       "tweet_id": "2100631213018902562",
       "type": "ip",
       "value": "18.229.174.63"
+    },
+    "18.231.77.234": {
+      "confidence": 0.6,
+      "date": "2026-10-02 21:31:20",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malicious JavaScript file posing as a Brazilian NFe invoice PDF, seen from Brazil, using a DuckDNS C2 domain and an associated IP.",
+      "threat_type": "c2",
+      "tweet_id": "2106134963691110599",
+      "type": "url",
+      "value": "http://18.231.77.234"
     },
     "181.224.24.45": {
       "confidence": 0.6,
@@ -3082,6 +3127,22 @@
       "tweet_id": "2105207365989478409",
       "type": "sha256",
       "value": "1aaf44d350c37535c7bc8b3345f1c626c847ebfb50e74ee6781cab848fad70c1"
+    },
+    "1ac8f4d8af26e08e2d646cb6e77b50d5a73921f9adf768f486684c70b99049d0": {
+      "confidence": 0.85,
+      "date": "2026-10-02 23:06:02",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax service, distributed through multiple -jp.com lookalike phishing domains; a sample hash is referenced.",
+      "threat_type": "malware",
+      "tweet_id": "2106158796326515043",
+      "type": "sha256",
+      "value": "1ac8f4d8af26e08e2d646cb6e77b50d5a73921f9adf768f486684c70b99049d0"
     },
     "1af419dc138c624b20069d63712e56a4": {
       "confidence": 0.3,
@@ -4402,6 +4463,20 @@
       "tweet_id": "2066497577206325421",
       "type": "sha256",
       "value": "3063285af5c7586ad04178c52b55da2bc1970cb7ae4fadba2195ad4a3fb8ac50"
+    },
+    "30a54c0221e7ade433636c205e508aaa1006f4df93870ade8fb15db995b98704": {
+      "confidence": 0.4,
+      "date": "2026-10-02 21:24:33",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious archive posing as an eStatement zip, seen from India on MalwareBazaar; no family or infrastructure identified.",
+      "threat_type": "malware",
+      "tweet_id": "2106133260061257980",
+      "type": "sha256",
+      "value": "30a54c0221e7ade433636c205e508aaa1006f4df93870ade8fb15db995b98704"
     },
     "31.210.61.15": {
       "confidence": 0.9,
@@ -5970,21 +6045,6 @@
       "type": "ip",
       "value": "45.56.81.89"
     },
-    "45.74.47.19": {
-      "confidence": 0.85,
-      "date": "2026-09-02 20:49:25",
-      "enriched_at": "2026-09-03T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "fakecaptcha"
-      ],
-      "summary": "Phishing site at ananeosi-melous.com/captcha hosted on AS213441 (Germany) using a fake CAPTCHA gate to capture credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2095252780696961246",
-      "type": "ip",
-      "value": "45.74.47.19"
-    },
     "45.74.61.8": {
       "confidence": 0.95,
       "date": "2026-09-23 16:54:04",
@@ -6276,6 +6336,21 @@
       "tweet_id": "2096740683130478686",
       "type": "sha256",
       "value": "4aff912fec45ec1d4b76ea31dd13dff961131361cef8291ebfa4e38330f1807a"
+    },
+    "4b214e0daccfe228a0d281775d6a7f01580598f51a6b15e6a668851b313abe68": {
+      "confidence": 0.6,
+      "date": "2026-10-02 21:48:24",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malicious VHDX file posing as a PDF, seen from Malaysia on MalwareBazaar, with C2 domain tttkkkssww[.]com.",
+      "threat_type": "malware",
+      "tweet_id": "2106139261699338639",
+      "type": "sha256",
+      "value": "4b214e0daccfe228a0d281775d6a7f01580598f51a6b15e6a668851b313abe68"
     },
     "4cb4f92d8b9314725ba5c0b3f40259442b50f2f18b6ed1517abc338480703fee": {
       "confidence": 0.6,
@@ -6710,6 +6785,21 @@
       "tweet_id": "2106019274342986023",
       "type": "domain",
       "value": "5140390597.cyou"
+    },
+    "51538a2683287a88871c37be515268c34048e1e84b30eecea23164f864e4ecd4": {
+      "confidence": 0.5,
+      "date": "2026-10-02 21:35:57",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malicious CMD script posing as a purchase order, seen from Thailand on MalwareBazaar, with an associated IP address.",
+      "threat_type": "malware",
+      "tweet_id": "2106136128579670352",
+      "type": "sha256",
+      "value": "51538a2683287a88871c37be515268c34048e1e84b30eecea23164f864e4ecd4"
     },
     "52.173.36.83": {
       "confidence": 0.95,
@@ -7379,6 +7469,22 @@
       "tweet_id": "2103755766486487048",
       "type": "sha256",
       "value": "6ee229a62f9d05af87c82b51f0db38ec8153abfc1415e2c685018b34b6fa5392"
+    },
+    "7392bccd63277bc5dec54f97384bb956a1c138bde6d519bc87ff104c86a3dda7": {
+      "confidence": 0.8,
+      "date": "2026-10-02 20:55:10",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "dprk",
+        "malware",
+        "apt"
+      ],
+      "summary": "DPRK-linked shell script (armcameradriver.sh) that appears to be part of the Contagious Interview campaign, shared by malwrhunterteam.",
+      "threat_type": "malware",
+      "tweet_id": "2106125865696309574",
+      "type": "sha256",
+      "value": "7392bccd63277bc5dec54f97384bb956a1c138bde6d519bc87ff104c86a3dda7"
     },
     "73991ef1817030b16209ad160065d5283dff38963b7aee2aaeeddb15eff84bca": {
       "confidence": 0.85,
@@ -8744,6 +8850,20 @@
       "type": "md5",
       "value": "97b7b06fc46806775d2ba0f97985269b"
     },
+    "99a4f10d374c096e576e6b2e82594ce53ff1d429c545d10dbf3647c4ae79ac9a": {
+      "confidence": 0.5,
+      "date": "2026-10-02 21:39:49",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious JavaScript file posing as a Brazilian receipt (ReciboParticular), seen from Brazil on MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2106137098331779564",
+      "type": "sha256",
+      "value": "99a4f10d374c096e576e6b2e82594ce53ff1d429c545d10dbf3647c4ae79ac9a"
+    },
     "99a4f65abf325fde65795e2a7f215c0e30a57e5e8485da2a09e9aa89fa892c25": {
       "confidence": 0.7,
       "date": "2026-09-28 10:29:46",
@@ -9962,36 +10082,6 @@
       "type": "domain",
       "value": "analytics-secure.com"
     },
-    "ananeosi-melous.com": {
-      "confidence": 0.85,
-      "date": "2026-09-02 20:49:25",
-      "enriched_at": "2026-09-03T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "fakecaptcha"
-      ],
-      "summary": "Phishing site at ananeosi-melous.com/captcha hosted on AS213441 (Germany) using a fake CAPTCHA gate to capture credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2095252780696961246",
-      "type": "domain",
-      "value": "ananeosi-melous.com"
-    },
-    "ananeosi-melous.com/captcha": {
-      "confidence": 0.85,
-      "date": "2026-09-02 20:49:25",
-      "enriched_at": "2026-09-03T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "fakecaptcha"
-      ],
-      "summary": "Phishing site at ananeosi-melous.com/captcha hosted on AS213441 (Germany) using a fake CAPTCHA gate to capture credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2095252780696961246",
-      "type": "url",
-      "value": "https://ananeosi-melous.com/captcha"
-    },
     "anaridelight.com": {
       "confidence": 0.8,
       "date": "2026-09-10 04:07:04",
@@ -11101,6 +11191,21 @@
       "tweet_id": "2097218619293745191",
       "type": "domain",
       "value": "barclaysrewards-7bp3hxawof.edgeone.app"
+    },
+    "barnstormfarmfermentory.info": {
+      "confidence": 0.85,
+      "date": "2026-10-02 18:54:30",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing lure posing as an Endurance offer from jfkjetblue[.]com, redirecting to the newly registered barnstormfarmfermentory[.]info.",
+      "threat_type": "phishing",
+      "tweet_id": "2106095497970954724",
+      "type": "domain",
+      "value": "barnstormfarmfermentory.info"
     },
     "basednewsarticle.com": {
       "confidence": 0.9,
@@ -13375,6 +13480,22 @@
       "type": "domain",
       "value": "cldtestin.s3.us-east-1.amazonaws.com"
     },
+    "clearalternat-jp.com": {
+      "confidence": 0.85,
+      "date": "2026-10-02 23:06:02",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax service, distributed through multiple -jp.com lookalike phishing domains; a sample hash is referenced.",
+      "threat_type": "malware",
+      "tweet_id": "2106158796326515043",
+      "type": "domain",
+      "value": "clearalternat-jp.com"
+    },
     "clhfgcomacdn.beer": {
       "confidence": 0.92,
       "date": "2026-09-24 12:12:59",
@@ -13502,6 +13623,20 @@
       "tweet_id": "2103095348113924175",
       "type": "domain",
       "value": "cloude-js-server.beer"
+    },
+    "cloudeltostwoin.s3.us-east-1.amazonaws.com": {
+      "confidence": 0.85,
+      "date": "2026-10-02 21:53:40",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing lure posing as a cloud-storage warning, sent from library.alexanderscourby.com and redirecting to an S3-hosted page.",
+      "threat_type": "phishing",
+      "tweet_id": "2106140584738263112",
+      "type": "domain",
+      "value": "cloudeltostwoin.s3.us-east-1.amazonaws.com"
     },
     "cloudflare-protect.net": {
       "confidence": 0.75,
@@ -13965,22 +14100,6 @@
       "tweet_id": "2105751260632879572",
       "type": "domain",
       "value": "cs21613.s3.us-east-1.amazonaws.com"
-    },
-    "csdgryg.buwrh.com": {
-      "confidence": 0.78,
-      "date": "2026-09-02 23:34:36",
-      "enriched_at": "2026-09-03T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as a Chrome update distributed via csdgryg.buwrh.com across multiple URL paths.",
-      "threat_type": "malware",
-      "tweet_id": "2095294350154715227",
-      "type": "domain",
-      "value": "csdgryg.buwrh.com"
     },
     "cupiakleanav.com": {
       "confidence": 0.75,
@@ -16449,6 +16568,21 @@
       "type": "domain",
       "value": "externalbsnle-smbice.com"
     },
+    "eye.theeyecenterofcolumbus.com": {
+      "confidence": 0.85,
+      "date": "2026-10-02 22:54:02",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing lure offering a fake MyChart Medicare-kit reward, sent from a compromised subdomain and redirecting to an S3-hosted page.",
+      "threat_type": "phishing",
+      "tweet_id": "2106155777866276877",
+      "type": "domain",
+      "value": "eye.theeyecenterofcolumbus.com"
+    },
     "f005.backblazeb2.com": {
       "confidence": 0.85,
       "date": "2026-09-05 18:45:44",
@@ -16650,22 +16784,6 @@
       "tweet_id": "2104559745839579303",
       "type": "md5",
       "value": "f634cf73d9541c0c5233e0f05265e0ad"
-    },
-    "f69f9889b2f2f75520204756711756c03e82a50839156a8ef0c181acc69b74fa": {
-      "confidence": 0.78,
-      "date": "2026-09-02 23:34:36",
-      "enriched_at": "2026-09-03T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as a Chrome update distributed via csdgryg.buwrh.com across multiple URL paths.",
-      "threat_type": "malware",
-      "tweet_id": "2095294350154715227",
-      "type": "sha256",
-      "value": "f69f9889b2f2f75520204756711756c03e82a50839156a8ef0c181acc69b74fa"
     },
     "f7254bf08da4819f93a767423f9b3e9c5c7c2942f931fc74a606691935877a7e": {
       "confidence": 0.85,
@@ -17999,6 +18117,22 @@
       "type": "domain",
       "value": "ghdnsserverns.beer"
     },
+    "ghostlightcoff-jp.com": {
+      "confidence": 0.85,
+      "date": "2026-10-02 23:06:02",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax service, distributed through multiple -jp.com lookalike phishing domains; a sample hash is referenced.",
+      "threat_type": "malware",
+      "tweet_id": "2106158796326515043",
+      "type": "domain",
+      "value": "ghostlightcoff-jp.com"
+    },
     "github.com/checkey04": {
       "confidence": 0.85,
       "date": "2026-09-17 16:25:02",
@@ -19000,6 +19134,21 @@
       "type": "domain",
       "value": "healthcare.com"
     },
+    "healthorazone.com": {
+      "confidence": 0.85,
+      "date": "2026-10-02 23:54:35",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing campaign impersonating a Laura Geller sale; promoted via healthorazone[.]com and redirecting to newfinancetips[.]io, a mismatched non-official site.",
+      "threat_type": "phishing",
+      "tweet_id": "2106171017370705986",
+      "type": "domain",
+      "value": "healthorazone.com"
+    },
     "healthprimeflow.com": {
       "confidence": 0.85,
       "date": "2026-09-19 07:11:10",
@@ -19058,6 +19207,21 @@
       "tweet_id": "2102577164235542548",
       "type": "domain",
       "value": "healthumi.info"
+    },
+    "healthy.smarthealthhabit.com": {
+      "confidence": 0.85,
+      "date": "2026-10-02 20:55:36",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing campaign impersonating a LaserAway sale, sent from healthy.smarthealthhabit.com and redirecting to a mismatched site.",
+      "threat_type": "phishing",
+      "tweet_id": "2106125971430777092",
+      "type": "domain",
+      "value": "healthy.smarthealthhabit.com"
     },
     "heavenrock.pk": {
       "confidence": 0.92,
@@ -19360,6 +19524,21 @@
       "tweet_id": "2105168586428059933",
       "type": "domain",
       "value": "home.productforhome.info"
+    },
+    "homeadvicezone.com": {
+      "confidence": 0.85,
+      "date": "2026-10-02 19:53:30",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing lure posing as an HVAC offer from homeadvicezone[.]com, redirecting to ultradealsbuy[.]com.",
+      "threat_type": "phishing",
+      "tweet_id": "2106110345400160486",
+      "type": "domain",
+      "value": "homeadvicezone.com"
     },
     "hometransformideas.com": {
       "confidence": 0.9,
@@ -20585,6 +20764,22 @@
       "type": "domain",
       "value": "iwannagetmoremoney.beer"
     },
+    "izakayafujiy-jp.com": {
+      "confidence": 0.85,
+      "date": "2026-10-02 23:06:02",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax service, distributed through multiple -jp.com lookalike phishing domains; a sample hash is referenced.",
+      "threat_type": "malware",
+      "tweet_id": "2106158796326515043",
+      "type": "domain",
+      "value": "izakayafujiy-jp.com"
+    },
     "jadxgui.com": {
       "confidence": 0.6,
       "date": "2026-09-26 19:54:58",
@@ -20656,6 +20851,21 @@
       "tweet_id": "2103492532810232027",
       "type": "domain",
       "value": "jetcapital.eu"
+    },
+    "jfkjetblue.com": {
+      "confidence": 0.85,
+      "date": "2026-10-02 18:54:30",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing lure posing as an Endurance offer from jfkjetblue[.]com, redirecting to the newly registered barnstormfarmfermentory[.]info.",
+      "threat_type": "phishing",
+      "tweet_id": "2106095497970954724",
+      "type": "domain",
+      "value": "jfkjetblue.com"
     },
     "jiangchashi-jp.com": {
       "confidence": 0.8,
@@ -21069,6 +21279,21 @@
       "tweet_id": "2097055844076769332",
       "type": "domain",
       "value": "kairostksc.com"
+    },
+    "kanuis2.duckdns.org": {
+      "confidence": 0.6,
+      "date": "2026-10-02 21:31:20",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malicious JavaScript file posing as a Brazilian NFe invoice PDF, seen from Brazil, using a DuckDNS C2 domain and an associated IP.",
+      "threat_type": "c2",
+      "tweet_id": "2106134963691110599",
+      "type": "domain",
+      "value": "kanuis2.duckdns.org"
     },
     "karkarkar.top": {
       "confidence": 0.5,
@@ -21777,6 +22002,20 @@
       "tweet_id": "2100143481482022925",
       "type": "domain",
       "value": "lexus-cs-report.com"
+    },
+    "library.alexanderscourby.com": {
+      "confidence": 0.85,
+      "date": "2026-10-02 21:53:40",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing lure posing as a cloud-storage warning, sent from library.alexanderscourby.com and redirecting to an S3-hosted page.",
+      "threat_type": "phishing",
+      "tweet_id": "2106140584738263112",
+      "type": "domain",
+      "value": "library.alexanderscourby.com"
     },
     "lightspeed.report": {
       "confidence": 0.85,
@@ -22892,6 +23131,22 @@
       "type": "domain",
       "value": "medicinalhealthca.com"
     },
+    "mediumdifficult-jp.com": {
+      "confidence": 0.85,
+      "date": "2026-10-02 23:06:02",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax service, distributed through multiple -jp.com lookalike phishing domains; a sample hash is referenced.",
+      "threat_type": "malware",
+      "tweet_id": "2106158796326515043",
+      "type": "domain",
+      "value": "mediumdifficult-jp.com"
+    },
     "melongr.com": {
       "confidence": 0.9,
       "date": "2026-09-10 01:05:54",
@@ -23369,6 +23624,21 @@
       "type": "domain",
       "value": "mmchart.s3.us-east-1.amazonaws.com"
     },
+    "mmmychar2.s3.us-east-1.amazonaws.com": {
+      "confidence": 0.85,
+      "date": "2026-10-02 22:54:02",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing lure offering a fake MyChart Medicare-kit reward, sent from a compromised subdomain and redirecting to an S3-hosted page.",
+      "threat_type": "phishing",
+      "tweet_id": "2106155777866276877",
+      "type": "domain",
+      "value": "mmmychar2.s3.us-east-1.amazonaws.com"
+    },
     "mmsiriusss.s3.us-east-1.amazonaws.com": {
       "confidence": 0.9,
       "date": "2026-09-13 23:29:21",
@@ -23784,6 +24054,22 @@
       "type": "domain",
       "value": "nargilecimur-jp-etaxrefund.com"
     },
+    "narragansett-jp.com": {
+      "confidence": 0.85,
+      "date": "2026-10-02 23:06:02",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax service, distributed through multiple -jp.com lookalike phishing domains; a sample hash is referenced.",
+      "threat_type": "malware",
+      "tweet_id": "2106158796326515043",
+      "type": "domain",
+      "value": "narragansett-jp.com"
+    },
     "nationalcollaborationinitiative.info": {
       "confidence": 0.6,
       "date": "2026-09-29 14:06:13",
@@ -24011,6 +24297,21 @@
       "tweet_id": "2099755395338150244",
       "type": "domain",
       "value": "netflix.patelrudra.in"
+    },
+    "newfinancetips.io": {
+      "confidence": 0.85,
+      "date": "2026-10-02 23:54:35",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing campaign impersonating a Laura Geller sale; promoted via healthorazone[.]com and redirecting to newfinancetips[.]io, a mismatched non-official site.",
+      "threat_type": "phishing",
+      "tweet_id": "2106171017370705986",
+      "type": "domain",
+      "value": "newfinancetips.io"
     },
     "neww-project-pdffiles.vercel.app": {
       "confidence": 0.6,
@@ -26148,6 +26449,22 @@
       "tweet_id": "2105025810092724389",
       "type": "url",
       "value": "https://proceso-personal-inf2026ac.hstn.me/?i=2"
+    },
+    "processassocia-jp.com": {
+      "confidence": 0.85,
+      "date": "2026-10-02 23:06:02",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax service, distributed through multiple -jp.com lookalike phishing domains; a sample hash is referenced.",
+      "threat_type": "malware",
+      "tweet_id": "2106158796326515043",
+      "type": "domain",
+      "value": "processassocia-jp.com"
     },
     "products.trafobaule.com": {
       "confidence": 0.9,
@@ -31012,6 +31329,21 @@
       "type": "domain",
       "value": "theartoftalki-saisanpolnts.com"
     },
+    "thebitcoincenter.info": {
+      "confidence": 0.85,
+      "date": "2026-09-06 22:57:07",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing lure posing as a McAfee billing warning that sends payment updates to thebitcoincenter[.]info.",
+      "threat_type": "phishing",
+      "tweet_id": "2096734469248152040",
+      "type": "domain",
+      "value": "thebitcoincenter.info"
+    },
     "thenewsn-news.com": {
       "confidence": 0.9,
       "date": "2026-09-25 12:36:20",
@@ -31600,6 +31932,21 @@
       "type": "domain",
       "value": "tsanotityr.com"
     },
+    "tttkkkssww.com": {
+      "confidence": 0.6,
+      "date": "2026-10-02 21:48:24",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malicious VHDX file posing as a PDF, seen from Malaysia on MalwareBazaar, with C2 domain tttkkkssww[.]com.",
+      "threat_type": "malware",
+      "tweet_id": "2106139261699338639",
+      "type": "domain",
+      "value": "tttkkkssww.com"
+    },
     "tubive.com": {
       "confidence": 0.7,
       "date": "2026-09-27 04:34:53",
@@ -31875,6 +32222,21 @@
       "tweet_id": "2097569267084652947",
       "type": "domain",
       "value": "uiopowas.com"
+    },
+    "ultradealsbuy.com": {
+      "confidence": 0.85,
+      "date": "2026-10-02 19:53:30",
+      "enriched_at": "2026-10-03T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing lure posing as an HVAC offer from homeadvicezone[.]com, redirecting to ultradealsbuy[.]com.",
+      "threat_type": "phishing",
+      "tweet_id": "2106110345400160486",
+      "type": "domain",
+      "value": "ultradealsbuy.com"
     },
     "unfactraus.com": {
       "confidence": 0.5,
@@ -34992,6 +35354,6 @@
       "value": "\u7d50\u5a5a\u5f0f\u306e\u3054\u62db\u5f85.zip"
     }
   },
-  "generated_at": "2026-10-02T18:40:03Z",
+  "generated_at": "2026-10-03T00:40:04Z",
   "window_days": 30
 }
