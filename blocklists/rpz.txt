@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1372
-; Updated: 2026-10-03T20:00:18Z
+; Entries: 1373
+; Updated: 2026-10-03T20:30:17Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1791057618 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1791059417 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -450,6 +450,8 @@ cgcdutyfree.com CNAME .
 *.cgcdutyfree.com CNAME .
 cgongseq.com CNAME .
 *.cgongseq.com CNAME .
+champions-authorization-operates-ongoing.trycloudflare.com CNAME .
+*.champions-authorization-operates-ongoing.trycloudflare.com CNAME .
 champions.gdtc.org CNAME .
 *.champions.gdtc.org CNAME .
 chartwells-consulting.com CNAME .
