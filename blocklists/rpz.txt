@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1357
-; Updated: 2026-10-03T03:15:15Z
+; Entries: 1359
+; Updated: 2026-10-03T04:15:15Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1790997315 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1791000915 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -268,6 +268,8 @@ berquni-mpt-zavfelo-r4x8ka65.pages.dev CNAME .
 *.berquni-mpt-zavfelo-r4x8ka65.pages.dev CNAME .
 bessemer.report CNAME .
 *.bessemer.report CNAME .
+bestdiscountzone.com CNAME .
+*.bestdiscountzone.com CNAME .
 beton-beton.eu CNAME .
 *.beton-beton.eu CNAME .
 beyondfitness.com.br CNAME .
@@ -928,6 +930,8 @@ gpcom1.screenconnect.com CNAME .
 *.gpcom1.screenconnect.com CNAME .
 gppcdnns.beer CNAME .
 *.gppcdnns.beer CNAME .
+grabthedeals.net CNAME .
+*.grabthedeals.net CNAME .
 grabtrendingoffer.com CNAME .
 *.grabtrendingoffer.com CNAME .
 granitepointmedia.fun CNAME .
