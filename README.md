@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-07 08:45:17 (UTC)</th>
+        <th colspan=4>2026-10-07 09:00:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 39 | 415 | 1795 | 46992 |
-| **:globe_with_meridians: Domains** | 38 | 348 | 1581 | 40822 |
-| **:triangular_flag_on_post: IPs** | 21 | 221 | 452 | 6280 |
-| **:1234: SHA256** | 6 | 71 | 209 | 2730 |
+| **:link: URLs** | 41 | 417 | 1797 | 46994 |
+| **:globe_with_meridians: Domains** | 39 | 349 | 1582 | 40823 |
+| **:triangular_flag_on_post: IPs** | 22 | 222 | 453 | 6281 |
+| **:1234: SHA256** | 7 | 72 | 210 | 2731 |
 | **:1234: MD5** | 0 | 7 | 70 | 2178 |
 
 </div>
@@ -232,11 +232,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [romonlyht](https://x.com/romonlyht) | 48 |
 | **#2** | [masaomi346](https://x.com/masaomi346) | 21 |
-| **#3** | [TKemmerling](https://x.com/TKemmerling) | 8 |
-| **#4** | [Metemcyber](https://x.com/Metemcyber) | 6 |
-| **#5** | [patialavii](https://x.com/patialavii) | 6 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 5 |
-| **#7** | [smica83](https://x.com/smica83) | 5 |
+| **#3** | [smica83](https://x.com/smica83) | 10 |
+| **#4** | [TKemmerling](https://x.com/TKemmerling) | 8 |
+| **#5** | [Metemcyber](https://x.com/Metemcyber) | 6 |
+| **#6** | [patialavii](https://x.com/patialavii) | 6 |
+| **#7** | [PhishStats](https://x.com/PhishStats) | 5 |
 | **#8** | [phishunt_io](https://x.com/phishunt_io) | 3 |
 | **#9** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#10** | [-](https://x.com/-) | 0 |
