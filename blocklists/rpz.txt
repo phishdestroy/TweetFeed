@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1415
-; Updated: 2026-10-07T03:15:17Z
+; Entries: 1417
+; Updated: 2026-10-07T04:00:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1791342917 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1791345619 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1348,6 +1348,8 @@ leadingspacetechnology.top CNAME .
 *.leadingspacetechnology.top CNAME .
 ledgerwallet.report CNAME .
 *.ledgerwallet.report CNAME .
+legal.honestemploymentlaw.com CNAME .
+*.legal.honestemploymentlaw.com CNAME .
 leiber.top CNAME .
 *.leiber.top CNAME .
 lelinhore.net CNAME .
@@ -2384,6 +2386,8 @@ teamcss.beer CNAME .
 *.teamcss.beer CNAME .
 teamliftss.com CNAME .
 *.teamliftss.com CNAME .
+teams-online.com CNAME .
+*.teams-online.com CNAME .
 teamsmeeting.top CNAME .
 *.teamsmeeting.top CNAME .
 temodlaire.com CNAME .
