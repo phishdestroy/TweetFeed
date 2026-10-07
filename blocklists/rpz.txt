@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1443
-; Updated: 2026-10-07T08:00:19Z
+; Entries: 1445
+; Updated: 2026-10-07T08:30:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1791360019 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1791361820 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1962,6 +1962,8 @@ qdxinruiya-smbice.com CNAME .
 *.qdxinruiya-smbice.com CNAME .
 qhswrb.ntinvoicepload.dynu.net CNAME .
 *.qhswrb.ntinvoicepload.dynu.net CNAME .
+qiotpqfrrypshdvcvhso.supabase.co CNAME .
+*.qiotpqfrrypshdvcvhso.supabase.co CNAME .
 qkxcs.cn CNAME .
 *.qkxcs.cn CNAME .
 qtxfq.cn CNAME .
@@ -2232,6 +2234,8 @@ secretliveo-jp.com CNAME .
 *.secretliveo-jp.com CNAME .
 securedeliverfast.com CNAME .
 *.securedeliverfast.com CNAME .
+securesup.online CNAME .
+*.securesup.online CNAME .
 security-server-landing-page--spencer-hunt1.replit.app CNAME .
 *.security-server-landing-page--spencer-hunt1.replit.app CNAME .
 send.smnambijabajo.com CNAME .
