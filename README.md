@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-07 09:30:19 (UTC)</th>
+        <th colspan=4>2026-10-07 09:45:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 42 | 418 | 1798 | 46995 |
-| **:globe_with_meridians: Domains** | 40 | 350 | 1583 | 40824 |
+| **:link: URLs** | 43 | 419 | 1799 | 46996 |
+| **:globe_with_meridians: Domains** | 41 | 351 | 1584 | 40825 |
 | **:triangular_flag_on_post: IPs** | 22 | 222 | 453 | 6281 |
 | **:1234: SHA256** | 7 | 72 | 210 | 2731 |
 | **:1234: MD5** | 0 | 7 | 70 | 2178 |
@@ -239,7 +239,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | **#7** | [PhishStats](https://x.com/PhishStats) | 5 |
 | **#8** | [phishunt_io](https://x.com/phishunt_io) | 3 |
 | **#9** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#10** | [-](https://x.com/-) | 0 |
+| **#10** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
