@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-07 07:15:15 (UTC)</th>
+        <th colspan=4>2026-10-07 07:30:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 34 | 410 | 1790 | 46987 |
-| **:globe_with_meridians: Domains** | 33 | 343 | 1576 | 40817 |
-| **:triangular_flag_on_post: IPs** | 17 | 217 | 448 | 6276 |
+| **:link: URLs** | 36 | 412 | 1792 | 46989 |
+| **:globe_with_meridians: Domains** | 35 | 345 | 1578 | 40819 |
+| **:triangular_flag_on_post: IPs** | 20 | 220 | 451 | 6279 |
 | **:1234: SHA256** | 3 | 68 | 206 | 2727 |
 | **:1234: MD5** | 0 | 7 | 70 | 2178 |
 
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 85 | 446 | 1927 | 37702 |
+| **#phishing** | 92 | 453 | 1934 | 37709 |
 | **#Kimsuky** | 0 | 4 | 88 | 13299 |
 | **#DPRK** | 0 | 3 | 20 | 11667 |
 | **#scam** | 0 | 10 | 84 | 4287 |
@@ -230,14 +230,14 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [romonlyht](https://x.com/romonlyht) | 41 |
+| **#1** | [romonlyht](https://x.com/romonlyht) | 45 |
 | **#2** | [masaomi346](https://x.com/masaomi346) | 21 |
 | **#3** | [TKemmerling](https://x.com/TKemmerling) | 8 |
 | **#4** | [patialavii](https://x.com/patialavii) | 6 |
 | **#5** | [PhishStats](https://x.com/PhishStats) | 5 |
 | **#6** | [Metemcyber](https://x.com/Metemcyber) | 4 |
-| **#7** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#8** | [-](https://x.com/-) | 0 |
+| **#7** | [phishunt_io](https://x.com/phishunt_io) | 3 |
+| **#8** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
 <!-- TOP_REPORTERS_END -->
