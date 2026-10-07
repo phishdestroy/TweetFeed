@@ -1,13 +1,13 @@
 {
-  "count": 2522,
+  "count": 2570,
   "dead_tweets": {
     "2101923416521728224": {
       "attempts": 2,
       "last_attempt": "2026-10-07T00:40:04Z"
     },
     "2102057036876026178": {
-      "attempts": 1,
-      "last_attempt": "2026-10-07T00:40:04Z"
+      "attempts": 2,
+      "last_attempt": "2026-10-07T06:40:04Z"
     },
     "2103019418859053423": {
       "attempts": 2,
@@ -765,20 +765,6 @@
       "type": "sha256",
       "value": "105e97b7db3e3398416f5e73b91a408a6dcea54f1049ff581353984fcfbeda1f"
     },
-    "107.149.105.29": {
-      "confidence": 0.95,
-      "date": "2026-09-07 05:17:53",
-      "enriched_at": "2026-09-07T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating ANA airline Japan, targeting credit card credentials, hosted at 107.149.105.29.",
-      "threat_type": "phishing",
-      "tweet_id": "2096830293349167331",
-      "type": "url",
-      "value": "http://107.149.105.29"
-    },
     "107.149.129.212": {
       "confidence": 0.8,
       "date": "2026-10-01 16:55:39",
@@ -1356,6 +1342,21 @@
       "type": "ip",
       "value": "121.4.43.2"
     },
+    "121.61.162.181": {
+      "confidence": 0.75,
+      "date": "2026-10-07 04:23:23",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Rakuten-themed malspam: qtxfq.cn URL tied to a malware sample referenced by SHA256.",
+      "threat_type": "malware",
+      "tweet_id": "2107688214052110451",
+      "type": "ip",
+      "value": "121.61.162.181"
+    },
     "123.pdf1.zip": {
       "confidence": 0.8,
       "date": "2026-09-16 08:56:12",
@@ -1452,6 +1453,21 @@
       "tweet_id": "2107102060042719580",
       "type": "ip",
       "value": "130.12.180.187"
+    },
+    "130.162.197.167": {
+      "confidence": 0.8,
+      "date": "2026-10-07 05:38:37",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Apple-themed phishing at aowwo.com behind a CAPTCHA gate, with related IP 43.160.229.5.",
+      "threat_type": "phishing",
+      "tweet_id": "2107707144711860404",
+      "type": "ip",
+      "value": "130.162.197.167"
     },
     "130826.ngrok.app": {
       "confidence": 0.8,
@@ -1599,6 +1615,34 @@
       "tweet_id": "2106046121827037599",
       "type": "ip",
       "value": "14.103.211.223"
+    },
+    "140.238.84.6": {
+      "confidence": 0.8,
+      "date": "2026-10-07 06:04:22",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing URL on wapsir.com hosted at an Oracle Cloud IP in the UK, reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2107713627717320873",
+      "type": "ip",
+      "value": "140.238.84.6"
+    },
+    "141.195.119.134": {
+      "confidence": 0.75,
+      "date": "2026-10-07 02:48:42",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing email link using a digidip.net redirect to onesolution.digital with victim email parameter.",
+      "threat_type": "phishing",
+      "tweet_id": "2107664382859845951",
+      "type": "ip",
+      "value": "141.195.119.134"
     },
     "1419993777.cyou": {
       "confidence": 0.9,
@@ -2444,6 +2488,21 @@
       "tweet_id": "2106019274342986023",
       "type": "domain",
       "value": "1606837286.cyou"
+    },
+    "161.33.92.176": {
+      "confidence": 0.8,
+      "date": "2026-10-07 05:37:30",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Apple/iCloud phishing chain: aowwo.com behind CAPTCHA leading to fake iCloud login at account-icloud.mcjzy.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2107706866210054644",
+      "type": "ip",
+      "value": "161.33.92.176"
     },
     "161.38.202.170": {
       "confidence": 0.95,
@@ -3965,6 +4024,20 @@
       "type": "url",
       "value": "http://20.102.117.176:8080/login"
     },
+    "20.78.143.154": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:16:26",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "National Tax Agency-themed phishing malspam; wildfirehk.com redirects to bifcapnepa-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2107701564978970899",
+      "type": "ip",
+      "value": "20.78.143.154"
+    },
     "2008377162.cfd": {
       "confidence": 0.9,
       "date": "2026-10-02 13:51:37",
@@ -4009,40 +4082,6 @@
       "tweet_id": "2101198079651094726",
       "type": "ip",
       "value": "201.7.16.43"
-    },
-    "202.146.222.95": {
-      "confidence": 0.92,
-      "date": "2026-09-07 06:07:42",
-      "enriched_at": "2026-09-25T00:40:04Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "valleyrat",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "ValleyRAT distributed via Japanese-language invoice email with .7z attachment; C2 at 202.146.222.95:443.",
-      "threat_type": "malware",
-      "tweet_id": "2096842830446838090",
-      "type": "ip",
-      "value": "202.146.222.95"
-    },
-    "202.146.222.95:443": {
-      "confidence": 0.92,
-      "date": "2026-09-07 06:07:42",
-      "enriched_at": "2026-09-25T00:40:04Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "valleyrat",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "ValleyRAT distributed via Japanese-language invoice email with .7z attachment; C2 at 202.146.222.95:443.",
-      "threat_type": "malware",
-      "tweet_id": "2096842830446838090",
-      "type": "url",
-      "value": "http://202.146.222.95:443"
     },
     "202.61.140.66": {
       "confidence": 0.6,
@@ -5188,6 +5227,20 @@
       "type": "ip",
       "value": "3.120.154.17"
     },
+    "3.124.38.174": {
+      "confidence": 0.75,
+      "date": "2026-10-07 02:48:42",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing email link using a digidip.net redirect to onesolution.digital with victim email parameter.",
+      "threat_type": "phishing",
+      "tweet_id": "2107664382859845951",
+      "type": "ip",
+      "value": "3.124.38.174"
+    },
     "3.141.207.60": {
       "confidence": 0.9,
       "date": "2026-10-01 07:00:59",
@@ -5551,6 +5604,20 @@
       "tweet_id": "2105703199189475676",
       "type": "ip",
       "value": "35.203.134.133"
+    },
+    "35.219.26.215": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:59:19",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating American Express, received via email spam; URL on jsdmesh.com with victim email parameter.",
+      "threat_type": "phishing",
+      "tweet_id": "2107712355824205973",
+      "type": "ip",
+      "value": "35.219.26.215"
     },
     "37.187.140.177": {
       "confidence": 0.9,
@@ -6383,6 +6450,20 @@
       "type": "domain",
       "value": "3jjbgsf.top"
     },
+    "4.215.241.232": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:17:35",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing impersonating Japan's National Tax Agency; redirect chain from yxjfsy.com to bifcapnepa-jp.com, delivered via malspam.",
+      "threat_type": "phishing",
+      "tweet_id": "2107701854088130562",
+      "type": "ip",
+      "value": "4.215.241.232"
+    },
     "40529ac470591b84adabe7cebdea8f67d8303d52c3cb4502590bae1e746cd360": {
       "confidence": 0.6,
       "date": "2026-09-26 11:24:49",
@@ -6533,6 +6614,21 @@
       "type": "ip",
       "value": "43.136.35.215"
     },
+    "43.153.159.146": {
+      "confidence": 0.75,
+      "date": "2026-10-07 04:36:04",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Rakuten-themed malspam: craigbohart.com URL leading to a malware sample referenced by SHA256.",
+      "threat_type": "malware",
+      "tweet_id": "2107691403166011556",
+      "type": "ip",
+      "value": "43.153.159.146"
+    },
     "43.157.198.190": {
       "confidence": 0.7,
       "date": "2026-09-12 17:16:00",
@@ -6563,6 +6659,21 @@
       "type": "ip",
       "value": "43.160.228.54"
     },
+    "43.160.229.5": {
+      "confidence": 0.8,
+      "date": "2026-10-07 05:38:37",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Apple-themed phishing at aowwo.com behind a CAPTCHA gate, with related IP 43.160.229.5.",
+      "threat_type": "phishing",
+      "tweet_id": "2107707144711860404",
+      "type": "ip",
+      "value": "43.160.229.5"
+    },
     "43.160.231.87": {
       "confidence": 0.8,
       "date": "2026-10-01 16:55:39",
@@ -6578,20 +6689,6 @@
       "tweet_id": "2105703199189475676",
       "type": "ip",
       "value": "43.160.231.87"
-    },
-    "43.165.128.22": {
-      "confidence": 0.9,
-      "date": "2026-09-07 05:42:51",
-      "enriched_at": "2026-10-01T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese Amazon-branded phishing sign-in page hosted on a .cn domain resolving to an IP in AS132203.",
-      "threat_type": "phishing",
-      "tweet_id": "2096836573614719229",
-      "type": "url",
-      "value": "http://43.165.128.22"
     },
     "43.165.128.97": {
       "confidence": 0.9,
@@ -6623,20 +6720,6 @@
       "type": "url",
       "value": "http://43.165.130.182"
     },
-    "43.165.167.152": {
-      "confidence": 0.95,
-      "date": "2026-09-07 05:47:09",
-      "enriched_at": "2026-09-07T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Japanese retailer Yodobashi, hosted at 43.165.167.152 (AS132203).",
-      "threat_type": "phishing",
-      "tweet_id": "2096837658970570922",
-      "type": "url",
-      "value": "http://43.165.167.152"
-    },
     "43.165.167.94": {
       "confidence": 0.8,
       "date": "2026-10-01 16:55:39",
@@ -6653,6 +6736,20 @@
       "type": "ip",
       "value": "43.165.167.94"
     },
+    "43.165.183.74": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:17:35",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing impersonating Japan's National Tax Agency; redirect chain from yxjfsy.com to bifcapnepa-jp.com, delivered via malspam.",
+      "threat_type": "phishing",
+      "tweet_id": "2107701854088130562",
+      "type": "ip",
+      "value": "43.165.183.74"
+    },
     "43.165.184.15": {
       "confidence": 0.9,
       "date": "2026-09-10 01:05:54",
@@ -6667,20 +6764,6 @@
       "tweet_id": "2097854042773016758",
       "type": "ip",
       "value": "43.165.184.15"
-    },
-    "43.165.196.142": {
-      "confidence": 0.92,
-      "date": "2026-09-07 05:56:39",
-      "enriched_at": "2026-09-24T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing campaign impersonating Japanese SAISON credit card brand; hosted on IP 43.165.196.142.",
-      "threat_type": "phishing",
-      "tweet_id": "2096840046892741059",
-      "type": "url",
-      "value": "http://43.165.196.142"
     },
     "43.167.235.101": {
       "confidence": 0.5,
@@ -7226,6 +7309,21 @@
       "type": "url",
       "value": "http://47.45.19.240:8040/Bin/ScreenConnect.ClientSetup.msi"
     },
+    "47.74.52.233": {
+      "confidence": 0.75,
+      "date": "2026-10-07 04:23:23",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Rakuten-themed malspam: qtxfq.cn URL tied to a malware sample referenced by SHA256.",
+      "threat_type": "malware",
+      "tweet_id": "2107688214052110451",
+      "type": "ip",
+      "value": "47.74.52.233"
+    },
     "47.82.118.105": {
       "confidence": 0.6,
       "date": "2026-10-02 15:38:18",
@@ -7363,6 +7461,22 @@
       "tweet_id": "2104850609606394190",
       "type": "sha256",
       "value": "4cc2358fb2c3155b5d61a4ea69a4836a0ca4cb9ed014e1c0782e3c6725ae5531"
+    },
+    "4d7861e9df590457dd955a9c7149d0f39526df541964e8341d507f7f2a160fba": {
+      "confidence": 0.8,
+      "date": "2026-10-07 04:55:27",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Fake e-Tax phishing sites distributing an Android malware sample (SHA256 referenced via VirusTotal).",
+      "threat_type": "malware",
+      "tweet_id": "2107696283205201983",
+      "type": "sha256",
+      "value": "4d7861e9df590457dd955a9c7149d0f39526df541964e8341d507f7f2a160fba"
     },
     "4f4490bbc90e248043af8db5c3874b6ab52440edf507c5939dac3e07e8e63cd9": {
       "confidence": 0.93,
@@ -7932,6 +8046,20 @@
       "tweet_id": "2099830939576565986",
       "type": "ip",
       "value": "52.173.36.83"
+    },
+    "52.243.60.6": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:44:22",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating SBI Shinsei Bank at czqlmm.com; domain reported as NXDOMAIN.",
+      "threat_type": "phishing",
+      "tweet_id": "2107708591943913525",
+      "type": "ip",
+      "value": "52.243.60.6"
     },
     "5247145664.cyou": {
       "confidence": 0.9,
@@ -8742,6 +8870,21 @@
       "tweet_id": "2107380629612433761",
       "type": "sha256",
       "value": "6ae1890733bc70a08b6b4300608235d708ed7bb6b430844ad782e7dfb720d71b"
+    },
+    "6d7530900146a096a6ee41fc9a59afddc66658b49fdc9408edb283984407afdc": {
+      "confidence": 0.75,
+      "date": "2026-10-07 04:36:04",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Rakuten-themed malspam: craigbohart.com URL leading to a malware sample referenced by SHA256.",
+      "threat_type": "malware",
+      "tweet_id": "2107691403166011556",
+      "type": "sha256",
+      "value": "6d7530900146a096a6ee41fc9a59afddc66658b49fdc9408edb283984407afdc"
     },
     "6ed3fa391a14acd768de91f921eb0d95": {
       "confidence": 0.75,
@@ -9960,6 +10103,21 @@
       "type": "sha256",
       "value": "8e935c19d00f40639b78bf1fd094fe48c92118f3e586ab52df93851080ccce15"
     },
+    "8eaab190b3029ed576f0ac92ccebe1f18f00d73eab9b596d2796d3fcc74a88e7": {
+      "confidence": 0.75,
+      "date": "2026-10-07 04:23:23",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Rakuten-themed malspam: qtxfq.cn URL tied to a malware sample referenced by SHA256.",
+      "threat_type": "malware",
+      "tweet_id": "2107688214052110451",
+      "type": "sha256",
+      "value": "8eaab190b3029ed576f0ac92ccebe1f18f00d73eab9b596d2796d3fcc74a88e7"
+    },
     "8f48a5001d8baa3913359891d53870341d5a2eb345c7e19464ade2164b471fa2": {
       "confidence": 0.92,
       "date": "2026-09-24 12:12:59",
@@ -10852,6 +11010,34 @@
       "type": "sha256",
       "value": "abc492db031c7a2cbbab178dbfba63eeb0520ad7dc72fd62c2e74c8b6f59f42d"
     },
+    "abcasdb.study": {
+      "confidence": 0.85,
+      "date": "2026-10-07 01:22:56",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Docomo (NTT Docomo) at abcasdb.study.",
+      "threat_type": "phishing",
+      "tweet_id": "2107642801601294739",
+      "type": "domain",
+      "value": "abcasdb.study"
+    },
+    "abcasdb.study/knaebynf": {
+      "confidence": 0.85,
+      "date": "2026-10-07 01:22:56",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Docomo (NTT Docomo) at abcasdb.study.",
+      "threat_type": "phishing",
+      "tweet_id": "2107642801601294739",
+      "type": "url",
+      "value": "https://abcasdb.study/KnaeByNf/"
+    },
     "abe2aef8b10057e60f8259ca2ca2cd5d71d38d254960feee89cb3c95a964873f": {
       "confidence": 0.5,
       "date": "2026-09-28 11:08:34",
@@ -11040,6 +11226,36 @@
       "tweet_id": "2107317984834503033",
       "type": "url",
       "value": "https://account-icloud.hnxledu.com/login/"
+    },
+    "account-icloud.mcjzy.com": {
+      "confidence": 0.8,
+      "date": "2026-10-07 05:37:30",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Apple/iCloud phishing chain: aowwo.com behind CAPTCHA leading to fake iCloud login at account-icloud.mcjzy.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2107706866210054644",
+      "type": "domain",
+      "value": "account-icloud.mcjzy.com"
+    },
+    "account-icloud.mcjzy.com/login": {
+      "confidence": 0.8,
+      "date": "2026-10-07 05:37:30",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Apple/iCloud phishing chain: aowwo.com behind CAPTCHA leading to fake iCloud login at account-icloud.mcjzy.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2107706866210054644",
+      "type": "url",
+      "value": "https://account-icloud.mcjzy.com/login/"
     },
     "account-passkey.com": {
       "confidence": 0.6,
@@ -11494,6 +11710,20 @@
       "type": "domain",
       "value": "allegro.pry84327h45.help"
     },
+    "allegro.smar2829.casa": {
+      "confidence": 0.8,
+      "date": "2026-10-07 00:29:25",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page impersonating Allegro on allegro.smar2829.casa, hosted behind Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2107629334773067939",
+      "type": "domain",
+      "value": "allegro.smar2829.casa"
+    },
     "allegrolokalnie.oferta65487.click": {
       "confidence": 0.95,
       "date": "2026-09-23 10:42:14",
@@ -11930,6 +12160,51 @@
       "tweet_id": "2106190503675085052",
       "type": "domain",
       "value": "aosasw.com"
+    },
+    "aowwo.com": {
+      "confidence": 0.8,
+      "date": "2026-10-07 05:38:37",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Apple-themed phishing at aowwo.com behind a CAPTCHA gate, with related IP 43.160.229.5.",
+      "threat_type": "phishing",
+      "tweet_id": "2107707144711860404",
+      "type": "domain",
+      "value": "aowwo.com"
+    },
+    "aowwo.com/ittq3v2ifh.gifu.jp": {
+      "confidence": 0.8,
+      "date": "2026-10-07 05:37:30",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Apple/iCloud phishing chain: aowwo.com behind CAPTCHA leading to fake iCloud login at account-icloud.mcjzy.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2107706866210054644",
+      "type": "url",
+      "value": "https://aowwo.com/iTtq3v2Ifh.gifu.jp"
+    },
+    "aowwo.com/t9icouihbu.machida.jp": {
+      "confidence": 0.8,
+      "date": "2026-10-07 05:38:37",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Apple-themed phishing at aowwo.com behind a CAPTCHA gate, with related IP 43.160.229.5.",
+      "threat_type": "phishing",
+      "tweet_id": "2107707144711860404",
+      "type": "url",
+      "value": "https://aowwo.com/t9IcOuIHBu.machida.jp"
     },
     "api.adoptium.net": {
       "confidence": 0.4,
@@ -13365,6 +13640,20 @@
       "type": "domain",
       "value": "bhrconline-jprakutanziu.com"
     },
+    "bifcapnepa-jp.com": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:17:35",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing impersonating Japan's National Tax Agency; redirect chain from yxjfsy.com to bifcapnepa-jp.com, delivered via malspam.",
+      "threat_type": "phishing",
+      "tweet_id": "2107701854088130562",
+      "type": "domain",
+      "value": "bifcapnepa-jp.com"
+    },
     "bigbigvol.qd.je": {
       "confidence": 0.8,
       "date": "2026-09-24 13:51:29",
@@ -14379,34 +14668,6 @@
       "type": "url",
       "value": "https://calvinsmithlaw.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
     },
-    "cam-ana-jp.smpoodle.com": {
-      "confidence": 0.95,
-      "date": "2026-09-07 05:17:53",
-      "enriched_at": "2026-09-07T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating ANA airline Japan, targeting credit card credentials, hosted at 107.149.105.29.",
-      "threat_type": "phishing",
-      "tweet_id": "2096830293349167331",
-      "type": "domain",
-      "value": "cam-ana-jp.smpoodle.com"
-    },
-    "cam-ana-jp.smpoodle.com/security/ap/loginlogout/login/creditlimit/inquirycreditlimit/d10203840": {
-      "confidence": 0.95,
-      "date": "2026-09-07 05:17:53",
-      "enriched_at": "2026-09-07T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating ANA airline Japan, targeting credit card credentials, hosted at 107.149.105.29.",
-      "threat_type": "phishing",
-      "tweet_id": "2096830293349167331",
-      "type": "url",
-      "value": "https://cam-ana-jp.smpoodle.com/security/ap/loginlogout/login/creditlimit/inquirycreditlimit/D10203840"
-    },
     "campinginontarioteamvontaxi.xyz": {
       "confidence": 0.72,
       "date": "2026-09-16 19:54:02",
@@ -14921,6 +15182,20 @@
       "tweet_id": "2100308666347884973",
       "type": "domain",
       "value": "cdn.wp-js.com"
+    },
+    "celocozy.com": {
+      "confidence": 0.75,
+      "date": "2026-09-09 05:00:35",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fisher Investments-themed lure using unrelated sender domains, with the click leading to celocozy.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2097550714285519217",
+      "type": "domain",
+      "value": "celocozy.com"
     },
     "cepuk.cn": {
       "confidence": 0.8,
@@ -15893,6 +16168,36 @@
       "type": "domain",
       "value": "cp.preparationguru.com"
     },
+    "craigbohart.com": {
+      "confidence": 0.75,
+      "date": "2026-10-07 04:36:04",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Rakuten-themed malspam: craigbohart.com URL leading to a malware sample referenced by SHA256.",
+      "threat_type": "malware",
+      "tweet_id": "2107691403166011556",
+      "type": "domain",
+      "value": "craigbohart.com"
+    },
+    "craigbohart.com/fakp3bs1zk.osaka.jp": {
+      "confidence": 0.75,
+      "date": "2026-10-07 04:36:04",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Rakuten-themed malspam: craigbohart.com URL leading to a malware sample referenced by SHA256.",
+      "threat_type": "malware",
+      "tweet_id": "2107691403166011556",
+      "type": "url",
+      "value": "https://craigbohart.com/FAKp3BS1ZK.osaka.jp"
+    },
     "creditashfield.info": {
       "confidence": 0.8,
       "date": "2026-10-03 23:41:41",
@@ -16114,6 +16419,34 @@
       "tweet_id": "2097562075493253191",
       "type": "domain",
       "value": "cyraecraft.com"
+    },
+    "czqlmm.com": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:44:22",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating SBI Shinsei Bank at czqlmm.com; domain reported as NXDOMAIN.",
+      "threat_type": "phishing",
+      "tweet_id": "2107708591943913525",
+      "type": "domain",
+      "value": "czqlmm.com"
+    },
+    "czqlmm.com/content/zulilytpfl": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:44:22",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating SBI Shinsei Bank at czqlmm.com; domain reported as NXDOMAIN.",
+      "threat_type": "phishing",
+      "tweet_id": "2107708591943913525",
+      "type": "url",
+      "value": "https://czqlmm.com/content/zulilytpfl"
     },
     "d18i529.onlinewebshop.net": {
       "confidence": 0.85,
@@ -17344,6 +17677,20 @@
       "type": "domain",
       "value": "dr5beljvyqljgq5ppro57pgetg4yeslcsexmuhvv3p46wod3odsh3fid.onion"
     },
+    "dream-jp.duckdns.org": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:31:30",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Multiple DuckDNS phishing sites impersonating Japanese ISPs and providers (T-COM, So-net, eo, etc.).",
+      "threat_type": "phishing",
+      "tweet_id": "2107705355895795930",
+      "type": "domain",
+      "value": "dream-jp.duckdns.org"
+    },
     "dsjex.net": {
       "confidence": 0.85,
       "date": "2026-09-20 10:40:51",
@@ -17704,6 +18051,20 @@
       "tweet_id": "2107097133446820143",
       "type": "sha256",
       "value": "eaca658a963bafb0998aada2c79864d42f526dc34076033005f4b34f236d76b1"
+    },
+    "eampengencangpayudara.info": {
+      "confidence": 0.75,
+      "date": "2026-09-09 09:01:00",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Uber Eats-themed phishing lure routing clicks through eampengencangpayudara.info.",
+      "threat_type": "phishing",
+      "tweet_id": "2097611215753408965",
+      "type": "domain",
+      "value": "eampengencangpayudara.info"
     },
     "ebikein.s3.us-east-1.amazonaws.com": {
       "confidence": 0.9,
@@ -19294,6 +19655,34 @@
       "type": "domain",
       "value": "fffenterprisesinternal.com"
     },
+    "fhkdbv.cfd": {
+      "confidence": 0.85,
+      "date": "2026-10-07 02:50:51",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating SBI Shinsei Bank at fhkdbv.cfd, behind Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2107664926311661575",
+      "type": "domain",
+      "value": "fhkdbv.cfd"
+    },
+    "fhkdbv.cfd/apps/#/index": {
+      "confidence": 0.85,
+      "date": "2026-10-07 02:50:51",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating SBI Shinsei Bank at fhkdbv.cfd, behind Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2107664926311661575",
+      "type": "url",
+      "value": "https://fhkdbv.cfd/apps/#/index"
+    },
     "fijscdn.beer": {
       "confidence": 0.92,
       "date": "2026-09-24 12:12:59",
@@ -19525,6 +19914,20 @@
       "tweet_id": "2101520777405489270",
       "type": "domain",
       "value": "financespringboard.info"
+    },
+    "financialmarkets.info": {
+      "confidence": 0.8,
+      "date": "2026-09-09 21:05:27",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Cloud storage-themed phishing lure routing clicks through financialmarkets.info.",
+      "threat_type": "phishing",
+      "tweet_id": "2097793529473044708",
+      "type": "domain",
+      "value": "financialmarkets.info"
     },
     "fingerprint-veri.info": {
       "confidence": 0.92,
@@ -19833,6 +20236,22 @@
       "tweet_id": "2106341235518534072",
       "type": "domain",
       "value": "fullpowerproperties.uk"
+    },
+    "funnyserve-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-10-07 04:55:27",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Fake e-Tax phishing sites distributing an Android malware sample (SHA256 referenced via VirusTotal).",
+      "threat_type": "malware",
+      "tweet_id": "2107696283205201983",
+      "type": "domain",
+      "value": "funnyserve-jp.com"
     },
     "fusionshoppingworks.info": {
       "confidence": 0.85,
@@ -21536,6 +21955,20 @@
       "type": "domain",
       "value": "highertola.duckdns.org"
     },
+    "hii-hoores.duckdns.org": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:31:30",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Multiple DuckDNS phishing sites impersonating Japanese ISPs and providers (T-COM, So-net, eo, etc.).",
+      "threat_type": "phishing",
+      "tweet_id": "2107705355895795930",
+      "type": "domain",
+      "value": "hii-hoores.duckdns.org"
+    },
     "hitorerrid.com": {
       "confidence": 0.5,
       "date": "2026-09-26 20:52:46",
@@ -21608,6 +22041,20 @@
       "tweet_id": "2105440112989630614",
       "type": "domain",
       "value": "hmcot.cn"
+    },
+    "hnlytx.com": {
+      "confidence": 0.75,
+      "date": "2026-09-09 22:13:53",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Debt consolidation-themed lure routing clicks through hnlytx.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2097810751453090033",
+      "type": "domain",
+      "value": "hnlytx.com"
     },
     "hoirie.co": {
       "confidence": 0.95,
@@ -21933,6 +22380,22 @@
       "type": "url",
       "value": "http://htttps-www-roblox.co/login?returnUrl=1789978322"
     },
+    "hubeigegua-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-10-07 04:55:27",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Fake e-Tax phishing sites distributing an Android malware sample (SHA256 referenced via VirusTotal).",
+      "threat_type": "malware",
+      "tweet_id": "2107696283205201983",
+      "type": "domain",
+      "value": "hubeigegua-jp.com"
+    },
     "huibao-point.com": {
       "confidence": 0.78,
       "date": "2026-09-12 03:20:33",
@@ -22202,6 +22665,20 @@
       "tweet_id": "2097505641770483726",
       "type": "domain",
       "value": "icubedtecnologies.info"
+    },
+    "id-so-net-ne-jp.duckdns.org": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:31:30",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Multiple DuckDNS phishing sites impersonating Japanese ISPs and providers (T-COM, So-net, eo, etc.).",
+      "threat_type": "phishing",
+      "tweet_id": "2107705355895795930",
+      "type": "domain",
+      "value": "id-so-net-ne-jp.duckdns.org"
     },
     "idcool.codes": {
       "confidence": 0.92,
@@ -22726,6 +23203,20 @@
       "tweet_id": "2105799281378766907",
       "type": "domain",
       "value": "investkursonline.com"
+    },
+    "invitationlauchjczoommeeting.com": {
+      "confidence": 0.8,
+      "date": "2026-10-07 04:24:08",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Zoom-themed phishing URL delivering a ScreenConnect RMM payload.",
+      "threat_type": "malware",
+      "tweet_id": "2107688401214533684",
+      "type": "domain",
+      "value": "invitationlauchjczoommeeting.com"
     },
     "inviteteamsmeeting.fit": {
       "confidence": 0.85,
@@ -23257,6 +23748,34 @@
       "tweet_id": "2100308666347884973",
       "type": "domain",
       "value": "js.wp-js.com"
+    },
+    "jsdmesh.com": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:59:19",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating American Express, received via email spam; URL on jsdmesh.com with victim email parameter.",
+      "threat_type": "phishing",
+      "tweet_id": "2107712355824205973",
+      "type": "domain",
+      "value": "jsdmesh.com"
+    },
+    "jsdmesh.com/?email=aaaa@example.jp&uid=qoqwkuxqjrnb3viiej9rjv6c": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:59:19",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating American Express, received via email spam; URL on jsdmesh.com with victim email parameter.",
+      "threat_type": "phishing",
+      "tweet_id": "2107712355824205973",
+      "type": "url",
+      "value": "https://jsdmesh.com/?email=aaaa@example.jp&uid=qOqwKUxQJRNB3VIIEj9Rjv6c"
     },
     "jsmyvlm.com": {
       "confidence": 0.9,
@@ -24091,6 +24610,20 @@
       "tweet_id": "2100143481482022925",
       "type": "domain",
       "value": "ledgerwallet.report"
+    },
+    "legal.honestemploymentlaw.com": {
+      "confidence": 0.8,
+      "date": "2026-10-07 03:50:38",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing email posing as a cloud renewal notice from legal.honestemploymentlaw.com, pointing to an unrelated cloud bucket.",
+      "threat_type": "phishing",
+      "tweet_id": "2107679970667717030",
+      "type": "domain",
+      "value": "legal.honestemploymentlaw.com"
     },
     "leiber.top": {
       "confidence": 0.85,
@@ -25439,20 +25972,6 @@
       "type": "domain",
       "value": "mdiament.eu"
     },
-    "medela.com": {
-      "confidence": 0.8,
-      "date": "2026-09-07 03:25:26",
-      "enriched_at": "2026-09-07T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "ShinyHunters threatens Medela.com data dump with Sep 8 deadline; BlackLocks and Panzer hit automotive and healthcare targets.",
-      "threat_type": "ransomware",
-      "tweet_id": "2096801991280451867",
-      "type": "domain",
-      "value": "medela.com"
-    },
     "medicinalhealthca.com": {
       "confidence": 0.8,
       "date": "2026-09-10 14:23:30",
@@ -26169,6 +26688,20 @@
       "tweet_id": "2104949002118771076",
       "type": "domain",
       "value": "myonlinemarkets.com"
+    },
+    "mypage-nlfty.duckdns.org": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:31:30",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Multiple DuckDNS phishing sites impersonating Japanese ISPs and providers (T-COM, So-net, eo, etc.).",
+      "threat_type": "phishing",
+      "tweet_id": "2107705355895795930",
+      "type": "domain",
+      "value": "mypage-nlfty.duckdns.org"
     },
     "myself-pda-mike-kept.trycloudflare.com": {
       "confidence": 0.2,
@@ -26924,6 +27457,20 @@
       "type": "domain",
       "value": "ns1cdnclaude.beer"
     },
+    "nsbpay.com": {
+      "confidence": 0.75,
+      "date": "2026-09-08 01:52:57",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Hilton vacation-themed phishing lure using nsbpay.com instead of a Hilton domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2097141105217380533",
+      "type": "domain",
+      "value": "nsbpay.com"
+    },
     "nshtjscdn.beer": {
       "confidence": 0.92,
       "date": "2026-09-24 12:12:59",
@@ -27379,6 +27926,20 @@
       "tweet_id": "2101050167726129334",
       "type": "domain",
       "value": "onemainfinancial-report.com"
+    },
+    "ongannanzhuang.info": {
+      "confidence": 0.75,
+      "date": "2026-09-08 04:38:00",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Repeated QuoteWizard insurance lure routing clicks to ongannanzhuang.info.",
+      "threat_type": "phishing",
+      "tweet_id": "2097182641154048356",
+      "type": "domain",
+      "value": "ongannanzhuang.info"
     },
     "onixone.com.co": {
       "confidence": 0.85,
@@ -28469,6 +29030,20 @@
       "type": "domain",
       "value": "polskaprezydencjacsr.eu"
     },
+    "polygoodplastics.com": {
+      "confidence": 0.75,
+      "date": "2026-10-07 01:38:07",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing lure imitating Empire Today offers, using polygoodplastics.com as the click destination.",
+      "threat_type": "phishing",
+      "tweet_id": "2107646620380893553",
+      "type": "domain",
+      "value": "polygoodplastics.com"
+    },
     "pontihdunedinconjuncture-rakunde.com": {
       "confidence": 0.78,
       "date": "2026-09-12 03:50:32",
@@ -29471,19 +30046,20 @@
       "type": "domain",
       "value": "qkxcs.cn"
     },
-    "quantum-forgex.com": {
-      "confidence": 0.9,
-      "date": "2026-09-07 03:57:58",
-      "enriched_at": "2026-09-07T06:40:04Z",
+    "qtxfq.cn": {
+      "confidence": 0.75,
+      "date": "2026-10-07 04:23:23",
+      "enriched_at": "2026-10-07T06:40:04Z",
       "family": null,
       "suggested_tags": [
-        "scam"
+        "phishing",
+        "malware"
       ],
-      "summary": "Fake investment site quantum-forgex.com identified as 419 advance-fee fraud scam hosted by Dominet HK.",
-      "threat_type": "scam",
-      "tweet_id": "2096810181740925241",
+      "summary": "Rakuten-themed malspam: qtxfq.cn URL tied to a malware sample referenced by SHA256.",
+      "threat_type": "malware",
+      "tweet_id": "2107688214052110451",
       "type": "domain",
-      "value": "quantum-forgex.com"
+      "value": "qtxfq.cn"
     },
     "quisenagid.net": {
       "confidence": 0.5,
@@ -30569,34 +31145,6 @@
       "type": "url",
       "value": "http://rmans.webredirect.org:2404"
     },
-    "rnwm.fpewppc.cn": {
-      "confidence": 0.95,
-      "date": "2026-09-07 05:42:51",
-      "enriched_at": "2026-09-07T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Amazon Japan (/ap/signin), hosted on fpewppc.cn domain at AS132203.",
-      "threat_type": "phishing",
-      "tweet_id": "2096836573614719229",
-      "type": "domain",
-      "value": "rnwm.fpewppc.cn"
-    },
-    "rnwm.fpewppc.cn/ap/signin": {
-      "confidence": 0.95,
-      "date": "2026-09-07 05:42:51",
-      "enriched_at": "2026-09-07T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Amazon Japan (/ap/signin), hosted on fpewppc.cn domain at AS132203.",
-      "threat_type": "phishing",
-      "tweet_id": "2096836573614719229",
-      "type": "url",
-      "value": "https://rnwm.fpewppc.cn/ap/signin"
-    },
     "robinhood.report": {
       "confidence": 0.85,
       "date": "2026-09-16 08:43:19",
@@ -31585,6 +32133,34 @@
       "tweet_id": "2105485465063469506",
       "type": "domain",
       "value": "sdonaghylactationservices.info"
+    },
+    "sdueioy.study": {
+      "confidence": 0.85,
+      "date": "2026-10-07 04:24:09",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Docomo (NTT Docomo) at sdueioy.study.",
+      "threat_type": "phishing",
+      "tweet_id": "2107688407032062290",
+      "type": "domain",
+      "value": "sdueioy.study"
+    },
+    "sdueioy.study/knaebynf": {
+      "confidence": 0.85,
+      "date": "2026-10-07 04:24:09",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Docomo (NTT Docomo) at sdueioy.study.",
+      "threat_type": "phishing",
+      "tweet_id": "2107688407032062290",
+      "type": "url",
+      "value": "https://sdueioy.study/KnaeByNf/"
     },
     "se.kivokeyline.com": {
       "confidence": 0.8,
@@ -33271,34 +33847,6 @@
       "type": "url",
       "value": "https://strutsupportsystems.com/Adobe_Installer.html"
     },
-    "stupfication.5s7htk.info": {
-      "confidence": 0.95,
-      "date": "2026-09-07 05:47:09",
-      "enriched_at": "2026-09-07T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Japanese retailer Yodobashi, hosted at 43.165.167.152 (AS132203).",
-      "threat_type": "phishing",
-      "tweet_id": "2096837658970570922",
-      "type": "domain",
-      "value": "stupfication.5s7htk.info"
-    },
-    "stupfication.5s7htk.info/g3earg/jp": {
-      "confidence": 0.95,
-      "date": "2026-09-07 05:47:09",
-      "enriched_at": "2026-09-07T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Japanese retailer Yodobashi, hosted at 43.165.167.152 (AS132203).",
-      "threat_type": "phishing",
-      "tweet_id": "2096837658970570922",
-      "type": "url",
-      "value": "https://stupfication.5s7htk.info/g3EArg/jp"
-    },
     "stylishhomegallery.com": {
       "confidence": 0.9,
       "date": "2026-09-21 17:20:29",
@@ -33384,6 +33932,20 @@
       "tweet_id": "2102914790934864049",
       "type": "url",
       "value": "https://supermercadoabundancia.com.mx/cdd/index.html#hr@microsoft.com"
+    },
+    "support-eonet.duckdns.org": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:31:30",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Multiple DuckDNS phishing sites impersonating Japanese ISPs and providers (T-COM, So-net, eo, etc.).",
+      "threat_type": "phishing",
+      "tweet_id": "2107705355895795930",
+      "type": "domain",
+      "value": "support-eonet.duckdns.org"
     },
     "surround-tough-method-zinc.trycloudflare.com": {
       "confidence": 0.25,
@@ -33490,6 +34052,20 @@
       "tweet_id": "2099130338035347548",
       "type": "domain",
       "value": "swiftblooms.com"
+    },
+    "t-com-ne-jp.duckdns.org": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:31:30",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Multiple DuckDNS phishing sites impersonating Japanese ISPs and providers (T-COM, So-net, eo, etc.).",
+      "threat_type": "phishing",
+      "tweet_id": "2107705355895795930",
+      "type": "domain",
+      "value": "t-com-ne-jp.duckdns.org"
     },
     "talkerresearch.report": {
       "confidence": 0.85,
@@ -33675,6 +34251,20 @@
       "type": "url",
       "value": "https://teamliftss.com/zz/index.html"
     },
+    "teams-online.com": {
+      "confidence": 0.7,
+      "date": "2026-10-07 03:35:38",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Microsoft Teams impersonation page at teams-online.com that downloads a demo text file on visit.",
+      "threat_type": "phishing",
+      "tweet_id": "2107676195261411723",
+      "type": "domain",
+      "value": "teams-online.com"
+    },
     "teamsmeeting.top": {
       "confidence": 0.85,
       "date": "2026-10-04 03:05:03",
@@ -33730,6 +34320,34 @@
       "tweet_id": "2103916833359491329",
       "type": "domain",
       "value": "tenayant.jp.net"
+    },
+    "tenereteam.digidip.net": {
+      "confidence": 0.75,
+      "date": "2026-10-07 02:48:42",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing email link using a digidip.net redirect to onesolution.digital with victim email parameter.",
+      "threat_type": "phishing",
+      "tweet_id": "2107664382859845951",
+      "type": "domain",
+      "value": "tenereteam.digidip.net"
+    },
+    "tenereteam.digidip.net/visit?url=hxxp%3a%2f%2fonesolution.digital/goodheads/?uid=aaaa@example.jp": {
+      "confidence": 0.75,
+      "date": "2026-10-07 02:48:42",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing email link using a digidip.net redirect to onesolution.digital with victim email parameter.",
+      "threat_type": "phishing",
+      "tweet_id": "2107664382859845951",
+      "type": "url",
+      "value": "https://tenereteam.digidip.net/visit?url=hxxp%3A%2F%2Fonesolution.digital/goodheads/?uid=aaaa@example.jp"
     },
     "teruid.com": {
       "confidence": 0.92,
@@ -35357,6 +35975,20 @@
       "type": "domain",
       "value": "valocity.report"
     },
+    "vavgxahwqq.vercel.app": {
+      "confidence": 0.65,
+      "date": "2026-10-07 01:20:05",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Website vavgxahwqq.vercel.app flagged as a confirmed scam by an automated web malware scanner.",
+      "threat_type": "scam",
+      "tweet_id": "2107642082353467486",
+      "type": "domain",
+      "value": "vavgxahwqq.vercel.app"
+    },
     "vb.wholenura.com": {
       "confidence": 0.88,
       "date": "2026-09-14 07:51:04",
@@ -35828,20 +36460,6 @@
       "type": "domain",
       "value": "voidlings.art"
     },
-    "vormavi-gld-felmora-p4t8kh35.pages.dev": {
-      "confidence": 0.8,
-      "date": "2026-09-07 01:30:03",
-      "enriched_at": "2026-09-07T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Cloudflare Pages-hosted domain confirmed as scam site by automated malware scanner.",
-      "threat_type": "scam",
-      "tweet_id": "2096772956705747064",
-      "type": "domain",
-      "value": "vormavi-gld-felmora-p4t8kh35.pages.dev"
-    },
     "vr.znbbmwqp.com": {
       "confidence": 0.85,
       "date": "2026-09-28 04:33:23",
@@ -35919,6 +36537,34 @@
       "tweet_id": "2099522430205399510",
       "type": "domain",
       "value": "wanver.dothome.co.kr"
+    },
+    "wapsir.com": {
+      "confidence": 0.8,
+      "date": "2026-10-07 06:04:22",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing URL on wapsir.com hosted at an Oracle Cloud IP in the UK, reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2107713627717320873",
+      "type": "domain",
+      "value": "wapsir.com"
+    },
+    "wapsir.com/404.php": {
+      "confidence": 0.8,
+      "date": "2026-10-07 06:04:22",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing URL on wapsir.com hosted at an Oracle Cloud IP in the UK, reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2107713627717320873",
+      "type": "url",
+      "value": "https://wapsir.com/404.php"
     },
     "watco.microsoft-notifcation.com": {
       "confidence": 0.95,
@@ -36398,6 +37044,34 @@
       "tweet_id": "2097539482073665610",
       "type": "domain",
       "value": "wholenura.com"
+    },
+    "wildfirehk.com": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:16:26",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "National Tax Agency-themed phishing malspam; wildfirehk.com redirects to bifcapnepa-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2107701564978970899",
+      "type": "domain",
+      "value": "wildfirehk.com"
+    },
+    "wildfirehk.com/t/ng1c9h6vnn": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:16:26",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "National Tax Agency-themed phishing malspam; wildfirehk.com redirects to bifcapnepa-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2107701564978970899",
+      "type": "url",
+      "value": "https://wildfirehk.com/t/nG1C9h6Vnn"
     },
     "win-5nadl1jm5uv.tail84c20e.ts.net": {
       "confidence": 0.7,
@@ -37567,36 +38241,6 @@
       "type": "url",
       "value": "http://xv57j3d.scienceontheweb.net/setting.php?aaaaaa=DESKTOP-ET51AJO&bbbbbb=Bruno&cccccc=alpha"
     },
-    "xwmgm.com": {
-      "confidence": 0.82,
-      "date": "2026-09-07 06:19:32",
-      "enriched_at": "2026-09-07T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "booking"
-      ],
-      "summary": "Phishing site impersonating Jalan Japanese travel booking service at xwmgm.com/login",
-      "threat_type": "phishing",
-      "tweet_id": "2096845804996890932",
-      "type": "domain",
-      "value": "xwmgm.com"
-    },
-    "xwmgm.com/login": {
-      "confidence": 0.82,
-      "date": "2026-09-07 06:19:32",
-      "enriched_at": "2026-09-07T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "booking"
-      ],
-      "summary": "Phishing site impersonating Jalan Japanese travel booking service at xwmgm.com/login",
-      "threat_type": "phishing",
-      "tweet_id": "2096845804996890932",
-      "type": "url",
-      "value": "https://xwmgm.com/login"
-    },
     "xxxmu.top": {
       "confidence": 0.3,
       "date": "2026-09-28 11:41:43",
@@ -37959,6 +38603,34 @@
       "type": "domain",
       "value": "yw8.net"
     },
+    "yxjfsy.com": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:17:35",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing impersonating Japan's National Tax Agency; redirect chain from yxjfsy.com to bifcapnepa-jp.com, delivered via malspam.",
+      "threat_type": "phishing",
+      "tweet_id": "2107701854088130562",
+      "type": "domain",
+      "value": "yxjfsy.com"
+    },
+    "yxjfsy.com/l/zqzmerytcn": {
+      "confidence": 0.85,
+      "date": "2026-10-07 05:17:35",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing impersonating Japan's National Tax Agency; redirect chain from yxjfsy.com to bifcapnepa-jp.com, delivered via malspam.",
+      "threat_type": "phishing",
+      "tweet_id": "2107701854088130562",
+      "type": "url",
+      "value": "https://yxjfsy.com/l/ZQZMeRYtcn"
+    },
     "yxz-1469461062.cos.ap-singapore.myqcloud.com": {
       "confidence": 0.35,
       "date": "2026-09-19 15:06:33",
@@ -38179,6 +38851,20 @@
       "type": "domain",
       "value": "zoom.frash.org"
     },
+    "zoomclientsetup.org": {
+      "confidence": 0.7,
+      "date": "2026-10-07 04:28:50",
+      "enriched_at": "2026-10-07T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Suspected Zoom impersonation on a recently registered domain, zoomclientsetup.org.",
+      "threat_type": "phishing",
+      "tweet_id": "2107689585321087437",
+      "type": "domain",
+      "value": "zoomclientsetup.org"
+    },
     "zoomeventlive.com": {
       "confidence": 0.92,
       "date": "2026-09-17 04:05:38",
@@ -38329,6 +39015,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-07T00:40:04Z",
+  "generated_at": "2026-10-07T06:40:04Z",
   "window_days": 30
 }
