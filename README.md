@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-07 05:00:20 (UTC)</th>
+        <th colspan=4>2026-10-07 05:15:15 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 14 | 390 | 1770 | 46967 |
-| **:globe_with_meridians: Domains** | 15 | 325 | 1558 | 40799 |
+| **:link: URLs** | 16 | 392 | 1772 | 46969 |
+| **:globe_with_meridians: Domains** | 17 | 327 | 1560 | 40801 |
 | **:triangular_flag_on_post: IPs** | 5 | 205 | 436 | 6264 |
-| **:1234: SHA256** | 2 | 67 | 205 | 2726 |
+| **:1234: SHA256** | 3 | 68 | 206 | 2727 |
 | **:1234: MD5** | 0 | 7 | 70 | 2178 |
 
 </div>
@@ -205,11 +205,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 34 | 395 | 1876 | 37651 |
+| **#phishing** | 39 | 400 | 1881 | 37656 |
 | **#Kimsuky** | 0 | 4 | 88 | 13299 |
 | **#DPRK** | 0 | 3 | 20 | 11667 |
 | **#scam** | 0 | 10 | 84 | 4287 |
-| **#malware** | 2 | 91 | 602 | 3154 |
+| **#malware** | 7 | 96 | 607 | 3159 |
 | **#C2** | 0 | 12 | 121 | 2276 |
 | **#APT** | 0 | 8 | 42 | 1582 |
 | **#ClickFix** | 0 | 101 | 367 | 934 |
@@ -231,9 +231,9 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [romonlyht](https://x.com/romonlyht) | 12 |
-| **#2** | [TKemmerling](https://x.com/TKemmerling) | 8 |
-| **#3** | [patialavii](https://x.com/patialavii) | 6 |
-| **#4** | [masaomi346](https://x.com/masaomi346) | 4 |
+| **#2** | [masaomi346](https://x.com/masaomi346) | 9 |
+| **#3** | [TKemmerling](https://x.com/TKemmerling) | 8 |
+| **#4** | [patialavii](https://x.com/patialavii) | 6 |
 | **#5** | [PhishStats](https://x.com/PhishStats) | 2 |
 | **#6** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#7** | [Metemcyber](https://x.com/Metemcyber) | 2 |
