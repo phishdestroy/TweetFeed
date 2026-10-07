@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1436
-; Updated: 2026-10-07T06:00:19Z
+; Entries: 1438
+; Updated: 2026-10-07T06:15:16Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1791352819 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1791353716 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1292,6 +1292,8 @@ jquery-bootstrap.com CNAME .
 *.jquery-bootstrap.com CNAME .
 js.wp-js.com CNAME .
 *.js.wp-js.com CNAME .
+jsdmesh.com CNAME .
+*.jsdmesh.com CNAME .
 jsmyvlm.com CNAME .
 *.jsmyvlm.com CNAME .
 juio628-scxy383-i0n.thenakedplane.su CNAME .
@@ -2680,6 +2682,8 @@ w6273k.vip CNAME .
 *.w6273k.vip CNAME .
 wanver.dothome.co.kr CNAME .
 *.wanver.dothome.co.kr CNAME .
+wapsir.com CNAME .
+*.wapsir.com CNAME .
 watco.microsoft-notifcation.com CNAME .
 *.watco.microsoft-notifcation.com CNAME .
 watermarkatgatewayplace.info CNAME .
