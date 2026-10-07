@@ -1,9 +1,13 @@
 {
-  "count": 2528,
+  "count": 2522,
   "dead_tweets": {
     "2101923416521728224": {
+      "attempts": 2,
+      "last_attempt": "2026-10-07T00:40:04Z"
+    },
+    "2102057036876026178": {
       "attempts": 1,
-      "last_attempt": "2026-10-06T18:40:03Z"
+      "last_attempt": "2026-10-07T00:40:04Z"
     },
     "2103019418859053423": {
       "attempts": 2,
@@ -2574,6 +2578,22 @@
       "tweet_id": "2105703199189475676",
       "type": "ip",
       "value": "167.104.101.115"
+    },
+    "167.148.201.15": {
+      "confidence": 0.7,
+      "date": "2026-10-06 18:13:36",
+      "enriched_at": "2026-10-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "rat",
+        "clickfix",
+        "malware"
+      ],
+      "summary": "IP delivering a RAT via ChatGPT Custom GPTs, associated with a ClickFix-style lure and Romulus panel, per Cato CTRL MDR.",
+      "threat_type": "malware",
+      "tweet_id": "2107534755038421359",
+      "type": "url",
+      "value": "http://167.148.201.15"
     },
     "167.254.241.215": {
       "confidence": 0.7,
@@ -6878,23 +6898,6 @@
       "type": "url",
       "value": "http://45.150.33.128"
     },
-    "45.152.149.62": {
-      "confidence": 0.9,
-      "date": "2026-09-06 21:08:30",
-      "enriched_at": "2026-09-07T00:40:04Z",
-      "family": "njrat",
-      "suggested_tags": [
-        "njrat",
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "njRAT sample with C2 at 45.152.149.62:6969 (AS210558 1337 Services GmbH); possible distribution via ExitLag proxy servers (unconfirmed).",
-      "threat_type": "malware",
-      "tweet_id": "2096707135262294378",
-      "type": "ip",
-      "value": "45.152.149.62"
-    },
     "45.153.34.191": {
       "confidence": 0.4,
       "date": "2026-09-28 08:36:14",
@@ -7315,22 +7318,6 @@
       "tweet_id": "2105568565281563057",
       "type": "sha256",
       "value": "4a439412a37048f7c4e18c5a6b6763258e6358aa77693802dccc9d9d506ebc44"
-    },
-    "4aff912fec45ec1d4b76ea31dd13dff961131361cef8291ebfa4e38330f1807a": {
-      "confidence": 0.87,
-      "date": "2026-09-06 23:21:49",
-      "enriched_at": "2026-09-07T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Rakuten distributed via three domains; VirusTotal hash provided for sample analysis.",
-      "threat_type": "malware",
-      "tweet_id": "2096740683130478686",
-      "type": "sha256",
-      "value": "4aff912fec45ec1d4b76ea31dd13dff961131361cef8291ebfa4e38330f1807a"
     },
     "4b214e0daccfe228a0d281775d6a7f01580598f51a6b15e6a668851b313abe68": {
       "confidence": 0.6,
@@ -9570,23 +9557,6 @@
       "type": "sha256",
       "value": "853ed3a26188e4cd89db50ebf50dd0c7b9392c056f637ba3af042c0156877a65"
     },
-    "85c6f9f666aa711dff45421d1edc512d0175c54c04d7ffca647311c1043971bd": {
-      "confidence": 0.9,
-      "date": "2026-09-06 21:08:30",
-      "enriched_at": "2026-09-07T00:40:04Z",
-      "family": "njrat",
-      "suggested_tags": [
-        "njrat",
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "njRAT sample with C2 at 45.152.149.62:6969 (AS210558 1337 Services GmbH); possible distribution via ExitLag proxy servers (unconfirmed).",
-      "threat_type": "malware",
-      "tweet_id": "2096707135262294378",
-      "type": "sha256",
-      "value": "85c6f9f666aa711dff45421d1edc512d0175c54c04d7ffca647311c1043971bd"
-    },
     "86.104.125.81": {
       "confidence": 0.9,
       "date": "2026-09-12 20:34:08",
@@ -10144,6 +10114,21 @@
       "tweet_id": "2107102060042719580",
       "type": "ip",
       "value": "93.152.205.177"
+    },
+    "9332e79c5b7a36405d420230d4fa3745": {
+      "confidence": 0.5,
+      "date": "2026-10-06 22:41:08",
+      "enriched_at": "2026-10-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Botnet-related sample hash and C2 domain tcp.sanguine.life shared without a named family.",
+      "threat_type": "c2",
+      "tweet_id": "2107602084149211579",
+      "type": "md5",
+      "value": "9332e79c5b7a36405d420230d4fa3745"
     },
     "939a602b569d795a1bebace69b1f41843a5deb49f67fecb8b3a55dfea69524f4": {
       "confidence": 0.65,
@@ -12581,6 +12566,20 @@
       "type": "sha256",
       "value": "b0cb369029a7dd7de6510d60caac154a0bd91ad6b9a08d69c90227627743ec71"
     },
+    "b12.share-dns.net": {
+      "confidence": 0.85,
+      "date": "2026-10-06 18:02:23",
+      "enriched_at": "2026-10-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "New phishkit impersonating Danish MitID on freshly registered domain mitid.me, with nameservers at b12.share-dns.net.",
+      "threat_type": "phishing",
+      "tweet_id": "2107531933286584735",
+      "type": "domain",
+      "value": "b12.share-dns.net"
+    },
     "b13t17.pro": {
       "confidence": 0.9,
       "date": "2026-10-06 15:38:35",
@@ -12643,6 +12642,23 @@
       "tweet_id": "2105697441857065322",
       "type": "sha256",
       "value": "b25c9e7e793a86965779a71a8e8f81a2d43f40db54b7c252768faff306071fd6"
+    },
+    "b3c29d72230083c6687069abddddb64bfc3f7306bdd138872f7e16e9ac7a6b05": {
+      "confidence": 0.8,
+      "date": "2026-10-06 22:48:49",
+      "enriched_at": "2026-10-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating Rakuten, distributed via a cluster of seven .cn phishing domains; an associated sample hash was shared.",
+      "threat_type": "malware",
+      "tweet_id": "2107604018059248116",
+      "type": "sha256",
+      "value": "b3c29d72230083c6687069abddddb64bfc3f7306bdd138872f7e16e9ac7a6b05"
     },
     "b41a09bcb49ddff8f4a3ada4deb8f1228066267d0c7bc3c2cbbd54d767494593": {
       "confidence": 0.82,
@@ -14793,20 +14809,6 @@
       "type": "domain",
       "value": "casibom0862.com"
     },
-    "caturchiropractic.info": {
-      "confidence": 0.95,
-      "date": "2026-09-06 23:27:03",
-      "enriched_at": "2026-09-07T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Fake Insurify insurance quote form routes victims to caturchiropractic.info instead of the legitimate insurer.",
-      "threat_type": "phishing",
-      "tweet_id": "2096741999974158698",
-      "type": "domain",
-      "value": "caturchiropractic.info"
-    },
     "cd6b7acea0bdbcf8b6e8b2e62ea710ab3d9e59111202ac7a733d109c27c948fd": {
       "confidence": 0.85,
       "date": "2026-10-06 10:29:56",
@@ -14920,20 +14922,22 @@
       "type": "domain",
       "value": "cdn.wp-js.com"
     },
-    "celocozy.com": {
-      "confidence": 0.9,
-      "date": "2026-09-06 19:29:39",
-      "enriched_at": "2026-09-07T00:40:04Z",
+    "cepuk.cn": {
+      "confidence": 0.8,
+      "date": "2026-10-06 22:48:49",
+      "enriched_at": "2026-10-07T00:40:04Z",
       "family": null,
       "suggested_tags": [
+        "android",
         "phishing",
-        "scam"
+        "malware",
+        "trojan"
       ],
-      "summary": "Fake LifeLoans financial offer routes victims to celocozy.com, not a verified lender.",
-      "threat_type": "phishing",
-      "tweet_id": "2096682259504099389",
+      "summary": "Android malware impersonating Rakuten, distributed via a cluster of seven .cn phishing domains; an associated sample hash was shared.",
+      "threat_type": "malware",
+      "tweet_id": "2107604018059248116",
       "type": "domain",
-      "value": "celocozy.com"
+      "value": "cepuk.cn"
     },
     "cfaa9eead8f27ecc01803a5eb9fc463c": {
       "confidence": 0.8,
@@ -15213,6 +15217,23 @@
       "tweet_id": "2104956379509526729",
       "type": "domain",
       "value": "cinematicjazzorchestra.info"
+    },
+    "ciuyf.cn": {
+      "confidence": 0.8,
+      "date": "2026-10-06 22:48:49",
+      "enriched_at": "2026-10-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating Rakuten, distributed via a cluster of seven .cn phishing domains; an associated sample hash was shared.",
+      "threat_type": "malware",
+      "tweet_id": "2107604018059248116",
+      "type": "domain",
+      "value": "ciuyf.cn"
     },
     "clainasns.beer": {
       "confidence": 0.92,
@@ -16674,6 +16695,21 @@
       "type": "domain",
       "value": "delphiaonline.top"
     },
+    "depositonovoteto.com": {
+      "confidence": 0.8,
+      "date": "2026-10-06 20:02:12",
+      "enriched_at": "2026-10-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing/scam clone website depositonovoteto.com reported as a fake site tied to Google Ads fraud.",
+      "threat_type": "phishing",
+      "tweet_id": "2107562084774949295",
+      "type": "domain",
+      "value": "depositonovoteto.com"
+    },
     "desertramble-jp.com": {
       "confidence": 0.8,
       "date": "2026-10-05 00:48:22",
@@ -17639,22 +17675,6 @@
       "type": "sha256",
       "value": "e879bd752c4883b158d41ebb242aeca1912515233e861f5350bd2de23556c517"
     },
-    "e8bcc50bb4e0b1b1a31e06ec2646efb087e1db006f47df9326ac3fb1f5107a44": {
-      "confidence": 0.87,
-      "date": "2026-09-06 23:08:30",
-      "enriched_at": "2026-09-07T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Japanese credit card provider Saison Card served from two malicious domains; VT hash provided.",
-      "threat_type": "malware",
-      "tweet_id": "2096737331822870785",
-      "type": "sha256",
-      "value": "e8bcc50bb4e0b1b1a31e06ec2646efb087e1db006f47df9326ac3fb1f5107a44"
-    },
     "e9e6a9d8a06d7be611be2a8f4a6f53388e01512c76e2d222ce39d737705a28a1": {
       "confidence": 0.9,
       "date": "2026-10-02 07:16:35",
@@ -17684,20 +17704,6 @@
       "tweet_id": "2107097133446820143",
       "type": "sha256",
       "value": "eaca658a963bafb0998aada2c79864d42f526dc34076033005f4b34f236d76b1"
-    },
-    "eampengencangpayudara.info": {
-      "confidence": 0.95,
-      "date": "2026-09-06 22:11:55",
-      "enriched_at": "2026-09-07T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Fake Uber Eats driver lure redirects victims to eampengencangpayudara.info rather than the legitimate Uber platform.",
-      "threat_type": "phishing",
-      "tweet_id": "2096723093855334778",
-      "type": "domain",
-      "value": "eampengencangpayudara.info"
     },
     "ebikein.s3.us-east-1.amazonaws.com": {
       "confidence": 0.9,
@@ -19520,21 +19526,6 @@
       "type": "domain",
       "value": "financespringboard.info"
     },
-    "financialmarkets.info": {
-      "confidence": 0.85,
-      "date": "2026-09-06 20:41:41",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Cloud-file deletion threat routes payment updates to financialmarkets[.]info; phishing.",
-      "threat_type": "phishing",
-      "tweet_id": "2096700386245795979",
-      "type": "domain",
-      "value": "financialmarkets.info"
-    },
     "fingerprint-veri.info": {
       "confidence": 0.92,
       "date": "2026-09-24 12:12:59",
@@ -20183,6 +20174,20 @@
       "type": "domain",
       "value": "ghostlightcoff-jp.com"
     },
+    "gist.github.com/recoverfitter-ux/d9fdb8ef52fd833fb16155c4ed68aeee": {
+      "confidence": 0.4,
+      "date": "2026-10-06 18:46:43",
+      "enriched_at": "2026-10-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "GitHub gist URL flagged sarcastically as possibly being used by an actor as a dead-drop resolver or C2 channel.",
+      "threat_type": "c2",
+      "tweet_id": "2107543091251134880",
+      "type": "url",
+      "value": "https://gist.github.com/recoverfitter-ux/d9fdb8ef52fd833fb16155c4ed68aeee"
+    },
     "github.com/checkey04": {
       "confidence": 0.85,
       "date": "2026-09-17 16:25:02",
@@ -20655,6 +20660,23 @@
       "tweet_id": "2105625326839906782",
       "type": "domain",
       "value": "grinosp.digital"
+    },
+    "grlek.cn": {
+      "confidence": 0.8,
+      "date": "2026-10-06 22:48:49",
+      "enriched_at": "2026-10-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating Rakuten, distributed via a cluster of seven .cn phishing domains; an associated sample hash was shared.",
+      "threat_type": "malware",
+      "tweet_id": "2107604018059248116",
+      "type": "domain",
+      "value": "grlek.cn"
     },
     "gtib96.onlinewebshop.net": {
       "confidence": 0.75,
@@ -21586,20 +21608,6 @@
       "tweet_id": "2105440112989630614",
       "type": "domain",
       "value": "hmcot.cn"
-    },
-    "hnlytx.com": {
-      "confidence": 0.95,
-      "date": "2026-09-06 21:57:00",
-      "enriched_at": "2026-09-07T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Fake Liberty Mutual insurance quote lure routes victims to hnlytx.com, not the legitimate insurer.",
-      "threat_type": "phishing",
-      "tweet_id": "2096719341500985849",
-      "type": "domain",
-      "value": "hnlytx.com"
     },
     "hoirie.co": {
       "confidence": 0.95,
@@ -23970,6 +23978,23 @@
       "type": "domain",
       "value": "lckcdnjs.beer"
     },
+    "lcopz.cn": {
+      "confidence": 0.8,
+      "date": "2026-10-06 22:48:49",
+      "enriched_at": "2026-10-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating Rakuten, distributed via a cluster of seven .cn phishing domains; an associated sample hash was shared.",
+      "threat_type": "malware",
+      "tweet_id": "2107604018059248116",
+      "type": "domain",
+      "value": "lcopz.cn"
+    },
     "lcstdnsns.beer": {
       "confidence": 0.92,
       "date": "2026-09-24 12:12:59",
@@ -26145,6 +26170,18 @@
       "type": "domain",
       "value": "myonlinemarkets.com"
     },
+    "myself-pda-mike-kept.trycloudflare.com": {
+      "confidence": 0.2,
+      "date": "2026-10-06 19:00:42",
+      "enriched_at": "2026-10-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Trycloudflare tunnel subdomain posted with no context; likely used to proxy malicious infrastructure but purpose is unconfirmed.",
+      "threat_type": "other",
+      "tweet_id": "2107546610628800728",
+      "type": "domain",
+      "value": "myself-pda-mike-kept.trycloudflare.com"
+    },
     "myssoauth.com": {
       "confidence": 0.5,
       "date": "2026-10-05 13:26:12",
@@ -26887,20 +26924,6 @@
       "type": "domain",
       "value": "ns1cdnclaude.beer"
     },
-    "nsbpay.com": {
-      "confidence": 0.8,
-      "date": "2026-09-06 20:11:52",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "LendingTree HELOC lure routing through nsbpay[.]com instead of the displayed lender.",
-      "threat_type": "phishing",
-      "tweet_id": "2096692880698212685",
-      "type": "domain",
-      "value": "nsbpay.com"
-    },
     "nshtjscdn.beer": {
       "confidence": 0.92,
       "date": "2026-09-24 12:12:59",
@@ -27357,20 +27380,6 @@
       "type": "domain",
       "value": "onemainfinancial-report.com"
     },
-    "ongannanzhuang.info": {
-      "confidence": 0.75,
-      "date": "2026-09-06 21:26:55",
-      "enriched_at": "2026-10-05T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "QuoteWizard insurance lure that routes clicks through ongannanzhuang.info rather than the displayed service.",
-      "threat_type": "phishing",
-      "tweet_id": "2096711768395723142",
-      "type": "domain",
-      "value": "ongannanzhuang.info"
-    },
     "onixone.com.co": {
       "confidence": 0.85,
       "date": "2026-10-02 04:08:56",
@@ -27742,20 +27751,6 @@
       "tweet_id": "2103492532810232027",
       "type": "domain",
       "value": "originalpizza.eu"
-    },
-    "orlatiosllc.com": {
-      "confidence": 0.95,
-      "date": "2026-09-06 20:56:48",
-      "enriched_at": "2026-09-07T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing campaign impersonating a cloud provider routes payment renewal lure to orlatiosllc.com instead of a legitimate cloud service.",
-      "threat_type": "phishing",
-      "tweet_id": "2096704190190125129",
-      "type": "domain",
-      "value": "orlatiosllc.com"
     },
     "oskatrace.com": {
       "confidence": 0.9,
@@ -29459,6 +29454,23 @@
       "type": "domain",
       "value": "qhswrb.ntinvoicepload.dynu.net"
     },
+    "qkxcs.cn": {
+      "confidence": 0.8,
+      "date": "2026-10-06 22:48:49",
+      "enriched_at": "2026-10-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating Rakuten, distributed via a cluster of seven .cn phishing domains; an associated sample hash was shared.",
+      "threat_type": "malware",
+      "tweet_id": "2107604018059248116",
+      "type": "domain",
+      "value": "qkxcs.cn"
+    },
     "quantum-forgex.com": {
       "confidence": 0.9,
       "date": "2026-09-07 03:57:58",
@@ -29563,22 +29575,6 @@
       "type": "domain",
       "value": "rajug.eu"
     },
-    "raku-point-cebinde.com": {
-      "confidence": 0.87,
-      "date": "2026-09-06 23:21:49",
-      "enriched_at": "2026-09-07T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Rakuten distributed via three domains; VirusTotal hash provided for sample analysis.",
-      "threat_type": "malware",
-      "tweet_id": "2096740683130478686",
-      "type": "domain",
-      "value": "raku-point-cebinde.com"
-    },
     "raku-point-ensheng.com": {
       "confidence": 0.87,
       "date": "2026-09-07 23:15:37",
@@ -29595,38 +29591,6 @@
       "tweet_id": "2097101512111763734",
       "type": "domain",
       "value": "raku-point-ensheng.com"
-    },
-    "raku-point-exinxi.com": {
-      "confidence": 0.87,
-      "date": "2026-09-06 23:21:49",
-      "enriched_at": "2026-09-07T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Rakuten distributed via three domains; VirusTotal hash provided for sample analysis.",
-      "threat_type": "malware",
-      "tweet_id": "2096740683130478686",
-      "type": "domain",
-      "value": "raku-point-exinxi.com"
-    },
-    "raku-point-ianzi.com": {
-      "confidence": 0.87,
-      "date": "2026-09-06 23:21:49",
-      "enriched_at": "2026-09-07T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Rakuten distributed via three domains; VirusTotal hash provided for sample analysis.",
-      "threat_type": "malware",
-      "tweet_id": "2096740683130478686",
-      "type": "domain",
-      "value": "raku-point-ianzi.com"
     },
     "raku-point-karpet.com": {
       "confidence": 0.87,
@@ -31379,38 +31343,6 @@
       "type": "domain",
       "value": "sarcomagroup.com"
     },
-    "sasioncarid-iwang.com": {
-      "confidence": 0.87,
-      "date": "2026-09-06 23:08:30",
-      "enriched_at": "2026-09-07T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Japanese credit card provider Saison Card served from two malicious domains; VT hash provided.",
-      "threat_type": "malware",
-      "tweet_id": "2096737331822870785",
-      "type": "domain",
-      "value": "sasioncarid-iwang.com"
-    },
-    "sasioncarid-mustee.com": {
-      "confidence": 0.87,
-      "date": "2026-09-06 23:08:30",
-      "enriched_at": "2026-09-07T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Japanese credit card provider Saison Card served from two malicious domains; VT hash provided.",
-      "threat_type": "malware",
-      "tweet_id": "2096737331822870785",
-      "type": "domain",
-      "value": "sasioncarid-mustee.com"
-    },
     "sb.anaridelight.com": {
       "confidence": 0.95,
       "date": "2026-09-14 06:10:00",
@@ -31528,20 +31460,6 @@
       "tweet_id": "2106577786710482999",
       "type": "url",
       "value": "http://schedule-meeting-zoom.us/join"
-    },
-    "schoolgirstrikers.info": {
-      "confidence": 0.85,
-      "date": "2026-09-06 20:26:47",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Fake cloud-storage payment renewal threat directs victims to schoolgirstrikers.info instead of a legitimate provider.",
-      "threat_type": "phishing",
-      "tweet_id": "2096696636865204232",
-      "type": "domain",
-      "value": "schoolgirstrikers.info"
     },
     "scocaboade.com": {
       "confidence": 0.5,
@@ -31965,6 +31883,23 @@
       "tweet_id": "2105926962833498606",
       "type": "domain",
       "value": "settingsportal.com"
+    },
+    "sftcm.cn": {
+      "confidence": 0.8,
+      "date": "2026-10-06 22:48:49",
+      "enriched_at": "2026-10-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating Rakuten, distributed via a cluster of seven .cn phishing domains; an associated sample hash was shared.",
+      "threat_type": "malware",
+      "tweet_id": "2107604018059248116",
+      "type": "domain",
+      "value": "sftcm.cn"
     },
     "share-files-onedrive.com": {
       "confidence": 0.85,
@@ -33249,20 +33184,6 @@
       "type": "domain",
       "value": "stc-chaffoteaux.com"
     },
-    "stdigitalthermometer.info": {
-      "confidence": 0.95,
-      "date": "2026-09-06 22:41:42",
-      "enriched_at": "2026-09-07T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Fake Insurify insurance quote lure redirects victims to stdigitalthermometer.info instead of the legitimate insurer.",
-      "threat_type": "phishing",
-      "tweet_id": "2096730589789647171",
-      "type": "domain",
-      "value": "stdigitalthermometer.info"
-    },
     "steamupdate.ydns.eu": {
       "confidence": 0.3,
       "date": "2026-09-20 15:32:34",
@@ -33349,20 +33270,6 @@
       "tweet_id": "2105496072785453421",
       "type": "url",
       "value": "https://strutsupportsystems.com/Adobe_Installer.html"
-    },
-    "studiohyperlink.com": {
-      "confidence": 0.95,
-      "date": "2026-09-06 19:56:38",
-      "enriched_at": "2026-09-07T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Fake ClearChoice dental offer lure routes victims to studiohyperlink.com instead of the displayed legitimate dental provider.",
-      "threat_type": "phishing",
-      "tweet_id": "2096689050019303755",
-      "type": "domain",
-      "value": "studiohyperlink.com"
     },
     "stupfication.5s7htk.info": {
       "confidence": 0.95,
@@ -33600,6 +33507,23 @@
       "type": "domain",
       "value": "talkerresearch.report"
     },
+    "tancm.cn": {
+      "confidence": 0.8,
+      "date": "2026-10-06 22:48:49",
+      "enriched_at": "2026-10-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating Rakuten, distributed via a cluster of seven .cn phishing domains; an associated sample hash was shared.",
+      "threat_type": "malware",
+      "tweet_id": "2107604018059248116",
+      "type": "domain",
+      "value": "tancm.cn"
+    },
     "taslimaenterprise.com": {
       "confidence": 0.9,
       "date": "2026-09-19 04:47:37",
@@ -33675,6 +33599,21 @@
       "tweet_id": "2099752341952213436",
       "type": "domain",
       "value": "tb.rilobreeze.com"
+    },
+    "tcp.sanguine.life": {
+      "confidence": 0.5,
+      "date": "2026-10-06 22:41:08",
+      "enriched_at": "2026-10-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Botnet-related sample hash and C2 domain tcp.sanguine.life shared without a named family.",
+      "threat_type": "c2",
+      "tweet_id": "2107602084149211579",
+      "type": "domain",
+      "value": "tcp.sanguine.life"
     },
     "te.cyraecraft.com": {
       "confidence": 0.8,
@@ -33894,21 +33833,6 @@
       "tweet_id": "2103980138933420366",
       "type": "domain",
       "value": "theartoftalki-saisanpolnts.com"
-    },
-    "thebitcoincenter.info": {
-      "confidence": 0.85,
-      "date": "2026-09-06 22:57:07",
-      "enriched_at": "2026-10-03T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing lure posing as a McAfee billing warning that sends payment updates to thebitcoincenter[.]info.",
-      "threat_type": "phishing",
-      "tweet_id": "2096734469248152040",
-      "type": "domain",
-      "value": "thebitcoincenter.info"
     },
     "thefishguid-jp.com": {
       "confidence": 0.8,
@@ -38405,6 +38329,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-06T18:40:03Z",
+  "generated_at": "2026-10-07T00:40:04Z",
   "window_days": 30
 }
