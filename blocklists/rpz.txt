@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1424
-; Updated: 2026-10-07T05:15:15Z
+; Entries: 1433
+; Updated: 2026-10-07T05:45:15Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1791350115 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1791351915 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -310,6 +310,8 @@ bhfgtrns-js.beer CNAME .
 *.bhfgtrns-js.beer CNAME .
 bhrconline-jprakutanziu.com CNAME .
 *.bhrconline-jprakutanziu.com CNAME .
+bifcapnepa-jp.com CNAME .
+*.bifcapnepa-jp.com CNAME .
 bigbigvol.qd.je CNAME .
 *.bigbigvol.qd.je CNAME .
 bigbrandtire.report CNAME .
@@ -714,6 +716,8 @@ dpfuhk.cfd CNAME .
 *.dpfuhk.cfd CNAME .
 dr5beljvyqljgq5ppro57pgetg4yeslcsexmuhvv3p46wod3odsh3fid.onion CNAME .
 *.dr5beljvyqljgq5ppro57pgetg4yeslcsexmuhvv3p46wod3odsh3fid.onion CNAME .
+dream-jp.duckdns.org CNAME .
+*.dream-jp.duckdns.org CNAME .
 dsjex.net CNAME .
 *.dsjex.net CNAME .
 dslld.com CNAME .
@@ -1088,6 +1092,8 @@ hhmjjdfwzx.com CNAME .
 *.hhmjjdfwzx.com CNAME .
 highertola.duckdns.org CNAME .
 *.highertola.duckdns.org CNAME .
+hii-hoores.duckdns.org CNAME .
+*.hii-hoores.duckdns.org CNAME .
 hitorerrid.com CNAME .
 *.hitorerrid.com CNAME .
 hkgnclub.com CNAME .
@@ -1160,6 +1166,8 @@ icloudxtzsopoe.click CNAME .
 *.icloudxtzsopoe.click CNAME .
 icubedtecnologies.info CNAME .
 *.icubedtecnologies.info CNAME .
+id-so-net-ne-jp.duckdns.org CNAME .
+*.id-so-net-ne-jp.duckdns.org CNAME .
 idcool.codes CNAME .
 *.idcool.codes CNAME .
 iddmd.com CNAME .
@@ -1574,6 +1582,8 @@ myloisle.com CNAME .
 *.myloisle.com CNAME .
 myonlinemarkets.com CNAME .
 *.myonlinemarkets.com CNAME .
+mypage-nlfty.duckdns.org CNAME .
+*.mypage-nlfty.duckdns.org CNAME .
 myself-pda-mike-kept.trycloudflare.com CNAME .
 *.myself-pda-mike-kept.trycloudflare.com CNAME .
 myssoauth.com CNAME .
@@ -2370,6 +2380,8 @@ sunyotech.com CNAME .
 *.sunyotech.com CNAME .
 supermercadoabundancia.com.mx CNAME .
 *.supermercadoabundancia.com.mx CNAME .
+support-eonet.duckdns.org CNAME .
+*.support-eonet.duckdns.org CNAME .
 surround-tough-method-zinc.trycloudflare.com CNAME .
 *.surround-tough-method-zinc.trycloudflare.com CNAME .
 suwakdsdowa.com CNAME .
@@ -2380,6 +2392,8 @@ sverlogina.com CNAME .
 *.sverlogina.com CNAME .
 swiftblooms.com CNAME .
 *.swiftblooms.com CNAME .
+t-com-ne-jp.duckdns.org CNAME .
+*.t-com-ne-jp.duckdns.org CNAME .
 talkerresearch.report CNAME .
 *.talkerresearch.report CNAME .
 tancm.cn CNAME .
@@ -2714,6 +2728,8 @@ whm.whm.whm.whm.whm.www.whm.mta-sts.prohouz.com CNAME .
 *.whm.whm.whm.whm.whm.www.whm.mta-sts.prohouz.com CNAME .
 wholenura.com CNAME .
 *.wholenura.com CNAME .
+wildfirehk.com CNAME .
+*.wildfirehk.com CNAME .
 win-5nadl1jm5uv.tail84c20e.ts.net CNAME .
 *.win-5nadl1jm5uv.tail84c20e.ts.net CNAME .
 winecdn.sbs CNAME .
@@ -2824,6 +2840,8 @@ yverodumbo.com CNAME .
 *.yverodumbo.com CNAME .
 yw8.net CNAME .
 *.yw8.net CNAME .
+yxjfsy.com CNAME .
+*.yxjfsy.com CNAME .
 yxz-1469461062.cos.ap-singapore.myqcloud.com CNAME .
 *.yxz-1469461062.cos.ap-singapore.myqcloud.com CNAME .
 yylfoli.com CNAME .
