@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1417
-; Updated: 2026-10-07T04:00:19Z
+; Entries: 1421
+; Updated: 2026-10-07T04:45:15Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1791345619 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1791348315 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1208,6 +1208,8 @@ investcreditlane.com CNAME .
 *.investcreditlane.com CNAME .
 investkursonline.com CNAME .
 *.investkursonline.com CNAME .
+invitationlauchjczoommeeting.com CNAME .
+*.invitationlauchjczoommeeting.com CNAME .
 inviteteamsmeeting.fit CNAME .
 *.inviteteamsmeeting.fit CNAME .
 invitezoommeeting.xyz CNAME .
@@ -1928,6 +1930,8 @@ qhswrb.ntinvoicepload.dynu.net CNAME .
 *.qhswrb.ntinvoicepload.dynu.net CNAME .
 qkxcs.cn CNAME .
 *.qkxcs.cn CNAME .
+qtxfq.cn CNAME .
+*.qtxfq.cn CNAME .
 quantum-forgex.com CNAME .
 *.quantum-forgex.com CNAME .
 quisenagid.net CNAME .
@@ -2168,6 +2172,8 @@ sdnssmdf-js.beer CNAME .
 *.sdnssmdf-js.beer CNAME .
 sdonaghylactationservices.info CNAME .
 *.sdonaghylactationservices.info CNAME .
+sdueioy.study CNAME .
+*.sdueioy.study CNAME .
 se.kivokeyline.com CNAME .
 *.se.kivokeyline.com CNAME .
 se.kuashouban.com CNAME .
@@ -2834,6 +2840,8 @@ zo0mnneet.top CNAME .
 *.zo0mnneet.top CNAME .
 zoom.frash.org CNAME .
 *.zoom.frash.org CNAME .
+zoomclientsetup.org CNAME .
+*.zoomclientsetup.org CNAME .
 zoomeventlive.com CNAME .
 *.zoomeventlive.com CNAME .
 zoominviite.pages.dev CNAME .

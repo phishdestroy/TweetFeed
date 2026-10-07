@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-07 04:30:18 (UTC)</th>
+        <th colspan=4>2026-10-07 04:45:15 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 10 | 386 | 1766 | 46963 |
-| **:globe_with_meridians: Domains** | 10 | 320 | 1553 | 40794 |
-| **:triangular_flag_on_post: IPs** | 2 | 202 | 433 | 6261 |
-| **:1234: SHA256** | 0 | 65 | 203 | 2724 |
+| **:link: URLs** | 13 | 389 | 1769 | 46966 |
+| **:globe_with_meridians: Domains** | 14 | 324 | 1557 | 40798 |
+| **:triangular_flag_on_post: IPs** | 4 | 204 | 435 | 6263 |
+| **:1234: SHA256** | 1 | 66 | 204 | 2725 |
 | **:1234: MD5** | 0 | 7 | 70 | 2178 |
 
 </div>
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 20 | 381 | 1862 | 37637 |
+| **#phishing** | 30 | 391 | 1872 | 37647 |
 | **#Kimsuky** | 0 | 4 | 88 | 13299 |
 | **#DPRK** | 0 | 3 | 20 | 11667 |
 | **#scam** | 0 | 10 | 84 | 4287 |
@@ -231,12 +231,12 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [TKemmerling](https://x.com/TKemmerling) | 8 |
-| **#2** | [romonlyht](https://x.com/romonlyht) | 4 |
-| **#3** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#4** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 2 |
-| **#6** | [Metemcyber](https://x.com/Metemcyber) | 2 |
-| **#7** | [patialavii](https://x.com/patialavii) | 2 |
+| **#2** | [romonlyht](https://x.com/romonlyht) | 8 |
+| **#3** | [patialavii](https://x.com/patialavii) | 6 |
+| **#4** | [masaomi346](https://x.com/masaomi346) | 4 |
+| **#5** | [PhishStats](https://x.com/PhishStats) | 2 |
+| **#6** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#7** | [Metemcyber](https://x.com/Metemcyber) | 2 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
