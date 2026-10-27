@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-07 09:45:17 (UTC)</th>
+        <th colspan=4>2026-10-27 11:15:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,11 +188,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 43 | 419 | 1799 | 46996 |
-| **:globe_with_meridians: Domains** | 41 | 351 | 1584 | 40825 |
-| **:triangular_flag_on_post: IPs** | 22 | 222 | 453 | 6281 |
-| **:1234: SHA256** | 7 | 72 | 210 | 2731 |
-| **:1234: MD5** | 0 | 7 | 70 | 2178 |
+| **:link: URLs** | 31 | 730 | 2850 | 45663 |
+| **:globe_with_meridians: Domains** | 19 | 594 | 2423 | 39463 |
+| **:triangular_flag_on_post: IPs** | 10 | 1506 | 2099 | 7841 |
+| **:1234: SHA256** | 9 | 104 | 404 | 2965 |
+| **:1234: MD5** | 10 | 37 | 80 | 2094 |
 
 </div>
 
@@ -205,19 +205,19 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 99 | 460 | 1941 | 37716 |
-| **#Kimsuky** | 0 | 4 | 88 | 13299 |
-| **#DPRK** | 0 | 3 | 20 | 11667 |
-| **#scam** | 0 | 10 | 84 | 4287 |
-| **#malware** | 7 | 96 | 607 | 3159 |
-| **#C2** | 0 | 12 | 121 | 2276 |
-| **#APT** | 0 | 8 | 42 | 1582 |
-| **#ClickFix** | 0 | 101 | 367 | 934 |
-| **#opendir** | 0 | 25 | 46 | 716 |
-| **#stealer** | 0 | 3 | 20 | 678 |
+| **#phishing** | 29 | 617 | 3380 | 34493 |
+| **#Kimsuky** | 0 | 0 | 40 | 13317 |
+| **#DPRK** | 0 | 0 | 5 | 11669 |
+| **#malware** | 3 | 583 | 1160 | 4035 |
+| **#scam** | 4 | 6 | 50 | 3471 |
+| **#C2** | 3 | 33 | 113 | 2223 |
+| **#APT** | 0 | 4 | 37 | 1497 |
+| **#ClickFix** | 0 | 92 | 289 | 1115 |
+| **#opendir** | 0 | 2 | 40 | 709 |
+| **#ransomware** | 6 | 17 | 99 | 687 |
 <!-- TAG_TABLE_END -->
 
-These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tags being matched. Every one of them is queryable through the [API](#gear-programmatic-access) and has its own [RSS feed](https://tweetfeed.live/rss/tag/phishing.xml); the highest-volume ones also get a curated landing page at [tweetfeed.live/tags/](https://tweetfeed.live/tags/).
+These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tags being matched. Every one of them is queryable through the [API](#gear-programmatic-access) and has its own [RSS feed](https://tweetfeed.live/rss/tag/phishing.xml); the highest-volume ones also get a curated landing page at [tweetfeed.live/tags/](https://tweetfeed.live/tags/).
 
 </div>
 
@@ -230,16 +230,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [romonlyht](https://x.com/romonlyht) | 48 |
-| **#2** | [masaomi346](https://x.com/masaomi346) | 21 |
-| **#3** | [smica83](https://x.com/smica83) | 10 |
-| **#4** | [TKemmerling](https://x.com/TKemmerling) | 8 |
-| **#5** | [Metemcyber](https://x.com/Metemcyber) | 8 |
-| **#6** | [patialavii](https://x.com/patialavii) | 6 |
-| **#7** | [PhishStats](https://x.com/PhishStats) | 5 |
-| **#8** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#9** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#10** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
+| **#1** | [harugasumi](https://x.com/harugasumi) | 12 |
+| **#2** | [tdatwja](https://x.com/tdatwja) | 12 |
+| **#3** | [ShanHolo](https://x.com/ShanHolo) | 8 |
+| **#4** | [masaomi346](https://x.com/masaomi346) | 7 |
+| **#5** | [TKemmerling](https://x.com/TKemmerling) | 6 |
+| **#6** | [suyog41](https://x.com/suyog41) | 6 |
+| **#7** | [smica83](https://x.com/smica83) | 6 |
+| **#8** | [bomccss](https://x.com/bomccss) | 5 |
+| **#9** | [PhishStats](https://x.com/PhishStats) | 4 |
+| **#10** | [RakeshKrish12](https://x.com/RakeshKrish12) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
@@ -252,8 +252,8 @@ Search tweets that contain certain tags **or** that are posted by certain *infos
 
 <!-- TAGS_LIST_START -->
 ```
-#phishing, #Kimsuky, #DPRK, #scam, #malware, #C2, #APT,
-#ClickFix, #opendir, #stealer
+#phishing, #Kimsuky, #DPRK, #malware, #scam, #C2, #APT,
+#ClickFix, #opendir, #ransomware
 ```
 <!-- TAGS_LIST_END -->
 
