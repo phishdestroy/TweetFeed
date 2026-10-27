@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2338
-; Updated: 2026-10-27T09:45:17Z
+; Entries: 2340
+; Updated: 2026-10-27T13:00:22Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793094317 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793106022 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -732,6 +732,8 @@ boxset-whatsapp.com CNAME .
 *.boxset-whatsapp.com CNAME .
 boxuse-whatsapp.com CNAME .
 *.boxuse-whatsapp.com CNAME .
+bradesco.tel CNAME .
+*.bradesco.tel CNAME .
 branch-whatsapp.com CNAME .
 *.branch-whatsapp.com CNAME .
 brandstrengththroughconsistency.de CNAME .
@@ -4648,6 +4650,8 @@ zhushou-whatsapp.com CNAME .
 *.zhushou-whatsapp.com CNAME .
 zilqkr.cn CNAME .
 *.zilqkr.cn CNAME .
+zinhoooo.workers.dev CNAME .
+*.zinhoooo.workers.dev CNAME .
 zip-whatsapp.com CNAME .
 *.zip-whatsapp.com CNAME .
 zivvvnvt.cn CNAME .
