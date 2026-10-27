@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2350
-; Updated: 2026-10-27T17:00:24Z
+; Entries: 2348
+; Updated: 2026-10-27T17:52:34Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793120424 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793123554 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -4454,8 +4454,6 @@ wellsfargo-secure-login.beauty CNAME .
 *.wellsfargo-secure-login.beauty CNAME .
 werefilledwit.org CNAME .
 *.werefilledwit.org CNAME .
-whatruns.com CNAME .
-*.whatruns.com CNAME .
 wheat-whatsapp.com CNAME .
 *.wheat-whatsapp.com CNAME .
 wi20a-1kkan-llam2.xo.je CNAME .
@@ -4540,8 +4538,6 @@ xionamiconm.com CNAME .
 *.xionamiconm.com CNAME .
 xiyuegongju-jp.com CNAME .
 *.xiyuegongju-jp.com CNAME .
-xml-v4.pushub.net CNAME .
-*.xml-v4.pushub.net CNAME .
 xn--a-5tba68c8d.com CNAME .
 *.xn--a-5tba68c8d.com CNAME .
 xn--nie-g6a.com CNAME .
