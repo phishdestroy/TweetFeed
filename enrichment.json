@@ -1,5 +1,5 @@
 {
-  "count": 5837,
+  "count": 5871,
   "dead_tweets": {
     "2101923416521728224": {
       "attempts": 1,
@@ -2365,20 +2365,6 @@
       "type": "ip",
       "value": "103.63.101.24"
     },
-    "103.67.182.217": {
-      "confidence": 0.75,
-      "date": "2026-09-27 07:01:51",
-      "enriched_at": "2026-09-27T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "MetaMask phishing page hosted on 2ccloud.com subdomain serving fake MetaMask JS, IP hosted in India.",
-      "threat_type": "phishing",
-      "tweet_id": "2104104215152837041",
-      "type": "ip",
-      "value": "103.67.182.217"
-    },
     "103.68.5.250": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -2878,6 +2864,20 @@
       "type": "ip",
       "value": "104.160.176.32"
     },
+    "104.164.55.12": {
+      "confidence": 0.7,
+      "date": "2026-10-27 06:42:17",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "Nexus",
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Nexus C2 panel at 104.164.55.12:8080 with associated sample hash.",
+      "threat_type": "c2",
+      "tweet_id": "2114970927255704033",
+      "type": "ip",
+      "value": "104.164.55.12"
+    },
     "104.192.2.46": {
       "confidence": 0.55,
       "date": "2026-09-28 04:07:53",
@@ -3164,6 +3164,21 @@
       "tweet_id": "2107090158419955902",
       "type": "url",
       "value": "http://105.224.242.90:47973/Mozi.m"
+    },
+    "10564eb8b9f64f8c7c3dad1338a2fd48": {
+      "confidence": 0.8,
+      "date": "2026-10-27 09:17:57",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "AzaleaRAT",
+      "suggested_tags": [
+        "rat",
+        "malware"
+      ],
+      "summary": "AzaleaRAT analysis thread part 3: loader executable, decoded loader and payload stages, and final AzaleaRAT hash.",
+      "threat_type": "malware",
+      "tweet_id": "2115010100037636380",
+      "type": "md5",
+      "value": "10564eb8b9f64f8c7c3dad1338a2fd48"
     },
     "105e97b7db3e3398416f5e73b91a408a6dcea54f1049ff581353984fcfbeda1f": {
       "confidence": 0.65,
@@ -7127,6 +7142,54 @@
       "type": "url",
       "value": "http://148.135.195.145"
     },
+    "148.135.195.145:443": {
+      "confidence": 0.85,
+      "date": "2026-10-27 09:17:56",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "AzaleaRAT",
+      "suggested_tags": [
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "AzaleaRAT sample from Ukraine in a RAR archive, with configured C2 148.135.195.145:443 (TCP over TLS) and HTTP staging URLs on port 80.",
+      "threat_type": "c2",
+      "tweet_id": "2115010094027190599",
+      "type": "url",
+      "value": "http://148.135.195.145:443"
+    },
+    "148.135.195.145:80/842306a9-15f4-454e-afbd-dbc6499bdb4b": {
+      "confidence": 0.85,
+      "date": "2026-10-27 09:17:56",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "AzaleaRAT",
+      "suggested_tags": [
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "AzaleaRAT sample from Ukraine in a RAR archive, with configured C2 148.135.195.145:443 (TCP over TLS) and HTTP staging URLs on port 80.",
+      "threat_type": "c2",
+      "tweet_id": "2115010094027190599",
+      "type": "url",
+      "value": "http://148.135.195.145:80/842306a9-15f4-454e-afbd-dbc6499bdb4b"
+    },
+    "148.135.195.145:80/89e8e0bb-074f-4117-ae35-45e388a169c9": {
+      "confidence": 0.85,
+      "date": "2026-10-27 09:17:56",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "AzaleaRAT",
+      "suggested_tags": [
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "AzaleaRAT sample from Ukraine in a RAR archive, with configured C2 148.135.195.145:443 (TCP over TLS) and HTTP staging URLs on port 80.",
+      "threat_type": "c2",
+      "tweet_id": "2115010094027190599",
+      "type": "url",
+      "value": "http://148.135.195.145:80/89e8e0bb-074f-4117-ae35-45e388a169c9"
+    },
     "149.104.24.91": {
       "confidence": 0.6,
       "date": "2026-10-02 15:38:18",
@@ -7588,6 +7651,21 @@
       "tweet_id": "2109630309792669794",
       "type": "ip",
       "value": "153.52.178.118"
+    },
+    "153.56.168.27": {
+      "confidence": 0.7,
+      "date": "2026-10-27 07:19:43",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "Xatli Bot",
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Xatli Bot malware sample with C2 at 153.56.168.27 (Turkey).",
+      "threat_type": "c2",
+      "tweet_id": "2114980346466893885",
+      "type": "url",
+      "value": "http://153.56.168.27"
     },
     "153.75.247.94": {
       "confidence": 0.7,
@@ -8821,6 +8899,22 @@
       "type": "domain",
       "value": "1606837286.cyou"
     },
+    "160dae32574db53ab621c5da9d5dabc8": {
+      "confidence": 0.8,
+      "date": "2026-10-27 06:33:55",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "MioLab",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "MioLab macOS stealer distributed as a fake SnapGene 8.2.2 DMG.",
+      "threat_type": "malware",
+      "tweet_id": "2114968820037095596",
+      "type": "md5",
+      "value": "160dae32574db53ab621c5da9d5dabc8"
+    },
     "161.120.181.157": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -9708,6 +9802,21 @@
       "type": "ip",
       "value": "170.168.61.117"
     },
+    "170.62.130.5": {
+      "confidence": 0.75,
+      "date": "2026-10-27 06:37:08",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "NDragon",
+      "suggested_tags": [
+        "rat",
+        "c2"
+      ],
+      "summary": "NDragon RAT C2 panel at 170.62.130.5:8080.",
+      "threat_type": "c2",
+      "tweet_id": "2114969629928067315",
+      "type": "ip",
+      "value": "170.62.130.5"
+    },
     "1702f7ad2a56ef7fca815a01ce5d0ebb43328043d2dbd5cfb4b3f71d0605310c": {
       "confidence": 0.9,
       "date": "2026-09-30 11:41:27",
@@ -9735,6 +9844,21 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "171.34.139.222"
+    },
+    "171a82dc4c7c935cd5533d8ae8036774c108be95a701ceaf323f7d33e12da0b5": {
+      "confidence": 0.55,
+      "date": "2026-10-27 10:08:39",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Fake 'VoiceMod Installer.exe' sample seen from Uzbekistan, containing nearly 30 dynamic DNS C2 domains.",
+      "threat_type": "malware",
+      "tweet_id": "2115022857562395004",
+      "type": "sha256",
+      "value": "171a82dc4c7c935cd5533d8ae8036774c108be95a701ceaf323f7d33e12da0b5"
     },
     "172.105.109.85": {
       "confidence": 0.5,
@@ -10203,6 +10327,36 @@
       "tweet_id": "2109955303991357564",
       "type": "url",
       "value": "http://176.123.11.84:3000"
+    },
+    "176.123.18.20": {
+      "confidence": 0.6,
+      "date": "2026-10-27 09:40:07",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Undetected 'setup.bat' sample seen from Yemen, communicating with C2 at 176.123.18.20:4444 over TCP.",
+      "threat_type": "c2",
+      "tweet_id": "2115015680374227446",
+      "type": "ip",
+      "value": "176.123.18.20"
+    },
+    "176.123.18.20:4444": {
+      "confidence": 0.6,
+      "date": "2026-10-27 09:40:07",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Undetected 'setup.bat' sample seen from Yemen, communicating with C2 at 176.123.18.20:4444 over TCP.",
+      "threat_type": "c2",
+      "tweet_id": "2115015680374227446",
+      "type": "url",
+      "value": "http://176.123.18.20:4444"
     },
     "176.65.132.7": {
       "confidence": 0.9,
@@ -12698,6 +12852,68 @@
       "tweet_id": "2111786774242758835",
       "type": "ip",
       "value": "2.29.2.248"
+    },
+    "2.59.152.21": {
+      "confidence": 0.6,
+      "date": "2026-10-27 08:21:24",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "ScreenConnect client installer served from 2.59.152.21:8040, linked to malicious abuse of ScreenConnect.",
+      "threat_type": "malware",
+      "tweet_id": "2114995867530977473",
+      "type": "url",
+      "value": "http://2.59.152.21"
+    },
+    "2.59.152.21:8040/bin/screenconnect.clientsetup.msi": {
+      "confidence": 0.6,
+      "date": "2026-10-27 08:21:24",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "ScreenConnect client installer served from 2.59.152.21:8040, linked to malicious abuse of ScreenConnect.",
+      "threat_type": "malware",
+      "tweet_id": "2114995867530977473",
+      "type": "url",
+      "value": "http://2.59.152.21:8040/Bin/ScreenConnect.ClientSetup.msi"
+    },
+    "2.59.152.21:8040/bin/screenconnect.clientsetup.msi?e=access&y=guest": {
+      "confidence": 0.7,
+      "date": "2026-10-27 09:46:34",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "c2",
+        "rat"
+      ],
+      "summary": "ScreenConnect abuse: ISO delivers g2m.dll and an exe, fetching ScreenConnect client from 2.59.152.21:8040, with C2 at port 8041; same file hosted on 54.168.18.248.",
+      "threat_type": "malware",
+      "tweet_id": "2115017300843839826",
+      "type": "url",
+      "value": "http://2.59.152.21:8040/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
+    },
+    "2.59.152.21:8041": {
+      "confidence": 0.7,
+      "date": "2026-10-27 09:46:34",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "c2",
+        "rat"
+      ],
+      "summary": "ScreenConnect abuse: ISO delivers g2m.dll and an exe, fetching ScreenConnect client from 2.59.152.21:8040, with C2 at port 8041; same file hosted on 54.168.18.248.",
+      "threat_type": "malware",
+      "tweet_id": "2115017300843839826",
+      "type": "url",
+      "value": "http://2.59.152.21:8041"
     },
     "20.102.117.176": {
       "confidence": 0.6,
@@ -25610,6 +25826,21 @@
       "type": "md5",
       "value": "408f36738f10d2ac47fed558f2820682"
     },
+    "40e4abaa2e5d66df74886cba7620e8ce": {
+      "confidence": 0.8,
+      "date": "2026-10-27 09:17:57",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "AzaleaRAT",
+      "suggested_tags": [
+        "rat",
+        "malware"
+      ],
+      "summary": "AzaleaRAT analysis thread part 3: loader executable, decoded loader and payload stages, and final AzaleaRAT hash.",
+      "threat_type": "malware",
+      "tweet_id": "2115010100037636380",
+      "type": "md5",
+      "value": "40e4abaa2e5d66df74886cba7620e8ce"
+    },
     "41.223.139.111": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -25955,6 +26186,20 @@
       "tweet_id": "2111396440815947970",
       "type": "url",
       "value": "http://43.155.215.231"
+    },
+    "43.157.146.70": {
+      "confidence": 0.8,
+      "date": "2026-10-27 07:09:59",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Fake ransomware negotiation/recovery site kakisafedecrypt.com hosted at 43.157.146.70, targeting ransomware victims.",
+      "threat_type": "scam",
+      "tweet_id": "2114977896670654941",
+      "type": "url",
+      "value": "http://43.157.146.70"
     },
     "43.160.211.117": {
       "confidence": 0.9,
@@ -26780,6 +27025,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "45.153.34.149"
+    },
+    "45.153.34.169": {
+      "confidence": 0.35,
+      "date": "2026-10-27 11:15:23",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP address 45.153.34.169 shared as suspected malicious infrastructure, with no further context.",
+      "threat_type": "c2",
+      "tweet_id": "2115027265163796987",
+      "type": "url",
+      "value": "http://45.153.34.169"
     },
     "45.153.34.191": {
       "confidence": 0.4,
@@ -27756,6 +28015,21 @@
       "type": "sha256",
       "value": "477381fcad2a224fc4070d9fbcd4d5c4f8169fcf0904398bda8f29d6f9fab6a0"
     },
+    "489d13c17ecb75507dc13f0f68d66b4d": {
+      "confidence": 0.8,
+      "date": "2026-10-27 09:17:57",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "AzaleaRAT",
+      "suggested_tags": [
+        "rat",
+        "malware"
+      ],
+      "summary": "AzaleaRAT analysis thread part 3: loader executable, decoded loader and payload stages, and final AzaleaRAT hash.",
+      "threat_type": "malware",
+      "tweet_id": "2115010100037636380",
+      "type": "md5",
+      "value": "489d13c17ecb75507dc13f0f68d66b4d"
+    },
     "48db2ddcc81839bbd26c206696a47dc772fb7892603616da09657cd976533f69": {
       "confidence": 0.4,
       "date": "2026-10-23 20:39:15",
@@ -27954,6 +28228,35 @@
       "tweet_id": "2107696283205201983",
       "type": "sha256",
       "value": "4d7861e9df590457dd955a9c7149d0f39526df541964e8341d507f7f2a160fba"
+    },
+    "4da2429b8cde5e987a1f5b63e85e004e": {
+      "confidence": 0.3,
+      "date": "2026-10-27 08:12:30",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "MD5 for 'BRAISUDO GABBER PREMIUM v5.3.2', a suspected malicious tool; no further detail given.",
+      "threat_type": "malware",
+      "tweet_id": "2114993629844619388",
+      "type": "md5",
+      "value": "4da2429b8cde5e987a1f5b63e85e004e"
+    },
+    "4dc4c0bdce7d711bd4160beebbfe67d64a65a5c083429cb222926d7bd095b353": {
+      "confidence": 0.65,
+      "date": "2026-10-27 08:21:23",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Domains chinatpst.com, rmwjb.com and matizu.com delivering an ISO with an exe and g2m.dll, associated with ScreenConnect abuse campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2114995865517695018",
+      "type": "sha256",
+      "value": "4dc4c0bdce7d711bd4160beebbfe67d64a65a5c083429cb222926d7bd095b353"
     },
     "4f0b4dae2cc3ace8d80bdd50b2df1b8421556e325ca65ac43037113cc61eb6ee": {
       "confidence": 0.85,
@@ -28739,6 +29042,22 @@
       "type": "sha256",
       "value": "5363bc92bac44aa2ba87b46c59fd3f78d5cdd32839efa854e97380a55fdacabb"
     },
+    "54.168.18.248": {
+      "confidence": 0.7,
+      "date": "2026-10-27 09:46:34",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "c2",
+        "rat"
+      ],
+      "summary": "ScreenConnect abuse: ISO delivers g2m.dll and an exe, fetching ScreenConnect client from 2.59.152.21:8040, with C2 at port 8041; same file hosted on 54.168.18.248.",
+      "threat_type": "malware",
+      "tweet_id": "2115017300843839826",
+      "type": "url",
+      "value": "http://54.168.18.248"
+    },
     "54.233.66.219": {
       "confidence": 0.5,
       "date": "2026-10-09 22:12:05",
@@ -28951,6 +29270,21 @@
       "tweet_id": "2106019274342986023",
       "type": "domain",
       "value": "5889631857.cfd"
+    },
+    "58c8aba758ce213d83f91f3139f0268e": {
+      "confidence": 0.8,
+      "date": "2026-10-27 09:17:57",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "AzaleaRAT",
+      "suggested_tags": [
+        "rat",
+        "malware"
+      ],
+      "summary": "AzaleaRAT analysis thread part 3: loader executable, decoded loader and payload stages, and final AzaleaRAT hash.",
+      "threat_type": "malware",
+      "tweet_id": "2115010100037636380",
+      "type": "md5",
+      "value": "58c8aba758ce213d83f91f3139f0268e"
     },
     "58eb890b612938867237c3fa1715b8742d9b25a8fe136cd75ea659882b7b7a10": {
       "confidence": 0.4,
@@ -30690,6 +31024,20 @@
       "type": "sha256",
       "value": "79dba35f06d557a20d0ea100f4926da22aa9733513422addd7b4217246da3393"
     },
+    "7a041d5cb690de7d5f5cdc97e806260f": {
+      "confidence": 0.3,
+      "date": "2026-10-27 12:07:38",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "MD5 hash of a malware sample shared without context; no family or behavior identified.",
+      "threat_type": "malware",
+      "tweet_id": "2115052802770874702",
+      "type": "md5",
+      "value": "7a041d5cb690de7d5f5cdc97e806260f"
+    },
     "7a4dcfa6f8c24150bb6f751e7c8c6b3a628cfac25dd6989c3b5b050c56259bc1": {
       "confidence": 0.5,
       "date": "2026-09-29 08:37:32",
@@ -30704,6 +31052,23 @@
       "tweet_id": "2104853068995031219",
       "type": "sha256",
       "value": "7a4dcfa6f8c24150bb6f751e7c8c6b3a628cfac25dd6989c3b5b050c56259bc1"
+    },
+    "7a8353e938eecde9c3e7544a1a52e496": {
+      "confidence": 0.8,
+      "date": "2026-10-27 10:39:17",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "Romulus Grabber",
+      "suggested_tags": [
+        "trojan",
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "Trojanized 'LEGITAUTH AXC X HIDDEN' launcher built with ExePs1Binder; drops an app and an obfuscated PowerShell stager that injects Romulus Grabber.",
+      "threat_type": "malware",
+      "tweet_id": "2115030566638924055",
+      "type": "md5",
+      "value": "7a8353e938eecde9c3e7544a1a52e496"
     },
     "7b0562d3d7742e8a08ae362b3374a8ce0638597ceb9aec103a1462f4750981b9": {
       "confidence": 0.6,
@@ -32174,6 +32539,21 @@
       "type": "sha256",
       "value": "8579b1ac0699f2c05bf21bafc0bf1b30700f38c5b0e2f03e85ba39b6a3fdb924"
     },
+    "85acf873df0ca54c75ca7b80402c0ea0ce988adf79f4fa55b1b210f95cb078b1": {
+      "confidence": 0.6,
+      "date": "2026-10-27 09:36:47",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "'crypted_out.exe' sample seen from Lebanon using a Telegram bot API getUpdates URL for command and control.",
+      "threat_type": "c2",
+      "tweet_id": "2115014837587632193",
+      "type": "sha256",
+      "value": "85acf873df0ca54c75ca7b80402c0ea0ce988adf79f4fa55b1b210f95cb078b1"
+    },
     "85e97d5219e8646c3b823ed96295eaee02d79666d59fb9689b27de0d47e3e077": {
       "confidence": 0.8,
       "date": "2026-10-09 14:47:07",
@@ -32529,6 +32909,21 @@
       "tweet_id": "2105213563212382311",
       "type": "sha256",
       "value": "8e5188aff471eb7bdfd64db59f544453fe85aca351671c4e01c6fcc6593f23e9"
+    },
+    "8e8a79a84d0ac53e7b6d4a8c7f6b94417a5f7929213bff394cddd795ed3c6f17": {
+      "confidence": 0.6,
+      "date": "2026-10-27 09:40:07",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Undetected 'setup.bat' sample seen from Yemen, communicating with C2 at 176.123.18.20:4444 over TCP.",
+      "threat_type": "c2",
+      "tweet_id": "2115015680374227446",
+      "type": "sha256",
+      "value": "8e8a79a84d0ac53e7b6d4a8c7f6b94417a5f7929213bff394cddd795ed3c6f17"
     },
     "8e935c19d00f40639b78bf1fd094fe48c92118f3e586ab52df93851080ccce15": {
       "confidence": 0.5,
@@ -33090,6 +33485,20 @@
       "tweet_id": "2112834452321632688",
       "type": "sha256",
       "value": "92ba5b3f6556a5edfafad01f3810a6908748723cf5f1786b5a1134a6d9665337"
+    },
+    "92fba744e3be5c3e6e4824dce11a883de602df7ad654c3152c77aa6c09abed56": {
+      "confidence": 0.7,
+      "date": "2026-10-27 06:42:17",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "Nexus",
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Nexus C2 panel at 104.164.55.12:8080 with associated sample hash.",
+      "threat_type": "c2",
+      "tweet_id": "2114970927255704033",
+      "type": "sha256",
+      "value": "92fba744e3be5c3e6e4824dce11a883de602df7ad654c3152c77aa6c09abed56"
     },
     "93.123.109.163": {
       "confidence": 0.5,
@@ -34141,6 +34550,21 @@
       "type": "sha256",
       "value": "a692fb942dd967e142e1b47e49b5d1a0216e0f5ee1cb387b8567117875705a75"
     },
+    "a6daef4e405c885be6cc171bd5273786": {
+      "confidence": 0.7,
+      "date": "2026-10-27 07:19:43",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "Xatli Bot",
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Xatli Bot malware sample with C2 at 153.56.168.27 (Turkey).",
+      "threat_type": "c2",
+      "tweet_id": "2114980346466893885",
+      "type": "md5",
+      "value": "a6daef4e405c885be6cc171bd5273786"
+    },
     "a6fff495c6b4a3b9414d31bbe1058aa204b949c36bd60f54f1f0df2f0a189635": {
       "confidence": 0.6,
       "date": "2026-10-01 10:28:51",
@@ -34412,6 +34836,21 @@
       "type": "md5",
       "value": "aa3305800a51eb5b3d17cc13255b91cb"
     },
+    "aa6abf41a80d736c27c168e834baf3c7": {
+      "confidence": 0.65,
+      "date": "2026-10-27 08:21:23",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Domains chinatpst.com, rmwjb.com and matizu.com delivering an ISO with an exe and g2m.dll, associated with ScreenConnect abuse campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2114995865517695018",
+      "type": "md5",
+      "value": "aa6abf41a80d736c27c168e834baf3c7"
+    },
     "aaenen.cc": {
       "confidence": 0.45,
       "date": "2026-10-22 11:12:07",
@@ -34557,6 +34996,21 @@
       "tweet_id": "2108169246240911697",
       "type": "domain",
       "value": "abret.org"
+    },
+    "ac99df24a73de77cfc13d89001e5d084": {
+      "confidence": 0.65,
+      "date": "2026-10-27 08:21:23",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Domains chinatpst.com, rmwjb.com and matizu.com delivering an ISO with an exe and g2m.dll, associated with ScreenConnect abuse campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2114995865517695018",
+      "type": "md5",
+      "value": "ac99df24a73de77cfc13d89001e5d084"
     },
     "academiaarin-jp.com": {
       "confidence": 0.75,
@@ -41097,6 +41551,21 @@
       "type": "url",
       "value": "https://api.telegram.org/bot8736466448:AAFGUORHLlQmV_3iRkg7Crj7PRlYVAoC-HY/sendMessage"
     },
+    "api.telegram.org/bot8961178007:aagynwoahzkoywmi-aguesauqofaf9p1fg0/getupdates?offset=-20&timeout=1": {
+      "confidence": 0.6,
+      "date": "2026-10-27 09:36:47",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "'crypted_out.exe' sample seen from Lebanon using a Telegram bot API getUpdates URL for command and control.",
+      "threat_type": "c2",
+      "tweet_id": "2115014837587632193",
+      "type": "url",
+      "value": "https://api.telegram.org/bot8961178007:AAGyNwoaHzKoyWMI-AgueSAUQOfaf9P1FG0/getUpdates?offset=-20&timeout=1"
+    },
     "api.webapi-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -42091,6 +42560,20 @@
       "tweet_id": "2110144791313010852",
       "type": "domain",
       "value": "assetswillowtrade.info"
+    },
+    "assign-key.com": {
+      "confidence": 0.65,
+      "date": "2026-10-27 08:13:52",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "UNC6671 infrastructure update: assign-key.com now has 10 observed hostnames impersonating law, engineering and energy firms.",
+      "threat_type": "phishing",
+      "tweet_id": "2114993973588799951",
+      "type": "domain",
+      "value": "assign-key.com"
     },
     "async-whatsapp.com": {
       "confidence": 0.65,
@@ -46848,6 +47331,22 @@
       "type": "domain",
       "value": "cf-cdn.viktorkraynov.com"
     },
+    "cf4f6617c22c00b230c6e9221163c26e1a8ac70e8dec5d0a71095afb992d42c5": {
+      "confidence": 0.7,
+      "date": "2026-10-27 09:46:34",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "c2",
+        "rat"
+      ],
+      "summary": "ScreenConnect abuse: ISO delivers g2m.dll and an exe, fetching ScreenConnect client from 2.59.152.21:8040, with C2 at port 8041; same file hosted on 54.168.18.248.",
+      "threat_type": "malware",
+      "tweet_id": "2115017300843839826",
+      "type": "sha256",
+      "value": "cf4f6617c22c00b230c6e9221163c26e1a8ac70e8dec5d0a71095afb992d42c5"
+    },
     "cfclear.devdesk.workers.dev": {
       "confidence": 0.75,
       "date": "2026-10-23 20:47:00",
@@ -47266,6 +47765,21 @@
       "tweet_id": "2114512542953324569",
       "type": "domain",
       "value": "chimneyscrubber.com"
+    },
+    "chinatpst.com": {
+      "confidence": 0.65,
+      "date": "2026-10-27 08:21:23",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Domains chinatpst.com, rmwjb.com and matizu.com delivering an ISO with an exe and g2m.dll, associated with ScreenConnect abuse campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2114995865517695018",
+      "type": "domain",
+      "value": "chinatpst.com"
     },
     "cik07-cos.7moor-fs2.com": {
       "confidence": 0.55,
@@ -49268,6 +49782,20 @@
       "type": "sha256",
       "value": "d70f5b8ec6359ad5c22acb628a7c7ec81c8d549869afa7f96a377e52879a6642"
     },
+    "d8baecd3c6fc470d0bbb3fb32c36e6dd0971fabffc5a1eaf20e2e8c53a931f2c": {
+      "confidence": 0.35,
+      "date": "2026-10-27 11:15:23",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Related malware sample uploaded to MalwareBazaar, with associated IP 45.153.34.169 quoted as infrastructure.",
+      "threat_type": "malware",
+      "tweet_id": "2115039654965645780",
+      "type": "sha256",
+      "value": "d8baecd3c6fc470d0bbb3fb32c36e6dd0971fabffc5a1eaf20e2e8c53a931f2c"
+    },
     "d91922934056bc0894d968a31eb95e9990b90fe50757ab6a7dbf817c210c3e9c": {
       "confidence": 0.6,
       "date": "2026-10-13 12:55:06",
@@ -49283,23 +49811,6 @@
       "tweet_id": "2109991315698032826",
       "type": "sha256",
       "value": "d91922934056bc0894d968a31eb95e9990b90fe50757ab6a7dbf817c210c3e9c"
-    },
-    "d9mjs.sbs": {
-      "confidence": 0.75,
-      "date": "2026-09-27 11:47:15",
-      "enriched_at": "2026-09-27T12:40:04Z",
-      "family": "Phexia",
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "Phexia macOS infostealer using Polygon blockchain to store rotating C2 domain names.",
-      "threat_type": "malware",
-      "tweet_id": "2104176035701182587",
-      "type": "domain",
-      "value": "d9mjs.sbs"
     },
     "da38552dc0fd744867a76c7ef9fc189ea9b1fb06ce7fe6022013be758daac0c8": {
       "confidence": 0.75,
@@ -51687,6 +52198,22 @@
       "type": "md5",
       "value": "e427ed276ea311eb72b511f710b8d0bb"
     },
+    "e466e22457be4346888b693e71941d447781d57557eeafe64a73b738491561ee": {
+      "confidence": 0.75,
+      "date": "2026-10-27 09:25:22",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as LINE TV, distributed via phishing site milliontv.sbs.",
+      "threat_type": "malware",
+      "tweet_id": "2115011967245250789",
+      "type": "sha256",
+      "value": "e466e22457be4346888b693e71941d447781d57557eeafe64a73b738491561ee"
+    },
     "e4673d5521f2561ae2a3c4d86103ec53": {
       "confidence": 0.5,
       "date": "2026-10-24 16:25:47",
@@ -52329,23 +52856,6 @@
       "tweet_id": "2113175173289685433",
       "type": "domain",
       "value": "eim.ae"
-    },
-    "electronic72.pro": {
-      "confidence": 0.75,
-      "date": "2026-09-27 11:47:15",
-      "enriched_at": "2026-09-27T12:40:04Z",
-      "family": "Phexia",
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "Phexia macOS infostealer using Polygon blockchain to store rotating C2 domain names.",
-      "threat_type": "malware",
-      "tweet_id": "2104176035701182587",
-      "type": "domain",
-      "value": "electronic72.pro"
     },
     "element.proxy08.com": {
       "confidence": 0.65,
@@ -60466,6 +60976,20 @@
       "type": "url",
       "value": "https://kaifitness.penwfe.asia/H80AoO"
     },
+    "kakisafedecrypt.com": {
+      "confidence": 0.8,
+      "date": "2026-10-27 07:09:59",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Fake ransomware negotiation/recovery site kakisafedecrypt.com hosted at 43.157.146.70, targeting ransomware victims.",
+      "threat_type": "scam",
+      "tweet_id": "2114977896670654941",
+      "type": "domain",
+      "value": "kakisafedecrypt.com"
+    },
     "kalif-delivery.duckdns.org": {
       "confidence": 0.2,
       "date": "2026-10-09 21:44:46",
@@ -61775,34 +62299,6 @@
       "type": "domain",
       "value": "login-options.com"
     },
-    "login.2ccloud.com": {
-      "confidence": 0.75,
-      "date": "2026-09-27 07:01:51",
-      "enriched_at": "2026-09-27T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "MetaMask phishing page hosted on 2ccloud.com subdomain serving fake MetaMask JS, IP hosted in India.",
-      "threat_type": "phishing",
-      "tweet_id": "2104104215152837041",
-      "type": "domain",
-      "value": "login.2ccloud.com"
-    },
-    "login.2ccloud.com/assets/js/metamask.html": {
-      "confidence": 0.75,
-      "date": "2026-09-27 07:01:51",
-      "enriched_at": "2026-09-27T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "MetaMask phishing page hosted on 2ccloud.com subdomain serving fake MetaMask JS, IP hosted in India.",
-      "threat_type": "phishing",
-      "tweet_id": "2104104215152837041",
-      "type": "url",
-      "value": "http://login.2ccloud.com/assets/js/MetaMask.html"
-    },
     "login.caimanying.com": {
       "confidence": 0.8,
       "date": "2026-10-18 09:37:56",
@@ -62456,23 +62952,6 @@
       "type": "domain",
       "value": "mac.webapi-whatsapp.com"
     },
-    "machine628.baby": {
-      "confidence": 0.75,
-      "date": "2026-09-27 11:47:15",
-      "enriched_at": "2026-09-27T12:40:04Z",
-      "family": "Phexia",
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "Phexia macOS infostealer using Polygon blockchain to store rotating C2 domain names.",
-      "threat_type": "malware",
-      "tweet_id": "2104176035701182587",
-      "type": "domain",
-      "value": "machine628.baby"
-    },
     "macro-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -62956,6 +63435,21 @@
       "tweet_id": "2111585106725122268",
       "type": "domain",
       "value": "materialdeconstrucaoalves.com"
+    },
+    "matizu.com": {
+      "confidence": 0.65,
+      "date": "2026-10-27 08:21:23",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Domains chinatpst.com, rmwjb.com and matizu.com delivering an ISO with an exe and g2m.dll, associated with ScreenConnect abuse campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2114995865517695018",
+      "type": "domain",
+      "value": "matizu.com"
     },
     "max2-whatsapp.com": {
       "confidence": 0.75,
@@ -63501,6 +63995,22 @@
       "tweet_id": "2105192333234831688",
       "type": "url",
       "value": "https://mikoblico.xyz/login"
+    },
+    "milliontv.sbs": {
+      "confidence": 0.75,
+      "date": "2026-10-27 09:25:22",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as LINE TV, distributed via phishing site milliontv.sbs.",
+      "threat_type": "malware",
+      "tweet_id": "2115011967245250789",
+      "type": "domain",
+      "value": "milliontv.sbs"
     },
     "mimori.group": {
       "confidence": 0.85,
@@ -64294,23 +64804,6 @@
       "type": "domain",
       "value": "nairawaterfall.com"
     },
-    "namanami.top": {
-      "confidence": 0.75,
-      "date": "2026-09-27 11:47:15",
-      "enriched_at": "2026-09-27T12:40:04Z",
-      "family": "Phexia",
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "Phexia macOS infostealer using Polygon blockchain to store rotating C2 domain names.",
-      "threat_type": "malware",
-      "tweet_id": "2104176035701182587",
-      "type": "domain",
-      "value": "namanami.top"
-    },
     "naomiwellness.screenconnect.com": {
       "confidence": 0.85,
       "date": "2026-09-30 03:57:00",
@@ -64661,6 +65154,34 @@
       "tweet_id": "2112583368479318236",
       "type": "domain",
       "value": "netedge-whatsapp.com"
+    },
+    "netflix.exscrd.info": {
+      "confidence": 0.9,
+      "date": "2026-10-27 07:15:13",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Netflix-impersonating phishing site at netflix.exscrd.info login page.",
+      "threat_type": "phishing",
+      "tweet_id": "2114979213199737145",
+      "type": "domain",
+      "value": "netflix.exscrd.info"
+    },
+    "netflix.exscrd.info/login": {
+      "confidence": 0.9,
+      "date": "2026-10-27 07:15:13",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Netflix-impersonating phishing site at netflix.exscrd.info login page.",
+      "threat_type": "phishing",
+      "tweet_id": "2114979213199737145",
+      "type": "url",
+      "value": "https://netflix.exscrd.info/login/"
     },
     "nethost-whatsapp.com": {
       "confidence": 0.7,
@@ -69546,6 +70067,21 @@
       "tweet_id": "2107202339958354093",
       "type": "url",
       "value": "http://rmans.webredirect.org:2404"
+    },
+    "rmwjb.com": {
+      "confidence": 0.65,
+      "date": "2026-10-27 08:21:23",
+      "enriched_at": "2026-10-27T12:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Domains chinatpst.com, rmwjb.com and matizu.com delivering an ISO with an exe and g2m.dll, associated with ScreenConnect abuse campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2114995865517695018",
+      "type": "domain",
+      "value": "rmwjb.com"
     },
     "rnbwjd.cfd": {
       "confidence": 0.9,
@@ -75171,20 +75707,6 @@
       "type": "domain",
       "value": "theworkshop-sign.skin"
     },
-    "third-party.com": {
-      "confidence": 0.3,
-      "date": "2026-09-27 12:39:27",
-      "enriched_at": "2026-10-26T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Spanish-language post about 1,700 repositories referencing third-party[.]com, a placeholder domain flagged as dangerous.",
-      "threat_type": "other",
-      "tweet_id": "2104189173687066784",
-      "type": "domain",
-      "value": "third-party.com"
-    },
     "thiswoodeno.com": {
       "confidence": 0.88,
       "date": "2026-10-01 03:18:08",
@@ -80326,23 +80848,6 @@
       "type": "domain",
       "value": "xxxmu.top"
     },
-    "xynero.xyz": {
-      "confidence": 0.75,
-      "date": "2026-09-27 11:47:15",
-      "enriched_at": "2026-09-27T12:40:04Z",
-      "family": "Phexia",
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "Phexia macOS infostealer using Polygon blockchain to store rotating C2 domain names.",
-      "threat_type": "malware",
-      "tweet_id": "2104176035701182587",
-      "type": "domain",
-      "value": "xynero.xyz"
-    },
     "xzttyt.xyz": {
       "confidence": 0.85,
       "date": "2026-10-23 13:51:39",
@@ -81662,6 +82167,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-27T06:40:04Z",
+  "generated_at": "2026-10-27T12:40:04Z",
   "window_days": 30
 }
