@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2323
-; Updated: 2026-10-27T00:00:30Z
+; Entries: 2324
+; Updated: 2026-10-27T00:15:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793059230 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793060120 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1924,6 +1924,8 @@ grabthedeals.net CNAME .
 *.grabthedeals.net CNAME .
 gran1xea.xyz CNAME .
 *.gran1xea.xyz CNAME .
+granitepointmedia.fun CNAME .
+*.granitepointmedia.fun CNAME .
 greenerpasturetrading.info CNAME .
 *.greenerpasturetrading.info CNAME .
 grillchefsecrets.com CNAME .
