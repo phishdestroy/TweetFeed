@@ -1,5 +1,5 @@
 {
-  "count": 5937,
+  "count": 5830,
   "dead_tweets": {
     "2101923416521728224": {
       "attempts": 1,
@@ -3662,6 +3662,21 @@
       "type": "url",
       "value": "http://108.187.43.139:8080/china4.zip"
     },
+    "109.107.170.185": {
+      "confidence": 0.75,
+      "date": "2026-10-26 20:11:24",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 IP address 109.107.170[.]185 linked to fake SAP Concur Extension MSIX samples.",
+      "threat_type": "c2",
+      "tweet_id": "2114812159075254456",
+      "type": "url",
+      "value": "http://109.107.170.185"
+    },
     "109.110.184.230": {
       "confidence": 0.7,
       "date": "2026-10-15 08:25:29",
@@ -7156,6 +7171,18 @@
       "type": "ip",
       "value": "149.137.136.16"
     },
+    "149.28.78.54": {
+      "confidence": 0.3,
+      "date": "2026-10-26 18:17:03",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Bare IP address 149.28.78[.]54 shared without context; linked to a related malicious config zip.",
+      "threat_type": "other",
+      "tweet_id": "2114783379417657586",
+      "type": "url",
+      "value": "http://149.28.78.54"
+    },
     "149.33.8.214": {
       "confidence": 0.65,
       "date": "2026-10-24 09:01:00",
@@ -7307,22 +7334,6 @@
       "tweet_id": "2105182249469763715",
       "type": "ip",
       "value": "150.241.85.39"
-    },
-    "15081861289ec7b6f7664169f08198957405b5440fc4abc94adeb8fca8fbff48": {
-      "confidence": 0.7,
-      "date": "2026-09-26 22:44:48",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Japan's e-Tax service distributed via multiple phishing domains",
-      "threat_type": "phishing",
-      "tweet_id": "2103979128139747769",
-      "type": "sha256",
-      "value": "15081861289ec7b6f7664169f08198957405b5440fc4abc94adeb8fca8fbff48"
     },
     "151.241.154.23": {
       "confidence": 0.9,
@@ -9405,6 +9416,35 @@
       "type": "url",
       "value": "http://167.88.172.3"
     },
+    "167.99.165.191": {
+      "confidence": 0.45,
+      "date": "2026-10-26 20:07:24",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "IP 167.99.165[.]191 with a self-signed SSL cert claiming gov.br subject details; suspicious malware-hosting infrastructure.",
+      "threat_type": "malware",
+      "tweet_id": "2114801634618302867",
+      "type": "url",
+      "value": "http://167.99.165.191"
+    },
+    "167.99.165.191/1464e57f.bin": {
+      "confidence": 0.6,
+      "date": "2026-10-26 20:21:13",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "opendir"
+      ],
+      "summary": "Related ELF binary hosted at hxxp://167.99.165[.]191/1464e57f.bin; the server uses a self-signed cert impersonating gov.br.",
+      "threat_type": "malware",
+      "tweet_id": "2114814627728998897",
+      "type": "url",
+      "value": "http://167.99.165.191/1464e57f.bin"
+    },
     "167.99.227.197": {
       "confidence": 0.85,
       "date": "2026-10-18 13:51:24",
@@ -10854,20 +10894,6 @@
       "type": "ip",
       "value": "185.216.68.113"
     },
-    "185.221.216.121": {
-      "confidence": 0.6,
-      "date": "2026-09-26 21:56:02",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page hosted on mirvok.vu impersonating a government-related service, linked IP found",
-      "threat_type": "phishing",
-      "tweet_id": "2103966855576646002",
-      "type": "url",
-      "value": "http://185.221.216.121"
-    },
     "185.239.48.112": {
       "confidence": 0.6,
       "date": "2026-10-26 08:28:00",
@@ -11565,6 +11591,36 @@
       "tweet_id": "2106472668824219693",
       "type": "url",
       "value": "http://194.113.194.39:10311/portal/login"
+    },
+    "194.156.79.152": {
+      "confidence": 0.55,
+      "date": "2026-10-26 21:21:33",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Malicious JavaScript file 'ORDER SAMPLES & DRAWING.js' seen from China, contacting hxxp://194.156.79[.]152:55615/.",
+      "threat_type": "malware",
+      "tweet_id": "2114829810539040809",
+      "type": "ip",
+      "value": "194.156.79.152"
+    },
+    "194.156.79.152:55615": {
+      "confidence": 0.55,
+      "date": "2026-10-26 21:21:33",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Malicious JavaScript file 'ORDER SAMPLES & DRAWING.js' seen from China, contacting hxxp://194.156.79[.]152:55615/.",
+      "threat_type": "malware",
+      "tweet_id": "2114829810539040809",
+      "type": "url",
+      "value": "http://194.156.79.152:55615"
     },
     "194.163.148.133": {
       "confidence": 0.85,
@@ -12377,19 +12433,20 @@
       "type": "sha256",
       "value": "1eb51e82267b2ea1d3216919dbac9d5297ca8565baf8e39ccfc07323136b1849"
     },
-    "1ec7d1c20c93f562405cb4833d12e06357b66865eb13eaf8e43aeb4e71ebe718": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:01:20",
-      "enriched_at": "2026-09-27T00:40:04Z",
+    "1ec50a6066dc8a222756507df308cfd496183ae333d87eae1635eed330707395": {
+      "confidence": 0.7,
+      "date": "2026-10-26 20:37:29",
+      "enriched_at": "2026-10-27T00:40:04Z",
       "family": null,
       "suggested_tags": [
-        "malware"
+        "malware",
+        "c2"
       ],
-      "summary": "Malware sample distributed as ZIP archive with Russian-language business lure, shared via Bazaar",
+      "summary": "Fake SAP Concur Extension MSIX packages hosted on filebase S3 buckets, seen from Hungary and Canada; related C2 IP 109.107.170[.]185.",
       "threat_type": "malware",
-      "tweet_id": "2103937990351290873",
+      "tweet_id": "2114818723265835051",
       "type": "sha256",
-      "value": "1ec7d1c20c93f562405cb4833d12e06357b66865eb13eaf8e43aeb4e71ebe718"
+      "value": "1ec50a6066dc8a222756507df308cfd496183ae333d87eae1635eed330707395"
     },
     "1f65ad3dd99bbec1818ca9e27ce9d0689efee1dd3fd76def27fc7327eee46b17": {
       "confidence": 0.8,
@@ -12641,6 +12698,21 @@
       "tweet_id": "2111786774242758835",
       "type": "ip",
       "value": "2.29.2.248"
+    },
+    "20.102.117.176": {
+      "confidence": 0.6,
+      "date": "2026-10-04 06:10:12",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "infostealer"
+      ],
+      "summary": "IP 20.102.117[.]176 tied to a 'Kebab' stealer panel, shared with researchers for tracking.",
+      "threat_type": "malware",
+      "tweet_id": "2106627928352313545",
+      "type": "ip",
+      "value": "20.102.117.176"
     },
     "20.245.48.59": {
       "confidence": 0.88,
@@ -22043,21 +22115,6 @@
       "type": "sha256",
       "value": "3461b395a20846cefef84d6f7ddcbd7aff2209423eaaf74925ab70b0038e160a"
     },
-    "34c8e120768a6138e102d25f1103fa71d4430aa91fe42d851924a691633402e4": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "sha256",
-      "value": "34c8e120768a6138e102d25f1103fa71d4430aa91fe42d851924a691633402e4"
-    },
     "35.185.111.215": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -25214,6 +25271,18 @@
       "type": "url",
       "value": "http://38.242.147.58"
     },
+    "38.54.56.66": {
+      "confidence": 0.2,
+      "date": "2026-10-26 21:35:20",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Bare IP address 38.54.56[.]66 shared without context; likely malicious infrastructure.",
+      "threat_type": "other",
+      "tweet_id": "2114833281589870791",
+      "type": "url",
+      "value": "http://38.54.56.66"
+    },
     "38.54.88.188": {
       "confidence": 0.8,
       "date": "2026-10-14 17:59:48",
@@ -27792,6 +27861,22 @@
       "type": "sha256",
       "value": "4b214e0daccfe228a0d281775d6a7f01580598f51a6b15e6a668851b313abe68"
     },
+    "4b8f918cfb077c68baec2ed33ee5f2d2828ef1cbe5beb2500de1de3ce79bd440": {
+      "confidence": 0.9,
+      "date": "2026-10-26 21:24:54",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": "ValleyRAT",
+      "suggested_tags": [
+        "valleyrat",
+        "rat",
+        "malware"
+      ],
+      "summary": "ValleyRAT sample delivered as a .vhdx disk image file seen from India, using domain hcnksadcn[.]cc.",
+      "threat_type": "malware",
+      "tweet_id": "2114830654466896212",
+      "type": "sha256",
+      "value": "4b8f918cfb077c68baec2ed33ee5f2d2828ef1cbe5beb2500de1de3ce79bd440"
+    },
     "4cb4f92d8b9314725ba5c0b3f40259442b50f2f18b6ed1517abc338480703fee": {
       "confidence": 0.6,
       "date": "2026-10-01 10:01:50",
@@ -27821,6 +27906,22 @@
       "tweet_id": "2104850609606394190",
       "type": "sha256",
       "value": "4cc2358fb2c3155b5d61a4ea69a4836a0ca4cb9ed014e1c0782e3c6725ae5531"
+    },
+    "4d174e750d0ea0b1c8c5e2053997199643ca33e4c5e05c666ad02cc1304dc71c": {
+      "confidence": 0.8,
+      "date": "2026-10-26 23:46:07",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware masquerading as e-Tax (Japan), distributed via a phishing site at thecanniballazu[.]com.",
+      "threat_type": "malware",
+      "tweet_id": "2114866195572916371",
+      "type": "sha256",
+      "value": "4d174e750d0ea0b1c8c5e2053997199643ca33e4c5e05c666ad02cc1304dc71c"
     },
     "4d7861e9df590457dd955a9c7149d0f39526df541964e8341d507f7f2a160fba": {
       "confidence": 0.8,
@@ -29959,6 +30060,21 @@
       "type": "sha256",
       "value": "6c7e8451fb1ef2be5410091bb0d5216dcd4a1b04771c04fd0fe432cf9194d3f6"
     },
+    "6cac9bcefb4daa20ee9b3a106ac1cb783f7f0242c1aff35f9f6dda1ffdcab2b9": {
+      "confidence": 0.5,
+      "date": "2026-10-26 21:46:52",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Executable 'Document.pdf.exe' with double extension seen from Russia; communicates with Telegram API, likely for exfiltration or C2.",
+      "threat_type": "malware",
+      "tweet_id": "2114836184698438112",
+      "type": "sha256",
+      "value": "6cac9bcefb4daa20ee9b3a106ac1cb783f7f0242c1aff35f9f6dda1ffdcab2b9"
+    },
     "6cc32a02ca0f729ee481c454128d1c16bcf5b4d5481b7c0b07d20adb2c96b91f": {
       "confidence": 0.45,
       "date": "2026-10-25 21:59:33",
@@ -30527,6 +30643,21 @@
       "type": "sha256",
       "value": "79121c5d9ddfafd532c30b9c20644b9a45fadadee9163eb2e5678e4efceb4312"
     },
+    "7997f060b20c6e84a31552af0ca63fe29f4cbd5815decf48a5218175abb5dcd9": {
+      "confidence": 0.7,
+      "date": "2026-10-26 20:37:29",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Fake SAP Concur Extension MSIX packages hosted on filebase S3 buckets, seen from Hungary and Canada; related C2 IP 109.107.170[.]185.",
+      "threat_type": "malware",
+      "tweet_id": "2114818723265835051",
+      "type": "sha256",
+      "value": "7997f060b20c6e84a31552af0ca63fe29f4cbd5815decf48a5218175abb5dcd9"
+    },
     "79dba35f06d557a20d0ea100f4926da22aa9733513422addd7b4217246da3393": {
       "confidence": 0.7,
       "date": "2026-10-10 22:55:52",
@@ -30680,6 +30811,20 @@
       "tweet_id": "2114331068119867480",
       "type": "md5",
       "value": "7cd391ac16d136755bfec84106946887"
+    },
+    "7cfc7235f99bc8c7e1b49f12cfc33c1c789084d5d6f49bea40917ffb330a7515": {
+      "confidence": 0.5,
+      "date": "2026-10-26 21:50:47",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious MSI installer 'Quant.msi' contacting hxxp://smulaf[.]net:3857/api/agent/script, reported via MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2114837168371720321",
+      "type": "sha256",
+      "value": "7cfc7235f99bc8c7e1b49f12cfc33c1c789084d5d6f49bea40917ffb330a7515"
     },
     "7eca6ff78c9a067293de9ac651b8f1292acc5f098e8e97dcafa1bdef9b8a61c2": {
       "confidence": 0.85,
@@ -31391,20 +31536,6 @@
       "type": "sha256",
       "value": "823fcf547a03d08d256480a97d673c0b62ccef9723f8f830dd66ccd3df5d07df"
     },
-    "82b6f8b1671bfcebe13007d11ba79e06554b260b3d610b4a2a721d12f7ec3f96": {
-      "confidence": 0.4,
-      "date": "2026-09-26 19:55:39",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Suspicious ZIP malware sample seen originating from Malaysia, shared via Bazaar",
-      "threat_type": "malware",
-      "tweet_id": "2103936559628345718",
-      "type": "sha256",
-      "value": "82b6f8b1671bfcebe13007d11ba79e06554b260b3d610b4a2a721d12f7ec3f96"
-    },
     "82edd622a5d008d3918b663a141a5aa3b0941801d61ff5717c6d52cf67bbdc9f": {
       "confidence": 0.6,
       "date": "2026-10-20 09:20:17",
@@ -31997,6 +32128,21 @@
       "type": "ip",
       "value": "85.215.175.202"
     },
+    "85009ea54606ded4f2f43f508d465f67aba79787826b2886535efa91c920b647": {
+      "confidence": 0.7,
+      "date": "2026-10-26 20:37:29",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Fake SAP Concur Extension MSIX packages hosted on filebase S3 buckets, seen from Hungary and Canada; related C2 IP 109.107.170[.]185.",
+      "threat_type": "malware",
+      "tweet_id": "2114818723265835051",
+      "type": "sha256",
+      "value": "85009ea54606ded4f2f43f508d465f67aba79787826b2886535efa91c920b647"
+    },
     "8579b1ac0699f2c05bf21bafc0bf1b30700f38c5b0e2f03e85ba39b6a3fdb924": {
       "confidence": 0.5,
       "date": "2026-10-16 09:58:06",
@@ -32477,6 +32623,22 @@
       "tweet_id": "2107184867654127738",
       "type": "ip",
       "value": "91.197.98.188"
+    },
+    "91.210.146.50": {
+      "confidence": 0.7,
+      "date": "2026-10-13 12:55:06",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "Stealer delivered in a Russian-language RAR archive ('Notification from 13.10.2026'), associated with IP 91.210.146[.]50.",
+      "threat_type": "malware",
+      "tweet_id": "2109991315698032826",
+      "type": "url",
+      "value": "http://91.210.146.50"
     },
     "91.215.85.103": {
       "confidence": 0.6,
@@ -33599,6 +33761,20 @@
       "type": "sha256",
       "value": "9cdf9119881608c365d9bec3356b06d9ee5bb0ece48376c415a8d14c0070dc55"
     },
+    "9cf627efefa6927886783915026a92b9ece78aff4952b111f5dcda424be118a0": {
+      "confidence": 0.6,
+      "date": "2026-10-26 20:07:24",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Related ELF malware sample associated with IP 167.99.165[.]191, which uses a self-signed cert impersonating gov.br.",
+      "threat_type": "malware",
+      "tweet_id": "2114811151339163844",
+      "type": "sha256",
+      "value": "9cf627efefa6927886783915026a92b9ece78aff4952b111f5dcda424be118a0"
+    },
     "9d9f149a0052999587be2078375bb4530b351f3cda1b343c7f81a5d13b02ac45": {
       "confidence": 0.85,
       "date": "2026-09-28 13:56:17",
@@ -33845,21 +34021,6 @@
       "type": "sha256",
       "value": "a2188f44c96edc2603fc1ec42ba4e8193b429809a1caa718ff430a263977eef7"
     },
-    "a2c895dac1f192ecbafff199405e45cfffc5f033627890ab9b60ab5937be8cca": {
-      "confidence": 0.6,
-      "date": "2026-09-26 20:05:54",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malicious LNK file disguised as housing project PDF, contacts C2 infrastructure on leadingspacetechnology.top",
-      "threat_type": "c2",
-      "tweet_id": "2103939137330204900",
-      "type": "sha256",
-      "value": "a2c895dac1f192ecbafff199405e45cfffc5f033627890ab9b60ab5937be8cca"
-    },
     "a355496c47d79ab9ad373d34192e1d47580668642436912caf5b215d27db02be": {
       "confidence": 0.35,
       "date": "2026-10-21 20:47:11",
@@ -34039,20 +34200,6 @@
       "tweet_id": "2108136773583065500",
       "type": "sha256",
       "value": "a7b6efc6b9229b9fa7915cbf609efd3be17ae538d4c163f340e303336a2107a4"
-    },
-    "a7cc1c077afdf2dbe457c32bd1306f3fdaafb3e7a7ab7079199a7aef804ac914": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:14:10",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malware sample distributed as ZIP archive themed as international advertising document, shared via Bazaar",
-      "threat_type": "malware",
-      "tweet_id": "2103941217310392731",
-      "type": "sha256",
-      "value": "a7cc1c077afdf2dbe457c32bd1306f3fdaafb3e7a7ab7079199a7aef804ac914"
     },
     "a8114e4adcd6063cd6315fa142231b0f": {
       "confidence": 0.85,
@@ -34725,22 +34872,6 @@
       "type": "domain",
       "value": "accounts-google-signin.duckdns.org"
     },
-    "accpactraini-saisanpolnts.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 22:48:49",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware"
-      ],
-      "summary": "Android malware impersonating a Japanese IC card app distributed via multiple phishing domains",
-      "threat_type": "phishing",
-      "tweet_id": "2103980138933420366",
-      "type": "domain",
-      "value": "accpactraini-saisanpolnts.com"
-    },
     "acounts-google.duckdns.org": {
       "confidence": 0.85,
       "date": "2026-10-25 08:01:03",
@@ -34800,6 +34931,18 @@
       "tweet_id": "2105625326839906782",
       "type": "domain",
       "value": "actskillhub.com"
+    },
+    "acxjixsd.ltd": {
+      "confidence": 0.2,
+      "date": "2026-10-26 21:28:48",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Bare domain acxjixsd[.]ltd shared without context; likely malicious infrastructure.",
+      "threat_type": "other",
+      "tweet_id": "2114831637901127803",
+      "type": "domain",
+      "value": "acxjixsd.ltd"
     },
     "ad0d08d54c9bbe2309bb7a8ae92def8a04297d0238f2799764d93929b57cbd5f": {
       "confidence": 0.85,
@@ -40417,20 +40560,6 @@
       "type": "url",
       "value": "http://anaconadministradora.com.br/yueud/hhhh.php"
     },
-    "analytics-secure.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart web-skimming infrastructure using multiple fake analytics/security-themed domains",
-      "threat_type": "other",
-      "tweet_id": "2103934538254557327",
-      "type": "domain",
-      "value": "analytics-secure.com"
-    },
     "anc-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -40718,18 +40847,6 @@
       "tweet_id": "2105553544690426039",
       "type": "url",
       "value": "http://ants.redirecthelp.com/linkedin.com/52abdba7-2710-4fc3-a0bf-a66546964fbc?psid=85482a12-0597-45fd-b029"
-    },
-    "anunds.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 19:48:43",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Domain used for spam/malicious redirect campaign",
-      "threat_type": "spam",
-      "tweet_id": "2103934814671745035",
-      "type": "domain",
-      "value": "anunds.com"
     },
     "aobaby31.com": {
       "confidence": 0.6,
@@ -41160,21 +41277,6 @@
       "type": "domain",
       "value": "apiops-whatsapp.com"
     },
-    "apiorouser.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "apiorouser.com"
-    },
     "apisys-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -41578,21 +41680,6 @@
       "type": "domain",
       "value": "apple-support.today"
     },
-    "applelunar.website": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "applelunar.website"
-    },
     "appnet-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -41943,49 +42030,6 @@
       "tweet_id": "2107198236851085393",
       "type": "domain",
       "value": "asiioasdjasiojasodijasa.eastus.cloudapp.azure.com"
-    },
-    "assandrew.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "assandrew.com"
-    },
-    "assets-bundle.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart web-skimming infrastructure using multiple fake analytics/security-themed domains",
-      "threat_type": "other",
-      "tweet_id": "2103934538254557327",
-      "type": "domain",
-      "value": "assets-bundle.com"
-    },
-    "assetsbundle.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart-related IOC list of skimmer domains impersonating analytics/security services",
-      "threat_type": "other",
-      "tweet_id": "2103392201384329646",
-      "type": "domain",
-      "value": "assetsbundle.com"
     },
     "assetswillowtrade.info": {
       "confidence": 0.85,
@@ -42471,6 +42515,21 @@
       "tweet_id": "2107604018059248116",
       "type": "sha256",
       "value": "b3c29d72230083c6687069abddddb64bfc3f7306bdd138872f7e16e9ac7a6b05"
+    },
+    "b3e93fda43d72109f6d17cf6aa0fa6017db1f8ee9c237ec49083385bb0248bf5": {
+      "confidence": 0.55,
+      "date": "2026-10-26 21:21:33",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Malicious JavaScript file 'ORDER SAMPLES & DRAWING.js' seen from China, contacting hxxp://194.156.79[.]152:55615/.",
+      "threat_type": "malware",
+      "tweet_id": "2114829810539040809",
+      "type": "sha256",
+      "value": "b3e93fda43d72109f6d17cf6aa0fa6017db1f8ee9c237ec49083385bb0248bf5"
     },
     "b4290d69fbb099f72f0b7ebc5fdb1211db0810f79372b871229746027d23f52c": {
       "confidence": 0.75,
@@ -45274,21 +45333,6 @@
       "type": "domain",
       "value": "buildforgrowth.de"
     },
-    "bulensop.my": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "bulensop.my"
-    },
     "burysslipway.com": {
       "confidence": 0.8,
       "date": "2026-10-01 20:06:38",
@@ -45757,21 +45801,6 @@
       "tweet_id": "2107395747536879890",
       "type": "domain",
       "value": "byodxn5s7sua6oyyjj74rycgn6afncfckprt5ezskt3cni6lg3wdrgad.onion"
-    },
-    "bysh.me": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "bysh.me"
     },
     "bytemai.com": {
       "confidence": 0.8,
@@ -46380,20 +46409,6 @@
       "type": "domain",
       "value": "capsysnet.vg"
     },
-    "captchatimestamp.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart web-skimming infrastructure using multiple fake analytics/security-themed domains",
-      "threat_type": "other",
-      "tweet_id": "2103934538254557327",
-      "type": "domain",
-      "value": "captchatimestamp.com"
-    },
     "car-insurance-27673.bond": {
       "confidence": 0.9,
       "date": "2026-10-06 15:38:35",
@@ -46924,21 +46939,6 @@
       "tweet_id": "2106478312075964532",
       "type": "domain",
       "value": "champions-authorization-operates-ongoing.trycloudflare.com"
-    },
-    "champions.gdtc.org": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "champions.gdtc.org"
     },
     "channel.webstatici-whatsapp.com": {
       "confidence": 0.85,
@@ -47667,21 +47667,6 @@
       "type": "domain",
       "value": "cloudflare.vc"
     },
-    "cloudhoo.my": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "cloudhoo.my"
-    },
     "cloudlink-whatsapp.com": {
       "confidence": 0.7,
       "date": "2026-10-20 16:34:59",
@@ -47793,6 +47778,66 @@
       "tweet_id": "2109770913336156252",
       "type": "domain",
       "value": "cmfbi.cn"
+    },
+    "cmp1.s3.filebase.io": {
+      "confidence": 0.7,
+      "date": "2026-10-26 20:37:29",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Fake SAP Concur Extension MSIX packages hosted on filebase S3 buckets, seen from Hungary and Canada; related C2 IP 109.107.170[.]185.",
+      "threat_type": "malware",
+      "tweet_id": "2114818723265835051",
+      "type": "domain",
+      "value": "cmp1.s3.filebase.io"
+    },
+    "cmp1.s3.filebase.io/sap_concur_extension.msix": {
+      "confidence": 0.7,
+      "date": "2026-10-26 20:37:29",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Fake SAP Concur Extension MSIX packages hosted on filebase S3 buckets, seen from Hungary and Canada; related C2 IP 109.107.170[.]185.",
+      "threat_type": "malware",
+      "tweet_id": "2114818723265835051",
+      "type": "url",
+      "value": "https://cmp1.s3.filebase.io/SAP_Concur_Extension.msix"
+    },
+    "cmp2.s3.filebase.io": {
+      "confidence": 0.7,
+      "date": "2026-10-26 20:37:29",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Fake SAP Concur Extension MSIX packages hosted on filebase S3 buckets, seen from Hungary and Canada; related C2 IP 109.107.170[.]185.",
+      "threat_type": "malware",
+      "tweet_id": "2114818723265835051",
+      "type": "domain",
+      "value": "cmp2.s3.filebase.io"
+    },
+    "cmp2.s3.filebase.io/sap_concur_extension_3.12.msix": {
+      "confidence": 0.7,
+      "date": "2026-10-26 20:37:29",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Fake SAP Concur Extension MSIX packages hosted on filebase S3 buckets, seen from Hungary and Canada; related C2 IP 109.107.170[.]185.",
+      "threat_type": "malware",
+      "tweet_id": "2114818723265835051",
+      "type": "url",
+      "value": "https://cmp2.s3.filebase.io/SAP_Concur_Extension_3.12.msix"
     },
     "cn2-whatsapp.com": {
       "confidence": 0.75,
@@ -48609,34 +48654,6 @@
       "type": "domain",
       "value": "creditashfield.info"
     },
-    "creyt.cl": {
-      "confidence": 0.7,
-      "date": "2026-09-26 22:26:03",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "OneDrive-themed credential phishing page hosted on creyt.cl",
-      "threat_type": "phishing",
-      "tweet_id": "2103974407576207859",
-      "type": "domain",
-      "value": "creyt.cl"
-    },
-    "creyt.cl/centennialcws/onedrive-verify-obf.html": {
-      "confidence": 0.7,
-      "date": "2026-09-26 22:26:03",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "OneDrive-themed credential phishing page hosted on creyt.cl",
-      "threat_type": "phishing",
-      "tweet_id": "2103974407576207859",
-      "type": "url",
-      "value": "http://creyt.cl/centennialcws/onedrive-verify-obf.html"
-    },
     "cruahop.shop": {
       "confidence": 0.9,
       "date": "2026-10-12 14:18:17",
@@ -49280,21 +49297,6 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "daohang-whatsapp.com"
-    },
-    "dararestao.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "dararestao.com"
     },
     "data.5tr.org": {
       "confidence": 0.92,
@@ -50460,21 +50462,6 @@
       "type": "domain",
       "value": "dillardindustrial.com"
     },
-    "dirmimarc.org": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "dirmimarc.org"
-    },
     "disable-own-nest-response.trycloudflare.com": {
       "confidence": 0.5,
       "date": "2026-10-17 17:20:22",
@@ -51019,34 +51006,6 @@
       "tweet_id": "2109981755138867658",
       "type": "domain",
       "value": "dont-lose-ur-shit.whitelist.run"
-    },
-    "doubleclickcache.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart-related IOC list of skimmer domains impersonating analytics/security services",
-      "threat_type": "other",
-      "tweet_id": "2103392201384329646",
-      "type": "domain",
-      "value": "doubleclickcache.com"
-    },
-    "doubleclickpro.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart web-skimming infrastructure using multiple fake analytics/security-themed domains",
-      "threat_type": "other",
-      "tweet_id": "2103934538254557327",
-      "type": "domain",
-      "value": "doubleclickpro.com"
     },
     "download.sakenlogistics.com": {
       "confidence": 0.85,
@@ -52532,21 +52491,6 @@
       "type": "domain",
       "value": "enterprisedeliv.com"
     },
-    "entinitic.info": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "entinitic.info"
-    },
     "entry-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -52937,20 +52881,6 @@
       "type": "domain",
       "value": "expirience.icu"
     },
-    "explorerbrowser.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart-related IOC list of skimmer domains impersonating analytics/security services",
-      "threat_type": "other",
-      "tweet_id": "2103392201384329646",
-      "type": "domain",
-      "value": "explorerbrowser.com"
-    },
     "eye.theeyecenterofcolumbus.com": {
       "confidence": 0.85,
       "date": "2026-10-02 22:54:02",
@@ -53119,6 +53049,20 @@
       "tweet_id": "2108407886171058354",
       "type": "sha256",
       "value": "f367768387fc1deea2ea904aed28e7017d40dd4e17f5c12a4e56bce9005101b5"
+    },
+    "f452b1a06c86c4ffa7ae32359cd2c03e58f6f20c7f892c4819c85836085804ae": {
+      "confidence": 0.4,
+      "date": "2026-10-26 18:18:40",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Related configuration zip file uploaded to MalwareBazaar, linked to IP 149.28.78[.]54.",
+      "threat_type": "malware",
+      "tweet_id": "2114783788370731113",
+      "type": "sha256",
+      "value": "f452b1a06c86c4ffa7ae32359cd2c03e58f6f20c7f892c4819c85836085804ae"
     },
     "f54aea51d182e64b13d9a1a2876ab61c": {
       "confidence": 0.8,
@@ -53329,6 +53273,21 @@
       "type": "sha256",
       "value": "f9d24e753ba7680963414459dc0a82142e441fdb7c65f45ff126d7c6945dabef"
     },
+    "f9f8bb03427562dc0948d90c0324465ef9ba2d5bc63317ae650b10422bc9e0b4": {
+      "confidence": 0.5,
+      "date": "2026-10-26 21:16:16",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Malicious RAR archive disguised as ASEAN Plus Three Ministers meeting agenda, seen from Cambodia; associated domain wwppodd6688[.]com.",
+      "threat_type": "malware",
+      "tweet_id": "2114828481464811548",
+      "type": "sha256",
+      "value": "f9f8bb03427562dc0948d90c0324465ef9ba2d5bc63317ae650b10422bc9e0b4"
+    },
     "fa.windows32.men": {
       "confidence": 0.6,
       "date": "2026-09-29 20:25:10",
@@ -53517,21 +53476,6 @@
       "tweet_id": "2113861146960961823",
       "type": "url",
       "value": "https://famous-stroopwafel-edea6e.netlify.app/ZoomInstaller.bat"
-    },
-    "fanotablid.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "fanotablid.net"
     },
     "faq.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -53755,48 +53699,6 @@
       "type": "sha256",
       "value": "fe48212f4eefe77ea2883d6b6a7701d96e3a9e8956c9d2b687f90bf28c14d48c"
     },
-    "feedback-bundle.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart web-skimming infrastructure using multiple fake analytics/security-themed domains",
-      "threat_type": "other",
-      "tweet_id": "2103934538254557327",
-      "type": "domain",
-      "value": "feedback-bundle.com"
-    },
-    "feedback-hotjar.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart web-skimming infrastructure using multiple fake analytics/security-themed domains",
-      "threat_type": "other",
-      "tweet_id": "2103934538254557327",
-      "type": "domain",
-      "value": "feedback-hotjar.com"
-    },
-    "feedbackbundle.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart web-skimming infrastructure using multiple fake analytics/security-themed domains",
-      "threat_type": "other",
-      "tweet_id": "2103934538254557327",
-      "type": "domain",
-      "value": "feedbackbundle.com"
-    },
     "feibidawuli-jp.com": {
       "confidence": 0.75,
       "date": "2026-09-29 22:33:36",
@@ -53882,22 +53784,6 @@
       "tweet_id": "2113048191155470346",
       "type": "sha256",
       "value": "ff38255d7f1cf0dcbb735f5e76ad0128589731a41b1d8e90b783228c4d37e6db"
-    },
-    "ff859be77a30726b10d98676963776502b891dd2dd941b7cbc8f415c4cd8a818": {
-      "confidence": 0.7,
-      "date": "2026-09-26 22:48:49",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware"
-      ],
-      "summary": "Android malware impersonating a Japanese IC card app distributed via multiple phishing domains",
-      "threat_type": "phishing",
-      "tweet_id": "2103980138933420366",
-      "type": "sha256",
-      "value": "ff859be77a30726b10d98676963776502b891dd2dd941b7cbc8f415c4cd8a818"
     },
     "ff9f9d0627906c451b9dc43169a8ad8e8e75673a57465ed1353d1bcfcec40f8c": {
       "confidence": 0.55,
@@ -56353,22 +56239,6 @@
       "type": "domain",
       "value": "getstampi.com"
     },
-    "gfinityespo-jp-etaxrefund.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 22:44:48",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Japan's e-Tax service distributed via multiple phishing domains",
-      "threat_type": "phishing",
-      "tweet_id": "2103979128139747769",
-      "type": "domain",
-      "value": "gfinityespo-jp-etaxrefund.com"
-    },
     "ggctb.cn": {
       "confidence": 0.8,
       "date": "2026-09-30 23:30:14",
@@ -56670,21 +56540,6 @@
       "tweet_id": "2110428757622448500",
       "type": "domain",
       "value": "glamour-studio.com"
-    },
-    "gleisso.org": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "gleisso.org"
     },
     "globalco44t2yl6ltgj74cwthr6b6olggl3srg7engqfhx72f6ni3cyd.onion": {
       "confidence": 0.85,
@@ -57017,6 +56872,21 @@
       "type": "domain",
       "value": "gran1xea.xyz"
     },
+    "granitepointmedia.fun": {
+      "confidence": 0.8,
+      "date": "2026-10-27 00:00:25",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing alert: MEDVi weight-loss offer lures victims to unrelated domain granitepointmedia[.]fun, flagged by public threat intelligence providers.",
+      "threat_type": "phishing",
+      "tweet_id": "2114869790972244150",
+      "type": "domain",
+      "value": "granitepointmedia.fun"
+    },
     "greenerpasturetrading.info": {
       "confidence": 0.8,
       "date": "2026-09-30 20:16:43",
@@ -57030,21 +56900,6 @@
       "tweet_id": "2105391409931186501",
       "type": "domain",
       "value": "greenerpasturetrading.info"
-    },
-    "gricatpert.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "gricatpert.com"
     },
     "grillchefsecrets.com": {
       "confidence": 0.85,
@@ -57225,20 +57080,6 @@
       "type": "domain",
       "value": "gtib96.onlinewebshop.net"
     },
-    "gtmtimestamp.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart-related IOC list of skimmer domains impersonating analytics/security services",
-      "threat_type": "other",
-      "tweet_id": "2103392201384329646",
-      "type": "domain",
-      "value": "gtmtimestamp.com"
-    },
     "guach.net": {
       "confidence": 0.65,
       "date": "2026-10-01 19:31:14",
@@ -57327,21 +57168,6 @@
       "tweet_id": "2110827129860768135",
       "type": "domain",
       "value": "gumruk.info"
-    },
-    "gusso.info": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "gusso.info"
     },
     "gvagsb.cn": {
       "confidence": 0.8,
@@ -57620,21 +57446,6 @@
       "type": "domain",
       "value": "hallo.jiaoyang677.sbs"
     },
-    "hannaileid.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "hannaileid.com"
-    },
     "hanvior.cfd": {
       "confidence": 0.93,
       "date": "2026-10-02 05:51:18",
@@ -57817,6 +57628,22 @@
       "type": "domain",
       "value": "hbyqq.cn"
     },
+    "hcnksadcn.cc": {
+      "confidence": 0.9,
+      "date": "2026-10-26 21:24:54",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": "ValleyRAT",
+      "suggested_tags": [
+        "valleyrat",
+        "rat",
+        "malware"
+      ],
+      "summary": "ValleyRAT sample delivered as a .vhdx disk image file seen from India, using domain hcnksadcn[.]cc.",
+      "threat_type": "malware",
+      "tweet_id": "2114830654466896212",
+      "type": "domain",
+      "value": "hcnksadcn.cc"
+    },
     "hdhdandan.duckdns.org": {
       "confidence": 0.6,
       "date": "2026-09-30 13:49:59",
@@ -57831,22 +57658,6 @@
       "tweet_id": "2105294087913914589",
       "type": "domain",
       "value": "hdhdandan.duckdns.org"
-    },
-    "healingmybrai-etaxrefund.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 22:44:48",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Japan's e-Tax service distributed via multiple phishing domains",
-      "threat_type": "phishing",
-      "tweet_id": "2103979128139747769",
-      "type": "domain",
-      "value": "healingmybrai-etaxrefund.com"
     },
     "health.vitalhealthportal.com": {
       "confidence": 0.85,
@@ -58146,21 +57957,6 @@
       "type": "domain",
       "value": "history.webapi-whatsapp.com"
     },
-    "hitorerrid.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "hitorerrid.com"
-    },
     "hk2-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -58321,21 +58117,6 @@
       "type": "domain",
       "value": "hollandhart.myssoauth.com"
     },
-    "holochtorf.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "holochtorf.com"
-    },
     "home.productforhome.info": {
       "confidence": 0.8,
       "date": "2026-09-30 05:31:17",
@@ -58411,21 +58192,6 @@
       "type": "domain",
       "value": "homeweb-whatsapp.com"
     },
-    "horvix.info": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "horvix.info"
-    },
     "hostapi-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -58495,21 +58261,6 @@
       "tweet_id": "2112583368479318236",
       "type": "domain",
       "value": "hostpush-whatsapp.com"
-    },
-    "hotenerpe.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "hotenerpe.net"
     },
     "howto.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -59291,21 +59042,6 @@
       "type": "domain",
       "value": "indeedinternationals.com"
     },
-    "independentmortgageadvisor.uk": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "independentmortgageadvisor.uk"
-    },
     "indigo-flicker-zephyr-truior.pro": {
       "confidence": 0.8,
       "date": "2026-10-26 12:34:54",
@@ -59404,21 +59140,6 @@
       "tweet_id": "2104951134385213505",
       "type": "domain",
       "value": "insigniafinancial.ssosettings.com"
-    },
-    "inssighog.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "inssighog.net"
     },
     "instagram-verifica.freemyip.com": {
       "confidence": 0.9,
@@ -59866,20 +59587,6 @@
       "type": "domain",
       "value": "ja.webhwsapp-whatsapp.com"
     },
-    "jadxgui.com": {
-      "confidence": 0.6,
-      "date": "2026-09-26 19:54:58",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Website impersonating the JADX GUI tool to distribute malicious content",
-      "threat_type": "phishing",
-      "tweet_id": "2103936387083022546",
-      "type": "domain",
-      "value": "jadxgui.com"
-    },
     "japan-five.top": {
       "confidence": 0.7,
       "date": "2026-10-24 00:10:26",
@@ -60012,21 +59719,6 @@
       "tweet_id": "2104677165618851900",
       "type": "url",
       "value": "https://jcanskjihdajio.cyou:8443"
-    },
-    "jeedefort.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "jeedefort.net"
     },
     "jfkjetblue.com": {
       "confidence": 0.85,
@@ -60428,20 +60120,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "jqsweb-whatsapp.com"
-    },
-    "jquery-bootstrap.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart web-skimming infrastructure using multiple fake analytics/security-themed domains",
-      "threat_type": "other",
-      "tweet_id": "2103934538254557327",
-      "type": "domain",
-      "value": "jquery-bootstrap.com"
     },
     "jrxciw2.xyz": {
       "confidence": 0.9,
@@ -61421,51 +61099,6 @@
       "type": "domain",
       "value": "lcopz.cn"
     },
-    "leadingspacetechnology.top": {
-      "confidence": 0.6,
-      "date": "2026-09-26 20:05:54",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malicious LNK file disguised as housing project PDF, contacts C2 infrastructure on leadingspacetechnology.top",
-      "threat_type": "c2",
-      "tweet_id": "2103939137330204900",
-      "type": "domain",
-      "value": "leadingspacetechnology.top"
-    },
-    "leadingspacetechnology.top/mart/res/bb.php": {
-      "confidence": 0.6,
-      "date": "2026-09-26 20:05:54",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malicious LNK file disguised as housing project PDF, contacts C2 infrastructure on leadingspacetechnology.top",
-      "threat_type": "c2",
-      "tweet_id": "2103939137330204900",
-      "type": "url",
-      "value": "http://leadingspacetechnology.top/mart/res/bb.php"
-    },
-    "leadingspacetechnology.top/mart/res/get-command.php": {
-      "confidence": 0.6,
-      "date": "2026-09-26 20:05:54",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malicious LNK file disguised as housing project PDF, contacts C2 infrastructure on leadingspacetechnology.top",
-      "threat_type": "c2",
-      "tweet_id": "2103939137330204900",
-      "type": "url",
-      "value": "http://leadingspacetechnology.top/mart/res/get-command.php"
-    },
     "leanviainc.top": {
       "confidence": 0.75,
       "date": "2026-10-20 13:04:37",
@@ -61538,21 +61171,6 @@
       "type": "url",
       "value": "https://leiber.top/Bin/ScreenConnect.ClientSetup.msi"
     },
-    "lelinhore.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "lelinhore.net"
-    },
     "lemon-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -61608,21 +61226,6 @@
       "tweet_id": "2107331142366167180",
       "type": "domain",
       "value": "levelonelearns.com"
-    },
-    "lewismud.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "lewismud.com"
     },
     "lewokodwqko.icu": {
       "confidence": 0.9,
@@ -62079,21 +61682,6 @@
       "type": "url",
       "value": "https://logiccorporation.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
     },
-    "logicora.mom": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "logicora.mom"
-    },
     "login-options.com": {
       "confidence": 0.7,
       "date": "2026-10-14 08:09:45",
@@ -62384,20 +61972,6 @@
       "type": "domain",
       "value": "lojalivretos.store"
     },
-    "lollu.lol": {
-      "confidence": 0.65,
-      "date": "2026-09-27 00:31:01",
-      "enriched_at": "2026-09-27T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Newly identified phishing site hosted at lollu.lol.",
-      "threat_type": "phishing",
-      "tweet_id": "2104005858971578705",
-      "type": "domain",
-      "value": "lollu.lol"
-    },
     "loneiggel.com": {
       "confidence": 0.2,
       "date": "2026-10-18 12:58:25",
@@ -62556,36 +62130,6 @@
       "type": "url",
       "value": "https://luckyprint52.ru/abdjlkflasdfjgdfkadflg"
     },
-    "lumouschs.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "lumouschs.com"
-    },
-    "lumsheeray.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "lumsheeray.com"
-    },
     "luoc.run": {
       "confidence": 0.9,
       "date": "2026-10-20 05:26:14",
@@ -62646,20 +62190,6 @@
       "tweet_id": "2110151512286801974",
       "type": "domain",
       "value": "luqos.cn"
-    },
-    "lurkershield.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart web-skimming infrastructure using multiple fake analytics/security-themed domains",
-      "threat_type": "other",
-      "tweet_id": "2103934538254557327",
-      "type": "domain",
-      "value": "lurkershield.com"
     },
     "luxfab.luxe": {
       "confidence": 0.85,
@@ -63966,34 +63496,6 @@
       "type": "url",
       "value": "https://minha-maga-online.com/produto/escada-articulada-de-aluminio-12-degraus-350-metros-de-altura"
     },
-    "mirvok.vu": {
-      "confidence": 0.6,
-      "date": "2026-09-26 21:56:02",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page hosted on mirvok.vu impersonating a government-related service, linked IP found",
-      "threat_type": "phishing",
-      "tweet_id": "2103966855576646002",
-      "type": "domain",
-      "value": "mirvok.vu"
-    },
-    "mirvok.vu/lidia.smith/kdc.ks.govii.html": {
-      "confidence": 0.6,
-      "date": "2026-09-26 21:56:02",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page hosted on mirvok.vu impersonating a government-related service, linked IP found",
-      "threat_type": "phishing",
-      "tweet_id": "2103966855576646002",
-      "type": "url",
-      "value": "https://mirvok.vu/lidia.smith/kdc.ks.govII.html"
-    },
     "missvalledeladrome.info": {
       "confidence": 0.85,
       "date": "2026-09-30 20:10:31",
@@ -64326,36 +63828,6 @@
       "type": "domain",
       "value": "model-whatsapp.com"
     },
-    "modickresl.info": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "modickresl.info"
-    },
-    "moithioutu.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "moithioutu.com"
-    },
     "mono-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -64384,21 +63856,6 @@
       "tweet_id": "2110315829606687172",
       "type": "domain",
       "value": "monoxide.vip"
-    },
-    "moolkalis.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "moolkalis.net"
     },
     "morojames1789900170014.0690011.misitiohostgator.com": {
       "confidence": 0.85,
@@ -64756,21 +64213,6 @@
       "type": "domain",
       "value": "n1if3c.cn"
     },
-    "nadalicach.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "nadalicach.com"
-    },
     "nairawaterfall.com": {
       "confidence": 0.85,
       "date": "2026-10-23 22:04:34",
@@ -64832,22 +64274,6 @@
       "tweet_id": "2105144857832607863",
       "type": "url",
       "value": "https://naomiwellness.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
-    },
-    "nargilecimur-jp-etaxrefund.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 22:44:48",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Japan's e-Tax service distributed via multiple phishing domains",
-      "threat_type": "phishing",
-      "tweet_id": "2103979128139747769",
-      "type": "domain",
-      "value": "nargilecimur-jp-etaxrefund.com"
     },
     "narragansett-jp.com": {
       "confidence": 0.85,
@@ -64997,21 +64423,6 @@
       "tweet_id": "2110514053173141544",
       "type": "domain",
       "value": "ncivhyvu.cn"
-    },
-    "neatuncett.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "neatuncett.com"
     },
     "nebuladialogue.top": {
       "confidence": 0.9,
@@ -65698,21 +65109,6 @@
       "type": "domain",
       "value": "nomaiei.sbs"
     },
-    "nomictitre.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "nomictitre.com"
-    },
     "nosqldb-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -66069,21 +65465,6 @@
       "type": "url",
       "value": "https://ojsdocument.blob.core.windows.net/scanfile/officejimdosedja.pdf"
     },
-    "okon.enslatural.org": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "okon.enslatural.org"
-    },
     "okta-linksso.com": {
       "confidence": 0.85,
       "date": "2026-10-08 12:07:46",
@@ -66139,21 +65520,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "okx-whatsaop.com"
-    },
-    "olalietide.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "olalietide.com"
     },
     "old-shadow-803d.user308.workers.dev": {
       "confidence": 0.75,
@@ -66433,21 +65799,6 @@
       "tweet_id": "2112541327334539719",
       "type": "domain",
       "value": "only1mafia.net"
-    },
-    "ontradictiousn.info": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "ontradictiousn.info"
     },
     "onyxkrunker.duckdns.org": {
       "confidence": 0.85,
@@ -66792,21 +66143,6 @@
       "type": "domain",
       "value": "opsset-whatsapp.com"
     },
-    "optoo.me": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "optoo.me"
-    },
     "optservicenote.myallvalue.com": {
       "confidence": 0.85,
       "date": "2026-09-30 12:36:54",
@@ -66881,21 +66217,6 @@
       "tweet_id": "2109055341908607403",
       "type": "domain",
       "value": "ornqzbd.cn"
-    },
-    "osky.dev": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "osky.dev"
     },
     "outlook365livee.dothome.co.kr": {
       "confidence": 0.8,
@@ -67620,21 +66941,6 @@
       "type": "url",
       "value": "https://play.google.com/store/apps/details?id=com.railforge.footplate.documentreader_pdfviewer"
     },
-    "play.ikpinner.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "play.ikpinner.com"
-    },
     "plbkm.cn": {
       "confidence": 0.75,
       "date": "2026-10-07 12:05:54",
@@ -67982,21 +67288,6 @@
       "tweet_id": "2105625326839906782",
       "type": "domain",
       "value": "poyanercold.top"
-    },
-    "pr-3274-feature-pt-185857-ip-212-32-229-174.preview.lawmatics.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "pr-3274-feature-pt-185857-ip-212-32-229-174.preview.lawmatics.com"
     },
     "preparationguru.com": {
       "confidence": 0.9,
@@ -68859,36 +68150,6 @@
       "type": "domain",
       "value": "pubad-gov-lk.net-src.info"
     },
-    "pudinireo.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "pudinireo.net"
-    },
-    "pugistlist.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "pugistlist.com"
-    },
     "pususufim.z28.web.core.windows.net": {
       "confidence": 0.85,
       "date": "2026-10-05 16:02:51",
@@ -69203,21 +68464,6 @@
       "type": "domain",
       "value": "quickkitchendishes.com"
     },
-    "quisenagid.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "quisenagid.net"
-    },
     "quota-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -69320,21 +68566,6 @@
       "type": "domain",
       "value": "rabbitshimak-jp.com"
     },
-    "rabizenali.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "rabizenali.com"
-    },
     "railforgefootplate.com": {
       "confidence": 0.93,
       "date": "2026-10-08 15:44:54",
@@ -69400,21 +68631,6 @@
       "tweet_id": "2105604256757694867",
       "type": "domain",
       "value": "rajug.eu"
-    },
-    "ranen.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "ranen.net"
     },
     "range-whatsapp.com": {
       "confidence": 0.65,
@@ -69550,21 +68766,6 @@
       "tweet_id": "2104520755157299274",
       "type": "url",
       "value": "https://raw.githubusercontent.com/up-827/update/main/udt.bat"
-    },
-    "razelosis.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "razelosis.net"
     },
     "rcmail.mendoza.gov.ar": {
       "confidence": 0.92,
@@ -69747,21 +68948,6 @@
       "type": "domain",
       "value": "redsun.live"
     },
-    "reduadesa.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "reduadesa.net"
-    },
     "reg.v-panel.asia": {
       "confidence": 0.9,
       "date": "2026-10-08 14:48:18",
@@ -69794,21 +68980,6 @@
       "type": "domain",
       "value": "regex-whatsapp.com"
     },
-    "regice.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "regice.net"
-    },
     "register.webapi-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -69823,21 +68994,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "register.webapi-whatsapp.com"
-    },
-    "reitiethot.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "reitiethot.com"
     },
     "relay-whatsapp.com": {
       "confidence": 0.75,
@@ -70136,20 +69292,6 @@
       "tweet_id": "2106972672303243293",
       "type": "url",
       "value": "https://reurl.cc/qa4krD"
-    },
-    "review-cdn.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart-related IOC list of skimmer domains impersonating analytics/security services",
-      "threat_type": "other",
-      "tweet_id": "2103392201384329646",
-      "type": "domain",
-      "value": "review-cdn.com"
     },
     "review-docusign-document.top": {
       "confidence": 0.85,
@@ -70709,63 +69851,6 @@
       "type": "domain",
       "value": "s1z0j88g.onlinewebshop.net"
     },
-    "sacirderst.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "sacirderst.com"
-    },
-    "safepayguard.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart web-skimming infrastructure using multiple fake analytics/security-themed domains",
-      "threat_type": "other",
-      "tweet_id": "2103934538254557327",
-      "type": "domain",
-      "value": "safepayguard.com"
-    },
-    "safeprocessmaster.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart-related IOC list of skimmer domains impersonating analytics/security services",
-      "threat_type": "other",
-      "tweet_id": "2103392201384329646",
-      "type": "domain",
-      "value": "safeprocessmaster.com"
-    },
-    "safeprocessor.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart-related IOC list of skimmer domains impersonating analytics/security services",
-      "threat_type": "other",
-      "tweet_id": "2103392201384329646",
-      "type": "domain",
-      "value": "safeprocessor.com"
-    },
     "sahko-team.fi": {
       "confidence": 0.6,
       "date": "2026-10-14 10:43:00",
@@ -70951,21 +70036,6 @@
       "type": "domain",
       "value": "scarlettgugldabhgz3uertpnxglxytddxbd5vnoma5pihfk6k5q2sid.onion"
     },
-    "scesy.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "scesy.net"
-    },
     "schedule-meeting-zoom.us": {
       "confidence": 0.85,
       "date": "2026-10-04 02:50:57",
@@ -71061,36 +70131,6 @@
       "type": "domain",
       "value": "scnk3.club"
     },
-    "scocaboade.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "scocaboade.com"
-    },
-    "scongalper.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "scongalper.com"
-    },
     "scope-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -71104,21 +70144,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "scope-whatsapp.com"
-    },
-    "scoreeneol.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "scoreeneol.com"
     },
     "script.google.com/macros/s/akfycbz9tpijgr8au3w1ym2yimsruhrgk5yn0pvsvzedwj2r4xso97thyyxihmr5ma9n4z1z/exec": {
       "confidence": 0.93,
@@ -72323,36 +71348,6 @@
       "type": "domain",
       "value": "shunyishengh-jp.com"
     },
-    "siealinank.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "siealinank.com"
-    },
-    "sierneroru.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "sierneroru.com"
-    },
     "signal-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -72396,21 +71391,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "signin.webstatici-whatsapp.com"
-    },
-    "silvergateway.my": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "silvergateway.my"
     },
     "simplegastronomy.com": {
       "confidence": 0.85,
@@ -72531,21 +71511,6 @@
       "type": "url",
       "value": "http://smaluf.net:3857"
     },
-    "smartvex.rest": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "smartvex.rest"
-    },
     "smbweb-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -72575,6 +71540,34 @@
       "type": "domain",
       "value": "smokingstationhub.com"
     },
+    "smulaf.net": {
+      "confidence": 0.5,
+      "date": "2026-10-26 21:50:47",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious MSI installer 'Quant.msi' contacting hxxp://smulaf[.]net:3857/api/agent/script, reported via MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2114837168371720321",
+      "type": "domain",
+      "value": "smulaf.net"
+    },
+    "smulaf.net:3857/api/agent/script": {
+      "confidence": 0.5,
+      "date": "2026-10-26 21:50:47",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious MSI installer 'Quant.msi' contacting hxxp://smulaf[.]net:3857/api/agent/script, reported via MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2114837168371720321",
+      "type": "url",
+      "value": "http://smulaf.net:3857/api/agent/script"
+    },
     "snj.kjk.mybluehost.me": {
       "confidence": 0.9,
       "date": "2026-10-22 07:46:37",
@@ -72602,21 +71595,6 @@
       "tweet_id": "2113175176020185284",
       "type": "url",
       "value": "http://snj.kjk.mybluehost.me/orund/hhhh.php"
-    },
-    "snutrorize.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "snutrorize.com"
     },
     "snuznsva.cn": {
       "confidence": 0.7,
@@ -72676,21 +71654,6 @@
       "type": "domain",
       "value": "socket-whatsapp.com"
     },
-    "sofilornas.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "sofilornas.net"
-    },
     "softhub-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -72720,21 +71683,6 @@
       "type": "domain",
       "value": "soj.s4kyn.com"
     },
-    "solavid.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "solavid.net"
-    },
     "solflare-extension.pages.dev": {
       "confidence": 0.7,
       "date": "2026-10-13 00:20:03",
@@ -72762,65 +71710,6 @@
       "tweet_id": "2104422822890103051",
       "type": "domain",
       "value": "soloferreteria.com"
-    },
-    "solutionjquery.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart-related IOC list of skimmer domains impersonating analytics/security services",
-      "threat_type": "other",
-      "tweet_id": "2103392201384329646",
-      "type": "domain",
-      "value": "solutionjquery.com"
-    },
-    "somioln.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "somioln.net"
-    },
-    "sonag.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "sonag.net"
-    },
-    "sorghande.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "sorghande.net"
     },
     "sort-whatsapp.com": {
       "confidence": 0.65,
@@ -72957,20 +71846,6 @@
       "tweet_id": "2105643924295414171",
       "type": "domain",
       "value": "sp33ct-varelo-biz-faneki-zumaro.pages.dev"
-    },
-    "specterguardian.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart-related IOC list of skimmer domains impersonating analytics/security services",
-      "threat_type": "other",
-      "tweet_id": "2103392201384329646",
-      "type": "domain",
-      "value": "specterguardian.com"
     },
     "splitter-whatsapp.com": {
       "confidence": 0.65,
@@ -73219,20 +72094,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "state-whatsapp.com"
-    },
-    "static-secure.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart web-skimming infrastructure using multiple fake analytics/security-themed domains",
-      "threat_type": "other",
-      "tweet_id": "2103934538254557327",
-      "type": "domain",
-      "value": "static-secure.com"
     },
     "static.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -74675,21 +73536,6 @@
       "type": "domain",
       "value": "surfanny.com"
     },
-    "sverlogina.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "sverlogina.com"
-    },
     "swervimgbackj.top": {
       "confidence": 0.6,
       "date": "2026-10-10 11:51:06",
@@ -75754,36 +74600,6 @@
       "type": "domain",
       "value": "telgramcn.com"
     },
-    "temodlaire.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "temodlaire.com"
-    },
-    "temperating.site": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "temperating.site"
-    },
     "tenereteam.digidip.net": {
       "confidence": 0.75,
       "date": "2026-10-07 02:48:42",
@@ -76064,37 +74880,6 @@
       "type": "url",
       "value": "https://thalassaix.cfd/menkyo/#/index"
     },
-    "thapiourgo.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "thapiourgo.com"
-    },
-    "theartoftalki-saisanpolnts.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 22:48:49",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware"
-      ],
-      "summary": "Android malware impersonating a Japanese IC card app distributed via multiple phishing domains",
-      "threat_type": "phishing",
-      "tweet_id": "2103980138933420366",
-      "type": "domain",
-      "value": "theartoftalki-saisanpolnts.com"
-    },
     "theblock-tg.craigary.workers.dev": {
       "confidence": 0.75,
       "date": "2026-10-23 20:47:00",
@@ -76110,6 +74895,22 @@
       "tweet_id": "2113733954490470752",
       "type": "domain",
       "value": "theblock-tg.craigary.workers.dev"
+    },
+    "thecanniballazu.com": {
+      "confidence": 0.8,
+      "date": "2026-10-26 23:46:07",
+      "enriched_at": "2026-10-27T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware masquerading as e-Tax (Japan), distributed via a phishing site at thecanniballazu[.]com.",
+      "threat_type": "malware",
+      "tweet_id": "2114866195572916371",
+      "type": "domain",
+      "value": "thecanniballazu.com"
     },
     "thedentalsuite.com.au": {
       "confidence": 0.7,
@@ -76359,21 +75160,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "tier-whatsapp.com"
-    },
-    "tiliackox.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "tiliackox.net"
     },
     "times.eastus.cloudapp.azure.com": {
       "confidence": 0.8,
@@ -76763,22 +75549,6 @@
       "type": "url",
       "value": "https://tradingengineers.in/Indgravendes.csv"
     },
-    "traveltoeuro-saisanpolnts.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 22:48:49",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware"
-      ],
-      "summary": "Android malware impersonating a Japanese IC card app distributed via multiple phishing domains",
-      "threat_type": "phishing",
-      "tweet_id": "2103980138933420366",
-      "type": "domain",
-      "value": "traveltoeuro-saisanpolnts.com"
-    },
     "treasurywisechoice.com": {
       "confidence": 0.85,
       "date": "2026-09-29 16:06:37",
@@ -76806,21 +75576,6 @@
       "tweet_id": "2104957788313289212",
       "type": "domain",
       "value": "treeservicekingstonil.info"
-    },
-    "tritpuned.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "tritpuned.com"
     },
     "truecdnnetwork.com": {
       "confidence": 0.6,
@@ -76926,21 +75681,6 @@
       "type": "domain",
       "value": "try-whatsapp.com"
     },
-    "tsanotityr.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "tsanotityr.com"
-    },
     "tttkkkssww.com": {
       "confidence": 0.6,
       "date": "2026-10-02 21:48:24",
@@ -76986,21 +75726,6 @@
       "tweet_id": "2106523500064481449",
       "type": "domain",
       "value": "turismodem-jp.com"
-    },
-    "turntablesky.pro": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "turntablesky.pro"
     },
     "tutorial-whatsapp.com": {
       "confidence": 0.65,
@@ -77299,36 +76024,6 @@
       "type": "url",
       "value": "https://umabju.com/ekinet/jp"
     },
-    "unfactraus.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "unfactraus.com"
-    },
-    "unistsiolt.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "unistsiolt.com"
-    },
     "unknownbuddy.com": {
       "confidence": 0.75,
       "date": "2026-10-01 11:46:13",
@@ -77344,21 +76039,6 @@
       "tweet_id": "2105625326839906782",
       "type": "domain",
       "value": "unknownbuddy.com"
-    },
-    "unsminaemy.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "unsminaemy.com"
     },
     "uob-bk6-c3gnawcfendtf8gu.z01.azurefd.net": {
       "confidence": 0.6,
@@ -77387,21 +76067,6 @@
       "tweet_id": "2112488698289799447",
       "type": "url",
       "value": "https://uob-bk6-c3gnawcfendtf8gu.z01.azurefd.net/S163DE_Voluntary_package.zip"
-    },
-    "upascreaph.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "upascreaph.com"
     },
     "update-ssl.netlify.app": {
       "confidence": 0.6,
@@ -77699,21 +76364,6 @@
       "type": "domain",
       "value": "userhub-coinbase.com"
     },
-    "userk.website": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "userk.website"
-    },
     "userun-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -77755,21 +76405,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "useweb-whatsapp.com"
-    },
-    "usulk.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "usulk.com"
     },
     "uxmesq.cn": {
       "confidence": 0.8,
@@ -77845,21 +76480,6 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "v2-whatsapp.com"
-    },
-    "v2raytun-online.ru": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "v2raytun-online.ru"
     },
     "v3-whatsapp.com": {
       "confidence": 0.75,
@@ -78096,21 +76716,6 @@
       "type": "domain",
       "value": "version-whatsapp.com"
     },
-    "vervilbeet.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "vervilbeet.net"
-    },
     "vggkofmi.cn": {
       "confidence": 0.75,
       "date": "2026-10-14 23:32:16",
@@ -78283,21 +76888,6 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "viewweb-whatsapp.com"
-    },
-    "vispuradh.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "vispuradh.net"
     },
     "vivid-flicker-anvil-creoen.pro": {
       "confidence": 0.8,
@@ -79163,34 +77753,6 @@
       "type": "domain",
       "value": "webbat-whatsapp.com"
     },
-    "webcache-cache.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart web-skimming infrastructure using multiple fake analytics/security-themed domains",
-      "threat_type": "other",
-      "tweet_id": "2103934538254557327",
-      "type": "domain",
-      "value": "webcache-cache.com"
-    },
-    "webcachecache.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart web-skimming infrastructure using multiple fake analytics/security-themed domains",
-      "threat_type": "other",
-      "tweet_id": "2103934538254557327",
-      "type": "domain",
-      "value": "webcachecache.com"
-    },
     "webcap-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -79772,20 +78334,6 @@
       "type": "domain",
       "value": "webserver-whatsapp.com"
     },
-    "websitewebcache.com": {
-      "confidence": 0.7,
-      "date": "2026-09-26 19:47:37",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "magecart"
-      ],
-      "summary": "Magecart-related IOC list of skimmer domains impersonating analytics/security services",
-      "threat_type": "other",
-      "tweet_id": "2103392201384329646",
-      "type": "domain",
-      "value": "websitewebcache.com"
-    },
     "webstart-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -80026,81 +78574,6 @@
       "type": "domain",
       "value": "wheat-whatsapp.com"
     },
-    "whelurrith.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "whelurrith.com"
-    },
-    "whenalimug.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "whenalimug.com"
-    },
-    "whm.mta-sts.raytecs.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "whm.mta-sts.raytecs.com"
-    },
-    "whm.whm.whm.whm.whm.whm.whm.mta-sts.prohouz.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "whm.whm.whm.whm.whm.whm.whm.mta-sts.prohouz.com"
-    },
-    "whm.whm.whm.whm.whm.www.whm.mta-sts.prohouz.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "whm.whm.whm.whm.whm.www.whm.mta-sts.prohouz.com"
-    },
     "wi20a-1kkan-llam2.xo.je": {
       "confidence": 0.55,
       "date": "2026-10-15 22:16:36",
@@ -80267,21 +78740,6 @@
       "tweet_id": "2113733954490470752",
       "type": "domain",
       "value": "winter-dawn-c288.suplayer810.workers.dev"
-    },
-    "wintialrae.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "wintialrae.com"
     },
     "winupdateconf.cfd": {
       "confidence": 0.9,
@@ -81534,21 +79992,6 @@
       "type": "domain",
       "value": "xiaoxiangliu-jp.com"
     },
-    "xinsebache.my": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "xinsebache.my"
-    },
     "xionamiconm.com": {
       "confidence": 0.7,
       "date": "2026-10-14 21:59:13",
@@ -82269,21 +80712,6 @@
       "type": "url",
       "value": "https://yuutyoubannku.myship-711-com-tw-re34s.shop/OYmAvdRJ"
     },
-    "yverodumbo.com": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "yverodumbo.com"
-    },
     "yxjfsy.com": {
       "confidence": 0.85,
       "date": "2026-10-07 05:17:35",
@@ -82356,21 +80784,6 @@
       "tweet_id": "2107380629612433761",
       "type": "url",
       "value": "https://yxz-1469461062.cos.ap-singapore.myqcloud.com/DMRootCA.zip"
-    },
-    "z.smartbrandsinternational.net": {
-      "confidence": 0.5,
-      "date": "2026-09-26 20:52:46",
-      "enriched_at": "2026-09-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Large phishing/spam infrastructure cluster of many lookalike/junk domains tied to a single sample hash",
-      "threat_type": "spam",
-      "tweet_id": "2103950933088506181",
-      "type": "domain",
-      "value": "z.smartbrandsinternational.net"
     },
     "zaptechhelp.com": {
       "confidence": 0.6,
@@ -83139,6 +81552,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-26T18:40:03Z",
+  "generated_at": "2026-10-27T00:40:04Z",
   "window_days": 30
 }
