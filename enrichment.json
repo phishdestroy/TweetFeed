@@ -1,5 +1,5 @@
 {
-  "count": 5871,
+  "count": 5901,
   "dead_tweets": {
     "2101923416521728224": {
       "attempts": 1,
@@ -3452,6 +3452,20 @@
       "type": "url",
       "value": "http://107.173.143.44/60"
     },
+    "107.173.227.153": {
+      "confidence": 0.25,
+      "date": "2026-10-27 12:43:57",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "IP address shared with mentions of abuse.ch and ANY.RUN, suggesting malware-related infrastructure; no details.",
+      "threat_type": "malware",
+      "tweet_id": "2115061940288364889",
+      "type": "url",
+      "value": "http://107.173.227.153"
+    },
     "107.174.19.11": {
       "confidence": 0.6,
       "date": "2026-10-16 22:09:34",
@@ -4476,6 +4490,18 @@
       "tweet_id": "2108045786366066728",
       "type": "sha256",
       "value": "12b72de4d7869e4f27ef9a06e792c11defd0e5e7e57e9b6a0d1b97f2ac9a5ace"
+    },
+    "12bc5118d64a314f8c3f0308aa185d150a7ec9a261b2bc64185f75023e91b43d": {
+      "confidence": 0.2,
+      "date": "2026-10-27 16:16:04",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "List of file hashes shared without context; no family or threat details identifiable.",
+      "threat_type": "other",
+      "tweet_id": "2115115324085596651",
+      "type": "sha256",
+      "value": "12bc5118d64a314f8c3f0308aa185d150a7ec9a261b2bc64185f75023e91b43d"
     },
     "13.140.242.159": {
       "confidence": 0.5,
@@ -7234,6 +7260,20 @@
       "type": "ip",
       "value": "149.137.136.16"
     },
+    "149.154.167.99": {
+      "confidence": 0.75,
+      "date": "2026-10-27 13:35:05",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing hosted via a Telegram link (IRS support line impersonation).",
+      "threat_type": "phishing",
+      "tweet_id": "2115074811277803914",
+      "type": "ip",
+      "value": "149.154.167.99"
+    },
     "149.28.78.54": {
       "confidence": 0.3,
       "date": "2026-10-26 18:17:03",
@@ -9006,6 +9046,21 @@
       "type": "ip",
       "value": "162.244.94.46"
     },
+    "162.246.19.216": {
+      "confidence": 0.7,
+      "date": "2026-10-27 16:17:50",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Fake CloakGuard RMM, EV-signed, posing as a Windows service with a fake blue screen, ends up installing ScreenConnect remote access.",
+      "threat_type": "malware",
+      "tweet_id": "2115115765632496094",
+      "type": "url",
+      "value": "http://162.246.19.216"
+    },
     "162.251.94.208": {
       "confidence": 0.8,
       "date": "2026-10-01 16:55:39",
@@ -10385,22 +10440,6 @@
       "tweet_id": "2113230689403330893",
       "type": "url",
       "value": "http://176.65.132.7:5000"
-    },
-    "176.65.139.250": {
-      "confidence": 0.7,
-      "date": "2026-09-27 17:36:32",
-      "enriched_at": "2026-09-27T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "opendir",
-        "malware"
-      ],
-      "summary": "Open directory hosting malware infecting Android devices and possibly routers/IoT via MIPS, MIPSEL and x86 binaries.",
-      "threat_type": "malware",
-      "tweet_id": "2104263934802849977",
-      "type": "url",
-      "value": "http://176.65.139.250"
     },
     "176.65.144.138": {
       "confidence": 0.9,
@@ -14882,6 +14921,22 @@
       "tweet_id": "2108157834189807871",
       "type": "md5",
       "value": "26617bb88f08067374b25539281cb1be"
+    },
+    "269ad9fafbd5999483ad234a867beb4a7db0d55dea8b85bfbfe8ac163041b24d": {
+      "confidence": 0.8,
+      "date": "2026-10-27 14:45:24",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware masquerading as Japan Exchange Group (JPX), distributed from a phishing site.",
+      "threat_type": "malware",
+      "tweet_id": "2115092506451075479",
+      "type": "sha256",
+      "value": "269ad9fafbd5999483ad234a867beb4a7db0d55dea8b85bfbfe8ac163041b24d"
     },
     "26etou1.cn": {
       "confidence": 0.7,
@@ -25649,6 +25704,22 @@
       "type": "sha256",
       "value": "39d76b97f4b74e65a8285a3b273926dff27af56a42408e5f4d98c202a6f35514"
     },
+    "3a55c86804e304c7117a753d04370ab3": {
+      "confidence": 0.6,
+      "date": "2026-10-27 13:59:26",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": "RUAT",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "Hash of a Rust-based stealer named RUAT.",
+      "threat_type": "malware",
+      "tweet_id": "2115080935955902649",
+      "type": "md5",
+      "value": "3a55c86804e304c7117a753d04370ab3"
+    },
     "3b3318ee8c7ff6470237a95f263004fa4819fc31efc280b1fc3f3986ab451340": {
       "confidence": 0.4,
       "date": "2026-10-21 10:16:57",
@@ -29106,23 +29177,6 @@
       "type": "sha256",
       "value": "55e1adcf7b552f67f7d15a5982f1617cdc522430b3d9c2b5a45e0829d5620272"
     },
-    "568727af2895b87664db81cf09ef4f66": {
-      "confidence": 0.7,
-      "date": "2026-09-27 16:59:54",
-      "enriched_at": "2026-09-27T18:40:04Z",
-      "family": "asyncrat",
-      "suggested_tags": [
-        "asyncrat",
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "AsyncRat sample with associated C2 domain sc88qt.com, targeting Taiwan region.",
-      "threat_type": "c2",
-      "tweet_id": "2104254718465790200",
-      "type": "md5",
-      "value": "568727af2895b87664db81cf09ef4f66"
-    },
     "5767896359.sbs": {
       "confidence": 0.9,
       "date": "2026-10-02 13:51:37",
@@ -29565,6 +29619,20 @@
       "tweet_id": "2111507625376383121",
       "type": "sha256",
       "value": "607d55dbf8bb57d6557ad1d39df67d887ab5747a5d5d2ebb5ac6d0764252c1ad"
+    },
+    "61a10a01cb3ef6db810baa7d3b98c2f0fd8c0618d5ea48643a15484f4ca73587": {
+      "confidence": 0.5,
+      "date": "2026-10-27 15:23:02",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious .cpl file sample seen from Brazil, tied to a staging domain, reported via MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2115101974613962948",
+      "type": "sha256",
+      "value": "61a10a01cb3ef6db810baa7d3b98c2f0fd8c0618d5ea48643a15484f4ca73587"
     },
     "61def8b242913b520ec110458a416b02a6a38dc8765bc76bd571ee7ae8350aae": {
       "confidence": 0.9,
@@ -30260,6 +30328,36 @@
       "type": "ip",
       "value": "69.164.207.173"
     },
+    "69.169.106.96": {
+      "confidence": 0.7,
+      "date": "2026-10-27 16:17:50",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Fake CloakGuard RMM, EV-signed, posing as a Windows service with a fake blue screen, ends up installing ScreenConnect remote access.",
+      "threat_type": "malware",
+      "tweet_id": "2115115765632496094",
+      "type": "ip",
+      "value": "69.169.106.96"
+    },
+    "69.169.106.96:8041": {
+      "confidence": 0.7,
+      "date": "2026-10-27 16:17:50",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Fake CloakGuard RMM, EV-signed, posing as a Windows service with a fake blue screen, ends up installing ScreenConnect remote access.",
+      "threat_type": "malware",
+      "tweet_id": "2115115765632496094",
+      "type": "url",
+      "value": "http://69.169.106.96:8041"
+    },
     "69.169.109.75": {
       "confidence": 0.95,
       "date": "2026-10-05 07:01:11",
@@ -30905,22 +31003,6 @@
       "type": "sha256",
       "value": "789ba8885841786c1b3aeb4c1c5c75a3757155d160029f490dbfe724dce61fe9"
     },
-    "78bf1882183a3be3df1ed9186dbe660b": {
-      "confidence": 0.6,
-      "date": "2026-09-27 17:01:36",
-      "enriched_at": "2026-09-28T00:40:04Z",
-      "family": "asyncrat",
-      "suggested_tags": [
-        "asyncrat",
-        "rat",
-        "malware"
-      ],
-      "summary": "Hash indicator shared for an AsyncRat malware sample.",
-      "threat_type": "malware",
-      "tweet_id": "2104255144384692734",
-      "type": "md5",
-      "value": "78bf1882183a3be3df1ed9186dbe660b"
-    },
     "79.110.49.138": {
       "confidence": 0.55,
       "date": "2026-10-01 20:24:00",
@@ -31160,6 +31242,18 @@
       "tweet_id": "2104528688469647700",
       "type": "sha256",
       "value": "7c58cad760ebbed54f2ca4d2146d056910b7b6688b4f524396dc8807353c2379"
+    },
+    "7c705366972bc9af7975647d17e85bd0260def700b00f4b40eeff3af847a2c1f": {
+      "confidence": 0.2,
+      "date": "2026-10-27 16:16:04",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "List of file hashes shared without context; no family or threat details identifiable.",
+      "threat_type": "other",
+      "tweet_id": "2115115324085596651",
+      "type": "sha256",
+      "value": "7c705366972bc9af7975647d17e85bd0260def700b00f4b40eeff3af847a2c1f"
     },
     "7c7f8c8a4a817d7affa27a6c0ac34ba9ed4e96e748c6894dc7fa2ac5b30b2903": {
       "confidence": 0.8,
@@ -32508,6 +32602,34 @@
       "tweet_id": "2112460310112018509",
       "type": "ip",
       "value": "85.215.175.202"
+    },
+    "85.215.226.225": {
+      "confidence": 0.9,
+      "date": "2026-10-27 18:01:01",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Netflix-themed phishing login page hosted on an IONOS IP in Germany.",
+      "threat_type": "phishing",
+      "tweet_id": "2115141733264605433",
+      "type": "ip",
+      "value": "85.215.226.225"
+    },
+    "85.215.226.225/netflix/home/login.php": {
+      "confidence": 0.9,
+      "date": "2026-10-27 18:01:01",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Netflix-themed phishing login page hosted on an IONOS IP in Germany.",
+      "threat_type": "phishing",
+      "tweet_id": "2115141733264605433",
+      "type": "url",
+      "value": "http://85.215.226.225/Netflix/Home/login.php"
     },
     "85009ea54606ded4f2f43f508d465f67aba79787826b2886535efa91c920b647": {
       "confidence": 0.7,
@@ -34087,6 +34209,18 @@
       "type": "domain",
       "value": "99totoapp.com"
     },
+    "9a30421a755d23c6df57dd0d4af6d3526fc6dbb9f34638f82cd1bfeefefa296c": {
+      "confidence": 0.2,
+      "date": "2026-10-27 16:16:04",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "List of file hashes shared without context; no family or threat details identifiable.",
+      "threat_type": "other",
+      "tweet_id": "2115115324085596651",
+      "type": "sha256",
+      "value": "9a30421a755d23c6df57dd0d4af6d3526fc6dbb9f34638f82cd1bfeefefa296c"
+    },
     "9a30c5d73737a637058fcf8468541a2f": {
       "confidence": 0.6,
       "date": "2026-10-02 06:29:01",
@@ -34594,6 +34728,21 @@
       "tweet_id": "2112281267362558279",
       "type": "sha256",
       "value": "a7588b11762a3adf7ed383a384d2d6921b0081354c4672a1c3bf3b865044845e"
+    },
+    "a75ff95e30207fd4cfc325be1b10a7e2a775fe0b061a151a2072eaf0070d041d": {
+      "confidence": 0.75,
+      "date": "2026-10-27 13:19:39",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": "PHP2SHELL",
+      "suggested_tags": [
+        "php2shell",
+        "malware"
+      ],
+      "summary": "Linux botnet sample integrating the PHP2SHELL exploit alongside 8 other CVE exploit references, detected by THOR.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2115070927629062300",
+      "type": "sha256",
+      "value": "a75ff95e30207fd4cfc325be1b10a7e2a775fe0b061a151a2072eaf0070d041d"
     },
     "a79d0313100fd2416a45894447311f3c2dd909791cf72a86af735f03afb82e84": {
       "confidence": 0.6,
@@ -45335,6 +45484,20 @@
       "type": "domain",
       "value": "boxuse-whatsapp.com"
     },
+    "bradesco.tel": {
+      "confidence": 0.5,
+      "date": "2026-10-27 12:49:11",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Domain impersonating Bradesco bank, likely phishing.",
+      "threat_type": "phishing",
+      "tweet_id": "2115063258688143589",
+      "type": "domain",
+      "value": "bradesco.tel"
+    },
     "branch-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -46376,6 +46539,21 @@
       "tweet_id": "2108973313401688344",
       "type": "sha256",
       "value": "c072088e15403a22e335dbe7c5daa837693e7853e9033caa4a4e9ae86510501b"
+    },
+    "c082af1dd7a1fd3d8738e7897281503971302e3d3dad8f46771ae4127aefb20a": {
+      "confidence": 0.8,
+      "date": "2026-10-27 14:31:01",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware APK impersonating Japan Exchange Group (JPX), downloaded from a fake site.",
+      "threat_type": "malware",
+      "tweet_id": "2115088886980657325",
+      "type": "sha256",
+      "value": "c082af1dd7a1fd3d8738e7897281503971302e3d3dad8f46771ae4127aefb20a"
     },
     "c1bb8d783e18a05c2d797c3c19de1b514ff6a0d9a0f44ecafc3629547f02edf5": {
       "confidence": 0.4,
@@ -49050,6 +49228,34 @@
       "type": "domain",
       "value": "cors-whatsapp.com"
     },
+    "corvtervsoa-te.xyz": {
+      "confidence": 0.9,
+      "date": "2026-10-27 14:27:29",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "AEON Card phishing site redirecting to a second Cloudflare-fronted phishing domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2115087994701103380",
+      "type": "domain",
+      "value": "corvtervsoa-te.xyz"
+    },
+    "corvtervsoa-te.xyz/aioserb/?tid=": {
+      "confidence": 0.9,
+      "date": "2026-10-27 14:27:29",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "AEON Card phishing site redirecting to a second Cloudflare-fronted phishing domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2115087994701103380",
+      "type": "url",
+      "value": "https://corvtervsoa-te.xyz/aioserb/?tid="
+    },
     "cosmicsky.xyz": {
       "confidence": 0.4,
       "date": "2026-10-05 13:26:38",
@@ -51135,6 +51341,18 @@
       "tweet_id": "2110839496652538240",
       "type": "domain",
       "value": "dist-cdn.net"
+    },
+    "dklak.cam": {
+      "confidence": 0.15,
+      "date": "2026-10-27 13:02:18",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Suspicious domain shared with no context.",
+      "threat_type": "other",
+      "tweet_id": "2115066559660163401",
+      "type": "domain",
+      "value": "dklak.cam"
     },
     "dlhengshengtang.com": {
       "confidence": 0.9,
@@ -53831,6 +54049,18 @@
       "tweet_id": "2113226893243699233",
       "type": "sha256",
       "value": "f90bcc14a17c591a349af7b7525cce4e6811110e32bf08a7352c25f3f2b6e792"
+    },
+    "f90ebd52260ad2f65511eb5cfc820080167b68bf75fcd3cd64c0f97de1d90886": {
+      "confidence": 0.2,
+      "date": "2026-10-27 14:51:34",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Bare SHA256 hash shared without context; no family or threat details identifiable.",
+      "threat_type": "other",
+      "tweet_id": "2115094056464531875",
+      "type": "sha256",
+      "value": "f90ebd52260ad2f65511eb5cfc820080167b68bf75fcd3cd64c0f97de1d90886"
     },
     "f96586d7f97f7111ec9a58d7d4f1b1e58901b457886d7b5b12c7404c84325292": {
       "confidence": 0.85,
@@ -69217,6 +69447,34 @@
       "type": "domain",
       "value": "rajug.eu"
     },
+    "rakuten-banks.top": {
+      "confidence": 0.9,
+      "date": "2026-10-27 14:25:34",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Rakuten Bank phishing site behind Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2115087516261101902",
+      "type": "domain",
+      "value": "rakuten-banks.top"
+    },
+    "rakuten-banks.top/jp": {
+      "confidence": 0.9,
+      "date": "2026-10-27 14:25:34",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Rakuten Bank phishing site behind Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2115087516261101902",
+      "type": "url",
+      "value": "https://rakuten-banks.top/jp/"
+    },
     "range-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -69593,6 +69851,21 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "relay-whatsapp.com"
+    },
+    "relay.alico.shop": {
+      "confidence": 0.7,
+      "date": "2026-10-27 16:17:50",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Fake CloakGuard RMM, EV-signed, posing as a Windows service with a fake blue screen, ends up installing ScreenConnect remote access.",
+      "threat_type": "malware",
+      "tweet_id": "2115115765632496094",
+      "type": "domain",
+      "value": "relay.alico.shop"
     },
     "relay.autoskreenllc.one": {
       "confidence": 0.8,
@@ -70068,6 +70341,21 @@
       "type": "url",
       "value": "http://rmans.webredirect.org:2404"
     },
+    "rmm.cloakguard.org": {
+      "confidence": 0.7,
+      "date": "2026-10-27 16:17:50",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Fake CloakGuard RMM, EV-signed, posing as a Windows service with a fake blue screen, ends up installing ScreenConnect remote access.",
+      "threat_type": "malware",
+      "tweet_id": "2115115765632496094",
+      "type": "domain",
+      "value": "rmm.cloakguard.org"
+    },
     "rmwjb.com": {
       "confidence": 0.65,
       "date": "2026-10-27 08:21:23",
@@ -70082,6 +70370,21 @@
       "tweet_id": "2114995865517695018",
       "type": "domain",
       "value": "rmwjb.com"
+    },
+    "rn-a-g-a-z-i-n-promocoes.com": {
+      "confidence": 0.85,
+      "date": "2026-10-27 14:17:35",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing/scam clone site impersonating Magazine Luiza (Magalu) with a lookalike domain, targeting Brazilian shoppers.",
+      "threat_type": "phishing",
+      "tweet_id": "2115085506929410208",
+      "type": "domain",
+      "value": "rn-a-g-a-z-i-n-promocoes.com"
     },
     "rnbwjd.cfd": {
       "confidence": 0.9,
@@ -70606,23 +70909,6 @@
       "type": "domain",
       "value": "sayosay.cc"
     },
-    "sc88qt.com": {
-      "confidence": 0.7,
-      "date": "2026-09-27 16:59:54",
-      "enriched_at": "2026-09-27T18:40:04Z",
-      "family": "asyncrat",
-      "suggested_tags": [
-        "asyncrat",
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "AsyncRat sample with associated C2 domain sc88qt.com, targeting Taiwan region.",
-      "threat_type": "c2",
-      "tweet_id": "2104254718465790200",
-      "type": "domain",
-      "value": "sc88qt.com"
-    },
     "scan.webstatici-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -70803,6 +71089,20 @@
       "tweet_id": "2105485465063469506",
       "type": "domain",
       "value": "sdonaghylactationservices.info"
+    },
+    "sdootuk.marmorariacoral.website": {
+      "confidence": 0.5,
+      "date": "2026-10-27 15:23:02",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious .cpl file sample seen from Brazil, tied to a staging domain, reported via MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2115101974613962948",
+      "type": "domain",
+      "value": "sdootuk.marmorariacoral.website"
     },
     "sdueioy.study": {
       "confidence": 0.85,
@@ -72888,6 +73188,34 @@
       "type": "url",
       "value": "https://strafordhomes.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
     },
+    "strand-output-firefox-laptop.trycloudflare.com": {
+      "confidence": 0.4,
+      "date": "2026-10-27 14:30:35",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious JavaScript (app.js) served from a trycloudflare.com tunnel host; actor left junk code highlighted.",
+      "threat_type": "malware",
+      "tweet_id": "2115088776175218973",
+      "type": "domain",
+      "value": "strand-output-firefox-laptop.trycloudflare.com"
+    },
+    "strand-output-firefox-laptop.trycloudflare.com/static/app.js": {
+      "confidence": 0.4,
+      "date": "2026-10-27 14:30:35",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious JavaScript (app.js) served from a trycloudflare.com tunnel host; actor left junk code highlighted.",
+      "threat_type": "malware",
+      "tweet_id": "2115088776175218973",
+      "type": "url",
+      "value": "https://strand-output-firefox-laptop.trycloudflare.com/static/app.js"
+    },
     "stream-whatsapp.com": {
       "confidence": 0.7,
       "date": "2026-10-20 16:34:59",
@@ -74668,6 +74996,20 @@
       "type": "domain",
       "value": "t.me.combot.top"
     },
+    "t.me/irssupportline": {
+      "confidence": 0.75,
+      "date": "2026-10-27 13:35:05",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing hosted via a Telegram link (IRS support line impersonation).",
+      "threat_type": "phishing",
+      "tweet_id": "2115074811277803914",
+      "type": "url",
+      "value": "https://t.me/IRSsupportline"
+    },
     "t.me/monoxidevip": {
       "confidence": 0.8,
       "date": "2026-10-22 06:29:10",
@@ -76109,6 +76451,20 @@
       "tweet_id": "2112728179232358793",
       "type": "url",
       "value": "https://torvenix.cfd/LOGIN/#/index"
+    },
+    "tpab7.com": {
+      "confidence": 0.9,
+      "date": "2026-10-27 14:27:29",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "AEON Card phishing site redirecting to a second Cloudflare-fronted phishing domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2115087994701103380",
+      "type": "domain",
+      "value": "tpab7.com"
     },
     "tqi21.vercel.app": {
       "confidence": 0.5,
@@ -77771,6 +78127,21 @@
       "tweet_id": "2113526196738617642",
       "type": "url",
       "value": "http://vwwv-roblox.co/login?returnUrl=1041215277"
+    },
+    "vyv51.top": {
+      "confidence": 0.8,
+      "date": "2026-10-27 14:31:01",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware APK impersonating Japan Exchange Group (JPX), downloaded from a fake site.",
+      "threat_type": "malware",
+      "tweet_id": "2115088886980657325",
+      "type": "domain",
+      "value": "vyv51.top"
     },
     "waaako.proxy08.com": {
       "confidence": 0.8,
@@ -79907,6 +80278,20 @@
       "type": "url",
       "value": "https://www.cdiscount.com?source_id=&sub1=dbdsl260fgns73fncrf0&adv1=&adv2="
     },
+    "www.cdiscount.com?source_id=&sub1=dbg9ur60fgns7383je5g&adv1=&adv2=": {
+      "confidence": 0.6,
+      "date": "2026-10-27 13:34:52",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing URL abusing a Cdiscount link with tracking parameters, behind Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2115074756974448759",
+      "type": "url",
+      "value": "https://www.cdiscount.com?source_id=&sub1=dbg9ur60fgns7383je5g&adv1=&adv2="
+    },
     "www.chefstablehub.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -80302,6 +80687,21 @@
       "tweet_id": "2106293721159582168",
       "type": "url",
       "value": "https://www.ultimategrillhub.com"
+    },
+    "www.vyv51.top": {
+      "confidence": 0.8,
+      "date": "2026-10-27 14:31:01",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware APK impersonating Japan Exchange Group (JPX), downloaded from a fake site.",
+      "threat_type": "malware",
+      "tweet_id": "2115088886980657325",
+      "type": "url",
+      "value": "https://www.vyv51.top"
     },
     "www.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -81785,6 +82185,18 @@
       "type": "domain",
       "value": "zilqkr.cn"
     },
+    "zinhoooo.workers.dev": {
+      "confidence": 0.15,
+      "date": "2026-10-27 12:46:13",
+      "enriched_at": "2026-10-27T18:40:03Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Cloudflare Workers domain shared with no context; possibly abused for malicious hosting.",
+      "threat_type": "other",
+      "tweet_id": "2115062512739832240",
+      "type": "domain",
+      "value": "zinhoooo.workers.dev"
+    },
     "zip-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -82167,6 +82579,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-27T12:40:04Z",
+  "generated_at": "2026-10-27T18:40:03Z",
   "window_days": 30
 }
