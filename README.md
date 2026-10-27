@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-27 06:30:25 (UTC)</th>
+        <th colspan=4>2026-10-27 06:45:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -190,9 +190,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 11 | 710 | 2830 | 45643 |
 | **:globe_with_meridians: Domains** | 11 | 586 | 2415 | 39455 |
-| **:triangular_flag_on_post: IPs** | 2 | 1498 | 2091 | 7833 |
-| **:1234: SHA256** | 2 | 97 | 397 | 2958 |
-| **:1234: MD5** | 0 | 27 | 70 | 2084 |
+| **:triangular_flag_on_post: IPs** | 4 | 1500 | 2093 | 7835 |
+| **:1234: SHA256** | 3 | 98 | 398 | 2959 |
+| **:1234: MD5** | 1 | 28 | 71 | 2085 |
 
 </div>
 
@@ -210,7 +210,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 0 | 5 | 11669 |
 | **#malware** | 0 | 580 | 1157 | 4032 |
 | **#scam** | 0 | 2 | 46 | 3467 |
-| **#C2** | 0 | 30 | 110 | 2220 |
+| **#C2** | 3 | 33 | 113 | 2223 |
 | **#APT** | 0 | 4 | 37 | 1497 |
 | **#ClickFix** | 0 | 92 | 289 | 1115 |
 | **#opendir** | 0 | 2 | 40 | 709 |
@@ -233,10 +233,10 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [harugasumi](https://x.com/harugasumi) | 12 |
 | **#2** | [TKemmerling](https://x.com/TKemmerling) | 6 |
 | **#3** | [PhishStats](https://x.com/PhishStats) | 4 |
-| **#4** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 2 |
-| **#6** | [-](https://x.com/-) | 0 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#4** | [Fact_Finder03](https://x.com/Fact_Finder03) | 3 |
+| **#5** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#6** | [masaomi346](https://x.com/masaomi346) | 2 |
+| **#7** | [suyog41](https://x.com/suyog41) | 1 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
