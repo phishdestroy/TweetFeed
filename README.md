@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-27 19:30:20 (UTC)</th>
+        <th colspan=4>2026-10-27 19:45:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 53 | 748 | 2867 | 45680 |
-| **:globe_with_meridians: Domains** | 33 | 607 | 2434 | 39474 |
+| **:link: URLs** | 56 | 751 | 2870 | 45683 |
+| **:globe_with_meridians: Domains** | 36 | 610 | 2437 | 39477 |
 | **:triangular_flag_on_post: IPs** | 18 | 1499 | 2092 | 7834 |
-| **:1234: SHA256** | 19 | 114 | 413 | 2974 |
+| **:1234: SHA256** | 20 | 115 | 414 | 2975 |
 | **:1234: MD5** | 12 | 39 | 82 | 2096 |
 
 </div>
@@ -230,10 +230,10 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [harugasumi](https://x.com/harugasumi) | 12 |
-| **#2** | [tdatwja](https://x.com/tdatwja) | 12 |
-| **#3** | [skocherhan](https://x.com/skocherhan) | 12 |
-| **#4** | [smica83](https://x.com/smica83) | 10 |
+| **#1** | [smica83](https://x.com/smica83) | 17 |
+| **#2** | [harugasumi](https://x.com/harugasumi) | 12 |
+| **#3** | [tdatwja](https://x.com/tdatwja) | 12 |
+| **#4** | [skocherhan](https://x.com/skocherhan) | 12 |
 | **#5** | [KesaGataMe0](https://x.com/KesaGataMe0) | 9 |
 | **#6** | [masaomi346](https://x.com/masaomi346) | 8 |
 | **#7** | [ShanHolo](https://x.com/ShanHolo) | 8 |
