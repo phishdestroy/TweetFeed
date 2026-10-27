@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-27 14:15:20 (UTC)</th>
+        <th colspan=4>2026-10-27 14:30:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,11 +188,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 39 | 738 | 2858 | 45671 |
-| **:globe_with_meridians: Domains** | 22 | 597 | 2426 | 39466 |
+| **:link: URLs** | 40 | 739 | 2859 | 45672 |
+| **:globe_with_meridians: Domains** | 23 | 598 | 2427 | 39467 |
 | **:triangular_flag_on_post: IPs** | 15 | 1511 | 2104 | 7846 |
 | **:1234: SHA256** | 11 | 106 | 406 | 2967 |
-| **:1234: MD5** | 11 | 38 | 81 | 2095 |
+| **:1234: MD5** | 12 | 39 | 82 | 2096 |
 
 </div>
 
@@ -205,11 +205,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 32 | 620 | 3383 | 34496 |
+| **#phishing** | 34 | 622 | 3385 | 34498 |
 | **#Kimsuky** | 0 | 0 | 40 | 13317 |
 | **#DPRK** | 0 | 0 | 5 | 11669 |
 | **#malware** | 3 | 583 | 1160 | 4035 |
-| **#scam** | 4 | 6 | 50 | 3471 |
+| **#scam** | 6 | 8 | 52 | 3473 |
 | **#C2** | 3 | 33 | 113 | 2223 |
 | **#APT** | 0 | 4 | 37 | 1497 |
 | **#ClickFix** | 0 | 92 | 289 | 1115 |
@@ -236,9 +236,9 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#4** | [ShanHolo](https://x.com/ShanHolo) | 8 |
 | **#5** | [PhishStats](https://x.com/PhishStats) | 7 |
 | **#6** | [masaomi346](https://x.com/masaomi346) | 7 |
-| **#7** | [smica83](https://x.com/smica83) | 7 |
-| **#8** | [TKemmerling](https://x.com/TKemmerling) | 6 |
-| **#9** | [suyog41](https://x.com/suyog41) | 6 |
+| **#7** | [suyog41](https://x.com/suyog41) | 7 |
+| **#8** | [smica83](https://x.com/smica83) | 7 |
+| **#9** | [TKemmerling](https://x.com/TKemmerling) | 6 |
 | **#10** | [bomccss](https://x.com/bomccss) | 5 |
 <!-- TOP_REPORTERS_END -->
 
