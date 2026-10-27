@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2324
-; Updated: 2026-10-27T00:15:20Z
+; Entries: 2325
+; Updated: 2026-10-27T01:30:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793060120 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793064618 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3590,6 +3590,8 @@ sp26ct10-zalvako-biz-mureti.pages.dev CNAME .
 *.sp26ct10-zalvako-biz-mureti.pages.dev CNAME .
 sp26ct10-zorvemi-biz-kaluno.pages.dev CNAME .
 *.sp26ct10-zorvemi-biz-kaluno.pages.dev CNAME .
+sp30ct-vadex-biz-qanik-rumol.pages.dev CNAME .
+*.sp30ct-vadex-biz-qanik-rumol.pages.dev CNAME .
 sp33ct-varelo-biz-faneki-zumaro.pages.dev CNAME .
 *.sp33ct-varelo-biz-faneki-zumaro.pages.dev CNAME .
 splitter-whatsapp.com CNAME .
