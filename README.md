@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-27 11:15:19 (UTC)</th>
+        <th colspan=4>2026-10-27 22:00:26 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,11 +188,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 31 | 730 | 2850 | 45663 |
-| **:globe_with_meridians: Domains** | 19 | 594 | 2423 | 39463 |
-| **:triangular_flag_on_post: IPs** | 10 | 1506 | 2099 | 7841 |
-| **:1234: SHA256** | 9 | 104 | 404 | 2965 |
-| **:1234: MD5** | 10 | 37 | 80 | 2094 |
+| **:link: URLs** | 60 | 755 | 2874 | 45687 |
+| **:globe_with_meridians: Domains** | 38 | 612 | 2439 | 39479 |
+| **:triangular_flag_on_post: IPs** | 19 | 1500 | 2093 | 7835 |
+| **:1234: SHA256** | 23 | 118 | 417 | 2978 |
+| **:1234: MD5** | 12 | 39 | 82 | 2096 |
 
 </div>
 
@@ -205,14 +205,14 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 29 | 617 | 3380 | 34493 |
+| **#phishing** | 37 | 624 | 3386 | 34499 |
 | **#Kimsuky** | 0 | 0 | 40 | 13317 |
 | **#DPRK** | 0 | 0 | 5 | 11669 |
-| **#malware** | 3 | 583 | 1160 | 4035 |
-| **#scam** | 4 | 6 | 50 | 3471 |
+| **#malware** | 4 | 582 | 1157 | 4032 |
+| **#scam** | 6 | 8 | 52 | 3473 |
 | **#C2** | 3 | 33 | 113 | 2223 |
 | **#APT** | 0 | 4 | 37 | 1497 |
-| **#ClickFix** | 0 | 92 | 289 | 1115 |
+| **#ClickFix** | 0 | 90 | 287 | 1113 |
 | **#opendir** | 0 | 2 | 40 | 709 |
 | **#ransomware** | 6 | 17 | 99 | 687 |
 <!-- TAG_TABLE_END -->
@@ -230,16 +230,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [harugasumi](https://x.com/harugasumi) | 12 |
-| **#2** | [tdatwja](https://x.com/tdatwja) | 12 |
-| **#3** | [ShanHolo](https://x.com/ShanHolo) | 8 |
-| **#4** | [masaomi346](https://x.com/masaomi346) | 7 |
-| **#5** | [TKemmerling](https://x.com/TKemmerling) | 6 |
-| **#6** | [suyog41](https://x.com/suyog41) | 6 |
-| **#7** | [smica83](https://x.com/smica83) | 6 |
-| **#8** | [bomccss](https://x.com/bomccss) | 5 |
-| **#9** | [PhishStats](https://x.com/PhishStats) | 4 |
-| **#10** | [RakeshKrish12](https://x.com/RakeshKrish12) | 4 |
+| **#1** | [smica83](https://x.com/smica83) | 20 |
+| **#2** | [harugasumi](https://x.com/harugasumi) | 12 |
+| **#3** | [tdatwja](https://x.com/tdatwja) | 12 |
+| **#4** | [skocherhan](https://x.com/skocherhan) | 12 |
+| **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 11 |
+| **#6** | [KesaGataMe0](https://x.com/KesaGataMe0) | 9 |
+| **#7** | [masaomi346](https://x.com/masaomi346) | 8 |
+| **#8** | [ShanHolo](https://x.com/ShanHolo) | 8 |
+| **#9** | [SquiblydooBlog](https://x.com/SquiblydooBlog) | 8 |
+| **#10** | [PhishStats](https://x.com/PhishStats) | 7 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
