@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2342
-; Updated: 2026-10-27T14:30:21Z
+; Entries: 2346
+; Updated: 2026-10-27T14:45:16Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793111421 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793112316 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1134,6 +1134,8 @@ coreservicejcp.com CNAME .
 *.coreservicejcp.com CNAME .
 cors-whatsapp.com CNAME .
 *.cors-whatsapp.com CNAME .
+corvtervsoa-te.xyz CNAME .
+*.corvtervsoa-te.xyz CNAME .
 cosmicsky.xyz CNAME .
 *.cosmicsky.xyz CNAME .
 costcodeltosin.s3.us-east-1.amazonaws.com CNAME .
@@ -3268,6 +3270,8 @@ rainxyz.okta-signinsso.com CNAME .
 *.rainxyz.okta-signinsso.com CNAME .
 rajug.eu CNAME .
 *.rajug.eu CNAME .
+rakuten-banks.top CNAME .
+*.rakuten-banks.top CNAME .
 range-whatsapp.com CNAME .
 *.range-whatsapp.com CNAME .
 rdtds.net CNAME .
@@ -4060,6 +4064,8 @@ topic-whatsapp.com CNAME .
 *.topic-whatsapp.com CNAME .
 torvenix.cfd CNAME .
 *.torvenix.cfd CNAME .
+tpab7.com CNAME .
+*.tpab7.com CNAME .
 tqi21.vercel.app CNAME .
 *.tqi21.vercel.app CNAME .
 tr.webhwsapp-whatsapp.com CNAME .
@@ -4256,6 +4262,8 @@ vsdhjjt.club CNAME .
 *.vsdhjjt.club CNAME .
 vwwv-roblox.co CNAME .
 *.vwwv-roblox.co CNAME .
+vyv51.top CNAME .
+*.vyv51.top CNAME .
 waaako.proxy08.com CNAME .
 *.waaako.proxy08.com CNAME .
 wafnode-whatsapp.com CNAME .

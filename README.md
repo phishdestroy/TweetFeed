@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-27 14:30:23 (UTC)</th>
+        <th colspan=4>2026-10-27 14:45:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 40 | 739 | 2859 | 45672 |
-| **:globe_with_meridians: Domains** | 23 | 598 | 2427 | 39467 |
+| **:link: URLs** | 44 | 743 | 2863 | 45676 |
+| **:globe_with_meridians: Domains** | 27 | 602 | 2431 | 39471 |
 | **:triangular_flag_on_post: IPs** | 15 | 1511 | 2104 | 7846 |
-| **:1234: SHA256** | 11 | 106 | 406 | 2967 |
+| **:1234: SHA256** | 12 | 107 | 407 | 2968 |
 | **:1234: MD5** | 12 | 39 | 82 | 2096 |
 
 </div>
@@ -233,13 +233,13 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [harugasumi](https://x.com/harugasumi) | 12 |
 | **#2** | [tdatwja](https://x.com/tdatwja) | 12 |
 | **#3** | [skocherhan](https://x.com/skocherhan) | 9 |
-| **#4** | [ShanHolo](https://x.com/ShanHolo) | 8 |
-| **#5** | [PhishStats](https://x.com/PhishStats) | 7 |
-| **#6** | [masaomi346](https://x.com/masaomi346) | 7 |
-| **#7** | [suyog41](https://x.com/suyog41) | 7 |
-| **#8** | [smica83](https://x.com/smica83) | 7 |
-| **#9** | [TKemmerling](https://x.com/TKemmerling) | 6 |
-| **#10** | [bomccss](https://x.com/bomccss) | 5 |
+| **#4** | [KesaGataMe0](https://x.com/KesaGataMe0) | 9 |
+| **#5** | [ShanHolo](https://x.com/ShanHolo) | 8 |
+| **#6** | [PhishStats](https://x.com/PhishStats) | 7 |
+| **#7** | [masaomi346](https://x.com/masaomi346) | 7 |
+| **#8** | [suyog41](https://x.com/suyog41) | 7 |
+| **#9** | [smica83](https://x.com/smica83) | 7 |
+| **#10** | [TKemmerling](https://x.com/TKemmerling) | 6 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
