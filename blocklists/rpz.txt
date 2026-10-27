@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2348
-; Updated: 2026-10-27T17:52:34Z
+; Entries: 2349
+; Updated: 2026-10-27T19:30:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793123554 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793129419 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -824,6 +824,8 @@ bvj-whatsapp.com CNAME .
 *.bvj-whatsapp.com CNAME .
 bvk-whatsapp.com CNAME .
 *.bvk-whatsapp.com CNAME .
+bvkaka.com CNAME .
+*.bvkaka.com CNAME .
 bvmatqnam.com.vn CNAME .
 *.bvmatqnam.com.vn CNAME .
 bwf-whatsapp.com CNAME .
