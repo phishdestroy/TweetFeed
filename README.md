@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-27 14:45:17 (UTC)</th>
+        <th colspan=4>2026-10-27 15:00:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -191,7 +191,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **:link: URLs** | 44 | 743 | 2863 | 45676 |
 | **:globe_with_meridians: Domains** | 27 | 602 | 2431 | 39471 |
 | **:triangular_flag_on_post: IPs** | 15 | 1511 | 2104 | 7846 |
-| **:1234: SHA256** | 12 | 107 | 407 | 2968 |
+| **:1234: SHA256** | 14 | 109 | 409 | 2970 |
 | **:1234: MD5** | 12 | 39 | 82 | 2096 |
 
 </div>
@@ -205,10 +205,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 34 | 622 | 3385 | 34498 |
+| **#phishing** | 35 | 623 | 3386 | 34499 |
 | **#Kimsuky** | 0 | 0 | 40 | 13317 |
 | **#DPRK** | 0 | 0 | 5 | 11669 |
-| **#malware** | 3 | 583 | 1160 | 4035 |
+| **#malware** | 4 | 584 | 1161 | 4036 |
 | **#scam** | 6 | 8 | 52 | 3473 |
 | **#C2** | 3 | 33 | 113 | 2223 |
 | **#APT** | 0 | 4 | 37 | 1497 |
@@ -232,11 +232,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [harugasumi](https://x.com/harugasumi) | 12 |
 | **#2** | [tdatwja](https://x.com/tdatwja) | 12 |
-| **#3** | [skocherhan](https://x.com/skocherhan) | 9 |
+| **#3** | [skocherhan](https://x.com/skocherhan) | 10 |
 | **#4** | [KesaGataMe0](https://x.com/KesaGataMe0) | 9 |
-| **#5** | [ShanHolo](https://x.com/ShanHolo) | 8 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 7 |
-| **#7** | [masaomi346](https://x.com/masaomi346) | 7 |
+| **#5** | [masaomi346](https://x.com/masaomi346) | 8 |
+| **#6** | [ShanHolo](https://x.com/ShanHolo) | 8 |
+| **#7** | [PhishStats](https://x.com/PhishStats) | 7 |
 | **#8** | [suyog41](https://x.com/suyog41) | 7 |
 | **#9** | [smica83](https://x.com/smica83) | 7 |
 | **#10** | [TKemmerling](https://x.com/TKemmerling) | 6 |
