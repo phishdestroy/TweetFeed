@@ -1,5 +1,5 @@
 {
-  "count": 5901,
+  "count": 5916,
   "dead_tweets": {
     "2101923416521728224": {
       "attempts": 1,
@@ -249,6 +249,20 @@
       "tweet_id": "2113282146638893229",
       "type": "sha256",
       "value": "07be91c98c5feee161e87d01ff2c617b324baebb5a0b6eeb7c888900ad3588bb"
+    },
+    "0835b744a4f60827529a3b4e92d02fccd28bd04ae7a16f0e0ec191a833532c13": {
+      "confidence": 0.5,
+      "date": "2026-10-27 22:15:29",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious ISO file posing as a finance invoice, seen from Malaysia and uploaded to MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2115205774485966891",
+      "type": "sha256",
+      "value": "0835b744a4f60827529a3b4e92d02fccd28bd04ae7a16f0e0ec191a833532c13"
     },
     "0924fdea712e4458f9810d7ea1d402b20339f0f70168ea2577c0a9331bd97f38": {
       "confidence": 0.85,
@@ -10413,6 +10427,20 @@
       "type": "url",
       "value": "http://176.123.18.20:4444"
     },
+    "176.53.159.37": {
+      "confidence": 0.6,
+      "date": "2026-10-27 22:24:22",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir"
+      ],
+      "summary": "Open directory exposed on an IP address, likely hosting malicious files.",
+      "threat_type": "malware",
+      "tweet_id": "2115208006728118703",
+      "type": "url",
+      "value": "http://176.53.159.37"
+    },
     "176.65.132.7": {
       "confidence": 0.9,
       "date": "2026-10-22 10:52:58",
@@ -11142,6 +11170,18 @@
       "tweet_id": "2110717418427289602",
       "type": "ip",
       "value": "185.66.91.5"
+    },
+    "186.240.201.181": {
+      "confidence": 0.4,
+      "date": "2026-10-27 21:58:03",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "IP address that a related malicious domain resolves to, shared as an infrastructure indicator.",
+      "threat_type": "other",
+      "tweet_id": "2115201384043688308",
+      "type": "url",
+      "value": "http://186.240.201.181"
     },
     "186.241.104.59": {
       "confidence": 0.6,
@@ -15753,6 +15793,18 @@
       "tweet_id": "2109263406956155061",
       "type": "url",
       "value": "http://3.147.84.164"
+    },
+    "301bd9f16f94feedfae7a946a14bac38cb73c43efe6117bc5586835af03d7d6f": {
+      "confidence": 0.2,
+      "date": "2026-10-27 22:08:02",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Bare SHA256 hash of a suspected malware sample with no additional context.",
+      "threat_type": "other",
+      "tweet_id": "2115203899842052295",
+      "type": "sha256",
+      "value": "301bd9f16f94feedfae7a946a14bac38cb73c43efe6117bc5586835af03d7d6f"
     },
     "30a54c0221e7ade433636c205e508aaa1006f4df93870ade8fb15db995b98704": {
       "confidence": 0.4,
@@ -24477,6 +24529,20 @@
       "type": "sha256",
       "value": "355ee70e091b82b987d09db3cf8ba4176da316c220a72742f74a9e604199c79b"
     },
+    "35b63d41888e44520c4c3078261e1946f6b4811ad640cec6bbdd74620afb0ddd": {
+      "confidence": 0.7,
+      "date": "2026-10-27 21:40:14",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious ZIP 'Installer_ChatGPT' served from typosquat domain chatlgpt.com impersonating ChatGPT.",
+      "threat_type": "malware",
+      "tweet_id": "2115196542487327076",
+      "type": "sha256",
+      "value": "35b63d41888e44520c4c3078261e1946f6b4811ad640cec6bbdd74620afb0ddd"
+    },
     "35da31b12e2c66f2954b9edb93189d9aefb500deb22d879a0623fc6b0729d0cd": {
       "confidence": 0.5,
       "date": "2026-10-20 17:44:07",
@@ -25867,6 +25933,20 @@
       "type": "ip",
       "value": "4.215.241.232"
     },
+    "4040bea4b89030f2a71de1e6a8b581e5732fecf4117a11c919c0c4f47788055d": {
+      "confidence": 0.6,
+      "date": "2026-10-27 22:58:14",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malware sample (RuntimeHost.exe) delivered from a Netlify-hosted fake download page; sample uploaded to MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2115216529931575638",
+      "type": "sha256",
+      "value": "4040bea4b89030f2a71de1e6a8b581e5732fecf4117a11c919c0c4f47788055d"
+    },
     "40618793adac69df00e5fe836827e38c13c2f6452d42e881c8efd256d8bf0c63": {
       "confidence": 0.6,
       "date": "2026-10-06 08:36:55",
@@ -26509,20 +26589,6 @@
       "tweet_id": "2110430385960034775",
       "type": "ip",
       "value": "43.167.192.67"
-    },
-    "43.167.235.101": {
-      "confidence": 0.5,
-      "date": "2026-09-27 19:39:39",
-      "enriched_at": "2026-09-28T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New phishing URL hosted on a Tencent-owned IP in Japan, flagged via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2104294921066934411",
-      "type": "ip",
-      "value": "43.167.235.101"
     },
     "43.173.38.56": {
       "confidence": 0.5,
@@ -29144,6 +29210,21 @@
       "type": "url",
       "value": "http://54.233.66.219"
     },
+    "54250bef9cd2097b202f2dc26900a40ed1fcdfc2cdfd870c09bb2d7b46e06b90": {
+      "confidence": 0.55,
+      "date": "2026-10-27 19:54:06",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "DLL 'ciiiha.dll' seen from Poland, using around 25 dynamic DNS C2 domains.",
+      "threat_type": "c2",
+      "tweet_id": "2115170192640885085",
+      "type": "sha256",
+      "value": "54250bef9cd2097b202f2dc26900a40ed1fcdfc2cdfd870c09bb2d7b46e06b90"
+    },
     "54c6472d99530cca4523378b109d176ec3684d47a32771adaa0eef40df55d2b5": {
       "confidence": 0.8,
       "date": "2026-10-18 01:24:36",
@@ -29465,6 +29546,20 @@
       "tweet_id": "2107751798479958347",
       "type": "sha256",
       "value": "5b7e8eff2805f6fe579abda73e84f752457d621d908d016c0be5d74f4d12e2ba"
+    },
+    "5bb359886e2b9d51677fef23ac678759b822cf9e6e300cf83a02a1f71f85145d": {
+      "confidence": 0.5,
+      "date": "2026-10-27 21:59:53",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Related malware sample delivered as a RAR archive named '3dDesign drawings.rar', seen from Cambodia, linked to domain wumingcccv.com.",
+      "threat_type": "malware",
+      "tweet_id": "2115201848772890918",
+      "type": "sha256",
+      "value": "5bb359886e2b9d51677fef23ac678759b822cf9e6e300cf83a02a1f71f85145d"
     },
     "5be88d5893fb9b4e854c18d311e299da36ef5b389546d53ada1f37802ef128c2": {
       "confidence": 0.8,
@@ -32072,22 +32167,6 @@
       "tweet_id": "2109650108887204073",
       "type": "ip",
       "value": "83.229.121.39"
-    },
-    "831f04b39cbf8d9f69c285ea93079464a977f2089f35914616ed7fe049c0049e": {
-      "confidence": 0.5,
-      "date": "2026-09-27 23:14:40",
-      "enriched_at": "2026-09-28T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Japan's e-Tax service distributed via multiple fake domains, sample on VirusTotal.",
-      "threat_type": "phishing",
-      "tweet_id": "2104349031929688510",
-      "type": "sha256",
-      "value": "831f04b39cbf8d9f69c285ea93079464a977f2089f35914616ed7fe049c0049e"
     },
     "838f3f24867b7ec93a6ad13c225b50f34959e7ed558175f9bc1be2a62337e7b7": {
       "confidence": 0.6,
@@ -42045,23 +42124,6 @@
       "type": "domain",
       "value": "app.5tr.org"
     },
-    "app.netshort-tv-jp.com": {
-      "confidence": 0.5,
-      "date": "2026-09-27 23:31:58",
-      "enriched_at": "2026-09-28T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware",
-        "stealer"
-      ],
-      "summary": "Android malware disguised as the NetsShort app distributed via a fake domain, sample uploaded to VirusTotal.",
-      "threat_type": "phishing",
-      "tweet_id": "2104353384967086369",
-      "type": "domain",
-      "value": "app.netshort-tv-jp.com"
-    },
     "app.slidy.ai": {
       "confidence": 0.75,
       "date": "2026-10-17 07:57:53",
@@ -43347,6 +43409,23 @@
       "type": "sha256",
       "value": "b7d8572c7e4fe577a29299e1089f85def9d6cfda192135681f8c111e5b3acd15"
     },
+    "b8038599839a7b01b6a36223ea0324f90d2d41b601bd672effc4160041297e20": {
+      "confidence": 0.8,
+      "date": "2026-10-27 23:54:22",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware disguised as Japan's e-Tax service, distributed via a phishing site with an associated malicious APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2115230659610550646",
+      "type": "sha256",
+      "value": "b8038599839a7b01b6a36223ea0324f90d2d41b601bd672effc4160041297e20"
+    },
     "b8a37706761c9b82a9129062d7d48cfc": {
       "confidence": 0.85,
       "date": "2026-10-25 15:55:09",
@@ -43809,6 +43888,23 @@
       "tweet_id": "2107806405767967081",
       "type": "sha256",
       "value": "bed116abf922b28f79323cce3901e206e82cb4a37020c623217ff1541baa00f1"
+    },
+    "bee97a199dda48a85a0421a8dd7148e16fd84b85674f8c7c190287d1ec871848": {
+      "confidence": 0.75,
+      "date": "2026-10-27 23:49:40",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware masquerading as e-Tax (Japan), promoted via phishing domains; associated APK sample hash shared.",
+      "threat_type": "malware",
+      "tweet_id": "2115229475822809290",
+      "type": "sha256",
+      "value": "bee97a199dda48a85a0421a8dd7148e16fd84b85674f8c7c190287d1ec871848"
     },
     "bestdiscountzone.com": {
       "confidence": 0.7,
@@ -46212,6 +46308,18 @@
       "type": "domain",
       "value": "bvk-whatsapp.com"
     },
+    "bvkaka.com": {
+      "confidence": 0.25,
+      "date": "2026-10-27 19:05:02",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Domain bvkaka.com reported to a registrar, likely abusive; no context on threat type.",
+      "threat_type": "other",
+      "tweet_id": "2115157846161547522",
+      "type": "domain",
+      "value": "bvkaka.com"
+    },
     "bvmatqnam.com.vn": {
       "confidence": 0.5,
       "date": "2026-10-12 19:16:59",
@@ -47042,6 +47150,36 @@
       "type": "domain",
       "value": "campus-petite-timothy-gulf.trycloudflare.com"
     },
+    "canabit.ai": {
+      "confidence": 0.7,
+      "date": "2026-10-16 00:12:03",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "cryptoscam"
+      ],
+      "summary": "Warning about suspected investment scam sites Canabit.ca and Canabit.ai; users urged to verify before investing.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2110886454897283150",
+      "type": "domain",
+      "value": "canabit.ai"
+    },
+    "canabit.ca": {
+      "confidence": 0.7,
+      "date": "2026-10-16 00:12:03",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "cryptoscam"
+      ],
+      "summary": "Warning about suspected investment scam sites Canabit.ca and Canabit.ai; users urged to verify before investing.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2110886454897283150",
+      "type": "domain",
+      "value": "canabit.ca"
+    },
     "canjepuntosrapidobac.click": {
       "confidence": 0.85,
       "date": "2026-10-17 05:45:23",
@@ -47238,6 +47376,34 @@
       "tweet_id": "2107418068393873847",
       "type": "sha256",
       "value": "cd6b7acea0bdbcf8b6e8b2e62ea710ab3d9e59111202ac7a733d109c27c948fd"
+    },
+    "cdn-edge-f3f85b.netlify.app": {
+      "confidence": 0.6,
+      "date": "2026-10-27 22:58:14",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Netlify-hosted page serving a malicious executable RuntimeHost.exe via a download button.",
+      "threat_type": "malware",
+      "tweet_id": "2115215691326410902",
+      "type": "domain",
+      "value": "cdn-edge-f3f85b.netlify.app"
+    },
+    "cdn-edge-f3f85b.netlify.app/dl/runtimehost.exe": {
+      "confidence": 0.6,
+      "date": "2026-10-27 22:58:14",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Netlify-hosted page serving a malicious executable RuntimeHost.exe via a download button.",
+      "threat_type": "malware",
+      "tweet_id": "2115215691326410902",
+      "type": "url",
+      "value": "https://cdn-edge-f3f85b.netlify.app/dl/RuntimeHost.exe"
     },
     "cdn-staticfiles.com": {
       "confidence": 0.9,
@@ -47808,6 +47974,34 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "chathub-whatsapp.com"
+    },
+    "chatlgpt.com": {
+      "confidence": 0.7,
+      "date": "2026-10-27 21:35:39",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Typosquatting domain chatlgpt.com impersonating ChatGPT and serving a fake installer ZIP.",
+      "threat_type": "malware",
+      "tweet_id": "2115195747553415605",
+      "type": "domain",
+      "value": "chatlgpt.com"
+    },
+    "chatlgpt.com/installer_chatgpt.zip": {
+      "confidence": 0.7,
+      "date": "2026-10-27 21:35:39",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Typosquatting domain chatlgpt.com impersonating ChatGPT and serving a fake installer ZIP.",
+      "threat_type": "malware",
+      "tweet_id": "2115195747553415605",
+      "type": "url",
+      "value": "https://chatlgpt.com/Installer_ChatGPT.zip"
     },
     "chatlink-whatsapp.com": {
       "confidence": 0.7,
@@ -52244,23 +52438,6 @@
       "type": "sha256",
       "value": "e050ddccbdac97dfc8eb41760a76b1ae7f0c9e22a44034304462ea20c3ed51f5"
     },
-    "e06b0fadd0c528ce4387ad2633a32695b943b29a00e0a82ff4dc32abb9670dc4": {
-      "confidence": 0.5,
-      "date": "2026-09-27 23:31:58",
-      "enriched_at": "2026-09-28T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware",
-        "stealer"
-      ],
-      "summary": "Android malware disguised as the NetsShort app distributed via a fake domain, sample uploaded to VirusTotal.",
-      "threat_type": "phishing",
-      "tweet_id": "2104353384967086369",
-      "type": "sha256",
-      "value": "e06b0fadd0c528ce4387ad2633a32695b943b29a00e0a82ff4dc32abb9670dc4"
-    },
     "e0814b26359c1e8dacd53e16fd847afc9f1c2d9ec2ddd3606b219a7041357e66": {
       "confidence": 0.6,
       "date": "2026-09-30 13:49:59",
@@ -52509,6 +52686,21 @@
       "type": "sha256",
       "value": "e6eca876f1e4423eadde8298c879774118f094d0b714a9dd202883b50ddc02dc"
     },
+    "e84d9461947ee432901dbaf5e1cf2fb61c84cd53ef62a11e30a9c56ea9b50228": {
+      "confidence": 0.5,
+      "date": "2026-10-27 20:12:36",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Malware sample seen from Ukraine and Moldova; a related sample uses 20+ dynamic DNS C2 domains.",
+      "threat_type": "c2",
+      "tweet_id": "2115174847441403921",
+      "type": "sha256",
+      "value": "e84d9461947ee432901dbaf5e1cf2fb61c84cd53ef62a11e30a9c56ea9b50228"
+    },
     "e879bd752c4883b158d41ebb242aeca1912515233e861f5350bd2de23556c517": {
       "confidence": 0.85,
       "date": "2026-10-01 12:46:23",
@@ -52612,6 +52804,23 @@
       "tweet_id": "2107097133446820143",
       "type": "sha256",
       "value": "eaca658a963bafb0998aada2c79864d42f526dc34076033005f4b34f236d76b1"
+    },
+    "eae48f1b9b57fed17a958d0625cffc66111c7891a096ce4288ae72f30c8edf23": {
+      "confidence": 0.8,
+      "date": "2026-10-27 23:45:43",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware disguised as e-Tax (Japan) hosted on a phishing domain, with associated APK sample hash.",
+      "threat_type": "malware",
+      "tweet_id": "2115228478857707556",
+      "type": "sha256",
+      "value": "eae48f1b9b57fed17a958d0625cffc66111c7891a096ce4288ae72f30c8edf23"
     },
     "earthbuddypet.cslt168.com": {
       "confidence": 0.7,
@@ -52882,22 +53091,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "edgenode-whatsapp.com"
-    },
-    "edmondhairsalo-jp.com": {
-      "confidence": 0.5,
-      "date": "2026-09-27 23:14:40",
-      "enriched_at": "2026-09-28T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Japan's e-Tax service distributed via multiple fake domains, sample on VirusTotal.",
-      "threat_type": "phishing",
-      "tweet_id": "2104349031929688510",
-      "type": "domain",
-      "value": "edmondhairsalo-jp.com"
     },
     "edzvp.cn": {
       "confidence": 0.8,
@@ -53870,6 +54063,20 @@
       "tweet_id": "2114783788370731113",
       "type": "sha256",
       "value": "f452b1a06c86c4ffa7ae32359cd2c03e58f6f20c7f892c4819c85836085804ae"
+    },
+    "f4ed301e2c1eeddedd613903051c93c486aebd19140635c32b1a5b7404c51de2": {
+      "confidence": 0.6,
+      "date": "2026-10-27 19:17:23",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious '106sms.zip' payload hosted on kongzaixian.com, with related domains kozae666.com and roujizaixian.com flagged as FUD.",
+      "threat_type": "malware",
+      "tweet_id": "2115160953675522367",
+      "type": "sha256",
+      "value": "f4ed301e2c1eeddedd613903051c93c486aebd19140635c32b1a5b7404c51de2"
     },
     "f54aea51d182e64b13d9a1a2876ab61c": {
       "confidence": 0.8,
@@ -57869,22 +58076,6 @@
       "type": "domain",
       "value": "groups.webstatici-whatsapp.com"
     },
-    "gtib96.onlinewebshop.net": {
-      "confidence": 0.75,
-      "date": "2026-09-28 00:30:38",
-      "enriched_at": "2026-09-28T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "kimsuky",
-        "apt",
-        "dprk"
-      ],
-      "summary": "Kimsuky APT infrastructure using GitHub accounts and fake web shop domains for attachment exfiltration.",
-      "threat_type": "other",
-      "tweet_id": "2104368146878693602",
-      "type": "domain",
-      "value": "gtib96.onlinewebshop.net"
-    },
     "guach.net": {
       "confidence": 0.65,
       "date": "2026-10-01 19:31:14",
@@ -59481,34 +59672,6 @@
       "type": "domain",
       "value": "hwspp.cn"
     },
-    "i0tjgjgm.xyz": {
-      "confidence": 0.5,
-      "date": "2026-09-27 19:39:39",
-      "enriched_at": "2026-09-28T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New phishing URL hosted on a Tencent-owned IP in Japan, flagged via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2104294921066934411",
-      "type": "domain",
-      "value": "i0tjgjgm.xyz"
-    },
-    "i0tjgjgm.xyz/knaebynf": {
-      "confidence": 0.5,
-      "date": "2026-09-27 19:39:39",
-      "enriched_at": "2026-09-28T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New phishing URL hosted on a Tencent-owned IP in Japan, flagged via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2104294921066934411",
-      "type": "url",
-      "value": "https://i0tjgjgm.xyz/KnaeByNf/"
-    },
     "iasteun.cn": {
       "confidence": 0.9,
       "date": "2026-10-17 00:09:09",
@@ -59931,6 +60094,23 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "input-whatsapp.com"
+    },
+    "insicdesignszu.com": {
+      "confidence": 0.8,
+      "date": "2026-10-27 23:45:43",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware disguised as e-Tax (Japan) hosted on a phishing domain, with associated APK sample hash.",
+      "threat_type": "malware",
+      "tweet_id": "2115228478857707556",
+      "type": "domain",
+      "value": "insicdesignszu.com"
     },
     "insigniafinancial.ssosettings.com": {
       "confidence": 0.7,
@@ -60781,6 +60961,20 @@
       "type": "url",
       "value": "https://johnhaywoodphotography.com/o974VAJH/"
     },
+    "join-inapp.com": {
+      "confidence": 0.9,
+      "date": "2026-10-27 23:30:39",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Mitsui Sumitomo Card (Japan) to steal credentials.",
+      "threat_type": "phishing",
+      "tweet_id": "2115224688851055007",
+      "type": "domain",
+      "value": "join-inapp.com"
+    },
     "join-msteams.live": {
       "confidence": 0.75,
       "date": "2026-10-08 04:18:36",
@@ -61596,6 +61790,48 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "ko.webhwsapp-whatsapp.com"
+    },
+    "kongzaixian.com": {
+      "confidence": 0.6,
+      "date": "2026-10-27 19:17:23",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious '106sms.zip' payload hosted on kongzaixian.com, with related domains kozae666.com and roujizaixian.com flagged as FUD.",
+      "threat_type": "malware",
+      "tweet_id": "2115160953675522367",
+      "type": "domain",
+      "value": "kongzaixian.com"
+    },
+    "kongzaixian.com/106sms.zip": {
+      "confidence": 0.6,
+      "date": "2026-10-27 19:17:23",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious '106sms.zip' payload hosted on kongzaixian.com, with related domains kozae666.com and roujizaixian.com flagged as FUD.",
+      "threat_type": "malware",
+      "tweet_id": "2115160953675522367",
+      "type": "url",
+      "value": "https://kongzaixian.com/106sms.zip"
+    },
+    "kozae666.com": {
+      "confidence": 0.6,
+      "date": "2026-10-27 19:17:23",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious '106sms.zip' payload hosted on kongzaixian.com, with related domains kozae666.com and roujizaixian.com flagged as FUD.",
+      "threat_type": "malware",
+      "tweet_id": "2115160953675522367",
+      "type": "domain",
+      "value": "kozae666.com"
     },
     "krioldflaeara-willow.pro": {
       "confidence": 0.8,
@@ -66117,22 +66353,6 @@
       "type": "domain",
       "value": "nxsugrsw.cn"
     },
-    "nyqxa4.scienceontheweb.net": {
-      "confidence": 0.75,
-      "date": "2026-09-28 00:30:38",
-      "enriched_at": "2026-09-28T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "kimsuky",
-        "apt",
-        "dprk"
-      ],
-      "summary": "Kimsuky APT infrastructure using GitHub accounts and fake web shop domains for attachment exfiltration.",
-      "threat_type": "other",
-      "tweet_id": "2104368146878693602",
-      "type": "domain",
-      "value": "nyqxa4.scienceontheweb.net"
-    },
     "o6rtgcjdjqyimjxexpejddhdfbehsjn4fcsazfkgwydeb27gqhtdntyd.onion": {
       "confidence": 0.85,
       "date": "2026-09-29 17:01:03",
@@ -67771,22 +67991,6 @@
       "tweet_id": "2107804609066782864",
       "type": "domain",
       "value": "plbkm.cn"
-    },
-    "plymouthjraba-jp.com": {
-      "confidence": 0.5,
-      "date": "2026-09-27 23:14:40",
-      "enriched_at": "2026-09-28T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Japan's e-Tax service distributed via multiple fake domains, sample on VirusTotal.",
-      "threat_type": "phishing",
-      "tweet_id": "2104349031929688510",
-      "type": "domain",
-      "value": "plymouthjraba-jp.com"
     },
     "pnalumni.dgitd.anchorbolnorth.com": {
       "confidence": 0.85,
@@ -70532,6 +70736,20 @@
       "type": "domain",
       "value": "rosaehessfrzimbra.vercel.app"
     },
+    "roujizaixian.com": {
+      "confidence": 0.6,
+      "date": "2026-10-27 19:17:23",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious '106sms.zip' payload hosted on kongzaixian.com, with related domains kozae666.com and roujizaixian.com flagged as FUD.",
+      "threat_type": "malware",
+      "tweet_id": "2115160953675522367",
+      "type": "domain",
+      "value": "roujizaixian.com"
+    },
     "rpc-framework-check.cfd": {
       "confidence": 0.9,
       "date": "2026-10-08 14:48:18",
@@ -72383,20 +72601,6 @@
       "type": "domain",
       "value": "skididks.com"
     },
-    "slaughterandmay.ssosettings.com": {
-      "confidence": 0.5,
-      "date": "2026-09-27 19:41:21",
-      "enriched_at": "2026-09-28T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New brand-impersonation phishing domain spoofing UK law firm Slaughter and May, linked to threat actor UNC6671.",
-      "threat_type": "phishing",
-      "tweet_id": "2104295349120819626",
-      "type": "domain",
-      "value": "slaughterandmay.ssosettings.com"
-    },
     "smaluf.net": {
       "confidence": 0.45,
       "date": "2026-10-22 19:16:21",
@@ -72897,20 +73101,6 @@
       "tweet_id": "2108456810562859042",
       "type": "domain",
       "value": "sso-808526.gmo-aozora.app"
-    },
-    "ssosettings.com": {
-      "confidence": 0.65,
-      "date": "2026-09-27 20:01:59",
-      "enriched_at": "2026-10-26T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "UNC6671 activity: nine brand-referencing hosts under ssosettings[.]com, four of them referencing legal or alternative-investment firms.",
-      "threat_type": "phishing",
-      "tweet_id": "2104300538376651256",
-      "type": "domain",
-      "value": "ssosettings.com"
     },
     "ssossossosss.duckdns.org": {
       "confidence": 0.7,
@@ -75914,6 +76104,23 @@
       "type": "domain",
       "value": "thedentalsuite.com.au"
     },
+    "thedragonson-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-10-27 23:54:22",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware disguised as Japan's e-Tax service, distributed via a phishing site with an associated malicious APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2115230659610550646",
+      "type": "domain",
+      "value": "thedragonson-jp.com"
+    },
     "thefishguid-jp.com": {
       "confidence": 0.8,
       "date": "2026-10-05 23:45:10",
@@ -76048,6 +76255,20 @@
       "tweet_id": "2112879577307447551",
       "type": "domain",
       "value": "theworkshop-sign.skin"
+    },
+    "third-party.com": {
+      "confidence": 0.4,
+      "date": "2026-09-29 15:52:37",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix"
+      ],
+      "summary": "Korean blog analysis of ClickFix attacks mentioning example domain third-party.com in developer documentation; likely not malicious.",
+      "threat_type": "other",
+      "tweet_id": "2104962559870943710",
+      "type": "domain",
+      "value": "third-party.com"
     },
     "thiswoodeno.com": {
       "confidence": 0.88,
@@ -76730,22 +76951,6 @@
       "type": "domain",
       "value": "tutorial.webapi-whatsapp.com"
     },
-    "tvzc49.sportsontheweb.net": {
-      "confidence": 0.75,
-      "date": "2026-09-28 00:30:38",
-      "enriched_at": "2026-09-28T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "kimsuky",
-        "apt",
-        "dprk"
-      ],
-      "summary": "Kimsuky APT infrastructure using GitHub accounts and fake web shop domains for attachment exfiltration.",
-      "threat_type": "other",
-      "tweet_id": "2104368146878693602",
-      "type": "domain",
-      "value": "tvzc49.sportsontheweb.net"
-    },
     "tw3-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -77173,22 +77378,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "upload.webstatici-whatsapp.com"
-    },
-    "urfaisdunyasi-jp.com": {
-      "confidence": 0.5,
-      "date": "2026-09-27 23:14:40",
-      "enriched_at": "2026-09-28T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Japan's e-Tax service distributed via multiple fake domains, sample on VirusTotal.",
-      "threat_type": "phishing",
-      "tweet_id": "2104349031929688510",
-      "type": "domain",
-      "value": "urfaisdunyasi-jp.com"
     },
     "us06webzoomus2fj2f830440905293.com": {
       "confidence": 0.8,
@@ -80028,6 +80217,20 @@
       "type": "url",
       "value": "https://wudaksldas.com/point/download/"
     },
+    "wumingcccv.com": {
+      "confidence": 0.5,
+      "date": "2026-10-27 21:56:48",
+      "enriched_at": "2026-10-28T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Domain associated with a malware campaign delivering a RAR archive sample.",
+      "threat_type": "malware",
+      "tweet_id": "2115201071702323314",
+      "type": "domain",
+      "value": "wumingcccv.com"
+    },
     "wuzheshijue.cyou": {
       "confidence": 0.85,
       "date": "2026-10-21 12:16:59",
@@ -82579,6 +82782,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-27T18:40:03Z",
+  "generated_at": "2026-10-28T00:40:04Z",
   "window_days": 30
 }
