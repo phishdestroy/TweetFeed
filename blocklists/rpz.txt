@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2358
-; Updated: 2026-10-28T08:15:22Z
+; Entries: 2367
+; Updated: 2026-10-28T08:45:21Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793175322 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793177121 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1018,6 +1018,8 @@ clientcdn-whatsapp.com CNAME .
 *.clientcdn-whatsapp.com CNAME .
 clientweb-whatsapp.com CNAME .
 *.clientweb-whatsapp.com CNAME .
+cloamenastraone.click CNAME .
+*.cloamenastraone.click CNAME .
 cloud.repeatcarrental.com CNAME .
 *.cloud.repeatcarrental.com CNAME .
 cloudapi-whatsapp.com CNAME .
@@ -1052,6 +1054,8 @@ cloudsec-whatsapp.com CNAME .
 *.cloudsec-whatsapp.com CNAME .
 clouzenterpr.com CNAME .
 *.clouzenterpr.com CNAME .
+cluniacvexazai.click CNAME .
+*.cluniacvexazai.click CNAME .
 cmail-geogle.com CNAME .
 *.cmail-geogle.com CNAME .
 cmfbi.cn CNAME .
@@ -1068,12 +1072,22 @@ cnyoaz.cn CNAME .
 *.cnyoaz.cn CNAME .
 cobrastealer.cool CNAME .
 *.cobrastealer.cool CNAME .
+coclelabs.click CNAME .
+*.coclelabs.click CNAME .
 cocojambo.us.com CNAME .
 *.cocojambo.us.com CNAME .
+coctionbit.click CNAME .
+*.coctionbit.click CNAME .
 cocuktekstil.com CNAME .
 *.cocuktekstil.com CNAME .
 codehub-whatsapp.com CNAME .
 *.codehub-whatsapp.com CNAME .
+codeinashift.click CNAME .
+*.codeinashift.click CNAME .
+cognovitevo.click CNAME .
+*.cognovitevo.click CNAME .
+cohuestack.click CNAME .
+*.cohuestack.click CNAME .
 coinbase.ruhzy.top CNAME .
 *.coinbase.ruhzy.top CNAME .
 coingateai.com CNAME .
@@ -3574,6 +3588,8 @@ sghua.cn CNAME .
 *.sghua.cn CNAME .
 shadowemberstrike.top CNAME .
 *.shadowemberstrike.top CNAME .
+shamswilliams.com CNAME .
+*.shamswilliams.com CNAME .
 shanxinsawe-jp.com CNAME .
 *.shanxinsawe-jp.com CNAME .
 share-adminsimple.s3.eu-west-2.amazonaws.com CNAME .
@@ -4540,6 +4556,8 @@ xasltqmhggfw-jp.com CNAME .
 *.xasltqmhggfw-jp.com CNAME .
 xaz2.com CNAME .
 *.xaz2.com CNAME .
+xboxtelemetry-defender.cc CNAME .
+*.xboxtelemetry-defender.cc CNAME .
 xbxj1.top CNAME .
 *.xbxj1.top CNAME .
 xenseyu.com CNAME .
