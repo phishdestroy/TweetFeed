@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2375
-; Updated: 2026-10-28T13:30:24Z
+; Entries: 2381
+; Updated: 2026-10-28T14:00:26Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793194224 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793196026 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -140,6 +140,8 @@ account-icloud.hnxledu.com CNAME .
 *.account-icloud.hnxledu.com CNAME .
 account-icloud.mcjzy.com CNAME .
 *.account-icloud.mcjzy.com CNAME .
+account.payoneer.com CNAME .
+*.account.payoneer.com CNAME .
 account.webapi-whatsapp.com CNAME .
 *.account.webapi-whatsapp.com CNAME .
 account.webstatici-whatsapp.com CNAME .
@@ -296,6 +298,8 @@ anj-whatsapp.com CNAME .
 *.anj-whatsapp.com CNAME .
 anqbsss.cn CNAME .
 *.anqbsss.cn CNAME .
+anthropic.rsvpconnect-events.com CNAME .
+*.anthropic.rsvpconnect-events.com CNAME .
 antibot-linkedin.com CNAME .
 *.antibot-linkedin.com CNAME .
 ants.redirecthelp.com CNAME .
@@ -3142,6 +3146,8 @@ posupdate.zip CNAME .
 *.posupdate.zip CNAME .
 poyanercold.top CNAME .
 *.poyanercold.top CNAME .
+pregnantkha-jp.com CNAME .
+*.pregnantkha-jp.com CNAME .
 preparationguru.com CNAME .
 *.preparationguru.com CNAME .
 presanis.com CNAME .
@@ -3326,6 +3332,8 @@ reg.v-panel.asia CNAME .
 *.reg.v-panel.asia CNAME .
 regex-whatsapp.com CNAME .
 *.regex-whatsapp.com CNAME .
+register.rsvpconnect-events.com CNAME .
+*.register.rsvpconnect-events.com CNAME .
 register.webapi-whatsapp.com CNAME .
 *.register.webapi-whatsapp.com CNAME .
 relay-whatsapp.com CNAME .
@@ -3414,6 +3422,8 @@ rpc-framework-check.cfd CNAME .
 *.rpc-framework-check.cfd CNAME .
 rqszsx.cn CNAME .
 *.rqszsx.cn CNAME .
+rsvpconnect-events.com CNAME .
+*.rsvpconnect-events.com CNAME .
 rthvrq.cc CNAME .
 *.rthvrq.cc CNAME .
 ru.webhwsapp-whatsapp.com CNAME .
@@ -4206,6 +4216,8 @@ upload.webstatici-whatsapp.com CNAME .
 *.upload.webstatici-whatsapp.com CNAME .
 us06webzoomus2fj2f830440905293.com CNAME .
 *.us06webzoomus2fj2f830440905293.com CNAME .
+us968web-zoom.us CNAME .
+*.us968web-zoom.us CNAME .
 usdt.sftlr.com CNAME .
 *.usdt.sftlr.com CNAME .
 usdts1.icu CNAME .

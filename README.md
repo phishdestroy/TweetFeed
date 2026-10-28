@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-28 13:45:20 (UTC)</th>
+        <th colspan=4>2026-10-28 14:00:27 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 55 | 584 | 2913 | 45688 |
-| **:globe_with_meridians: Domains** | 40 | 453 | 2461 | 39470 |
+| **:link: URLs** | 61 | 590 | 2919 | 45694 |
+| **:globe_with_meridians: Domains** | 46 | 459 | 2467 | 39476 |
 | **:triangular_flag_on_post: IPs** | 12 | 147 | 2103 | 7835 |
-| **:1234: SHA256** | 11 | 107 | 433 | 2996 |
+| **:1234: SHA256** | 12 | 108 | 434 | 2997 |
 | **:1234: MD5** | 3 | 31 | 83 | 2091 |
 
 </div>
@@ -205,10 +205,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 44 | 316 | 3416 | 34464 |
+| **#phishing** | 57 | 329 | 3429 | 34477 |
 | **#Kimsuky** | 0 | 0 | 40 | 13317 |
 | **#DPRK** | 0 | 0 | 5 | 11669 |
-| **#malware** | 0 | 528 | 1144 | 4038 |
+| **#malware** | 3 | 531 | 1147 | 4041 |
 | **#scam** | 0 | 8 | 48 | 3443 |
 | **#C2** | 0 | 33 | 113 | 2215 |
 | **#APT** | 0 | 4 | 37 | 1493 |
@@ -233,13 +233,13 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [smica83](https://x.com/smica83) | 20 |
 | **#2** | [tdatwja](https://x.com/tdatwja) | 18 |
 | **#3** | [Malwarehunterr](https://x.com/Malwarehunterr) | 16 |
-| **#4** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 13 |
-| **#5** | [patialavii](https://x.com/patialavii) | 12 |
-| **#6** | [masaomi346](https://x.com/masaomi346) | 10 |
+| **#4** | [masaomi346](https://x.com/masaomi346) | 13 |
+| **#5** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 13 |
+| **#6** | [patialavii](https://x.com/patialavii) | 12 |
 | **#7** | [bomccss](https://x.com/bomccss) | 10 |
-| **#8** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
-| **#9** | [skocherhan](https://x.com/skocherhan) | 5 |
-| **#10** | [scanmalware](https://x.com/scanmalware) | 4 |
+| **#8** | [anyrun_app](https://x.com/anyrun_app) | 8 |
+| **#9** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
+| **#10** | [skocherhan](https://x.com/skocherhan) | 5 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
