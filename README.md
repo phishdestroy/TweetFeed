@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-28 15:15:19 (UTC)</th>
+        <th colspan=4>2026-10-28 15:30:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 62 | 591 | 2920 | 45695 |
-| **:globe_with_meridians: Domains** | 46 | 459 | 2467 | 39476 |
+| **:link: URLs** | 64 | 593 | 2922 | 45697 |
+| **:globe_with_meridians: Domains** | 48 | 461 | 2469 | 39478 |
 | **:triangular_flag_on_post: IPs** | 13 | 148 | 2104 | 7836 |
-| **:1234: SHA256** | 12 | 108 | 434 | 2997 |
+| **:1234: SHA256** | 13 | 109 | 435 | 2998 |
 | **:1234: MD5** | 4 | 32 | 84 | 2092 |
 
 </div>
@@ -237,9 +237,9 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#5** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 13 |
 | **#6** | [patialavii](https://x.com/patialavii) | 12 |
 | **#7** | [bomccss](https://x.com/bomccss) | 10 |
-| **#8** | [anyrun_app](https://x.com/anyrun_app) | 8 |
-| **#9** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
-| **#10** | [skocherhan](https://x.com/skocherhan) | 5 |
+| **#8** | [skocherhan](https://x.com/skocherhan) | 10 |
+| **#9** | [anyrun_app](https://x.com/anyrun_app) | 8 |
+| **#10** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
