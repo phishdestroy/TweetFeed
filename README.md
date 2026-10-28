@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-28 08:00:28 (UTC)</th>
+        <th colspan=4>2026-10-28 08:15:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 21 | 550 | 2879 | 45654 |
-| **:globe_with_meridians: Domains** | 20 | 433 | 2441 | 39450 |
-| **:triangular_flag_on_post: IPs** | 1 | 136 | 2092 | 7824 |
-| **:1234: SHA256** | 2 | 98 | 424 | 2987 |
+| **:link: URLs** | 28 | 557 | 2886 | 45661 |
+| **:globe_with_meridians: Domains** | 22 | 435 | 2443 | 39452 |
+| **:triangular_flag_on_post: IPs** | 3 | 138 | 2094 | 7826 |
+| **:1234: SHA256** | 3 | 99 | 425 | 2988 |
 | **:1234: MD5** | 2 | 30 | 82 | 2090 |
 
 </div>
@@ -233,10 +233,10 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [tdatwja](https://x.com/tdatwja) | 18 |
 | **#2** | [patialavii](https://x.com/patialavii) | 12 |
 | **#3** | [masaomi346](https://x.com/masaomi346) | 10 |
-| **#4** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#5** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#6** | [-](https://x.com/-) | 0 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#4** | [bomccss](https://x.com/bomccss) | 10 |
+| **#5** | [scanmalware](https://x.com/scanmalware) | 4 |
+| **#6** | [PhishStats](https://x.com/PhishStats) | 2 |
+| **#7** | [skocherhan](https://x.com/skocherhan) | 2 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |

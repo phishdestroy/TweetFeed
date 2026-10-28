@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2356
-; Updated: 2026-10-28T06:45:20Z
+; Entries: 2358
+; Updated: 2026-10-28T08:15:22Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793169920 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793175322 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2684,6 +2684,8 @@ mgxyuko.xyz CNAME .
 *.mgxyuko.xyz CNAME .
 mhtqk.cn CNAME .
 *.mhtqk.cn CNAME .
+microsoft-telemetry.at CNAME .
+*.microsoft-telemetry.at CNAME .
 microsoftcloudverification.com CNAME .
 *.microsoftcloudverification.com CNAME .
 mikoblico.xyz CNAME .
@@ -4556,6 +4558,8 @@ xionamiconm.com CNAME .
 *.xionamiconm.com CNAME .
 xiyuegongju-jp.com CNAME .
 *.xiyuegongju-jp.com CNAME .
+xn--38j8b560qz6d6qa93nq89c.zip CNAME .
+*.xn--38j8b560qz6d6qa93nq89c.zip CNAME .
 xn--a-5tba68c8d.com CNAME .
 *.xn--a-5tba68c8d.com CNAME .
 xn--nie-g6a.com CNAME .
