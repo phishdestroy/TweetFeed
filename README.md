@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-28 19:30:21 (UTC)</th>
+        <th colspan=4>2026-10-28 19:45:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 79 | 608 | 2937 | 45712 |
-| **:globe_with_meridians: Domains** | 59 | 472 | 2480 | 39489 |
+| **:link: URLs** | 90 | 619 | 2948 | 45723 |
+| **:globe_with_meridians: Domains** | 70 | 483 | 2491 | 39500 |
 | **:triangular_flag_on_post: IPs** | 16 | 150 | 2106 | 7838 |
 | **:1234: SHA256** | 14 | 110 | 436 | 2999 |
 | **:1234: MD5** | 13 | 41 | 93 | 2101 |
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 63 | 335 | 3435 | 34483 |
+| **#phishing** | 85 | 357 | 3457 | 34505 |
 | **#Kimsuky** | 2 | 2 | 42 | 13319 |
 | **#DPRK** | 0 | 0 | 5 | 11669 |
 | **#malware** | 5 | 533 | 1149 | 4043 |
@@ -231,14 +231,14 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 30 |
-| **#2** | [Malwarehunterr](https://x.com/Malwarehunterr) | 24 |
-| **#3** | [smica83](https://x.com/smica83) | 21 |
-| **#4** | [tdatwja](https://x.com/tdatwja) | 18 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 13 |
-| **#6** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 13 |
-| **#7** | [patialavii](https://x.com/patialavii) | 12 |
-| **#8** | [bomccss](https://x.com/bomccss) | 10 |
-| **#9** | [skocherhan](https://x.com/skocherhan) | 10 |
+| **#2** | [skocherhan](https://x.com/skocherhan) | 28 |
+| **#3** | [Malwarehunterr](https://x.com/Malwarehunterr) | 28 |
+| **#4** | [smica83](https://x.com/smica83) | 21 |
+| **#5** | [tdatwja](https://x.com/tdatwja) | 18 |
+| **#6** | [masaomi346](https://x.com/masaomi346) | 13 |
+| **#7** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 13 |
+| **#8** | [patialavii](https://x.com/patialavii) | 12 |
+| **#9** | [bomccss](https://x.com/bomccss) | 10 |
 | **#10** | [anyrun_app](https://x.com/anyrun_app) | 8 |
 <!-- TOP_REPORTERS_END -->
 
