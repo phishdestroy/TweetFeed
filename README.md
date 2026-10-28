@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-28 13:15:19 (UTC)</th>
+        <th colspan=4>2026-10-28 13:30:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 54 | 583 | 2912 | 45687 |
-| **:globe_with_meridians: Domains** | 39 | 452 | 2460 | 39469 |
+| **:link: URLs** | 55 | 584 | 2913 | 45688 |
+| **:globe_with_meridians: Domains** | 40 | 453 | 2461 | 39470 |
 | **:triangular_flag_on_post: IPs** | 11 | 146 | 2102 | 7834 |
 | **:1234: SHA256** | 11 | 107 | 433 | 2996 |
 | **:1234: MD5** | 3 | 31 | 83 | 2091 |
@@ -237,9 +237,9 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#5** | [patialavii](https://x.com/patialavii) | 12 |
 | **#6** | [masaomi346](https://x.com/masaomi346) | 10 |
 | **#7** | [bomccss](https://x.com/bomccss) | 10 |
-| **#8** | [skocherhan](https://x.com/skocherhan) | 5 |
-| **#9** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#10** | [phishunt_io](https://x.com/phishunt_io) | 4 |
+| **#8** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
+| **#9** | [skocherhan](https://x.com/skocherhan) | 5 |
+| **#10** | [scanmalware](https://x.com/scanmalware) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
