@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-28 14:00:27 (UTC)</th>
+        <th colspan=4>2026-10-28 14:15:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -192,7 +192,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **:globe_with_meridians: Domains** | 46 | 459 | 2467 | 39476 |
 | **:triangular_flag_on_post: IPs** | 12 | 147 | 2103 | 7835 |
 | **:1234: SHA256** | 12 | 108 | 434 | 2997 |
-| **:1234: MD5** | 3 | 31 | 83 | 2091 |
+| **:1234: MD5** | 4 | 32 | 84 | 2092 |
 
 </div>
 
@@ -214,7 +214,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#APT** | 0 | 4 | 37 | 1493 |
 | **#ClickFix** | 0 | 75 | 287 | 1113 |
 | **#opendir** | 0 | 2 | 38 | 707 |
-| **#ransomware** | 4 | 16 | 101 | 691 |
+| **#ransomware** | 5 | 17 | 102 | 692 |
 <!-- TAG_TABLE_END -->
 
 These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tags being matched. Every one of them is queryable through the [API](#gear-programmatic-access) and has its own [RSS feed](https://tweetfeed.live/rss/tag/phishing.xml); the highest-volume ones also get a curated landing page at [tweetfeed.live/tags/](https://tweetfeed.live/tags/).
