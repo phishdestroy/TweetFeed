@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-28 21:15:17 (UTC)</th>
+        <th colspan=4>2026-10-28 21:30:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,7 +188,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 93 | 622 | 2951 | 45726 |
+| **:link: URLs** | 94 | 623 | 2952 | 45727 |
 | **:globe_with_meridians: Domains** | 72 | 485 | 2493 | 39502 |
 | **:triangular_flag_on_post: IPs** | 16 | 150 | 2106 | 7838 |
 | **:1234: SHA256** | 18 | 114 | 440 | 3003 |
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 85 | 357 | 3457 | 34505 |
+| **#phishing** | 86 | 358 | 3458 | 34506 |
 | **#Kimsuky** | 2 | 2 | 42 | 13319 |
 | **#DPRK** | 0 | 0 | 5 | 11669 |
 | **#malware** | 5 | 533 | 1149 | 4043 |
