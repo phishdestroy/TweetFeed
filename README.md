@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-28 10:45:18 (UTC)</th>
+        <th colspan=4>2026-10-28 11:00:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 48 | 577 | 2906 | 45681 |
-| **:globe_with_meridians: Domains** | 38 | 451 | 2459 | 39468 |
-| **:triangular_flag_on_post: IPs** | 6 | 141 | 2097 | 7829 |
-| **:1234: SHA256** | 7 | 103 | 429 | 2992 |
+| **:link: URLs** | 51 | 580 | 2909 | 45684 |
+| **:globe_with_meridians: Domains** | 39 | 452 | 2460 | 39469 |
+| **:triangular_flag_on_post: IPs** | 8 | 143 | 2099 | 7831 |
+| **:1234: SHA256** | 9 | 105 | 431 | 2994 |
 | **:1234: MD5** | 2 | 30 | 82 | 2090 |
 
 </div>
@@ -232,11 +232,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [tdatwja](https://x.com/tdatwja) | 18 |
 | **#2** | [Malwarehunterr](https://x.com/Malwarehunterr) | 16 |
-| **#3** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 13 |
-| **#4** | [patialavii](https://x.com/patialavii) | 12 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 10 |
-| **#6** | [bomccss](https://x.com/bomccss) | 10 |
-| **#7** | [smica83](https://x.com/smica83) | 10 |
+| **#3** | [smica83](https://x.com/smica83) | 16 |
+| **#4** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 13 |
+| **#5** | [patialavii](https://x.com/patialavii) | 12 |
+| **#6** | [masaomi346](https://x.com/masaomi346) | 10 |
+| **#7** | [bomccss](https://x.com/bomccss) | 10 |
 | **#8** | [scanmalware](https://x.com/scanmalware) | 4 |
 | **#9** | [skocherhan](https://x.com/skocherhan) | 4 |
 | **#10** | [PhishStats](https://x.com/PhishStats) | 2 |
