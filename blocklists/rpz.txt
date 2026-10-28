@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2353
-; Updated: 2026-10-28T06:15:18Z
+; Entries: 2356
+; Updated: 2026-10-28T06:45:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793168118 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793169920 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2228,6 +2228,8 @@ ios.webapi-whatsapp.com CNAME .
 *.ios.webapi-whatsapp.com CNAME .
 iphonelocatorpro.com CNAME .
 *.iphonelocatorpro.com CNAME .
+ipqmdqzxnsfxqfc.zip CNAME .
+*.ipqmdqzxnsfxqfc.zip CNAME .
 ips-whatsapp.com CNAME .
 *.ips-whatsapp.com CNAME .
 ipv6.meet-google.live CNAME .
@@ -2360,6 +2362,8 @@ kfgwq34.cn CNAME .
 *.kfgwq34.cn CNAME .
 kid-whatsapp.com CNAME .
 *.kid-whatsapp.com CNAME .
+kihneatpyhqcs.zip CNAME .
+*.kihneatpyhqcs.zip CNAME .
 kikicloud.es CNAME .
 *.kikicloud.es CNAME .
 kitapi-whatsapp.com CNAME .
@@ -4476,6 +4480,8 @@ willkie.myssologin.com CNAME .
 *.willkie.myssologin.com CNAME .
 win-5nadl1jm5uv.tail84c20e.ts.net CNAME .
 *.win-5nadl1jm5uv.tail84c20e.ts.net CNAME .
+win10pc.oss-cn-hongkong.aliyuncs.com CNAME .
+*.win10pc.oss-cn-hongkong.aliyuncs.com CNAME .
 winatp-gw-neu-cdfwbue5cvdsfpa5.a02.azurefd.net CNAME .
 *.winatp-gw-neu-cdfwbue5cvdsfpa5.a02.azurefd.net CNAME .
 windows.webapi-whatsapp.com CNAME .
