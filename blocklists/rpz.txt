@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2337
-; Updated: 2026-10-28T00:15:19Z
+; Entries: 2338
+; Updated: 2026-10-28T03:00:25Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793146519 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793156425 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3184,6 +3184,8 @@ pub-313b636324fd4678a4a5d96493f238eb.r2.dev CNAME .
 *.pub-313b636324fd4678a4a5d96493f238eb.r2.dev CNAME .
 pub-34800083ccc34975a9f4455a9e48b9a7.r2.dev CNAME .
 *.pub-34800083ccc34975a9f4455a9e48b9a7.r2.dev CNAME .
+pub-3f84de9aa4f04824a3cf79d4adea59cb.r2.dev CNAME .
+*.pub-3f84de9aa4f04824a3cf79d4adea59cb.r2.dev CNAME .
 pub-614b6a8544664ad7845f0c49488560a3.r2.dev CNAME .
 *.pub-614b6a8544664ad7845f0c49488560a3.r2.dev CNAME .
 pub-780cf773478848a69b30738c3423d481.r2.dev CNAME .
