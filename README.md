@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-28 11:45:21 (UTC)</th>
+        <th colspan=4>2026-10-28 12:00:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 52 | 581 | 2910 | 45685 |
+| **:link: URLs** | 53 | 582 | 2911 | 45686 |
 | **:globe_with_meridians: Domains** | 39 | 452 | 2460 | 39469 |
-| **:triangular_flag_on_post: IPs** | 9 | 144 | 2100 | 7832 |
-| **:1234: SHA256** | 10 | 106 | 432 | 2995 |
+| **:triangular_flag_on_post: IPs** | 10 | 145 | 2101 | 7833 |
+| **:1234: SHA256** | 11 | 107 | 433 | 2996 |
 | **:1234: MD5** | 3 | 31 | 83 | 2091 |
 
 </div>
@@ -230,8 +230,8 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [tdatwja](https://x.com/tdatwja) | 18 |
-| **#2** | [smica83](https://x.com/smica83) | 17 |
+| **#1** | [smica83](https://x.com/smica83) | 20 |
+| **#2** | [tdatwja](https://x.com/tdatwja) | 18 |
 | **#3** | [Malwarehunterr](https://x.com/Malwarehunterr) | 16 |
 | **#4** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 13 |
 | **#5** | [patialavii](https://x.com/patialavii) | 12 |
