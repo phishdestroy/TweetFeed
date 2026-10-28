@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-28 18:30:22 (UTC)</th>
+        <th colspan=4>2026-10-28 18:45:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,11 +188,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 66 | 595 | 2924 | 45699 |
-| **:globe_with_meridians: Domains** | 50 | 463 | 2471 | 39480 |
-| **:triangular_flag_on_post: IPs** | 13 | 147 | 2103 | 7835 |
+| **:link: URLs** | 77 | 606 | 2935 | 45710 |
+| **:globe_with_meridians: Domains** | 57 | 470 | 2478 | 39487 |
+| **:triangular_flag_on_post: IPs** | 16 | 150 | 2106 | 7838 |
 | **:1234: SHA256** | 14 | 110 | 436 | 2999 |
-| **:1234: MD5** | 4 | 32 | 84 | 2092 |
+| **:1234: MD5** | 13 | 41 | 93 | 2101 |
 
 </div>
 
@@ -230,16 +230,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [smica83](https://x.com/smica83) | 21 |
-| **#2** | [Malwarehunterr](https://x.com/Malwarehunterr) | 20 |
-| **#3** | [tdatwja](https://x.com/tdatwja) | 18 |
-| **#4** | [masaomi346](https://x.com/masaomi346) | 13 |
-| **#5** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 13 |
-| **#6** | [patialavii](https://x.com/patialavii) | 12 |
-| **#7** | [bomccss](https://x.com/bomccss) | 10 |
-| **#8** | [skocherhan](https://x.com/skocherhan) | 10 |
-| **#9** | [anyrun_app](https://x.com/anyrun_app) | 8 |
-| **#10** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
+| **#1** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 30 |
+| **#2** | [smica83](https://x.com/smica83) | 21 |
+| **#3** | [Malwarehunterr](https://x.com/Malwarehunterr) | 20 |
+| **#4** | [tdatwja](https://x.com/tdatwja) | 18 |
+| **#5** | [masaomi346](https://x.com/masaomi346) | 13 |
+| **#6** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 13 |
+| **#7** | [patialavii](https://x.com/patialavii) | 12 |
+| **#8** | [bomccss](https://x.com/bomccss) | 10 |
+| **#9** | [skocherhan](https://x.com/skocherhan) | 10 |
+| **#10** | [anyrun_app](https://x.com/anyrun_app) | 8 |
 <!-- TOP_REPORTERS_END -->
 
 </div>

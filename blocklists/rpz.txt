@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2385
-; Updated: 2026-10-28T18:15:18Z
+; Entries: 2392
+; Updated: 2026-10-28T18:45:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793211318 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793213119 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -36,6 +36,8 @@ $TTL 300
 *.181818data1.icu CNAME .
 1874912064.cyou CNAME .
 *.1874912064.cyou CNAME .
+1960.ef4x.com CNAME .
+*.1960.ef4x.com CNAME .
 1dyorzi7.xyz CNAME .
 *.1dyorzi7.xyz CNAME .
 2008377162.cfd CNAME .
@@ -134,6 +136,8 @@ accoun.nyrwhax.cn CNAME .
 *.accoun.nyrwhax.cn CNAME .
 accoun.omnwpws.cn CNAME .
 *.accoun.omnwpws.cn CNAME .
+account-booking.vercel.app CNAME .
+*.account-booking.vercel.app CNAME .
 account-icloud.cquup.com CNAME .
 *.account-icloud.cquup.com CNAME .
 account-icloud.hnxledu.com CNAME .
@@ -1404,6 +1408,8 @@ dongphucasian.com CNAME .
 *.dongphucasian.com CNAME .
 dont-lose-ur-shit.whitelist.run CNAME .
 *.dont-lose-ur-shit.whitelist.run CNAME .
+download-files.wixmp.com CNAME .
+*.download-files.wixmp.com CNAME .
 download.sakenlogistics.com CNAME .
 *.download.sakenlogistics.com CNAME .
 download.tender-confirmation.com CNAME .
@@ -2124,6 +2130,10 @@ hostly-whatsapp.com CNAME .
 *.hostly-whatsapp.com CNAME .
 hostpush-whatsapp.com CNAME .
 *.hostpush-whatsapp.com CNAME .
+hotelalloldnewfinal.gptjailbreak.net CNAME .
+*.hotelalloldnewfinal.gptjailbreak.net CNAME .
+hotelnov26.blogspot.com CNAME .
+*.hotelnov26.blogspot.com CNAME .
 howto.webapi-whatsapp.com CNAME .
 *.howto.webapi-whatsapp.com CNAME .
 httpapi-whatsapp.com CNAME .
@@ -2720,6 +2730,8 @@ milliontv.sbs CNAME .
 *.milliontv.sbs CNAME .
 mimori.group CNAME .
 *.mimori.group CNAME .
+mineiicancry10june2026w2limilim.blogspot.com CNAME .
+*.mineiicancry10june2026w2limilim.blogspot.com CNAME .
 minha-maga-online.com CNAME .
 *.minha-maga-online.com CNAME .
 miricanvas.com CNAME .
@@ -2920,6 +2932,8 @@ nosqldb-whatsapp.com CNAME .
 *.nosqldb-whatsapp.com CNAME .
 novametalinc.com CNAME .
 *.novametalinc.com CNAME .
+novhotellogs.aclobe.me CNAME .
+*.novhotellogs.aclobe.me CNAME .
 nozazisoda.z11.web.core.windows.net CNAME .
 *.nozazisoda.z11.web.core.windows.net CNAME .
 nqxweb-whatsapp.com CNAME .

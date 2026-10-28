@@ -1,10 +1,6 @@
 {
-  "count": 5926,
+  "count": 5936,
   "dead_tweets": {
-    "2101923416521728224": {
-      "attempts": 1,
-      "last_attempt": "2026-10-21T18:40:04Z"
-    },
     "2103019418859053423": {
       "attempts": 2,
       "last_attempt": "2026-10-24T18:40:03Z"
@@ -3932,6 +3928,20 @@
       "type": "domain",
       "value": "1120hjl.top"
     },
+    "112159f69ff2f3fdd0b4869c40cb904e": {
+      "confidence": 0.9,
+      "date": "2026-10-28 14:06:59",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": "BicaruMWare",
+      "suggested_tags": [
+        "ransomware"
+      ],
+      "summary": "BicaruMWare ransomware sample encrypting files with .bicaru extension; Italian ransom note and screen locker.",
+      "threat_type": "ransomware",
+      "tweet_id": "2115445225057661125",
+      "type": "md5",
+      "value": "112159f69ff2f3fdd0b4869c40cb904e"
+    },
     "113.212.111.204": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -6592,20 +6602,6 @@
       "tweet_id": "2108207867446648928",
       "type": "ip",
       "value": "138.199.248.47"
-    },
-    "138.28.234.38": {
-      "confidence": 0.6,
-      "date": "2026-09-28 15:32:21",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "interactsh"
-      ],
-      "summary": "Citrix NetScaler decoys observing exploitation of an unauth RCE via log poisoning with DNS out-of-band callback to httpworkbench.com from 138.28.234.38.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2104595071362326680",
-      "type": "url",
-      "value": "http://138.28.234.38"
     },
     "138.3.211.255": {
       "confidence": 0.7,
@@ -9690,20 +9686,6 @@
       "type": "ip",
       "value": "169.58.206.194"
     },
-    "169.58.33.122": {
-      "confidence": 0.7,
-      "date": "2026-09-28 12:52:00",
-      "enriched_at": "2026-09-28T18:40:04Z",
-      "family": "SPECTRE",
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "IP address identified as a SPECTRE C2 panel.",
-      "threat_type": "c2",
-      "tweet_id": "2104554718165127577",
-      "type": "ip",
-      "value": "169.58.33.122"
-    },
     "16a9a0455feeaaf9a60b23b7430852f6d31936da8ebb29d54ca3dc4c15b7da42": {
       "confidence": 0.4,
       "date": "2026-10-26 17:51:59",
@@ -10027,20 +10009,6 @@
       "tweet_id": "2113341322392133833",
       "type": "url",
       "value": "http://172.82.64.48"
-    },
-    "172.86.118.111": {
-      "confidence": 0.5,
-      "date": "2026-09-28 18:03:24",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "IP 172.86.118.111 hosting Metasploit and 'Hermes' Metasploit skills, listed on an open-directory platform.",
-      "threat_type": "other",
-      "tweet_id": "2104633083945205937",
-      "type": "url",
-      "value": "http://172.86.118.111"
     },
     "172.86.125.130": {
       "confidence": 0.85,
@@ -13488,6 +13456,34 @@
       "type": "ip",
       "value": "206.187.222.63"
     },
+    "206.209.210.20": {
+      "confidence": 0.9,
+      "date": "2026-10-28 13:02:36",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Yahoo credential phishing page hosted on an IP at Brookplus (AS215674), Germany.",
+      "threat_type": "phishing",
+      "tweet_id": "2115429024755306699",
+      "type": "ip",
+      "value": "206.209.210.20"
+    },
+    "206.209.210.20/yahoo": {
+      "confidence": 0.9,
+      "date": "2026-10-28 13:02:36",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Yahoo credential phishing page hosted on an IP at Brookplus (AS215674), Germany.",
+      "threat_type": "phishing",
+      "tweet_id": "2115429024755306699",
+      "type": "url",
+      "value": "http://206.209.210.20/yahoo/"
+    },
     "206.238.20.42": {
       "confidence": 0.8,
       "date": "2026-10-01 16:55:39",
@@ -14622,6 +14618,18 @@
       "type": "url",
       "value": "http://23.148.212.237"
     },
+    "23.165.56.186": {
+      "confidence": 0.3,
+      "date": "2026-10-28 13:24:11",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "IP address referenced as a GreyNoise-observed exit node with suspicious activity; no specific threat detailed.",
+      "threat_type": "other",
+      "tweet_id": "2115434453342544293",
+      "type": "ip",
+      "value": "23.165.56.186"
+    },
     "23.226.57.50": {
       "confidence": 0.85,
       "date": "2026-10-12 14:53:38",
@@ -14981,6 +14989,23 @@
       "tweet_id": "2113048191155470346",
       "type": "domain",
       "value": "26etou1.cn"
+    },
+    "27.102.137.57": {
+      "confidence": 0.7,
+      "date": "2026-10-28 15:00:01",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": "Kimsuky",
+      "suggested_tags": [
+        "kimsuky",
+        "apt",
+        "c2",
+        "malware"
+      ],
+      "summary": "IP address tagged as Kimsuky APT C2 infrastructure.",
+      "threat_type": "c2",
+      "tweet_id": "2115458571773034886",
+      "type": "url",
+      "value": "http://27.102.137.57"
     },
     "27.123.253.167": {
       "confidence": 0.5,
@@ -32882,6 +32907,22 @@
       "type": "sha256",
       "value": "878bc868bdb23be276f1fab8a4418a35264439f3344ffaf9404414ab08744782"
     },
+    "879f278b3ecf8341c63e338ff1c91c5eab7dd25d8c6f1dd54f24151b3b71fa51": {
+      "confidence": 0.8,
+      "date": "2026-10-28 13:27:25",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as Japan's e-Tax service, distributed via pregnantkha-jp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2115435268694319148",
+      "type": "sha256",
+      "value": "879f278b3ecf8341c63e338ff1c91c5eab7dd25d8c6f1dd54f24151b3b71fa51"
+    },
     "87ea100452c68e9b7472c69932fee90721bc362bf49a96106bd526b7ac384572": {
       "confidence": 0.55,
       "date": "2026-10-21 11:43:30",
@@ -34402,24 +34443,6 @@
       "type": "sha256",
       "value": "9cf627efefa6927886783915026a92b9ece78aff4952b111f5dcda424be118a0"
     },
-    "9d9f149a0052999587be2078375bb4530b351f3cda1b343c7f81a5d13b02ac45": {
-      "confidence": 0.85,
-      "date": "2026-09-28 13:56:17",
-      "enriched_at": "2026-09-28T18:40:04Z",
-      "family": "Remcos",
-      "suggested_tags": [
-        "remcos",
-        "remcosrat",
-        "opendir",
-        "rat",
-        "c2"
-      ],
-      "summary": "Open directory hosting a (broken) PowerShell Remcos payload at delphiaonline.top, with C2 at a duckdns domain on port 14642.",
-      "threat_type": "malware",
-      "tweet_id": "2104570898124812499",
-      "type": "sha256",
-      "value": "9d9f149a0052999587be2078375bb4530b351f3cda1b343c7f81a5d13b02ac45"
-    },
     "9dc8574843fdb8f0834bcf2c4d3f5b0c122368b925e0d3a5eec07b8f2d9e8db0": {
       "confidence": 0.35,
       "date": "2026-10-20 13:30:33",
@@ -34679,6 +34702,20 @@
       "tweet_id": "2109649861385609321",
       "type": "sha256",
       "value": "a38e6f54efe342b4a2ca9ac4428a5268faed96cd602baa1886efb09f72435abb"
+    },
+    "a3c64998a58595b7a6c2d16db68a767a87c9f3c3eb89784870ce51667a09d15b": {
+      "confidence": 0.4,
+      "date": "2026-10-28 17:03:48",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "ELF sample uploaded to MalwareBazaar; analyst quotes a 'initiating fake crash' message. Family not identified.",
+      "threat_type": "malware",
+      "tweet_id": "2115489721149513931",
+      "type": "sha256",
+      "value": "a3c64998a58595b7a6c2d16db68a767a87c9f3c3eb89784870ce51667a09d15b"
     },
     "a44cad7e7d26a0f0284ceb2e9a10a964d9e7ab44ab74b22464eb2f836af3d90a": {
       "confidence": 0.4,
@@ -35471,6 +35508,34 @@
       "tweet_id": "2107706866210054644",
       "type": "url",
       "value": "https://account-icloud.mcjzy.com/login/"
+    },
+    "account.payoneer.com": {
+      "confidence": 0.6,
+      "date": "2026-10-28 13:27:07",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page on account.payoneer.com path reported by PhishStats, behind Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2115435194249335295",
+      "type": "domain",
+      "value": "account.payoneer.com"
+    },
+    "account.payoneer.com/apps/opalandingpage/?t=2d6d144a88644b7f8785c2432549c853&src=pl": {
+      "confidence": 0.6,
+      "date": "2026-10-28 13:27:07",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page on account.payoneer.com path reported by PhishStats, behind Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2115435194249335295",
+      "type": "url",
+      "value": "https://account.payoneer.com/apps/opalandingpage/?t=2D6D144A88644B7F8785C2432549C853&src=pl"
     },
     "account.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -41448,6 +41513,20 @@
       "tweet_id": "2111248110081224749",
       "type": "url",
       "value": "https://anqbsss.cn/Login/"
+    },
+    "anthropic.rsvpconnect-events.com": {
+      "confidence": 0.9,
+      "date": "2026-10-28 13:30:23",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Event-invite phishing campaign using fake Anthropic and TikTok event pages on rsvpconnect-events.com, targeting business teams (Sept 21 - Oct 26).",
+      "threat_type": "phishing",
+      "tweet_id": "2115436014458081332",
+      "type": "domain",
+      "value": "anthropic.rsvpconnect-events.com"
     },
     "antibot-linkedin.com": {
       "confidence": 0.85,
@@ -50671,24 +50750,6 @@
       "type": "domain",
       "value": "deliversenterprise.com"
     },
-    "delphiaonline.top": {
-      "confidence": 0.85,
-      "date": "2026-09-28 13:56:17",
-      "enriched_at": "2026-09-28T18:40:04Z",
-      "family": "Remcos",
-      "suggested_tags": [
-        "remcos",
-        "remcosrat",
-        "opendir",
-        "rat",
-        "c2"
-      ],
-      "summary": "Open directory hosting a (broken) PowerShell Remcos payload at delphiaonline.top, with C2 at a duckdns domain on port 14642.",
-      "threat_type": "malware",
-      "tweet_id": "2104570898124812499",
-      "type": "domain",
-      "value": "delphiaonline.top"
-    },
     "deploy-whatsapp.com": {
       "confidence": 0.7,
       "date": "2026-10-20 16:34:59",
@@ -54040,23 +54101,6 @@
       "type": "sha256",
       "value": "f620114d205fae0275faabab965db7d6ab47942cee71084d1d6d0fd75265a138"
     },
-    "f634cf73d9541c0c5233e0f05265e0ad": {
-      "confidence": 0.85,
-      "date": "2026-09-28 13:11:58",
-      "enriched_at": "2026-09-28T18:40:04Z",
-      "family": "MioLab",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "MioLab macOS stealer distributed as ScreenMemory_2.5.5.dmg, with C2 at lewokodwqko.icu.",
-      "threat_type": "malware",
-      "tweet_id": "2104559745839579303",
-      "type": "md5",
-      "value": "f634cf73d9541c0c5233e0f05265e0ad"
-    },
     "f641ad3393b5f6ae3185ec897807caf55382793464c6182b03871ceaa7b24cf8": {
       "confidence": 0.6,
       "date": "2026-10-09 09:28:33",
@@ -54070,6 +54114,18 @@
       "tweet_id": "2108489787476672597",
       "type": "sha256",
       "value": "f641ad3393b5f6ae3185ec897807caf55382793464c6182b03871ceaa7b24cf8"
+    },
+    "f69a313141c32546b5267a7fd80e1a4f54f5a883710473704806586d1e32327c": {
+      "confidence": 0.6,
+      "date": "2026-10-28 15:17:23",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Large network of 2,000+ templated Google Custom Search sites; no malicious activity observed in inspected domains.",
+      "threat_type": "other",
+      "tweet_id": "2115462941600276847",
+      "type": "sha256",
+      "value": "f69a313141c32546b5267a7fd80e1a4f54f5a883710473704806586d1e32327c"
     },
     "f7-whatsapp.com": {
       "confidence": 0.75,
@@ -55077,6 +55133,22 @@
       "tweet_id": "2115299371059466631",
       "type": "domain",
       "value": "flhealthlicense.vercel.app"
+    },
+    "flipkarrt-helu-sale.shop": {
+      "confidence": 0.9,
+      "date": "2026-10-28 16:00:41",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam",
+        "opendir"
+      ],
+      "summary": "Fake Flipkart sale site pushing UPI payments via PhonePe/Paytm; open directory exposes folders and php.ini.",
+      "threat_type": "scam",
+      "tweet_id": "2115473838180090231",
+      "type": "domain",
+      "value": "flipkarrt-helu-sale.shop"
     },
     "flispax.digital": {
       "confidence": 0.75,
@@ -58025,6 +58097,18 @@
       "type": "domain",
       "value": "guangrongsuiy-jp.com"
     },
+    "guarda-login.click": {
+      "confidence": 0.5,
+      "date": "2026-10-28 17:51:34",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Cloned Guarda Wallet website (guarda-login.click) replicating branding; source review found no credential harvesting, redirects or exfiltration.",
+      "threat_type": "other",
+      "tweet_id": "2115501744516121044",
+      "type": "domain",
+      "value": "guarda-login.click"
+    },
     "gugyh.icu": {
       "confidence": 0.9,
       "date": "2026-10-22 07:46:37",
@@ -59303,20 +59387,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "httpsrv-whatsapp.com"
-    },
-    "httpworkbench.com": {
-      "confidence": 0.6,
-      "date": "2026-09-28 15:32:21",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "interactsh"
-      ],
-      "summary": "Citrix NetScaler decoys observing exploitation of an unauth RCE via log poisoning with DNS out-of-band callback to httpworkbench.com from 138.28.234.38.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2104595071362326680",
-      "type": "domain",
-      "value": "httpworkbench.com"
     },
     "huarendiche-jp.com": {
       "confidence": 0.8,
@@ -62228,23 +62298,6 @@
       "type": "domain",
       "value": "levelonelearns.com"
     },
-    "lewokodwqko.icu": {
-      "confidence": 0.9,
-      "date": "2026-09-28 13:11:58",
-      "enriched_at": "2026-10-25T00:40:04Z",
-      "family": "MioLab Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "MioLab macOS stealer delivered as ScreenMemory_2.5.5.dmgx, communicating with C2 domain lewokodwqko.icu.",
-      "threat_type": "malware",
-      "tweet_id": "2104559745839579303",
-      "type": "domain",
-      "value": "lewokodwqko.icu"
-    },
     "lexer-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -62594,21 +62647,6 @@
       "tweet_id": "2113733954490470752",
       "type": "domain",
       "value": "llsbsnls.suplayer810.workers.dev"
-    },
-    "lnferragens.com": {
-      "confidence": 0.7,
-      "date": "2026-09-28 13:35:41",
-      "enriched_at": "2026-09-28T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing/scam website lnferragens.com impersonating a legitimate hardware business, reported as a fake site.",
-      "threat_type": "phishing",
-      "tweet_id": "2104565712396472820",
-      "type": "domain",
-      "value": "lnferragens.com"
     },
     "lnsygjswxx.com": {
       "confidence": 0.75,
@@ -64843,6 +64881,30 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "model-whatsapp.com"
+    },
+    "moneyhub-cebicuzotoy.click": {
+      "confidence": 0.6,
+      "date": "2026-10-28 15:17:23",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Large network of 2,000+ templated Google Custom Search sites; no malicious activity observed in inspected domains.",
+      "threat_type": "other",
+      "tweet_id": "2115462941600276847",
+      "type": "domain",
+      "value": "moneyhub-cebicuzotoy.click"
+    },
+    "moneyhub-juzozohagid.click": {
+      "confidence": 0.6,
+      "date": "2026-10-28 15:17:23",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Large network of 2,000+ templated Google Custom Search sites; no malicious activity observed in inspected domains.",
+      "threat_type": "other",
+      "tweet_id": "2115462941600276847",
+      "type": "domain",
+      "value": "moneyhub-juzozohagid.click"
     },
     "mono-whatsapp.com": {
       "confidence": 0.65,
@@ -68300,6 +68362,22 @@
       "type": "domain",
       "value": "poyanercold.top"
     },
+    "pregnantkha-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-10-28 13:27:25",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as Japan's e-Tax service, distributed via pregnantkha-jp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2115435268694319148",
+      "type": "domain",
+      "value": "pregnantkha-jp.com"
+    },
     "preparationguru.com": {
       "confidence": 0.9,
       "date": "2026-09-30 12:56:48",
@@ -69805,21 +69883,6 @@
       "type": "url",
       "value": "https://raw.githubusercontent.com/LirindAdams/bigfoxtrot999/refs/heads/main/update-bs.dbf"
     },
-    "raw.githubusercontent.com/om5678774/kt4567/main/landing2.txt": {
-      "confidence": 0.75,
-      "date": "2026-09-28 13:02:51",
-      "enriched_at": "2026-09-28T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Compromised site serving a ClickFix lure via a malicious landing text file hosted on raw.githubusercontent.com.",
-      "threat_type": "malware",
-      "tweet_id": "2104557449722351921",
-      "type": "url",
-      "value": "https://raw.githubusercontent.com/om5678774/kt4567/main/landing2.txt"
-    },
     "rcmail.mendoza.gov.ar": {
       "confidence": 0.92,
       "date": "2026-10-22 07:46:36",
@@ -70032,6 +70095,20 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "regex-whatsapp.com"
+    },
+    "register.rsvpconnect-events.com": {
+      "confidence": 0.9,
+      "date": "2026-10-28 13:30:23",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Event-invite phishing campaign using fake Anthropic and TikTok event pages on rsvpconnect-events.com, targeting business teams (Sept 21 - Oct 26).",
+      "threat_type": "phishing",
+      "tweet_id": "2115436014458081332",
+      "type": "domain",
+      "value": "register.rsvpconnect-events.com"
     },
     "register.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -70776,6 +70853,20 @@
       "tweet_id": "2109430647815323920",
       "type": "domain",
       "value": "rqszsx.cn"
+    },
+    "rsvpconnect-events.com": {
+      "confidence": 0.9,
+      "date": "2026-10-28 13:30:23",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing via GoToWebinar notifications and shorteners; Cloudflare check hides pages; Microsoft Device Code and Google sign-in relay steal accounts.",
+      "threat_type": "phishing",
+      "tweet_id": "2115436016840368582",
+      "type": "domain",
+      "value": "rsvpconnect-events.com"
     },
     "rthvrq.cc": {
       "confidence": 0.7,
@@ -77509,6 +77600,20 @@
       "type": "url",
       "value": "http://us06webzoomus2fj2f830440905293.com/2661951713/invite.php"
     },
+    "us968web-zoom.us": {
+      "confidence": 0.9,
+      "date": "2026-10-28 13:30:23",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing via GoToWebinar notifications and shorteners; Cloudflare check hides pages; Microsoft Device Code and Google sign-in relay steal accounts.",
+      "threat_type": "phishing",
+      "tweet_id": "2115436016840368582",
+      "type": "domain",
+      "value": "us968web-zoom.us"
+    },
     "usdt.sftlr.com": {
       "confidence": 0.7,
       "date": "2026-10-19 21:28:27",
@@ -78659,6 +78764,18 @@
       "tweet_id": "2107752941801054519",
       "type": "url",
       "value": "https://weareevokeafrica.com/old/Payment_comfirmation_slip_PDF.bat"
+    },
+    "web-static-cdn.od-files-repo.workers.dev": {
+      "confidence": 0.3,
+      "date": "2026-10-28 13:00:47",
+      "enriched_at": "2026-10-28T18:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Cloudflare Workers-hosted French-language panel titled 'Nocturne'; purpose unclear.",
+      "threat_type": "other",
+      "tweet_id": "2115428565214744745",
+      "type": "domain",
+      "value": "web-static-cdn.od-files-repo.workers.dev"
     },
     "web-whatsopp.com": {
       "confidence": 0.7,
@@ -82951,6 +83068,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-28T12:40:04Z",
+  "generated_at": "2026-10-28T18:40:04Z",
   "window_days": 30
 }
