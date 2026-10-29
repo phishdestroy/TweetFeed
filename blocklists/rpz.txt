@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2387
-; Updated: 2026-10-29T11:00:23Z
+; Entries: 2388
+; Updated: 2026-10-29T11:15:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793271623 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793272519 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2384,6 +2384,8 @@ kelleydrye.myssologin.com CNAME .
 *.kelleydrye.myssologin.com CNAME .
 kenmarktur-jp.com CNAME .
 *.kenmarktur-jp.com CNAME .
+kethvion.cfd CNAME .
+*.kethvion.cfd CNAME .
 kfgwq34.cn CNAME .
 *.kfgwq34.cn CNAME .
 kid-whatsapp.com CNAME .
