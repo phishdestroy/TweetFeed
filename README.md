@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-29 11:45:19 (UTC)</th>
+        <th colspan=4>2026-10-29 12:00:26 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 21 | 582 | 2931 | 45664 |
+| **:link: URLs** | 22 | 583 | 2932 | 45665 |
 | **:globe_with_meridians: Domains** | 14 | 463 | 2475 | 39444 |
-| **:triangular_flag_on_post: IPs** | 6 | 134 | 2100 | 7831 |
-| **:1234: SHA256** | 8 | 111 | 439 | 3011 |
+| **:triangular_flag_on_post: IPs** | 7 | 135 | 2101 | 7832 |
+| **:1234: SHA256** | 9 | 112 | 440 | 3012 |
 | **:1234: MD5** | 2 | 41 | 94 | 2100 |
 
 </div>
@@ -235,11 +235,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#3** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 4 |
 | **#5** | [banthisguy9349](https://x.com/banthisguy9349) | 4 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#7** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#8** | [suyog41](https://x.com/suyog41) | 2 |
-| **#9** | [Malwar3Ninja](https://x.com/Malwar3Ninja) | 2 |
-| **#10** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
+| **#6** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#7** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#8** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#9** | [suyog41](https://x.com/suyog41) | 2 |
+| **#10** | [Malwar3Ninja](https://x.com/Malwar3Ninja) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
