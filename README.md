@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-29 18:30:22 (UTC)</th>
+        <th colspan=4>2026-10-29 18:45:51 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 66 | 627 | 2976 | 45709 |
-| **:globe_with_meridians: Domains** | 44 | 493 | 2505 | 39474 |
+| **:link: URLs** | 67 | 628 | 2977 | 45710 |
+| **:globe_with_meridians: Domains** | 45 | 494 | 2506 | 39475 |
 | **:triangular_flag_on_post: IPs** | 21 | 149 | 2115 | 7846 |
-| **:1234: SHA256** | 16 | 119 | 447 | 3019 |
+| **:1234: SHA256** | 17 | 120 | 448 | 3020 |
 | **:1234: MD5** | 3 | 42 | 95 | 2101 |
 
 </div>
@@ -231,15 +231,15 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 28 |
-| **#2** | [smica83](https://x.com/smica83) | 20 |
+| **#2** | [smica83](https://x.com/smica83) | 21 |
 | **#3** | [TheM3gatr0n](https://x.com/TheM3gatr0n) | 18 |
 | **#4** | [patialavii](https://x.com/patialavii) | 16 |
 | **#5** | [skocherhan](https://x.com/skocherhan) | 10 |
 | **#6** | [webamon_search](https://x.com/webamon_search) | 9 |
 | **#7** | [copy_and_paster](https://x.com/copy_and_paster) | 8 |
 | **#8** | [TheDFIRReport](https://x.com/TheDFIRReport) | 7 |
-| **#9** | [PhishStats](https://x.com/PhishStats) | 5 |
-| **#10** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#9** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
+| **#10** | [PhishStats](https://x.com/PhishStats) | 5 |
 <!-- TOP_REPORTERS_END -->
 
 </div>

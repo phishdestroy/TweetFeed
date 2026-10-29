@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2417
-; Updated: 2026-10-29T18:00:24Z
+; Entries: 2418
+; Updated: 2026-10-29T18:45:50Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793296824 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793299550 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2984,6 +2984,8 @@ obracertaatacado.com CNAME .
 *.obracertaatacado.com CNAME .
 oceanvw.click CNAME .
 *.oceanvw.click CNAME .
+octoberfp.eastus.cloudapp.azure.com CNAME .
+*.octoberfp.eastus.cloudapp.azure.com CNAME .
 odeesa.com.mx CNAME .
 *.odeesa.com.mx CNAME .
 ohhhhhmoney.com CNAME .
