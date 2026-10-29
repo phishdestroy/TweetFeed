@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2396
-; Updated: 2026-10-29T13:15:18Z
+; Entries: 2400
+; Updated: 2026-10-29T13:45:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793279718 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793281518 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -704,6 +704,8 @@ bom-whatsapp.com CNAME .
 *.bom-whatsapp.com CNAME .
 bon-whatsapp.com CNAME .
 *.bon-whatsapp.com CNAME .
+bonusrekoru.com CNAME .
+*.bonusrekoru.com CNAME .
 boo-whatsapp.com CNAME .
 *.boo-whatsapp.com CNAME .
 boostingcustomerjoy.de CNAME .
@@ -2722,6 +2724,8 @@ microsoft-telemetry.at CNAME .
 *.microsoft-telemetry.at CNAME .
 microsoftcloudverification.com CNAME .
 *.microsoftcloudverification.com CNAME .
+microsoftteams.site CNAME .
+*.microsoftteams.site CNAME .
 microwindow-e9fvg7ahe0cxf6a6.z02.azurefd.net CNAME .
 *.microwindow-e9fvg7ahe0cxf6a6.z02.azurefd.net CNAME .
 mikoblico.xyz CNAME .
@@ -3396,6 +3400,8 @@ restsetestes.com CNAME .
 *.restsetestes.com CNAME .
 review-docusign-document.top CNAME .
 *.review-docusign-document.top CNAME .
+reviewshared.s3.us-east-005.backblazeb2.com CNAME .
+*.reviewshared.s3.us-east-005.backblazeb2.com CNAME .
 ricoldimateriaisparaconstrucoes.com CNAME .
 *.ricoldimateriaisparaconstrucoes.com CNAME .
 rivalcastmed-jp.com CNAME .
@@ -4774,6 +4780,8 @@ zmngfjl.fun CNAME .
 *.zmngfjl.fun CNAME .
 zo0mnneet.top CNAME .
 *.zo0mnneet.top CNAME .
+zoffry.qpon CNAME .
+*.zoffry.qpon CNAME .
 zoom-clientsetup.com CNAME .
 *.zoom-clientsetup.com CNAME .
 zoom-meet-invite7845957.s3.us-east-1.amazonaws.com CNAME .
