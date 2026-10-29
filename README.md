@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-29 20:00:22 (UTC)</th>
+        <th colspan=4>2026-10-29 20:15:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 69 | 630 | 2979 | 45712 |
-| **:globe_with_meridians: Domains** | 46 | 495 | 2507 | 39476 |
-| **:triangular_flag_on_post: IPs** | 22 | 150 | 2116 | 7847 |
-| **:1234: SHA256** | 17 | 120 | 448 | 3020 |
+| **:link: URLs** | 72 | 633 | 2982 | 45715 |
+| **:globe_with_meridians: Domains** | 47 | 496 | 2508 | 39477 |
+| **:triangular_flag_on_post: IPs** | 23 | 151 | 2117 | 7848 |
+| **:1234: SHA256** | 20 | 123 | 451 | 3023 |
 | **:1234: MD5** | 3 | 42 | 95 | 2101 |
 
 </div>
@@ -205,11 +205,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 47 | 390 | 3466 | 34507 |
+| **#phishing** | 49 | 392 | 3468 | 34509 |
 | **#Kimsuky** | 8 | 10 | 44 | 13327 |
 | **#DPRK** | 18 | 18 | 23 | 11687 |
 | **#malware** | 7 | 538 | 1149 | 4056 |
-| **#scam** | 0 | 8 | 44 | 3420 |
+| **#scam** | 2 | 10 | 46 | 3422 |
 | **#C2** | 0 | 31 | 112 | 2209 |
 | **#APT** | 0 | 6 | 39 | 1494 |
 | **#ClickFix** | 0 | 73 | 284 | 1113 |
@@ -230,8 +230,8 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 28 |
-| **#2** | [smica83](https://x.com/smica83) | 21 |
+| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 30 |
+| **#2** | [smica83](https://x.com/smica83) | 27 |
 | **#3** | [TheM3gatr0n](https://x.com/TheM3gatr0n) | 18 |
 | **#4** | [patialavii](https://x.com/patialavii) | 16 |
 | **#5** | [skocherhan](https://x.com/skocherhan) | 10 |
