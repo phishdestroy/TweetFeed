@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-29 14:00:24 (UTC)</th>
+        <th colspan=4>2026-10-29 14:15:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,11 +188,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 44 | 605 | 2954 | 45687 |
-| **:globe_with_meridians: Domains** | 27 | 476 | 2488 | 39457 |
+| **:link: URLs** | 45 | 606 | 2955 | 45688 |
+| **:globe_with_meridians: Domains** | 28 | 477 | 2489 | 39458 |
 | **:triangular_flag_on_post: IPs** | 14 | 142 | 2108 | 7839 |
 | **:1234: SHA256** | 14 | 117 | 445 | 3017 |
-| **:1234: MD5** | 2 | 41 | 94 | 2100 |
+| **:1234: MD5** | 3 | 42 | 95 | 2101 |
 
 </div>
 
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 29 | 372 | 3448 | 34489 |
+| **#phishing** | 31 | 374 | 3450 | 34491 |
 | **#Kimsuky** | 8 | 10 | 44 | 13327 |
 | **#DPRK** | 18 | 18 | 23 | 11687 |
 | **#malware** | 2 | 533 | 1144 | 4051 |
@@ -235,11 +235,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#3** | [patialavii](https://x.com/patialavii) | 14 |
 | **#4** | [webamon_search](https://x.com/webamon_search) | 9 |
 | **#5** | [copy_and_paster](https://x.com/copy_and_paster) | 8 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 5 |
-| **#7** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#8** | [masaomi346](https://x.com/masaomi346) | 4 |
-| **#9** | [banthisguy9349](https://x.com/banthisguy9349) | 4 |
-| **#10** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#6** | [skocherhan](https://x.com/skocherhan) | 5 |
+| **#7** | [PhishStats](https://x.com/PhishStats) | 5 |
+| **#8** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#9** | [masaomi346](https://x.com/masaomi346) | 4 |
+| **#10** | [banthisguy9349](https://x.com/banthisguy9349) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
