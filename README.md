@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-29 21:30:22 (UTC)</th>
+        <th colspan=4>2026-10-29 21:45:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 76 | 637 | 2986 | 45719 |
+| **:link: URLs** | 77 | 638 | 2987 | 45720 |
 | **:globe_with_meridians: Domains** | 48 | 497 | 2509 | 39478 |
-| **:triangular_flag_on_post: IPs** | 23 | 151 | 2117 | 7848 |
-| **:1234: SHA256** | 20 | 123 | 451 | 3023 |
+| **:triangular_flag_on_post: IPs** | 25 | 153 | 2119 | 7850 |
+| **:1234: SHA256** | 21 | 124 | 452 | 3024 |
 | **:1234: MD5** | 3 | 42 | 95 | 2101 |
 
 </div>
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 54 | 397 | 3473 | 34514 |
+| **#phishing** | 55 | 398 | 3474 | 34515 |
 | **#Kimsuky** | 8 | 10 | 44 | 13327 |
 | **#DPRK** | 18 | 18 | 23 | 11687 |
 | **#malware** | 7 | 538 | 1149 | 4056 |
@@ -231,7 +231,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 35 |
-| **#2** | [smica83](https://x.com/smica83) | 27 |
+| **#2** | [smica83](https://x.com/smica83) | 30 |
 | **#3** | [TheM3gatr0n](https://x.com/TheM3gatr0n) | 18 |
 | **#4** | [patialavii](https://x.com/patialavii) | 16 |
 | **#5** | [skocherhan](https://x.com/skocherhan) | 10 |
@@ -239,7 +239,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#7** | [copy_and_paster](https://x.com/copy_and_paster) | 8 |
 | **#8** | [malwrhunterteam](https://x.com/malwrhunterteam) | 8 |
 | **#9** | [TheDFIRReport](https://x.com/TheDFIRReport) | 7 |
-| **#10** | [PhishStats](https://x.com/PhishStats) | 5 |
+| **#10** | [PhishStats](https://x.com/PhishStats) | 6 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
