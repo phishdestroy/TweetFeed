@@ -1,7 +1,7 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 2866
-# Updated: 2026-10-28T22:00:23Z
+# Entries: 2848
+# Updated: 2026-10-29T12:45:20Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -9,6 +9,7 @@
 # https://tweetfeed.live
 # Community-reported IOCs. Use at your own risk.
 
+http://1.14.104.208
 http://1.14.146.76
 http://101.33.117.120
 http://102.220.163.152
@@ -23,11 +24,8 @@ http://103.99.36.146:8080
 http://1035362455.sbs
 http://104.143.42.209
 http://104.143.42.209:22
-http://104.192.2.46:443
 http://104.194.133.95
 http://104.194.141.56
-http://104.219.237.146
-http://104.219.238.66
 http://104.237.154.191
 http://105.224.242.90:47973/Mozi.m
 http://106.12.190.248
@@ -44,7 +42,7 @@ http://107.175.85.215
 http://108.187.43.139:8080
 http://108.187.43.139:8080/china4.zip
 http://109.107.170.185
-http://109.238.87.111/login
+http://109.120.139.126
 http://110.41.6.163
 http://112.213.120.174
 http://119.160.105.93
@@ -64,7 +62,6 @@ http://136.0.96.24
 http://136.70.229.109
 http://137.220.140.19:15443
 http://137.220.156.231
-http://138.28.234.38
 http://138.3.216.107
 http://139.180.192.248
 http://140.233.190.56
@@ -91,6 +88,7 @@ http://15.0.245.2
 http://15.204.59.70
 http://150.241.66.223
 http://151.241.154.23:7007
+http://151.241.99.99:8080
 http://151.245.121.241
 http://152.32.243.238
 http://153.56.168.27
@@ -99,13 +97,13 @@ http://153.75.82.143
 http://154.12.83.188:33196
 http://154.222.28.41
 http://154.6.145.213
+http://154.64.32.187
 http://154.64.32.231
 http://155.117.98.165
 http://155.117.98.165:6666
 http://155.117.98.165:8888
 http://156.226.182.245
 http://156.234.58.242
-http://156.238.123.182:7294
 http://157.173.16.197
 http://157.230.218.54
 http://157.230.218.54/bin
@@ -133,10 +131,10 @@ http://167.99.165.191/1464e57f.bin
 http://167.99.227.197
 http://168.138.207.32
 http://168.138.40.244
+http://168.222.255.158
 http://170.106.188.119:8084
 http://172.111.138.100
 http://172.82.64.48
-http://172.86.118.111
 http://172.86.86.60
 http://172.86.93.139:3000
 http://172.96.137.160:443
@@ -249,6 +247,7 @@ http://27.50.59.62/New.msi
 http://2fa-cp.cfd
 http://3.147.84.164
 http://31.128.39.24
+http://31.56.209.3
 http://31.59.138.144/aes.js
 http://31.59.39.40
 http://34.254.202.253
@@ -264,7 +263,6 @@ http://38.54.56.66
 http://38.87.116.68
 http://3d7hz1zm.onlinewebshop.net
 http://43.128.253.47
-http://43.133.198.196
 http://43.155.215.231
 http://43.157.146.70
 http://43.160.211.117
@@ -311,6 +309,8 @@ http://5.188.230.141
 http://5.188.230.16
 http://5.188.230.52
 http://5.188.230.88
+http://5.196.82.35:8080
+http://5.199.169.240
 http://5.252.177.210:8090/test.bat
 http://5.83.136.39:8080
 http://50.114.5.38:9996
@@ -364,6 +364,7 @@ http://91.224.92.16:18128
 http://91.92.33.67
 http://91.92.34.67
 http://91.92.40.28:7777
+http://92.112.53.209:8000
 http://93.152.112.39/52662
 http://93.152.220.124
 http://93.152.220.219:443
@@ -460,6 +461,7 @@ http://anthropic.rsvpconnect-events.com
 http://antibot-linkedin.com
 http://ants.redirecthelp.com/linkedin.com/52abdba7-2710-4fc3-a0bf-a66546964fbc?psid=85482a12-0597-45fd-b029
 http://aobaby31.com
+http://api-webvision.com
 http://api.adoptium.net
 http://api.brandogdigital.org
 http://api.newenterpr1se.lat
@@ -708,6 +710,7 @@ http://bxo-whatsapp.com
 http://bxp-whatsapp.com
 http://byodxn5s7sua6oyyjj74rycgn6afncfckprt5ezskt3cni6lg3wdrgad.onion
 http://bytemai.com
+http://bzvmjsn5.sportsontheweb.net
 http://c2.teamzeroday.net/bin/
 http://c97xx6lx.onlinewebshop.net
 http://cachesrv-whatsapp.com
@@ -825,11 +828,9 @@ http://cors-whatsapp.com
 http://cosmicsky.xyz
 http://costcodeltosin.s3.us-east-1.amazonaws.com
 http://couhe79.xyz
-http://cove-koi-hk753.xyz
 http://cp.preparationguru.com
 http://crackcodes.in/resources/penumbra-stealer-1-0.642/
 http://creditashfield.info
-http://creyt.cl/centennialcws/onedrive-verify-obf.html
 http://cruahop.shop
 http://crying881.beer
 http://crystalmnhomes.com
@@ -998,7 +999,6 @@ http://fastpath.cyou
 http://fastwebpro-whatsapp.com
 http://fdsdgrixj.uk.cc
 http://fenxiang-whatsapp.com
-http://ferreteriadepot.com
 http://fhnweb-whatsapp.com
 http://file.webapi-whatsapp.com
 http://file.webstatici-whatsapp.com
@@ -1104,6 +1104,7 @@ http://freshmenuideas.com
 http://ftp.fundacionpiaz.org
 http://ftworthmedicalclinic.info
 http://fullpowerproperties.uk
+http://fullwork3e4.gamer.free
 http://fusionshoppingworks.info
 http://future-whatsapp.com
 http://fw-static.nashbashracing.org
@@ -1157,7 +1158,6 @@ http://grinosp.digital
 http://group.webapi-whatsapp.com
 http://group.webstatici-whatsapp.com
 http://groups.webstatici-whatsapp.com
-http://gtib96.onlinewebshop.net
 http://guach.net
 http://guarda-login.click
 http://gugyh.icu/?HkbdYzyD/
@@ -1172,6 +1172,7 @@ http://h8-whatsapp.com
 http://h9-whatsapp.com
 http://hackattackkaboom.botlesscucks.st
 http://hahah1101.mom
+http://handwrittenresults.com
 http://happy-whatsapp.com
 http://harborstonegroup.shop
 http://hardwood-studio-obviously-briefing.trycloudflare.com
@@ -1244,6 +1245,7 @@ http://insigniafinancial.ssosettings.com
 http://instagram-verifica.freemyip.com
 http://instagram.82.165.110.7.backname.io
 http://instagram.dothome.co.kr
+http://installgarphenos.ink
 http://integration-auth.com
 http://interior-gov-pk.mail-govt.org
 http://internetserchinkas.co
@@ -1334,7 +1336,6 @@ http://littledogdesigngoods.com
 http://live-join-meet.l4-l4.site
 http://liveeee365.dothome.co.kr
 http://llsbsnls.suplayer810.workers.dev
-http://lnferragens.com
 http://loanfairfield.com
 http://login-options.com
 http://login.en.webhwsapp-whatsapp.com
@@ -1469,7 +1470,6 @@ http://novhotellogs.aclobe.me
 http://nqxweb-whatsapp.com
 http://ntp.reposync.to
 http://nvidiasdk.fly.dev
-http://nyqxa4.scienceontheweb.net
 http://o6rtgcjdjqyimjxexpejddhdfbehsjn4fcsazfkgwydeb27gqhtdntyd.onion
 http://obracertaatacado.com
 http://oceanvw.click
@@ -1528,6 +1528,7 @@ http://payload1717.pro
 http://pc.webapi-whatsapp.com
 http://pdfdocusignersdocument.info
 http://pdfsharepoint.top
+http://pew9862l.onlinewebshop.net
 http://phase-whatsapp.com
 http://php-web-server--unitmexi.replit.app
 http://phppatcher.com
@@ -1539,6 +1540,7 @@ http://pl.webhwsapp-whatsapp.com
 http://placewingarage.com
 http://plain-whatsapp.com
 http://play-googlese.app
+http://plesk.swissrdp.com
 http://pobruog.wiki
 http://podnode-whatsapp.com
 http://pohon4donly.art
@@ -1547,7 +1549,6 @@ http://polygoodplastics.com
 http://pool-whatsapp.com
 http://portalmsn365.dothome.co.kr
 http://portlcoedu.com
-http://posta-hr.live
 http://poyanercold.top
 http://preparationguru.com
 http://presanis.com
@@ -1627,7 +1628,6 @@ http://repoapi-whatsapp.com
 http://repocdn-whatsapp.com
 http://reponode-whatsapp.com
 http://report-okx.com
-http://report-uhs.com
 http://reposync.to
 http://requires5.dynu.org
 http://resolver-whatsapp.com
@@ -1692,6 +1692,7 @@ http://secops-whatsapp.com
 http://secpro-whatsapp.com
 http://secsys-whatsapp.com
 http://secure.webapi-whatsapp.com
+http://security.cortivas.us
 http://security.webapi-whatsapp.com
 http://security.webstatici-whatsapp.com
 http://see-whatsapp.com
@@ -1745,7 +1746,6 @@ http://socket-whatsapp.com
 http://softhub-whatsapp.com
 http://soj.s4kyn.com
 http://solflare-extension.pages.dev
-http://soloferreteria.com
 http://sort-whatsapp.com
 http://sox-protest-regular-criticism.trycloudflare.com
 http://sp26ct10-zalvako-biz-mureti.pages.dev
@@ -1760,6 +1760,7 @@ http://sslcert-whatsapp.com
 http://ssltls-whatsapp.com
 http://sso-sync.at
 http://ssossossosss.duckdns.org
+http://sssrrllodhff.duckdns.org
 http://stable-whatsapp.com
 http://stack-whatsapp.com
 http://stadiadev.cc
@@ -1948,7 +1949,6 @@ http://try-whatsapp.com
 http://tttkkkssww.com
 http://tutorial-whatsapp.com
 http://tutorial.webapi-whatsapp.com
-http://tvzc49.sportsontheweb.net
 http://tw3-whatsapp.com
 http://two-step.webapi-whatsapp.com
 http://u0bfilhn.onlinewebshop.net
@@ -2007,6 +2007,7 @@ http://video-wide.online
 http://video.webstatici-whatsapp.com
 http://videoclick.online
 http://viewweb-whatsapp.com
+http://viuonicoiscienic.web.app
 http://vivid-flicker-anvil-creoen.pro
 http://vivid-whatsapp.com
 http://voderlence.com
@@ -2145,6 +2146,7 @@ http://www.tqi21.vercel.app
 http://www.webapi-whatsapp.com
 http://www.xionamiconm.com:8050/ws/
 http://www.youlovemybiba.com
+http://wz8ogren.mypressonline.com
 http://x3pf5mva2liano2rmgnkf5ktbe0efzvv.lambda-url.ap-south-1.on.aws/e-Challal
 http://xaz2.com
 http://xboxtelemetry-defender.cc
@@ -2204,14 +2206,12 @@ https://0c7057.wjpeso-ph.net
 https://1300762.us8.myftpupload.com/wp-content/de/auth/de/
 https://130826.ngrok.app/MicrosoftUpdateServices.exe
 https://1dyorzi7.xyz/uKeHXtre/
-https://20x8rk.info/shisei/menu/ZjaHJvbWUqEQgDEAAYA
 https://212.80.205.63
 https://217.60.102.5/sh
 https://26etou1.cn
 https://2c2a9c.jackpot-deluxe.net
 https://31.56.209.167.sslip.io/benaction1.msi
 https://3cdffc93.fase-x.com/7a7e36d3
-https://45.153.34.191/dl
 https://5.75.168.252:8766
 https://5p8w1j6f9y3h0t7bg.live
 https://8j536vj.cn
@@ -2226,7 +2226,6 @@ https://aaf0d9.vn-open888.com
 https://abcasdb.study/KnaeByNf/
 https://academiaarin-jp.com
 https://accessdocu.b-cdn.net/Installer.ps1
-https://accoun.jvenher.cn/x196bch6nu
 https://accoun.kgjxupm.cn/d1498rp4v2
 https://accoun.nyrwhax.cn/1fnw71x4ty
 https://accoun.omnwpws.cn/1fnw71x4ty
@@ -2242,9 +2241,7 @@ https://alexis17capit.cc/CUSERS/
 https://allegrolokalnie.aukcja865637302.cfd/oferta/1984-mz-etz-250/80344
 https://alohapos-update.com
 https://amecxfund.com/ivkehhc/lipp/vzisum/yahy/hnlxw/vjsoajyq/ckucolrd/gsjudctm/
-https://aminacompliance.info
 https://anhuichengfe-jp.com
-https://aniv.cjlnzrn.cn/ap/signin
 https://aniv.ddoblxd.cn/ap/signin
 https://aniv.ergstlj.cn/t10ijauryj
 https://anqbsss.cn/Login/
@@ -2276,7 +2273,6 @@ https://bestpartneha-jp.com
 https://bhexfwo.cn
 https://bifcapnepa-jp.com
 https://bigperu.com/?email=aaaa@example.jp&token=vWKHZ6kR6qmCbsLxcmcbsbQN
-https://binmadi.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi
 https://bixsgrb.cn/Login/
 https://bjjmsjcfsb.com
 https://blue-night-ba2c.gradwest03.workers.dev
@@ -2287,11 +2283,10 @@ https://brejksa.study/KnaeByNf/
 https://brixena.cfd/mnshzdHc/
 https://btexiws.cn
 https://btrf36.cc/hx
+https://buildpoint.blob.core.windows.net/stackguard/netpatch.msi
 https://bvmatqnam.com.vn/js/tt3.txt
-https://ca-ndaxcdn.framer.media
 https://caihongzhixia-jp.com
 https://callmylove.cyou
-https://calvinsmithlaw.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe
 https://canjepuntosrapidobac.click/pa
 https://cdn-edge-f3f85b.netlify.app
 https://cdn-edge-f3f85b.netlify.app/dl/RuntimeHost.exe
@@ -2329,15 +2324,12 @@ https://dawnharbor.cc
 https://daxcwczu.cn
 https://dbaoi.com
 https://dcmentservceportl.sbs/adobe/adbeinstllar.html
-https://dct-1t9.pages.dev
 https://deepveindrilling.com/?s=9d7e155b
-https://delphiaonline.top
 https://desertramble-jp.com
 https://designedglass.com.lb/mat/drop.vbs
 https://dev.sbphototours.com/includes/companyLogo.php?url=hxxps%3A%2F%2Fdocumentonline.us/doc/Fixed/?uid=aaaa@ex
 https://dfskk2.oss-cn-hongkong.aliyuncs.com/20261014116646.8AB68BBDDC.zip
 https://dicechecker.app/0b05d2aea7.ps1
-https://discord.com/api/webhooks/1553670043521392720/bvXv3s__6_bB7jhYJTkdt36D7qOo27qgiD4K7xhhJ40sjzhbmcjrYH260wqQFOhY2g6V
 https://dlhengshengtang.com/5b2b0Jjs/#/login
 https://dls-content-cdn.global.ssl.fastly.net/builds/ddd27859c246c2a9a1d8c7740ed690de
 https://dmuchawa-do-lisci-pl.com
@@ -2377,14 +2369,12 @@ https://fdp122.nyc3.digitaloceanspaces.com/fileshared/Fileshared.msi
 https://feibidawuli-jp.com
 https://fhkdbv.cfd/apps/#/index
 https://fiberhost.net/gleview/
-https://files.surveillance-online.com
 https://firedmanlaw.co.uk/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest&c=macaw&c=&c=hr&c=sec&c=&c=&c=&c=
 https://firvolden.cfd/pages/#/index
 https://fixbetamp.vip
 https://fixbetgir.net
 https://flhealthlicense.vercel.app
 https://fllicensehealthpdf-viewer.vercel.app
-https://florida-yes.com/download.php?id=ab5e94b3c160f1c1b646b34e7c85d79f
 https://fmcoyko.cn/Login/
 https://fnfkv.cn
 https://fqelt.cn
@@ -2393,6 +2383,7 @@ https://fvajf.cn
 https://fwhkn.cn/?rhgwojab
 https://fxxma.cn
 https://fyrestormic-jp.com
+https://gadgetcandyzu.com
 https://gakik.cn/?pkrynnjy
 https://gbjeifr.cn/Login/
 https://gerardo.desarrollowebalcala.es/ip/index.php?sid=df26277ab0cdf62c179305f2bf4fe8bc
@@ -2406,6 +2397,7 @@ https://github.com/dotnet-runtime-libs/vcredist-packages/releases
 https://github.com/f3-917/u-g/raw/main/udg.bat
 https://github.com/gpt-6-astra/gpt-6-astra.github.io/releases/tag/Astra
 https://github.com/idm643-script/IDM-6.43-Free
+https://github.com/udt-101026/thaem/raw/main/udt.bat
 https://github.com/up-827/udt-0110/raw/main/udt.bat
 https://gk5440.craftum.io
 https://gnjkl.cn
@@ -2427,18 +2419,15 @@ https://gxgiu.cn
 https://gzmingan.com/transtioncash/
 https://h92jcihwicllow.wuaze.com
 https://h92jcihwicllow.wuaze.com/YE97Bw999zB87t1U8i.php
-https://hallo.jiaoyang677.sbs
 https://hanvior.cfd/resonabank
 https://haoniuzibe-jp.com
 https://hardly-signatures-loc-surf.trycloudflare.com
-https://hasoadwaznqps.com/transtioncash/
 https://hbyqq.cn
 https://healthlicensefl.vercel.app
 https://hekimaplastic.co.tz/ima
 https://hfgxsc.cn
 https://hfpzuia.cn/Login/
 https://hfxlq55.cn
-https://hhmjjdfwzx.com/transtioncash/
 https://hii-hoores.duckdns.org
 https://hl-ltd.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe
 https://hmcot.cn
@@ -2460,6 +2449,7 @@ https://illustrationi-jp.com
 https://inducol.co/gmo/web/perso-login.php
 https://infosever.linkup.store
 https://insicdesignszu.com
+https://installgarphenos.ink/GrapheneOS.zip
 https://instantposupdate.com
 https://instantupdate.dev
 https://interacty.me/projects/ba837d69e93b2459
@@ -2474,6 +2464,7 @@ https://iwnw-1knwni-21siw.xo.je
 https://iwnw-1knwni-21siw.xo.je/YE97Bw999zB87t1U8i.php
 https://ixyjb.com/iLItlYBb/
 https://izakayafujiy-jp.com
+https://jal-air.spguiapp.com/pVgMxwgv/
 https://japan-five.top
 https://japanpostae0.club
 https://japanpostfup.club
@@ -2481,7 +2472,6 @@ https://japanpostmhk.club
 https://japanpostr7l.club
 https://jauty45.cn
 https://jbivjg.cn
-https://jcanskjihdajio.cyou:8443
 https://jiangchashi-jp.com
 https://jidianzz.com/sQwlMszY/
 https://jinsm.cn
@@ -2497,7 +2487,6 @@ https://joymspcb.cn
 https://jsdmesh.com/?email=aaaa@example.jp&uid=qOqwKUxQJRNB3VIIEj9Rjv6c
 https://jskmarketings.com/acknowledgment.html
 https://jugsedp.info/XnkBVkyB/
-https://jwscaiwu.com/cash/downloadopwad
 https://jwscaiwu.com/point/download/
 https://jzqixing.com/transtioncash/
 https://kaifitness.penwfe.asia/H80AoO
@@ -2505,6 +2494,7 @@ https://kamuvof.opik.net/gafah/
 https://katfiore.com
 https://keisigr.top
 https://kenmarktur-jp.com
+https://kethvion.cfd/LoginID/#/index
 https://kfgwq34.cn
 https://kongzaixian.com/106sms.zip
 https://kuaiyinfen-jp.com
@@ -2512,7 +2502,6 @@ https://labinuri.z23.web.core.windows.net?phone=050-3095-4311
 https://laboratoires-azbane.com/ftx/
 https://lcopz.cn
 https://leanviainc.top
-https://leiber.top/Bin/ScreenConnect.ClientSetup.msi
 https://lhdn.tos-cn-hongkong.volces.com/MyInvois_e-Invoice_INV57872_LHDN_Validated.zip
 https://lhdn.tos-cn-hongkong.volces.com/e-Invoice_INV20246_TIN_D1988013800_Validated_2026-10-15.zip
 https://lhdn.tos-cn-hongkong.volces.com/e-Invoice_INV91074_IRBM_Validated_Tenaga_Systems_Sdn_Bhd_2026-10-15.zip
@@ -2530,7 +2519,6 @@ https://loin-annzn.mydw88.com/Shopping-App
 https://loja-ma-ga-zine-luiza.com
 https://lojalivretos.store
 https://lqxnbr.cfd/default/#/index
-https://luckyprint52.ru/abdjlkflasdfjgdfkadflg
 https://luoc.run/TMLYa
 https://luqos.cn
 https://luxfab.luxe/Adobe_Installer.html
@@ -2629,15 +2617,12 @@ https://play.google.com/store/apps/details?id=com.railforge.footplate.documentre
 https://plbkm.cn
 https://pnujh48.cn
 https://poiwaksuwa.com/point/download/
-https://poiwaldsas.com/transtioncash/
 https://portal-desenrolabrasil.comercial.ws/pt_br/home.html
-https://posidwaksd.com/transtioncash/
 https://posupdate.zip
 https://pregnantkha-jp.com
 https://proceso-personal-inf2026ac.hstn.me/?i=2
 https://processassocia-jp.com
 https://progrillguide.com
-https://pso-ngd.ru:8443
 https://ptai.in/dsb/page.html
 https://pub-1e489e802c044438b77b5f3eb2390c68.r2.dev/CapCut_7689073905453039624_installer.exe
 https://pub-209ca94c79b043bea60b0f7868222cd4.r2.dev/Trade-Journal-Setup.msi
@@ -2663,8 +2648,6 @@ https://raw.githubusercontent.com/bluemarine999/DbLogs37/refs/heads/main/update-
 https://raw.githubusercontent.com/bluemarine999/MmAB96/refs/heads/main/update.dat
 https://raw.githubusercontent.com/butterscotch6969/serving_url/refs/heads/main/
 https://raw.githubusercontent.com/danya0003/raw/refs/heads/main/scan.ps1
-https://raw.githubusercontent.com/om5678774/kt4567/main/landing2.txt
-https://raw.githubusercontent.com/up-827/update/main/udt.bat
 https://rdwv03.cc/hx
 https://recipebistro.com
 https://recycle.eu.cc
@@ -2680,7 +2663,6 @@ https://romcu.cn
 https://rqszsx.cn
 https://rthvrq.cc/hx
 https://ruyibebe.com
-https://rvmxsg.cfd/mufg/#/index
 https://saissodbn202607oint.u0fnd.info/H80AoO
 https://sdueioy.study/KnaeByNf/
 https://searedrecipes.com
@@ -2754,6 +2736,7 @@ https://thedragonson-jp.com
 https://thefishguid-jp.com
 https://thegouldings.co.uk/m/
 https://thegrillbible.com
+https://themoviemindzu.com
 https://theocbuildinggroup.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe
 https://therawcuscl-jp.com
 https://thiswoodeno.com/aa/
@@ -2761,7 +2744,7 @@ https://times.eastus.cloudapp.azure.com
 https://timesyns.eastus.cloudapp.azure.com/z5.msi
 https://tinyurl.com/dmt1-731
 https://tinyurl.com/g1-1trdovip
-https://tjbiaoben.com/SvMLWCCf/
+https://tinyurl.com/s3-2310
 https://tmmkxi.cn
 https://tnfqjy.cfd/sumitclub/#/index
 https://toastposupdate.com
@@ -2785,7 +2768,7 @@ https://valeriediedrich13.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe
 https://vggkofmi.cn
 https://volusialawyer.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe
 https://vpass.tuyonghao.com/ttzqgevy/
-https://vr.znbbmwqp.com/inv/Adobe_Installer.html
+https://wallet-update.at
 https://wapsir.com/404.php
 https://watts-macos.github.io
 https://watts-macos.github.io/Watts_3.1.2.dmg
@@ -2801,7 +2784,6 @@ https://win-5nadl1jm5uv.tail84c20e.ts.net/d/9fef9dcc9b70d16d4c43609defb5a98c
 https://win-5nadl1jm5uv.tail84c20e.ts.net/d/dc7c437b2e98005f54beaef153a00897
 https://win10pc.oss-cn-hongkong.aliyuncs.com/JPLocalOffice.zip
 https://worker-broken-wood-ddaf.discord854832.workers.dev/payload.zip
-https://worldprimenew-jp.com
 https://wudaksldas.com/cash/downloadopwad
 https://wudaksldas.com/point/download/
 https://wuzheshijue.cyou
@@ -2809,6 +2791,7 @@ https://ww17.cic-sfr-credit-mutuel-espace-client.direct-ing-online.site
 https://www.aosasw.com/UP/Webmasters/MyAccounts/iss/
 https://www.cdiscount.com?source_id=&sub1=dbg9ur60fgns7383je5g&adv1=&adv2=
 https://www.cdiscount.com?source_id=&sub1=dbh5g060fgns7386rkt0&adv1=&adv2=
+https://www.cdiscount.com?source_id=&sub1=dbhg31m0fgns7388dtgg&adv1=&adv2=
 https://www.chefstablehub.com
 https://www.exodusathleticclub.com/wp-content/themes/wordpress/wordpress/WELLSFARGO%20OTP/Download%20File.html
 https://www.eyeearhospital.com/bnd/
@@ -2842,7 +2825,6 @@ https://xncdvoghw.wuaze.com//xac74/xac15/xac80/xc9c4.pdf
 https://xtmafe.cn
 https://xtweixiu.com
 https://xuchangwuli-jp.com
-https://xxxmu.top
 https://yaojinhouse-jp.com
 https://yjgift.com/dpoint/
 https://ymlrr.cn
