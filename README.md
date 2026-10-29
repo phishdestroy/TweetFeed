@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-29 12:00:26 (UTC)</th>
+        <th colspan=4>2026-10-29 12:15:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 22 | 583 | 2932 | 45665 |
+| **:link: URLs** | 23 | 584 | 2933 | 45666 |
 | **:globe_with_meridians: Domains** | 14 | 463 | 2475 | 39444 |
-| **:triangular_flag_on_post: IPs** | 7 | 135 | 2101 | 7832 |
-| **:1234: SHA256** | 9 | 112 | 440 | 3012 |
+| **:triangular_flag_on_post: IPs** | 8 | 136 | 2102 | 7833 |
+| **:1234: SHA256** | 10 | 113 | 441 | 3013 |
 | **:1234: MD5** | 2 | 41 | 94 | 2100 |
 
 </div>
@@ -232,14 +232,14 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [TheM3gatr0n](https://x.com/TheM3gatr0n) | 18 |
 | **#2** | [copy_and_paster](https://x.com/copy_and_paster) | 8 |
-| **#3** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#4** | [masaomi346](https://x.com/masaomi346) | 4 |
-| **#5** | [banthisguy9349](https://x.com/banthisguy9349) | 4 |
-| **#6** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
-| **#7** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#8** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#9** | [suyog41](https://x.com/suyog41) | 2 |
-| **#10** | [Malwar3Ninja](https://x.com/Malwar3Ninja) | 2 |
+| **#3** | [smica83](https://x.com/smica83) | 5 |
+| **#4** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#5** | [masaomi346](https://x.com/masaomi346) | 4 |
+| **#6** | [banthisguy9349](https://x.com/banthisguy9349) | 4 |
+| **#7** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#8** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#9** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#10** | [suyog41](https://x.com/suyog41) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
