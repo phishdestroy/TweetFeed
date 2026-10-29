@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2403
-; Updated: 2026-10-29T14:45:22Z
+; Entries: 2404
+; Updated: 2026-10-29T15:30:22Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793285122 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793287822 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2692,6 +2692,8 @@ meet-google.meet-google.cam CNAME .
 *.meet-google.meet-google.cam CNAME .
 meet.qooglo.com CNAME .
 *.meet.qooglo.com CNAME .
+meetgoogle.chat CNAME .
+*.meetgoogle.chat CNAME .
 meetoa.protofire.org CNAME .
 *.meetoa.protofire.org CNAME .
 megeve.beer CNAME .
