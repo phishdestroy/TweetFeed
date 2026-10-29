@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-29 13:00:23 (UTC)</th>
+        <th colspan=4>2026-10-29 13:15:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 29 | 590 | 2939 | 45672 |
-| **:globe_with_meridians: Domains** | 16 | 465 | 2477 | 39446 |
-| **:triangular_flag_on_post: IPs** | 11 | 139 | 2105 | 7836 |
+| **:link: URLs** | 38 | 599 | 2948 | 45681 |
+| **:globe_with_meridians: Domains** | 22 | 471 | 2483 | 39452 |
+| **:triangular_flag_on_post: IPs** | 13 | 141 | 2107 | 7838 |
 | **:1234: SHA256** | 14 | 117 | 445 | 3017 |
 | **:1234: MD5** | 2 | 41 | 94 | 2100 |
 
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 11 | 354 | 3430 | 34471 |
+| **#phishing** | 19 | 362 | 3438 | 34479 |
 | **#Kimsuky** | 8 | 10 | 44 | 13327 |
 | **#DPRK** | 18 | 18 | 23 | 11687 |
 | **#malware** | 2 | 533 | 1144 | 4051 |
@@ -232,14 +232,14 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [smica83](https://x.com/smica83) | 20 |
 | **#2** | [TheM3gatr0n](https://x.com/TheM3gatr0n) | 18 |
-| **#3** | [copy_and_paster](https://x.com/copy_and_paster) | 8 |
-| **#4** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 4 |
-| **#6** | [banthisguy9349](https://x.com/banthisguy9349) | 4 |
-| **#7** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
-| **#8** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#9** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#10** | [suyog41](https://x.com/suyog41) | 2 |
+| **#3** | [webamon_search](https://x.com/webamon_search) | 9 |
+| **#4** | [copy_and_paster](https://x.com/copy_and_paster) | 8 |
+| **#5** | [patialavii](https://x.com/patialavii) | 8 |
+| **#6** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#7** | [masaomi346](https://x.com/masaomi346) | 4 |
+| **#8** | [banthisguy9349](https://x.com/banthisguy9349) | 4 |
+| **#9** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#10** | [PhishStats](https://x.com/PhishStats) | 3 |
 <!-- TOP_REPORTERS_END -->
 
 </div>

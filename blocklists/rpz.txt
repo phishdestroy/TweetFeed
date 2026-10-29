@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2390
-; Updated: 2026-10-29T13:00:22Z
+; Entries: 2396
+; Updated: 2026-10-29T13:15:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793278822 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793279718 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1394,6 +1394,8 @@ docu-sign.click CNAME .
 *.docu-sign.click CNAME .
 documentsonlineaccessonedrivelinksreview.top CNAME .
 *.documentsonlineaccessonedrivelinksreview.top CNAME .
+docusignappinstalle.help CNAME .
+*.docusignappinstalle.help CNAME .
 docusignappinstallers.help CNAME .
 *.docusignappinstallers.help CNAME .
 docusignauthentication.xyz CNAME .
@@ -2330,6 +2332,8 @@ join-inapp.com CNAME .
 *.join-inapp.com CNAME .
 join-msteams.live CNAME .
 *.join-msteams.live CNAME .
+join-zoomm.online CNAME .
+*.join-zoomm.online CNAME .
 joker-whatsapp.com CNAME .
 *.joker-whatsapp.com CNAME .
 jokqumkm.cn CNAME .
@@ -2420,6 +2424,8 @@ knife-whatsapp.com CNAME .
 *.knife-whatsapp.com CNAME .
 ko.webhwsapp-whatsapp.com CNAME .
 *.ko.webhwsapp-whatsapp.com CNAME .
+kokcsgo.com CNAME .
+*.kokcsgo.com CNAME .
 kongzaixian.com CNAME .
 *.kongzaixian.com CNAME .
 kozae666.com CNAME .
@@ -2944,6 +2950,8 @@ nxmpv.addbazaar.com CNAME .
 *.nxmpv.addbazaar.com CNAME .
 nxsugrsw.cn CNAME .
 *.nxsugrsw.cn CNAME .
+nzctjvr.com CNAME .
+*.nzctjvr.com CNAME .
 o6rtgcjdjqyimjxexpejddhdfbehsjn4fcsazfkgwydeb27gqhtdntyd.onion CNAME .
 *.o6rtgcjdjqyimjxexpejddhdfbehsjn4fcsazfkgwydeb27gqhtdntyd.onion CNAME .
 obracertaatacado.com CNAME .
@@ -4232,6 +4240,8 @@ upload.webstatici-whatsapp.com CNAME .
 *.upload.webstatici-whatsapp.com CNAME .
 us06webzoomus2fj2f830440905293.com CNAME .
 *.us06webzoomus2fj2f830440905293.com CNAME .
+us10-web-zoom.com CNAME .
+*.us10-web-zoom.com CNAME .
 us968web-zoom.us CNAME .
 *.us968web-zoom.us CNAME .
 usdt.sftlr.com CNAME .
@@ -4770,6 +4780,8 @@ zoom-meet-invite7845957.s3.us-east-1.amazonaws.com CNAME .
 *.zoom-meet-invite7845957.s3.us-east-1.amazonaws.com CNAME .
 zoomclientsetup.org CNAME .
 *.zoomclientsetup.org CNAME .
+zoomclientus.icu CNAME .
+*.zoomclientus.icu CNAME .
 zoominvite-9ld.pages.dev CNAME .
 *.zoominvite-9ld.pages.dev CNAME .
 zoominviteus07.pages.dev CNAME .
