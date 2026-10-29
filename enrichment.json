@@ -1,5 +1,5 @@
 {
-  "count": 5936,
+  "count": 5970,
   "dead_tweets": {
     "2103019418859053423": {
       "attempts": 2,
@@ -2903,6 +2903,18 @@
       "type": "ip",
       "value": "104.164.55.12"
     },
+    "104.192.2.46": {
+      "confidence": 0.4,
+      "date": "2026-09-30 12:06:55",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "IP and hardware-store domains linked to ShinyHunters activity.",
+      "threat_type": "other",
+      "tweet_id": "2105268148681507272",
+      "type": "ip",
+      "value": "104.192.2.46"
+    },
     "104.194.133.95": {
       "confidence": 0.2,
       "date": "2026-10-24 11:08:20",
@@ -3071,20 +3083,29 @@
       "type": "ip",
       "value": "104.199.243.95"
     },
-    "104.233.217.108": {
-      "confidence": 0.6,
-      "date": "2026-09-28 21:15:32",
-      "enriched_at": "2026-09-29T00:40:04Z",
+    "104.219.237.146": {
+      "confidence": 0.4,
+      "date": "2026-10-12 07:49:58",
+      "enriched_at": "2026-10-29T00:40:03Z",
       "family": null,
-      "suggested_tags": [
-        "opendir",
-        "c2"
-      ],
-      "summary": "Exposed open directory on a US server held a Chinese-speaking operator's AI pentest toolkit, webshell C2, and fraud tooling targeting Chinese payment platforms.",
+      "suggested_tags": [],
+      "summary": "IP addresses and relay domain associated with ShinyHunters activity.",
       "threat_type": "other",
-      "tweet_id": "2104681438268252598",
+      "tweet_id": "2109552142344409504",
       "type": "ip",
-      "value": "104.233.217.108"
+      "value": "104.219.237.146"
+    },
+    "104.219.238.66": {
+      "confidence": 0.4,
+      "date": "2026-10-12 07:49:58",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "IP addresses and relay domain associated with ShinyHunters activity.",
+      "threat_type": "other",
+      "tweet_id": "2109552142344409504",
+      "type": "ip",
+      "value": "104.219.238.66"
     },
     "104.234.186.154": {
       "confidence": 0.5,
@@ -3577,6 +3598,22 @@
       "tweet_id": "2114480608164364397",
       "type": "url",
       "value": "http://107.175.82.242:9000/wilow/jakone.bin"
+    },
+    "107.175.85.215": {
+      "confidence": 0.55,
+      "date": "2026-10-28 21:49:26",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": "GitShell",
+      "suggested_tags": [
+        "apt",
+        "malware",
+        "c2"
+      ],
+      "summary": "IP hosting 'GitShell v4.2' web control panel for webshell management, proxy validation and attack-task orchestration, attributed to 'Apt Team'.",
+      "threat_type": "c2",
+      "tweet_id": "2115561603856810313",
+      "type": "url",
+      "value": "http://107.175.85.215"
     },
     "107.189.21.25": {
       "confidence": 0.8,
@@ -7368,6 +7405,22 @@
       "tweet_id": "2108594904385372616",
       "type": "sha256",
       "value": "14f920e611772134999e437c05956970aa4ac8e1a07ba65568e7c24d5b641390"
+    },
+    "15.0.245.2": {
+      "confidence": 0.6,
+      "date": "2026-10-28 18:41:18",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "booking",
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 IPs and domains plus PDF, JS and PowerShell hashes from a Booking.com-themed campaign abusing ScreenConnect.",
+      "threat_type": "c2",
+      "tweet_id": "2115514259966701740",
+      "type": "url",
+      "value": "http://15.0.245.2"
     },
     "15.204.59.70": {
       "confidence": 0.85,
@@ -12209,6 +12262,38 @@
       "type": "url",
       "value": "http://196.251.121.216/Downloads/NDA.vbs"
     },
+    "1960.ef4x.com": {
+      "confidence": 0.6,
+      "date": "2026-10-28 18:41:18",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "booking",
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 IPs and domains plus PDF, JS and PowerShell hashes from a Booking.com-themed campaign abusing ScreenConnect.",
+      "threat_type": "c2",
+      "tweet_id": "2115514259966701740",
+      "type": "domain",
+      "value": "1960.ef4x.com"
+    },
+    "1960.ef4x.com:8041": {
+      "confidence": 0.8,
+      "date": "2026-10-28 18:28:26",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "booking",
+        "c2",
+        "phishing"
+      ],
+      "summary": "ScreenConnect C2 string from a Booking.com phishing campaign, host 1960.ef4x.com on port 8041, targeting hotel operators.",
+      "threat_type": "c2",
+      "tweet_id": "2115511021976916046",
+      "type": "url",
+      "value": "http://1960.ef4x.com:8041"
+    },
     "196f6b820aaf094b8728a11699e4e91cea464623ab0c3acebdde3d1adab59fb6": {
       "confidence": 0.9,
       "date": "2026-10-01 08:00:40",
@@ -12312,6 +12397,38 @@
       "tweet_id": "2109968038900466012",
       "type": "url",
       "value": "http://198.37.111.206:8008"
+    },
+    "198.37.119.56": {
+      "confidence": 0.6,
+      "date": "2026-10-28 18:41:18",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "booking",
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 IPs and domains plus PDF, JS and PowerShell hashes from a Booking.com-themed campaign abusing ScreenConnect.",
+      "threat_type": "c2",
+      "tweet_id": "2115514259966701740",
+      "type": "url",
+      "value": "http://198.37.119.56"
+    },
+    "198.37.119.63": {
+      "confidence": 0.6,
+      "date": "2026-10-28 18:41:18",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "booking",
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 IPs and domains plus PDF, JS and PowerShell hashes from a Booking.com-themed campaign abusing ScreenConnect.",
+      "threat_type": "c2",
+      "tweet_id": "2115514259966701740",
+      "type": "url",
+      "value": "http://198.37.119.63"
     },
     "198.44.116.31": {
       "confidence": 0.9,
@@ -12634,22 +12751,6 @@
       "tweet_id": "2114818723265835051",
       "type": "sha256",
       "value": "1ec50a6066dc8a222756507df308cfd496183ae333d87eae1635eed330707395"
-    },
-    "1f65ad3dd99bbec1818ca9e27ce9d0689efee1dd3fd76def27fc7327eee46b17": {
-      "confidence": 0.8,
-      "date": "2026-09-28 23:14:02",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the e-Tax app, distributed via a phishing site targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2104711260235612200",
-      "type": "sha256",
-      "value": "1f65ad3dd99bbec1818ca9e27ce9d0689efee1dd3fd76def27fc7327eee46b17"
     },
     "1rpc.io": {
       "confidence": 0.6,
@@ -15441,6 +15542,20 @@
       "type": "url",
       "value": "http://27.50.59.62/New.msi"
     },
+    "279010a4ffffc75756377e1e5b6bff8aaf3a736cce53b643150d08280062e24d": {
+      "confidence": 0.6,
+      "date": "2026-10-28 22:16:07",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "ZIP sample uploaded to MalwareBazaar, tied to a fake GrapheneOS domain (installgarphenos.ink) delivering Mac malware.",
+      "threat_type": "malware",
+      "tweet_id": "2115568321944756621",
+      "type": "sha256",
+      "value": "279010a4ffffc75756377e1e5b6bff8aaf3a736cce53b643150d08280062e24d"
+    },
     "2863aff28573c241781108f0447555a90c526b1ac588c942122c6eaa7f09ba45": {
       "confidence": 0.75,
       "date": "2026-10-14 23:32:16",
@@ -15487,6 +15602,21 @@
       "tweet_id": "2109878497061785665",
       "type": "md5",
       "value": "29056221228ad4ab2e458378010e7c04"
+    },
+    "292db63dc6cde2712cecc0b4b9c96573": {
+      "confidence": 0.5,
+      "date": "2026-10-28 18:41:19",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "booking",
+        "malware"
+      ],
+      "summary": "File hashes from a campaign: 5020.exe, BAT, ZIP, AppService.exe and user.config, likely a ScreenConnect-based Booking.com phishing chain.",
+      "threat_type": "malware",
+      "tweet_id": "2115514262575841732",
+      "type": "md5",
+      "value": "292db63dc6cde2712cecc0b4b9c96573"
     },
     "2940b74b3ede610b86359c4fd6bc9abd069a6060db3aa2f62439aaea782d2c3d": {
       "confidence": 0.6,
@@ -23425,6 +23555,21 @@
       "type": "ip",
       "value": "35.204.20.70"
     },
+    "35.209.187.114": {
+      "confidence": 0.55,
+      "date": "2026-10-28 21:25:00",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "magecart"
+      ],
+      "summary": "Domain pizzabiglatino.com identified as current C2, resolving to a Google Cloud IP; previously known domain linked to Magento compromise research.",
+      "threat_type": "c2",
+      "tweet_id": "2115555457049755670",
+      "type": "url",
+      "value": "http://35.209.187.114"
+    },
     "35.216.174.230": {
       "confidence": 0.9,
       "date": "2026-10-19 02:36:00",
@@ -24542,6 +24687,21 @@
       "type": "sha256",
       "value": "35b63d41888e44520c4c3078261e1946f6b4811ad640cec6bbdd74620afb0ddd"
     },
+    "35d02e1d3a693fead1349c43b2b753e9": {
+      "confidence": 0.5,
+      "date": "2026-10-28 18:41:19",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "booking",
+        "malware"
+      ],
+      "summary": "File hashes from a campaign: 5020.exe, BAT, ZIP, AppService.exe and user.config, likely a ScreenConnect-based Booking.com phishing chain.",
+      "threat_type": "malware",
+      "tweet_id": "2115514262575841732",
+      "type": "md5",
+      "value": "35d02e1d3a693fead1349c43b2b753e9"
+    },
     "35da31b12e2c66f2954b9edb93189d9aefb500deb22d879a0623fc6b0729d0cd": {
       "confidence": 0.5,
       "date": "2026-10-20 17:44:07",
@@ -24690,6 +24850,22 @@
       "tweet_id": "2110316071718678714",
       "type": "sha256",
       "value": "363582d900bfb1188ad417488392dc47193eea1d84b4f55e996509c27177194a"
+    },
+    "366464d1eab72fa04b3b7caa62166f1e": {
+      "confidence": 0.6,
+      "date": "2026-10-28 18:41:18",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "booking",
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 IPs and domains plus PDF, JS and PowerShell hashes from a Booking.com-themed campaign abusing ScreenConnect.",
+      "threat_type": "c2",
+      "tweet_id": "2115514259966701740",
+      "type": "md5",
+      "value": "366464d1eab72fa04b3b7caa62166f1e"
     },
     "36ee3c08ba015e06d74feb1fba658212b842ec09116e37724b90c3abb39b6629": {
       "confidence": 0.5,
@@ -24921,6 +25097,21 @@
       "tweet_id": "2111033937589862588",
       "type": "url",
       "value": "http://37.77.150.214"
+    },
+    "37cb1002a8da805299594243dfb668015f589feb117e3410854cb2b5e858579d": {
+      "confidence": 0.5,
+      "date": "2026-10-28 20:53:22",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "magecart"
+      ],
+      "summary": "Additional samples tied to deepveindrilling.com: UpdateChrome.cmd loader chain fetching a fastly-hosted package with payload run via pythonw.exe.",
+      "threat_type": "malware",
+      "tweet_id": "2115547494507594049",
+      "type": "sha256",
+      "value": "37cb1002a8da805299594243dfb668015f589feb117e3410854cb2b5e858579d"
     },
     "37d7a8c504227f9c1986619fd8148f1737cf94e56ac91687f8ba33be7e945f5e": {
       "confidence": 0.8,
@@ -25799,6 +25990,21 @@
       "type": "sha256",
       "value": "3b3318ee8c7ff6470237a95f263004fa4819fc31efc280b1fc3f3986ab451340"
     },
+    "3b487e29c8934067df661f0cb46e4b61": {
+      "confidence": 0.5,
+      "date": "2026-10-28 18:41:19",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "booking",
+        "malware"
+      ],
+      "summary": "File hashes from a campaign: 5020.exe, BAT, ZIP, AppService.exe and user.config, likely a ScreenConnect-based Booking.com phishing chain.",
+      "threat_type": "malware",
+      "tweet_id": "2115514262575841732",
+      "type": "md5",
+      "value": "3b487e29c8934067df661f0cb46e4b61"
+    },
     "3bf5e5ca85ce6ad688a371a2d67d083c0be0dc4200bb39ddd125de745d9fdff5": {
       "confidence": 0.75,
       "date": "2026-10-20 18:51:00",
@@ -26439,6 +26645,20 @@
       "tweet_id": "2108080707398717706",
       "type": "url",
       "value": "http://43.164.137.93"
+    },
+    "43.165.128.22": {
+      "confidence": 0.85,
+      "date": "2026-10-05 12:45:34",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese Amazon-impersonating phishing hosted on IP 43.165.128.22 (AS132203).",
+      "threat_type": "phishing",
+      "tweet_id": "2107089813820395829",
+      "type": "url",
+      "value": "http://43.165.128.22"
     },
     "43.165.128.97": {
       "confidence": 0.9,
@@ -28351,6 +28571,21 @@
       "type": "sha256",
       "value": "4d174e750d0ea0b1c8c5e2053997199643ca33e4c5e05c666ad02cc1304dc71c"
     },
+    "4d1766e6cd46d8a277bcac1baadf6bcb": {
+      "confidence": 0.5,
+      "date": "2026-10-28 18:41:19",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "booking",
+        "malware"
+      ],
+      "summary": "File hashes from a campaign: 5020.exe, BAT, ZIP, AppService.exe and user.config, likely a ScreenConnect-based Booking.com phishing chain.",
+      "threat_type": "malware",
+      "tweet_id": "2115514262575841732",
+      "type": "md5",
+      "value": "4d1766e6cd46d8a277bcac1baadf6bcb"
+    },
     "4d7861e9df590457dd955a9c7149d0f39526df541964e8341d507f7f2a160fba": {
       "confidence": 0.8,
       "date": "2026-10-07 04:55:27",
@@ -28427,20 +28662,6 @@
       "tweet_id": "2105604256757694867",
       "type": "sha256",
       "value": "4f954c7c6228ca4eb0e6b7c3d5f2d025467996866c2d9ae4dd1f005cb6cb1f19"
-    },
-    "4fa7e28489d578b320723fedd5c5e8ce19e908ef7e2b9aaf843d77487d814f15": {
-      "confidence": 0.5,
-      "date": "2026-09-28 20:58:33",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip 'E-invoice - September 28, 2026' seen from India via abuse.ch, contacting a payload/C2 URL on port 8443.",
-      "threat_type": "malware",
-      "tweet_id": "2104677165618851900",
-      "type": "sha256",
-      "value": "4fa7e28489d578b320723fedd5c5e8ce19e908ef7e2b9aaf843d77487d814f15"
     },
     "5.175.169.152": {
       "confidence": 0.6,
@@ -29229,6 +29450,22 @@
       "type": "sha256",
       "value": "54c6472d99530cca4523378b109d176ec3684d47a32771adaa0eef40df55d2b5"
     },
+    "554c27175cc2b455b641863c55031497feaf4e4e9779576c7e1129504b3ed5c4": {
+      "confidence": 0.75,
+      "date": "2026-10-28 23:53:54",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as e-Tax (Japan), distributed via gadgetcandyzu.com with an associated APK sample; Japanese phishing/fraud lure.",
+      "threat_type": "malware",
+      "tweet_id": "2115592926982197479",
+      "type": "sha256",
+      "value": "554c27175cc2b455b641863c55031497feaf4e4e9779576c7e1129504b3ed5c4"
+    },
     "55e1adcf7b552f67f7d15a5982f1617cdc522430b3d9c2b5a45e0829d5620272": {
       "confidence": 0.85,
       "date": "2026-10-01 12:46:23",
@@ -29244,6 +29481,21 @@
       "tweet_id": "2105640470101791099",
       "type": "sha256",
       "value": "55e1adcf7b552f67f7d15a5982f1617cdc522430b3d9c2b5a45e0829d5620272"
+    },
+    "560c1b90739343ea70a38ce5ad1c37e7b8cbc99308e45a40a1560a7de63c51a1": {
+      "confidence": 0.5,
+      "date": "2026-10-28 20:53:22",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "magecart"
+      ],
+      "summary": "Additional samples tied to deepveindrilling.com: UpdateChrome.cmd loader chain fetching a fastly-hosted package with payload run via pythonw.exe.",
+      "threat_type": "malware",
+      "tweet_id": "2115547494507594049",
+      "type": "sha256",
+      "value": "560c1b90739343ea70a38ce5ad1c37e7b8cbc99308e45a40a1560a7de63c51a1"
     },
     "5767896359.sbs": {
       "confidence": 0.9,
@@ -30665,6 +30917,21 @@
       "type": "sha256",
       "value": "6d031d51ffc5e78171153a4af78ba6d327a9ae332ee432c0243ebc6e23e3188a"
     },
+    "6d43bcc5d29a1aa8ed6014d28fe72dbe26a3a8d4359db78fbaa87a130ff9994e": {
+      "confidence": 0.5,
+      "date": "2026-10-28 20:53:22",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "magecart"
+      ],
+      "summary": "Additional samples tied to deepveindrilling.com: UpdateChrome.cmd loader chain fetching a fastly-hosted package with payload run via pythonw.exe.",
+      "threat_type": "malware",
+      "tweet_id": "2115547494507594049",
+      "type": "sha256",
+      "value": "6d43bcc5d29a1aa8ed6014d28fe72dbe26a3a8d4359db78fbaa87a130ff9994e"
+    },
     "6d7530900146a096a6ee41fc9a59afddc66658b49fdc9408edb283984407afdc": {
       "confidence": 0.75,
       "date": "2026-10-07 04:36:04",
@@ -30950,6 +31217,22 @@
       "tweet_id": "2111958975076090219",
       "type": "sha256",
       "value": "769f9c2902faed7069eb3deb804774b74a6940aacb95a8561d4fb02b029a6340"
+    },
+    "76be713d2e3c1b5cd306e343a8646d5a9b53ac67460cba84288ecc098a9a6d3a": {
+      "confidence": 0.75,
+      "date": "2026-10-28 23:58:24",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as e-Tax (Japan), distributed via themoviemindzu.com with an associated APK sample; Japanese phishing/fraud lure.",
+      "threat_type": "malware",
+      "tweet_id": "2115594061877023225",
+      "type": "sha256",
+      "value": "76be713d2e3c1b5cd306e343a8646d5a9b53ac67460cba84288ecc098a9a6d3a"
     },
     "77.110.114.115": {
       "confidence": 0.6,
@@ -31381,22 +31664,6 @@
       "tweet_id": "2115115324085596651",
       "type": "sha256",
       "value": "7c705366972bc9af7975647d17e85bd0260def700b00f4b40eeff3af847a2c1f"
-    },
-    "7c7f8c8a4a817d7affa27a6c0ac34ba9ed4e96e748c6894dc7fa2ac5b30b2903": {
-      "confidence": 0.8,
-      "date": "2026-09-28 23:20:24",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as a special fixed-amount cash benefit payment, distributed via multiple phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2104712860890976420",
-      "type": "sha256",
-      "value": "7c7f8c8a4a817d7affa27a6c0ac34ba9ed4e96e748c6894dc7fa2ac5b30b2903"
     },
     "7cd391ac16d136755bfec84106946887": {
       "confidence": 0.92,
@@ -32151,6 +32418,22 @@
       "tweet_id": "2107752941801054519",
       "type": "sha256",
       "value": "823fcf547a03d08d256480a97d673c0b62ccef9723f8f830dd66ccd3df5d07df"
+    },
+    "82ad640cd9ed8709766babc77413baa9": {
+      "confidence": 0.6,
+      "date": "2026-10-28 18:41:18",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "booking",
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 IPs and domains plus PDF, JS and PowerShell hashes from a Booking.com-themed campaign abusing ScreenConnect.",
+      "threat_type": "c2",
+      "tweet_id": "2115514259966701740",
+      "type": "md5",
+      "value": "82ad640cd9ed8709766babc77413baa9"
     },
     "82edd622a5d008d3918b663a141a5aa3b0941801d61ff5717c6d52cf67bbdc9f": {
       "confidence": 0.6,
@@ -34443,6 +34726,21 @@
       "type": "sha256",
       "value": "9cf627efefa6927886783915026a92b9ece78aff4952b111f5dcda424be118a0"
     },
+    "9d7606c319111ba5dce0265a07f64257b2198d1db33722f5dc4738f6d3930b88": {
+      "confidence": 0.5,
+      "date": "2026-10-28 20:53:22",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "magecart"
+      ],
+      "summary": "Additional samples tied to deepveindrilling.com: UpdateChrome.cmd loader chain fetching a fastly-hosted package with payload run via pythonw.exe.",
+      "threat_type": "malware",
+      "tweet_id": "2115547494507594049",
+      "type": "sha256",
+      "value": "9d7606c319111ba5dce0265a07f64257b2198d1db33722f5dc4738f6d3930b88"
+    },
     "9dc8574843fdb8f0834bcf2c4d3f5b0c122368b925e0d3a5eec07b8f2d9e8db0": {
       "confidence": 0.35,
       "date": "2026-10-20 13:30:33",
@@ -34730,20 +35028,6 @@
       "tweet_id": "2113601611503120436",
       "type": "sha256",
       "value": "a44cad7e7d26a0f0284ceb2e9a10a964d9e7ab44ab74b22464eb2f836af3d90a"
-    },
-    "a59e3fb800f833d0228ad60929ace5cc080a00edb45a62e98a6ddebeff15f93b": {
-      "confidence": 0.5,
-      "date": "2026-09-28 19:26:14",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious docx '\u0434\u043e\u0433\u043e\u0432\u043e\u0440.docx' seen from Russia via abuse.ch, linked to two URLs including one on port 8443.",
-      "threat_type": "malware",
-      "tweet_id": "2104653930567434431",
-      "type": "sha256",
-      "value": "a59e3fb800f833d0228ad60929ace5cc080a00edb45a62e98a6ddebeff15f93b"
     },
     "a5aaabe0dfe73e2a3f2071c150f4ddbbc5e53cebb6b67fb8425ac4b9038f5f99": {
       "confidence": 0.6,
@@ -35422,6 +35706,21 @@
       "tweet_id": "2110270029673697630",
       "type": "url",
       "value": "https://accoun.omnwpws.cn/1fnw71x4ty"
+    },
+    "account-booking.vercel.app": {
+      "confidence": 0.65,
+      "date": "2026-10-28 18:41:18",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "booking",
+        "phishing"
+      ],
+      "summary": "Domains used in a Booking.com-themed phishing/malware campaign, including vercel, wixmp, blogspot and other hosting.",
+      "threat_type": "phishing",
+      "tweet_id": "2115514257752133832",
+      "type": "domain",
+      "value": "account-booking.vercel.app"
     },
     "account-icloud.cquup.com": {
       "confidence": 0.9,
@@ -42969,6 +43268,21 @@
       "type": "domain",
       "value": "authpush-whatsapp.com"
     },
+    "authy-ledger.at": {
+      "confidence": 0.8,
+      "date": "2026-10-28 19:28:49",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Set of phishing domains impersonating Ledger, OKX and SSO/auth sync services targeting crypto wallet users.",
+      "threat_type": "phishing",
+      "tweet_id": "2115526217537298573",
+      "type": "domain",
+      "value": "authy-ledger.at"
+    },
     "avkqcf.cfd": {
       "confidence": 0.93,
       "date": "2026-10-06 09:26:52",
@@ -43127,20 +43441,6 @@
       "tweet_id": "2107800310509101170",
       "type": "sha256",
       "value": "b01c59ae0a76527503799aab109bd701e34f260d192722a8cf12c97a4e6d208c"
-    },
-    "b0cb369029a7dd7de6510d60caac154a0bd91ad6b9a08d69c90227627743ec71": {
-      "confidence": 0.6,
-      "date": "2026-09-28 19:20:21",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Rust-compiled downloader named apex_verify with 0 VT hits that fetches a known malicious Mach-O named chrome (macOS).",
-      "threat_type": "malware",
-      "tweet_id": "2104652451378790793",
-      "type": "sha256",
-      "value": "b0cb369029a7dd7de6510d60caac154a0bd91ad6b9a08d69c90227627743ec71"
     },
     "b0d8467f2f2ed6a104e45b828b8f3c9637f8cd73a66166c3441aefb336906e95": {
       "confidence": 0.75,
@@ -47676,6 +47976,20 @@
       "type": "domain",
       "value": "cfclear.devdesk.workers.dev"
     },
+    "cfmcardaio.it": {
+      "confidence": 0.9,
+      "date": "2026-10-28 19:22:47",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake WordPress subscription expiry email redirecting to a cloned login page that steals credentials via send_login.php with Telegram exfiltration.",
+      "threat_type": "phishing",
+      "tweet_id": "2115524697471541300",
+      "type": "domain",
+      "value": "cfmcardaio.it"
+    },
     "cgazkyh.cn": {
       "confidence": 0.8,
       "date": "2026-10-18 23:13:52",
@@ -50723,6 +51037,35 @@
       "type": "domain",
       "value": "decode-whatsapp.com"
     },
+    "deepveindrilling.com": {
+      "confidence": 0.5,
+      "date": "2026-10-28 19:28:02",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "magecart"
+      ],
+      "summary": "Domain deepveindrilling.com linked to a malware sample from Bangladesh, possibly related to a Magento CMS block loader campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2115526020560249143",
+      "type": "domain",
+      "value": "deepveindrilling.com"
+    },
+    "deepveindrilling.com/?s=9d7e155b": {
+      "confidence": 0.5,
+      "date": "2026-10-28 20:31:51",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "UpdateChrome.cmd chain leading to deepveindrilling.com and a fastly-hosted package that runs a payload from LICENSE.txt via pythonw.exe; low AV detection.",
+      "threat_type": "malware",
+      "tweet_id": "2115542081376604368",
+      "type": "url",
+      "value": "https://deepveindrilling.com/?s=9d7e155b"
+    },
     "defimoxx.top": {
       "confidence": 0.7,
       "date": "2026-10-19 21:28:27",
@@ -51142,6 +51485,36 @@
       "type": "domain",
       "value": "devhub-whatsapp.com"
     },
+    "device.ledger-config.live": {
+      "confidence": 0.9,
+      "date": "2026-10-28 19:06:41",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Fake Ledger firmware update emails with cloaked redirector leading to a fake Ledger site harvesting wallet recovery phrases.",
+      "threat_type": "phishing",
+      "tweet_id": "2115520646352630133",
+      "type": "domain",
+      "value": "device.ledger-config.live"
+    },
+    "device.ledger-config.live/en/verification": {
+      "confidence": 0.9,
+      "date": "2026-10-28 19:06:41",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Fake Ledger firmware update emails with cloaked redirector leading to a fake Ledger site harvesting wallet recovery phrases.",
+      "threat_type": "phishing",
+      "tweet_id": "2115520646352630133",
+      "type": "url",
+      "value": "http://device.ledger-config.live/en/verification"
+    },
     "device.webstatici-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -51537,6 +51910,34 @@
       "tweet_id": "2108080707398717706",
       "type": "url",
       "value": "https://dlhengshengtang.com/5b2b0Jjs/#/login"
+    },
+    "dls-content-cdn.global.ssl.fastly.net": {
+      "confidence": 0.5,
+      "date": "2026-10-28 20:31:51",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "UpdateChrome.cmd chain leading to deepveindrilling.com and a fastly-hosted package that runs a payload from LICENSE.txt via pythonw.exe; low AV detection.",
+      "threat_type": "malware",
+      "tweet_id": "2115542081376604368",
+      "type": "domain",
+      "value": "dls-content-cdn.global.ssl.fastly.net"
+    },
+    "dls-content-cdn.global.ssl.fastly.net/builds/ddd27859c246c2a9a1d8c7740ed690de": {
+      "confidence": 0.5,
+      "date": "2026-10-28 20:31:51",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "UpdateChrome.cmd chain leading to deepveindrilling.com and a fastly-hosted package that runs a payload from LICENSE.txt via pythonw.exe; low AV detection.",
+      "threat_type": "malware",
+      "tweet_id": "2115542081376604368",
+      "type": "url",
+      "value": "https://dls-content-cdn.global.ssl.fastly.net/builds/ddd27859c246c2a9a1d8c7740ed690de"
     },
     "dmpweb-whatsapp.com": {
       "confidence": 0.65,
@@ -51956,6 +52357,21 @@
       "tweet_id": "2109981755138867658",
       "type": "domain",
       "value": "dont-lose-ur-shit.whitelist.run"
+    },
+    "download-files.wixmp.com": {
+      "confidence": 0.65,
+      "date": "2026-10-28 18:41:18",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "booking",
+        "phishing"
+      ],
+      "summary": "Domains used in a Booking.com-themed phishing/malware campaign, including vercel, wixmp, blogspot and other hosting.",
+      "threat_type": "phishing",
+      "tweet_id": "2115514257752133832",
+      "type": "domain",
+      "value": "download-files.wixmp.com"
     },
     "download.sakenlogistics.com": {
       "confidence": 0.85,
@@ -53996,6 +54412,22 @@
       "type": "sha256",
       "value": "f0a1ff80146ad904ad79b1b36e394e7033e3bba92cdf79967643723be4b9e01a"
     },
+    "f12f8237feb7bdfb066162d72ff3eec3": {
+      "confidence": 0.6,
+      "date": "2026-10-28 18:41:18",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "booking",
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 IPs and domains plus PDF, JS and PowerShell hashes from a Booking.com-themed campaign abusing ScreenConnect.",
+      "threat_type": "c2",
+      "tweet_id": "2115514259966701740",
+      "type": "md5",
+      "value": "f12f8237feb7bdfb066162d72ff3eec3"
+    },
     "f1d3d99a9a56e4daaf53ea8cc20a4c0ffbf1697076e08a9b0649663e9502118f": {
       "confidence": 0.75,
       "date": "2026-09-29 22:49:03",
@@ -54084,6 +54516,21 @@
       "type": "md5",
       "value": "f54aea51d182e64b13d9a1a2876ab61c"
     },
+    "f61f168b00a2b33bbe58b5c640a15354": {
+      "confidence": 0.5,
+      "date": "2026-10-28 18:41:19",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "booking",
+        "malware"
+      ],
+      "summary": "File hashes from a campaign: 5020.exe, BAT, ZIP, AppService.exe and user.config, likely a ScreenConnect-based Booking.com phishing chain.",
+      "threat_type": "malware",
+      "tweet_id": "2115514262575841732",
+      "type": "md5",
+      "value": "f61f168b00a2b33bbe58b5c640a15354"
+    },
     "f620114d205fae0275faabab965db7d6ab47942cee71084d1d6d0fd75265a138": {
       "confidence": 0.8,
       "date": "2026-10-13 23:31:39",
@@ -54140,6 +54587,22 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "f7-whatsapp.com"
+    },
+    "f7d69eb3676f025cdaf5d387ca10dfb2": {
+      "confidence": 0.6,
+      "date": "2026-10-28 18:41:18",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "booking",
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 IPs and domains plus PDF, JS and PowerShell hashes from a Booking.com-themed campaign abusing ScreenConnect.",
+      "threat_type": "c2",
+      "tweet_id": "2115514259966701740",
+      "type": "md5",
+      "value": "f7d69eb3676f025cdaf5d387ca10dfb2"
     },
     "f7d9d07b72d6c75f0d5678ff609e5f37": {
       "confidence": 0.15,
@@ -56946,6 +57409,22 @@
       "type": "domain",
       "value": "g9-whatsapp.com"
     },
+    "gadgetcandyzu.com": {
+      "confidence": 0.75,
+      "date": "2026-10-28 23:53:54",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as e-Tax (Japan), distributed via gadgetcandyzu.com with an associated APK sample; Japanese phishing/fraud lure.",
+      "threat_type": "malware",
+      "tweet_id": "2115592926982197479",
+      "type": "domain",
+      "value": "gadgetcandyzu.com"
+    },
     "gakik.cn": {
       "confidence": 0.88,
       "date": "2026-10-19 02:08:30",
@@ -58533,38 +59012,6 @@
       "type": "domain",
       "value": "hardwood-studio-obviously-briefing.trycloudflare.com"
     },
-    "hasoadwaznqps.com": {
-      "confidence": 0.8,
-      "date": "2026-09-28 23:20:24",
-      "enriched_at": "2026-10-21T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Japanese-language phishing pages posing as a special fixed-amount benefit payment, distributing an Android malware sample across several lookalike domains.",
-      "threat_type": "malware",
-      "tweet_id": "2104712860890976420",
-      "type": "domain",
-      "value": "hasoadwaznqps.com"
-    },
-    "hasoadwaznqps.com/transtioncash": {
-      "confidence": 0.8,
-      "date": "2026-09-28 23:20:24",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as a special fixed-amount cash benefit payment, distributed via multiple phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2104712860890976420",
-      "type": "url",
-      "value": "https://hasoadwaznqps.com/transtioncash/"
-    },
     "havelbeenpwned.net": {
       "confidence": 0.7,
       "date": "2026-10-20 13:59:03",
@@ -58862,38 +59309,6 @@
       "tweet_id": "2108338144068386954",
       "type": "domain",
       "value": "hfxlq55.cn"
-    },
-    "hhmjjdfwzx.com": {
-      "confidence": 0.8,
-      "date": "2026-09-28 23:20:24",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as a special fixed-amount cash benefit payment, distributed via multiple phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2104712860890976420",
-      "type": "domain",
-      "value": "hhmjjdfwzx.com"
-    },
-    "hhmjjdfwzx.com/transtioncash": {
-      "confidence": 0.8,
-      "date": "2026-09-28 23:20:24",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as a special fixed-amount cash benefit payment, distributed via multiple phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2104712860890976420",
-      "type": "url",
-      "value": "https://hhmjjdfwzx.com/transtioncash/"
     },
     "hi.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
@@ -59258,6 +59673,36 @@
       "tweet_id": "2112583368479318236",
       "type": "domain",
       "value": "hostpush-whatsapp.com"
+    },
+    "hotelalloldnewfinal.gptjailbreak.net": {
+      "confidence": 0.65,
+      "date": "2026-10-28 18:41:18",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "booking",
+        "phishing"
+      ],
+      "summary": "Domains used in a Booking.com-themed phishing/malware campaign, including vercel, wixmp, blogspot and other hosting.",
+      "threat_type": "phishing",
+      "tweet_id": "2115514257752133832",
+      "type": "domain",
+      "value": "hotelalloldnewfinal.gptjailbreak.net"
+    },
+    "hotelnov26.blogspot.com": {
+      "confidence": 0.65,
+      "date": "2026-10-28 18:41:18",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "booking",
+        "phishing"
+      ],
+      "summary": "Domains used in a Booking.com-themed phishing/malware campaign, including vercel, wixmp, blogspot and other hosting.",
+      "threat_type": "phishing",
+      "tweet_id": "2115514257752133832",
+      "type": "domain",
+      "value": "hotelnov26.blogspot.com"
     },
     "howto.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -59715,6 +60160,21 @@
       "type": "url",
       "value": "http://ibtuxr641i.c4-explosive-workshops.de/l/dN8uUIAgPm0"
     },
+    "id-review.at": {
+      "confidence": 0.8,
+      "date": "2026-10-28 19:28:49",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Set of phishing domains impersonating Ledger, OKX and SSO/auth sync services targeting crypto wallet users.",
+      "threat_type": "phishing",
+      "tweet_id": "2115526217537298573",
+      "type": "domain",
+      "value": "id-review.at"
+    },
     "id-so-net-ne-jp.duckdns.org": {
       "confidence": 0.85,
       "date": "2026-10-07 05:31:30",
@@ -60155,6 +60615,34 @@
       "type": "domain",
       "value": "instagram.dothome.co.kr"
     },
+    "installgarphenos.ink": {
+      "confidence": 0.5,
+      "date": "2026-10-28 22:10:45",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious domain installgarphenos.ink impersonating GrapheneOS.",
+      "threat_type": "malware",
+      "tweet_id": "2115566967851782394",
+      "type": "url",
+      "value": "http://installgarphenos.ink"
+    },
+    "installgarphenos.ink/grapheneos.zip": {
+      "confidence": 0.6,
+      "date": "2026-10-28 22:13:41",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Fake GrapheneOS domain installgarphenos.ink serving a GrapheneOS.zip believed to contain macOS malware.",
+      "threat_type": "malware",
+      "tweet_id": "2115567707026538849",
+      "type": "url",
+      "value": "https://installgarphenos.ink/GrapheneOS.zip"
+    },
     "instantposupdate.com": {
       "confidence": 0.6,
       "date": "2026-10-13 19:46:48",
@@ -60184,6 +60672,21 @@
       "tweet_id": "2108499632909123917",
       "type": "domain",
       "value": "instantupdate.dev"
+    },
+    "integration-auth.com": {
+      "confidence": 0.8,
+      "date": "2026-10-28 19:28:49",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Set of phishing domains impersonating Ledger, OKX and SSO/auth sync services targeting crypto wallet users.",
+      "threat_type": "phishing",
+      "tweet_id": "2115526217537298573",
+      "type": "domain",
+      "value": "integration-auth.com"
     },
     "interacty.me": {
       "confidence": 0.8,
@@ -60749,34 +61252,6 @@
       "type": "domain",
       "value": "jbivjg.cn"
     },
-    "jcanskjihdajio.cyou": {
-      "confidence": 0.5,
-      "date": "2026-09-28 20:58:33",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip 'E-invoice - September 28, 2026' seen from India via abuse.ch, contacting a payload/C2 URL on port 8443.",
-      "threat_type": "malware",
-      "tweet_id": "2104677165618851900",
-      "type": "domain",
-      "value": "jcanskjihdajio.cyou"
-    },
-    "jcanskjihdajio.cyou:8443": {
-      "confidence": 0.5,
-      "date": "2026-09-28 20:58:33",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip 'E-invoice - September 28, 2026' seen from India via abuse.ch, contacting a payload/C2 URL on port 8443.",
-      "threat_type": "malware",
-      "tweet_id": "2104677165618851900",
-      "type": "url",
-      "value": "https://jcanskjihdajio.cyou:8443"
-    },
     "jfkjetblue.com": {
       "confidence": 0.85,
       "date": "2026-10-02 18:54:30",
@@ -61324,6 +61799,20 @@
       "tweet_id": "2108671720316104919",
       "type": "url",
       "value": "http://justtoit.icu/IVS/IVS/IV/evite-source/"
+    },
+    "jwscaiwu.com": {
+      "confidence": 0.85,
+      "date": "2026-09-30 12:52:28",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing sites impersonating Rakuten (Japan) across several domains with /point/download/ paths.",
+      "threat_type": "phishing",
+      "tweet_id": "2105279613614330291",
+      "type": "domain",
+      "value": "jwscaiwu.com"
     },
     "jwscaiwu.com/point/download": {
       "confidence": 0.9,
@@ -62298,6 +62787,22 @@
       "type": "domain",
       "value": "levelonelearns.com"
     },
+    "lewokodwqko.icu": {
+      "confidence": 0.85,
+      "date": "2026-09-29 13:24:52",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": "MioLab",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2"
+      ],
+      "summary": "MioLab macOS stealer delivered as Remote Buddy_2.7.3.dmg, with C2 at lewokodwqko.icu.",
+      "threat_type": "c2",
+      "tweet_id": "2104925378641018892",
+      "type": "domain",
+      "value": "lewokodwqko.icu"
+    },
     "lexer-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -62414,6 +62919,21 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "limit-whatsapp.com"
+    },
+    "link-ledger.at": {
+      "confidence": 0.8,
+      "date": "2026-10-28 19:28:49",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Set of phishing domains impersonating Ledger, OKX and SSO/auth sync services targeting crypto wallet users.",
+      "threat_type": "phishing",
+      "tweet_id": "2115526217537298573",
+      "type": "domain",
+      "value": "link-ledger.at"
     },
     "linkauth-whatsapp.com": {
       "confidence": 0.7,
@@ -63010,6 +63530,21 @@
       "type": "domain",
       "value": "loneiggel.com"
     },
+    "lookup-lgr.to": {
+      "confidence": 0.9,
+      "date": "2026-10-28 19:06:41",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Fake Ledger firmware update emails with cloaked redirector leading to a fake Ledger site harvesting wallet recovery phrases.",
+      "threat_type": "phishing",
+      "tweet_id": "2115520646352630133",
+      "type": "domain",
+      "value": "lookup-lgr.to"
+    },
     "lookup-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -63127,34 +63662,6 @@
       "tweet_id": "2110308506255417764",
       "type": "domain",
       "value": "lryjfreporting.5tr.org"
-    },
-    "luckyprint52.ru": {
-      "confidence": 0.5,
-      "date": "2026-09-28 19:26:14",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious docx '\u0434\u043e\u0433\u043e\u0432\u043e\u0440.docx' seen from Russia via abuse.ch, linked to two URLs including one on port 8443.",
-      "threat_type": "malware",
-      "tweet_id": "2104653930567434431",
-      "type": "domain",
-      "value": "luckyprint52.ru"
-    },
-    "luckyprint52.ru/abdjlkflasdfjgdfkadflg": {
-      "confidence": 0.5,
-      "date": "2026-09-28 19:26:14",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious docx '\u0434\u043e\u0433\u043e\u0432\u043e\u0440.docx' seen from Russia via abuse.ch, linked to two URLs including one on port 8443.",
-      "threat_type": "malware",
-      "tweet_id": "2104653930567434431",
-      "type": "url",
-      "value": "https://luckyprint52.ru/abdjlkflasdfjgdfkadflg"
     },
     "luoc.run": {
       "confidence": 0.9,
@@ -64505,6 +65012,21 @@
       "tweet_id": "2112544995291120122",
       "type": "domain",
       "value": "mimori.group"
+    },
+    "mineiicancry10june2026w2limilim.blogspot.com": {
+      "confidence": 0.65,
+      "date": "2026-10-28 18:41:18",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "booking",
+        "phishing"
+      ],
+      "summary": "Domains used in a Booking.com-themed phishing/malware campaign, including vercel, wixmp, blogspot and other hosting.",
+      "threat_type": "phishing",
+      "tweet_id": "2115514257752133832",
+      "type": "domain",
+      "value": "mineiicancry10june2026w2limilim.blogspot.com"
     },
     "minha-maga-online.com": {
       "confidence": 0.93,
@@ -66026,21 +66548,6 @@
       "type": "domain",
       "value": "nightflamevortex.top"
     },
-    "nildex.com": {
-      "confidence": 0.8,
-      "date": "2026-09-28 18:50:29",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "scam"
-      ],
-      "summary": "Nildex.com flagged as high-risk crypto scam with reports of withdrawal issues and extra requirements to move funds.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2104644935974539319",
-      "type": "domain",
-      "value": "nildex.com"
-    },
     "nilehost.cloud": {
       "confidence": 0.88,
       "date": "2026-10-01 03:25:11",
@@ -66269,6 +66776,21 @@
       "tweet_id": "2111955748238610482",
       "type": "url",
       "value": "https://novametalinc.com/content/rzpspjbard"
+    },
+    "novhotellogs.aclobe.me": {
+      "confidence": 0.65,
+      "date": "2026-10-28 18:41:18",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "booking",
+        "phishing"
+      ],
+      "summary": "Domains used in a Booking.com-themed phishing/malware campaign, including vercel, wixmp, blogspot and other hosting.",
+      "threat_type": "phishing",
+      "tweet_id": "2115514257752133832",
+      "type": "domain",
+      "value": "novhotellogs.aclobe.me"
     },
     "nozazisoda.z11.web.core.windows.net": {
       "confidence": 0.93,
@@ -67118,22 +67640,6 @@
       "type": "domain",
       "value": "ophtalmovisus.com"
     },
-    "oppsite.dothome.co.kr": {
-      "confidence": 0.7,
-      "date": "2026-09-29 00:07:13",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "kimsuky",
-        "apt",
-        "c2"
-      ],
-      "summary": "Kimsuky (North Korea) C2 infrastructure hosted on the dothome.co.kr free hosting domain oppsite.dothome.co.kr.",
-      "threat_type": "c2",
-      "tweet_id": "2104724643420754209",
-      "type": "domain",
-      "value": "oppsite.dothome.co.kr"
-    },
     "opsbox-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -67967,6 +68473,21 @@
       "type": "url",
       "value": "https://pixeldrain.com/api/file/LEfVj7fg?download"
     },
+    "pizzabiglatino.com": {
+      "confidence": 0.55,
+      "date": "2026-10-28 21:25:00",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "magecart"
+      ],
+      "summary": "Domain pizzabiglatino.com identified as current C2, resolving to a Google Cloud IP; previously known domain linked to Magento compromise research.",
+      "threat_type": "c2",
+      "tweet_id": "2115555457049755670",
+      "type": "domain",
+      "value": "pizzabiglatino.com"
+    },
     "pl.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -68166,38 +68687,6 @@
       "type": "url",
       "value": "https://poiwaksuwa.com/point/download/"
     },
-    "poiwaldsas.com": {
-      "confidence": 0.8,
-      "date": "2026-09-28 23:20:24",
-      "enriched_at": "2026-10-25T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware"
-      ],
-      "summary": "Japanese phishing campaign posing as a special cash benefit, distributing Android malware via several lookalike domains.",
-      "threat_type": "malware",
-      "tweet_id": "2104712860890976420",
-      "type": "domain",
-      "value": "poiwaldsas.com"
-    },
-    "poiwaldsas.com/transtioncash": {
-      "confidence": 0.8,
-      "date": "2026-09-28 23:20:24",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as a special fixed-amount cash benefit payment, distributed via multiple phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2104712860890976420",
-      "type": "url",
-      "value": "https://poiwaldsas.com/transtioncash/"
-    },
     "policyadvisordesk.info": {
       "confidence": 0.8,
       "date": "2026-10-23 22:03:03",
@@ -68298,38 +68787,6 @@
       "tweet_id": "2105848161856328187",
       "type": "domain",
       "value": "portlcoedu.com"
-    },
-    "posidwaksd.com": {
-      "confidence": 0.8,
-      "date": "2026-09-28 23:20:24",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as a special fixed-amount cash benefit payment, distributed via multiple phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2104712860890976420",
-      "type": "domain",
-      "value": "posidwaksd.com"
-    },
-    "posidwaksd.com/transtioncash": {
-      "confidence": 0.8,
-      "date": "2026-09-28 23:20:24",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as a special fixed-amount cash benefit payment, distributed via multiple phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2104712860890976420",
-      "type": "url",
-      "value": "https://posidwaksd.com/transtioncash/"
     },
     "posupdate.zip": {
       "confidence": 0.6,
@@ -68772,34 +69229,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "proxysrv-whatsapp.com"
-    },
-    "pso-ngd.ru": {
-      "confidence": 0.5,
-      "date": "2026-09-28 19:26:14",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious docx '\u0434\u043e\u0433\u043e\u0432\u043e\u0440.docx' seen from Russia via abuse.ch, linked to two URLs including one on port 8443.",
-      "threat_type": "malware",
-      "tweet_id": "2104653930567434431",
-      "type": "domain",
-      "value": "pso-ngd.ru"
-    },
-    "pso-ngd.ru:8443": {
-      "confidence": 0.5,
-      "date": "2026-09-28 19:26:14",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious docx '\u0434\u043e\u0433\u043e\u0432\u043e\u0440.docx' seen from Russia via abuse.ch, linked to two URLs including one on port 8443.",
-      "threat_type": "malware",
-      "tweet_id": "2104653930567434431",
-      "type": "url",
-      "value": "https://pso-ngd.ru:8443"
     },
     "psoz96apk.9yyl9.net": {
       "confidence": 0.95,
@@ -70305,6 +70734,21 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "reponode-whatsapp.com"
+    },
+    "report-okx.com": {
+      "confidence": 0.8,
+      "date": "2026-10-28 19:28:49",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Set of phishing domains impersonating Ledger, OKX and SSO/auth sync services targeting crypto wallet users.",
+      "threat_type": "phishing",
+      "tweet_id": "2115526217537298573",
+      "type": "domain",
+      "value": "report-okx.com"
     },
     "reposync.to": {
       "confidence": 0.9,
@@ -73289,6 +73733,21 @@
       "type": "domain",
       "value": "sso-808526.gmo-aozora.app"
     },
+    "sso-sync.at": {
+      "confidence": 0.8,
+      "date": "2026-10-28 19:28:49",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Set of phishing domains impersonating Ledger, OKX and SSO/auth sync services targeting crypto wallet users.",
+      "threat_type": "phishing",
+      "tweet_id": "2115526217537298573",
+      "type": "domain",
+      "value": "sso-sync.at"
+    },
     "ssossossosss.duckdns.org": {
       "confidence": 0.7,
       "date": "2026-09-30 18:37:11",
@@ -74989,6 +75448,36 @@
       "type": "domain",
       "value": "sxgfy.cn"
     },
+    "sync-app.at": {
+      "confidence": 0.8,
+      "date": "2026-10-28 19:28:49",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Set of phishing domains impersonating Ledger, OKX and SSO/auth sync services targeting crypto wallet users.",
+      "threat_type": "phishing",
+      "tweet_id": "2115526217537298573",
+      "type": "domain",
+      "value": "sync-app.at"
+    },
+    "sync-user.to": {
+      "confidence": 0.8,
+      "date": "2026-10-28 19:28:49",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Set of phishing domains impersonating Ledger, OKX and SSO/auth sync services targeting crypto wallet users.",
+      "threat_type": "phishing",
+      "tweet_id": "2115526217537298573",
+      "type": "domain",
+      "value": "sync-user.to"
+    },
     "sync.webapi-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -76383,6 +76872,22 @@
       "type": "domain",
       "value": "theme-whatsapp.com"
     },
+    "themoviemindzu.com": {
+      "confidence": 0.75,
+      "date": "2026-10-28 23:58:24",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as e-Tax (Japan), distributed via themoviemindzu.com with an associated APK sample; Japanese phishing/fraud lure.",
+      "threat_type": "malware",
+      "tweet_id": "2115594061877023225",
+      "type": "domain",
+      "value": "themoviemindzu.com"
+    },
     "theocbuildinggroup.screenconnect.com": {
       "confidence": 0.85,
       "date": "2026-10-16 05:14:57",
@@ -76660,34 +77165,6 @@
       "tweet_id": "2109430647815323920",
       "type": "domain",
       "value": "tmmkxi.cn"
-    },
-    "tnfqjy.cfd": {
-      "confidence": 0.85,
-      "date": "2026-09-29 00:34:59",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating Sumitomo Mitsui Trust Club card services on a .cfd domain.",
-      "threat_type": "phishing",
-      "tweet_id": "2104731632213311895",
-      "type": "domain",
-      "value": "tnfqjy.cfd"
-    },
-    "tnfqjy.cfd/sumitclub/#/index": {
-      "confidence": 0.85,
-      "date": "2026-09-29 00:34:59",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating Sumitomo Mitsui Trust Club card services on a .cfd domain.",
-      "threat_type": "phishing",
-      "tweet_id": "2104731632213311895",
-      "type": "url",
-      "value": "https://tnfqjy.cfd/sumitclub/#/index"
     },
     "toastposupdate.com": {
       "confidence": 0.55,
@@ -77715,6 +78192,20 @@
       "type": "domain",
       "value": "userhub-coinbase.com"
     },
+    "userswordpress-signin-customer.aromadiroma.org": {
+      "confidence": 0.9,
+      "date": "2026-10-28 19:22:47",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake WordPress subscription expiry email redirecting to a cloned login page that steals credentials via send_login.php with Telegram exfiltration.",
+      "threat_type": "phishing",
+      "tweet_id": "2115524697471541300",
+      "type": "domain",
+      "value": "userswordpress-signin-customer.aromadiroma.org"
+    },
     "userun-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -78564,6 +79055,21 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "walkingpad.cslt168.com"
+    },
+    "wallet-update.at": {
+      "confidence": 0.8,
+      "date": "2026-10-28 19:28:49",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Set of phishing domains impersonating Ledger, OKX and SSO/auth sync services targeting crypto wallet users.",
+      "threat_type": "phishing",
+      "tweet_id": "2115526217537298573",
+      "type": "domain",
+      "value": "wallet-update.at"
     },
     "walletsecurity.dev": {
       "confidence": 0.7,
@@ -80342,22 +80848,6 @@
       "type": "domain",
       "value": "workspacegranite.com"
     },
-    "worldprimenew-jp.com": {
-      "confidence": 0.8,
-      "date": "2026-09-28 23:14:02",
-      "enriched_at": "2026-09-29T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the e-Tax app, distributed via a phishing site targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2104711260235612200",
-      "type": "domain",
-      "value": "worldprimenew-jp.com"
-    },
     "worldweb-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -80722,6 +81212,20 @@
       "tweet_id": "2115074756974448759",
       "type": "url",
       "value": "https://www.cdiscount.com?source_id=&sub1=dbg9ur60fgns7383je5g&adv1=&adv2="
+    },
+    "www.cdiscount.com?source_id=&sub1=dbh5g060fgns7386rkt0&adv1=&adv2=": {
+      "confidence": 0.7,
+      "date": "2026-10-28 21:27:56",
+      "enriched_at": "2026-10-29T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing URL impersonating Cdiscount, hosted behind Cloudflare, reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2115556195058798795",
+      "type": "url",
+      "value": "https://www.cdiscount.com?source_id=&sub1=dbh5g060fgns7386rkt0&adv1=&adv2="
     },
     "www.chefstablehub.com": {
       "confidence": 0.85,
@@ -83068,6 +83572,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-28T18:40:04Z",
+  "generated_at": "2026-10-29T00:40:03Z",
   "window_days": 30
 }
