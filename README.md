@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-29 09:15:23 (UTC)</th>
+        <th colspan=4>2026-10-29 09:30:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 15 | 576 | 2925 | 45658 |
-| **:globe_with_meridians: Domains** | 11 | 460 | 2472 | 39441 |
-| **:triangular_flag_on_post: IPs** | 4 | 132 | 2098 | 7829 |
+| **:link: URLs** | 18 | 579 | 2928 | 45661 |
+| **:globe_with_meridians: Domains** | 12 | 461 | 2473 | 39442 |
+| **:triangular_flag_on_post: IPs** | 5 | 133 | 2099 | 7830 |
 | **:1234: SHA256** | 7 | 110 | 438 | 3010 |
 | **:1234: MD5** | 2 | 41 | 94 | 2100 |
 
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 8 | 351 | 3427 | 34468 |
+| **#phishing** | 9 | 352 | 3428 | 34469 |
 | **#Kimsuky** | 8 | 10 | 44 | 13327 |
 | **#DPRK** | 18 | 18 | 23 | 11687 |
 | **#malware** | 2 | 533 | 1144 | 4051 |
@@ -233,12 +233,12 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [TheM3gatr0n](https://x.com/TheM3gatr0n) | 18 |
 | **#2** | [copy_and_paster](https://x.com/copy_and_paster) | 8 |
 | **#3** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#4** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 2 |
-| **#6** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#7** | [suyog41](https://x.com/suyog41) | 2 |
-| **#8** | [skocherhan](https://x.com/skocherhan) | 1 |
-| **#9** | [-](https://x.com/-) | 0 |
+| **#4** | [banthisguy9349](https://x.com/banthisguy9349) | 4 |
+| **#5** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#6** | [masaomi346](https://x.com/masaomi346) | 2 |
+| **#7** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#8** | [suyog41](https://x.com/suyog41) | 2 |
+| **#9** | [skocherhan](https://x.com/skocherhan) | 1 |
 | **#10** | [-](https://x.com/-) | 0 |
 <!-- TOP_REPORTERS_END -->
 

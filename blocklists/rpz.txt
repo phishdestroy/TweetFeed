@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2385
-; Updated: 2026-10-29T09:15:21Z
+; Entries: 2386
+; Updated: 2026-10-29T09:30:22Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793265321 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793266222 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3124,6 +3124,8 @@ play-googlese.app CNAME .
 *.play-googlese.app CNAME .
 plbkm.cn CNAME .
 *.plbkm.cn CNAME .
+plesk.swissrdp.com CNAME .
+*.plesk.swissrdp.com CNAME .
 pnalumni.dgitd.anchorbolnorth.com CNAME .
 *.pnalumni.dgitd.anchorbolnorth.com CNAME .
 pnujh48.cn CNAME .
