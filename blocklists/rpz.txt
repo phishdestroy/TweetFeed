@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2418
-; Updated: 2026-10-29T18:45:50Z
+; Entries: 2419
+; Updated: 2026-10-29T19:30:21Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793299550 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793302221 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -316,6 +316,8 @@ api.adoptium.net CNAME .
 *.api.adoptium.net CNAME .
 api.brandogdigital.org CNAME .
 *.api.brandogdigital.org CNAME .
+api.kkxsnjd.click CNAME .
+*.api.kkxsnjd.click CNAME .
 api.mitsui.smt7mlj.pro CNAME .
 *.api.mitsui.smt7mlj.pro CNAME .
 api.mitsui.syzing.com CNAME .
