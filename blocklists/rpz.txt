@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2404
-; Updated: 2026-10-29T15:30:22Z
+; Entries: 2408
+; Updated: 2026-10-29T15:45:21Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793287822 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793288721 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1948,6 +1948,8 @@ go8-whatsapp.com CNAME .
 *.go8-whatsapp.com CNAME .
 goinsideitmore.com CNAME .
 *.goinsideitmore.com CNAME .
+goja.click CNAME .
+*.goja.click CNAME .
 gongzuo-whatsapp.com CNAME .
 *.gongzuo-whatsapp.com CNAME .
 google-play-store.duckdns.org CNAME .
@@ -3328,6 +3330,8 @@ rabbitshiha-jp.com CNAME .
 *.rabbitshiha-jp.com CNAME .
 rabbitshimak-jp.com CNAME .
 *.rabbitshimak-jp.com CNAME .
+radwantest.click CNAME .
+*.radwantest.click CNAME .
 railforgefootplate.com CNAME .
 *.railforgefootplate.com CNAME .
 rainxyz.okta-signinsso.com CNAME .
@@ -4646,6 +4650,10 @@ xionamiconm.com CNAME .
 *.xionamiconm.com CNAME .
 xiyuegongju-jp.com CNAME .
 *.xiyuegongju-jp.com CNAME .
+xl.goja.click CNAME .
+*.xl.goja.click CNAME .
+xl.radwantest.click CNAME .
+*.xl.radwantest.click CNAME .
 xn--38j8b560qz6d6qa93nq89c.zip CNAME .
 *.xn--38j8b560qz6d6qa93nq89c.zip CNAME .
 xn--a-5tba68c8d.com CNAME .
