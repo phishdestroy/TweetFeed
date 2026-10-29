@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2408
-; Updated: 2026-10-29T15:45:21Z
+; Entries: 2414
+; Updated: 2026-10-29T16:30:23Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793288721 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793291423 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -202,6 +202,8 @@ ai-gateway.internal-corp.com CNAME .
 *.ai-gateway.internal-corp.com CNAME .
 aiagentmi.com CNAME .
 *.aiagentmi.com CNAME .
+aiconsultation.co.uk CNAME .
+*.aiconsultation.co.uk CNAME .
 ainfnow.cn CNAME .
 *.ainfnow.cn CNAME .
 ajmwglfzin.zelixavon.com CNAME .
@@ -912,6 +914,16 @@ careers-openai.com CNAME .
 *.careers-openai.com CNAME .
 carlyle.login-options.com CNAME .
 *.carlyle.login-options.com CNAME .
+cartwaretech.click CNAME .
+*.cartwaretech.click CNAME .
+caseumxyrala.click CNAME .
+*.caseumxyrala.click CNAME .
+cashawxara.click CNAME .
+*.cashawxara.click CNAME .
+casteismaxo.click CNAME .
+*.casteismaxo.click CNAME .
+caunchriva.click CNAME .
+*.caunchriva.click CNAME .
 ccloudbeds.com CNAME .
 *.ccloudbeds.com CNAME .
 cdn-edge-f3f85b.netlify.app CNAME .
