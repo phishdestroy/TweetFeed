@@ -1,5 +1,5 @@
 {
-  "count": 5970,
+  "count": 5956,
   "dead_tweets": {
     "2103019418859053423": {
       "attempts": 2,
@@ -9079,20 +9079,6 @@
       "type": "ip",
       "value": "161.33.92.176"
     },
-    "162.244.94.46": {
-      "confidence": 0.85,
-      "date": "2026-09-29 06:29:12",
-      "enriched_at": "2026-09-29T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page hosted at a compromised or malicious domain in the US, reported by PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2104820773005545489",
-      "type": "ip",
-      "value": "162.244.94.46"
-    },
     "162.246.19.216": {
       "confidence": 0.7,
       "date": "2026-10-27 16:17:50",
@@ -10829,20 +10815,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "180.93.54.84"
-    },
-    "181.224.24.45": {
-      "confidence": 0.6,
-      "date": "2026-09-29 05:12:40",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "IP address reported as a C2 panel by community researchers; malware family not specified.",
-      "threat_type": "c2",
-      "tweet_id": "2104801511629074851",
-      "type": "ip",
-      "value": "181.224.24.45"
     },
     "181818data1.icu": {
       "confidence": 0.35,
@@ -12812,20 +12784,6 @@
       "tweet_id": "2112445815595614339",
       "type": "url",
       "value": "http://2.26.123.158:18443/api/beacon?bot_id=bot_id&last=last"
-    },
-    "2.26.154.5": {
-      "confidence": 0.6,
-      "date": "2026-09-29 05:11:49",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "IP address reported as a C2 panel, tagged XTT by community researchers; family not otherwise identified.",
-      "threat_type": "c2",
-      "tweet_id": "2104801297056800789",
-      "type": "ip",
-      "value": "2.26.154.5"
     },
     "2.27.12.169": {
       "confidence": 0.6,
@@ -14963,6 +14921,20 @@
       "tweet_id": "2112986518981951977",
       "type": "sha256",
       "value": "247b3244ccbb8e33ebba0d3aa66a38f66cfe7d27d91fb299927628249532d10e"
+    },
+    "24dd2168d5c0d0635488a44b1f270ee9bb6634846ce81c4797aa321398d891e7": {
+      "confidence": 0.2,
+      "date": "2026-10-29 01:08:05",
+      "enriched_at": "2026-10-29T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Bare SHA-256 file hash shared without context; malware family and nature cannot be determined.",
+      "threat_type": "malware",
+      "tweet_id": "2115611595829342469",
+      "type": "sha256",
+      "value": "24dd2168d5c0d0635488a44b1f270ee9bb6634846ce81c4797aa321398d891e7"
     },
     "24dd36b825a3fc0037751fb005af8322b6e00e13c6e8aca6e5aaa640cfbe8ccc": {
       "confidence": 0.7,
@@ -35609,20 +35581,6 @@
       "type": "url",
       "value": "https://accessdocu.b-cdn.net/Installer.ps1"
     },
-    "accessonline989876653783documentation.cloud-storage-0935784.workers.dev": {
-      "confidence": 0.85,
-      "date": "2026-09-29 05:06:56",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Device code phishing chain from a .top domain redirecting to a Cloudflare workers.dev page, with OneDrive document lure.",
-      "threat_type": "phishing",
-      "tweet_id": "2104800071388922143",
-      "type": "domain",
-      "value": "accessonline989876653783documentation.cloud-storage-0935784.workers.dev"
-    },
     "accoun.kgjxupm.cn": {
       "confidence": 0.92,
       "date": "2026-10-01 07:54:45",
@@ -46914,6 +46872,22 @@
       "type": "domain",
       "value": "bytemai.com"
     },
+    "bzvmjsn5.sportsontheweb.net": {
+      "confidence": 0.7,
+      "date": "2026-10-29 02:16:05",
+      "enriched_at": "2026-10-29T06:40:04Z",
+      "family": "Kimsuky",
+      "suggested_tags": [
+        "kimsuky",
+        "apt",
+        "dprk"
+      ],
+      "summary": "Domains attributed to the Kimsuky (North Korean) threat actor, hosted on free web hosting subdomains.",
+      "threat_type": "other",
+      "tweet_id": "2115628711609606596",
+      "type": "domain",
+      "value": "bzvmjsn5.sportsontheweb.net"
+    },
     "c03150e6e7c181d2413f1797cbf7be7710785166901dd3e07e7ee94ead9027a2": {
       "confidence": 0.75,
       "date": "2026-10-27 04:11:28",
@@ -50847,34 +50821,6 @@
       "type": "sha256",
       "value": "dc5021a0e1d00fb1da9eef2b5d5ac3f9a5906e5c3c17470807c3845083ac5a6d"
     },
-    "dcmentservceportl.sbs": {
-      "confidence": 0.85,
-      "date": "2026-09-29 04:27:34",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page delivering a ScreenConnect RMM client installer from a screenconnect.com instance.",
-      "threat_type": "phishing",
-      "tweet_id": "2104790163209797846",
-      "type": "domain",
-      "value": "dcmentservceportl.sbs"
-    },
-    "dcmentservceportl.sbs/adobe/adbeinstllar.html": {
-      "confidence": 0.85,
-      "date": "2026-09-29 04:27:34",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page delivering a ScreenConnect RMM client installer from a screenconnect.com instance.",
-      "threat_type": "phishing",
-      "tweet_id": "2104790163209797846",
-      "type": "url",
-      "value": "https://dcmentservceportl.sbs/adobe/adbeinstllar.html"
-    },
     "ddc85ad4885dd3da9ac8de4c3bc0392c0b2ccee075b79c8564ba71394d5b7aa6": {
       "confidence": 0.95,
       "date": "2026-10-09 16:26:15",
@@ -52226,20 +52172,6 @@
       "type": "domain",
       "value": "docss-whatsapp.com"
     },
-    "docu-sign.click": {
-      "confidence": 0.65,
-      "date": "2026-09-29 04:45:08",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Potential Docusign impersonation domain flagged as phishing.",
-      "threat_type": "phishing",
-      "tweet_id": "2104794581653152183",
-      "type": "domain",
-      "value": "docu-sign.click"
-    },
     "documents1.worldbank.org": {
       "confidence": 0.85,
       "date": "2026-10-09 14:14:16",
@@ -52271,20 +52203,6 @@
       "tweet_id": "2108561687372595465",
       "type": "url",
       "value": "http://documents1.worldbank.org/curated/en/585151601566378168/pdf/Main-Report.pdf"
-    },
-    "documentsonlineaccessonedrivelinksreview.top": {
-      "confidence": 0.85,
-      "date": "2026-09-29 05:06:56",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Device code phishing chain from a .top domain redirecting to a Cloudflare workers.dev page, with OneDrive document lure.",
-      "threat_type": "phishing",
-      "tweet_id": "2104800071388922143",
-      "type": "domain",
-      "value": "documentsonlineaccessonedrivelinksreview.top"
     },
     "docusignappinstallers.help": {
       "confidence": 0.8,
@@ -52526,34 +52444,6 @@
       "tweet_id": "2107783512745193569",
       "type": "domain",
       "value": "downmirapp.org"
-    },
-    "dpfuhk.cfd": {
-      "confidence": 0.85,
-      "date": "2026-09-29 05:24:10",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating the FamiMaker card brand, hosted behind Cloudflare IPs on a .cfd domain.",
-      "threat_type": "phishing",
-      "tweet_id": "2104804405107380333",
-      "type": "domain",
-      "value": "dpfuhk.cfd"
-    },
-    "dpfuhk.cfd/pocketcard/#/index": {
-      "confidence": 0.85,
-      "date": "2026-09-29 05:24:10",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating the FamiMaker card brand, hosted behind Cloudflare IPs on a .cfd domain.",
-      "threat_type": "phishing",
-      "tweet_id": "2104804405107380333",
-      "type": "url",
-      "value": "https://dpfuhk.cfd/pocketcard/#/index"
     },
     "dr5beljvyqljgq5ppro57pgetg4yeslcsexmuhvv3p46wod3odsh3fid.onion": {
       "confidence": 0.85,
@@ -54095,20 +53985,6 @@
       "type": "domain",
       "value": "esdev.my.id"
     },
-    "esign-document.help": {
-      "confidence": 0.5,
-      "date": "2026-09-29 05:18:05",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Domain impersonating an e-signature document service, likely used for phishing.",
-      "threat_type": "phishing",
-      "tweet_id": "2104802876413677948",
-      "type": "domain",
-      "value": "esign-document.help"
-    },
     "essentialkneadsforhealth.com": {
       "confidence": 0.9,
       "date": "2026-10-15 07:13:22",
@@ -54136,34 +54012,6 @@
       "tweet_id": "2110630094586945639",
       "type": "url",
       "value": "https://essentialkneadsforhealth.com/chxqbgge/"
-    },
-    "etu-sbe.screenconnect.com": {
-      "confidence": 0.85,
-      "date": "2026-09-29 04:27:34",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page delivering a ScreenConnect RMM client installer from a screenconnect.com instance.",
-      "threat_type": "phishing",
-      "tweet_id": "2104790163209797846",
-      "type": "domain",
-      "value": "etu-sbe.screenconnect.com"
-    },
-    "etu-sbe.screenconnect.com/bin/screenconnect.clientsetup.exe": {
-      "confidence": 0.85,
-      "date": "2026-09-29 04:27:34",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page delivering a ScreenConnect RMM client installer from a screenconnect.com instance.",
-      "threat_type": "phishing",
-      "tweet_id": "2104790163209797846",
-      "type": "url",
-      "value": "https://etu-sbe.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
     },
     "eurhynqq.cn": {
       "confidence": 0.75,
@@ -57087,6 +56935,22 @@
       "type": "domain",
       "value": "fullpowerproperties.uk"
     },
+    "fullwork3e4.gamer.free": {
+      "confidence": 0.7,
+      "date": "2026-10-29 02:16:05",
+      "enriched_at": "2026-10-29T06:40:04Z",
+      "family": "Kimsuky",
+      "suggested_tags": [
+        "kimsuky",
+        "apt",
+        "dprk"
+      ],
+      "summary": "Domains attributed to the Kimsuky (North Korean) threat actor, hosted on free web hosting subdomains.",
+      "threat_type": "other",
+      "tweet_id": "2115628711609606596",
+      "type": "domain",
+      "value": "fullwork3e4.gamer.free"
+    },
     "funnyserve-jp.com": {
       "confidence": 0.8,
       "date": "2026-10-07 04:55:27",
@@ -57583,20 +57447,6 @@
       "tweet_id": "2114047581026181516",
       "type": "url",
       "value": "https://gerardo.desarrollowebalcala.es/ip/index.php?sid=df26277ab0cdf62c179305f2bf4fe8bc"
-    },
-    "get-acrobat-adobe.pages.dev": {
-      "confidence": 0.75,
-      "date": "2026-09-29 04:36:31",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page on Cloudflare pages.dev impersonating Adobe Acrobat download, with sandbox analysis link.",
-      "threat_type": "phishing",
-      "tweet_id": "2104792413810352313",
-      "type": "domain",
-      "value": "get-acrobat-adobe.pages.dev"
     },
     "get-entry.to": {
       "confidence": 0.75,
@@ -58907,6 +58757,20 @@
       "tweet_id": "2107819401319735711",
       "type": "domain",
       "value": "hahah1101.mom"
+    },
+    "handwrittenresults.com": {
+      "confidence": 0.8,
+      "date": "2026-10-29 01:56:27",
+      "enriched_at": "2026-10-29T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing lure posing as a SiriusXM renewal notice, tied to the domain handwrittenresults.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2115623766843924581",
+      "type": "domain",
+      "value": "handwrittenresults.com"
     },
     "hanvior.cfd": {
       "confidence": 0.93,
@@ -60793,34 +60657,6 @@
       "type": "domain",
       "value": "invitationlauchjczoommeeting.com"
     },
-    "inviteteamsmeeting.fit": {
-      "confidence": 0.85,
-      "date": "2026-09-29 05:14:34",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site themed as Microsoft Teams meeting delivering an Atera RMM installer (Teamsetup.msi).",
-      "threat_type": "phishing",
-      "tweet_id": "2104801988894732660",
-      "type": "domain",
-      "value": "inviteteamsmeeting.fit"
-    },
-    "inviteteamsmeeting.fit/teamsetup.msi": {
-      "confidence": 0.85,
-      "date": "2026-09-29 05:14:34",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site themed as Microsoft Teams meeting delivering an Atera RMM installer (Teamsetup.msi).",
-      "threat_type": "phishing",
-      "tweet_id": "2104801988894732660",
-      "type": "url",
-      "value": "https://inviteteamsmeeting.fit/Teamsetup.msi"
-    },
     "inyfkr.cn": {
       "confidence": 0.8,
       "date": "2026-10-19 23:32:33",
@@ -61146,6 +60982,34 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "ja.webhwsapp-whatsapp.com"
+    },
+    "jal-air.spguiapp.com": {
+      "confidence": 0.9,
+      "date": "2026-10-29 03:40:49",
+      "enriched_at": "2026-10-29T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Japan Airlines (JAL) hosted on jal-air.spguiapp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2115650034893222163",
+      "type": "domain",
+      "value": "jal-air.spguiapp.com"
+    },
+    "jal-air.spguiapp.com/pvgmxwgv": {
+      "confidence": 0.9,
+      "date": "2026-10-29 03:40:49",
+      "enriched_at": "2026-10-29T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Japan Airlines (JAL) hosted on jal-air.spguiapp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2115650034893222163",
+      "type": "url",
+      "value": "https://jal-air.spguiapp.com/pVgMxwgv/"
     },
     "japan-five.top": {
       "confidence": 0.7,
@@ -66548,6 +66412,21 @@
       "type": "domain",
       "value": "nightflamevortex.top"
     },
+    "nildex.com": {
+      "confidence": 0.8,
+      "date": "2026-09-30 00:10:01",
+      "enriched_at": "2026-10-29T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "cryptoscam"
+      ],
+      "summary": "Nildex.com flagged as high-risk crypto platform with reported withdrawal problems and extra fund-release requirements.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2105087734251712774",
+      "type": "domain",
+      "value": "nildex.com"
+    },
     "nilehost.cloud": {
       "confidence": 0.88,
       "date": "2026-10-01 03:25:11",
@@ -67843,20 +67722,6 @@
       "type": "domain",
       "value": "outlook365livee.dothome.co.kr"
     },
-    "outlookinboxmessage.com": {
-      "confidence": 0.65,
-      "date": "2026-09-29 04:48:09",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Potential Outlook impersonation domain flagged as phishing.",
-      "threat_type": "phishing",
-      "tweet_id": "2104795343481401554",
-      "type": "domain",
-      "value": "outlookinboxmessage.com"
-    },
     "outlookportal.framer.ai": {
       "confidence": 0.9,
       "date": "2026-10-12 12:02:26",
@@ -68327,6 +68192,22 @@
       "tweet_id": "2106293721159582168",
       "type": "domain",
       "value": "perfectpitmaster.com"
+    },
+    "pew9862l.onlinewebshop.net": {
+      "confidence": 0.7,
+      "date": "2026-10-29 02:16:05",
+      "enriched_at": "2026-10-29T06:40:04Z",
+      "family": "Kimsuky",
+      "suggested_tags": [
+        "kimsuky",
+        "apt",
+        "dprk"
+      ],
+      "summary": "Domains attributed to the Kimsuky (North Korean) threat actor, hosted on free web hosting subdomains.",
+      "threat_type": "other",
+      "tweet_id": "2115628711609606596",
+      "type": "domain",
+      "value": "pew9862l.onlinewebshop.net"
     },
     "phase-whatsapp.com": {
       "confidence": 0.65,
@@ -69548,21 +69429,6 @@
       "tweet_id": "2112869024681918800",
       "type": "domain",
       "value": "pub-614b6a8544664ad7845f0c49488560a3.r2.dev"
-    },
-    "pub-780cf773478848a69b30738c3423d481.r2.dev": {
-      "confidence": 0.55,
-      "date": "2026-09-29 02:43:23",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "phishing"
-      ],
-      "summary": "Cloudflare R2 public bucket URL flagged as a confirmed scam by an automated web scanner; tweet is tagged phishing.",
-      "threat_type": "scam",
-      "tweet_id": "2104763943306576205",
-      "type": "domain",
-      "value": "pub-780cf773478848a69b30738c3423d481.r2.dev"
     },
     "pub-8bb2af2b13cd4e2d90a81254aea0d169.r2.dev": {
       "confidence": 0.85,
@@ -72459,34 +72325,6 @@
       "tweet_id": "2110320462786122062",
       "type": "domain",
       "value": "sepolia.gateway.tenderly.co"
-    },
-    "sergiomarshall.com": {
-      "confidence": 0.85,
-      "date": "2026-09-29 06:29:12",
-      "enriched_at": "2026-09-29T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page hosted at a compromised or malicious domain in the US, reported by PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2104820773005545489",
-      "type": "domain",
-      "value": "sergiomarshall.com"
-    },
-    "sergiomarshall.com/inc/index.html": {
-      "confidence": 0.85,
-      "date": "2026-09-29 06:29:12",
-      "enriched_at": "2026-09-29T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page hosted at a compromised or malicious domain in the US, reported by PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2104820773005545489",
-      "type": "url",
-      "value": "https://sergiomarshall.com/inc/index.html"
     },
     "server-whatsapp.com": {
       "confidence": 0.7,
@@ -77323,20 +77161,6 @@
       "type": "domain",
       "value": "tpab7.com"
     },
-    "tqi21.vercel.app": {
-      "confidence": 0.5,
-      "date": "2026-09-29 01:02:09",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Vercel-hosted site flagged as a confirmed scam by an automated scanner; ransomware hashtags appear unrelated.",
-      "threat_type": "scam",
-      "tweet_id": "2104738468362432676",
-      "type": "domain",
-      "value": "tqi21.vercel.app"
-    },
     "tr.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -78730,6 +78554,21 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "viewweb-whatsapp.com"
+    },
+    "viuonicoiscienic.web.app": {
+      "confidence": 0.55,
+      "date": "2026-10-29 04:01:32",
+      "enriched_at": "2026-10-29T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "malware"
+      ],
+      "summary": "Website viuonicoiscienic.web.app flagged by a web scan service as a confirmed scam site.",
+      "threat_type": "scam",
+      "tweet_id": "2115655245049037096",
+      "type": "domain",
+      "value": "viuonicoiscienic.web.app"
     },
     "vivid-flicker-anvil-creoen.pro": {
       "confidence": 0.8,
@@ -81606,20 +81445,6 @@
       "type": "url",
       "value": "https://www.stc-chaffoteaux.com"
     },
-    "www.tqi21.vercel.app": {
-      "confidence": 0.5,
-      "date": "2026-09-29 01:02:09",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Vercel-hosted site flagged as a confirmed scam by an automated scanner; ransomware hashtags appear unrelated.",
-      "threat_type": "scam",
-      "tweet_id": "2104738468362432676",
-      "type": "url",
-      "value": "http://www.tqi21.vercel.app"
-    },
     "www.ultimategrillhub.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -81769,6 +81594,22 @@
       "tweet_id": "2105572818612359564",
       "type": "url",
       "value": "https://wxhuan.com/rZBhairl/"
+    },
+    "wz8ogren.mypressonline.com": {
+      "confidence": 0.7,
+      "date": "2026-10-29 02:16:05",
+      "enriched_at": "2026-10-29T06:40:04Z",
+      "family": "Kimsuky",
+      "suggested_tags": [
+        "kimsuky",
+        "apt",
+        "dprk"
+      ],
+      "summary": "Domains attributed to the Kimsuky (North Korean) threat actor, hosted on free web hosting subdomains.",
+      "threat_type": "other",
+      "tweet_id": "2115628711609606596",
+      "type": "domain",
+      "value": "wz8ogren.mypressonline.com"
     },
     "x3pf5mva2liano2rmgnkf5ktbe0efzvv.lambda-url.ap-south-1.on.aws": {
       "confidence": 0.8,
@@ -83258,34 +83099,6 @@
       "type": "domain",
       "value": "zmngfjl.fun"
     },
-    "zo0mnneet.top": {
-      "confidence": 0.8,
-      "date": "2026-09-29 05:32:23",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site themed as Zoom delivering the FleetDeck RMM tool payload from a .top domain.",
-      "threat_type": "phishing",
-      "tweet_id": "2104806473905901936",
-      "type": "domain",
-      "value": "zo0mnneet.top"
-    },
-    "zo0mnneet.top/inv": {
-      "confidence": 0.8,
-      "date": "2026-09-29 05:32:23",
-      "enriched_at": "2026-09-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site themed as Zoom delivering the FleetDeck RMM tool payload from a .top domain.",
-      "threat_type": "phishing",
-      "tweet_id": "2104806473905901936",
-      "type": "url",
-      "value": "http://zo0mnneet.top/inv/"
-    },
     "zoom-clientsetup.com": {
       "confidence": 0.75,
       "date": "2026-10-14 03:53:04",
@@ -83572,6 +83385,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-29T00:40:03Z",
+  "generated_at": "2026-10-29T06:40:04Z",
   "window_days": 30
 }
