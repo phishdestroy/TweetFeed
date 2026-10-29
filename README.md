@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-29 10:45:18 (UTC)</th>
+        <th colspan=4>2026-10-29 11:00:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 19 | 580 | 2929 | 45662 |
-| **:globe_with_meridians: Domains** | 12 | 461 | 2473 | 39442 |
+| **:link: URLs** | 20 | 581 | 2930 | 45663 |
+| **:globe_with_meridians: Domains** | 13 | 462 | 2474 | 39443 |
 | **:triangular_flag_on_post: IPs** | 6 | 134 | 2100 | 7831 |
-| **:1234: SHA256** | 7 | 110 | 438 | 3010 |
+| **:1234: SHA256** | 8 | 111 | 439 | 3011 |
 | **:1234: MD5** | 2 | 41 | 94 | 2100 |
 
 </div>
@@ -239,7 +239,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#7** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#8** | [suyog41](https://x.com/suyog41) | 2 |
 | **#9** | [Malwar3Ninja](https://x.com/Malwar3Ninja) | 2 |
-| **#10** | [skocherhan](https://x.com/skocherhan) | 1 |
+| **#10** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
