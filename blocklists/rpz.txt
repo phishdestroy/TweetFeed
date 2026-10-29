@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2414
-; Updated: 2026-10-29T16:30:23Z
+; Entries: 2415
+; Updated: 2026-10-29T16:45:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793291423 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793292319 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1562,6 +1562,8 @@ etu-sbe.screenconnect.com CNAME .
 *.etu-sbe.screenconnect.com CNAME .
 eurhynqq.cn CNAME .
 *.eurhynqq.cn CNAME .
+everstakewfma6sxdpshoq4ebtnqamsxnajrtzu2cflai77kfup5kzyd.onion CNAME .
+*.everstakewfma6sxdpshoq4ebtnqamsxnajrtzu2cflai77kfup5kzyd.onion CNAME .
 evilcrypter.ddns.com.br CNAME .
 *.evilcrypter.ddns.com.br CNAME .
 exodusathleticclub.com CNAME .
