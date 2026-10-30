@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-30 19:15:17 (UTC)</th>
+        <th colspan=4>2026-10-30 19:30:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 39 | 567 | 2955 | 45539 |
-| **:globe_with_meridians: Domains** | 29 | 442 | 2481 | 39299 |
+| **:link: URLs** | 42 | 570 | 2958 | 45542 |
+| **:globe_with_meridians: Domains** | 32 | 445 | 2484 | 39302 |
 | **:triangular_flag_on_post: IPs** | 34 | 168 | 2134 | 7866 |
 | **:1234: SHA256** | 5 | 111 | 448 | 3030 |
 | **:1234: MD5** | 5 | 44 | 98 | 2100 |
@@ -208,7 +208,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#phishing** | 60 | 351 | 3443 | 34198 |
 | **#Kimsuky** | 0 | 10 | 42 | 13327 |
 | **#DPRK** | 0 | 18 | 23 | 11687 |
-| **#malware** | 14 | 442 | 1126 | 4066 |
+| **#malware** | 20 | 448 | 1132 | 4072 |
 | **#scam** | 2 | 12 | 48 | 3362 |
 | **#C2** | 4 | 33 | 109 | 2205 |
 | **#APT** | 0 | 6 | 39 | 1492 |
@@ -233,13 +233,13 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [teamcymru_S2](https://x.com/teamcymru_S2) | 12 |
 | **#2** | [patialavii](https://x.com/patialavii) | 11 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 10 |
-| **#4** | [phishunt_io](https://x.com/phishunt_io) | 9 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 8 |
-| **#6** | [romonlyht](https://x.com/romonlyht) | 8 |
-| **#7** | [etugenio](https://x.com/etugenio) | 6 |
-| **#8** | [SethKingHi](https://x.com/SethKingHi) | 6 |
-| **#9** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#10** | [PhishStats](https://x.com/PhishStats) | 4 |
+| **#4** | [Malwarehunterr](https://x.com/Malwarehunterr) | 10 |
+| **#5** | [phishunt_io](https://x.com/phishunt_io) | 9 |
+| **#6** | [masaomi346](https://x.com/masaomi346) | 8 |
+| **#7** | [romonlyht](https://x.com/romonlyht) | 8 |
+| **#8** | [etugenio](https://x.com/etugenio) | 6 |
+| **#9** | [SethKingHi](https://x.com/SethKingHi) | 6 |
+| **#10** | [scanmalware](https://x.com/scanmalware) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>

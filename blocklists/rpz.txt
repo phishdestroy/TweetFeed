@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2395
-; Updated: 2026-10-30T19:15:16Z
+; Entries: 2398
+; Updated: 2026-10-30T19:30:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793387716 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793388620 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -500,6 +500,8 @@ bahbashyz.info CNAME .
 *.bahbashyz.info CNAME .
 balladcompass11.com CNAME .
 *.balladcompass11.com CNAME .
+bandasomelouvor.com.br CNAME .
+*.bandasomelouvor.com.br CNAME .
 bankcheckdata-card.jp CNAME .
 *.bankcheckdata-card.jp CNAME .
 barnstormfarmfermentory.info CNAME .
@@ -1400,6 +1402,8 @@ docss-whatsapp.com CNAME .
 *.docss-whatsapp.com CNAME .
 docu-sign.biz CNAME .
 *.docu-sign.biz CNAME .
+docusign-document.info CNAME .
+*.docusign-document.info CNAME .
 docusignaccessportal.com CNAME .
 *.docusignaccessportal.com CNAME .
 docusignadmintra.com CNAME .
@@ -1450,6 +1454,8 @@ drive-security.zapto.org CNAME .
 *.drive-security.zapto.org CNAME .
 drive-sharing.work.gd CNAME .
 *.drive-sharing.work.gd CNAME .
+driverdocu.cloudaccess.host CNAME .
+*.driverdocu.cloudaccess.host CNAME .
 dzwwftf.cn CNAME .
 *.dzwwftf.cn CNAME .
 e-challan.download CNAME .
