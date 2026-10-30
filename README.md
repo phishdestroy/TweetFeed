@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-30 12:15:25 (UTC)</th>
+        <th colspan=4>2026-10-30 12:30:26 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 28 | 556 | 2944 | 45528 |
-| **:globe_with_meridians: Domains** | 19 | 432 | 2471 | 39289 |
+| **:link: URLs** | 29 | 557 | 2945 | 45529 |
+| **:globe_with_meridians: Domains** | 20 | 433 | 2472 | 39290 |
 | **:triangular_flag_on_post: IPs** | 19 | 153 | 2119 | 7851 |
-| **:1234: SHA256** | 4 | 110 | 447 | 3029 |
+| **:1234: SHA256** | 5 | 111 | 448 | 3030 |
 | **:1234: MD5** | 4 | 43 | 97 | 2099 |
 
 </div>
@@ -239,7 +239,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#7** | [scanmalware](https://x.com/scanmalware) | 4 |
 | **#8** | [Fact_Finder03](https://x.com/Fact_Finder03) | 4 |
 | **#9** | [Malwarehunterr](https://x.com/Malwarehunterr) | 4 |
-| **#10** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#10** | [smica83](https://x.com/smica83) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
