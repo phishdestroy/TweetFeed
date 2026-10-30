@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-30 13:00:24 (UTC)</th>
+        <th colspan=4>2026-10-30 13:15:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 29 | 557 | 2945 | 45529 |
-| **:globe_with_meridians: Domains** | 20 | 433 | 2472 | 39290 |
-| **:triangular_flag_on_post: IPs** | 19 | 153 | 2119 | 7851 |
+| **:link: URLs** | 30 | 558 | 2946 | 45530 |
+| **:globe_with_meridians: Domains** | 21 | 434 | 2473 | 39291 |
+| **:triangular_flag_on_post: IPs** | 21 | 155 | 2121 | 7853 |
 | **:1234: SHA256** | 5 | 111 | 448 | 3030 |
 | **:1234: MD5** | 4 | 43 | 97 | 2099 |
 
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 48 | 339 | 3431 | 34186 |
+| **#phishing** | 52 | 343 | 3435 | 34190 |
 | **#Kimsuky** | 0 | 10 | 42 | 13327 |
 | **#DPRK** | 0 | 18 | 23 | 11687 |
 | **#malware** | 14 | 442 | 1126 | 4066 |
@@ -235,11 +235,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#3** | [romonlyht](https://x.com/romonlyht) | 8 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 6 |
 | **#5** | [etugenio](https://x.com/etugenio) | 6 |
-| **#6** | [SethKingHi](https://x.com/SethKingHi) | 6 |
-| **#7** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#8** | [Fact_Finder03](https://x.com/Fact_Finder03) | 4 |
-| **#9** | [Malwarehunterr](https://x.com/Malwarehunterr) | 4 |
-| **#10** | [smica83](https://x.com/smica83) | 4 |
+| **#6** | [phishunt_io](https://x.com/phishunt_io) | 6 |
+| **#7** | [SethKingHi](https://x.com/SethKingHi) | 6 |
+| **#8** | [scanmalware](https://x.com/scanmalware) | 4 |
+| **#9** | [Fact_Finder03](https://x.com/Fact_Finder03) | 4 |
+| **#10** | [Malwarehunterr](https://x.com/Malwarehunterr) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>

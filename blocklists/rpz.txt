@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2387
-; Updated: 2026-10-30T12:30:25Z
+; Entries: 2388
+; Updated: 2026-10-30T13:15:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793363425 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793366119 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2718,6 +2718,8 @@ microsoft-telemetry.at CNAME .
 *.microsoft-telemetry.at CNAME .
 microsoftcloudverification.com CNAME .
 *.microsoftcloudverification.com CNAME .
+microsoftoutlook.flazio.online CNAME .
+*.microsoftoutlook.flazio.online CNAME .
 microsoftteams.site CNAME .
 *.microsoftteams.site CNAME .
 microwindow-e9fvg7ahe0cxf6a6.z02.azurefd.net CNAME .
