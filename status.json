@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T19:30:27Z",
+ "generated_at": "2026-10-30T19:45:24Z",
  "pipeline": {
   "interval_seconds": 900,
   "stale_after_seconds": 1800
@@ -17,7 +17,7 @@
   "total": 57,
   "hashtag": 33,
   "account": 24,
-  "rows_last_24h": 145,
+  "rows_last_24h": 148,
   "dead_after_seconds": {
    "account": 2592000,
    "hashtag": null
@@ -96,8 +96,8 @@
    {
     "id": "Malwarehunterr",
     "kind": "account",
-    "newest_item_at": "2026-10-30T19:19:00Z",
-    "rows_last_24h": 17,
+    "newest_item_at": "2026-10-30T19:33:00Z",
+    "rows_last_24h": 19,
     "dead_after_seconds": 2592000
    },
    {
@@ -132,14 +132,14 @@
     "id": "skocherhan",
     "kind": "account",
     "newest_item_at": "2026-10-30T18:10:00Z",
-    "rows_last_24h": 1,
+    "rows_last_24h": 3,
     "dead_after_seconds": 2592000
    },
    {
     "id": "smica83",
     "kind": "account",
     "newest_item_at": "2026-10-30T12:02:00Z",
-    "rows_last_24h": 15,
+    "rows_last_24h": 14,
     "dead_after_seconds": 2592000
    },
    {
@@ -180,7 +180,7 @@
    {
     "id": "TweetFeedListReplies",
     "kind": "account",
-    "newest_item_at": "2026-10-30T18:48:00Z",
+    "newest_item_at": "2026-10-30T19:23:00Z",
     "rows_last_24h": 0,
     "dead_after_seconds": 2592000
    },
@@ -342,13 +342,13 @@
     "id": "phishing",
     "kind": "hashtag",
     "newest_item_at": "2026-10-30T18:55:00Z",
-    "rows_last_24h": 73,
+    "rows_last_24h": 77,
     "dead_after_seconds": null
    },
    {
     "id": "PHP2Shell",
     "kind": "hashtag",
-    "newest_item_at": "2026-10-30T17:30:00Z",
+    "newest_item_at": "2026-10-30T18:32:00Z",
     "rows_last_24h": 0,
     "dead_after_seconds": null
    },
@@ -428,97 +428,97 @@
   "today.csv": {
    "kind": "tick",
    "path": "today.csv",
-   "updated_at": "2026-10-30T19:30:27Z",
+   "updated_at": "2026-10-30T19:45:24Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "today",
-   "rows": 118,
+   "rows": 122,
    "first_row": "2026-10-30 00:02:18",
-   "last_row": "2026-10-30 19:19:20",
+   "last_row": "2026-10-30 19:33:40",
    "data_stale_after_seconds": 28800
   },
   "week.csv": {
    "kind": "tick",
    "path": "week.csv",
-   "updated_at": "2026-10-30T19:30:27Z",
+   "updated_at": "2026-10-30T19:45:24Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "week",
-   "rows": 1338,
+   "rows": 1342,
    "first_row": "2026-10-24 00:10:26",
-   "last_row": "2026-10-30 19:19:20",
+   "last_row": "2026-10-30 19:33:40",
    "data_stale_after_seconds": 28800
   },
   "month.csv": {
    "kind": "tick",
    "path": "month.csv",
-   "updated_at": "2026-10-30T19:30:27Z",
+   "updated_at": "2026-10-30T19:45:24Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "month",
-   "rows": 8122,
+   "rows": 8126,
    "first_row": "2026-09-30 00:01:07",
-   "last_row": "2026-10-30 19:19:20",
+   "last_row": "2026-10-30 19:33:40",
    "data_stale_after_seconds": 28800
   },
   "year.csv": {
    "kind": "tick",
    "path": "year.csv",
-   "updated_at": "2026-10-30T19:30:27Z",
+   "updated_at": "2026-10-30T19:45:24Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "year",
-   "rows": 97840,
+   "rows": 97844,
    "first_row": "2025-10-31 00:46:07",
-   "last_row": "2026-10-30 19:19:20",
+   "last_row": "2026-10-30 19:33:40",
    "data_stale_after_seconds": 28800
   },
   "rss.xml": {
    "kind": "tick",
    "path": "rss.xml",
-   "updated_at": "2026-10-30T19:30:27Z",
+   "updated_at": "2026-10-30T19:45:24Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "counts.json": {
    "kind": "tick",
    "path": "counts.json",
-   "updated_at": "2026-10-30T19:30:27Z",
+   "updated_at": "2026-10-30T19:45:24Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "contributors.json": {
    "kind": "tick",
    "path": "contributors.json",
-   "updated_at": "2026-10-30T19:30:27Z",
+   "updated_at": "2026-10-30T19:45:24Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "misp": {
    "kind": "tick",
    "path": "misp/",
-   "updated_at": "2026-10-30T19:30:27Z",
+   "updated_at": "2026-10-30T19:45:24Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "stix": {
    "kind": "tick",
    "path": "stix/",
-   "updated_at": "2026-10-30T19:30:27Z",
+   "updated_at": "2026-10-30T19:45:24Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "blocklists": {
    "kind": "tick",
    "path": "blocklists/",
-   "updated_at": "2026-10-30T19:30:27Z",
+   "updated_at": "2026-10-30T19:45:24Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "exclusive.csv": {
    "kind": "tick",
    "path": "exclusive.csv",
-   "updated_at": "2026-10-30T19:30:27Z",
+   "updated_at": "2026-10-30T19:45:24Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "note": "30-day rows not listed by URLhaus, ThreatFox, MalwareBazaar, USOM or IPsum as of the last cross-check"
@@ -526,7 +526,7 @@
   "lookup": {
    "kind": "own-clock",
    "path": "lookup/",
-   "updated_at": "2026-10-30T19:30:19Z",
+   "updated_at": "2026-10-30T19:45:16Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700,
    "shards": 256
@@ -534,7 +534,7 @@
   "trends.json": {
    "kind": "own-clock",
    "path": "trends.json",
-   "updated_at": "2026-10-30T19:30:21Z",
+   "updated_at": "2026-10-30T19:45:17Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700
   },
@@ -556,7 +556,7 @@
   "ipmeta.json": {
    "kind": "own-clock",
    "path": "ipmeta.json",
-   "updated_at": "2026-10-30T13:35:05Z",
+   "updated_at": "2026-10-30T19:35:05Z",
    "interval_seconds": 21600,
    "stale_after_seconds": 27000
   },
@@ -579,7 +579,7 @@
   "domainmeta.json": {
    "kind": "change-driven",
    "path": "domainmeta.json",
-   "updated_at": "2026-10-30T19:00:34Z",
+   "updated_at": "2026-10-30T19:30:36Z",
    "interval_seconds": 900,
    "stale_after_seconds": null,
    "note": "runs after the git push and rewrites generated_at only when the resolved apex set changes; pipeline freshness is the signal"

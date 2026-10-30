@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-30 19:30:21 (UTC)</th>
+        <th colspan=4>2026-10-30 19:45:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 42 | 570 | 2958 | 45542 |
-| **:globe_with_meridians: Domains** | 32 | 445 | 2484 | 39302 |
+| **:link: URLs** | 44 | 572 | 2960 | 45544 |
+| **:globe_with_meridians: Domains** | 34 | 447 | 2486 | 39304 |
 | **:triangular_flag_on_post: IPs** | 34 | 168 | 2134 | 7866 |
 | **:1234: SHA256** | 5 | 111 | 448 | 3030 |
 | **:1234: MD5** | 5 | 44 | 98 | 2100 |
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 60 | 351 | 3443 | 34198 |
+| **#phishing** | 64 | 355 | 3447 | 34202 |
 | **#Kimsuky** | 0 | 10 | 42 | 13327 |
 | **#DPRK** | 0 | 18 | 23 | 11687 |
 | **#malware** | 20 | 448 | 1132 | 4072 |
@@ -230,10 +230,10 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [teamcymru_S2](https://x.com/teamcymru_S2) | 12 |
-| **#2** | [patialavii](https://x.com/patialavii) | 11 |
-| **#3** | [Metemcyber](https://x.com/Metemcyber) | 10 |
-| **#4** | [Malwarehunterr](https://x.com/Malwarehunterr) | 10 |
+| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 12 |
+| **#2** | [teamcymru_S2](https://x.com/teamcymru_S2) | 12 |
+| **#3** | [patialavii](https://x.com/patialavii) | 11 |
+| **#4** | [Metemcyber](https://x.com/Metemcyber) | 10 |
 | **#5** | [phishunt_io](https://x.com/phishunt_io) | 9 |
 | **#6** | [masaomi346](https://x.com/masaomi346) | 8 |
 | **#7** | [romonlyht](https://x.com/romonlyht) | 8 |
