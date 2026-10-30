@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-30 20:00:23 (UTC)</th>
+        <th colspan=4>2026-10-30 20:15:16 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 44 | 572 | 2960 | 45544 |
-| **:globe_with_meridians: Domains** | 34 | 447 | 2486 | 39304 |
+| **:link: URLs** | 47 | 575 | 2963 | 45547 |
+| **:globe_with_meridians: Domains** | 37 | 450 | 2489 | 39307 |
 | **:triangular_flag_on_post: IPs** | 34 | 168 | 2134 | 7866 |
 | **:1234: SHA256** | 5 | 111 | 448 | 3030 |
 | **:1234: MD5** | 5 | 44 | 98 | 2100 |
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 64 | 355 | 3447 | 34202 |
+| **#phishing** | 70 | 361 | 3453 | 34208 |
 | **#Kimsuky** | 0 | 10 | 42 | 13327 |
 | **#DPRK** | 0 | 18 | 23 | 11687 |
 | **#malware** | 20 | 448 | 1132 | 4072 |
@@ -235,11 +235,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#3** | [patialavii](https://x.com/patialavii) | 11 |
 | **#4** | [Metemcyber](https://x.com/Metemcyber) | 10 |
 | **#5** | [phishunt_io](https://x.com/phishunt_io) | 9 |
-| **#6** | [masaomi346](https://x.com/masaomi346) | 8 |
-| **#7** | [romonlyht](https://x.com/romonlyht) | 8 |
-| **#8** | [etugenio](https://x.com/etugenio) | 6 |
-| **#9** | [SethKingHi](https://x.com/SethKingHi) | 6 |
-| **#10** | [scanmalware](https://x.com/scanmalware) | 4 |
+| **#6** | [skocherhan](https://x.com/skocherhan) | 9 |
+| **#7** | [masaomi346](https://x.com/masaomi346) | 8 |
+| **#8** | [romonlyht](https://x.com/romonlyht) | 8 |
+| **#9** | [etugenio](https://x.com/etugenio) | 6 |
+| **#10** | [SethKingHi](https://x.com/SethKingHi) | 6 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
