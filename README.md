@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-30 18:00:24 (UTC)</th>
+        <th colspan=4>2026-10-30 18:15:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 35 | 563 | 2951 | 45535 |
-| **:globe_with_meridians: Domains** | 25 | 438 | 2477 | 39295 |
-| **:triangular_flag_on_post: IPs** | 33 | 167 | 2133 | 7865 |
+| **:link: URLs** | 36 | 564 | 2952 | 45536 |
+| **:globe_with_meridians: Domains** | 26 | 439 | 2478 | 39296 |
+| **:triangular_flag_on_post: IPs** | 34 | 168 | 2134 | 7866 |
 | **:1234: SHA256** | 5 | 111 | 448 | 3030 |
 | **:1234: MD5** | 4 | 43 | 97 | 2099 |
 
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 55 | 346 | 3438 | 34193 |
+| **#phishing** | 58 | 349 | 3441 | 34196 |
 | **#Kimsuky** | 0 | 10 | 42 | 13327 |
 | **#DPRK** | 0 | 18 | 23 | 11687 |
 | **#malware** | 14 | 442 | 1126 | 4066 |
@@ -233,10 +233,10 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [teamcymru_S2](https://x.com/teamcymru_S2) | 12 |
 | **#2** | [patialavii](https://x.com/patialavii) | 11 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 10 |
-| **#4** | [masaomi346](https://x.com/masaomi346) | 8 |
-| **#5** | [romonlyht](https://x.com/romonlyht) | 8 |
-| **#6** | [etugenio](https://x.com/etugenio) | 6 |
-| **#7** | [phishunt_io](https://x.com/phishunt_io) | 6 |
+| **#4** | [phishunt_io](https://x.com/phishunt_io) | 9 |
+| **#5** | [masaomi346](https://x.com/masaomi346) | 8 |
+| **#6** | [romonlyht](https://x.com/romonlyht) | 8 |
+| **#7** | [etugenio](https://x.com/etugenio) | 6 |
 | **#8** | [SethKingHi](https://x.com/SethKingHi) | 6 |
 | **#9** | [scanmalware](https://x.com/scanmalware) | 4 |
 | **#10** | [PhishStats](https://x.com/PhishStats) | 4 |

@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2391
-; Updated: 2026-10-30T16:00:23Z
+; Entries: 2392
+; Updated: 2026-10-30T18:15:22Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793376023 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793384122 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2592,6 +2592,8 @@ lysxcyy.com CNAME .
 *.lysxcyy.com CNAME .
 lzqhvj.cfd CNAME .
 *.lzqhvj.cfd CNAME .
+m-facebooks.vn CNAME .
+*.m-facebooks.vn CNAME .
 m-fixbet.vip CNAME .
 *.m-fixbet.vip CNAME .
 m.cxxsmxt.com CNAME .
