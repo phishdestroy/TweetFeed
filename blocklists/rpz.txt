@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2377
-; Updated: 2026-10-30T05:15:17Z
+; Entries: 2380
+; Updated: 2026-10-30T05:45:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793337317 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793339118 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -290,6 +290,8 @@ aniv.ergstlj.cn CNAME .
 *.aniv.ergstlj.cn CNAME .
 anj-whatsapp.com CNAME .
 *.anj-whatsapp.com CNAME .
+annesophievieren.com CNAME .
+*.annesophievieren.com CNAME .
 anqbsss.cn CNAME .
 *.anqbsss.cn CNAME .
 anthropic.rsvpconnect-events.com CNAME .
@@ -4122,6 +4124,8 @@ track.senderbulk.com CNAME .
 *.track.senderbulk.com CNAME .
 tradingengineers.in CNAME .
 *.tradingengineers.in CNAME .
+trendcars.be CNAME .
+*.trendcars.be CNAME .
 truecdnnetwork.com CNAME .
 *.truecdnnetwork.com CNAME .
 truenorthworks.fun CNAME .
@@ -4658,6 +4662,8 @@ youvibecoding.com CNAME .
 *.youvibecoding.com CNAME .
 ypnfeo.cc CNAME .
 *.ypnfeo.cc CNAME .
+ypro0asz.firebaseapp.com CNAME .
+*.ypro0asz.firebaseapp.com CNAME .
 yuce.xbsti.com CNAME .
 *.yuce.xbsti.com CNAME .
 yummyhomebase.com CNAME .
