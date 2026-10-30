@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-30 21:00:22 (UTC)</th>
+        <th colspan=4>2026-10-30 21:15:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 50 | 578 | 2966 | 45550 |
-| **:globe_with_meridians: Domains** | 40 | 453 | 2492 | 39310 |
-| **:triangular_flag_on_post: IPs** | 35 | 169 | 2135 | 7867 |
-| **:1234: SHA256** | 7 | 113 | 450 | 3032 |
+| **:link: URLs** | 54 | 582 | 2970 | 45554 |
+| **:globe_with_meridians: Domains** | 43 | 456 | 2495 | 39313 |
+| **:triangular_flag_on_post: IPs** | 36 | 170 | 2136 | 7868 |
+| **:1234: SHA256** | 8 | 114 | 451 | 3033 |
 | **:1234: MD5** | 5 | 44 | 98 | 2100 |
 
 </div>
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 72 | 363 | 3455 | 34210 |
+| **#phishing** | 74 | 365 | 3457 | 34212 |
 | **#Kimsuky** | 0 | 10 | 42 | 13327 |
 | **#DPRK** | 0 | 18 | 23 | 11687 |
 | **#malware** | 20 | 448 | 1132 | 4072 |
@@ -230,13 +230,13 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 14 |
-| **#2** | [teamcymru_S2](https://x.com/teamcymru_S2) | 12 |
-| **#3** | [patialavii](https://x.com/patialavii) | 11 |
-| **#4** | [Metemcyber](https://x.com/Metemcyber) | 10 |
-| **#5** | [smica83](https://x.com/smica83) | 10 |
-| **#6** | [phishunt_io](https://x.com/phishunt_io) | 9 |
-| **#7** | [skocherhan](https://x.com/skocherhan) | 9 |
+| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 16 |
+| **#2** | [smica83](https://x.com/smica83) | 13 |
+| **#3** | [skocherhan](https://x.com/skocherhan) | 13 |
+| **#4** | [teamcymru_S2](https://x.com/teamcymru_S2) | 12 |
+| **#5** | [patialavii](https://x.com/patialavii) | 11 |
+| **#6** | [Metemcyber](https://x.com/Metemcyber) | 10 |
+| **#7** | [phishunt_io](https://x.com/phishunt_io) | 9 |
 | **#8** | [masaomi346](https://x.com/masaomi346) | 8 |
 | **#9** | [romonlyht](https://x.com/romonlyht) | 8 |
 | **#10** | [etugenio](https://x.com/etugenio) | 6 |

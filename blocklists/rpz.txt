@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2405
-; Updated: 2026-10-30T21:00:21Z
+; Entries: 2408
+; Updated: 2026-10-30T21:15:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793394021 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793394918 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1258,6 +1258,8 @@ dawnharbor.cc CNAME .
 *.dawnharbor.cc CNAME .
 dbaoi.com CNAME .
 *.dbaoi.com CNAME .
+dbc3do8.club CNAME .
+*.dbc3do8.club CNAME .
 dbcache-whatsapp.com CNAME .
 *.dbcache-whatsapp.com CNAME .
 de-at.webhwsapp-whatsapp.com CNAME .
@@ -3356,6 +3358,8 @@ recycle.eu.cc CNAME .
 *.recycle.eu.cc CNAME .
 recycle.startmultimedia.com CNAME .
 *.recycle.startmultimedia.com CNAME .
+redjaxfire.com CNAME .
+*.redjaxfire.com CNAME .
 redsun.live CNAME .
 *.redsun.live CNAME .
 reg.v-panel.asia CNAME .
@@ -4388,6 +4392,8 @@ wauxp.vn-889club.com CNAME .
 *.wauxp.vn-889club.com CNAME .
 wazirxkyc.com CNAME .
 *.wazirxkyc.com CNAME .
+wazirxr.com CNAME .
+*.wazirxr.com CNAME .
 wealthstepguide.com CNAME .
 *.wealthstepguide.com CNAME .
 weareevokeafrica.com CNAME .
