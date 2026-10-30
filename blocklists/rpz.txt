@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2375
-; Updated: 2026-10-30T04:15:20Z
+; Entries: 2377
+; Updated: 2026-10-30T05:15:17Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793333720 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793337317 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -892,6 +892,8 @@ callmylove.cyou CNAME .
 *.callmylove.cyou CNAME .
 calls.webstatici-whatsapp.com CNAME .
 *.calls.webstatici-whatsapp.com CNAME .
+calmzen.cfd CNAME .
+*.calmzen.cfd CNAME .
 campus-petite-timothy-gulf.trycloudflare.com CNAME .
 *.campus-petite-timothy-gulf.trycloudflare.com CNAME .
 canabit.ai CNAME .
@@ -2334,6 +2336,8 @@ joymspcb.cn CNAME .
 *.joymspcb.cn CNAME .
 jqsweb-whatsapp.com CNAME .
 *.jqsweb-whatsapp.com CNAME .
+jr-east.52hysmj.com CNAME .
+*.jr-east.52hysmj.com CNAME .
 jrxciw2.xyz CNAME .
 *.jrxciw2.xyz CNAME .
 js-stable.pupplements.com CNAME .
