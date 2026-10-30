@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-30 07:45:19 (UTC)</th>
+        <th colspan=4>2026-10-30 08:00:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -190,7 +190,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 20 | 548 | 2936 | 45520 |
 | **:globe_with_meridians: Domains** | 15 | 428 | 2467 | 39285 |
-| **:triangular_flag_on_post: IPs** | 10 | 144 | 2110 | 7842 |
+| **:triangular_flag_on_post: IPs** | 12 | 146 | 2112 | 7844 |
 | **:1234: SHA256** | 2 | 108 | 445 | 3027 |
 | **:1234: MD5** | 0 | 39 | 93 | 2095 |
 
@@ -210,7 +210,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 18 | 23 | 11687 |
 | **#malware** | 8 | 436 | 1120 | 4060 |
 | **#scam** | 0 | 10 | 46 | 3360 |
-| **#C2** | 0 | 29 | 105 | 2201 |
+| **#C2** | 2 | 31 | 107 | 2203 |
 | **#APT** | 0 | 6 | 39 | 1492 |
 | **#ClickFix** | 0 | 58 | 280 | 1113 |
 | **#opendir** | 0 | 1 | 34 | 701 |
@@ -238,8 +238,8 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
 | **#7** | [TKemmerling](https://x.com/TKemmerling) | 2 |
 | **#8** | [midnight_comms](https://x.com/midnight_comms) | 2 |
-| **#9** | [mugu_reporter](https://x.com/mugu_reporter) | 1 |
-| **#10** | [-](https://x.com/-) | 0 |
+| **#9** | [Fact_Finder03](https://x.com/Fact_Finder03) | 2 |
+| **#10** | [mugu_reporter](https://x.com/mugu_reporter) | 1 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
