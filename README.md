@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-30 10:30:22 (UTC)</th>
+        <th colspan=4>2026-10-30 10:45:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,11 +188,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 25 | 553 | 2941 | 45525 |
-| **:globe_with_meridians: Domains** | 18 | 431 | 2470 | 39288 |
-| **:triangular_flag_on_post: IPs** | 17 | 151 | 2117 | 7849 |
+| **:link: URLs** | 27 | 555 | 2943 | 45527 |
+| **:globe_with_meridians: Domains** | 19 | 432 | 2471 | 39289 |
+| **:triangular_flag_on_post: IPs** | 18 | 152 | 2118 | 7850 |
 | **:1234: SHA256** | 3 | 109 | 446 | 3028 |
-| **:1234: MD5** | 0 | 39 | 93 | 2095 |
+| **:1234: MD5** | 4 | 43 | 97 | 2099 |
 
 </div>
 
@@ -214,7 +214,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#APT** | 0 | 6 | 39 | 1492 |
 | **#ClickFix** | 0 | 58 | 280 | 1113 |
 | **#opendir** | 0 | 1 | 34 | 701 |
-| **#ransomware** | 0 | 17 | 94 | 689 |
+| **#ransomware** | 6 | 23 | 100 | 695 |
 <!-- TAG_TABLE_END -->
 
 These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tags being matched. Every one of them is queryable through the [API](#gear-programmatic-access) and has its own [RSS feed](https://tweetfeed.live/rss/tag/phishing.xml); the highest-volume ones also get a curated landing page at [tweetfeed.live/tags/](https://tweetfeed.live/tags/).
@@ -235,11 +235,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#3** | [romonlyht](https://x.com/romonlyht) | 8 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 6 |
 | **#5** | [etugenio](https://x.com/etugenio) | 6 |
-| **#6** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 4 |
-| **#8** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#9** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#10** | [TKemmerling](https://x.com/TKemmerling) | 2 |
+| **#6** | [SethKingHi](https://x.com/SethKingHi) | 6 |
+| **#7** | [scanmalware](https://x.com/scanmalware) | 4 |
+| **#8** | [Fact_Finder03](https://x.com/Fact_Finder03) | 4 |
+| **#9** | [Malwarehunterr](https://x.com/Malwarehunterr) | 4 |
+| **#10** | [PhishStats](https://x.com/PhishStats) | 3 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
