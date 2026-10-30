@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-30 20:45:18 (UTC)</th>
+        <th colspan=4>2026-10-30 21:00:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 48 | 576 | 2964 | 45548 |
-| **:globe_with_meridians: Domains** | 38 | 451 | 2490 | 39308 |
+| **:link: URLs** | 50 | 578 | 2966 | 45550 |
+| **:globe_with_meridians: Domains** | 40 | 453 | 2492 | 39310 |
 | **:triangular_flag_on_post: IPs** | 35 | 169 | 2135 | 7867 |
-| **:1234: SHA256** | 6 | 112 | 449 | 3031 |
+| **:1234: SHA256** | 7 | 113 | 450 | 3032 |
 | **:1234: MD5** | 5 | 44 | 98 | 2100 |
 
 </div>
@@ -234,12 +234,12 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#2** | [teamcymru_S2](https://x.com/teamcymru_S2) | 12 |
 | **#3** | [patialavii](https://x.com/patialavii) | 11 |
 | **#4** | [Metemcyber](https://x.com/Metemcyber) | 10 |
-| **#5** | [phishunt_io](https://x.com/phishunt_io) | 9 |
-| **#6** | [skocherhan](https://x.com/skocherhan) | 9 |
-| **#7** | [masaomi346](https://x.com/masaomi346) | 8 |
-| **#8** | [romonlyht](https://x.com/romonlyht) | 8 |
-| **#9** | [etugenio](https://x.com/etugenio) | 6 |
-| **#10** | [SethKingHi](https://x.com/SethKingHi) | 6 |
+| **#5** | [smica83](https://x.com/smica83) | 10 |
+| **#6** | [phishunt_io](https://x.com/phishunt_io) | 9 |
+| **#7** | [skocherhan](https://x.com/skocherhan) | 9 |
+| **#8** | [masaomi346](https://x.com/masaomi346) | 8 |
+| **#9** | [romonlyht](https://x.com/romonlyht) | 8 |
+| **#10** | [etugenio](https://x.com/etugenio) | 6 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
