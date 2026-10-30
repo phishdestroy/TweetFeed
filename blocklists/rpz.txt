@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2380
-; Updated: 2026-10-30T05:45:18Z
+; Entries: 2382
+; Updated: 2026-10-30T06:45:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793339118 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793342718 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2114,6 +2114,8 @@ hostly-whatsapp.com CNAME .
 *.hostly-whatsapp.com CNAME .
 hostpush-whatsapp.com CNAME .
 *.hostpush-whatsapp.com CNAME .
+hostrix.biz CNAME .
+*.hostrix.biz CNAME .
 hotelalloldnewfinal.gptjailbreak.net CNAME .
 *.hotelalloldnewfinal.gptjailbreak.net CNAME .
 hotelnov26.blogspot.com CNAME .
@@ -3616,6 +3618,8 @@ shieldmetasetup.com CNAME .
 *.shieldmetasetup.com CNAME .
 shoppingbasketweekly.info CNAME .
 *.shoppingbasketweekly.info CNAME .
+short.do CNAME .
+*.short.do CNAME .
 shunyishengh-jp.com CNAME .
 *.shunyishengh-jp.com CNAME .
 signal-whatsapp.com CNAME .

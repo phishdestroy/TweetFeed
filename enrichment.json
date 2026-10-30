@@ -1,5 +1,5 @@
 {
-  "count": 5971,
+  "count": 5964,
   "dead_tweets": {
     "2103019418859053423": {
       "attempts": 2,
@@ -8,10 +8,6 @@
     "2103775259568599393": {
       "attempts": 1,
       "last_attempt": "2026-10-26T18:40:03Z"
-    },
-    "2107773993008669042": {
-      "attempts": 2,
-      "last_attempt": "2026-10-23T06:40:03Z"
     },
     "2110971416963326442": {
       "attempts": 2,
@@ -3501,24 +3497,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "107.175.132.47"
-    },
-    "107.175.148.115": {
-      "confidence": 0.8,
-      "date": "2026-09-30 06:11:22",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": "AsyncRAT",
-      "suggested_tags": [
-        "asyncrat",
-        "rat",
-        "booking",
-        "malware",
-        "opendir"
-      ],
-      "summary": "Malicious VBS 'New_Booking' lure with steganographic JPGs on multiple IPs, used by a reverse loader to deliver AsyncRAT.",
-      "threat_type": "malware",
-      "tweet_id": "2105178672420323406",
-      "type": "ip",
-      "value": "107.175.148.115"
     },
     "107.175.49.181": {
       "confidence": 0.8,
@@ -7467,20 +7445,6 @@
       "type": "ip",
       "value": "150.241.68.194"
     },
-    "150.241.85.39": {
-      "confidence": 0.6,
-      "date": "2026-09-30 06:25:35",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Three IP addresses reported as C2 panels, one on port 5000; malware family not identified.",
-      "threat_type": "c2",
-      "tweet_id": "2105182249469763715",
-      "type": "ip",
-      "value": "150.241.85.39"
-    },
     "151.241.154.23": {
       "confidence": 0.9,
       "date": "2026-10-06 15:21:19",
@@ -7861,6 +7825,20 @@
       "tweet_id": "2111850688670281745",
       "type": "ip",
       "value": "153.75.85.28"
+    },
+    "153.75.86.243": {
+      "confidence": 0.8,
+      "date": "2026-10-30 03:38:29",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Recently registered domain us03web-zoom.online (153.75.86.243) suspected of impersonating Zoom for phishing.",
+      "threat_type": "phishing",
+      "tweet_id": "2116011833954103304",
+      "type": "ip",
+      "value": "153.75.86.243"
     },
     "1534e8091708e13a24698de848faccac0ccbf82cc625f990bed0c7ec5388c345": {
       "confidence": 0.85,
@@ -10770,23 +10748,6 @@
       "type": "ip",
       "value": "179.0.179.195"
     },
-    "179.43.175.54": {
-      "confidence": 0.8,
-      "date": "2026-09-30 05:04:29",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": "VoidStealer",
-      "suggested_tags": [
-        "c2",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "VoidStealer infostealer C2 infrastructure: IP addresses, one listening on port 443.",
-      "threat_type": "c2",
-      "tweet_id": "2105161841186062543",
-      "type": "ip",
-      "value": "179.43.175.54"
-    },
     "179.43.175.64": {
       "confidence": 0.5,
       "date": "2026-10-13 19:26:46",
@@ -11863,22 +11824,6 @@
       "type": "url",
       "value": "http://193.24.123.18:85/api/"
     },
-    "193.41.68.190": {
-      "confidence": 0.75,
-      "date": "2026-09-30 05:41:13",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": "Atroposia",
-      "suggested_tags": [
-        "c2",
-        "malware",
-        "rat"
-      ],
-      "summary": "C2 panel IP and associated sample hash tied to Atroposia malware.",
-      "threat_type": "c2",
-      "tweet_id": "2105171086359019527",
-      "type": "ip",
-      "value": "193.41.68.190"
-    },
     "193.70.100.109": {
       "confidence": 0.9,
       "date": "2026-10-20 13:52:33",
@@ -12623,24 +12568,6 @@
       "tweet_id": "2106183232610091488",
       "type": "ip",
       "value": "199.191.50.190"
-    },
-    "1a2eb4add748ffbe552d2bbc9d289bab": {
-      "confidence": 0.8,
-      "date": "2026-09-30 06:11:22",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": "AsyncRAT",
-      "suggested_tags": [
-        "asyncrat",
-        "rat",
-        "booking",
-        "malware",
-        "opendir"
-      ],
-      "summary": "Malicious VBS 'New_Booking' lure with steganographic JPGs on multiple IPs, used by a reverse loader to deliver AsyncRAT.",
-      "threat_type": "malware",
-      "tweet_id": "2105178672420323406",
-      "type": "md5",
-      "value": "1a2eb4add748ffbe552d2bbc9d289bab"
     },
     "1a6bcdc196d179125bf3dee63ec53b7bf027b7816f9fd43e7b15353e2bd4a3ce": {
       "confidence": 0.3,
@@ -14039,6 +13966,20 @@
       "type": "url",
       "value": "http://213.145.86.42:8080"
     },
+    "213.186.33.19": {
+      "confidence": 0.85,
+      "date": "2026-10-30 05:16:45",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site at trendcars.be hosted on OVH (213.186.33.19, France), reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2116036561741533449",
+      "type": "ip",
+      "value": "213.186.33.19"
+    },
     "213.209.159.55": {
       "confidence": 0.3,
       "date": "2026-10-02 17:17:43",
@@ -14143,20 +14084,6 @@
       "type": "url",
       "value": "http://213.209.159.55:443/t/ae7427/loot_nshist.tgz"
     },
-    "213.32.27.63": {
-      "confidence": 0.6,
-      "date": "2026-09-30 06:25:35",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Three IP addresses reported as C2 panels, one on port 5000; malware family not identified.",
-      "threat_type": "c2",
-      "tweet_id": "2105182249469763715",
-      "type": "ip",
-      "value": "213.32.27.63"
-    },
     "216.109.177.105": {
       "confidence": 0.7,
       "date": "2026-09-30 07:17:32",
@@ -14250,24 +14177,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "216.73.160.88"
-    },
-    "216.9.224.48": {
-      "confidence": 0.8,
-      "date": "2026-09-30 06:11:22",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": "AsyncRAT",
-      "suggested_tags": [
-        "asyncrat",
-        "rat",
-        "booking",
-        "malware",
-        "opendir"
-      ],
-      "summary": "Malicious VBS 'New_Booking' lure with steganographic JPGs on multiple IPs, used by a reverse loader to deliver AsyncRAT.",
-      "threat_type": "malware",
-      "tweet_id": "2105178672420323406",
-      "type": "ip",
-      "value": "216.9.224.48"
     },
     "217.142.187.160": {
       "confidence": 0.5,
@@ -16190,23 +16099,6 @@
       "tweet_id": "2107403690747351321",
       "type": "url",
       "value": "http://31.59.39.40"
-    },
-    "31.7.61.62": {
-      "confidence": 0.8,
-      "date": "2026-09-30 05:04:29",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": "VoidStealer",
-      "suggested_tags": [
-        "c2",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "VoidStealer infostealer C2 infrastructure: IP addresses, one listening on port 443.",
-      "threat_type": "c2",
-      "tweet_id": "2105161841186062543",
-      "type": "ip",
-      "value": "31.7.61.62"
     },
     "31.76.111.41": {
       "confidence": 0.75,
@@ -25914,6 +25806,20 @@
       "type": "url",
       "value": "http://38.242.147.58"
     },
+    "38.45.122.146": {
+      "confidence": 0.9,
+      "date": "2026-10-30 05:25:21",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Apple-branded phishing page at annesophievieren.com hosted on 38.45.122.146, reported by NA4Sec.",
+      "threat_type": "phishing",
+      "tweet_id": "2116038728355610675",
+      "type": "url",
+      "value": "http://38.45.122.146"
+    },
     "38.54.56.66": {
       "confidence": 0.2,
       "date": "2026-10-26 21:35:20",
@@ -26208,6 +26114,22 @@
       "tweet_id": "2108308343424970840",
       "type": "sha256",
       "value": "3df0cc764976a4ca25b7959d53a0d432d165a57c381d08679357362be006c8f1"
+    },
+    "3df306ee35b8abd426d2231dd10c987aec8499b8339aff39725bc925eae20c48": {
+      "confidence": 0.8,
+      "date": "2026-10-30 04:07:46",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware masquerading as the Pairs dating app, distributed from japan-pairs.com; sample hash on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2116019203992093042",
+      "type": "sha256",
+      "value": "3df306ee35b8abd426d2231dd10c987aec8499b8339aff39725bc925eae20c48"
     },
     "3f3a445e0138a0c0f375fcf4ee608c9cb61660fa08533704ca5113f712179133": {
       "confidence": 0.8,
@@ -28240,6 +28162,21 @@
       "type": "ip",
       "value": "47.236.83.240"
     },
+    "47.237.103.236": {
+      "confidence": 0.6,
+      "date": "2026-10-30 02:45:49",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "android"
+      ],
+      "summary": "Command-and-control server IP 47.237.103.236 reported, apparently tied to a malicious Android app.",
+      "threat_type": "c2",
+      "tweet_id": "2115998580704157932",
+      "type": "url",
+      "value": "http://47.237.103.236"
+    },
     "47.237.154.162": {
       "confidence": 0.6,
       "date": "2026-10-25 18:56:24",
@@ -29298,23 +29235,6 @@
       "type": "ip",
       "value": "51.21.167.4"
     },
-    "51.255.9.163": {
-      "confidence": 0.8,
-      "date": "2026-09-30 06:11:22",
-      "enriched_at": "2026-10-26T00:40:03Z",
-      "family": "AsyncRAT",
-      "suggested_tags": [
-        "asyncrat",
-        "rat",
-        "malware",
-        "booking"
-      ],
-      "summary": "VBS dropper (New_Booking) using steganographic JPG payloads hosted on several IPs, delivering AsyncRAT via a loader.",
-      "threat_type": "malware",
-      "tweet_id": "2105178672420323406",
-      "type": "ip",
-      "value": "51.255.9.163"
-    },
     "51.48.98.98": {
       "confidence": 0.9,
       "date": "2026-10-05 13:34:13",
@@ -29331,6 +29251,21 @@
       "tweet_id": "2107102060042719580",
       "type": "ip",
       "value": "51.48.98.98"
+    },
+    "51.68.132.244": {
+      "confidence": 0.85,
+      "date": "2026-10-30 00:29:57",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "IP 51.68.132.244 on OVH reportedly hosting about 1000 advance-fee (419) fraud sites run by Nigerian criminals.",
+      "threat_type": "scam",
+      "tweet_id": "2115964388146602176",
+      "type": "ip",
+      "value": "51.68.132.244"
     },
     "5140390597.cyou": {
       "confidence": 0.9,
@@ -30353,24 +30288,6 @@
       "type": "ip",
       "value": "64.224.17.108"
     },
-    "64.224.17.115": {
-      "confidence": 0.8,
-      "date": "2026-09-30 06:11:22",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": "AsyncRAT",
-      "suggested_tags": [
-        "asyncrat",
-        "rat",
-        "booking",
-        "malware",
-        "opendir"
-      ],
-      "summary": "Malicious VBS 'New_Booking' lure with steganographic JPGs on multiple IPs, used by a reverse loader to deliver AsyncRAT.",
-      "threat_type": "malware",
-      "tweet_id": "2105178672420323406",
-      "type": "ip",
-      "value": "64.224.17.115"
-    },
     "64.226.84.77": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -30684,6 +30601,22 @@
       "tweet_id": "2108254117965541701",
       "type": "url",
       "value": "http://66.42.100.63"
+    },
+    "66.63.166.31": {
+      "confidence": 0.8,
+      "date": "2026-10-30 04:19:06",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as a remote freelance job app, distributed from 66.63.166.31; sample hash on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2116022057163268198",
+      "type": "url",
+      "value": "http://66.63.166.31"
     },
     "66.78.40.197": {
       "confidence": 0.9,
@@ -31742,22 +31675,6 @@
       "type": "sha256",
       "value": "7b0562d3d7742e8a08ae362b3374a8ce0638597ceb9aec103a1462f4750981b9"
     },
-    "7b8a66e7e7800cd9fb36c97d658d7e63878395b15700c0d4fb60a5c6314456c8": {
-      "confidence": 0.75,
-      "date": "2026-09-30 05:41:13",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": "Atroposia",
-      "suggested_tags": [
-        "c2",
-        "malware",
-        "rat"
-      ],
-      "summary": "C2 panel IP and associated sample hash tied to Atroposia malware.",
-      "threat_type": "c2",
-      "tweet_id": "2105171086359019527",
-      "type": "sha256",
-      "value": "7b8a66e7e7800cd9fb36c97d658d7e63878395b15700c0d4fb60a5c6314456c8"
-    },
     "7c0706ae79f3245afd7a6d3bdb81a38a7c91d9cd6a55584e480774a31088edfa": {
       "confidence": 0.6,
       "date": "2026-10-20 12:11:22",
@@ -31893,21 +31810,6 @@
       "tweet_id": "2111757703110676824",
       "type": "domain",
       "value": "7k.iakmialor.web.id"
-    },
-    "7zip.com": {
-      "confidence": 0.8,
-      "date": "2026-09-30 05:42:56",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Fake 7-Zip installer from lookalike domain 7zip[.]com turns Windows PCs into residential proxy nodes; legit site is 7-zip.org.",
-      "threat_type": "malware",
-      "tweet_id": "2105171518422732827",
-      "type": "domain",
-      "value": "7zip.com"
     },
     "8.135.58.72": {
       "confidence": 0.6,
@@ -32533,24 +32435,6 @@
       "tweet_id": "2112473970955923788",
       "type": "sha256",
       "value": "82edd622a5d008d3918b663a141a5aa3b0941801d61ff5717c6d52cf67bbdc9f"
-    },
-    "82fa22bc4ac39d06a41cef104b9255c4": {
-      "confidence": 0.8,
-      "date": "2026-09-30 06:11:22",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": "AsyncRAT",
-      "suggested_tags": [
-        "asyncrat",
-        "rat",
-        "booking",
-        "malware",
-        "opendir"
-      ],
-      "summary": "Malicious VBS 'New_Booking' lure with steganographic JPGs on multiple IPs, used by a reverse loader to deliver AsyncRAT.",
-      "threat_type": "malware",
-      "tweet_id": "2105178672420323406",
-      "type": "md5",
-      "value": "82fa22bc4ac39d06a41cef104b9255c4"
     },
     "83.228.226.169": {
       "confidence": 0.6,
@@ -33348,20 +33232,6 @@
       "tweet_id": "2110648242555998566",
       "type": "ip",
       "value": "89.125.214.211"
-    },
-    "89.125.214.22": {
-      "confidence": 0.6,
-      "date": "2026-09-30 06:25:35",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Three IP addresses reported as C2 panels, one on port 5000; malware family not identified.",
-      "threat_type": "c2",
-      "tweet_id": "2105182249469763715",
-      "type": "ip",
-      "value": "89.125.214.22"
     },
     "89.125.43.163": {
       "confidence": 0.8,
@@ -35490,6 +35360,20 @@
       "tweet_id": "2105233557711093938",
       "type": "sha256",
       "value": "a9624ad50037e49f5d2e9ba37d079ba4c71341745649e43841ea9612fc21c089"
+    },
+    "a967b46481f77ce9bdd6e57afe858943dd5c03e8810a95e3223c9b2ccec06ec6": {
+      "confidence": 0.6,
+      "date": "2026-10-29 22:19:43",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malware sample signed as 'AirTiki ApS' using mutual TLS to check in with its server, plus other network evasion techniques.",
+      "threat_type": "malware",
+      "tweet_id": "2115931614257774603",
+      "type": "sha256",
+      "value": "a967b46481f77ce9bdd6e57afe858943dd5c03e8810a95e3223c9b2ccec06ec6"
     },
     "a970e997093fcd10d108354423c8fa420a6887ed97cbf7c7dbe3551faa4d9b95": {
       "confidence": 0.4,
@@ -41930,6 +41814,34 @@
       "type": "domain",
       "value": "anj-whatsapp.com"
     },
+    "annesophievieren.com": {
+      "confidence": 0.9,
+      "date": "2026-10-30 05:25:21",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Apple-branded phishing page at annesophievieren.com hosted on 38.45.122.146, reported by NA4Sec.",
+      "threat_type": "phishing",
+      "tweet_id": "2116038728355610675",
+      "type": "domain",
+      "value": "annesophievieren.com"
+    },
+    "annesophievieren.com/mbzarrpz": {
+      "confidence": 0.9,
+      "date": "2026-10-30 05:25:21",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Apple-branded phishing page at annesophievieren.com hosted on 38.45.122.146, reported by NA4Sec.",
+      "threat_type": "phishing",
+      "tweet_id": "2116038728355610675",
+      "type": "url",
+      "value": "https://annesophievieren.com/MbZaRrPZ/"
+    },
     "anqbsss.cn": {
       "confidence": 0.9,
       "date": "2026-10-17 00:09:09",
@@ -44011,6 +43923,22 @@
       "tweet_id": "2112792217383321665",
       "type": "sha256",
       "value": "b9ca63d025ff38a9e148b389565c034ba8768a5e01018e1f110f87a046b231e7"
+    },
+    "ba96c4e1fc238fef71778726d006b2d4edd1374e177c8cde9078043e91079055": {
+      "confidence": 0.8,
+      "date": "2026-10-30 04:19:06",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as a remote freelance job app, distributed from 66.63.166.31; sample hash on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2116022057163268198",
+      "type": "sha256",
+      "value": "ba96c4e1fc238fef71778726d006b2d4edd1374e177c8cde9078043e91079055"
     },
     "backup.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -47675,6 +47603,34 @@
       "type": "domain",
       "value": "calls.webstatici-whatsapp.com"
     },
+    "calmzen.cfd": {
+      "confidence": 0.9,
+      "date": "2026-10-30 05:12:32",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page at calmzen.cfd impersonating Monex Securities (Japan), behind Cloudflare, reported by NA4Sec.",
+      "threat_type": "phishing",
+      "tweet_id": "2116035502986101042",
+      "type": "domain",
+      "value": "calmzen.cfd"
+    },
+    "calmzen.cfd/loginid/#/index": {
+      "confidence": 0.9,
+      "date": "2026-10-30 05:12:32",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page at calmzen.cfd impersonating Monex Securities (Japan), behind Cloudflare, reported by NA4Sec.",
+      "threat_type": "phishing",
+      "tweet_id": "2116035502986101042",
+      "type": "url",
+      "value": "https://calmzen.cfd/LoginID/#/index"
+    },
     "campus-petite-timothy-gulf.trycloudflare.com": {
       "confidence": 0.9,
       "date": "2026-10-01 08:00:40",
@@ -47749,21 +47705,6 @@
       "tweet_id": "2111332728524165248",
       "type": "url",
       "value": "https://canjepuntosrapidobac.click/pa"
-    },
-    "capitalwillowgate.com": {
-      "confidence": 0.8,
-      "date": "2026-09-30 05:41:04",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Debt and lending lure emails reusing sender/destination infrastructure, leading to capitalwillowgate[.]com and pinebridgedigital[.]shop.",
-      "threat_type": "phishing",
-      "tweet_id": "2105171045133271345",
-      "type": "domain",
-      "value": "capitalwillowgate.com"
     },
     "capsysnet.vg": {
       "confidence": 0.85,
@@ -51217,21 +51158,6 @@
       "type": "sha256",
       "value": "de0b9b6656c9e9fc9db4271610a09c2ae27d07c5a4757e94b2e0314a9dda6ee4"
     },
-    "dealcartdirect.com": {
-      "confidence": 0.8,
-      "date": "2026-09-30 05:31:17",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Home-improvement lure emails from home[.]productforhome[.]info redirecting to dealcartdirect[.]com or elitewealthdaily[.]com.",
-      "threat_type": "phishing",
-      "tweet_id": "2105168586428059933",
-      "type": "domain",
-      "value": "dealcartdirect.com"
-    },
     "debiandelivr.com": {
       "confidence": 0.4,
       "date": "2026-10-16 08:51:21",
@@ -52202,34 +52128,6 @@
       "type": "domain",
       "value": "dmuchawa-do-lisci-pl.com"
     },
-    "dndair.com": {
-      "confidence": 0.85,
-      "date": "2026-09-30 03:57:00",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page delivering a ScreenConnect RMM client installer.",
-      "threat_type": "phishing",
-      "tweet_id": "2105144857832607863",
-      "type": "domain",
-      "value": "dndair.com"
-    },
-    "dndair.com/iv/doc.html": {
-      "confidence": 0.85,
-      "date": "2026-09-30 03:57:00",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page delivering a ScreenConnect RMM client installer.",
-      "threat_type": "phishing",
-      "tweet_id": "2105144857832607863",
-      "type": "url",
-      "value": "https://dndair.com/iv/doc.html"
-    },
     "dnscloud-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -52418,20 +52316,6 @@
       "type": "url",
       "value": "https://docsewallet.com/Adobe_Installer.html"
     },
-    "docsharepoint.top": {
-      "confidence": 0.8,
-      "date": "2026-09-30 04:09:42",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Recently registered SharePoint impersonation domains pdfsharepoint[.]top and docsharepoint[.]top, likely phishing.",
-      "threat_type": "phishing",
-      "tweet_id": "2105148054286504197",
-      "type": "domain",
-      "value": "docsharepoint.top"
-    },
     "docsport.vercel.app": {
       "confidence": 0.9,
       "date": "2026-10-02 02:31:41",
@@ -52492,6 +52376,34 @@
       "tweet_id": "2108561687372595465",
       "type": "url",
       "value": "http://documents1.worldbank.org/curated/en/585151601566378168/pdf/Main-Report.pdf"
+    },
+    "docusignaccessportal.com": {
+      "confidence": 0.85,
+      "date": "2026-10-30 03:27:55",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Four recently registered domains suspected of impersonating DocuSign for phishing.",
+      "threat_type": "phishing",
+      "tweet_id": "2116009175675461793",
+      "type": "domain",
+      "value": "docusignaccessportal.com"
+    },
+    "docusignadmintra.com": {
+      "confidence": 0.85,
+      "date": "2026-10-30 03:27:55",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Four recently registered domains suspected of impersonating DocuSign for phishing.",
+      "threat_type": "phishing",
+      "tweet_id": "2116009175675461793",
+      "type": "domain",
+      "value": "docusignadmintra.com"
     },
     "docusignappinstalle.help": {
       "confidence": 0.85,
@@ -52945,6 +52857,20 @@
       "tweet_id": "2113885945527411184",
       "type": "domain",
       "value": "e-challan.sarl"
+    },
+    "e-docu-sign.online": {
+      "confidence": 0.85,
+      "date": "2026-10-30 03:27:55",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Four recently registered domains suspected of impersonating DocuSign for phishing.",
+      "threat_type": "phishing",
+      "tweet_id": "2116009175675461793",
+      "type": "domain",
+      "value": "e-docu-sign.online"
     },
     "e006d6bd7f00bb25d86951b370c5c19ed7adc0ba65a8fbff281e050e55925941": {
       "confidence": 0.85,
@@ -53929,21 +53855,6 @@
       "tweet_id": "2108663107824345098",
       "type": "domain",
       "value": "element.proxy08.com"
-    },
-    "elitewealthdaily.com": {
-      "confidence": 0.8,
-      "date": "2026-09-30 05:31:17",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Home-improvement lure emails from home[.]productforhome[.]info redirecting to dealcartdirect[.]com or elitewealthdaily[.]com.",
-      "threat_type": "phishing",
-      "tweet_id": "2105168586428059933",
-      "type": "domain",
-      "value": "elitewealthdaily.com"
     },
     "emali.net": {
       "confidence": 0.75,
@@ -59718,21 +59629,6 @@
       "type": "domain",
       "value": "hollandhart.myssoauth.com"
     },
-    "home.productforhome.info": {
-      "confidence": 0.8,
-      "date": "2026-09-30 05:31:17",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Home-improvement lure emails from home[.]productforhome[.]info redirecting to dealcartdirect[.]com or elitewealthdaily[.]com.",
-      "threat_type": "phishing",
-      "tweet_id": "2105168586428059933",
-      "type": "domain",
-      "value": "home.productforhome.info"
-    },
     "homeadvicezone.com": {
       "confidence": 0.85,
       "date": "2026-10-02 19:53:30",
@@ -61325,6 +61221,22 @@
       "type": "domain",
       "value": "japan-five.top"
     },
+    "japan-pairs.com": {
+      "confidence": 0.8,
+      "date": "2026-10-30 04:07:46",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware masquerading as the Pairs dating app, distributed from japan-pairs.com; sample hash on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2116019203992093042",
+      "type": "domain",
+      "value": "japan-pairs.com"
+    },
     "japanpostae0.club": {
       "confidence": 0.9,
       "date": "2026-10-20 05:22:04",
@@ -61812,6 +61724,34 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "jqsweb-whatsapp.com"
+    },
+    "jr-east.52hysmj.com": {
+      "confidence": 0.9,
+      "date": "2026-10-30 05:00:14",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page at jr-east.52hysmj.com impersonating VIEW Card (Japan), hosted on 195.86.16.208, reported by NA4Sec.",
+      "threat_type": "phishing",
+      "tweet_id": "2116032408403530162",
+      "type": "domain",
+      "value": "jr-east.52hysmj.com"
+    },
+    "jr-east.52hysmj.com/neabcbyy": {
+      "confidence": 0.9,
+      "date": "2026-10-30 05:00:14",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page at jr-east.52hysmj.com impersonating VIEW Card (Japan), hosted on 195.86.16.208, reported by NA4Sec.",
+      "threat_type": "phishing",
+      "tweet_id": "2116032408403530162",
+      "type": "url",
+      "value": "https://jr-east.52hysmj.com/NeAbcbyy/"
     },
     "jrxciw2.xyz": {
       "confidence": 0.9,
@@ -63904,34 +63844,6 @@
       "type": "url",
       "value": "https://lysxcyy.com/point/download/"
     },
-    "lzqhvj.cfd": {
-      "confidence": 0.95,
-      "date": "2026-09-30 06:22:16",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating UC Card, behind Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2105181414744605116",
-      "type": "domain",
-      "value": "lzqhvj.cfd"
-    },
-    "lzqhvj.cfd/uccard": {
-      "confidence": 0.95,
-      "date": "2026-09-30 06:22:16",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating UC Card, behind Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2105181414744605116",
-      "type": "url",
-      "value": "https://lzqhvj.cfd/uccard"
-    },
     "m-fixbet.vip": {
       "confidence": 0.7,
       "date": "2026-10-19 21:49:39",
@@ -65797,6 +65709,20 @@
       "type": "domain",
       "value": "myaccountapps.com"
     },
+    "mydocu-sign-documents.ink": {
+      "confidence": 0.85,
+      "date": "2026-10-30 03:27:55",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Four recently registered domains suspected of impersonating DocuSign for phishing.",
+      "threat_type": "phishing",
+      "tweet_id": "2116009175675461793",
+      "type": "domain",
+      "value": "mydocu-sign-documents.ink"
+    },
     "mypage-nlfty.duckdns.org": {
       "confidence": 0.85,
       "date": "2026-10-07 05:31:30",
@@ -65937,34 +65863,6 @@
       "tweet_id": "2113753472726434072",
       "type": "domain",
       "value": "nairawaterfall.com"
-    },
-    "naomiwellness.screenconnect.com": {
-      "confidence": 0.85,
-      "date": "2026-09-30 03:57:00",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page delivering a ScreenConnect RMM client installer.",
-      "threat_type": "phishing",
-      "tweet_id": "2105144857832607863",
-      "type": "domain",
-      "value": "naomiwellness.screenconnect.com"
-    },
-    "naomiwellness.screenconnect.com/bin/screenconnect.clientsetup.exe": {
-      "confidence": 0.85,
-      "date": "2026-09-30 03:57:00",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page delivering a ScreenConnect RMM client installer.",
-      "threat_type": "phishing",
-      "tweet_id": "2105144857832607863",
-      "type": "url",
-      "value": "https://naomiwellness.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
     },
     "narragansett-jp.com": {
       "confidence": 0.85,
@@ -68307,20 +68205,6 @@
       "type": "domain",
       "value": "pdfdocusignersdocument.info"
     },
-    "pdfsharepoint.top": {
-      "confidence": 0.8,
-      "date": "2026-09-30 04:09:42",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Recently registered SharePoint impersonation domains pdfsharepoint[.]top and docsharepoint[.]top, likely phishing.",
-      "threat_type": "phishing",
-      "tweet_id": "2105148054286504197",
-      "type": "domain",
-      "value": "pdfsharepoint.top"
-    },
     "pemfinsideo-jp.com": {
       "confidence": 0.8,
       "date": "2026-10-03 23:15:14",
@@ -68458,21 +68342,6 @@
       "tweet_id": "2113353411374792984",
       "type": "domain",
       "value": "phppatcher.com"
-    },
-    "pinebridgedigital.shop": {
-      "confidence": 0.7,
-      "date": "2026-09-30 05:41:04",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Debt and lending email lures reusing sender/destination infrastructure, leading to pinebridgedigital.shop and another related domain.",
-      "threat_type": "phishing",
-      "tweet_id": "2105171045133271345",
-      "type": "domain",
-      "value": "pinebridgedigital.shop"
     },
     "pipe-whatsapp.com": {
       "confidence": 0.65,
@@ -69355,34 +69224,6 @@
       "type": "domain",
       "value": "pt.webhwsapp-whatsapp.com"
     },
-    "ptai.in": {
-      "confidence": 0.85,
-      "date": "2026-09-30 03:53:00",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "DocuSign-themed phishing page delivering a FleetDeck RMM payload.",
-      "threat_type": "phishing",
-      "tweet_id": "2105143852848062756",
-      "type": "domain",
-      "value": "ptai.in"
-    },
-    "ptai.in/dsb/page.html": {
-      "confidence": 0.85,
-      "date": "2026-09-30 03:53:00",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "DocuSign-themed phishing page delivering a FleetDeck RMM payload.",
-      "threat_type": "phishing",
-      "tweet_id": "2105143852848062756",
-      "type": "url",
-      "value": "https://ptai.in/dsb/page.html"
-    },
     "pub-08e5f153316343c0aa3c10c00ee9ae24.r2.dev": {
       "confidence": 0.5,
       "date": "2026-10-05 23:41:51",
@@ -69507,21 +69348,6 @@
       "type": "domain",
       "value": "pub-225d7290d0da4d5e8555183cd264a146.r2.dev"
     },
-    "pub-313b636324fd4678a4a5d96493f238eb.r2.dev": {
-      "confidence": 0.5,
-      "date": "2026-09-30 02:01:35",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "phishing"
-      ],
-      "summary": "Cloudflare R2 public bucket domain flagged by an automated scanner as a confirmed scam site.",
-      "threat_type": "scam",
-      "tweet_id": "2105115811534762095",
-      "type": "domain",
-      "value": "pub-313b636324fd4678a4a5d96493f238eb.r2.dev"
-    },
     "pub-34800083ccc34975a9f4455a9e48b9a7.r2.dev": {
       "confidence": 0.5,
       "date": "2026-10-05 23:33:31",
@@ -69621,20 +69447,6 @@
       "tweet_id": "2110212791798038759",
       "type": "url",
       "value": "https://pub-9fad4cf58ddf41d6b8a66e8621858802.r2.dev/zoom-workspace.exe"
-    },
-    "pub-cfed504c29ce4abfb436fd9297bceb4e.r2.dev": {
-      "confidence": 0.5,
-      "date": "2026-09-30 04:10:47",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Cloudflare R2 public bucket domain flagged by an automated scanner as a confirmed scam site.",
-      "threat_type": "scam",
-      "tweet_id": "2105148324592386075",
-      "type": "domain",
-      "value": "pub-cfed504c29ce4abfb436fd9297bceb4e.r2.dev"
     },
     "pub-e00ed203a8c94e1e806a3d3453458c6d.r2.dev": {
       "confidence": 0.55,
@@ -75302,6 +75114,21 @@
       "type": "domain",
       "value": "support.webstatici-whatsapp.com"
     },
+    "supportforpolicycompliance.vercel.app": {
+      "confidence": 0.7,
+      "date": "2026-10-30 02:10:06",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Vercel-hosted site supportforpolicycompliance.vercel.app flagged as a confirmed scam, likely phishing.",
+      "threat_type": "phishing",
+      "tweet_id": "2115989590582427717",
+      "type": "domain",
+      "value": "supportforpolicycompliance.vercel.app"
+    },
     "surfanny.com": {
       "confidence": 0.6,
       "date": "2026-10-11 12:42:39",
@@ -77370,6 +77197,20 @@
       "type": "url",
       "value": "https://tradingengineers.in/Indgravendes.csv"
     },
+    "trendcars.be": {
+      "confidence": 0.85,
+      "date": "2026-10-30 05:16:45",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site at trendcars.be hosted on OVH (213.186.33.19, France), reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2116036561741533449",
+      "type": "domain",
+      "value": "trendcars.be"
+    },
     "truecdnnetwork.com": {
       "confidence": 0.6,
       "date": "2026-10-11 12:42:39",
@@ -77976,6 +77817,20 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "upload.webstatici-whatsapp.com"
+    },
+    "us03web-zoom.online": {
+      "confidence": 0.8,
+      "date": "2026-10-30 03:38:29",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Recently registered domain us03web-zoom.online (153.75.86.243) suspected of impersonating Zoom for phishing.",
+      "threat_type": "phishing",
+      "tweet_id": "2116011833954103304",
+      "type": "domain",
+      "value": "us03web-zoom.online"
     },
     "us06webzoomus2fj2f830440905293.com": {
       "confidence": 0.8,
@@ -81595,6 +81450,35 @@
       "type": "url",
       "value": "https://www.stc-chaffoteaux.com"
     },
+    "www.supportforpolicycompliance.vercel.app": {
+      "confidence": 0.7,
+      "date": "2026-10-30 02:10:06",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Vercel-hosted site supportforpolicycompliance.vercel.app flagged as a confirmed scam, likely phishing.",
+      "threat_type": "phishing",
+      "tweet_id": "2115989590582427717",
+      "type": "url",
+      "value": "http://www.supportforpolicycompliance.vercel.app"
+    },
+    "www.trendcars.be": {
+      "confidence": 0.85,
+      "date": "2026-10-30 05:16:45",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site at trendcars.be hosted on OVH (213.186.33.19, France), reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2116036561741533449",
+      "type": "url",
+      "value": "https://www.trendcars.be"
+    },
     "www.ultimategrillhub.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -82592,6 +82476,20 @@
       "type": "url",
       "value": "http://ypnfeo.cc/hx"
     },
+    "ypro0asz.firebaseapp.com": {
+      "confidence": 0.7,
+      "date": "2026-10-30 05:20:45",
+      "enriched_at": "2026-10-30T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Website ypro0asz.firebaseapp.com flagged as a confirmed scam by a web malware scanner.",
+      "threat_type": "scam",
+      "tweet_id": "2116037570987536401",
+      "type": "domain",
+      "value": "ypro0asz.firebaseapp.com"
+    },
     "yuce.xbsti.com": {
       "confidence": 0.7,
       "date": "2026-10-19 21:28:27",
@@ -83361,20 +83259,6 @@
       "type": "domain",
       "value": "zoomclientus.icu"
     },
-    "zoominvite-9ld.pages.dev": {
-      "confidence": 0.85,
-      "date": "2026-09-30 04:03:39",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Zoom-themed phishing pages on pages.dev delivering RMM payloads (FleetDeck and ScreenConnect).",
-      "threat_type": "phishing",
-      "tweet_id": "2105146531129221434",
-      "type": "domain",
-      "value": "zoominvite-9ld.pages.dev"
-    },
     "zoominviteus07.pages.dev": {
       "confidence": 0.8,
       "date": "2026-10-09 03:56:49",
@@ -83402,20 +83286,6 @@
       "tweet_id": "2108401739565293644",
       "type": "domain",
       "value": "zoomjoinlive.com"
-    },
-    "zoommeeting-7m2.pages.dev": {
-      "confidence": 0.85,
-      "date": "2026-09-30 04:03:39",
-      "enriched_at": "2026-09-30T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Zoom-themed phishing pages on pages.dev delivering RMM payloads (FleetDeck and ScreenConnect).",
-      "threat_type": "phishing",
-      "tweet_id": "2105146531129221434",
-      "type": "domain",
-      "value": "zoommeeting-7m2.pages.dev"
     },
     "zoomusinvite2.pages.dev": {
       "confidence": 0.85,
@@ -83605,6 +83475,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-30T00:40:03Z",
+  "generated_at": "2026-10-30T06:40:05Z",
   "window_days": 30
 }
