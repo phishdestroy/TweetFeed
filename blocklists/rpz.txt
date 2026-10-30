@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2387
-; Updated: 2026-10-30T12:30:25Z
+; Entries: 2410
+; Updated: 2026-10-30T21:45:17Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793363425 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793396717 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -108,6 +108,8 @@ aaenen.cc CNAME .
 *.aaenen.cc CNAME .
 aaf0d9.vn-open888.com CNAME .
 *.aaf0d9.vn-open888.com CNAME .
+aawwf.hkg.bcebos.com CNAME .
+*.aawwf.hkg.bcebos.com CNAME .
 ababy9.com CNAME .
 *.ababy9.com CNAME .
 abacusfederal.sbs CNAME .
@@ -262,6 +264,8 @@ ame-whatsapp.com CNAME .
 *.ame-whatsapp.com CNAME .
 amecxfund.com CNAME .
 *.amecxfund.com CNAME .
+americanexpcnh.w1u2p60.asia CNAME .
+*.americanexpcnh.w1u2p60.asia CNAME .
 amf-whatsapp.com CNAME .
 *.amf-whatsapp.com CNAME .
 amg-whatsapp.com CNAME .
@@ -498,6 +502,8 @@ bahbashyz.info CNAME .
 *.bahbashyz.info CNAME .
 balladcompass11.com CNAME .
 *.balladcompass11.com CNAME .
+bandasomelouvor.com.br CNAME .
+*.bandasomelouvor.com.br CNAME .
 bankcheckdata-card.jp CNAME .
 *.bankcheckdata-card.jp CNAME .
 barnstormfarmfermentory.info CNAME .
@@ -530,6 +536,12 @@ bifcapnepa-jp.com CNAME .
 *.bifcapnepa-jp.com CNAME .
 bigperu.com CNAME .
 *.bigperu.com CNAME .
+binance-com-10.refers.workers.dev CNAME .
+*.binance-com-10.refers.workers.dev CNAME .
+binance-com-l3.referrering.workers.dev CNAME .
+*.binance-com-l3.referrering.workers.dev CNAME .
+binance-com-nk.refers.workers.dev CNAME .
+*.binance-com-nk.refers.workers.dev CNAME .
 bixsgrb.cn CNAME .
 *.bixsgrb.cn CNAME .
 bjjmsjcfsb.com CNAME .
@@ -1246,6 +1258,8 @@ dawnharbor.cc CNAME .
 *.dawnharbor.cc CNAME .
 dbaoi.com CNAME .
 *.dbaoi.com CNAME .
+dbc3do8.club CNAME .
+*.dbc3do8.club CNAME .
 dbcache-whatsapp.com CNAME .
 *.dbcache-whatsapp.com CNAME .
 de-at.webhwsapp-whatsapp.com CNAME .
@@ -1398,6 +1412,8 @@ docss-whatsapp.com CNAME .
 *.docss-whatsapp.com CNAME .
 docu-sign.biz CNAME .
 *.docu-sign.biz CNAME .
+docusign-document.info CNAME .
+*.docusign-document.info CNAME .
 docusignaccessportal.com CNAME .
 *.docusignaccessportal.com CNAME .
 docusignadmintra.com CNAME .
@@ -1448,6 +1464,8 @@ drive-security.zapto.org CNAME .
 *.drive-security.zapto.org CNAME .
 drive-sharing.work.gd CNAME .
 *.drive-sharing.work.gd CNAME .
+driverdocu.cloudaccess.host CNAME .
+*.driverdocu.cloudaccess.host CNAME .
 dzwwftf.cn CNAME .
 *.dzwwftf.cn CNAME .
 e-challan.download CNAME .
@@ -1996,6 +2014,8 @@ guach.net CNAME .
 *.guach.net CNAME .
 guangrongsuiy-jp.com CNAME .
 *.guangrongsuiy-jp.com CNAME .
+guanlansec.com CNAME .
+*.guanlansec.com CNAME .
 guarda-login.click CNAME .
 *.guarda-login.click CNAME .
 gugyh.icu CNAME .
@@ -2066,6 +2086,8 @@ help.webapi-whatsapp.com CNAME .
 *.help.webapi-whatsapp.com CNAME .
 help.webstatici-whatsapp.com CNAME .
 *.help.webstatici-whatsapp.com CNAME .
+herstel-google.com CNAME .
+*.herstel-google.com CNAME .
 hfgxsc.cn CNAME .
 *.hfgxsc.cn CNAME .
 hfpzuia.cn CNAME .
@@ -2328,6 +2350,8 @@ johmy.cn CNAME .
 *.johmy.cn CNAME .
 johnhaywoodphotography.com CNAME .
 *.johnhaywoodphotography.com CNAME .
+joi-user-res.oss-us-west-1.aliyuncs.com CNAME .
+*.joi-user-res.oss-us-west-1.aliyuncs.com CNAME .
 join-inapp.com CNAME .
 *.join-inapp.com CNAME .
 join-msteams.live CNAME .
@@ -2574,6 +2598,8 @@ lqxnbr.cfd CNAME .
 *.lqxnbr.cfd CNAME .
 lryjfreporting.5tr.org CNAME .
 *.lryjfreporting.5tr.org CNAME .
+luck.dpmz.top CNAME .
+*.luck.dpmz.top CNAME .
 luoc.run CNAME .
 *.luoc.run CNAME .
 luqiuid91.com CNAME .
@@ -2588,6 +2614,8 @@ lysxcyy.com CNAME .
 *.lysxcyy.com CNAME .
 lzqhvj.cfd CNAME .
 *.lzqhvj.cfd CNAME .
+m-facebooks.vn CNAME .
+*.m-facebooks.vn CNAME .
 m-fixbet.vip CNAME .
 *.m-fixbet.vip CNAME .
 m.cxxsmxt.com CNAME .
@@ -2718,6 +2746,8 @@ microsoft-telemetry.at CNAME .
 *.microsoft-telemetry.at CNAME .
 microsoftcloudverification.com CNAME .
 *.microsoftcloudverification.com CNAME .
+microsoftoutlook.flazio.online CNAME .
+*.microsoftoutlook.flazio.online CNAME .
 microsoftteams.site CNAME .
 *.microsoftteams.site CNAME .
 microwindow-e9fvg7ahe0cxf6a6.z02.azurefd.net CNAME .
@@ -2760,6 +2790,8 @@ mlbysalw.cn CNAME .
 *.mlbysalw.cn CNAME .
 mlroweb.com CNAME .
 *.mlroweb.com CNAME .
+mmarketplaces.com CNAME .
+*.mmarketplaces.com CNAME .
 mmasunandrajat.com CNAME .
 *.mmasunandrajat.com CNAME .
 mmmonroy.com CNAME .
@@ -3152,6 +3184,8 @@ posupdate.zip CNAME .
 *.posupdate.zip CNAME .
 poyanercold.top CNAME .
 *.poyanercold.top CNAME .
+pradoferramentas.shop CNAME .
+*.pradoferramentas.shop CNAME .
 pregnantkha-jp.com CNAME .
 *.pregnantkha-jp.com CNAME .
 preparationguru.com CNAME .
@@ -3166,6 +3200,8 @@ pride-whatsapp.com CNAME .
 *.pride-whatsapp.com CNAME .
 pridemodularhomesllc.info CNAME .
 *.pridemodularhomesllc.info CNAME .
+primeseriesservice.com CNAME .
+*.primeseriesservice.com CNAME .
 primeslll.com CNAME .
 *.primeslll.com CNAME .
 privacy.webapi-whatsapp.com CNAME .
@@ -3260,6 +3296,8 @@ qa3u8erl.online CNAME .
 *.qa3u8erl.online CNAME .
 qaz4.com CNAME .
 *.qaz4.com CNAME .
+qdxz4578.hkg.bcebos.com CNAME .
+*.qdxz4578.hkg.bcebos.com CNAME .
 qh883-pqd-q56b-r2kwh-15-10-2026-aa.pages.dev CNAME .
 *.qh883-pqd-q56b-r2kwh-15-10-2026-aa.pages.dev CNAME .
 qhqgcy.com CNAME .
@@ -3322,6 +3360,8 @@ recycle.eu.cc CNAME .
 *.recycle.eu.cc CNAME .
 recycle.startmultimedia.com CNAME .
 *.recycle.startmultimedia.com CNAME .
+redjaxfire.com CNAME .
+*.redjaxfire.com CNAME .
 redsun.live CNAME .
 *.redsun.live CNAME .
 reg.v-panel.asia CNAME .
@@ -4352,6 +4392,10 @@ wauskjdas.com CNAME .
 *.wauskjdas.com CNAME .
 wauxp.vn-889club.com CNAME .
 *.wauxp.vn-889club.com CNAME .
+wazirxkyc.com CNAME .
+*.wazirxkyc.com CNAME .
+wazirxr.com CNAME .
+*.wazirxr.com CNAME .
 wealthstepguide.com CNAME .
 *.wealthstepguide.com CNAME .
 weareevokeafrica.com CNAME .
@@ -4670,6 +4714,8 @@ youlovemybiba.com CNAME .
 *.youlovemybiba.com CNAME .
 young-whatsapp.com CNAME .
 *.young-whatsapp.com CNAME .
+youtube-right.com CNAME .
+*.youtube-right.com CNAME .
 youtubemail.club CNAME .
 *.youtubemail.club CNAME .
 youvibecoding.com CNAME .

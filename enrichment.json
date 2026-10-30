@@ -1,5 +1,5 @@
 {
-  "count": 5964,
+  "count": 5942,
   "dead_tweets": {
     "2103019418859053423": {
       "attempts": 2,
@@ -8,6 +8,10 @@
     "2103775259568599393": {
       "attempts": 1,
       "last_attempt": "2026-10-26T18:40:03Z"
+    },
+    "2107773993008669042": {
+      "attempts": 2,
+      "last_attempt": "2026-10-30T18:40:03Z"
     },
     "2110971416963326442": {
       "attempts": 2,
@@ -314,21 +318,6 @@
       "tweet_id": "2107409449761575008",
       "type": "sha256",
       "value": "0adc3cb190e10f61005d7a0c12cfe6f4f8e082a26a1719e0df560dbd61e81613"
-    },
-    "0bcfe23086c43e9ee6e61942583c9db5fc8a40c64ba39e8199b730e7cfd2b8c6": {
-      "confidence": 0.7,
-      "date": "2026-09-30 18:37:11",
-      "enriched_at": "2026-10-01T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Malicious JavaScript sample seen from Brazil on MalwareBazaar, communicating with a DuckDNS-hosted C2 domain.",
-      "threat_type": "c2",
-      "tweet_id": "2105366365024731532",
-      "type": "sha256",
-      "value": "0bcfe23086c43e9ee6e61942583c9db5fc8a40c64ba39e8199b730e7cfd2b8c6"
     },
     "0bed6030ebde445f332b005bb09c5a2a": {
       "confidence": 0.5,
@@ -2616,6 +2605,21 @@
       "type": "url",
       "value": "http://103.82.53.214:80"
     },
+    "103.83.86.254": {
+      "confidence": 0.6,
+      "date": "2026-10-30 15:47:30",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cobaltstrike",
+        "opendir"
+      ],
+      "summary": "Team Cymru Total Insights fingerprinting of AI-driven offensive security agents Strix and Cairn across multiple IPs; one IP also tagged Cobalt Strike.",
+      "threat_type": "other",
+      "tweet_id": "2116166833682178423",
+      "type": "ip",
+      "value": "103.83.86.254"
+    },
     "103.84.133.173": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -2908,18 +2912,6 @@
       "tweet_id": "2114970927255704033",
       "type": "ip",
       "value": "104.164.55.12"
-    },
-    "104.192.2.46": {
-      "confidence": 0.4,
-      "date": "2026-09-30 12:06:55",
-      "enriched_at": "2026-10-29T00:40:03Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "IP and hardware-store domains linked to ShinyHunters activity.",
-      "threat_type": "other",
-      "tweet_id": "2105268148681507272",
-      "type": "ip",
-      "value": "104.192.2.46"
     },
     "104.194.133.95": {
       "confidence": 0.2,
@@ -3363,6 +3355,21 @@
       "tweet_id": "2109263406956155061",
       "type": "url",
       "value": "http://107.172.249.140:443"
+    },
+    "107.172.32.149": {
+      "confidence": 0.6,
+      "date": "2026-10-30 15:47:30",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cobaltstrike",
+        "opendir"
+      ],
+      "summary": "Team Cymru Total Insights fingerprinting of AI-driven offensive security agents Strix and Cairn across multiple IPs; one IP also tagged Cobalt Strike.",
+      "threat_type": "other",
+      "tweet_id": "2116166833682178423",
+      "type": "ip",
+      "value": "107.172.32.149"
     },
     "107.172.34.144": {
       "confidence": 0.85,
@@ -4069,6 +4076,21 @@
       "type": "ip",
       "value": "116.212.185.161"
     },
+    "117.50.187.123": {
+      "confidence": 0.6,
+      "date": "2026-10-30 15:47:30",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cobaltstrike",
+        "opendir"
+      ],
+      "summary": "Team Cymru Total Insights fingerprinting of AI-driven offensive security agents Strix and Cairn across multiple IPs; one IP also tagged Cobalt Strike.",
+      "threat_type": "other",
+      "tweet_id": "2116166833682178423",
+      "type": "ip",
+      "value": "117.50.187.123"
+    },
     "117.58.240.173": {
       "confidence": 0.9,
       "date": "2026-10-24 12:01:11",
@@ -4251,6 +4273,21 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "120.211.74.131"
+    },
+    "120.46.86.195": {
+      "confidence": 0.6,
+      "date": "2026-10-30 15:47:30",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cobaltstrike",
+        "opendir"
+      ],
+      "summary": "Team Cymru Total Insights fingerprinting of AI-driven offensive security agents Strix and Cairn across multiple IPs; one IP also tagged Cobalt Strike.",
+      "threat_type": "other",
+      "tweet_id": "2116166833682178423",
+      "type": "ip",
+      "value": "120.46.86.195"
     },
     "120.48.152.13": {
       "confidence": 0.5,
@@ -4582,21 +4619,6 @@
       "type": "ip",
       "value": "13.143.188.149"
     },
-    "13.143.234.166": {
-      "confidence": 0.7,
-      "date": "2026-09-30 08:30:01",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": "Elyzium",
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "C2 server on port 8443 tied to Elyzium HVNC panel and loader/stager samples.",
-      "threat_type": "c2",
-      "tweet_id": "2105213563212382311",
-      "type": "ip",
-      "value": "13.143.234.166"
-    },
     "13.219.148.2": {
       "confidence": 0.85,
       "date": "2026-10-07 12:20:00",
@@ -4836,20 +4858,6 @@
       "tweet_id": "2112834452321632688",
       "type": "url",
       "value": "http://132.243.221.136"
-    },
-    "134.122.128.120": {
-      "confidence": 0.5,
-      "date": "2026-09-30 09:49:28",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious VHDX file 'PDF_FVLZKX_20260926030438.vhdx' seen in Malaysia on Malware Bazaar, linked to a domain and IP.",
-      "threat_type": "malware",
-      "tweet_id": "2105233557711093938",
-      "type": "url",
-      "value": "http://134.122.128.120"
     },
     "134.122.130.202": {
       "confidence": 0.55,
@@ -6497,20 +6505,6 @@
       "type": "ip",
       "value": "136.92.8.91"
     },
-    "137.184.98.116": {
-      "confidence": 0.95,
-      "date": "2026-09-30 07:00:58",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Facebook phishing site hosted on a DigitalOcean IP under a lookalike subdomain.",
-      "threat_type": "phishing",
-      "tweet_id": "2105191155314925728",
-      "type": "ip",
-      "value": "137.184.98.116"
-    },
     "137.220.140.19": {
       "confidence": 0.65,
       "date": "2026-10-24 07:37:04",
@@ -6972,6 +6966,21 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "144.48.109.34"
+    },
+    "144.91.103.172": {
+      "confidence": 0.8,
+      "date": "2026-10-30 07:39:10",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": "Nezha",
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Chinese threat actor mass-scans exposed Redis/Portainer, drops the Nezha agent as a backdoor, persists via cron, escapes containers and steals cloud credentials.",
+      "threat_type": "malware",
+      "tweet_id": "2116072405508472926",
+      "type": "url",
+      "value": "http://144.91.103.172"
     },
     "144.91.81.102": {
       "confidence": 0.5,
@@ -7944,6 +7953,20 @@
       "tweet_id": "2111213787235631441",
       "type": "ip",
       "value": "154.198.163.77"
+    },
+    "154.221.17.172": {
+      "confidence": 0.9,
+      "date": "2026-10-30 06:18:33",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing email (UEC report) linking to hostrix.biz, sent from 154.221.17.172 and redirecting to 54.37.128.190.",
+      "threat_type": "phishing",
+      "tweet_id": "2116052118142673098",
+      "type": "ip",
+      "value": "154.221.17.172"
     },
     "154.222.28.41": {
       "confidence": 0.9,
@@ -9241,20 +9264,6 @@
       "type": "ip",
       "value": "162.4.222.142"
     },
-    "162.62.82.128": {
-      "confidence": 0.85,
-      "date": "2026-09-30 12:36:54",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New phishing site on a myallvalue.com subdomain hosted on Tencent infrastructure (AS132203) in Singapore.",
-      "threat_type": "phishing",
-      "tweet_id": "2105275694179913752",
-      "type": "ip",
-      "value": "162.62.82.128"
-    },
     "163.128.108.131": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -9540,21 +9549,6 @@
       "type": "url",
       "value": "http://167.148.201.67/44504"
     },
-    "167.254.241.215": {
-      "confidence": 0.7,
-      "date": "2026-09-30 07:42:00",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": "Phoenix",
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Phoenix C2 panel on port 8443 with an associated sample hash.",
-      "threat_type": "c2",
-      "tweet_id": "2105201479896416424",
-      "type": "ip",
-      "value": "167.254.241.215"
-    },
     "167.254.79.1": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -9779,6 +9773,20 @@
       "type": "ip",
       "value": "169.58.206.194"
     },
+    "169.58.25.186": {
+      "confidence": 0.65,
+      "date": "2026-10-30 07:57:23",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP 169.58.25.186 on port 8443 reported as a C2 panel tagged DEXA.",
+      "threat_type": "c2",
+      "tweet_id": "2116076987358007577",
+      "type": "ip",
+      "value": "169.58.25.186"
+    },
     "16a9a0455feeaaf9a60b23b7430852f6d31936da8ebb29d54ca3dc4c15b7da42": {
       "confidence": 0.4,
       "date": "2026-10-26 17:51:59",
@@ -9930,22 +9938,6 @@
       "tweet_id": "2114969629928067315",
       "type": "ip",
       "value": "170.62.130.5"
-    },
-    "1702f7ad2a56ef7fca815a01ce5d0ebb43328043d2dbd5cfb4b3f71d0605310c": {
-      "confidence": 0.9,
-      "date": "2026-09-30 11:41:27",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2",
-        "trojan"
-      ],
-      "summary": "Malicious PyPI package 'beautifyText' with a cross-platform backdoor that contacts a C2, runs shell commands, and exfiltrates and writes files.",
-      "threat_type": "malware",
-      "tweet_id": "2105261740308992400",
-      "type": "sha256",
-      "value": "1702f7ad2a56ef7fca815a01ce5d0ebb43328043d2dbd5cfb4b3f71d0605310c"
     },
     "171.34.139.222": {
       "confidence": 0.5,
@@ -10702,6 +10694,20 @@
       "tweet_id": "2114047581026181516",
       "type": "ip",
       "value": "178.211.133.12"
+    },
+    "178.95.25.104": {
+      "confidence": 0.65,
+      "date": "2026-10-30 07:53:29",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP 178.95.25.104 on port 3000 reported as a C2 panel.",
+      "threat_type": "c2",
+      "tweet_id": "2116076005043646558",
+      "type": "ip",
+      "value": "178.95.25.104"
     },
     "1782cd071bb973b3e24aa0ec49bc5a77": {
       "confidence": 0.85,
@@ -11650,6 +11656,21 @@
       "type": "ip",
       "value": "192.9.176.139"
     },
+    "193.111.117.98": {
+      "confidence": 0.6,
+      "date": "2026-10-30 15:47:30",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cobaltstrike",
+        "opendir"
+      ],
+      "summary": "Team Cymru Total Insights fingerprinting of AI-driven offensive security agents Strix and Cairn across multiple IPs; one IP also tagged Cobalt Strike.",
+      "threat_type": "other",
+      "tweet_id": "2116166833682178423",
+      "type": "ip",
+      "value": "193.111.117.98"
+    },
     "193.143.1.142": {
       "confidence": 0.55,
       "date": "2026-10-19 06:19:13",
@@ -11941,6 +11962,20 @@
       "type": "ip",
       "value": "194.163.173.251"
     },
+    "194.164.24.107": {
+      "confidence": 0.85,
+      "date": "2026-10-30 06:16:07",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing email (UEC report) with a short.do redirect link, sent from 194.164.24.107; the page now returns 404.",
+      "threat_type": "phishing",
+      "tweet_id": "2116051503471620426",
+      "type": "ip",
+      "value": "194.164.24.107"
+    },
     "194.165.16.55": {
       "confidence": 0.9,
       "date": "2026-10-05 13:34:13",
@@ -12188,6 +12223,21 @@
       "tweet_id": "2110818240863891857",
       "type": "url",
       "value": "http://195.162.69.212:31337"
+    },
+    "195.177.94.233": {
+      "confidence": 0.6,
+      "date": "2026-10-30 15:47:30",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cobaltstrike",
+        "opendir"
+      ],
+      "summary": "Team Cymru Total Insights fingerprinting of AI-driven offensive security agents Strix and Cairn across multiple IPs; one IP also tagged Cobalt Strike.",
+      "threat_type": "other",
+      "tweet_id": "2116166833682178423",
+      "type": "ip",
+      "value": "195.177.94.233"
     },
     "195.178.110.22": {
       "confidence": 0.5,
@@ -12598,20 +12648,6 @@
       "type": "sha256",
       "value": "1aa47ce02867f847227839b60d396ca96dac60372b0cd26b78b71a34473bb079"
     },
-    "1aaf44d350c37535c7bc8b3345f1c626c847ebfb50e74ee6781cab848fad70c1": {
-      "confidence": 0.75,
-      "date": "2026-09-30 08:05:23",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "RAR archive 'prueba5.rar' seen in Peru, used as an exploit for CVE-2025-8088 (WinRAR path traversal) and a second CVE.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2105207365989478409",
-      "type": "sha256",
-      "value": "1aaf44d350c37535c7bc8b3345f1c626c847ebfb50e74ee6781cab848fad70c1"
-    },
     "1ac8f4d8af26e08e2d646cb6e77b50d5a73921f9adf768f486684c70b99049d0": {
       "confidence": 0.85,
       "date": "2026-10-02 23:06:02",
@@ -12750,22 +12786,6 @@
       "tweet_id": "2108843002596925528",
       "type": "url",
       "value": "https://1dyorzi7.xyz/uKeHXtre/"
-    },
-    "1eb51e82267b2ea1d3216919dbac9d5297ca8565baf8e39ccfc07323136b1849": {
-      "confidence": 0.7,
-      "date": "2026-09-30 18:33:09",
-      "enriched_at": "2026-10-01T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Previously unidentified stealer sample analyzed on ANY.RUN; PDB path suggests a custom-built client.",
-      "threat_type": "malware",
-      "tweet_id": "2105365350380605455",
-      "type": "sha256",
-      "value": "1eb51e82267b2ea1d3216919dbac9d5297ca8565baf8e39ccfc07323136b1849"
     },
     "1ec50a6066dc8a222756507df308cfd496183ae333d87eae1635eed330707395": {
       "confidence": 0.7,
@@ -13080,6 +13100,21 @@
       "type": "ip",
       "value": "20.102.117.176"
     },
+    "20.124.33.198": {
+      "confidence": 0.6,
+      "date": "2026-10-30 15:47:30",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cobaltstrike",
+        "opendir"
+      ],
+      "summary": "Team Cymru Total Insights fingerprinting of AI-driven offensive security agents Strix and Cairn across multiple IPs; one IP also tagged Cobalt Strike.",
+      "threat_type": "other",
+      "tweet_id": "2116166833682178423",
+      "type": "ip",
+      "value": "20.124.33.198"
+    },
     "20.245.48.59": {
       "confidence": 0.88,
       "date": "2026-10-19 03:28:58",
@@ -13298,36 +13333,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "202.37.40.4"
-    },
-    "202.61.140.66": {
-      "confidence": 0.6,
-      "date": "2026-09-30 13:45:30",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Malicious ISO file named 'Account Statement.iso' seen from India, communicating with C2 at 202.61.140.66:7771.",
-      "threat_type": "c2",
-      "tweet_id": "2105292957372801064",
-      "type": "ip",
-      "value": "202.61.140.66"
-    },
-    "202.61.140.66:7771": {
-      "confidence": 0.6,
-      "date": "2026-09-30 13:45:30",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Malicious ISO file named 'Account Statement.iso' seen from India, communicating with C2 at 202.61.140.66:7771.",
-      "threat_type": "c2",
-      "tweet_id": "2105292957372801064",
-      "type": "url",
-      "value": "http://202.61.140.66:7771"
     },
     "202.61.73.177": {
       "confidence": 0.55,
@@ -13556,6 +13561,20 @@
       "tweet_id": "2111876966303543451",
       "type": "ip",
       "value": "206.187.222.63"
+    },
+    "206.206.126.142": {
+      "confidence": 0.95,
+      "date": "2026-10-30 18:06:35",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Facebook phishing site impersonating a Facebook profile page, hosted on OVH infrastructure in Singapore.",
+      "threat_type": "phishing",
+      "tweet_id": "2116230299990339964",
+      "type": "ip",
+      "value": "206.206.126.142"
     },
     "206.209.210.20": {
       "confidence": 0.9,
@@ -13796,20 +13815,6 @@
       "type": "url",
       "value": "http://209.74.83.47"
     },
-    "209.94.57.48": {
-      "confidence": 0.9,
-      "date": "2026-09-30 12:56:48",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Multi-brand phishing campaign reusing one kit and shared IP 209.94.57.48, using click-tracking links to harvest Microsoft 365 credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2105280704661647398",
-      "type": "url",
-      "value": "http://209.94.57.48"
-    },
     "209.99.190.80": {
       "confidence": 0.6,
       "date": "2026-10-11 21:00:46",
@@ -13881,6 +13886,21 @@
       "tweet_id": "2112416533263843835",
       "type": "ip",
       "value": "212.11.60.31"
+    },
+    "212.129.15.9": {
+      "confidence": 0.7,
+      "date": "2026-10-30 08:08:54",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "rat"
+      ],
+      "summary": "IP 212.129.15.9 on port 5000 reported as a RAT C2 panel.",
+      "threat_type": "c2",
+      "tweet_id": "2116079887123706310",
+      "type": "ip",
+      "value": "212.129.15.9"
     },
     "212.18.104.242": {
       "confidence": 0.5,
@@ -14083,20 +14103,6 @@
       "tweet_id": "2107418068393873847",
       "type": "url",
       "value": "http://213.209.159.55:443/t/ae7427/loot_nshist.tgz"
-    },
-    "216.109.177.105": {
-      "confidence": 0.7,
-      "date": "2026-09-30 07:17:32",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": "SEV7N",
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "SEV7N C2 panel on port 8443.",
-      "threat_type": "c2",
-      "tweet_id": "2105195323526369743",
-      "type": "ip",
-      "value": "216.109.177.105"
     },
     "216.239.32.27": {
       "confidence": 0.7,
@@ -14422,34 +14428,6 @@
       "type": "ip",
       "value": "217.60.7.209"
     },
-    "217.60.76.249": {
-      "confidence": 0.6,
-      "date": "2026-09-30 07:54:08",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious HTA file seen in Colombia, fetching payloads from an IP-hosted URL, GitHub and Pastebin.",
-      "threat_type": "malware",
-      "tweet_id": "2105204533378916819",
-      "type": "ip",
-      "value": "217.60.76.249"
-    },
-    "217.60.76.249:8080/3.jpg": {
-      "confidence": 0.6,
-      "date": "2026-09-30 07:54:08",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious HTA file seen in Colombia, fetching payloads from an IP-hosted URL, GitHub and Pastebin.",
-      "threat_type": "malware",
-      "tweet_id": "2105204533378916819",
-      "type": "url",
-      "value": "http://217.60.76.249:8080/3.jpg"
-    },
     "217.77.15.181": {
       "confidence": 0.9,
       "date": "2026-10-05 13:34:13",
@@ -14731,6 +14709,21 @@
       "type": "ip",
       "value": "23.226.57.50"
     },
+    "23.227.202.3": {
+      "confidence": 0.6,
+      "date": "2026-10-30 15:47:30",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cobaltstrike",
+        "opendir"
+      ],
+      "summary": "Team Cymru Total Insights fingerprinting of AI-driven offensive security agents Strix and Cairn across multiple IPs; one IP also tagged Cobalt Strike.",
+      "threat_type": "other",
+      "tweet_id": "2116166833682178423",
+      "type": "ip",
+      "value": "23.227.202.3"
+    },
     "23.248.221.117": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -14901,6 +14894,21 @@
       "tweet_id": "2109746693679800413",
       "type": "url",
       "value": "http://23.94.252.89/31919"
+    },
+    "23.95.220.222": {
+      "confidence": 0.6,
+      "date": "2026-10-30 15:47:30",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cobaltstrike",
+        "opendir"
+      ],
+      "summary": "Team Cymru Total Insights fingerprinting of AI-driven offensive security agents Strix and Cairn across multiple IPs; one IP also tagged Cobalt Strike.",
+      "threat_type": "other",
+      "tweet_id": "2116166833682178423",
+      "type": "ip",
+      "value": "23.95.220.222"
     },
     "2416d60ed2e9b8d0f040a232fe8ca2ad82a5392970d3c87ae5c55225231b7b46": {
       "confidence": 0.6,
@@ -15571,6 +15579,21 @@
       "type": "sha256",
       "value": "2863aff28573c241781108f0447555a90c526b1ac588c942122c6eaa7f09ba45"
     },
+    "28affd3d72889a2c15d33d3eebc320ff": {
+      "confidence": 0.8,
+      "date": "2026-10-30 10:29:51",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": "C3RB3R",
+      "suggested_tags": [
+        "ransomware",
+        "malware"
+      ],
+      "summary": "Synology warns of large-scale NAS ransomware attacks (LOCK3D/C3RB3R); IOCs include a staging IP and scripts/binaries such as xdy5.sh, qnetd and libgittcb.bat.",
+      "threat_type": "ransomware",
+      "tweet_id": "2116115359438971032",
+      "type": "md5",
+      "value": "28affd3d72889a2c15d33d3eebc320ff"
+    },
     "28d38655d3e9baaafaa097dd327773d58e428820e245f5acef130ec5047d04f6": {
       "confidence": 0.4,
       "date": "2026-10-12 07:09:24",
@@ -15693,20 +15716,6 @@
       "tweet_id": "2105440112989630614",
       "type": "sha256",
       "value": "2b2de48e0f4e0f678c9e0a324358238937237e76357b6cd29f52192835bac970"
-    },
-    "2b9434c7259c147977de103258084b375cbd8e13e02d0f25dd5876e1cc840a0a": {
-      "confidence": 0.6,
-      "date": "2026-09-30 07:54:08",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious HTA file seen in Colombia, fetching payloads from an IP-hosted URL, GitHub and Pastebin.",
-      "threat_type": "malware",
-      "tweet_id": "2105204533378916819",
-      "type": "sha256",
-      "value": "2b9434c7259c147977de103258084b375cbd8e13e02d0f25dd5876e1cc840a0a"
     },
     "2c2a9c.jackpot-deluxe.net": {
       "confidence": 0.9,
@@ -16099,21 +16108,6 @@
       "tweet_id": "2107403690747351321",
       "type": "url",
       "value": "http://31.59.39.40"
-    },
-    "31.76.111.41": {
-      "confidence": 0.75,
-      "date": "2026-09-30 08:19:00",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "HVNC C2 panel hosted on an IP with sslip.io hostnames.",
-      "threat_type": "c2",
-      "tweet_id": "2105210791465202035",
-      "type": "ip",
-      "value": "31.76.111.41"
     },
     "31.77.112.209": {
       "confidence": 0.6,
@@ -17930,6 +17924,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "34.152.41.129"
+    },
+    "34.152.43.207": {
+      "confidence": 0.4,
+      "date": "2026-10-30 12:41:58",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "IP address reported to SpamRadar as suspicious with 0/92 VirusTotal detections; tagged spam and phishing.",
+      "threat_type": "spam",
+      "tweet_id": "2116148605304103090",
+      "type": "ip",
+      "value": "34.152.43.207"
     },
     "34.152.45.192": {
       "confidence": 0.5,
@@ -22719,6 +22727,20 @@
       "type": "ip",
       "value": "35.190.146.89"
     },
+    "35.190.27.135": {
+      "confidence": 0.93,
+      "date": "2026-10-30 13:02:18",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Microsoft phishing site on flazio.online subdomain hosted on Google Cloud.",
+      "threat_type": "phishing",
+      "tweet_id": "2116153724196233601",
+      "type": "ip",
+      "value": "35.190.27.135"
+    },
     "35.193.29.161": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -26261,21 +26283,6 @@
       "type": "ip",
       "value": "41.225.25.98"
     },
-    "411e119adc7462f016b4fd4236fccf83d93f2141906faea458e231c9a8ce49fd": {
-      "confidence": 0.7,
-      "date": "2026-09-30 08:30:01",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": "Elyzium",
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "C2 server on port 8443 tied to Elyzium HVNC panel and loader/stager samples.",
-      "threat_type": "c2",
-      "tweet_id": "2105213563212382311",
-      "type": "sha256",
-      "value": "411e119adc7462f016b4fd4236fccf83d93f2141906faea458e231c9a8ce49fd"
-    },
     "41341ef5b5832abe13153dae29449a67757c6cf48e6ecdefb4b3e33a99ea8732": {
       "confidence": 0.9,
       "date": "2026-10-29 09:00:26",
@@ -27317,21 +27324,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "45.148.10.95"
-    },
-    "45.149.153.141": {
-      "confidence": 0.6,
-      "date": "2026-09-30 13:49:59",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Malicious JavaScript sample from France using a duckdns.org domain and IP 45.149.153.141 as C2 infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2105294087913914589",
-      "type": "url",
-      "value": "http://45.149.153.141"
     },
     "45.150.109.94": {
       "confidence": 0.85,
@@ -28381,6 +28373,21 @@
       "type": "ip",
       "value": "47.82.118.105"
     },
+    "47.97.206.32": {
+      "confidence": 0.6,
+      "date": "2026-10-30 15:47:30",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cobaltstrike",
+        "opendir"
+      ],
+      "summary": "Team Cymru Total Insights fingerprinting of AI-driven offensive security agents Strix and Cairn across multiple IPs; one IP also tagged Cobalt Strike.",
+      "threat_type": "other",
+      "tweet_id": "2116166833682178423",
+      "type": "ip",
+      "value": "47.97.206.32"
+    },
     "472253b0e67abf6cc5d4910260f4a109025d42109452ee238c4a50b44532c0d7": {
       "confidence": 0.75,
       "date": "2026-10-20 12:15:39",
@@ -28488,6 +28495,21 @@
       "tweet_id": "2114331507183784122",
       "type": "md5",
       "value": "48e2ebe5889074703fc3f0af5fd37cb3"
+    },
+    "49.233.127.206": {
+      "confidence": 0.6,
+      "date": "2026-10-30 15:47:30",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cobaltstrike",
+        "opendir"
+      ],
+      "summary": "Team Cymru Total Insights fingerprinting of AI-driven offensive security agents Strix and Cairn across multiple IPs; one IP also tagged Cobalt Strike.",
+      "threat_type": "other",
+      "tweet_id": "2116166833682178423",
+      "type": "ip",
+      "value": "49.233.127.206"
     },
     "49.51.38.193": {
       "confidence": 0.8,
@@ -29267,6 +29289,21 @@
       "type": "ip",
       "value": "51.68.132.244"
     },
+    "51.83.71.4": {
+      "confidence": 0.8,
+      "date": "2026-10-30 07:39:10",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": "Nezha",
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Chinese threat actor mass-scans exposed Redis/Portainer, drops the Nezha agent as a backdoor, persists via cron, escapes containers and steals cloud credentials.",
+      "threat_type": "malware",
+      "tweet_id": "2116072405508472926",
+      "type": "url",
+      "value": "http://51.83.71.4"
+    },
     "5140390597.cyou": {
       "confidence": 0.9,
       "date": "2026-10-02 13:51:37",
@@ -29496,6 +29533,20 @@
       "tweet_id": "2108681934540873852",
       "type": "url",
       "value": "http://54.233.66.219"
+    },
+    "54.37.128.190": {
+      "confidence": 0.9,
+      "date": "2026-10-30 06:18:33",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing email (UEC report) linking to hostrix.biz, sent from 154.221.17.172 and redirecting to 54.37.128.190.",
+      "threat_type": "phishing",
+      "tweet_id": "2116052118142673098",
+      "type": "ip",
+      "value": "54.37.128.190"
     },
     "54250bef9cd2097b202f2dc26900a40ed1fcdfc2cdfd870c09bb2d7b46e06b90": {
       "confidence": 0.55,
@@ -30300,20 +30351,6 @@
       "type": "ip",
       "value": "64.226.84.77"
     },
-    "64.227.132.179": {
-      "confidence": 0.85,
-      "date": "2026-09-30 10:32:06",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": "ULOSE",
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "ULOSE ransomware group leak site on a Tor onion address, with an associated IP address.",
-      "threat_type": "ransomware",
-      "tweet_id": "2105244290138112088",
-      "type": "ip",
-      "value": "64.227.132.179"
-    },
     "64.239.109.1": {
       "confidence": 0.95,
       "date": "2026-10-06 07:01:17",
@@ -30588,6 +30625,20 @@
       "type": "ip",
       "value": "66.175.208.166"
     },
+    "66.29.148.113": {
+      "confidence": 0.95,
+      "date": "2026-10-30 08:01:17",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Ita\u00fa phishing site identidade-itau.com, registered 2026-10-12, hosted at 66.29.148.113.",
+      "threat_type": "phishing",
+      "tweet_id": "2116077970708107460",
+      "type": "ip",
+      "value": "66.29.148.113"
+    },
     "66.42.100.63": {
       "confidence": 0.6,
       "date": "2026-10-08 17:52:05",
@@ -30649,38 +30700,6 @@
       "tweet_id": "2108169246240911697",
       "type": "url",
       "value": "http://66.85.26.163"
-    },
-    "67.207.81.22": {
-      "confidence": 0.75,
-      "date": "2026-09-30 13:15:06",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "c2",
-        "malware"
-      ],
-      "summary": "ClickFix intrusion with C2 at 67.207.81.22:443 (sunyotech.com); KeyUpdateAgent.exe dropped on lateral hosts.",
-      "threat_type": "c2",
-      "tweet_id": "2105285307780243502",
-      "type": "ip",
-      "value": "67.207.81.22"
-    },
-    "67.207.81.22:443": {
-      "confidence": 0.75,
-      "date": "2026-09-30 13:15:06",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "c2",
-        "malware"
-      ],
-      "summary": "ClickFix intrusion with C2 at 67.207.81.22:443 (sunyotech.com); KeyUpdateAgent.exe dropped on lateral hosts.",
-      "threat_type": "c2",
-      "tweet_id": "2105285307780243502",
-      "type": "url",
-      "value": "http://67.207.81.22:443"
     },
     "67.207.95.101": {
       "confidence": 0.9,
@@ -30860,21 +30879,6 @@
       "tweet_id": "2115893904373432405",
       "type": "sha256",
       "value": "6a5da90c553bb0da87e821a3bece34e1394825e845601993bd1df5cea70e29f1"
-    },
-    "6a93861d9d3604a31a32485a317d5056b54b530588fdebe935b6e23d85272de7": {
-      "confidence": 0.6,
-      "date": "2026-09-30 13:45:30",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Malicious ISO file named 'Account Statement.iso' seen from India, communicating with C2 at 202.61.140.66:7771.",
-      "threat_type": "c2",
-      "tweet_id": "2105292957372801064",
-      "type": "sha256",
-      "value": "6a93861d9d3604a31a32485a317d5056b54b530588fdebe935b6e23d85272de7"
     },
     "6ae1890733bc70a08b6b4300608235d708ed7bb6b430844ad782e7dfb720d71b": {
       "confidence": 0.6,
@@ -31827,6 +31831,21 @@
       "type": "ip",
       "value": "8.135.58.72"
     },
+    "8.152.193.50": {
+      "confidence": 0.6,
+      "date": "2026-10-30 15:47:30",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cobaltstrike",
+        "opendir"
+      ],
+      "summary": "Team Cymru Total Insights fingerprinting of AI-driven offensive security agents Strix and Cairn across multiple IPs; one IP also tagged Cobalt Strike.",
+      "threat_type": "other",
+      "tweet_id": "2116166833682178423",
+      "type": "ip",
+      "value": "8.152.193.50"
+    },
     "8.210.67.79": {
       "confidence": 0.8,
       "date": "2026-10-01 16:55:39",
@@ -32306,6 +32325,20 @@
       "tweet_id": "2112834452321632688",
       "type": "url",
       "value": "http://82.117.243.163"
+    },
+    "82.152.174.218": {
+      "confidence": 0.65,
+      "date": "2026-10-30 07:41:59",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP 82.152.174.218 on port 8443 reported as a C2 panel tagged RAVENOUS.",
+      "threat_type": "c2",
+      "tweet_id": "2116073112567783465",
+      "type": "ip",
+      "value": "82.152.174.218"
     },
     "82.156.186.122": {
       "confidence": 0.5,
@@ -33380,21 +33413,6 @@
       "type": "sha256",
       "value": "8c9c6d49b8792a1cc709d131bb3e18a48d87d410931c1dbb1532c0d47a4deaa7"
     },
-    "8e5188aff471eb7bdfd64db59f544453fe85aca351671c4e01c6fcc6593f23e9": {
-      "confidence": 0.7,
-      "date": "2026-09-30 08:30:01",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": "Elyzium",
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "C2 server on port 8443 tied to Elyzium HVNC panel and loader/stager samples.",
-      "threat_type": "c2",
-      "tweet_id": "2105213563212382311",
-      "type": "sha256",
-      "value": "8e5188aff471eb7bdfd64db59f544453fe85aca351671c4e01c6fcc6593f23e9"
-    },
     "8e8a79a84d0ac53e7b6d4a8c7f6b94417a5f7929213bff394cddd795ed3c6f17": {
       "confidence": 0.6,
       "date": "2026-10-27 09:40:07",
@@ -34322,6 +34340,50 @@
       "type": "url",
       "value": "http://94.154.43.201:80"
     },
+    "94.183.151.83": {
+      "confidence": 0.8,
+      "date": "2026-10-30 10:29:51",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": "C3RB3R",
+      "suggested_tags": [
+        "ransomware",
+        "malware"
+      ],
+      "summary": "Synology warns of large-scale NAS ransomware attacks (LOCK3D/C3RB3R); IOCs include a staging IP and scripts/binaries such as xdy5.sh, qnetd and libgittcb.bat.",
+      "threat_type": "ransomware",
+      "tweet_id": "2116115359438971032",
+      "type": "ip",
+      "value": "94.183.151.83"
+    },
+    "94.183.151.83/*": {
+      "confidence": 0.8,
+      "date": "2026-10-30 10:29:51",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": "C3RB3R",
+      "suggested_tags": [
+        "ransomware",
+        "malware"
+      ],
+      "summary": "Synology warns of large-scale NAS ransomware attacks (LOCK3D/C3RB3R); IOCs include a staging IP and scripts/binaries such as xdy5.sh, qnetd and libgittcb.bat.",
+      "threat_type": "ransomware",
+      "tweet_id": "2116115359438971032",
+      "type": "url",
+      "value": "http://94.183.151.83/*"
+    },
+    "94.183.188.14": {
+      "confidence": 0.35,
+      "date": "2026-10-30 11:52:22",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "IP address 94.183.188.14 shared as an indicator, linked to a rated ELF malware sample.",
+      "threat_type": "malware",
+      "tweet_id": "2116133593344831805",
+      "type": "url",
+      "value": "http://94.183.188.14"
+    },
     "94.26.0.53": {
       "confidence": 0.9,
       "date": "2026-10-05 13:34:13",
@@ -34441,34 +34503,6 @@
       "tweet_id": "2114652505091305524",
       "type": "ip",
       "value": "96.62.224.138"
-    },
-    "96.62.71.5": {
-      "confidence": 0.45,
-      "date": "2026-09-30 16:57:46",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Open directory on 96.62.71.5:8080 with a /bots/ path, possibly exposing bot or malware-related files.",
-      "threat_type": "other",
-      "tweet_id": "2105341343677477082",
-      "type": "ip",
-      "value": "96.62.71.5"
-    },
-    "96.62.71.5:8080/bots": {
-      "confidence": 0.45,
-      "date": "2026-09-30 16:57:46",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Open directory on 96.62.71.5:8080 with a /bots/ path, possibly exposing bot or malware-related files.",
-      "threat_type": "other",
-      "tweet_id": "2105341343677477082",
-      "type": "url",
-      "value": "http://96.62.71.5:8080/bots/"
     },
     "9683514cc99c80e7021849da4e9bd65d00c6d477f478589ea9aef522daed3c72": {
       "confidence": 0.4,
@@ -34686,21 +34720,6 @@
       "type": "sha256",
       "value": "9c8f7ed3d0431cc8446828df9a47e10ec713a7859fb079a37399271725302eae"
     },
-    "9ca98eb44775a5bca631a4f7ddc6590542cd8d5a660bdeb3b8fef36446c4fac0": {
-      "confidence": 0.7,
-      "date": "2026-09-30 08:30:01",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": "Elyzium",
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "C2 server on port 8443 tied to Elyzium HVNC panel and loader/stager samples.",
-      "threat_type": "c2",
-      "tweet_id": "2105213563212382311",
-      "type": "sha256",
-      "value": "9ca98eb44775a5bca631a4f7ddc6590542cd8d5a660bdeb3b8fef36446c4fac0"
-    },
     "9cdf9119881608c365d9bec3356b06d9ee5bb0ece48376c415a8d14c0070dc55": {
       "confidence": 0.35,
       "date": "2026-10-12 20:10:30",
@@ -34863,6 +34882,20 @@
       "type": "domain",
       "value": "9xkcaayaagvr1p2.top"
     },
+    "a05f4ff652ead595faf098299f14c279f84873268ffca159ff8a3e1e6a713943": {
+      "confidence": 0.6,
+      "date": "2026-10-30 12:02:13",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious RAR archive with a government-personnel-themed lure sample on MalwareBazaar, associated with domain xiksjha.cc.",
+      "threat_type": "malware",
+      "tweet_id": "2116138601591267643",
+      "type": "sha256",
+      "value": "a05f4ff652ead595faf098299f14c279f84873268ffca159ff8a3e1e6a713943"
+    },
     "a0923188fbd52277e1711ae312f3c6fb841f3cdebe1a95d5c89fe2455f8ace32": {
       "confidence": 0.9,
       "date": "2026-10-12 14:18:17",
@@ -34938,6 +34971,21 @@
       "tweet_id": "2109723235285880949",
       "type": "sha256",
       "value": "a11ef5f0f05586bc4798a035cba17d252c94f2f36c5322cd15235c3fc51b6c4c"
+    },
+    "a1375e0f82ae86df528876c049b5a23c": {
+      "confidence": 0.8,
+      "date": "2026-10-30 10:29:51",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": "C3RB3R",
+      "suggested_tags": [
+        "ransomware",
+        "malware"
+      ],
+      "summary": "Synology warns of large-scale NAS ransomware attacks (LOCK3D/C3RB3R); IOCs include a staging IP and scripts/binaries such as xdy5.sh, qnetd and libgittcb.bat.",
+      "threat_type": "ransomware",
+      "tweet_id": "2116115359438971032",
+      "type": "md5",
+      "value": "a1375e0f82ae86df528876c049b5a23c"
     },
     "a1469f561141c9f5955444765ab6645af30216608219e34f1b9496c6f44c8b82": {
       "confidence": 0.6,
@@ -35229,20 +35277,6 @@
       "type": "md5",
       "value": "a8114e4adcd6063cd6315fa142231b0f"
     },
-    "a822227f2722e9fedd3ef522e13a328cde19b4dca39c1f4c3963f1ed2aa430bf": {
-      "confidence": 0.45,
-      "date": "2026-09-30 08:58:27",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious CMD script disguised as a purchase order 'Supply List_Purchase Order.cmd', seen in Vietnam on Malware Bazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2105220719000900083",
-      "type": "sha256",
-      "value": "a822227f2722e9fedd3ef522e13a328cde19b4dca39c1f4c3963f1ed2aa430bf"
-    },
     "a82e85b2cdf25b2e9f5b239f633e637e4979a25af16c984888accdb3ed33b892": {
       "confidence": 0.8,
       "date": "2026-10-21 05:06:37",
@@ -35319,20 +35353,6 @@
       "type": "sha256",
       "value": "a8d7e195089b11db3c3c362a4f81b0eb6dc502f204993b73ef37ae0947306a35"
     },
-    "a8ed949b21b7319d39204965112d61b9f695d9cf1f9fb17e1394e54a08dfdd16": {
-      "confidence": 0.4,
-      "date": "2026-09-30 18:26:31",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malware sample named 'svchost.exe' reported from Romania via abuse.ch MalwareBazaar; no family identified.",
-      "threat_type": "malware",
-      "tweet_id": "2105363677746549042",
-      "type": "sha256",
-      "value": "a8ed949b21b7319d39204965112d61b9f695d9cf1f9fb17e1394e54a08dfdd16"
-    },
     "a93d937f22335318e23a564ae42a16d8f6d0fa64305846980af77ef8965463bc": {
       "confidence": 0.4,
       "date": "2026-10-03 20:18:21",
@@ -35346,20 +35366,6 @@
       "tweet_id": "2106478985328865531",
       "type": "sha256",
       "value": "a93d937f22335318e23a564ae42a16d8f6d0fa64305846980af77ef8965463bc"
-    },
-    "a9624ad50037e49f5d2e9ba37d079ba4c71341745649e43841ea9612fc21c089": {
-      "confidence": 0.5,
-      "date": "2026-09-30 09:49:28",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious VHDX file 'PDF_FVLZKX_20260926030438.vhdx' seen in Malaysia on Malware Bazaar, linked to a domain and IP.",
-      "threat_type": "malware",
-      "tweet_id": "2105233557711093938",
-      "type": "sha256",
-      "value": "a9624ad50037e49f5d2e9ba37d079ba4c71341745649e43841ea9612fc21c089"
     },
     "a967b46481f77ce9bdd6e57afe858943dd5c03e8810a95e3223c9b2ccec06ec6": {
       "confidence": 0.6,
@@ -40818,6 +40824,20 @@
       "type": "sha256",
       "value": "aea291ecbfc916acb6cd8b1d1f9a3671c8782c5bc051098c7ab9d94c786d5dcc"
     },
+    "aeedaf9aa756a43eb066e6ccc43d28c6cfdaf8a19512ea696864127bc8743713": {
+      "confidence": 0.5,
+      "date": "2026-10-30 11:52:22",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "ELF malware sample uploaded to MalwareBazaar, associated with IP 94.183.188.14.",
+      "threat_type": "malware",
+      "tweet_id": "2116136122015182994",
+      "type": "sha256",
+      "value": "aeedaf9aa756a43eb066e6ccc43d28c6cfdaf8a19512ea696864127bc8743713"
+    },
     "aep.login-options.com": {
       "confidence": 0.7,
       "date": "2026-10-14 08:09:45",
@@ -41074,6 +41094,20 @@
       "tweet_id": "2110874670799183903",
       "type": "domain",
       "value": "ainfnow.cn"
+    },
+    "airbnb-poland.com": {
+      "confidence": 0.9,
+      "date": "2026-10-30 09:09:20",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Newly registered domain airbnb-poland.com impersonates Airbnb with a cloned Polish website.",
+      "threat_type": "phishing",
+      "tweet_id": "2116095093430173869",
+      "type": "domain",
+      "value": "airbnb-poland.com"
     },
     "ajmwglfzin.zelixavon.com": {
       "confidence": 0.9,
@@ -41556,6 +41590,34 @@
       "tweet_id": "2113634827715117474",
       "type": "url",
       "value": "https://amecxfund.com/ivkehhc/lipp/vzisum/yahy/hnlxw/vjsoajyq/ckucolrd/gsjudctm/"
+    },
+    "americanexpcnh.w1u2p60.asia": {
+      "confidence": 0.93,
+      "date": "2026-10-30 14:13:29",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating American Express, targeting Japanese users.",
+      "threat_type": "phishing",
+      "tweet_id": "2116171636923936963",
+      "type": "domain",
+      "value": "americanexpcnh.w1u2p60.asia"
+    },
+    "americanexpcnh.w1u2p60.asia/yxhzxla": {
+      "confidence": 0.93,
+      "date": "2026-10-30 14:13:29",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating American Express, targeting Japanese users.",
+      "threat_type": "phishing",
+      "tweet_id": "2116171636923936963",
+      "type": "url",
+      "value": "https://americanexpcnh.w1u2p60.asia/yxhZxla"
     },
     "amf-whatsapp.com": {
       "confidence": 0.65,
@@ -44566,22 +44628,6 @@
       "type": "domain",
       "value": "ble-whatsapp.com"
     },
-    "bleodw.wisp.uno": {
-      "confidence": 0.9,
-      "date": "2026-09-30 11:41:27",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2",
-        "trojan"
-      ],
-      "summary": "Malicious PyPI package 'beautifyText' with a cross-platform backdoor that contacts a C2, runs shell commands, and exfiltrates and writes files.",
-      "threat_type": "malware",
-      "tweet_id": "2105261740308992400",
-      "type": "domain",
-      "value": "bleodw.wisp.uno"
-    },
     "blf-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -47473,20 +47519,6 @@
       "type": "sha256",
       "value": "ca9a5a5b5c7e12abf723f61db77ac54bf0f477db1f60bbc527157e62f94f637d"
     },
-    "cac69561dbd3ef68e15c80be25b754f8a19e3f0849ffaf99af64de4d8118e63c": {
-      "confidence": 0.5,
-      "date": "2026-09-30 08:13:54",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious MSI installer 'm2.msi' seen in Switzerland, contacting two .top domains.",
-      "threat_type": "malware",
-      "tweet_id": "2105209508901347460",
-      "type": "sha256",
-      "value": "cac69561dbd3ef68e15c80be25b754f8a19e3f0849ffaf99af64de4d8118e63c"
-    },
     "cachesrv-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -48279,34 +48311,6 @@
       "tweet_id": "2111958975076090219",
       "type": "domain",
       "value": "cgazkyh.cn"
-    },
-    "cgongseq.com": {
-      "confidence": 0.9,
-      "date": "2026-09-30 12:52:28",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing sites impersonating Rakuten (Japan) with multiple domains sharing the /point/download/ path.",
-      "threat_type": "phishing",
-      "tweet_id": "2105279613614330291",
-      "type": "domain",
-      "value": "cgongseq.com"
-    },
-    "cgongseq.com/point/download": {
-      "confidence": 0.9,
-      "date": "2026-09-30 12:52:28",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing sites impersonating Rakuten (Japan) with multiple domains sharing the /point/download/ path.",
-      "threat_type": "phishing",
-      "tweet_id": "2105279613614330291",
-      "type": "url",
-      "value": "https://cgongseq.com/point/download/"
     },
     "ch.10001mb.com": {
       "confidence": 0.6,
@@ -50125,20 +50129,6 @@
       "type": "domain",
       "value": "couhe79.xyz"
     },
-    "cp.preparationguru.com": {
-      "confidence": 0.9,
-      "date": "2026-09-30 12:56:48",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Multi-brand phishing campaign reusing one kit and shared IP 209.94.57.48, using click-tracking links to harvest Microsoft 365 credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2105280704661647398",
-      "type": "domain",
-      "value": "cp.preparationguru.com"
-    },
     "crackcodes.in": {
       "confidence": 0.8,
       "date": "2026-10-20 10:33:15",
@@ -50692,37 +50682,6 @@
       "tweet_id": "2113729711889346677",
       "type": "sha256",
       "value": "d5534936dcb8913c250b9e0bc14ee438feaf9ce3b5e076ba771b4211645acc81"
-    },
-    "d575fa0c29d6dd4cc063246d0e26d75e795b9751f2a9d1193c4ec01d59a5cd28": {
-      "confidence": 0.7,
-      "date": "2026-09-30 07:42:00",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": "Phoenix",
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Phoenix C2 panel on port 8443 with an associated sample hash.",
-      "threat_type": "c2",
-      "tweet_id": "2105201479896416424",
-      "type": "sha256",
-      "value": "d575fa0c29d6dd4cc063246d0e26d75e795b9751f2a9d1193c4ec01d59a5cd28"
-    },
-    "d6a014c7f9637f652116dc49ff3696c3ab6b8c6f9e8be03f2d2ed828a431cc5d": {
-      "confidence": 0.75,
-      "date": "2026-09-30 13:01:16",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as Plex, distributed via lnsygjswxx.com; tagged as phishing and malware.",
-      "threat_type": "malware",
-      "tweet_id": "2105281828890492957",
-      "type": "sha256",
-      "value": "d6a014c7f9637f652116dc49ff3696c3ab6b8c6f9e8be03f2d2ed828a431cc5d"
     },
     "d70f5b8ec6359ad5c22acb628a7c7ec81c8d549869afa7f96a377e52879a6642": {
       "confidence": 0.75,
@@ -51789,20 +51748,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "devsys-whatsapp.com"
-    },
-    "df74f2f8eb8d707411ffb8ee8f9c9fb1881fe1cc38978e8c743de393d4ce0b9d": {
-      "confidence": 0.6,
-      "date": "2026-09-30 13:11:29",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious Korean-named LNK file (insurance claim lure) that contacts a scienceontheweb.net PHP URL, sending host details.",
-      "threat_type": "malware",
-      "tweet_id": "2105284398446731348",
-      "type": "sha256",
-      "value": "df74f2f8eb8d707411ffb8ee8f9c9fb1881fe1cc38978e8c743de393d4ce0b9d"
     },
     "df86db89f7f965fc117d4c14b722d3d02f1d1de5c6ec216bb59fcf2736374caa": {
       "confidence": 0.75,
@@ -52921,21 +52866,6 @@
       "type": "sha256",
       "value": "e050ddccbdac97dfc8eb41760a76b1ae7f0c9e22a44034304462ea20c3ed51f5"
     },
-    "e0814b26359c1e8dacd53e16fd847afc9f1c2d9ec2ddd3606b219a7041357e66": {
-      "confidence": 0.6,
-      "date": "2026-09-30 13:49:59",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Malicious JavaScript sample from France using a duckdns.org domain and IP 45.149.153.141 as C2 infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2105294087913914589",
-      "type": "sha256",
-      "value": "e0814b26359c1e8dacd53e16fd847afc9f1c2d9ec2ddd3606b219a7041357e66"
-    },
     "e1.cdnresolver.com": {
       "confidence": 0.85,
       "date": "2026-10-09 08:03:24",
@@ -53135,6 +53065,21 @@
       "tweet_id": "2112455783023595713",
       "type": "sha256",
       "value": "e478de33724ef288215d8f238e52846b5da173574b48825dcdc2ac2627e44535"
+    },
+    "e5cc0827446e1b664d47e452b0390ce2": {
+      "confidence": 0.8,
+      "date": "2026-10-30 10:29:51",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": "C3RB3R",
+      "suggested_tags": [
+        "ransomware",
+        "malware"
+      ],
+      "summary": "Synology warns of large-scale NAS ransomware attacks (LOCK3D/C3RB3R); IOCs include a staging IP and scripts/binaries such as xdy5.sh, qnetd and libgittcb.bat.",
+      "threat_type": "ransomware",
+      "tweet_id": "2116115359438971032",
+      "type": "md5",
+      "value": "e5cc0827446e1b664d47e452b0390ce2"
     },
     "e6240ab3c91c4059a84c0415db1d68d0": {
       "confidence": 0.8,
@@ -53442,22 +53387,6 @@
       "tweet_id": "2108156892333670522",
       "type": "md5",
       "value": "ec832c3ad772111081ba21e35aca3bb0"
-    },
-    "ec9ada555d6dffa2fed08e86e26e29e7c6d15d90e0323cdf44e06e75461a04bf": {
-      "confidence": 0.75,
-      "date": "2026-09-30 13:15:06",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "c2",
-        "malware"
-      ],
-      "summary": "ClickFix intrusion with C2 at 67.207.81.22:443 (sunyotech.com); KeyUpdateAgent.exe dropped on lateral hosts.",
-      "threat_type": "c2",
-      "tweet_id": "2105285307780243502",
-      "type": "sha256",
-      "value": "ec9ada555d6dffa2fed08e86e26e29e7c6d15d90e0323cdf44e06e75461a04bf"
     },
     "ecefe715624f0588bce5f546f175675e320da90583a378993c6ac54c074b01d1": {
       "confidence": 0.55,
@@ -53798,20 +53727,6 @@
       "tweet_id": "2111958975076090219",
       "type": "domain",
       "value": "egfbp.cn"
-    },
-    "egm34gsyx65wb6jyqds4esvkskl34barx4robuebjhqpc4dfeavg7fyd.onion": {
-      "confidence": 0.85,
-      "date": "2026-09-30 10:32:06",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": "ULOSE",
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "ULOSE ransomware group leak site on a Tor onion address, with an associated IP address.",
-      "threat_type": "ransomware",
-      "tweet_id": "2105244290138112088",
-      "type": "domain",
-      "value": "egm34gsyx65wb6jyqds4esvkskl34barx4robuebjhqpc4dfeavg7fyd.onion"
     },
     "egrweb-whatsapp.com": {
       "confidence": 0.65,
@@ -54535,6 +54450,21 @@
       "type": "md5",
       "value": "f12f8237feb7bdfb066162d72ff3eec3"
     },
+    "f1ea2976418ce14ffd5ef6cbfcb6fa48": {
+      "confidence": 0.8,
+      "date": "2026-10-30 10:29:51",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": "C3RB3R",
+      "suggested_tags": [
+        "ransomware",
+        "malware"
+      ],
+      "summary": "Synology warns of large-scale NAS ransomware attacks (LOCK3D/C3RB3R); IOCs include a staging IP and scripts/binaries such as xdy5.sh, qnetd and libgittcb.bat.",
+      "threat_type": "ransomware",
+      "tweet_id": "2116115359438971032",
+      "type": "md5",
+      "value": "f1ea2976418ce14ffd5ef6cbfcb6fa48"
+    },
     "f2ae44b6f070273d53f79ef73646f880": {
       "confidence": 0.85,
       "date": "2026-10-29 13:47:23",
@@ -54856,20 +54786,6 @@
       "type": "sha256",
       "value": "f9f8bb03427562dc0948d90c0324465ef9ba2d5bc63317ae650b10422bc9e0b4"
     },
-    "facai.mwkwnnn.click": {
-      "confidence": 0.5,
-      "date": "2026-09-30 09:49:28",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious VHDX file 'PDF_FVLZKX_20260926030438.vhdx' seen in Malaysia on Malware Bazaar, linked to a domain and IP.",
-      "threat_type": "malware",
-      "tweet_id": "2105233557711093938",
-      "type": "domain",
-      "value": "facai.mwkwnnn.click"
-    },
     "facebook-logiin.vercel.app": {
       "confidence": 0.75,
       "date": "2026-10-05 01:20:03",
@@ -54912,20 +54828,6 @@
       "tweet_id": "2113964013755179333",
       "type": "domain",
       "value": "facebook.recovery.jisandev.com"
-    },
-    "facebook.sioll.net": {
-      "confidence": 0.95,
-      "date": "2026-09-30 07:00:58",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Facebook phishing site hosted on a DigitalOcean IP under a lookalike subdomain.",
-      "threat_type": "phishing",
-      "tweet_id": "2105191155314925728",
-      "type": "domain",
-      "value": "facebook.sioll.net"
     },
     "fadeabd9497af31e13c24c6db329cc5f8ab09e6aac0d5abf0cd2266f29815c8f": {
       "confidence": 0.75,
@@ -57586,20 +57488,6 @@
       "type": "url",
       "value": "https://gakik.cn/?pkrynnjy"
     },
-    "galaxycoinmix.com": {
-      "confidence": 0.3,
-      "date": "2026-09-30 10:27:09",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam"
-      ],
-      "summary": "Domain galaxycoinmix[.]com shared without context; name suggests a crypto mixing service, possibly scam-related.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2105243041342923196",
-      "type": "domain",
-      "value": "galaxycoinmix.com"
-    },
     "gambah.com": {
       "confidence": 0.9,
       "date": "2026-10-15 09:05:36",
@@ -58185,6 +58073,20 @@
       "tweet_id": "2111958975076090219",
       "type": "domain",
       "value": "gnnkarg.cn"
+    },
+    "go-google.com": {
+      "confidence": 0.55,
+      "date": "2026-10-30 10:33:54",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Chinese-language site go-google.com impersonates the Chrome download page; the download button delivers no file and no malware is confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2116116376767308164",
+      "type": "domain",
+      "value": "go-google.com"
     },
     "go2-whatsapp.com": {
       "confidence": 0.75,
@@ -59174,21 +59076,6 @@
       "type": "domain",
       "value": "hcnksadcn.cc"
     },
-    "hdhdandan.duckdns.org": {
-      "confidence": 0.6,
-      "date": "2026-09-30 13:49:59",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Malicious JavaScript sample from France using a duckdns.org domain and IP 45.149.153.141 as C2 infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2105294087913914589",
-      "type": "domain",
-      "value": "hdhdandan.duckdns.org"
-    },
     "health.vitalhealthportal.com": {
       "confidence": 0.85,
       "date": "2026-10-01 20:10:14",
@@ -59759,6 +59646,48 @@
       "type": "domain",
       "value": "hostpush-whatsapp.com"
     },
+    "hostrix.biz": {
+      "confidence": 0.9,
+      "date": "2026-10-30 06:18:33",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing email (UEC report) linking to hostrix.biz, sent from 154.221.17.172 and redirecting to 54.37.128.190.",
+      "threat_type": "phishing",
+      "tweet_id": "2116052118142673098",
+      "type": "domain",
+      "value": "hostrix.biz"
+    },
+    "hostrix.biz/post/data/?uid=aaaa@example.jp": {
+      "confidence": 0.9,
+      "date": "2026-10-30 06:18:34",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing URL on hostrix.biz with a victim-email parameter.",
+      "threat_type": "phishing",
+      "tweet_id": "2116052120126541894",
+      "type": "url",
+      "value": "https://hostrix.biz/post/data/?uid=aaaa@example.jp"
+    },
+    "hostrix.biz/post/data?uid=aaaa@example.jp": {
+      "confidence": 0.9,
+      "date": "2026-10-30 06:18:33",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing email (UEC report) linking to hostrix.biz, sent from 154.221.17.172 and redirecting to 54.37.128.190.",
+      "threat_type": "phishing",
+      "tweet_id": "2116052118142673098",
+      "type": "url",
+      "value": "https://hostrix.biz/post/data?uid=aaaa@example.jp"
+    },
     "hotelalloldnewfinal.gptjailbreak.net": {
       "confidence": 0.65,
       "date": "2026-10-28 18:41:18",
@@ -59875,34 +59804,6 @@
       "tweet_id": "2110778091257696295",
       "type": "url",
       "value": "http://https--www--roblox.com/login?returnUrl=1717572407"
-    },
-    "https-roblox.com": {
-      "confidence": 0.95,
-      "date": "2026-09-30 12:01:21",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Roblox credential phishing site on a lookalike domain registered 10 days earlier, fronted by Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2105266748341530927",
-      "type": "domain",
-      "value": "https-roblox.com"
-    },
-    "https-roblox.com/login?returnurl=1961065750": {
-      "confidence": 0.95,
-      "date": "2026-09-30 12:01:21",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Roblox credential phishing site on a lookalike domain registered 10 days earlier, fronted by Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2105266748341530927",
-      "type": "url",
-      "value": "http://https-roblox.com/login?returnUrl=1961065750"
     },
     "httpsrv-whatsapp.com": {
       "confidence": 0.65,
@@ -60332,6 +60233,20 @@
       "tweet_id": "2105625326839906782",
       "type": "domain",
       "value": "iddmd.com"
+    },
+    "identidade-itau.com": {
+      "confidence": 0.95,
+      "date": "2026-10-30 08:01:17",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Ita\u00fa phishing site identidade-itau.com, registered 2026-10-12, hosted at 66.29.148.113.",
+      "threat_type": "phishing",
+      "tweet_id": "2116077970708107460",
+      "type": "domain",
+      "value": "identidade-itau.com"
     },
     "ids-whatsapp.com": {
       "confidence": 0.65,
@@ -61554,6 +61469,21 @@
       "type": "url",
       "value": "https://johnhaywoodphotography.com/o974VAJH/"
     },
+    "joi-user-res.oss-us-west-1.aliyuncs.com": {
+      "confidence": 0.5,
+      "date": "2026-10-30 15:33:51",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware"
+      ],
+      "summary": "Suspicious APKs delivered via a social media ads campaign contacting an Alibaba Cloud OSS hostname; analysis requested.",
+      "threat_type": "malware",
+      "tweet_id": "2116191862532997424",
+      "type": "domain",
+      "value": "joi-user-res.oss-us-west-1.aliyuncs.com"
+    },
     "join-inapp.com": {
       "confidence": 0.9,
       "date": "2026-10-27 23:30:39",
@@ -61900,34 +61830,6 @@
       "type": "url",
       "value": "http://justtoit.icu/IVS/IVS/IV/evite-source/"
     },
-    "jwscaiwu.com": {
-      "confidence": 0.85,
-      "date": "2026-09-30 12:52:28",
-      "enriched_at": "2026-10-29T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing sites impersonating Rakuten (Japan) across several domains with /point/download/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2105279613614330291",
-      "type": "domain",
-      "value": "jwscaiwu.com"
-    },
-    "jwscaiwu.com/point/download": {
-      "confidence": 0.9,
-      "date": "2026-09-30 12:52:28",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing sites impersonating Rakuten (Japan) with multiple domains sharing the /point/download/ path.",
-      "threat_type": "phishing",
-      "tweet_id": "2105279613614330291",
-      "type": "url",
-      "value": "https://jwscaiwu.com/point/download/"
-    },
     "ka376.online": {
       "confidence": 0.7,
       "date": "2026-10-19 21:28:27",
@@ -62041,20 +61943,6 @@
       "tweet_id": "2106134963691110599",
       "type": "domain",
       "value": "kanuis2.duckdns.org"
-    },
-    "karkarkar.top": {
-      "confidence": 0.5,
-      "date": "2026-09-30 08:13:54",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious MSI installer 'm2.msi' seen in Switzerland, contacting two .top domains.",
-      "threat_type": "malware",
-      "tweet_id": "2105209508901347460",
-      "type": "domain",
-      "value": "karkarkar.top"
     },
     "katfiore.com": {
       "confidence": 0.2,
@@ -63250,22 +63138,6 @@
       "type": "domain",
       "value": "llsbsnls.suplayer810.workers.dev"
     },
-    "lnsygjswxx.com": {
-      "confidence": 0.75,
-      "date": "2026-09-30 13:01:16",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as Plex, distributed via lnsygjswxx.com; tagged as phishing and malware.",
-      "threat_type": "malware",
-      "tweet_id": "2105281828890492957",
-      "type": "domain",
-      "value": "lnsygjswxx.com"
-    },
     "lo-ja-ma-galu-store.com": {
       "confidence": 0.85,
       "date": "2026-10-09 10:55:17",
@@ -63816,33 +63688,33 @@
       "type": "domain",
       "value": "luxonuniversity.com"
     },
-    "lysxcyy.com": {
-      "confidence": 0.9,
-      "date": "2026-09-30 12:52:28",
-      "enriched_at": "2026-09-30T18:40:04Z",
+    "m-facebooks.vn": {
+      "confidence": 0.95,
+      "date": "2026-10-30 18:06:35",
+      "enriched_at": "2026-10-30T18:40:03Z",
       "family": null,
       "suggested_tags": [
         "phishing"
       ],
-      "summary": "Phishing sites impersonating Rakuten (Japan) with multiple domains sharing the /point/download/ path.",
+      "summary": "Facebook phishing site impersonating a Facebook profile page, hosted on OVH infrastructure in Singapore.",
       "threat_type": "phishing",
-      "tweet_id": "2105279613614330291",
+      "tweet_id": "2116230299990339964",
       "type": "domain",
-      "value": "lysxcyy.com"
+      "value": "m-facebooks.vn"
     },
-    "lysxcyy.com/point/download": {
-      "confidence": 0.9,
-      "date": "2026-09-30 12:52:28",
-      "enriched_at": "2026-09-30T18:40:04Z",
+    "m-facebooks.vn/httpswwwfacebookcomdovanduc2020/?tj9": {
+      "confidence": 0.95,
+      "date": "2026-10-30 18:06:35",
+      "enriched_at": "2026-10-30T18:40:03Z",
       "family": null,
       "suggested_tags": [
         "phishing"
       ],
-      "summary": "Phishing sites impersonating Rakuten (Japan) with multiple domains sharing the /point/download/ path.",
+      "summary": "Facebook phishing site impersonating a Facebook profile page, hosted on OVH infrastructure in Singapore.",
       "threat_type": "phishing",
-      "tweet_id": "2105279613614330291",
+      "tweet_id": "2116230299990339964",
       "type": "url",
-      "value": "https://lysxcyy.com/point/download/"
+      "value": "http://m-facebooks.vn/httpswwwfacebookcomdovanduc2020/?tj9"
     },
     "m-fixbet.vip": {
       "confidence": 0.7,
@@ -64460,34 +64332,6 @@
       "type": "domain",
       "value": "mbhhrx.sitmarks.xyz"
     },
-    "mbrgwn.cfd": {
-      "confidence": 0.95,
-      "date": "2026-09-30 06:40:38",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating UC Card, behind Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2105186038369120528",
-      "type": "domain",
-      "value": "mbrgwn.cfd"
-    },
-    "mbrgwn.cfd/uccard": {
-      "confidence": 0.95,
-      "date": "2026-09-30 06:40:38",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating UC Card, behind Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2105186038369120528",
-      "type": "url",
-      "value": "https://mbrgwn.cfd/uccard"
-    },
     "mcwlogin.club": {
       "confidence": 0.6,
       "date": "2026-10-13 11:46:30",
@@ -64964,6 +64808,20 @@
       "type": "domain",
       "value": "microsoftcloudverification.com"
     },
+    "microsoftoutlook.flazio.online": {
+      "confidence": 0.93,
+      "date": "2026-10-30 13:02:18",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Microsoft phishing site on flazio.online subdomain hosted on Google Cloud.",
+      "threat_type": "phishing",
+      "tweet_id": "2116153724196233601",
+      "type": "domain",
+      "value": "microsoftoutlook.flazio.online"
+    },
     "microsoftsoftware.com.co": {
       "confidence": 0.4,
       "date": "2026-10-19 20:01:13",
@@ -65004,34 +64862,6 @@
       "tweet_id": "2115375353158136270",
       "type": "domain",
       "value": "microwindow-e9fvg7ahe0cxf6a6.z02.azurefd.net"
-    },
-    "mikoblico.xyz": {
-      "confidence": 0.3,
-      "date": "2026-09-30 07:05:39",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Login panel titled 'ICMacOs' on mikoblico[.]xyz; purpose unclear, possibly macOS malware or stealer control panel.",
-      "threat_type": "other",
-      "tweet_id": "2105192333234831688",
-      "type": "domain",
-      "value": "mikoblico.xyz"
-    },
-    "mikoblico.xyz/login": {
-      "confidence": 0.3,
-      "date": "2026-09-30 07:05:39",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Login panel titled 'ICMacOs' on mikoblico[.]xyz; purpose unclear, possibly macOS malware or stealer control panel.",
-      "threat_type": "other",
-      "tweet_id": "2105192333234831688",
-      "type": "url",
-      "value": "https://mikoblico.xyz/login"
     },
     "milliontv.sbs": {
       "confidence": 0.75,
@@ -65366,6 +65196,22 @@
       "tweet_id": "2113243429073526787",
       "type": "domain",
       "value": "mlroweb.com"
+    },
+    "mmarketplaces.com": {
+      "confidence": 0.85,
+      "date": "2026-10-30 13:08:19",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": "Arid Gopher",
+      "suggested_tags": [
+        "apt",
+        "c2",
+        "malware"
+      ],
+      "summary": "Arid Gopher/Arid Viper espionage campaigns using Arabic lures, macro docs, HTA, Go backdoor and VHDX libcurl implant; C2 mmarketplaces.com.",
+      "threat_type": "malware",
+      "tweet_id": "2116155238570680509",
+      "type": "domain",
+      "value": "mmarketplaces.com"
     },
     "mmasunandrajat.com": {
       "confidence": 0.93,
@@ -66990,34 +66836,6 @@
       "type": "domain",
       "value": "ohhhhhmoney.com"
     },
-    "oiuwaksdiw.com": {
-      "confidence": 0.85,
-      "date": "2026-09-30 12:52:28",
-      "enriched_at": "2026-10-25T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing sites impersonating Rakuten (Japan) with multiple lookalike domains hosting /point/download/ pages.",
-      "threat_type": "phishing",
-      "tweet_id": "2105279613614330291",
-      "type": "domain",
-      "value": "oiuwaksdiw.com"
-    },
-    "oiuwaksdiw.com/point/download": {
-      "confidence": 0.9,
-      "date": "2026-09-30 12:52:28",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing sites impersonating Rakuten (Japan) with multiple domains sharing the /point/download/ path.",
-      "threat_type": "phishing",
-      "tweet_id": "2105279613614330291",
-      "type": "url",
-      "value": "https://oiuwaksdiw.com/point/download/"
-    },
     "ojsdocument.blob.core.windows.net": {
       "confidence": 0.85,
       "date": "2026-10-14 09:53:36",
@@ -67117,34 +66935,6 @@
       "tweet_id": "2105625326839906782",
       "type": "domain",
       "value": "old-shadow-803d.user308.workers.dev"
-    },
-    "old.cricketpavers.com": {
-      "confidence": 0.9,
-      "date": "2026-09-30 07:20:04",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Verified phishing URL on a compromised or abused domain targeting Intesa Sanpaolo customers in Italy.",
-      "threat_type": "phishing",
-      "tweet_id": "2105195962511556826",
-      "type": "domain",
-      "value": "old.cricketpavers.com"
-    },
-    "old.cricketpavers.com/isrtaex/it/persone-e-famiglie": {
-      "confidence": 0.9,
-      "date": "2026-09-30 07:20:04",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Verified phishing URL on a compromised or abused domain targeting Intesa Sanpaolo customers in Italy.",
-      "threat_type": "phishing",
-      "tweet_id": "2105195962511556826",
-      "type": "url",
-      "value": "https://old.cricketpavers.com/isrtaex/it/persone-e-famiglie"
     },
     "ollama-for-macos.github.io": {
       "confidence": 0.7,
@@ -67707,34 +67497,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "opsset-whatsapp.com"
-    },
-    "optservicenote.myallvalue.com": {
-      "confidence": 0.85,
-      "date": "2026-09-30 12:36:54",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New phishing site on a myallvalue.com subdomain hosted on Tencent infrastructure (AS132203) in Singapore.",
-      "threat_type": "phishing",
-      "tweet_id": "2105275694179913752",
-      "type": "domain",
-      "value": "optservicenote.myallvalue.com"
-    },
-    "optservicenote.myallvalue.com/link/optsercive": {
-      "confidence": 0.85,
-      "date": "2026-09-30 12:36:54",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New phishing site on a myallvalue.com subdomain hosted on Tencent infrastructure (AS132203) in Singapore.",
-      "threat_type": "phishing",
-      "tweet_id": "2105275694179913752",
-      "type": "url",
-      "value": "https://optservicenote.myallvalue.com/link/optsercive"
     },
     "orchestrator-whatsapp.com": {
       "confidence": 0.65,
@@ -68600,34 +68362,6 @@
       "type": "domain",
       "value": "pohon4donly.art"
     },
-    "poiwaksuwa.com": {
-      "confidence": 0.8,
-      "date": "2026-09-30 12:52:28",
-      "enriched_at": "2026-10-20T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing sites impersonating Rakuten (Japan) with point/download paths across multiple domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2105279613614330291",
-      "type": "domain",
-      "value": "poiwaksuwa.com"
-    },
-    "poiwaksuwa.com/point/download": {
-      "confidence": 0.9,
-      "date": "2026-09-30 12:52:28",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing sites impersonating Rakuten (Japan) with multiple domains sharing the /point/download/ path.",
-      "threat_type": "phishing",
-      "tweet_id": "2105279613614330291",
-      "type": "url",
-      "value": "https://poiwaksuwa.com/point/download/"
-    },
     "policyadvisordesk.info": {
       "confidence": 0.8,
       "date": "2026-10-23 22:03:03",
@@ -68775,20 +68509,6 @@
       "tweet_id": "2115435268694319148",
       "type": "domain",
       "value": "pregnantkha-jp.com"
-    },
-    "preparationguru.com": {
-      "confidence": 0.9,
-      "date": "2026-09-30 12:56:48",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Multi-brand phishing campaign reusing one kit and shared IP 209.94.57.48, using click-tracking links to harvest Microsoft 365 credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2105280704661647398",
-      "type": "domain",
-      "value": "preparationguru.com"
     },
     "presanis.com": {
       "confidence": 0.8,
@@ -70767,20 +70487,6 @@
       "type": "domain",
       "value": "river-whatsapp.com"
     },
-    "riverglasstop.top": {
-      "confidence": 0.5,
-      "date": "2026-09-30 08:13:54",
-      "enriched_at": "2026-09-30T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious MSI installer 'm2.msi' seen in Switzerland, contacting two .top domains.",
-      "threat_type": "malware",
-      "tweet_id": "2105209508901347460",
-      "type": "domain",
-      "value": "riverglasstop.top"
-    },
     "riverpartner.org": {
       "confidence": 0.9,
       "date": "2026-10-22 07:46:37",
@@ -72232,20 +71938,6 @@
       "type": "domain",
       "value": "sellfishshn-jp.com"
     },
-    "send.smnambijabajo.com": {
-      "confidence": 0.9,
-      "date": "2026-09-30 12:56:48",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Multi-brand phishing campaign reusing one kit and shared IP 209.94.57.48, using click-tracking links to harvest Microsoft 365 credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2105280704661647398",
-      "type": "domain",
-      "value": "send.smnambijabajo.com"
-    },
     "seosolu.com": {
       "confidence": 0.9,
       "date": "2026-10-23 10:44:17",
@@ -72896,6 +72588,34 @@
       "type": "domain",
       "value": "shoppingbasketweekly.info"
     },
+    "short.do": {
+      "confidence": 0.85,
+      "date": "2026-10-30 06:16:07",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing email (UEC report) with a short.do redirect link, sent from 194.164.24.107; the page now returns 404.",
+      "threat_type": "phishing",
+      "tweet_id": "2116051503471620426",
+      "type": "domain",
+      "value": "short.do"
+    },
+    "short.do/awygvx#aaaa@example.jp": {
+      "confidence": 0.85,
+      "date": "2026-10-30 06:16:07",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing email (UEC report) with a short.do redirect link, sent from 194.164.24.107; the page now returns 404.",
+      "threat_type": "phishing",
+      "tweet_id": "2116051503471620426",
+      "type": "url",
+      "value": "https://short.do/AwygVX#aaaa@example.jp"
+    },
     "shunyishengh-jp.com": {
       "confidence": 0.7,
       "date": "2026-10-10 22:58:16",
@@ -73534,21 +73254,6 @@
       "tweet_id": "2115526217537298573",
       "type": "domain",
       "value": "sso-sync.at"
-    },
-    "ssossossosss.duckdns.org": {
-      "confidence": 0.7,
-      "date": "2026-09-30 18:37:11",
-      "enriched_at": "2026-10-01T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Malicious JavaScript sample seen from Brazil on MalwareBazaar, communicating with a DuckDNS-hosted C2 domain.",
-      "threat_type": "c2",
-      "tweet_id": "2105366365024731532",
-      "type": "domain",
-      "value": "ssossossosss.duckdns.org"
     },
     "sssrrllodhff.duckdns.org": {
       "confidence": 0.6,
@@ -75009,22 +74714,6 @@
       "tweet_id": "2110877144339685402",
       "type": "domain",
       "value": "sunvallen-jp.com"
-    },
-    "sunyotech.com": {
-      "confidence": 0.75,
-      "date": "2026-09-30 13:15:06",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "c2",
-        "malware"
-      ],
-      "summary": "ClickFix intrusion with C2 at 67.207.81.22:443 (sunyotech.com); KeyUpdateAgent.exe dropped on lateral hosts.",
-      "threat_type": "c2",
-      "tweet_id": "2105285307780243502",
-      "type": "domain",
-      "value": "sunyotech.com"
     },
     "support-apple-in.live": {
       "confidence": 0.8,
@@ -77464,6 +77153,21 @@
       "tweet_id": "2111958975076090219",
       "type": "domain",
       "value": "ualvujp.cn"
+    },
+    "uau.pp.ua": {
+      "confidence": 0.8,
+      "date": "2026-10-30 07:39:10",
+      "enriched_at": "2026-10-30T12:40:03Z",
+      "family": "Nezha",
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Chinese threat actor mass-scans exposed Redis/Portainer, drops the Nezha agent as a backdoor, persists via cron, escapes containers and steals cloud credentials.",
+      "threat_type": "malware",
+      "tweet_id": "2116072405508472926",
+      "type": "domain",
+      "value": "uau.pp.ua"
     },
     "uazweb-whatsapp.com": {
       "confidence": 0.65,
@@ -81848,6 +81552,20 @@
       "type": "domain",
       "value": "xiaoxiangliu-jp.com"
     },
+    "xiksjha.cc": {
+      "confidence": 0.6,
+      "date": "2026-10-30 12:02:13",
+      "enriched_at": "2026-10-30T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious RAR archive with a government-personnel-themed lure sample on MalwareBazaar, associated with domain xiksjha.cc.",
+      "threat_type": "malware",
+      "tweet_id": "2116138601591267643",
+      "type": "domain",
+      "value": "xiksjha.cc"
+    },
     "xionamiconm.com": {
       "confidence": 0.7,
       "date": "2026-10-14 21:59:13",
@@ -82087,34 +81805,6 @@
       "tweet_id": "2105625326839906782",
       "type": "domain",
       "value": "xursod.com"
-    },
-    "xv57j3d.scienceontheweb.net": {
-      "confidence": 0.6,
-      "date": "2026-09-30 13:11:29",
-      "enriched_at": "2026-10-24T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Korean-language malicious LNK sample beaconing to xv57j3d.scienceontheweb.net with victim hostname parameters.",
-      "threat_type": "malware",
-      "tweet_id": "2105284398446731348",
-      "type": "domain",
-      "value": "xv57j3d.scienceontheweb.net"
-    },
-    "xv57j3d.scienceontheweb.net/setting.php?aaaaaa=desktop-et51ajo&bbbbbb=bruno&cccccc=alpha": {
-      "confidence": 0.6,
-      "date": "2026-09-30 13:11:29",
-      "enriched_at": "2026-09-30T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious Korean-named LNK file (insurance claim lure) that contacts a scienceontheweb.net PHP URL, sending host details.",
-      "threat_type": "malware",
-      "tweet_id": "2105284398446731348",
-      "type": "url",
-      "value": "http://xv57j3d.scienceontheweb.net/setting.php?aaaaaa=DESKTOP-ET51AJO&bbbbbb=Bruno&cccccc=alpha"
     },
     "xzttyt.xyz": {
       "confidence": 0.85,
@@ -83475,6 +83165,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-30T06:40:05Z",
+  "generated_at": "2026-10-30T18:40:03Z",
   "window_days": 30
 }
