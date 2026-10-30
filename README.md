@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-30 09:15:20 (UTC)</th>
+        <th colspan=4>2026-10-30 09:30:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 24 | 552 | 2940 | 45524 |
-| **:globe_with_meridians: Domains** | 17 | 430 | 2469 | 39287 |
+| **:link: URLs** | 25 | 553 | 2941 | 45525 |
+| **:globe_with_meridians: Domains** | 18 | 431 | 2470 | 39288 |
 | **:triangular_flag_on_post: IPs** | 17 | 151 | 2117 | 7849 |
 | **:1234: SHA256** | 2 | 108 | 445 | 3027 |
 | **:1234: MD5** | 0 | 39 | 93 | 2095 |
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 46 | 337 | 3429 | 34184 |
+| **#phishing** | 48 | 339 | 3431 | 34186 |
 | **#Kimsuky** | 0 | 10 | 42 | 13327 |
 | **#DPRK** | 0 | 18 | 23 | 11687 |
 | **#malware** | 14 | 442 | 1126 | 4066 |
