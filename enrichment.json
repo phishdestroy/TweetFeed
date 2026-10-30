@@ -1,5 +1,5 @@
 {
-  "count": 5974,
+  "count": 5971,
   "dead_tweets": {
     "2103019418859053423": {
       "attempts": 2,
@@ -7786,6 +7786,20 @@
       "type": "url",
       "value": "http://153.56.168.27"
     },
+    "153.56.168.27/xatli/login.php": {
+      "confidence": 0.7,
+      "date": "2026-10-29 12:05:20",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": "noctis",
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Turkish-language C2 operator login panel named 'noctis' found at a bare IP address under /xatli/login.php.",
+      "threat_type": "c2",
+      "tweet_id": "2115776999704662329",
+      "type": "url",
+      "value": "http://153.56.168.27/xatli/login.php"
+    },
     "153.75.247.94": {
       "confidence": 0.7,
       "date": "2026-10-14 21:59:13",
@@ -10851,6 +10865,38 @@
       "type": "url",
       "value": "http://18.190.253.114"
     },
+    "18.228.18.93": {
+      "confidence": 0.6,
+      "date": "2026-10-29 21:29:06",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "booking"
+      ],
+      "summary": "Malicious JavaScript with a booking-themed lure seen from Spain, communicating with a C2 server over TCP port 4782.",
+      "threat_type": "c2",
+      "tweet_id": "2115918875292549322",
+      "type": "ip",
+      "value": "18.228.18.93"
+    },
+    "18.228.18.93:4782": {
+      "confidence": 0.6,
+      "date": "2026-10-29 21:29:06",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "booking"
+      ],
+      "summary": "Malicious JavaScript with a booking-themed lure seen from Spain, communicating with a C2 server over TCP port 4782.",
+      "threat_type": "c2",
+      "tweet_id": "2115918875292549322",
+      "type": "url",
+      "value": "http://18.228.18.93:4782"
+    },
     "18.231.77.234": {
       "confidence": 0.6,
       "date": "2026-10-02 21:31:20",
@@ -11194,20 +11240,6 @@
       "type": "ip",
       "value": "185.239.48.112"
     },
-    "185.27.134.57": {
-      "confidence": 0.8,
-      "date": "2026-09-29 20:03:57",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page hosted on a hstn.me subdomain, Spanish-language 'proceso personal' lure, tied to IP 185.27.134.57.",
-      "threat_type": "phishing",
-      "tweet_id": "2105025810092724389",
-      "type": "ip",
-      "value": "185.27.134.57"
-    },
     "185.46.70.230": {
       "confidence": 0.85,
       "date": "2026-10-15 07:40:52",
@@ -11263,6 +11295,21 @@
       "tweet_id": "2109650108887204073",
       "type": "ip",
       "value": "186.241.104.59"
+    },
+    "186.241.116.38": {
+      "confidence": 0.55,
+      "date": "2026-10-29 19:58:40",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Malicious RAR archive with a tax-themed lure seen from Malaysia, communicating with a C2 server at the listed IP.",
+      "threat_type": "c2",
+      "tweet_id": "2115896117913411641",
+      "type": "url",
+      "value": "http://186.241.116.38"
     },
     "186.244.231.115": {
       "confidence": 0.8,
@@ -12396,6 +12443,20 @@
       "type": "ip",
       "value": "198.200.59.86"
     },
+    "198.251.84.129": {
+      "confidence": 0.85,
+      "date": "2026-10-29 21:26:11",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "New phishing site unitstrust.click hosted on a FranTech/PONYNET IP in Luxembourg (AS53667).",
+      "threat_type": "phishing",
+      "tweet_id": "2115918140710547885",
+      "type": "ip",
+      "value": "198.251.84.129"
+    },
     "198.37.105.52": {
       "confidence": 0.2,
       "date": "2026-10-20 13:48:32",
@@ -12562,22 +12623,6 @@
       "tweet_id": "2106183232610091488",
       "type": "ip",
       "value": "199.191.50.190"
-    },
-    "1992f08fcd07061db15e402f22728b9d958c7b3168e1ce396b8c6f6e3acc8368": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:19:08",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Rakuten distributed through multiple .cn phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105059829924728939",
-      "type": "sha256",
-      "value": "1992f08fcd07061db15e402f22728b9d958c7b3168e1ce396b8c6f6e3acc8368"
     },
     "1a2eb4add748ffbe552d2bbc9d289bab": {
       "confidence": 0.8,
@@ -13417,22 +13462,6 @@
       "type": "url",
       "value": "http://202.61.85.173:3668"
     },
-    "202.71.14.31": {
-      "confidence": 0.8,
-      "date": "2026-09-29 19:00:02",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "fakecaptcha",
-        "malware"
-      ],
-      "summary": "Fake FACEIT pages instruct CS2 players to paste a command; the script fetches an executable targeting Steam accounts (ClickFix).",
-      "threat_type": "malware",
-      "tweet_id": "2105009725926424684",
-      "type": "url",
-      "value": "http://202.71.14.31"
-    },
     "202.79.173.57": {
       "confidence": 0.6,
       "date": "2026-10-26 08:52:46",
@@ -13823,34 +13852,6 @@
       "tweet_id": "2105703199189475676",
       "type": "ip",
       "value": "209.222.251.117"
-    },
-    "209.250.241.80": {
-      "confidence": 0.5,
-      "date": "2026-09-29 20:09:40",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": "DeskPilot Agent",
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Open directory on an IP at port 8080 holding a single file, ComUpdater.ocx, a sample of 'DeskPilot Agent' remote tooling.",
-      "threat_type": "malware",
-      "tweet_id": "2105027247702688121",
-      "type": "ip",
-      "value": "209.250.241.80"
-    },
-    "209.250.241.80:8080/cloud": {
-      "confidence": 0.5,
-      "date": "2026-09-29 20:09:40",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": "DeskPilot Agent",
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Open directory on an IP at port 8080 holding a single file, ComUpdater.ocx, a sample of 'DeskPilot Agent' remote tooling.",
-      "threat_type": "malware",
-      "tweet_id": "2105027247702688121",
-      "type": "url",
-      "value": "http://209.250.241.80:8080/cloud/"
     },
     "209.74.83.47": {
       "confidence": 0.92,
@@ -16117,6 +16118,36 @@
       "tweet_id": "2115736911700787643",
       "type": "url",
       "value": "http://31.56.209.3"
+    },
+    "31.57.38.4": {
+      "confidence": 0.6,
+      "date": "2026-10-29 19:49:52",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Malicious JavaScript posing as a Colombian tax summons document, seen from Colombia, with a C2 server on TCP port 9015.",
+      "threat_type": "c2",
+      "tweet_id": "2115893904373432405",
+      "type": "ip",
+      "value": "31.57.38.4"
+    },
+    "31.57.38.4:9015": {
+      "confidence": 0.6,
+      "date": "2026-10-29 19:49:52",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Malicious JavaScript posing as a Colombian tax summons document, seen from Colombia, with a C2 server on TCP port 9015.",
+      "threat_type": "c2",
+      "tweet_id": "2115893904373432405",
+      "type": "url",
+      "value": "http://31.57.38.4:9015"
     },
     "31.59.138.144": {
       "confidence": 0.5,
@@ -30686,20 +30717,6 @@
       "type": "url",
       "value": "http://66.85.26.163"
     },
-    "67.205.150.245": {
-      "confidence": 0.85,
-      "date": "2026-09-29 18:55:59",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New phishing site at alexis17capit.cc hosted on DigitalOcean (AS14061) in the United States.",
-      "threat_type": "phishing",
-      "tweet_id": "2105008708434514249",
-      "type": "ip",
-      "value": "67.205.150.245"
-    },
     "67.207.81.22": {
       "confidence": 0.75,
       "date": "2026-09-30 13:15:06",
@@ -30879,6 +30896,37 @@
       "tweet_id": "2113373037047246960",
       "type": "sha256",
       "value": "6930ec46d217c854d7e5731e5efad4757eeb344e28386742586a33f455d8b401"
+    },
+    "69a8bf6463ef018b019c00126d5753cc72bee5d4bd555d9bf630acd1b2229fbb": {
+      "confidence": 0.8,
+      "date": "2026-10-29 23:37:10",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as e-Tax app, distributed via a phishing site at fantasticfactoryzu.com; sample hash shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2115951103087190105",
+      "type": "sha256",
+      "value": "69a8bf6463ef018b019c00126d5753cc72bee5d4bd555d9bf630acd1b2229fbb"
+    },
+    "6a5da90c553bb0da87e821a3bece34e1394825e845601993bd1df5cea70e29f1": {
+      "confidence": 0.6,
+      "date": "2026-10-29 19:49:52",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Malicious JavaScript posing as a Colombian tax summons document, seen from Colombia, with a C2 server on TCP port 9015.",
+      "threat_type": "c2",
+      "tweet_id": "2115893904373432405",
+      "type": "sha256",
+      "value": "6a5da90c553bb0da87e821a3bece34e1394825e845601993bd1df5cea70e29f1"
     },
     "6a93861d9d3604a31a32485a317d5056b54b530588fdebe935b6e23d85272de7": {
       "confidence": 0.6,
@@ -31079,6 +31127,20 @@
       "tweet_id": "2107691403166011556",
       "type": "sha256",
       "value": "6d7530900146a096a6ee41fc9a59afddc66658b49fdc9408edb283984407afdc"
+    },
+    "6f0d6718fff59b26130d7ee64b050d8b558e691d1515e7dc02c442feac660683": {
+      "confidence": 0.5,
+      "date": "2026-10-29 22:00:03",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious VBS script posing as a document, linked to checkyoursecurityfast.com; sample uploaded to MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2115926663825703292",
+      "type": "sha256",
+      "value": "6f0d6718fff59b26130d7ee64b050d8b558e691d1515e7dc02c442feac660683"
     },
     "6fddd89aab92cab1eabd77f23468f07c8590890146e16daa84aea1f2a3f0ff45": {
       "confidence": 0.8,
@@ -33400,22 +33462,6 @@
       "type": "sha256",
       "value": "89e678216458a0775c0da332a0f94a4a6908899c2c33b4c720f206bab47b08e1"
     },
-    "8a4d5f17b0615000f640700eb9e434aa67aefa68656976cf2a58619dc5093015": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:33:36",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Rakuten distributed through several phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105063473227170171",
-      "type": "sha256",
-      "value": "8a4d5f17b0615000f640700eb9e434aa67aefa68656976cf2a58619dc5093015"
-    },
     "8ad1e81b511ad76a0dca74d39d82b8d7932d584d2047fb602b1ae4dd2eb6bada": {
       "confidence": 0.4,
       "date": "2026-10-05 12:55:40",
@@ -33556,22 +33602,6 @@
       "tweet_id": "2113048191155470346",
       "type": "domain",
       "value": "8j536vj.cn"
-    },
-    "8l0cpp.cn": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:19:08",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Rakuten distributed through multiple .cn phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105059829924728939",
-      "type": "domain",
-      "value": "8l0cpp.cn"
     },
     "90a4792390309c8097c54a910999864f96df9b00cdc2d5f21f14e4ef2dc0338f": {
       "confidence": 0.6,
@@ -35039,6 +35069,22 @@
       "type": "sha256",
       "value": "a11ef5f0f05586bc4798a035cba17d252c94f2f36c5322cd15235c3fc51b6c4c"
     },
+    "a1469f561141c9f5955444765ab6645af30216608219e34f1b9496c6f44c8b82": {
+      "confidence": 0.6,
+      "date": "2026-10-29 21:29:06",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "booking"
+      ],
+      "summary": "Malicious JavaScript with a booking-themed lure seen from Spain, communicating with a C2 server over TCP port 4782.",
+      "threat_type": "c2",
+      "tweet_id": "2115918875292549322",
+      "type": "sha256",
+      "value": "a1469f561141c9f5955444765ab6645af30216608219e34f1b9496c6f44c8b82"
+    },
     "a2.cdnresolver.com": {
       "confidence": 0.85,
       "date": "2026-10-09 08:03:24",
@@ -35190,6 +35236,20 @@
       "tweet_id": "2114980346466893885",
       "type": "md5",
       "value": "a6daef4e405c885be6cc171bd5273786"
+    },
+    "a6ecbf30583cf4e81c67d13d1f8917e18ab75a149191a3e8628f522d45312be0": {
+      "confidence": 0.4,
+      "date": "2026-10-29 18:39:05",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Sample hosted on an Azure cloudapp domain evades AV detection; uploaded to MalwareBazaar, behavior unspecified.",
+      "threat_type": "malware",
+      "tweet_id": "2115876090610692140",
+      "type": "sha256",
+      "value": "a6ecbf30583cf4e81c67d13d1f8917e18ab75a149191a3e8628f522d45312be0"
     },
     "a6fff495c6b4a3b9414d31bbe1058aa204b949c36bd60f54f1f0df2f0a189635": {
       "confidence": 0.6,
@@ -41328,34 +41388,6 @@
       "type": "domain",
       "value": "alertbot-lake.vercel.app"
     },
-    "alexis17capit.cc": {
-      "confidence": 0.85,
-      "date": "2026-09-29 18:55:59",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New phishing site at alexis17capit.cc hosted on DigitalOcean (AS14061) in the United States.",
-      "threat_type": "phishing",
-      "tweet_id": "2105008708434514249",
-      "type": "domain",
-      "value": "alexis17capit.cc"
-    },
-    "alexis17capit.cc/cusers": {
-      "confidence": 0.85,
-      "date": "2026-09-29 18:55:59",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New phishing site at alexis17capit.cc hosted on DigitalOcean (AS14061) in the United States.",
-      "threat_type": "phishing",
-      "tweet_id": "2105008708434514249",
-      "type": "url",
-      "value": "https://alexis17capit.cc/CUSERS/"
-    },
     "alf-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -42105,6 +42137,22 @@
       "tweet_id": "2113705487405343051",
       "type": "domain",
       "value": "api.brandogdigital.org"
+    },
+    "api.kkxsnjd.click": {
+      "confidence": 0.8,
+      "date": "2026-10-29 19:26:11",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": "Joker",
+      "suggested_tags": [
+        "android",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware identified as Joker, with its startup gate at api.kkxsnjd.click.",
+      "threat_type": "malware",
+      "tweet_id": "2115887941591732724",
+      "type": "domain",
+      "value": "api.kkxsnjd.click"
     },
     "api.mitsui.smt7mlj.pro": {
       "confidence": 0.9,
@@ -43820,20 +43868,6 @@
       "tweet_id": "2110739774449602637",
       "type": "sha256",
       "value": "b72621a39f52e37076f3444683caf62e6c9e9b78bbd0d51be469f100d37f475d"
-    },
-    "b74cab9d6eac63c8aa8bc5b022405ca71c24ad0386014c2e7d4a7d9fa82d0d71": {
-      "confidence": 0.55,
-      "date": "2026-09-29 20:05:43",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious ISO named 'KLAS-CGE 2025 Application Forms zip.iso' seen from India, with a payload URL hosted on raw.githubusercontent.com.",
-      "threat_type": "malware",
-      "tweet_id": "2105026256282566948",
-      "type": "sha256",
-      "value": "b74cab9d6eac63c8aa8bc5b022405ca71c24ad0386014c2e7d4a7d9fa82d0d71"
     },
     "b7d8572c7e4fe577a29299e1089f85def9d6cfda192135681f8c111e5b3acd15": {
       "confidence": 0.8,
@@ -47209,6 +47243,21 @@
       "type": "sha256",
       "value": "c2293ae79e10df56b1630113ee9329dc31d18ba79285a8c51095a40176571142"
     },
+    "c22c8103fc6faa15ac19c329ea67afed993b7cdb6772332328f410d05b72398a": {
+      "confidence": 0.55,
+      "date": "2026-10-29 19:58:40",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Malicious RAR archive with a tax-themed lure seen from Malaysia, communicating with a C2 server at the listed IP.",
+      "threat_type": "c2",
+      "tweet_id": "2115896117913411641",
+      "type": "sha256",
+      "value": "c22c8103fc6faa15ac19c329ea67afed993b7cdb6772332328f410d05b72398a"
+    },
     "c23400bb65d1781e9b8f7ebb5f0daaa7d1ad5be1ca1bb2688d63f2d05c79c14a": {
       "confidence": 0.4,
       "date": "2026-10-17 20:30:20",
@@ -48688,6 +48737,20 @@
       "tweet_id": "2113733954490470752",
       "type": "domain",
       "value": "check.petyamamkinjuk.workers.dev"
+    },
+    "checkyoursecurityfast.com": {
+      "confidence": 0.4,
+      "date": "2026-10-29 22:00:03",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Domain checkyoursecurityfast.com shared as an IOC linked to a malicious VBS sample; exact role is unstated.",
+      "threat_type": "malware",
+      "tweet_id": "2115922542967845032",
+      "type": "domain",
+      "value": "checkyoursecurityfast.com"
     },
     "chefstablehub.com": {
       "confidence": 0.85,
@@ -50956,22 +51019,6 @@
       "type": "domain",
       "value": "dawnharbor.cc"
     },
-    "daxcwczu.cn": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:19:08",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Rakuten distributed through multiple .cn phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105059829924728939",
-      "type": "domain",
-      "value": "daxcwczu.cn"
-    },
     "dbaoi.com": {
       "confidence": 0.85,
       "date": "2026-10-23 04:02:43",
@@ -52701,20 +52748,6 @@
       "type": "domain",
       "value": "downmirapp.org"
     },
-    "dr5beljvyqljgq5ppro57pgetg4yeslcsexmuhvv3p46wod3odsh3fid.onion": {
-      "confidence": 0.85,
-      "date": "2026-09-30 00:01:07",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": "vladivostok",
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "Barricade Cyber Solutions reports a new ransomware group named 'vladivostok' and shares its Tor leak site address.",
-      "threat_type": "ransomware",
-      "tweet_id": "2105085494073966969",
-      "type": "domain",
-      "value": "dr5beljvyqljgq5ppro57pgetg4yeslcsexmuhvv3p46wod3odsh3fid.onion"
-    },
     "dramajp.com": {
       "confidence": 0.8,
       "date": "2026-10-18 01:40:32",
@@ -53286,6 +53319,20 @@
       "type": "md5",
       "value": "e90fa92306d16b329c5d68fdd24bd4f2"
     },
+    "e952886ff2c74ead54a7ab09263fcd24bb75d7bc73ad1eceef82f530a2872f87": {
+      "confidence": 0.5,
+      "date": "2026-10-29 19:42:13",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Executable disguised as a home renovation design proposal, seen from Thailand and uploaded to MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2115891975912095764",
+      "type": "sha256",
+      "value": "e952886ff2c74ead54a7ab09263fcd24bb75d7bc73ad1eceef82f530a2872f87"
+    },
     "e96c3abaa3185534f1f6c5765b391ba017b75f9d2955a68fdd9b44d2c1f93fd7": {
       "confidence": 0.5,
       "date": "2026-10-16 09:19:39",
@@ -53485,6 +53532,21 @@
       "tweet_id": "2105285307780243502",
       "type": "sha256",
       "value": "ec9ada555d6dffa2fed08e86e26e29e7c6d15d90e0323cdf44e06e75461a04bf"
+    },
+    "ecefe715624f0588bce5f546f175675e320da90583a378993c6ac54c074b01d1": {
+      "confidence": 0.55,
+      "date": "2026-10-29 22:14:26",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "booking"
+      ],
+      "summary": "Malicious batch file with a booking-themed lure uploaded to MalwareBazaar; uses the Telegram API, likely for exfiltration or C2.",
+      "threat_type": "malware",
+      "tweet_id": "2115930286131466442",
+      "type": "sha256",
+      "value": "ecefe715624f0588bce5f546f175675e320da90583a378993c6ac54c074b01d1"
     },
     "ecf9ee8895057f0934b2f6c5fab74148932ecae0e46bcfc8618a112ca4fef82d": {
       "confidence": 0.6,
@@ -54104,6 +54166,21 @@
       "type": "domain",
       "value": "eowebmail.eonet.jp"
     },
+    "equitygrandview.com": {
+      "confidence": 0.85,
+      "date": "2026-10-02 17:55:25",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing Saatva discount lure from fusionshoppingworks.info that leads to equitygrandview.com, flagged by threat intel providers.",
+      "threat_type": "phishing",
+      "tweet_id": "2106080627091251408",
+      "type": "domain",
+      "value": "equitygrandview.com"
+    },
     "eqvpn.space": {
       "confidence": 0.75,
       "date": "2026-10-23 20:47:00",
@@ -54285,22 +54362,6 @@
       "tweet_id": "2110630094586945639",
       "type": "url",
       "value": "https://essentialkneadsforhealth.com/chxqbgge/"
-    },
-    "eurhynqq.cn": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:19:08",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Rakuten distributed through multiple .cn phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105059829924728939",
-      "type": "domain",
-      "value": "eurhynqq.cn"
     },
     "everstakewfma6sxdpshoq4ebtnqamsxnajrtzu2cflai77kfup5kzyd.onion": {
       "confidence": 0.8,
@@ -54562,22 +54623,6 @@
       "tweet_id": "2115514259966701740",
       "type": "md5",
       "value": "f12f8237feb7bdfb066162d72ff3eec3"
-    },
-    "f1d3d99a9a56e4daaf53ea8cc20a4c0ffbf1697076e08a9b0649663e9502118f": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:49:03",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Amazon distributed via a phishing site (Shopping-App path) targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105067361443430627",
-      "type": "sha256",
-      "value": "f1d3d99a9a56e4daaf53ea8cc20a4c0ffbf1697076e08a9b0649663e9502118f"
     },
     "f2ae44b6f070273d53f79ef73646f880": {
       "confidence": 0.85,
@@ -54900,34 +54945,6 @@
       "type": "sha256",
       "value": "f9f8bb03427562dc0948d90c0324465ef9ba2d5bc63317ae650b10422bc9e0b4"
     },
-    "fa.windows32.men": {
-      "confidence": 0.6,
-      "date": "2026-09-29 20:25:10",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Open directory exposed on a WebDAV path at fa.windows32[.]men, shared without further detail.",
-      "threat_type": "other",
-      "tweet_id": "2105031150032896105",
-      "type": "domain",
-      "value": "fa.windows32.men"
-    },
-    "fa.windows32.men/webdav": {
-      "confidence": 0.6,
-      "date": "2026-09-29 20:25:10",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Open directory exposed on a WebDAV path at fa.windows32[.]men, shared without further detail.",
-      "threat_type": "other",
-      "tweet_id": "2105031150032896105",
-      "type": "url",
-      "value": "https://fa.windows32.men/webdav/"
-    },
     "facai.mwkwnnn.click": {
       "confidence": 0.5,
       "date": "2026-09-30 09:49:28",
@@ -55058,6 +55075,22 @@
       "tweet_id": "2113861146960961823",
       "type": "url",
       "value": "https://famous-stroopwafel-edea6e.netlify.app/ZoomInstaller.bat"
+    },
+    "fantasticfactoryzu.com": {
+      "confidence": 0.8,
+      "date": "2026-10-29 23:37:10",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as e-Tax app, distributed via a phishing site at fantasticfactoryzu.com; sample hash shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2115951103087190105",
+      "type": "domain",
+      "value": "fantasticfactoryzu.com"
     },
     "faq.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -55298,22 +55331,6 @@
       "tweet_id": "2107980570836029860",
       "type": "sha256",
       "value": "fe48212f4eefe77ea2883d6b6a7701d96e3a9e8956c9d2b687f90bf28c14d48c"
-    },
-    "feibidawuli-jp.com": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:33:36",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Rakuten distributed through several phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105063473227170171",
-      "type": "domain",
-      "value": "feibidawuli-jp.com"
     },
     "fenxiang-whatsapp.com": {
       "confidence": 0.75,
@@ -55737,6 +55754,70 @@
       "tweet_id": "2115473838180090231",
       "type": "domain",
       "value": "flipkarrt-helu-sale.shop"
+    },
+    "flipkarrt-mack-sale.shop": {
+      "confidence": 0.9,
+      "date": "2026-10-29 20:23:34",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam",
+        "opendir"
+      ],
+      "summary": "Open directory on flipkarrt-mack-sale.shop exposes fake Flipkart shopping pages with sale promotions, a likely UPI payment scam.",
+      "threat_type": "phishing",
+      "tweet_id": "2115902382127419527",
+      "type": "domain",
+      "value": "flipkarrt-mack-sale.shop"
+    },
+    "flipkarrt-mack-sale.shop/wcfguweicfwl": {
+      "confidence": 0.9,
+      "date": "2026-10-29 20:23:34",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam",
+        "opendir"
+      ],
+      "summary": "Open directory on flipkarrt-mack-sale.shop exposes fake Flipkart shopping pages with sale promotions, a likely UPI payment scam.",
+      "threat_type": "phishing",
+      "tweet_id": "2115902382127419527",
+      "type": "url",
+      "value": "http://flipkarrt-mack-sale.shop/wcfguweicfwl/"
+    },
+    "flipkarrt-mack-sale.shop/wcfguweicfwl/diwali": {
+      "confidence": 0.9,
+      "date": "2026-10-29 20:23:34",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam",
+        "opendir"
+      ],
+      "summary": "Open directory on flipkarrt-mack-sale.shop exposes fake Flipkart shopping pages with sale promotions, a likely UPI payment scam.",
+      "threat_type": "phishing",
+      "tweet_id": "2115902382127419527",
+      "type": "url",
+      "value": "http://flipkarrt-mack-sale.shop/wcfguweicfwl/diwali/"
+    },
+    "flipkarrt-mack-sale.shop/wcfguweicfwl/offers": {
+      "confidence": 0.9,
+      "date": "2026-10-29 20:23:34",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam",
+        "opendir"
+      ],
+      "summary": "Open directory on flipkarrt-mack-sale.shop exposes fake Flipkart shopping pages with sale promotions, a likely UPI payment scam.",
+      "threat_type": "phishing",
+      "tweet_id": "2115902382127419527",
+      "type": "url",
+      "value": "http://flipkarrt-mack-sale.shop/wcfguweicfwl/offers/"
     },
     "flispax.digital": {
       "confidence": 0.75,
@@ -59059,22 +59140,6 @@
       "type": "url",
       "value": "https://hanvior.cfd/resonabank"
     },
-    "haoniuzibe-jp.com": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:33:36",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Rakuten distributed through several phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105063473227170171",
-      "type": "domain",
-      "value": "haoniuzibe-jp.com"
-    },
     "happy-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -59088,6 +59153,21 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "happy-whatsapp.com"
+    },
+    "harborstonegroup.shop": {
+      "confidence": 0.85,
+      "date": "2026-10-03 01:53:17",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing loan lure from collateralvalueassessment.info that leads to harborstonegroup.shop, corroborated by public reports.",
+      "threat_type": "phishing",
+      "tweet_id": "2106200887240859805",
+      "type": "domain",
+      "value": "harborstonegroup.shop"
     },
     "hardly-signatures-loc-surf.trycloudflare.com": {
       "confidence": 0.6,
@@ -60477,6 +60557,21 @@
       "type": "domain",
       "value": "img.webapi-whatsapp.com"
     },
+    "immersionhousing.com": {
+      "confidence": 0.85,
+      "date": "2026-10-05 23:10:35",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing lure offering a $29/month Insurify car-insurance deal from immersionhousing.com, leading to a newly registered domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2107247104674718001",
+      "type": "domain",
+      "value": "immersionhousing.com"
+    },
     "immmerhency.com": {
       "confidence": 0.75,
       "date": "2026-10-01 11:46:13",
@@ -61602,22 +61697,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "joker-whatsapp.com"
-    },
-    "jokqumkm.cn": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:19:08",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Rakuten distributed through multiple .cn phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105059829924728939",
-      "type": "domain",
-      "value": "jokqumkm.cn"
     },
     "jomaconstrucao.com": {
       "confidence": 0.85,
@@ -62850,6 +62929,22 @@
       "type": "domain",
       "value": "levelonelearns.com"
     },
+    "lewokodwqko.icu": {
+      "confidence": 0.85,
+      "date": "2026-10-07 09:51:12",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": "MioLab",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2"
+      ],
+      "summary": "MioLab macOS stealer delivered as a fake WidgetFlow DMG installer, with C2 at lewokodwqko.icu.",
+      "threat_type": "malware",
+      "tweet_id": "2107770708491198831",
+      "type": "domain",
+      "value": "lewokodwqko.icu"
+    },
     "lexer-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -63502,38 +63597,6 @@
       "tweet_id": "2115321813236584673",
       "type": "domain",
       "value": "logs.uvexio.com"
-    },
-    "loin-annzn.mydw88.com": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:49:03",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Amazon distributed via a phishing site (Shopping-App path) targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105067361443430627",
-      "type": "domain",
-      "value": "loin-annzn.mydw88.com"
-    },
-    "loin-annzn.mydw88.com/shopping-app": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:49:03",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Amazon distributed via a phishing site (Shopping-App path) targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105067361443430627",
-      "type": "url",
-      "value": "https://loin-annzn.mydw88.com/Shopping-App"
     },
     "loja-ma-ga-zine-luiza.com": {
       "confidence": 0.9,
@@ -64621,6 +64684,21 @@
       "type": "domain",
       "value": "mediumdifficult-jp.com"
     },
+    "meeshosale.site": {
+      "confidence": 0.9,
+      "date": "2026-10-29 20:01:44",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Fake Meesho shopping site meeshosale.site offers heavy discounts and asks victims to pay a small amount via UPI.",
+      "threat_type": "scam",
+      "tweet_id": "2115896890457993557",
+      "type": "domain",
+      "value": "meeshosale.site"
+    },
     "meet-google.cam": {
       "confidence": 0.8,
       "date": "2026-10-19 20:50:17",
@@ -64840,22 +64918,6 @@
       "tweet_id": "2112583368479318236",
       "type": "domain",
       "value": "metrics-whatsapp.com"
-    },
-    "mfqyqprt.cn": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:19:08",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Rakuten distributed through multiple .cn phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105059829924728939",
-      "type": "domain",
-      "value": "mfqyqprt.cn"
     },
     "mgfdeutschland.com": {
       "confidence": 0.85,
@@ -65859,22 +65921,6 @@
       "type": "domain",
       "value": "n1-us-google.com"
     },
-    "n1if3c.cn": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:19:08",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Rakuten distributed through multiple .cn phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105059829924728939",
-      "type": "domain",
-      "value": "n1if3c.cn"
-    },
     "nairawaterfall.com": {
       "confidence": 0.85,
       "date": "2026-10-23 22:04:34",
@@ -66005,22 +66051,6 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "nav-whatsapp.com"
-    },
-    "nbablazersz-jp.com": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:33:36",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Rakuten distributed through several phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105063473227170171",
-      "type": "domain",
-      "value": "nbablazersz-jp.com"
     },
     "ncivhyvu.cn": {
       "confidence": 0.75,
@@ -66546,21 +66576,6 @@
       "type": "domain",
       "value": "nightflamevortex.top"
     },
-    "nildex.com": {
-      "confidence": 0.8,
-      "date": "2026-09-30 00:10:01",
-      "enriched_at": "2026-10-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "cryptoscam"
-      ],
-      "summary": "Nildex.com flagged as high-risk crypto platform with reported withdrawal problems and extra fund-release requirements.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2105087734251712774",
-      "type": "domain",
-      "value": "nildex.com"
-    },
     "nilehost.cloud": {
       "confidence": 0.88,
       "date": "2026-10-01 03:25:11",
@@ -67004,6 +67019,34 @@
       "tweet_id": "2109649861385609321",
       "type": "domain",
       "value": "oceanvw.click"
+    },
+    "octoberfp.eastus.cloudapp.azure.com": {
+      "confidence": 0.4,
+      "date": "2026-10-29 18:39:05",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "File hosted on an Azure cloudapp domain (octoberfp.eastus.cloudapp.azure.com) with no AV detections, flagged by the researcher as suspicious.",
+      "threat_type": "malware",
+      "tweet_id": "2115875870560694464",
+      "type": "domain",
+      "value": "octoberfp.eastus.cloudapp.azure.com"
+    },
+    "octoberfp.eastus.cloudapp.azure.com/files/kb59985": {
+      "confidence": 0.4,
+      "date": "2026-10-29 18:39:05",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "File hosted on an Azure cloudapp domain (octoberfp.eastus.cloudapp.azure.com) with no AV detections, flagged by the researcher as suspicious.",
+      "threat_type": "malware",
+      "tweet_id": "2115875870560694464",
+      "type": "url",
+      "value": "https://octoberfp.eastus.cloudapp.azure.com/files/KB59985"
     },
     "odeesa.com.mx": {
       "confidence": 0.85,
@@ -68996,34 +69039,6 @@
       "type": "domain",
       "value": "privacy.webstatici-whatsapp.com"
     },
-    "proceso-personal-inf2026ac.hstn.me": {
-      "confidence": 0.8,
-      "date": "2026-09-29 20:03:57",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page hosted on a hstn.me subdomain, Spanish-language 'proceso personal' lure, tied to IP 185.27.134.57.",
-      "threat_type": "phishing",
-      "tweet_id": "2105025810092724389",
-      "type": "domain",
-      "value": "proceso-personal-inf2026ac.hstn.me"
-    },
-    "proceso-personal-inf2026ac.hstn.me/?i=2": {
-      "confidence": 0.8,
-      "date": "2026-09-29 20:03:57",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page hosted on a hstn.me subdomain, Spanish-language 'proceso personal' lure, tied to IP 185.27.134.57.",
-      "threat_type": "phishing",
-      "tweet_id": "2105025810092724389",
-      "type": "url",
-      "value": "https://proceso-personal-inf2026ac.hstn.me/?i=2"
-    },
     "processassocia-jp.com": {
       "confidence": 0.85,
       "date": "2026-10-02 23:06:02",
@@ -69492,20 +69507,6 @@
       "type": "domain",
       "value": "pub-225d7290d0da4d5e8555183cd264a146.r2.dev"
     },
-    "pub-2deedb30aff5494b826a955e4e27f0d5.r2.dev": {
-      "confidence": 0.55,
-      "date": "2026-09-29 22:00:56",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Cloudflare R2 public bucket domain flagged as a confirmed scam by an automated web malware scanner.",
-      "threat_type": "scam",
-      "tweet_id": "2105055249861873709",
-      "type": "domain",
-      "value": "pub-2deedb30aff5494b826a955e4e27f0d5.r2.dev"
-    },
     "pub-313b636324fd4678a4a5d96493f238eb.r2.dev": {
       "confidence": 0.5,
       "date": "2026-09-30 02:01:35",
@@ -69770,22 +69771,6 @@
       "tweet_id": "2110320462786122062",
       "type": "domain",
       "value": "qaz4.com"
-    },
-    "qbitetmt.cn": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:19:08",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Rakuten distributed through multiple .cn phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105059829924728939",
-      "type": "domain",
-      "value": "qbitetmt.cn"
     },
     "qh883-pqd-q56b-r2kwh-15-10-2026-aa.pages.dev": {
       "confidence": 0.7,
@@ -70267,20 +70252,6 @@
       "tweet_id": "2112834452321632688",
       "type": "url",
       "value": "https://raw.githubusercontent.com/bluemarine999/MmAB96/refs/heads/main/update.dat"
-    },
-    "raw.githubusercontent.com/butterscotch6969/serving_url/refs/heads/main": {
-      "confidence": 0.55,
-      "date": "2026-09-29 20:05:43",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious ISO named 'KLAS-CGE 2025 Application Forms zip.iso' seen from India, with a payload URL hosted on raw.githubusercontent.com.",
-      "threat_type": "malware",
-      "tweet_id": "2105026256282566948",
-      "type": "url",
-      "value": "https://raw.githubusercontent.com/butterscotch6969/serving_url/refs/heads/main/"
     },
     "raw.githubusercontent.com/danya0003/raw/refs/heads/main/scan.ps1": {
       "confidence": 0.5,
@@ -77609,22 +77580,6 @@
       "type": "domain",
       "value": "u0bfilhn.onlinewebshop.net"
     },
-    "u5v4o3.cn": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:19:08",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Rakuten distributed through multiple .cn phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105059829924728939",
-      "type": "domain",
-      "value": "u5v4o3.cn"
-    },
     "ualf53oo.xyz": {
       "confidence": 0.85,
       "date": "2026-10-20 03:50:08",
@@ -78282,22 +78237,6 @@
       "tweet_id": "2113196949859967338",
       "type": "domain",
       "value": "uzeglvlb7gfekr3.icu"
-    },
-    "uzivebwt.cn": {
-      "confidence": 0.75,
-      "date": "2026-09-29 22:19:08",
-      "enriched_at": "2026-09-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Rakuten distributed through multiple .cn phishing domains targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2105059829924728939",
-      "type": "domain",
-      "value": "uzivebwt.cn"
     },
     "v0-exodus-wallet-app.vercel.app": {
       "confidence": 0.8,
@@ -79164,6 +79103,20 @@
       "tweet_id": "2107713627717320873",
       "type": "url",
       "value": "https://wapsir.com/404.php"
+    },
+    "watermarkatgatewayplace.info": {
+      "confidence": 0.85,
+      "date": "2026-10-13 00:00:11",
+      "enriched_at": "2026-10-30T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing endurance quote offer using the unrelated domains afromantic.com and watermarkatgatewayplace.info.",
+      "threat_type": "phishing",
+      "tweet_id": "2109796302926266536",
+      "type": "domain",
+      "value": "watermarkatgatewayplace.info"
     },
     "watts-macos.github.io": {
       "confidence": 0.7,
@@ -83652,6 +83605,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-29T18:40:04Z",
+  "generated_at": "2026-10-30T00:40:03Z",
   "window_days": 30
 }
