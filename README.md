@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-30 08:15:20 (UTC)</th>
+        <th colspan=4>2026-10-30 08:30:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 20 | 548 | 2936 | 45520 |
-| **:globe_with_meridians: Domains** | 15 | 428 | 2467 | 39285 |
-| **:triangular_flag_on_post: IPs** | 12 | 146 | 2112 | 7844 |
+| **:link: URLs** | 21 | 549 | 2937 | 45521 |
+| **:globe_with_meridians: Domains** | 16 | 429 | 2468 | 39286 |
+| **:triangular_flag_on_post: IPs** | 15 | 149 | 2115 | 7847 |
 | **:1234: SHA256** | 2 | 108 | 445 | 3027 |
 | **:1234: MD5** | 0 | 39 | 93 | 2095 |
 
@@ -205,12 +205,12 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 43 | 334 | 3426 | 34181 |
+| **#phishing** | 46 | 337 | 3429 | 34184 |
 | **#Kimsuky** | 0 | 10 | 42 | 13327 |
 | **#DPRK** | 0 | 18 | 23 | 11687 |
 | **#malware** | 8 | 436 | 1120 | 4060 |
 | **#scam** | 0 | 10 | 46 | 3360 |
-| **#C2** | 2 | 31 | 107 | 2203 |
+| **#C2** | 4 | 33 | 109 | 2205 |
 | **#APT** | 0 | 6 | 39 | 1492 |
 | **#ClickFix** | 0 | 58 | 280 | 1113 |
 | **#opendir** | 0 | 1 | 34 | 701 |
@@ -235,11 +235,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#3** | [romonlyht](https://x.com/romonlyht) | 8 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 6 |
 | **#5** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#7** | [TKemmerling](https://x.com/TKemmerling) | 2 |
-| **#8** | [midnight_comms](https://x.com/midnight_comms) | 2 |
-| **#9** | [Fact_Finder03](https://x.com/Fact_Finder03) | 2 |
-| **#10** | [mugu_reporter](https://x.com/mugu_reporter) | 1 |
+| **#6** | [Fact_Finder03](https://x.com/Fact_Finder03) | 4 |
+| **#7** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#8** | [phishunt_io](https://x.com/phishunt_io) | 3 |
+| **#9** | [TKemmerling](https://x.com/TKemmerling) | 2 |
+| **#10** | [midnight_comms](https://x.com/midnight_comms) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
