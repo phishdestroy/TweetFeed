@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2389
-; Updated: 2026-10-30T13:30:24Z
+; Entries: 2390
+; Updated: 2026-10-30T14:30:24Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793367024 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793370624 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -262,6 +262,8 @@ ame-whatsapp.com CNAME .
 *.ame-whatsapp.com CNAME .
 amecxfund.com CNAME .
 *.amecxfund.com CNAME .
+americanexpcnh.w1u2p60.asia CNAME .
+*.americanexpcnh.w1u2p60.asia CNAME .
 amf-whatsapp.com CNAME .
 *.amf-whatsapp.com CNAME .
 amg-whatsapp.com CNAME .
