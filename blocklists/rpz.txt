@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2275
-; Updated: 2026-11-01T00:00:30Z
+; Entries: 2276
+; Updated: 2026-11-01T01:30:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793491230 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793496619 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -4422,6 +4422,8 @@ yahoologin6700.blogspot.com CNAME .
 *.yahoologin6700.blogspot.com CNAME .
 yamagatasilk.com CNAME .
 *.yamagatasilk.com CNAME .
+ycfhfm.com CNAME .
+*.ycfhfm.com CNAME .
 ygz.bet CNAME .
 *.ygz.bet CNAME .
 yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion CNAME .
