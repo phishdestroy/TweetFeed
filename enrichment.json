@@ -1,5 +1,5 @@
 {
-  "count": 5791,
+  "count": 5775,
   "dead_tweets": {
     "2103775259568599393": {
       "attempts": 1,
@@ -264,6 +264,22 @@
       "type": "sha256",
       "value": "07be91c98c5feee161e87d01ff2c617b324baebb5a0b6eeb7c888900ad3588bb"
     },
+    "07f37d654db3ce7a009e2d59833358452d884eb36a4deda9fcc0ad64617f7293": {
+      "confidence": 0.7,
+      "date": "2026-11-01 11:15:22",
+      "enriched_at": "2026-11-01T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as the HerzTreff app, distributed via a phishing site at t-reff.eu.cc; an associated sample hash was shared.",
+      "threat_type": "malware",
+      "tweet_id": "2116851586421194906",
+      "type": "sha256",
+      "value": "07f37d654db3ce7a009e2d59833358452d884eb36a4deda9fcc0ad64617f7293"
+    },
     "0835b744a4f60827529a3b4e92d02fccd28bd04ae7a16f0e0ec191a833532c13": {
       "confidence": 0.5,
       "date": "2026-10-27 22:15:29",
@@ -414,22 +430,6 @@
       "tweet_id": "2109968038900466012",
       "type": "sha256",
       "value": "0d0cf937953e7bdc87d29f093f3667e618314b312a9bd70345b84e25be57fab7"
-    },
-    "0eb380a4609662b66d946d0991e810aa47b80dc3733aee4e59cfba1bd1107ce7": {
-      "confidence": 0.9,
-      "date": "2026-10-02 09:04:56",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": "Formbook",
-      "suggested_tags": [
-        "formbook",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Japanese-language malspam (quote request lure, ZIP containing WSF) delivering Formbook.",
-      "threat_type": "malware",
-      "tweet_id": "2105947127755223200",
-      "type": "sha256",
-      "value": "0eb380a4609662b66d946d0991e810aa47b80dc3733aee4e59cfba1bd1107ce7"
     },
     "0xrpc.io": {
       "confidence": 0.45,
@@ -7856,21 +7856,6 @@
       "type": "url",
       "value": "http://154.64.32.231"
     },
-    "155.117.20.119": {
-      "confidence": 0.6,
-      "date": "2026-10-02 08:04:43",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": "Venom",
-      "suggested_tags": [
-        "c2",
-        "venomrat"
-      ],
-      "summary": "IP 155.117.20.119:8080 and domain venomcontrol[.]io reported as a Venom C2 panel.",
-      "threat_type": "c2",
-      "tweet_id": "2105931973499986036",
-      "type": "ip",
-      "value": "155.117.20.119"
-    },
     "155.117.98.165": {
       "confidence": 0.6,
       "date": "2026-10-21 11:24:05",
@@ -13419,20 +13404,6 @@
       "type": "domain",
       "value": "2071486361jhute45r.cyou"
     },
-    "208.187.244.6": {
-      "confidence": 0.8,
-      "date": "2026-10-02 10:27:53",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site dmuchawa-do-lisci-pl[.]com hosted on 208.187.244.6 (US, AS7385) reported by PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2105968003712258547",
-      "type": "ip",
-      "value": "208.187.244.6"
-    },
     "209.141.51.90": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -13557,20 +13528,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "212.18.114.31"
-    },
-    "212.80.205.63": {
-      "confidence": 0.6,
-      "date": "2026-10-02 12:19:10",
-      "enriched_at": "2026-11-01T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "List of IP addresses reported as C2 panel infrastructure, shared with several malware researchers.",
-      "threat_type": "c2",
-      "tweet_id": "2105996008685748361",
-      "type": "ip",
-      "value": "212.80.205.63"
     },
     "213.111.185.78": {
       "confidence": 0.6,
@@ -27960,20 +27917,6 @@
       "type": "ip",
       "value": "49.51.38.193"
     },
-    "49.51.50.66": {
-      "confidence": 0.7,
-      "date": "2026-10-02 12:19:10",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "IP addresses reported as C2 panel infrastructure by several researchers.",
-      "threat_type": "c2",
-      "tweet_id": "2105996008685748361",
-      "type": "ip",
-      "value": "49.51.50.66"
-    },
     "493aafd42641c852be9a7a0e8fd77f85": {
       "confidence": 0.85,
       "date": "2026-10-05 12:21:17",
@@ -28188,20 +28131,6 @@
       "tweet_id": "2107752941801054519",
       "type": "url",
       "value": "http://5.175.169.152"
-    },
-    "5.181.156.136": {
-      "confidence": 0.75,
-      "date": "2026-10-02 12:00:36",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": "OCTO",
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "IP address 5.181.156.136 reported as an OCTO C2 panel.",
-      "threat_type": "c2",
-      "tweet_id": "2105991333806829910",
-      "type": "ip",
-      "value": "5.181.156.136"
     },
     "5.188.230.120": {
       "confidence": 0.55,
@@ -28504,36 +28433,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "50.114.236.142"
-    },
-    "50.114.5.38": {
-      "confidence": 0.7,
-      "date": "2026-10-02 10:02:26",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "phishing"
-      ],
-      "summary": "Open directory at 50.114.5.38:9996 on Evoxt hosting holding PII, cloud credentials, phishing kits and a Chinese offensive-security workspace.",
-      "threat_type": "other",
-      "tweet_id": "2105961597311287297",
-      "type": "ip",
-      "value": "50.114.5.38"
-    },
-    "50.114.5.38:9996": {
-      "confidence": 0.7,
-      "date": "2026-10-02 10:02:26",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "phishing"
-      ],
-      "summary": "Open directory at 50.114.5.38:9996 on Evoxt hosting holding PII, cloud credentials, phishing kits and a Chinese offensive-security workspace.",
-      "threat_type": "other",
-      "tweet_id": "2105961597311287297",
-      "type": "url",
-      "value": "http://50.114.5.38:9996"
     },
     "50.116.87.118": {
       "confidence": 0.85,
@@ -30557,20 +30456,6 @@
       "type": "md5",
       "value": "740eae2681c5770cd9d32694ceaf68aa"
     },
-    "7486440545d208eea86382204d2a92a8": {
-      "confidence": 0.6,
-      "date": "2026-10-02 10:25:40",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": "SLEEKHOOK",
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "MD5 hash associated with SLEEKHOOK malware.",
-      "threat_type": "malware",
-      "tweet_id": "2105967446138179905",
-      "type": "md5",
-      "value": "7486440545d208eea86382204d2a92a8"
-    },
     "74d4268d16116b148e6e32d9b44101d8": {
       "confidence": 0.6,
       "date": "2026-10-28 05:56:35",
@@ -31443,20 +31328,6 @@
       "tweet_id": "2112904506417840526",
       "type": "url",
       "value": "http://80.78.22.149"
-    },
-    "80.97.160.90": {
-      "confidence": 0.7,
-      "date": "2026-10-02 12:19:10",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "IP addresses reported as C2 panel infrastructure by several researchers.",
-      "threat_type": "c2",
-      "tweet_id": "2105996008685748361",
-      "type": "ip",
-      "value": "80.97.160.90"
     },
     "8030b6bdf0f8951ef3768c64ba667238": {
       "confidence": 0.7,
@@ -32502,18 +32373,6 @@
       "tweet_id": "2107102060042719580",
       "type": "ip",
       "value": "87.120.104.148"
-    },
-    "87.121.104.154": {
-      "confidence": 0.4,
-      "date": "2026-10-02 11:54:16",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "IP 87.121.104.154 on port 3000 reported as a panel linked to SoytariDev and carding operations.",
-      "threat_type": "other",
-      "tweet_id": "2105989740147437891",
-      "type": "ip",
-      "value": "87.121.104.154"
     },
     "8712159d2a29a5744a75c280952194af128b1136e061e2021f184515cb3625b4": {
       "confidence": 0.45,
@@ -42890,22 +42749,6 @@
       "type": "domain",
       "value": "b13t17.pro"
     },
-    "b15494c671395c45978800229a26fbfcb1af47337974e120e6885cab21b6578c": {
-      "confidence": 0.9,
-      "date": "2026-10-02 09:10:53",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": "AgentTesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Japanese-language malspam (invoice lure, RAR containing JS) delivering AgentTesla, exfiltrating via Telegram API.",
-      "threat_type": "malware",
-      "tweet_id": "2105948626317193465",
-      "type": "sha256",
-      "value": "b15494c671395c45978800229a26fbfcb1af47337974e120e6885cab21b6578c"
-    },
     "b1871fbbcb58fb660e574096bd9c3886cf9254178d99a96e1b0047e717ce12eb": {
       "confidence": 0.93,
       "date": "2026-10-13 12:12:13",
@@ -42997,21 +42840,6 @@
       "tweet_id": "2112290363540938907",
       "type": "sha256",
       "value": "b4290d69fbb099f72f0b7ebc5fdb1211db0810f79372b871229746027d23f52c"
-    },
-    "b4c50a84aa052aaa602ff8ffd516ff38b3ffb91d7a6d672b7906a897a7ff6bcc": {
-      "confidence": 0.8,
-      "date": "2026-10-02 11:54:31",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "cryptoscam"
-      ],
-      "summary": "Ten fake BBC News clone domains promoting a fraudulent Jim Ratcliffe AI-trading scheme with a lead form feeding an investment fraud funnel.",
-      "threat_type": "scam",
-      "tweet_id": "2105989803715989712",
-      "type": "sha256",
-      "value": "b4c50a84aa052aaa602ff8ffd516ff38b3ffb91d7a6d672b7906a897a7ff6bcc"
     },
     "b4ee9ccd3db4836ccce2bfd5822d65c541a488ddf84fa9569070fa724c172296": {
       "confidence": 0.6,
@@ -49582,6 +49410,21 @@
       "type": "sha256",
       "value": "d1921b648c42486709b70b6fa8dab237faef47719940b4bbfae81e446540bc11"
     },
+    "d1g9mpv1gr3wxx.cloudfront.net": {
+      "confidence": 0.8,
+      "date": "2026-11-01 04:24:42",
+      "enriched_at": "2026-11-01T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Japanese-language fake security alert emails lead to a tech-support scam site hosted on CloudFront, urging victims to call a listed phone number.",
+      "threat_type": "scam",
+      "tweet_id": "2116748238787342567",
+      "type": "domain",
+      "value": "d1g9mpv1gr3wxx.cloudfront.net"
+    },
     "d2ba2b7c61b060f644f46add729c4006": {
       "confidence": 0.6,
       "date": "2026-10-16 06:12:58",
@@ -51135,20 +50978,6 @@
       "type": "domain",
       "value": "dmpweb-whatsapp.com"
     },
-    "dmuchawa-do-lisci-pl.com": {
-      "confidence": 0.8,
-      "date": "2026-10-02 10:27:53",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site dmuchawa-do-lisci-pl[.]com hosted on 208.187.244.6 (US, AS7385) reported by PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2105968003712258547",
-      "type": "domain",
-      "value": "dmuchawa-do-lisci-pl.com"
-    },
     "dnscloud-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -51976,22 +51805,6 @@
       "type": "sha256",
       "value": "e118a4e9d48fcf7af31fa73e2b805ab1c8f5005b11b19a95ad68e4957df1a0b8"
     },
-    "e12a3fe0030d91570c651c4615899962": {
-      "confidence": 0.9,
-      "date": "2026-10-02 09:10:53",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": "AgentTesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Japanese-language malspam (invoice lure, RAR containing JS) delivering AgentTesla, exfiltrating via Telegram API.",
-      "threat_type": "malware",
-      "tweet_id": "2105948626317193465",
-      "type": "md5",
-      "value": "e12a3fe0030d91570c651c4615899962"
-    },
     "e1671e3fbb0e4e97577b42253ef622b2": {
       "confidence": 0.75,
       "date": "2026-10-16 11:23:31",
@@ -52280,22 +52093,6 @@
       "tweet_id": "2114927009503809584",
       "type": "sha256",
       "value": "e98ccba43420707b73c6d738b21af9d995a12677987ca5db0be40805aecff495"
-    },
-    "e9e6a9d8a06d7be611be2a8f4a6f53388e01512c76e2d222ce39d737705a28a1": {
-      "confidence": 0.9,
-      "date": "2026-10-02 07:16:35",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": "AgentTesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Japanese-language malspam (invoice lure, RAR containing JS) delivering AgentTesla infostealer, with C2 over Telegram API.",
-      "threat_type": "malware",
-      "tweet_id": "2105919862317175185",
-      "type": "sha256",
-      "value": "e9e6a9d8a06d7be611be2a8f4a6f53388e01512c76e2d222ce39d737705a28a1"
     },
     "e9f0113b12649584a81def295f1510b9": {
       "confidence": 0.8,
@@ -52612,22 +52409,6 @@
       "tweet_id": "2108045786366066728",
       "type": "domain",
       "value": "edzvp.cn"
-    },
-    "ee0bbb719b48c7b166d5c228290e72c9": {
-      "confidence": 0.9,
-      "date": "2026-10-02 09:04:56",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": "Formbook",
-      "suggested_tags": [
-        "formbook",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Japanese-language malspam (quote request lure, ZIP containing WSF) delivering Formbook.",
-      "threat_type": "malware",
-      "tweet_id": "2105947127755223200",
-      "type": "md5",
-      "value": "ee0bbb719b48c7b166d5c228290e72c9"
     },
     "ee39f091a23c746763ff44a273d11307abe5ca531f363b5621dfaa695f39a37b": {
       "confidence": 0.5,
@@ -53268,18 +53049,6 @@
       "tweet_id": "2109008798786716087",
       "type": "url",
       "value": "https://expirience.click/login"
-    },
-    "expirience.icu": {
-      "confidence": 0.3,
-      "date": "2026-10-02 11:00:54",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Suspicious login panel at expirience[.]icu titled 'Overlord Login' / 'EXPERIENCE', described as a control plane sign-in; purpose unclear.",
-      "threat_type": "other",
-      "tweet_id": "2105976312867459087",
-      "type": "domain",
-      "value": "expirience.icu"
     },
     "eye.theeyecenterofcolumbus.com": {
       "confidence": 0.85,
@@ -59207,21 +58976,6 @@
       "tweet_id": "2109263406956155061",
       "type": "domain",
       "value": "interior-gov-pk.mail-govt.org"
-    },
-    "interseq.at": {
-      "confidence": 0.7,
-      "date": "2026-10-02 12:24:54",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Compromised website interseq[.]at reported as part of a ClickFix malware delivery campaign.",
-      "threat_type": "malware",
-      "tweet_id": "2105997452524519452",
-      "type": "domain",
-      "value": "interseq.at"
     },
     "invitationlauchjczoommeeting.com": {
       "confidence": 0.8,
@@ -70286,20 +70040,6 @@
       "type": "domain",
       "value": "settings.webstatici-whatsapp.com"
     },
-    "settingsportal.com": {
-      "confidence": 0.45,
-      "date": "2026-10-02 07:44:48",
-      "enriched_at": "2026-10-02T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New domain settingsportal[.]com attributed to UNC6671 infrastructure with brand-themed hostnames across the US and Australia.",
-      "threat_type": "phishing",
-      "tweet_id": "2105926962833498606",
-      "type": "domain",
-      "value": "settingsportal.com"
-    },
     "setup.webapi-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -73314,6 +73054,22 @@
       "type": "domain",
       "value": "t-me.nproxy.org"
     },
+    "t-reff.eu.cc": {
+      "confidence": 0.7,
+      "date": "2026-11-01 11:15:22",
+      "enriched_at": "2026-11-01T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as the HerzTreff app, distributed via a phishing site at t-reff.eu.cc; an associated sample hash was shared.",
+      "threat_type": "malware",
+      "tweet_id": "2116851586421194906",
+      "type": "domain",
+      "value": "t-reff.eu.cc"
+    },
     "t-trustrest.com": {
       "confidence": 0.85,
       "date": "2026-10-23 18:15:23",
@@ -75994,6 +75750,21 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "viewweb-whatsapp.com"
+    },
+    "vijaydarda.in": {
+      "confidence": 0.75,
+      "date": "2026-11-01 07:27:43",
+      "enriched_at": "2026-11-01T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware"
+      ],
+      "summary": "Compromised website vijaydarda.in reported as abused by attackers to deliver malware through a ClickFix attack.",
+      "threat_type": "malware",
+      "tweet_id": "2116794297806913856",
+      "type": "domain",
+      "value": "vijaydarda.in"
     },
     "viuonicoiscienic.web.app": {
       "confidence": 0.55,
@@ -80809,6 +80580,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-11-01T06:40:04Z",
+  "generated_at": "2026-11-01T12:40:04Z",
   "window_days": 30
 }
