@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-01 07:30:23 (UTC)</th>
+        <th colspan=4>2026-11-01 07:45:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 9 | 414 | 2827 | 45118 |
-| **:globe_with_meridians: Domains** | 9 | 294 | 2364 | 38879 |
+| **:link: URLs** | 10 | 415 | 2828 | 45119 |
+| **:globe_with_meridians: Domains** | 10 | 295 | 2365 | 38880 |
 | **:triangular_flag_on_post: IPs** | 1 | 156 | 2067 | 7838 |
 | **:1234: SHA256** | 2 | 110 | 424 | 3030 |
 | **:1234: MD5** | 0 | 35 | 98 | 2102 |
@@ -212,7 +212,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#scam** | 0 | 12 | 46 | 3247 |
 | **#C2** | 0 | 29 | 96 | 2204 |
 | **#APT** | 0 | 4 | 33 | 1492 |
-| **#ClickFix** | 0 | 60 | 192 | 1115 |
+| **#ClickFix** | 2 | 62 | 194 | 1117 |
 | **#opendir** | 0 | 1 | 35 | 702 |
 | **#ransomware** | 2 | 25 | 97 | 691 |
 <!-- TAG_TABLE_END -->
@@ -235,8 +235,8 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#3** | [scanmalware](https://x.com/scanmalware) | 4 |
 | **#4** | [patialavii](https://x.com/patialavii) | 4 |
 | **#5** | [harugasumi](https://x.com/harugasumi) | 2 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 1 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#6** | [Newsreading1](https://x.com/Newsreading1) | 2 |
+| **#7** | [PhishStats](https://x.com/PhishStats) | 1 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
