@@ -1,5 +1,5 @@
 {
-  "count": 5775,
+  "count": 5717,
   "dead_tweets": {
     "2103775259568599393": {
       "attempts": 1,
@@ -186,6 +186,20 @@
       "tweet_id": "2114385282728378453",
       "type": "md5",
       "value": "03b0942b48585f29fe2e4f63140b2aab"
+    },
+    "04395a955f57f772cfb4d0d6161bf085c48e6d55ed6fc7cbbf522867099957d7": {
+      "confidence": 0.6,
+      "date": "2026-11-01 14:58:54",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Fake Chinese-language Chrome download site geoogle.top redirects to a suspicious installer archive on lestvnas.icu; payload unverified.",
+      "threat_type": "malware",
+      "tweet_id": "2116907842125132115",
+      "type": "sha256",
+      "value": "04395a955f57f772cfb4d0d6161bf085c48e6d55ed6fc7cbbf522867099957d7"
     },
     "04eae0a7625bd280faee6cee1f09abaf77d278c16f4f4fae3c9cd607efbcb5a0": {
       "confidence": 0.35,
@@ -832,36 +846,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "103.115.158.79"
-    },
-    "103.116.247.42": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "103.116.247.42"
-    },
-    "103.117.121.13": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "103.117.121.13"
     },
     "103.118.42.120": {
       "confidence": 0.85,
@@ -2771,21 +2755,6 @@
       "type": "url",
       "value": "http://103.99.36.146:8080"
     },
-    "1035362455.sbs": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "1035362455.sbs"
-    },
     "104.143.42.209": {
       "confidence": 0.6,
       "date": "2026-10-17 17:58:10",
@@ -3414,36 +3383,6 @@
       "type": "ip",
       "value": "107.175.132.47"
     },
-    "107.175.82.242": {
-      "confidence": 0.8,
-      "date": "2026-10-02 14:30:33",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "RoamingRAT",
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "New Java RAT, tracked as RoamingRAT, delivered from Lunex delivery infrastructure at 107.175.82.242:9000/wilow/.",
-      "threat_type": "malware",
-      "tweet_id": "2106029073407377799",
-      "type": "ip",
-      "value": "107.175.82.242"
-    },
-    "107.175.82.242:9000/wilow": {
-      "confidence": 0.8,
-      "date": "2026-10-02 14:30:33",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "RoamingRAT",
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "New Java RAT, tracked as RoamingRAT, delivered from Lunex delivery infrastructure at 107.175.82.242:9000/wilow/.",
-      "threat_type": "malware",
-      "tweet_id": "2106029073407377799",
-      "type": "url",
-      "value": "http://107.175.82.242:9000/wilow/"
-    },
     "107.175.82.242:9000/wilow/jakone.bin": {
       "confidence": 0.55,
       "date": "2026-10-25 22:13:56",
@@ -3880,6 +3819,18 @@
       "tweet_id": "2110717418427289602",
       "type": "ip",
       "value": "115.227.62.135"
+    },
+    "116.202.232.184": {
+      "confidence": 0.2,
+      "date": "2026-11-01 14:53:50",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "IP address 116.202.232.184 on Hetzner (AS24940) shared without context; no threat details given.",
+      "threat_type": "other",
+      "tweet_id": "2116906568289865744",
+      "type": "url",
+      "value": "http://116.202.232.184"
     },
     "116.204.169.70": {
       "confidence": 0.85,
@@ -6519,21 +6470,6 @@
       "type": "sha256",
       "value": "13cee49212b02538acec3887804d62cd696f29cbe37e5231809f16f384619be9"
     },
-    "14.103.211.223": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "14.103.211.223"
-    },
     "140.188.124.242": {
       "confidence": 0.85,
       "date": "2026-10-31 09:05:29",
@@ -6683,21 +6619,6 @@
       "tweet_id": "2113743909134229940",
       "type": "url",
       "value": "http://141.98.10.25/diddysbot-amd64"
-    },
-    "1419993777.cyou": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "1419993777.cyou"
     },
     "143.246.43.122": {
       "confidence": 0.6,
@@ -7089,21 +7010,6 @@
       "tweet_id": "2115353143458324506",
       "type": "url",
       "value": "http://148.72.244.125/yahoo/login.html"
-    },
-    "149.104.24.91": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "149.104.24.91"
     },
     "149.104.4.149": {
       "confidence": 0.7,
@@ -7751,21 +7657,6 @@
       "tweet_id": "2108311214891938068",
       "type": "url",
       "value": "http://154.12.83.188:33196"
-    },
-    "154.12.94.223": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "154.12.94.223"
     },
     "154.198.163.77": {
       "confidence": 0.85,
@@ -8784,21 +8675,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "160.250.83.31"
-    },
-    "1606837286.cyou": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "1606837286.cyou"
     },
     "160dae32574db53ab621c5da9d5dabc8": {
       "confidence": 0.8,
@@ -10046,21 +9922,6 @@
       "type": "ip",
       "value": "173.249.6.158"
     },
-    "173.254.220.78": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "173.254.220.78"
-    },
     "175.100.42.26": {
       "confidence": 0.4,
       "date": "2026-10-20 19:39:21",
@@ -11058,21 +10919,6 @@
       "type": "ip",
       "value": "187.40.109.135"
     },
-    "1874912064.cyou": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "1874912064.cyou"
-    },
     "188.227.197.143": {
       "confidence": 0.6,
       "date": "2026-10-14 15:00:01",
@@ -11223,21 +11069,6 @@
       "tweet_id": "2109650108887204073",
       "type": "ip",
       "value": "192.210.174.155"
-    },
-    "192.236.166.73": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "192.236.166.73"
     },
     "192.248.150.180": {
       "confidence": 0.8,
@@ -11556,6 +11387,36 @@
       "tweet_id": "2108222108698644732",
       "type": "url",
       "value": "http://193.24.123.18:85/api/"
+    },
+    "193.29.104.84": {
+      "confidence": 0.75,
+      "date": "2026-11-01 14:31:46",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "opendir"
+      ],
+      "summary": "Exposed open directory at 193.29.104.84:8099 leaked 48 files from an apparent APT DONOT operation targeting Pakistan's nuclear and energy sectors.",
+      "threat_type": "malware",
+      "tweet_id": "2116901013680791846",
+      "type": "ip",
+      "value": "193.29.104.84"
+    },
+    "193.29.104.84:8099": {
+      "confidence": 0.75,
+      "date": "2026-11-01 14:31:46",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "opendir"
+      ],
+      "summary": "Exposed open directory at 193.29.104.84:8099 leaked 48 files from an apparent APT DONOT operation targeting Pakistan's nuclear and energy sectors.",
+      "threat_type": "malware",
+      "tweet_id": "2116901013680791846",
+      "type": "url",
+      "value": "http://193.29.104.84:8099"
     },
     "193.70.100.109": {
       "confidence": 0.9,
@@ -12118,21 +11979,6 @@
       "type": "ip",
       "value": "198.12.89.177"
     },
-    "198.200.59.86": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "198.200.59.86"
-    },
     "198.251.84.129": {
       "confidence": 0.85,
       "date": "2026-10-29 21:26:11",
@@ -12252,21 +12098,6 @@
       "tweet_id": "2107317984834503033",
       "type": "url",
       "value": "http://198.44.116.31"
-    },
-    "198.46.198.206": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "198.46.198.206"
     },
     "198.46.221.26": {
       "confidence": 0.6,
@@ -12822,21 +12653,6 @@
       "type": "ip",
       "value": "20.78.143.154"
     },
-    "2008377162.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "2008377162.cfd"
-    },
     "202.125.66.58": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -13389,21 +13205,6 @@
       "type": "url",
       "value": "http://207.58.174.146:8041"
     },
-    "2071486361jhute45r.cyou": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "2071486361jhute45r.cyou"
-    },
     "209.141.51.90": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -13573,18 +13374,6 @@
       "type": "ip",
       "value": "213.186.33.19"
     },
-    "213.209.159.55": {
-      "confidence": 0.3,
-      "date": "2026-10-02 17:17:43",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Suspicious URL on IP 213.209.159.55:443 reported as possibly related to Citrix NetScaler activity; exact nature unclear.",
-      "threat_type": "other",
-      "tweet_id": "2106071140896481663",
-      "type": "ip",
-      "value": "213.209.159.55"
-    },
     "213.209.159.55:443": {
       "confidence": 0.85,
       "date": "2026-10-06 10:29:56",
@@ -13600,18 +13389,6 @@
       "tweet_id": "2107418068393873847",
       "type": "url",
       "value": "http://213.209.159.55:443"
-    },
-    "213.209.159.55:443/t/906b4f": {
-      "confidence": 0.3,
-      "date": "2026-10-02 17:17:43",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Suspicious URL on IP 213.209.159.55:443 reported as possibly related to Citrix NetScaler activity; exact nature unclear.",
-      "threat_type": "other",
-      "tweet_id": "2106071140896481663",
-      "type": "url",
-      "value": "http://213.209.159.55:443/t/906b4f"
     },
     "213.209.159.55:443/t/ae7427/loot_diag.txt": {
       "confidence": 0.85,
@@ -13676,6 +13453,20 @@
       "tweet_id": "2107418068393873847",
       "type": "url",
       "value": "http://213.209.159.55:443/t/ae7427/loot_nshist.tgz"
+    },
+    "216.150.1.1": {
+      "confidence": 0.9,
+      "date": "2026-11-01 18:01:04",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Adobe-themed phishing site at adobe.parterro.com hosted on Amazon infrastructure in the US, reported by phishunt.",
+      "threat_type": "phishing",
+      "tweet_id": "2116953684667994401",
+      "type": "ip",
+      "value": "216.150.1.1"
     },
     "216.239.32.27": {
       "confidence": 0.7,
@@ -13768,6 +13559,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "217.142.187.160"
+    },
+    "217.149.13.187": {
+      "confidence": 0.9,
+      "date": "2026-11-01 13:14:43",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Alibaba-themed phishing page on a compromised WordPress site, auditormadrid.es, hosted in Spain.",
+      "threat_type": "phishing",
+      "tweet_id": "2116881625418215611",
+      "type": "ip",
+      "value": "217.149.13.187"
     },
     "217.15.163.7": {
       "confidence": 0.7,
@@ -15607,36 +15412,6 @@
       "tweet_id": "2115893904373432405",
       "type": "url",
       "value": "http://31.57.38.4:9015"
-    },
-    "31.59.138.144": {
-      "confidence": 0.6,
-      "date": "2026-10-02 14:40:44",
-      "enriched_at": "2026-11-01T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "Malicious LNK file disguised as a .docx agreement fetches aes.js from 31.59.138.144, tagged as APT activity.",
-      "threat_type": "malware",
-      "tweet_id": "2106031636030902298",
-      "type": "ip",
-      "value": "31.59.138.144"
-    },
-    "31.59.138.144/aes.js": {
-      "confidence": 0.6,
-      "date": "2026-10-02 14:40:44",
-      "enriched_at": "2026-11-01T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "Malicious LNK file disguised as a .docx agreement fetches aes.js from 31.59.138.144, tagged as APT activity.",
-      "threat_type": "malware",
-      "tweet_id": "2106031636030902298",
-      "type": "url",
-      "value": "http://31.59.138.144/aes.js"
     },
     "31.59.39.40": {
       "confidence": 0.2,
@@ -24686,606 +24461,6 @@
       "type": "sha256",
       "value": "37d7a8c504227f9c1986619fd8148f1737cf94e56ac91687f8ba33be7e945f5e"
     },
-    "38.11.173.1": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.1"
-    },
-    "38.11.173.10": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.10"
-    },
-    "38.11.173.104": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.104"
-    },
-    "38.11.173.108": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.108"
-    },
-    "38.11.173.113": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.113"
-    },
-    "38.11.173.117": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.117"
-    },
-    "38.11.173.122": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.122"
-    },
-    "38.11.173.14": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.14"
-    },
-    "38.11.173.19": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.19"
-    },
-    "38.11.173.23": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.23"
-    },
-    "38.11.173.28": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.28"
-    },
-    "38.11.173.32": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.32"
-    },
-    "38.11.173.37": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.37"
-    },
-    "38.11.173.41": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.41"
-    },
-    "38.11.173.46": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.46"
-    },
-    "38.11.173.5": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.5"
-    },
-    "38.11.173.50": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.50"
-    },
-    "38.11.173.59": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.59"
-    },
-    "38.11.173.68": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.68"
-    },
-    "38.11.173.77": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.77"
-    },
-    "38.11.173.86": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.86"
-    },
-    "38.11.173.95": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.173.95"
-    },
-    "38.11.221.103": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.103"
-    },
-    "38.11.221.112": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.112"
-    },
-    "38.11.221.121": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.121"
-    },
-    "38.11.221.18": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.18"
-    },
-    "38.11.221.27": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.27"
-    },
-    "38.11.221.36": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.36"
-    },
-    "38.11.221.45": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.45"
-    },
-    "38.11.221.49": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.49"
-    },
-    "38.11.221.54": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.54"
-    },
-    "38.11.221.58": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.58"
-    },
-    "38.11.221.63": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.63"
-    },
-    "38.11.221.72": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.72"
-    },
-    "38.11.221.76": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.76"
-    },
-    "38.11.221.81": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.81"
-    },
-    "38.11.221.85": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.85"
-    },
-    "38.11.221.9": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.9"
-    },
-    "38.11.221.90": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.90"
-    },
-    "38.11.221.94": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "38.11.221.94"
-    },
     "38.126.46.110": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -27472,21 +26647,6 @@
       "type": "ip",
       "value": "46.251.203.181"
     },
-    "460595718.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "460595718.cfd"
-    },
     "461f8ab06a9bd0a09ec335b81ac676e1b868c295592abe44edf5c5e1f693639e": {
       "confidence": 0.5,
       "date": "2026-10-29 11:54:20",
@@ -27654,21 +26814,6 @@
       "type": "ip",
       "value": "47.245.56.76"
     },
-    "47.253.69.182": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "47.253.69.182"
-    },
     "47.45.19.240": {
       "confidence": 0.85,
       "date": "2026-10-06 04:39:11",
@@ -27751,21 +26896,6 @@
       "tweet_id": "2110633607232684124",
       "type": "url",
       "value": "http://47.79.33.3"
-    },
-    "47.82.118.105": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "47.82.118.105"
     },
     "47.97.206.32": {
       "confidence": 0.6,
@@ -28472,36 +27602,6 @@
       "type": "ip",
       "value": "50.31.235.102"
     },
-    "5043990463kjh.cyou": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "5043990463kjh.cyou"
-    },
-    "5044298614.cyou": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "5044298614.cyou"
-    },
     "51.159.4.12": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -28574,21 +27674,6 @@
       "tweet_id": "2116072405508472926",
       "type": "url",
       "value": "http://51.83.71.4"
-    },
-    "5140390597.cyou": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "5140390597.cyou"
     },
     "51538a2683287a88871c37be515268c34048e1e84b30eecea23164f864e4ecd4": {
       "confidence": 0.5,
@@ -28690,21 +27775,6 @@
       "tweet_id": "2112282430388265241",
       "type": "url",
       "value": "http://52.74.54.75/storage/install.exe"
-    },
-    "5247145664.cyou": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "5247145664.cyou"
     },
     "52694ec965202a0be19f81c6cd9bf848": {
       "confidence": 0.8,
@@ -28898,21 +27968,6 @@
       "type": "md5",
       "value": "56a0d63a0b5a99d76a71e81b1a9b760c"
     },
-    "5767896359.sbs": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "5767896359.sbs"
-    },
     "58.145.185.136": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -29030,21 +28085,6 @@
       "tweet_id": "2114635140609577151",
       "type": "sha256",
       "value": "5874e779a7718f416185c920a19be41d569ddd43d01b405fc7ffde2db955ad6c"
-    },
-    "5889631857.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "5889631857.cfd"
     },
     "58c8aba758ce213d83f91f3139f0268e": {
       "confidence": 0.8,
@@ -30440,6 +29480,22 @@
       "type": "url",
       "value": "http://74.207.198.39/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
     },
+    "74.227.129.151": {
+      "confidence": 0.6,
+      "date": "2026-11-01 15:22:00",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "c2",
+        "malware"
+      ],
+      "summary": "IP address 74.227.129.151 reported as C2 infrastructure associated with the APT group Transparent Tribe.",
+      "threat_type": "c2",
+      "tweet_id": "2116913654935240892",
+      "type": "url",
+      "value": "http://74.227.129.151"
+    },
     "740eae2681c5770cd9d32694ceaf68aa": {
       "confidence": 0.85,
       "date": "2026-10-25 09:27:30",
@@ -30634,18 +29690,6 @@
       "tweet_id": "2113348751532118078",
       "type": "url",
       "value": "http://77.220.212.113:2084"
-    },
-    "77.221.143.224": {
-      "confidence": 0.3,
-      "date": "2026-10-02 12:48:50",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Suspicious domain coral-thistle-kilmkruon.top and IP 77.221.143.224 hosted on Aeza Group (AS210644); no threat context given.",
-      "threat_type": "other",
-      "tweet_id": "2106003473783525555",
-      "type": "url",
-      "value": "http://77.221.143.224"
     },
     "77.239.124.141": {
       "confidence": 0.6,
@@ -31444,21 +30488,6 @@
       "tweet_id": "2115387572843053106",
       "type": "url",
       "value": "http://81.2.24.0"
-    },
-    "81.71.120.246": {
-      "confidence": 0.6,
-      "date": "2026-10-02 15:38:18",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Hosts running the open-source AI pentest platform ARTEX alongside AI relay gateways (sub2api, new-api, grok2api); two hosts also run AI-driven C2 incl. Mythic.",
-      "threat_type": "c2",
-      "tweet_id": "2106046121827037599",
-      "type": "ip",
-      "value": "81.71.120.246"
     },
     "81304c9fb3c0ee18b3d2e5941551195bdc6186900121e2c06c7d7bf5037dc9a1": {
       "confidence": 0.55,
@@ -35178,21 +34207,6 @@
       "type": "sha256",
       "value": "ad4058f2052a58585c9f96727b6b781f3657814de517f07943a4d7645d5ca9a7"
     },
-    "adaptableinfrastructure.de": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "adaptableinfrastructure.de"
-    },
     "addsecureapps.com": {
       "confidence": 0.6,
       "date": "2026-10-25 16:52:45",
@@ -35222,6 +34236,20 @@
       "tweet_id": "2108169246240911697",
       "type": "domain",
       "value": "admin-heteml.com"
+    },
+    "adobe.parterro.com": {
+      "confidence": 0.9,
+      "date": "2026-11-01 18:01:04",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Adobe-themed phishing site at adobe.parterro.com hosted on Amazon infrastructure in the US, reported by phishunt.",
+      "threat_type": "phishing",
+      "tweet_id": "2116953684667994401",
+      "type": "domain",
+      "value": "adobe.parterro.com"
     },
     "adobeacrobatdoc.com": {
       "confidence": 0.8,
@@ -42138,21 +41166,6 @@
       "type": "domain",
       "value": "ar.webhwsapp-whatsapp.com"
     },
-    "architectureinnovationhub.de": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "architectureinnovationhub.de"
-    },
     "areadocliente.shop": {
       "confidence": 0.85,
       "date": "2026-10-11 23:57:24",
@@ -42400,6 +41413,34 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "audio-whatsapp.com"
+    },
+    "auditormadrid.es": {
+      "confidence": 0.9,
+      "date": "2026-11-01 13:14:43",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Alibaba-themed phishing page on a compromised WordPress site, auditormadrid.es, hosted in Spain.",
+      "threat_type": "phishing",
+      "tweet_id": "2116881625418215611",
+      "type": "domain",
+      "value": "auditormadrid.es"
+    },
+    "auditormadrid.es/wp-content/mu-plugins/iklqzct/iuo/alibaba/?naps": {
+      "confidence": 0.9,
+      "date": "2026-11-01 13:01:37",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Alibaba-themed phishing page at auditormadrid.es (WordPress mu-plugins path), hosted in Spain, reported by phishunt.",
+      "threat_type": "phishing",
+      "tweet_id": "2116878327558340835",
+      "type": "url",
+      "value": "http://auditormadrid.es/wp-content/mu-plugins/iklqzct/iuo/alibaba/?naps"
     },
     "auth.properties": {
       "confidence": 0.6,
@@ -44960,21 +44001,6 @@
       "type": "domain",
       "value": "boo-whatsapp.com"
     },
-    "boostingcustomerjoy.de": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "boostingcustomerjoy.de"
-    },
     "bop-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -45199,21 +44225,6 @@
       "type": "domain",
       "value": "branch-whatsapp.com"
     },
-    "brandstrengththroughconsistency.de": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "brandstrengththroughconsistency.de"
-    },
     "branthoven.cfd": {
       "confidence": 0.9,
       "date": "2026-10-15 00:35:33",
@@ -45301,21 +44312,6 @@
       "tweet_id": "2108047982860091756",
       "type": "url",
       "value": "https://brejksa.study/KnaeByNf/"
-    },
-    "brewingwithoutagenda.de": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "brewingwithoutagenda.de"
     },
     "bridge-whatsapp.com": {
       "confidence": 0.75,
@@ -45600,21 +44596,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "build-whatsapp.com"
-    },
-    "buildforgrowth.de": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "buildforgrowth.de"
     },
     "buildpoint.blob.core.windows.net": {
       "confidence": 0.5,
@@ -47387,21 +46368,6 @@
       "type": "domain",
       "value": "charm-whatsapp.com"
     },
-    "chartwells-consulting.com": {
-      "confidence": 0.9,
-      "date": "2026-10-02 13:51:37",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": "FlowerStorm",
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "FlowerStorm phishing-as-a-service domains used for adversary-in-the-middle theft of Microsoft 365 credentials and MFA tokens; numeric and business-phrase domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2106019274342986023",
-      "type": "domain",
-      "value": "chartwells-consulting.com"
-    },
     "chat.webapi-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -48821,18 +47787,6 @@
       "type": "domain",
       "value": "cooley.myssologin.com"
     },
-    "coral-thistle-kilmkruon.top": {
-      "confidence": 0.3,
-      "date": "2026-10-02 12:48:50",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Suspicious domain coral-thistle-kilmkruon.top and IP 77.221.143.224 hosted on Aeza Group (AS210644); no threat context given.",
-      "threat_type": "other",
-      "tweet_id": "2106003473783525555",
-      "type": "domain",
-      "value": "coral-thistle-kilmkruon.top"
-    },
     "coral-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -50005,6 +48959,21 @@
       "tweet_id": "2112738024262181174",
       "type": "sha256",
       "value": "de0b9b6656c9e9fc9db4271610a09c2ae27d07c5a4757e94b2e0314a9dda6ee4"
+    },
+    "dea6bd7e91113ba369027ce28ae0b83ccfa9e5c40110e391931d5a82ae14f185": {
+      "confidence": 0.85,
+      "date": "2026-11-01 15:56:13",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Fake Microsoft Teams site msteamsoss.top lures users into downloading a ZIP (teams-x64.exe) containing a RAT, hosted on an Aliyun OSS bucket.",
+      "threat_type": "malware",
+      "tweet_id": "2116922264897962021",
+      "type": "sha256",
+      "value": "dea6bd7e91113ba369027ce28ae0b83ccfa9e5c40110e391931d5a82ae14f185"
     },
     "dealcartdirect.com": {
       "confidence": 0.75,
@@ -52742,21 +51711,6 @@
       "tweet_id": "2113175173289685433",
       "type": "domain",
       "value": "eowebmail.eonet.jp"
-    },
-    "equitygrandview.com": {
-      "confidence": 0.85,
-      "date": "2026-10-02 17:55:25",
-      "enriched_at": "2026-10-30T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing Saatva discount lure from fusionshoppingworks.info that leads to equitygrandview.com, flagged by threat intel providers.",
-      "threat_type": "phishing",
-      "tweet_id": "2106080627091251408",
-      "type": "domain",
-      "value": "equitygrandview.com"
     },
     "eqvpn.space": {
       "confidence": 0.75,
@@ -55785,21 +54739,6 @@
       "type": "domain",
       "value": "funnyserve-jp.com"
     },
-    "fusionshoppingworks.info": {
-      "confidence": 0.85,
-      "date": "2026-10-02 17:55:25",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing lure impersonating a Saatva discount, hosted on fusionshoppingworks.info and redirecting to a domain flagged by threat intelligence providers.",
-      "threat_type": "phishing",
-      "tweet_id": "2106080627091251408",
-      "type": "domain",
-      "value": "fusionshoppingworks.info"
-    },
     "future-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -56221,6 +55160,20 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "gentle.best"
+    },
+    "geoogle.top": {
+      "confidence": 0.6,
+      "date": "2026-11-01 14:58:54",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Fake Chinese-language Chrome download site geoogle.top redirects to a suspicious installer archive on lestvnas.icu; payload unverified.",
+      "threat_type": "malware",
+      "tweet_id": "2116907842125132115",
+      "type": "domain",
+      "value": "geoogle.top"
     },
     "gerardo.desarrollowebalcala.es": {
       "confidence": 0.85,
@@ -56741,6 +55694,20 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "gongzuo-whatsapp.com"
+    },
+    "googie-chrome.top": {
+      "confidence": 0.6,
+      "date": "2026-11-01 15:39:30",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Fake Google Chrome download site googie-chrome.top, part of a cluster of Chrome-impersonating sites possibly distributing a suspicious installer archive.",
+      "threat_type": "malware",
+      "tweet_id": "2116918060594655682",
+      "type": "domain",
+      "value": "googie-chrome.top"
     },
     "google-play-store.duckdns.org": {
       "confidence": 0.8,
@@ -59703,21 +58670,6 @@
       "type": "domain",
       "value": "joker-whatsapp.com"
     },
-    "jomaconstrucao.com": {
-      "confidence": 0.85,
-      "date": "2026-10-02 14:59:25",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing/clone websites of Brazilian construction materials businesses, tagged as scam and PIX fraud.",
-      "threat_type": "phishing",
-      "tweet_id": "2106036337589522626",
-      "type": "domain",
-      "value": "jomaconstrucao.com"
-    },
     "jorvlen.cfd": {
       "confidence": 0.9,
       "date": "2026-10-25 01:40:26",
@@ -60877,6 +59829,34 @@
       "tweet_id": "2106513976452694514",
       "type": "domain",
       "value": "lepiceriemarket.com"
+    },
+    "lestvnas.icu": {
+      "confidence": 0.6,
+      "date": "2026-11-01 14:58:54",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Fake Chinese-language Chrome download site geoogle.top redirects to a suspicious installer archive on lestvnas.icu; payload unverified.",
+      "threat_type": "malware",
+      "tweet_id": "2116907842125132115",
+      "type": "domain",
+      "value": "lestvnas.icu"
+    },
+    "lestvnas.icu/mios_googlechrocmesetup_628.92547.zip1": {
+      "confidence": 0.6,
+      "date": "2026-11-01 14:58:54",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Fake Chinese-language Chrome download site geoogle.top redirects to a suspicious installer archive on lestvnas.icu; payload unverified.",
+      "threat_type": "malware",
+      "tweet_id": "2116907842125132115",
+      "type": "url",
+      "value": "http://lestvnas.icu/mios_googleChrocmeSetup_628.92547.zip1"
     },
     "level-whatsapp.com": {
       "confidence": 0.65,
@@ -63441,6 +62421,36 @@
       "type": "url",
       "value": "https://morojames1789900170014.0690011.misitiohostgator.com/t1/page/index.php"
     },
+    "movecogi.z16.web.core.windows.net": {
+      "confidence": 0.85,
+      "date": "2026-11-01 13:35:22",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Japanese tech-support scam/phishing page on Azure static web hosting, linked to fraudulent emails claiming to be sent from the victim's own account.",
+      "threat_type": "scam",
+      "tweet_id": "2116886819283538133",
+      "type": "domain",
+      "value": "movecogi.z16.web.core.windows.net"
+    },
+    "movecogi.z16.web.core.windows.net/cvpbqha": {
+      "confidence": 0.85,
+      "date": "2026-11-01 13:35:22",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Japanese tech-support scam/phishing page on Azure static web hosting, linked to fraudulent emails claiming to be sent from the victim's own account.",
+      "threat_type": "scam",
+      "tweet_id": "2116886819283538133",
+      "type": "url",
+      "value": "https://movecogi.z16.web.core.windows.net/cvpbqha/"
+    },
     "mqpml.cn": {
       "confidence": 0.8,
       "date": "2026-10-12 22:19:18",
@@ -63500,6 +62510,21 @@
       "tweet_id": "2111017138790056108",
       "type": "domain",
       "value": "msjsonp.com"
+    },
+    "msteamsoss.top": {
+      "confidence": 0.85,
+      "date": "2026-11-01 15:56:13",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Fake Microsoft Teams site msteamsoss.top lures users into downloading a ZIP (teams-x64.exe) containing a RAT, hosted on an Aliyun OSS bucket.",
+      "threat_type": "malware",
+      "tweet_id": "2116922264897962021",
+      "type": "domain",
+      "value": "msteamsoss.top"
     },
     "msteamsss.com": {
       "confidence": 0.7,
@@ -68175,6 +67200,18 @@
       "type": "domain",
       "value": "reposync.to"
     },
+    "res65.traffer.net": {
+      "confidence": 0.6,
+      "date": "2026-11-01 14:52:21",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Domains traffer.net and res65.traffer.net flagged as spam.",
+      "threat_type": "spam",
+      "tweet_id": "2116906192786100466",
+      "type": "domain",
+      "value": "res65.traffer.net"
+    },
     "resolver-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -68302,21 +67339,6 @@
       "tweet_id": "2115796495786242168",
       "type": "url",
       "value": "https://reviewshared.s3.us-east-005.backblazeb2.com/ScreenConnect.ClientSetup.exe"
-    },
-    "ricoldimateriaisparaconstrucoes.com": {
-      "confidence": 0.85,
-      "date": "2026-10-02 14:59:25",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing/clone websites of Brazilian construction materials businesses, tagged as scam and PIX fraud.",
-      "threat_type": "phishing",
-      "tweet_id": "2106036337589522626",
-      "type": "domain",
-      "value": "ricoldimateriaisparaconstrucoes.com"
     },
     "rivalcastmed-jp.com": {
       "confidence": 0.8,
@@ -69535,6 +68557,20 @@
       "type": "domain",
       "value": "secure-xdomain-50869.w-group.shop"
     },
+    "secure-xdomain-55493.w-group.shop": {
+      "confidence": 0.9,
+      "date": "2026-11-01 13:37:47",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Five phishing sites on w-group.shop subdomains impersonating XServer, reported in Japanese.",
+      "threat_type": "phishing",
+      "tweet_id": "2116887426895630715",
+      "type": "domain",
+      "value": "secure-xdomain-55493.w-group.shop"
+    },
     "secure-xdomain-69242.dashboard-payment.app": {
       "confidence": 0.9,
       "date": "2026-10-26 02:12:02",
@@ -69550,6 +68586,34 @@
       "type": "domain",
       "value": "secure-xdomain-69242.dashboard-payment.app"
     },
+    "secure-xdomain-69342.w-group.shop": {
+      "confidence": 0.9,
+      "date": "2026-11-01 13:37:47",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Five phishing sites on w-group.shop subdomains impersonating XServer, reported in Japanese.",
+      "threat_type": "phishing",
+      "tweet_id": "2116887426895630715",
+      "type": "domain",
+      "value": "secure-xdomain-69342.w-group.shop"
+    },
+    "secure-xdomain-71481.w-group.shop": {
+      "confidence": 0.9,
+      "date": "2026-11-01 13:37:47",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Five phishing sites on w-group.shop subdomains impersonating XServer, reported in Japanese.",
+      "threat_type": "phishing",
+      "tweet_id": "2116887426895630715",
+      "type": "domain",
+      "value": "secure-xdomain-71481.w-group.shop"
+    },
     "secure-xdomain-82343.w-group.shop": {
       "confidence": 0.9,
       "date": "2026-10-28 04:02:13",
@@ -69563,6 +68627,34 @@
       "tweet_id": "2115293031360516145",
       "type": "domain",
       "value": "secure-xdomain-82343.w-group.shop"
+    },
+    "secure-xdomain-88755.w-group.shop": {
+      "confidence": 0.9,
+      "date": "2026-11-01 13:37:47",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Five phishing sites on w-group.shop subdomains impersonating XServer, reported in Japanese.",
+      "threat_type": "phishing",
+      "tweet_id": "2116887426895630715",
+      "type": "domain",
+      "value": "secure-xdomain-88755.w-group.shop"
+    },
+    "secure-xdomain-92411.w-group.shop": {
+      "confidence": 0.9,
+      "date": "2026-11-01 13:37:47",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Five phishing sites on w-group.shop subdomains impersonating XServer, reported in Japanese.",
+      "threat_type": "phishing",
+      "tweet_id": "2116887426895630715",
+      "type": "domain",
+      "value": "secure-xdomain-92411.w-group.shop"
     },
     "secure-xserver-11523.kurasoo.com": {
       "confidence": 0.88,
@@ -73526,6 +72618,36 @@
       "type": "domain",
       "value": "teamsmeeting.top"
     },
+    "teamsosl123.oss-cn-hongkong.aliyuncs.com": {
+      "confidence": 0.85,
+      "date": "2026-11-01 15:56:13",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Fake Microsoft Teams site msteamsoss.top lures users into downloading a ZIP (teams-x64.exe) containing a RAT, hosted on an Aliyun OSS bucket.",
+      "threat_type": "malware",
+      "tweet_id": "2116922264897962021",
+      "type": "domain",
+      "value": "teamsosl123.oss-cn-hongkong.aliyuncs.com"
+    },
+    "teamsosl123.oss-cn-hongkong.aliyuncs.com/teams-x64.zip": {
+      "confidence": 0.85,
+      "date": "2026-11-01 15:56:13",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Fake Microsoft Teams site msteamsoss.top lures users into downloading a ZIP (teams-x64.exe) containing a RAT, hosted on an Aliyun OSS bucket.",
+      "threat_type": "malware",
+      "tweet_id": "2116922264897962021",
+      "type": "url",
+      "value": "http://teamsosl123.oss-cn-hongkong.aliyuncs.com/teams-x64.zip"
+    },
     "techly-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -74587,6 +73709,18 @@
       "tweet_id": "2106376009654145461",
       "type": "url",
       "value": "https://tradingengineers.in/Indgravendes.csv"
+    },
+    "traffer.net": {
+      "confidence": 0.6,
+      "date": "2026-11-01 14:52:21",
+      "enriched_at": "2026-11-01T18:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Domains traffer.net and res65.traffer.net flagged as spam.",
+      "threat_type": "spam",
+      "tweet_id": "2116906192786100466",
+      "type": "domain",
+      "value": "traffer.net"
     },
     "trendcars.be": {
       "confidence": 0.85,
@@ -78515,21 +77649,6 @@
       "type": "url",
       "value": "https://www.painternc.com/Styles/Inspirations/Points/UP/#/index"
     },
-    "www.ricoldimateriaisparaconstrucoes.com": {
-      "confidence": 0.85,
-      "date": "2026-10-02 14:59:25",
-      "enriched_at": "2026-10-02T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing/clone websites of Brazilian construction materials businesses, tagged as scam and PIX fraud.",
-      "threat_type": "phishing",
-      "tweet_id": "2106036337589522626",
-      "type": "url",
-      "value": "https://www.ricoldimateriaisparaconstrucoes.com"
-    },
     "www.searedrecipes.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -80580,6 +79699,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-11-01T12:40:04Z",
+  "generated_at": "2026-11-01T18:40:04Z",
   "window_days": 30
 }

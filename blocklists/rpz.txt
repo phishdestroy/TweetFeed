@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2283
-; Updated: 2026-11-01T11:30:21Z
+; Entries: 2299
+; Updated: 2026-11-01T19:15:17Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793532621 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793560517 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -158,6 +158,8 @@ addsecureapps.com CNAME .
 *.addsecureapps.com CNAME .
 admin-heteml.com CNAME .
 *.admin-heteml.com CNAME .
+adobe.parterro.com CNAME .
+*.adobe.parterro.com CNAME .
 adobeacrobatdoc.com CNAME .
 *.adobeacrobatdoc.com CNAME .
 adobeacrobatupdate.xyz CNAME .
@@ -448,6 +450,8 @@ atdku.cn CNAME .
 *.atdku.cn CNAME .
 audio-whatsapp.com CNAME .
 *.audio-whatsapp.com CNAME .
+auditormadrid.es CNAME .
+*.auditormadrid.es CNAME .
 auth.webapi-whatsapp.com CNAME .
 *.auth.webapi-whatsapp.com CNAME .
 auth.webstatici-whatsapp.com CNAME .
@@ -1836,6 +1840,8 @@ gemini-alarmes.com CNAME .
 *.gemini-alarmes.com CNAME .
 gentle.best CNAME .
 *.gentle.best CNAME .
+geoogle.top CNAME .
+*.geoogle.top CNAME .
 gerardo.desarrollowebalcala.es CNAME .
 *.gerardo.desarrollowebalcala.es CNAME .
 get-fix-here-got.vercel.app CNAME .
@@ -1880,6 +1886,8 @@ goja.click CNAME .
 *.goja.click CNAME .
 gongzuo-whatsapp.com CNAME .
 *.gongzuo-whatsapp.com CNAME .
+googie-chrome.top CNAME .
+*.googie-chrome.top CNAME .
 google-play-store.duckdns.org CNAME .
 *.google-play-store.duckdns.org CNAME .
 google.drive03.com CNAME .
@@ -2280,6 +2288,8 @@ kenmarktur-jp.com CNAME .
 *.kenmarktur-jp.com CNAME .
 kethvion.cfd CNAME .
 *.kethvion.cfd CNAME .
+keychainagent.pro CNAME .
+*.keychainagent.pro CNAME .
 kfgwq34.cn CNAME .
 *.kfgwq34.cn CNAME .
 kid-whatsapp.com CNAME .
@@ -2366,6 +2376,8 @@ lemon-whatsapp.com CNAME .
 *.lemon-whatsapp.com CNAME .
 lepiceriemarket.com CNAME .
 *.lepiceriemarket.com CNAME .
+lestvnas.icu CNAME .
+*.lestvnas.icu CNAME .
 level-whatsapp.com CNAME .
 *.level-whatsapp.com CNAME .
 levelonelearns.com CNAME .
@@ -2656,6 +2668,8 @@ monoxide.vip CNAME .
 *.monoxide.vip CNAME .
 morojames1789900170014.0690011.misitiohostgator.com CNAME .
 *.morojames1789900170014.0690011.misitiohostgator.com CNAME .
+movecogi.z16.web.core.windows.net CNAME .
+*.movecogi.z16.web.core.windows.net CNAME .
 mqpml.cn CNAME .
 *.mqpml.cn CNAME .
 mrssfq.cn CNAME .
@@ -2664,6 +2678,8 @@ ms.webhwsapp-whatsapp.com CNAME .
 *.ms.webhwsapp-whatsapp.com CNAME .
 msjsonp.com CNAME .
 *.msjsonp.com CNAME .
+msteamsoss.top CNAME .
+*.msteamsoss.top CNAME .
 msteamsss.com CNAME .
 *.msteamsss.com CNAME .
 msteamvideoinvites.online CNAME .
@@ -3204,6 +3220,8 @@ report-okx.com CNAME .
 *.report-okx.com CNAME .
 reposync.to CNAME .
 *.reposync.to CNAME .
+res65.traffer.net CNAME .
+*.res65.traffer.net CNAME .
 resolver-whatsapp.com CNAME .
 *.resolver-whatsapp.com CNAME .
 restart-whatsapp.com CNAME .
@@ -3364,10 +3382,20 @@ secure-xdomain-38084.dashboard-payment.app CNAME .
 *.secure-xdomain-38084.dashboard-payment.app CNAME .
 secure-xdomain-50869.w-group.shop CNAME .
 *.secure-xdomain-50869.w-group.shop CNAME .
+secure-xdomain-55493.w-group.shop CNAME .
+*.secure-xdomain-55493.w-group.shop CNAME .
 secure-xdomain-69242.dashboard-payment.app CNAME .
 *.secure-xdomain-69242.dashboard-payment.app CNAME .
+secure-xdomain-69342.w-group.shop CNAME .
+*.secure-xdomain-69342.w-group.shop CNAME .
+secure-xdomain-71481.w-group.shop CNAME .
+*.secure-xdomain-71481.w-group.shop CNAME .
 secure-xdomain-82343.w-group.shop CNAME .
 *.secure-xdomain-82343.w-group.shop CNAME .
+secure-xdomain-88755.w-group.shop CNAME .
+*.secure-xdomain-88755.w-group.shop CNAME .
+secure-xdomain-92411.w-group.shop CNAME .
+*.secure-xdomain-92411.w-group.shop CNAME .
 secure-xserver-11523.kurasoo.com CNAME .
 *.secure-xserver-11523.kurasoo.com CNAME .
 secure-xserver-25394.kurasoo.com CNAME .
@@ -3836,6 +3864,8 @@ teamsmeeting.site CNAME .
 *.teamsmeeting.site CNAME .
 teamsmeeting.top CNAME .
 *.teamsmeeting.top CNAME .
+teamsosl123.oss-cn-hongkong.aliyuncs.com CNAME .
+*.teamsosl123.oss-cn-hongkong.aliyuncs.com CNAME .
 techly-whatsapp.com CNAME .
 *.techly-whatsapp.com CNAME .
 techweb-whatsapp.com CNAME .
@@ -3958,6 +3988,8 @@ track.senderbulk.com CNAME .
 *.track.senderbulk.com CNAME .
 tradingengineers.in CNAME .
 *.tradingengineers.in CNAME .
+traffer.net CNAME .
+*.traffer.net CNAME .
 trendcars.be CNAME .
 *.trendcars.be CNAME .
 truecdnnetwork.com CNAME .

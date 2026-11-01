@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-01 13:00:25 (UTC)</th>
+        <th colspan=4>2026-11-01 21:45:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 11 | 416 | 2829 | 45120 |
-| **:globe_with_meridians: Domains** | 11 | 296 | 2366 | 38881 |
-| **:triangular_flag_on_post: IPs** | 1 | 156 | 2067 | 7838 |
-| **:1234: SHA256** | 3 | 111 | 425 | 3031 |
+| **:link: URLs** | 33 | 438 | 2851 | 45142 |
+| **:globe_with_meridians: Domains** | 27 | 312 | 2382 | 38897 |
+| **:triangular_flag_on_post: IPs** | 6 | 161 | 2072 | 7843 |
+| **:1234: SHA256** | 7 | 115 | 429 | 3035 |
 | **:1234: MD5** | 0 | 35 | 98 | 2102 |
 
 </div>
@@ -205,15 +205,15 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 20 | 366 | 3345 | 33402 |
+| **#phishing** | 39 | 385 | 3364 | 33421 |
 | **#Kimsuky** | 0 | 10 | 38 | 13317 |
 | **#DPRK** | 0 | 18 | 20 | 11687 |
-| **#malware** | 11 | 165 | 1122 | 4088 |
+| **#malware** | 26 | 180 | 1137 | 4103 |
 | **#scam** | 0 | 12 | 46 | 3247 |
-| **#C2** | 0 | 29 | 96 | 2204 |
-| **#APT** | 0 | 4 | 33 | 1492 |
+| **#C2** | 2 | 31 | 98 | 2206 |
+| **#APT** | 4 | 8 | 37 | 1496 |
 | **#ClickFix** | 2 | 62 | 194 | 1117 |
-| **#opendir** | 0 | 1 | 35 | 702 |
+| **#opendir** | 2 | 3 | 37 | 704 |
 | **#ransomware** | 2 | 25 | 97 | 691 |
 <!-- TAG_TABLE_END -->
 
@@ -230,16 +230,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [masaomi346](https://x.com/masaomi346) | 9 |
-| **#2** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#3** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#4** | [patialavii](https://x.com/patialavii) | 4 |
-| **#5** | [harugasumi](https://x.com/harugasumi) | 2 |
-| **#6** | [Newsreading1](https://x.com/Newsreading1) | 2 |
-| **#7** | [PhishStats](https://x.com/PhishStats) | 1 |
-| **#8** | [-](https://x.com/-) | 0 |
-| **#9** | [-](https://x.com/-) | 0 |
-| **#10** | [-](https://x.com/-) | 0 |
+| **#1** | [masaomi346](https://x.com/masaomi346) | 19 |
+| **#2** | [Malwarehunterr](https://x.com/Malwarehunterr) | 13 |
+| **#3** | [skocherhan](https://x.com/skocherhan) | 6 |
+| **#4** | [g0njxa](https://x.com/g0njxa) | 5 |
+| **#5** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#6** | [scanmalware](https://x.com/scanmalware) | 4 |
+| **#7** | [patialavii](https://x.com/patialavii) | 4 |
+| **#8** | [harugasumi](https://x.com/harugasumi) | 4 |
+| **#9** | [PhishStats](https://x.com/PhishStats) | 4 |
+| **#10** | [phishunt_io](https://x.com/phishunt_io) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
