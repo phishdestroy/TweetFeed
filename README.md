@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-01 01:30:20 (UTC)</th>
+        <th colspan=4>2026-11-01 01:45:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 2 | 407 | 2820 | 45111 |
-| **:globe_with_meridians: Domains** | 2 | 287 | 2357 | 38872 |
+| **:link: URLs** | 4 | 409 | 2822 | 45113 |
+| **:globe_with_meridians: Domains** | 4 | 289 | 2359 | 38874 |
 | **:triangular_flag_on_post: IPs** | 0 | 155 | 2066 | 7837 |
-| **:1234: SHA256** | 1 | 109 | 423 | 3029 |
+| **:1234: SHA256** | 2 | 110 | 424 | 3030 |
 | **:1234: MD5** | 0 | 35 | 98 | 2102 |
 
 </div>
@@ -205,16 +205,16 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 5 | 351 | 3330 | 33387 |
+| **#phishing** | 8 | 354 | 3333 | 33390 |
 | **#Kimsuky** | 0 | 10 | 38 | 13317 |
 | **#DPRK** | 0 | 18 | 20 | 11687 |
-| **#malware** | 3 | 157 | 1114 | 4080 |
+| **#malware** | 6 | 160 | 1117 | 4083 |
 | **#scam** | 0 | 12 | 46 | 3247 |
 | **#C2** | 0 | 29 | 96 | 2204 |
 | **#APT** | 0 | 4 | 33 | 1492 |
 | **#ClickFix** | 0 | 60 | 192 | 1115 |
 | **#opendir** | 0 | 1 | 35 | 702 |
-| **#ransomware** | 0 | 23 | 95 | 689 |
+| **#ransomware** | 2 | 25 | 97 | 691 |
 <!-- TAG_TABLE_END -->
 
 These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tags being matched. Every one of them is queryable through the [API](#gear-programmatic-access) and has its own [RSS feed](https://tweetfeed.live/rss/tag/phishing.xml); the highest-volume ones also get a curated landing page at [tweetfeed.live/tags/](https://tweetfeed.live/tags/).
@@ -230,9 +230,9 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [masaomi346](https://x.com/masaomi346) | 3 |
+| **#1** | [masaomi346](https://x.com/masaomi346) | 6 |
 | **#2** | [TKemmerling](https://x.com/TKemmerling) | 2 |
-| **#3** | [-](https://x.com/-) | 0 |
+| **#3** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#4** | [-](https://x.com/-) | 0 |
 | **#5** | [-](https://x.com/-) | 0 |
 | **#6** | [-](https://x.com/-) | 0 |

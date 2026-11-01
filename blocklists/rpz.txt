@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2276
-; Updated: 2026-11-01T01:30:19Z
+; Entries: 2278
+; Updated: 2026-11-01T01:45:16Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793496619 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793497516 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -222,6 +222,8 @@ alertbot-lake.vercel.app CNAME .
 *.alertbot-lake.vercel.app CNAME .
 alf-whatsapp.com CNAME .
 *.alf-whatsapp.com CNAME .
+alfrescoarcd-jp.com CNAME .
+*.alfrescoarcd-jp.com CNAME .
 allegro.1200h8h.click CNAME .
 *.allegro.1200h8h.click CNAME .
 allegro.ofe90392.pics CNAME .
@@ -468,6 +470,8 @@ aykfm.cn CNAME .
 *.aykfm.cn CNAME .
 azocnrq.cn CNAME .
 *.azocnrq.cn CNAME .
+azorade.top CNAME .
+*.azorade.top CNAME .
 aztrona18.shop CNAME .
 *.aztrona18.shop CNAME .
 b12.share-dns.net CNAME .
