@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2292
-; Updated: 2026-11-01T15:00:25Z
+; Entries: 2294
+; Updated: 2026-11-01T15:15:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793545225 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793546119 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1838,6 +1838,8 @@ gemini-alarmes.com CNAME .
 *.gemini-alarmes.com CNAME .
 gentle.best CNAME .
 *.gentle.best CNAME .
+geoogle.top CNAME .
+*.geoogle.top CNAME .
 gerardo.desarrollowebalcala.es CNAME .
 *.gerardo.desarrollowebalcala.es CNAME .
 get-fix-here-got.vercel.app CNAME .
@@ -2368,6 +2370,8 @@ lemon-whatsapp.com CNAME .
 *.lemon-whatsapp.com CNAME .
 lepiceriemarket.com CNAME .
 *.lepiceriemarket.com CNAME .
+lestvnas.icu CNAME .
+*.lestvnas.icu CNAME .
 level-whatsapp.com CNAME .
 *.level-whatsapp.com CNAME .
 levelonelearns.com CNAME .
