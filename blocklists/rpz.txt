@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2284
-; Updated: 2026-11-01T13:30:20Z
+; Entries: 2290
+; Updated: 2026-11-01T14:00:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793539820 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793541620 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2658,6 +2658,8 @@ monoxide.vip CNAME .
 *.monoxide.vip CNAME .
 morojames1789900170014.0690011.misitiohostgator.com CNAME .
 *.morojames1789900170014.0690011.misitiohostgator.com CNAME .
+movecogi.z16.web.core.windows.net CNAME .
+*.movecogi.z16.web.core.windows.net CNAME .
 mqpml.cn CNAME .
 *.mqpml.cn CNAME .
 mrssfq.cn CNAME .
@@ -3366,10 +3368,20 @@ secure-xdomain-38084.dashboard-payment.app CNAME .
 *.secure-xdomain-38084.dashboard-payment.app CNAME .
 secure-xdomain-50869.w-group.shop CNAME .
 *.secure-xdomain-50869.w-group.shop CNAME .
+secure-xdomain-55493.w-group.shop CNAME .
+*.secure-xdomain-55493.w-group.shop CNAME .
 secure-xdomain-69242.dashboard-payment.app CNAME .
 *.secure-xdomain-69242.dashboard-payment.app CNAME .
+secure-xdomain-69342.w-group.shop CNAME .
+*.secure-xdomain-69342.w-group.shop CNAME .
+secure-xdomain-71481.w-group.shop CNAME .
+*.secure-xdomain-71481.w-group.shop CNAME .
 secure-xdomain-82343.w-group.shop CNAME .
 *.secure-xdomain-82343.w-group.shop CNAME .
+secure-xdomain-88755.w-group.shop CNAME .
+*.secure-xdomain-88755.w-group.shop CNAME .
+secure-xdomain-92411.w-group.shop CNAME .
+*.secure-xdomain-92411.w-group.shop CNAME .
 secure-xserver-11523.kurasoo.com CNAME .
 *.secure-xserver-11523.kurasoo.com CNAME .
 secure-xserver-25394.kurasoo.com CNAME .

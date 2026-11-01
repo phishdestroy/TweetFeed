@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-01 13:45:18 (UTC)</th>
+        <th colspan=4>2026-11-01 14:00:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 13 | 418 | 2831 | 45122 |
-| **:globe_with_meridians: Domains** | 12 | 297 | 2367 | 38882 |
+| **:link: URLs** | 19 | 424 | 2837 | 45128 |
+| **:globe_with_meridians: Domains** | 18 | 303 | 2373 | 38888 |
 | **:triangular_flag_on_post: IPs** | 2 | 157 | 2068 | 7839 |
 | **:1234: SHA256** | 3 | 111 | 425 | 3031 |
 | **:1234: MD5** | 0 | 35 | 98 | 2102 |
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 24 | 370 | 3349 | 33406 |
+| **#phishing** | 36 | 382 | 3361 | 33418 |
 | **#Kimsuky** | 0 | 10 | 38 | 13317 |
 | **#DPRK** | 0 | 18 | 20 | 11687 |
 | **#malware** | 11 | 165 | 1122 | 4088 |
@@ -230,12 +230,12 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [masaomi346](https://x.com/masaomi346) | 9 |
+| **#1** | [masaomi346](https://x.com/masaomi346) | 19 |
 | **#2** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 | **#3** | [scanmalware](https://x.com/scanmalware) | 4 |
 | **#4** | [patialavii](https://x.com/patialavii) | 4 |
-| **#5** | [PhishStats](https://x.com/PhishStats) | 4 |
-| **#6** | [harugasumi](https://x.com/harugasumi) | 2 |
+| **#5** | [harugasumi](https://x.com/harugasumi) | 4 |
+| **#6** | [PhishStats](https://x.com/PhishStats) | 4 |
 | **#7** | [Newsreading1](https://x.com/Newsreading1) | 2 |
 | **#8** | [phishunt_io](https://x.com/phishunt_io) | 1 |
 | **#9** | [-](https://x.com/-) | 0 |
