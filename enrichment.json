@@ -1,5 +1,5 @@
 {
-  "count": 5822,
+  "count": 5811,
   "dead_tweets": {
     "2103775259568599393": {
       "attempts": 1,
@@ -8,6 +8,10 @@
     "2107773993008669042": {
       "attempts": 2,
       "last_attempt": "2026-10-30T18:40:03Z"
+    },
+    "2111212930066706900": {
+      "attempts": 1,
+      "last_attempt": "2026-11-01T00:40:04Z"
     },
     "2114565057338343930": {
       "attempts": 2,
@@ -3096,22 +3100,6 @@
       "tweet_id": "2115010100037636380",
       "type": "md5",
       "value": "10564eb8b9f64f8c7c3dad1338a2fd48"
-    },
-    "105e97b7db3e3398416f5e73b91a408a6dcea54f1049ff581353984fcfbeda1f": {
-      "confidence": 0.65,
-      "date": "2026-10-01 19:31:14",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "dprk",
-        "malware",
-        "apt"
-      ],
-      "summary": "Suspected North Korean VHDX lure (fake Webex executive roundtable) with associated domain guach[.]net; sample on MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2105742352727810345",
-      "type": "sha256",
-      "value": "105e97b7db3e3398416f5e73b91a408a6dcea54f1049ff581353984fcfbeda1f"
     },
     "106.12.190.248": {
       "confidence": 0.9,
@@ -8646,6 +8634,22 @@
       "type": "ip",
       "value": "16.16.63.239"
     },
+    "16.171.12.83": {
+      "confidence": 0.9,
+      "date": "2026-10-31 19:04:29",
+      "enriched_at": "2026-11-01T00:40:04Z",
+      "family": "Metasploit",
+      "suggested_tags": [
+        "opendir",
+        "c2",
+        "malware"
+      ],
+      "summary": "Open directory on 16.171.12.83:8080 (AWS Stockholm) holding Metasploit Meterpreter payloads, AMSI bypasses, VBS droppers and a Discord webhook-based C2 stager.",
+      "threat_type": "c2",
+      "tweet_id": "2116607259006656760",
+      "type": "ip",
+      "value": "16.171.12.83"
+    },
     "160.153.0.148": {
       "confidence": 0.8,
       "date": "2026-10-18 17:45:17",
@@ -11488,6 +11492,20 @@
       "type": "ip",
       "value": "193.233.220.65"
     },
+    "193.233.75.208": {
+      "confidence": 0.9,
+      "date": "2026-10-31 21:08:20",
+      "enriched_at": "2026-11-01T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site vpnaegis2[.]site hosted on 193.233.75.208 (Germany, AS209207), reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2116638423809147107",
+      "type": "ip",
+      "value": "193.233.75.208"
+    },
     "193.24.123.177": {
       "confidence": 0.7,
       "date": "2026-10-15 20:16:19",
@@ -13524,6 +13542,20 @@
       "type": "ip",
       "value": "212.18.114.31"
     },
+    "212.80.205.63": {
+      "confidence": 0.6,
+      "date": "2026-10-02 12:19:10",
+      "enriched_at": "2026-11-01T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "List of IP addresses reported as C2 panel infrastructure, shared with several malware researchers.",
+      "threat_type": "c2",
+      "tweet_id": "2105996008685748361",
+      "type": "ip",
+      "value": "212.80.205.63"
+    },
     "213.111.185.78": {
       "confidence": 0.6,
       "date": "2026-10-24 07:55:21",
@@ -13537,34 +13569,6 @@
       "tweet_id": "2113902149545644150",
       "type": "ip",
       "value": "213.111.185.78"
-    },
-    "213.145.86.42": {
-      "confidence": 0.55,
-      "date": "2026-10-01 20:24:00",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Two FortiSniffer panels on port 8080 (213.145.86.42, 79.110.49.138), reportedly linked to FortiBleed activity.",
-      "threat_type": "c2",
-      "tweet_id": "2105755632083120279",
-      "type": "ip",
-      "value": "213.145.86.42"
-    },
-    "213.145.86.42:8080": {
-      "confidence": 0.55,
-      "date": "2026-10-01 20:24:00",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Two FortiSniffer panels on port 8080 (213.145.86.42, 79.110.49.138), reportedly linked to FortiBleed activity.",
-      "threat_type": "c2",
-      "tweet_id": "2105755632083120279",
-      "type": "url",
-      "value": "http://213.145.86.42:8080"
     },
     "213.186.33.19": {
       "confidence": 0.85,
@@ -15445,20 +15449,6 @@
       "type": "ip",
       "value": "3.107.75.193"
     },
-    "3.120.154.17": {
-      "confidence": 0.85,
-      "date": "2026-10-01 22:04:37",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New phishing site burysslipway[.]com hosted at 3.120.154.17 (Germany, AS30437), reported via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2105780953872527760",
-      "type": "ip",
-      "value": "3.120.154.17"
-    },
     "3.124.38.174": {
       "confidence": 0.75,
       "date": "2026-10-07 02:48:42",
@@ -15628,6 +15618,36 @@
       "tweet_id": "2115893904373432405",
       "type": "url",
       "value": "http://31.57.38.4:9015"
+    },
+    "31.59.138.144": {
+      "confidence": 0.6,
+      "date": "2026-10-02 14:40:44",
+      "enriched_at": "2026-11-01T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "Malicious LNK file disguised as a .docx agreement fetches aes.js from 31.59.138.144, tagged as APT activity.",
+      "threat_type": "malware",
+      "tweet_id": "2106031636030902298",
+      "type": "ip",
+      "value": "31.59.138.144"
+    },
+    "31.59.138.144/aes.js": {
+      "confidence": 0.6,
+      "date": "2026-10-02 14:40:44",
+      "enriched_at": "2026-11-01T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "Malicious LNK file disguised as a .docx agreement fetches aes.js from 31.59.138.144, tagged as APT activity.",
+      "threat_type": "malware",
+      "tweet_id": "2106031636030902298",
+      "type": "url",
+      "value": "http://31.59.138.144/aes.js"
     },
     "31.59.39.40": {
       "confidence": 0.2,
@@ -30833,34 +30853,6 @@
       "type": "sha256",
       "value": "7858c59e16f13aa313282b409596faf4d141493bbe9d79adcf92117f4dab2ebd"
     },
-    "79.110.49.138": {
-      "confidence": 0.55,
-      "date": "2026-10-01 20:24:00",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Two FortiSniffer panels on port 8080 (213.145.86.42, 79.110.49.138), reportedly linked to FortiBleed activity.",
-      "threat_type": "c2",
-      "tweet_id": "2105755632083120279",
-      "type": "ip",
-      "value": "79.110.49.138"
-    },
-    "79.110.49.138:8080": {
-      "confidence": 0.55,
-      "date": "2026-10-01 20:24:00",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Two FortiSniffer panels on port 8080 (213.145.86.42, 79.110.49.138), reportedly linked to FortiBleed activity.",
-      "threat_type": "c2",
-      "tweet_id": "2105755632083120279",
-      "type": "url",
-      "value": "http://79.110.49.138:8080"
-    },
     "79.110.49.17": {
       "confidence": 0.6,
       "date": "2026-10-17 18:02:08",
@@ -45778,21 +45770,6 @@
       "type": "url",
       "value": "https://buildpoint.blob.core.windows.net/stackguard/netpatch.msi"
     },
-    "burysslipway.com": {
-      "confidence": 0.8,
-      "date": "2026-10-01 20:06:38",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fake Kelly Clarkson weight-loss story from burysslipway[.]com leading to an S3-hosted page; scam/phishing lure.",
-      "threat_type": "phishing",
-      "tweet_id": "2105751260632879572",
-      "type": "domain",
-      "value": "burysslipway.com"
-    },
     "businesshire.top": {
       "confidence": 0.6,
       "date": "2026-10-11 12:25:11",
@@ -46351,36 +46328,6 @@
       "type": "sha256",
       "value": "c082af1dd7a1fd3d8738e7897281503971302e3d3dad8f46771ae4127aefb20a"
     },
-    "c2.teamzeroday.net": {
-      "confidence": 0.6,
-      "date": "2026-10-01 21:04:54",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "c2"
-      ],
-      "summary": "Open directory exposed at c2.teamzeroday[.]net under /bin/, possibly hosting binaries or tooling.",
-      "threat_type": "other",
-      "tweet_id": "2105765925324763153",
-      "type": "domain",
-      "value": "c2.teamzeroday.net"
-    },
-    "c2.teamzeroday.net/bin": {
-      "confidence": 0.6,
-      "date": "2026-10-01 21:04:54",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "c2"
-      ],
-      "summary": "Open directory exposed at c2.teamzeroday[.]net under /bin/, possibly hosting binaries or tooling.",
-      "threat_type": "other",
-      "tweet_id": "2105765925324763153",
-      "type": "url",
-      "value": "http://c2.teamzeroday.net/bin/"
-    },
     "c2293ae79e10df56b1630113ee9329dc31d18ba79285a8c51095a40176571142": {
       "confidence": 0.4,
       "date": "2026-10-22 17:12:26",
@@ -46589,21 +46536,20 @@
       "type": "sha256",
       "value": "c813ceb4bda2ab3371329fa4c786679f40b0a79a3483f673bb7ee94a190dcae0"
     },
-    "c84508ae0813faef6ad59dde56c648f327b162938ff3e7c7526b7ab81ff82ea7": {
+    "c90dbfb630d06f03fbd6ac066a1c9d20f65b42c323beb182631aee9bc13f1fd9": {
       "confidence": 0.8,
-      "date": "2026-10-01 22:40:51",
-      "enriched_at": "2026-10-02T00:40:04Z",
+      "date": "2026-10-31 19:45:04",
+      "enriched_at": "2026-11-01T00:40:04Z",
       "family": null,
       "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
+        "malware",
+        "trojan"
       ],
-      "summary": "Android malware disguised as the Japanese e-Tax service, distributed via multiple -jp.com phishing domains; a sample hash is reported on VirusTotal.",
+      "summary": "Fake Microsoft Teams meeting page spoofing the Microsoft Store auto-downloads Teams_Installer.exe, urges user to run it, and tracks visitors via Telegram notifications.",
       "threat_type": "malware",
-      "tweet_id": "2105790071987425610",
+      "tweet_id": "2116617471994261848",
       "type": "sha256",
-      "value": "c84508ae0813faef6ad59dde56c648f327b162938ff3e7c7526b7ab81ff82ea7"
+      "value": "c90dbfb630d06f03fbd6ac066a1c9d20f65b42c323beb182631aee9bc13f1fd9"
     },
     "c92240b958521596a99126e27b707962": {
       "confidence": 0.85,
@@ -48308,6 +48254,22 @@
       "type": "domain",
       "value": "cloudenterpriseve.com"
     },
+    "cloudflare.vc": {
+      "confidence": 0.75,
+      "date": "2026-10-09 09:36:31",
+      "enriched_at": "2026-11-01T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer",
+        "malware"
+      ],
+      "summary": "Lure domain cloudflare[.]vc delivering a Rust-based infostealer; loader injects a DLL into explorer.exe and includes an anti-VM message.",
+      "threat_type": "malware",
+      "tweet_id": "2108478801277764011",
+      "type": "domain",
+      "value": "cloudflare.vc"
+    },
     "cloudlink-whatsapp.com": {
       "confidence": 0.7,
       "date": "2026-10-20 16:34:59",
@@ -49367,21 +49329,6 @@
       "tweet_id": "2108315634975310033",
       "type": "domain",
       "value": "crystalmnhomes.com"
-    },
-    "cs21613.s3.us-east-1.amazonaws.com": {
-      "confidence": 0.8,
-      "date": "2026-10-01 20:06:38",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fake Kelly Clarkson weight-loss story from burysslipway[.]com leading to an S3-hosted page; scam/phishing lure.",
-      "threat_type": "phishing",
-      "tweet_id": "2105751260632879572",
-      "type": "domain",
-      "value": "cs21613.s3.us-east-1.amazonaws.com"
     },
     "csg-soft.com": {
       "confidence": 0.8,
@@ -51611,34 +51558,6 @@
       "type": "domain",
       "value": "download.sakenlogistics.com"
     },
-    "download.tender-confirmation.com": {
-      "confidence": 0.7,
-      "date": "2026-10-01 21:25:22",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Open directory exposed at download.tender-confirmation[.]com on port 8080, path /file/.",
-      "threat_type": "other",
-      "tweet_id": "2105771076219535499",
-      "type": "domain",
-      "value": "download.tender-confirmation.com"
-    },
-    "download.tender-confirmation.com:8080/file": {
-      "confidence": 0.7,
-      "date": "2026-10-01 21:25:22",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Open directory exposed at download.tender-confirmation[.]com on port 8080, path /file/.",
-      "threat_type": "other",
-      "tweet_id": "2105771076219535499",
-      "type": "url",
-      "value": "http://download.tender-confirmation.com:8080/file/"
-    },
     "download.transunionbiba.lat": {
       "confidence": 0.6,
       "date": "2026-10-23 21:45:33",
@@ -52822,6 +52741,20 @@
       "tweet_id": "2115375353158136270",
       "type": "url",
       "value": "http://efanxian.com/ns"
+    },
+    "efine-post.com": {
+      "confidence": 0.3,
+      "date": "2026-10-09 12:45:45",
+      "enriched_at": "2026-11-01T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt"
+      ],
+      "summary": "Suspicious URL on efine-post[.]com tagged as APT-related, with no further context provided.",
+      "threat_type": "other",
+      "tweet_id": "2108539415140151548",
+      "type": "domain",
+      "value": "efine-post.com"
     },
     "efine-post.com/d/mdqehmdzhzdfsf4r0ghbjg": {
       "confidence": 0.3,
@@ -56601,20 +56534,6 @@
       "type": "url",
       "value": "https://gerardo.desarrollowebalcala.es/ip/index.php?sid=df26277ab0cdf62c179305f2bf4fe8bc"
     },
-    "get-fix-here-got.vercel.app": {
-      "confidence": 0.6,
-      "date": "2026-10-02 00:30:46",
-      "enriched_at": "2026-10-02T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Vercel-hosted site flagged as a confirmed scam by an automated web scanner.",
-      "threat_type": "scam",
-      "tweet_id": "2105817733233328320",
-      "type": "domain",
-      "value": "get-fix-here-got.vercel.app"
-    },
     "get-googlemeet.com": {
       "confidence": 0.75,
       "date": "2026-10-21 16:40:05",
@@ -57482,22 +57401,6 @@
       "type": "domain",
       "value": "groups.webstatici-whatsapp.com"
     },
-    "guach.net": {
-      "confidence": 0.65,
-      "date": "2026-10-01 19:31:14",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "dprk",
-        "malware",
-        "apt"
-      ],
-      "summary": "Suspected North Korean VHDX lure (fake Webex executive roundtable) with associated domain guach[.]net; sample on MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2105742352727810345",
-      "type": "domain",
-      "value": "guach.net"
-    },
     "guangrongsuiy-jp.com": {
       "confidence": 0.7,
       "date": "2026-10-10 22:58:16",
@@ -57627,6 +57530,36 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "gw162.online"
+    },
+    "gwkinvestmicrosoftteams.com": {
+      "confidence": 0.8,
+      "date": "2026-10-31 19:45:04",
+      "enriched_at": "2026-11-01T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Microsoft Teams meeting page spoofing the Microsoft Store auto-downloads Teams_Installer.exe, urges user to run it, and tracks visitors via Telegram notifications.",
+      "threat_type": "malware",
+      "tweet_id": "2116617471994261848",
+      "type": "domain",
+      "value": "gwkinvestmicrosoftteams.com"
+    },
+    "gwkinvestmicrosoftteams.com/teams_installer.exe": {
+      "confidence": 0.8,
+      "date": "2026-10-31 19:45:04",
+      "enriched_at": "2026-11-01T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Microsoft Teams meeting page spoofing the Microsoft Store auto-downloads Teams_Installer.exe, urges user to run it, and tracks visitors via Telegram notifications.",
+      "threat_type": "malware",
+      "tweet_id": "2116617471994261848",
+      "type": "url",
+      "value": "https://gwkinvestmicrosoftteams.com/Teams_Installer.exe"
     },
     "gzlweb-whatsapp.com": {
       "confidence": 0.65,
@@ -57850,6 +57783,20 @@
       "type": "domain",
       "value": "hardly-signatures-loc-surf.trycloudflare.com"
     },
+    "hardwood-studio-obviously-briefing.trycloudflare.com": {
+      "confidence": 0.55,
+      "date": "2026-10-07 12:13:02",
+      "enriched_at": "2026-11-01T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malware sample 'winhost.exe' reported on abuse.ch, using a trycloudflare.com tunnel subdomain as its associated domain.",
+      "threat_type": "malware",
+      "tweet_id": "2107806405767967081",
+      "type": "domain",
+      "value": "hardwood-studio-obviously-briefing.trycloudflare.com"
+    },
     "havelbeenpwned.net": {
       "confidence": 0.7,
       "date": "2026-10-20 13:59:03",
@@ -57896,20 +57843,6 @@
       "tweet_id": "2108132960855593389",
       "type": "domain",
       "value": "hdhdandan.duckdns.org"
-    },
-    "health.vitalhealthportal.com": {
-      "confidence": 0.85,
-      "date": "2026-10-01 20:10:14",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing lure impersonating a ClearChoice dental offer, originating from health[.]vitalhealthportal[.]com and redirecting to wealthstepguide[.]com.",
-      "threat_type": "phishing",
-      "tweet_id": "2105752168737513828",
-      "type": "domain",
-      "value": "health.vitalhealthportal.com"
     },
     "healthbalancegrow.net": {
       "confidence": 0.7,
@@ -57997,6 +57930,18 @@
       "tweet_id": "2107315437965037941",
       "type": "url",
       "value": "https://hekimaplastic.co.tz/ima"
+    },
+    "heleket.com": {
+      "confidence": 0.4,
+      "date": "2026-10-31 20:57:32",
+      "enriched_at": "2026-11-01T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Report that bulletproof hosting providers use heleket.com, linked to post-CrazyRDP takedown bulletproof RDP infrastructure migration.",
+      "threat_type": "other",
+      "tweet_id": "2116635707431342544",
+      "type": "domain",
+      "value": "heleket.com"
     },
     "helensolution.info": {
       "confidence": 0.3,
@@ -58845,22 +58790,6 @@
       "type": "domain",
       "value": "huipiaoxia-jp.com"
     },
-    "hushedplai-jp.com": {
-      "confidence": 0.8,
-      "date": "2026-10-01 22:40:51",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax service, distributed via multiple -jp.com phishing domains; a sample hash is reported on VirusTotal.",
-      "threat_type": "malware",
-      "tweet_id": "2105790071987425610",
-      "type": "domain",
-      "value": "hushedplai-jp.com"
-    },
     "hvbaqrat.cn": {
       "confidence": 0.75,
       "date": "2026-10-20 23:11:21",
@@ -59403,20 +59332,6 @@
       "type": "domain",
       "value": "interseq.at"
     },
-    "investkursonline.com": {
-      "confidence": 0.85,
-      "date": "2026-10-01 23:17:27",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Cloud storage suspension phishing emails sent from investkursonline[.]com redirect victims to pridemodularhomesllc[.]info.",
-      "threat_type": "phishing",
-      "tweet_id": "2105799281378766907",
-      "type": "domain",
-      "value": "investkursonline.com"
-    },
     "invitationlauchjczoommeeting.com": {
       "confidence": 0.8,
       "date": "2026-10-07 04:24:08",
@@ -59937,22 +59852,6 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "jgsbdrd.cc"
-    },
-    "jiangchashi-jp.com": {
-      "confidence": 0.8,
-      "date": "2026-10-01 22:40:51",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax service, distributed via multiple -jp.com phishing domains; a sample hash is reported on VirusTotal.",
-      "threat_type": "malware",
-      "tweet_id": "2105790071987425610",
-      "type": "domain",
-      "value": "jiangchashi-jp.com"
     },
     "jidianzz.com": {
       "confidence": 0.9,
@@ -65262,6 +65161,21 @@
       "type": "domain",
       "value": "nzctjvr.com"
     },
+    "obracertaatacado.com": {
+      "confidence": 0.85,
+      "date": "2026-10-12 00:18:34",
+      "enriched_at": "2026-11-01T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Fraudulent Brazilian wholesale website obracertaatacado[.]com, impersonating a company registered recently, reported as a phishing scam.",
+      "threat_type": "scam",
+      "tweet_id": "2109438543701389527",
+      "type": "domain",
+      "value": "obracertaatacado.com"
+    },
     "oceanvw.click": {
       "confidence": 0.9,
       "date": "2026-10-12 14:18:17",
@@ -67006,20 +66920,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "pride-whatsapp.com"
-    },
-    "pridemodularhomesllc.info": {
-      "confidence": 0.85,
-      "date": "2026-10-01 23:17:27",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Cloud storage suspension phishing emails sent from investkursonline[.]com redirect victims to pridemodularhomesllc[.]info.",
-      "threat_type": "phishing",
-      "tweet_id": "2105799281378766907",
-      "type": "domain",
-      "value": "pridemodularhomesllc.info"
     },
     "primeseriesservice.com": {
       "confidence": 0.8,
@@ -72959,6 +72859,20 @@
       "type": "domain",
       "value": "style-whatsapp.com"
     },
+    "stylishhomegallery.com": {
+      "confidence": 0.8,
+      "date": "2026-10-03 23:41:41",
+      "enriched_at": "2026-11-01T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing lure using a debt-relief theme redirects from creditashfield[.]info to stylishhomegallery[.]com, aiming to collect financial data.",
+      "threat_type": "phishing",
+      "tweet_id": "2106530156462621107",
+      "type": "domain",
+      "value": "stylishhomegallery.com"
+    },
     "styvlor.cfd": {
       "confidence": 0.9,
       "date": "2026-10-26 00:17:28",
@@ -76893,20 +76807,6 @@
       "type": "domain",
       "value": "wazirxr.com"
     },
-    "wealthstepguide.com": {
-      "confidence": 0.85,
-      "date": "2026-10-01 20:10:14",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing lure impersonating a ClearChoice dental offer, originating from health[.]vitalhealthportal[.]com and redirecting to wealthstepguide[.]com.",
-      "threat_type": "phishing",
-      "tweet_id": "2105752168737513828",
-      "type": "domain",
-      "value": "wealthstepguide.com"
-    },
     "weareevokeafrica.com": {
       "confidence": 0.6,
       "date": "2026-10-07 08:40:36",
@@ -78026,22 +77926,6 @@
       "tweet_id": "2108075199564275893",
       "type": "domain",
       "value": "wechat.proxy08.com"
-    },
-    "weifenqianbao-jp.com": {
-      "confidence": 0.8,
-      "date": "2026-10-01 22:40:51",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax service, distributed via multiple -jp.com phishing domains; a sample hash is reported on VirusTotal.",
-      "threat_type": "malware",
-      "tweet_id": "2105790071987425610",
-      "type": "domain",
-      "value": "weifenqianbao-jp.com"
     },
     "welcome-whatsapp.com": {
       "confidence": 0.75,
@@ -79431,22 +79315,6 @@
       "type": "url",
       "value": "http://x3pf5mva2liano2rmgnkf5ktbe0efzvv.lambda-url.ap-south-1.on.aws/e-Challal"
     },
-    "xasltqmhggfw-jp.com": {
-      "confidence": 0.8,
-      "date": "2026-10-01 22:40:51",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax service, distributed via multiple -jp.com phishing domains; a sample hash is reported on VirusTotal.",
-      "threat_type": "malware",
-      "tweet_id": "2105790071987425610",
-      "type": "domain",
-      "value": "xasltqmhggfw-jp.com"
-    },
     "xaz2.com": {
       "confidence": 0.6,
       "date": "2026-10-14 10:43:00",
@@ -79615,22 +79483,6 @@
       "tweet_id": "2110490637070111188",
       "type": "domain",
       "value": "xionamiconm.com"
-    },
-    "xiyuegongju-jp.com": {
-      "confidence": 0.8,
-      "date": "2026-10-01 22:40:51",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax service, distributed via multiple -jp.com phishing domains; a sample hash is reported on VirusTotal.",
-      "threat_type": "malware",
-      "tweet_id": "2105790071987425610",
-      "type": "domain",
-      "value": "xiyuegongju-jp.com"
     },
     "xl.goja.click": {
       "confidence": 0.9,
@@ -79868,22 +79720,6 @@
       "tweet_id": "2109810976212345008",
       "type": "domain",
       "value": "yamagatasilk.com"
-    },
-    "yaojinhouse-jp.com": {
-      "confidence": 0.8,
-      "date": "2026-10-01 22:40:51",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax service, distributed via multiple -jp.com phishing domains; a sample hash is reported on VirusTotal.",
-      "threat_type": "malware",
-      "tweet_id": "2105790071987425610",
-      "type": "domain",
-      "value": "yaojinhouse-jp.com"
     },
     "ygz.bet": {
       "confidence": 0.93,
@@ -81253,6 +81089,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-31T18:40:03Z",
+  "generated_at": "2026-11-01T00:40:04Z",
   "window_days": 30
 }
