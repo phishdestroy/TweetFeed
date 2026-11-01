@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-01 02:15:19 (UTC)</th>
+        <th colspan=4>2026-11-01 02:30:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 4 | 409 | 2822 | 45113 |
-| **:globe_with_meridians: Domains** | 4 | 289 | 2359 | 38874 |
+| **:link: URLs** | 5 | 410 | 2823 | 45114 |
+| **:globe_with_meridians: Domains** | 5 | 290 | 2360 | 38875 |
 | **:triangular_flag_on_post: IPs** | 0 | 155 | 2066 | 7837 |
 | **:1234: SHA256** | 2 | 110 | 424 | 3030 |
 | **:1234: MD5** | 0 | 35 | 98 | 2102 |
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 8 | 354 | 3333 | 33390 |
+| **#phishing** | 10 | 356 | 3335 | 33392 |
 | **#Kimsuky** | 0 | 10 | 38 | 13317 |
 | **#DPRK** | 0 | 18 | 20 | 11687 |
 | **#malware** | 6 | 160 | 1117 | 4083 |
@@ -231,7 +231,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [masaomi346](https://x.com/masaomi346) | 6 |
-| **#2** | [TKemmerling](https://x.com/TKemmerling) | 2 |
+| **#2** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 | **#3** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#4** | [-](https://x.com/-) | 0 |
 | **#5** | [-](https://x.com/-) | 0 |
