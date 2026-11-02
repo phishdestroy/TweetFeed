@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-02 12:45:19 (UTC)</th>
+        <th colspan=4>2026-11-02 13:00:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 53 | 422 | 2831 | 45074 |
-| **:globe_with_meridians: Domains** | 43 | 306 | 2361 | 38828 |
+| **:link: URLs** | 64 | 433 | 2842 | 45085 |
+| **:globe_with_meridians: Domains** | 54 | 317 | 2372 | 38839 |
 | **:triangular_flag_on_post: IPs** | 7 | 128 | 2014 | 7837 |
 | **:1234: SHA256** | 14 | 112 | 433 | 3046 |
 | **:1234: MD5** | 3 | 38 | 97 | 2104 |
@@ -231,15 +231,15 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 41 |
-| **#2** | [tdatwja](https://x.com/tdatwja) | 16 |
-| **#3** | [bomccss](https://x.com/bomccss) | 13 |
-| **#4** | [scanmalware](https://x.com/scanmalware) | 10 |
-| **#5** | [Fact_Finder03](https://x.com/Fact_Finder03) | 7 |
-| **#6** | [smica83](https://x.com/smica83) | 6 |
-| **#7** | [masaomi346](https://x.com/masaomi346) | 5 |
-| **#8** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#9** | [Now_on_VT](https://x.com/Now_on_VT) | 4 |
-| **#10** | [orlof_v](https://x.com/orlof_v) | 4 |
+| **#2** | [TheM3gatr0n](https://x.com/TheM3gatr0n) | 22 |
+| **#3** | [tdatwja](https://x.com/tdatwja) | 16 |
+| **#4** | [bomccss](https://x.com/bomccss) | 13 |
+| **#5** | [scanmalware](https://x.com/scanmalware) | 10 |
+| **#6** | [Fact_Finder03](https://x.com/Fact_Finder03) | 7 |
+| **#7** | [smica83](https://x.com/smica83) | 6 |
+| **#8** | [masaomi346](https://x.com/masaomi346) | 5 |
+| **#9** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#10** | [Now_on_VT](https://x.com/Now_on_VT) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
