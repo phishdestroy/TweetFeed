@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2241
-; Updated: 2026-11-02T04:00:27Z
+; Entries: 2243
+; Updated: 2026-11-02T06:30:21Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793592027 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793601021 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2848,6 +2848,8 @@ pdf-viewer-five-virid.vercel.app CNAME .
 *.pdf-viewer-five-virid.vercel.app CNAME .
 pdfdocusignersdocument.info CNAME .
 *.pdfdocusignersdocument.info CNAME .
+pdfshwodas.top CNAME .
+*.pdfshwodas.top CNAME .
 pemfinsideo-jp.com CNAME .
 *.pemfinsideo-jp.com CNAME .
 perfectgrillguide.com CNAME .
@@ -4250,6 +4252,8 @@ winatp-gw-neu-cdfwbue5cvdsfpa5.a02.azurefd.net CNAME .
 *.winatp-gw-neu-cdfwbue5cvdsfpa5.a02.azurefd.net CNAME .
 windows.webapi-whatsapp.com CNAME .
 *.windows.webapi-whatsapp.com CNAME .
+winrarsdwee.top CNAME .
+*.winrarsdwee.top CNAME .
 winter-dawn-c288.suplayer810.workers.dev CNAME .
 *.winter-dawn-c288.suplayer810.workers.dev CNAME .
 winupdateconf.cfd CNAME .
