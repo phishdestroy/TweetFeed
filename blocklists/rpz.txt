@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2252
-; Updated: 2026-11-02T09:00:24Z
+; Entries: 2270
+; Updated: 2026-11-02T11:00:21Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793610024 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793617221 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -146,6 +146,8 @@ aesmartdata.cloud CNAME .
 *.aesmartdata.cloud CNAME .
 aexshorthood.cactx5.info CNAME .
 *.aexshorthood.cactx5.info CNAME .
+afatshacojps.org CNAME .
+*.afatshacojps.org CNAME .
 afromantic.com CNAME .
 *.afromantic.com CNAME .
 agahamlwbxqqgnrcczph.supabase.co CNAME .
@@ -486,6 +488,14 @@ bcyukonexpeditions.com CNAME .
 *.bcyukonexpeditions.com CNAME .
 beaconpromotions.com.na CNAME .
 *.beaconpromotions.com.na CNAME .
+bepnet.in CNAME .
+*.bepnet.in CNAME .
+bepxt.com CNAME .
+*.bepxt.com CNAME .
+bepxt.in CNAME .
+*.bepxt.in CNAME .
+bepxt.online CNAME .
+*.bepxt.online CNAME .
 bestdiscountzone.com CNAME .
 *.bestdiscountzone.com CNAME .
 bestpartneha-jp.com CNAME .
@@ -508,6 +518,12 @@ binance-com-l3.referrering.workers.dev CNAME .
 *.binance-com-l3.referrering.workers.dev CNAME .
 binance-com-nk.refers.workers.dev CNAME .
 *.binance-com-nk.refers.workers.dev CNAME .
+binancecheck.com CNAME .
+*.binancecheck.com CNAME .
+binancecheck.online CNAME .
+*.binancecheck.online CNAME .
+binanceverify.live CNAME .
+*.binanceverify.live CNAME .
 birch-nuiis-d9q37.xyz CNAME .
 *.birch-nuiis-d9q37.xyz CNAME .
 bixsgrb.cn CNAME .
@@ -618,6 +634,18 @@ bnb-whatsapp.com CNAME .
 *.bnb-whatsapp.com CNAME .
 bnb.trx-exchange.com CNAME .
 *.bnb.trx-exchange.com CNAME .
+bnbet.online CNAME .
+*.bnbet.online CNAME .
+bnbone.live CNAME .
+*.bnbone.live CNAME .
+bnbtest20.online CNAME .
+*.bnbtest20.online CNAME .
+bnbvf.com CNAME .
+*.bnbvf.com CNAME .
+bnbvf.org CNAME .
+*.bnbvf.org CNAME .
+bnbxt.org CNAME .
+*.bnbxt.org CNAME .
 bnc-whatsapp.com CNAME .
 *.bnc-whatsapp.com CNAME .
 bnd-whatsapp.com CNAME .
@@ -736,6 +764,8 @@ browser-whatsapp.com CNAME .
 *.browser-whatsapp.com CNAME .
 bryweb-whatsapp.com CNAME .
 *.bryweb-whatsapp.com CNAME .
+bscactive.net CNAME .
+*.bscactive.net CNAME .
 btexiws.cn CNAME .
 *.btexiws.cn CNAME .
 btrf36.cc CNAME .
@@ -3998,6 +4028,8 @@ v2-whatsapp.com CNAME .
 *.v2-whatsapp.com CNAME .
 v3-whatsapp.com CNAME .
 *.v3-whatsapp.com CNAME .
+v4.bnbvf.com CNAME .
+*.v4.bnbvf.com CNAME .
 v6-whatsapp.com CNAME .
 *.v6-whatsapp.com CNAME .
 v7-whatsapp.com CNAME .
@@ -4224,6 +4256,10 @@ websec-whatsapp.com CNAME .
 *.websec-whatsapp.com CNAME .
 webserver-whatsapp.com CNAME .
 *.webserver-whatsapp.com CNAME .
+website-b536f06a.svf.kaf.mybluehost.me CNAME .
+*.website-b536f06a.svf.kaf.mybluehost.me CNAME .
+website-d8644cc4.svf.kaf.mybluehost.me CNAME .
+*.website-d8644cc4.svf.kaf.mybluehost.me CNAME .
 webstart-whatsapp.com CNAME .
 *.webstart-whatsapp.com CNAME .
 webstream-whatsapp.com CNAME .
