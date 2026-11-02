@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2246
-; Updated: 2026-11-02T07:15:18Z
+; Entries: 2247
+; Updated: 2026-11-02T07:30:23Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793603718 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793604623 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3004,6 +3004,8 @@ pub-f4a21afc244c4ddda2b708bacf755479.r2.dev CNAME .
 *.pub-f4a21afc244c4ddda2b708bacf755479.r2.dev CNAME .
 pubad-gov-lk.net-src.info CNAME .
 *.pubad-gov-lk.net-src.info CNAME .
+pussycat.online CNAME .
+*.pussycat.online CNAME .
 pususufim.z28.web.core.windows.net CNAME .
 *.pususufim.z28.web.core.windows.net CNAME .
 pvnweb-whatsapp.com CNAME .
