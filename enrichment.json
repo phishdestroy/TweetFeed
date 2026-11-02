@@ -1,5 +1,5 @@
 {
-  "count": 5693,
+  "count": 5735,
   "dead_tweets": {
     "2103775259568599393": {
       "attempts": 1,
@@ -19,6 +19,21 @@
     }
   },
   "entries": {
+    "006f0ba963a63d9b2822b139ac806dee71eb6a3382b1b1db74b5cf2e60b57a51": {
+      "confidence": 0.7,
+      "date": "2026-11-02 11:48:37",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "Lotus Blossom-attributed samples linked to the Notepad++ supply chain attack (2025-06 to 2025-12), found via Kaibou Search; includes related stager URLs.",
+      "threat_type": "malware",
+      "tweet_id": "2117222345706213637",
+      "type": "sha256",
+      "value": "006f0ba963a63d9b2822b139ac806dee71eb6a3382b1b1db74b5cf2e60b57a51"
+    },
     "00a805c4fa27abcb216a3932a2566ead": {
       "confidence": 0.75,
       "date": "2026-10-13 10:04:37",
@@ -355,6 +370,20 @@
       "tweet_id": "2107409449761575008",
       "type": "sha256",
       "value": "0adc3cb190e10f61005d7a0c12cfe6f4f8e082a26a1719e0df560dbd61e81613"
+    },
+    "0ae0977e0a2c707e9435b6acfea4da11": {
+      "confidence": 0.5,
+      "date": "2026-11-02 08:45:46",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "MD5 hashes of g2m.dll samples and a fake invoice PDF executable from a Japanese ScreenConnect-related malware campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2117176329112322489",
+      "type": "md5",
+      "value": "0ae0977e0a2c707e9435b6acfea4da11"
     },
     "0bed6030ebde445f332b005bb09c5a2a": {
       "confidence": 0.5,
@@ -783,6 +812,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "103.111.225.67"
+    },
+    "103.112.98.105": {
+      "confidence": 0.6,
+      "date": "2026-11-02 06:06:14",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Operator on one IP runs fake software download sites (WinRAR, WPS, Chrome and others) serving ZIPs from Aliyun OSS buckets.",
+      "threat_type": "malware",
+      "tweet_id": "2117136178386268342",
+      "type": "url",
+      "value": "http://103.112.98.105"
     },
     "103.114.20.51": {
       "confidence": 0.5,
@@ -6869,34 +6912,6 @@
       "type": "ip",
       "value": "147.182.183.163"
     },
-    "147.45.39.43": {
-      "confidence": 0.5,
-      "date": "2026-10-03 10:47:58",
-      "enriched_at": "2026-10-03T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Exposed web control panel titled 'SPECTER - \u041f\u0430\u043d\u0435\u043b\u044c \u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f' on 147.45.39.43:7771 with Russian/Portuguese UI strings, likely a malware management panel.",
-      "threat_type": "c2",
-      "tweet_id": "2106335444946542920",
-      "type": "ip",
-      "value": "147.45.39.43"
-    },
-    "147.45.39.43:7771": {
-      "confidence": 0.5,
-      "date": "2026-10-03 10:47:58",
-      "enriched_at": "2026-10-03T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Exposed web control panel titled 'SPECTER - \u041f\u0430\u043d\u0435\u043b\u044c \u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f' on 147.45.39.43:7771 with Russian/Portuguese UI strings, likely a malware management panel.",
-      "threat_type": "c2",
-      "tweet_id": "2106335444946542920",
-      "type": "url",
-      "value": "http://147.45.39.43:7771"
-    },
     "147.93.171.213": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -7808,20 +7823,6 @@
       "tweet_id": "2112877068421898549",
       "type": "url",
       "value": "http://155.117.98.165:8888"
-    },
-    "155.138.162.205": {
-      "confidence": 0.8,
-      "date": "2026-10-03 12:14:38",
-      "enriched_at": "2026-10-03T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site hosted at collateralvalueassessment[.]info on a Vultr-hosted IP in the United States, reported via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2106357254077534225",
-      "type": "ip",
-      "value": "155.138.162.205"
     },
     "155.254.105.7": {
       "confidence": 0.6,
@@ -10377,6 +10378,20 @@
       "type": "md5",
       "value": "17c25f66c5c62160524b2c6991f21be8"
     },
+    "17cf22f3fd0f5189856bb2f5ba91bb4b05838f3a19f5d25f81ee3bccccb8c19e": {
+      "confidence": 0.5,
+      "date": "2026-11-02 10:53:54",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Undetected malicious JavaScript file with Ukrainian-language lure about a security status report, seen from Ukraine and Russia, with associated domain.",
+      "threat_type": "malware",
+      "tweet_id": "2117208574006862025",
+      "type": "sha256",
+      "value": "17cf22f3fd0f5189856bb2f5ba91bb4b05838f3a19f5d25f81ee3bccccb8c19e"
+    },
     "18.166.30.239": {
       "confidence": 0.7,
       "date": "2026-10-15 14:29:12",
@@ -10392,6 +10407,77 @@
       "tweet_id": "2110739774449602637",
       "type": "ip",
       "value": "18.166.30.239"
+    },
+    "18.177.252.41": {
+      "confidence": 0.7,
+      "date": "2026-11-02 08:45:47",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "ScreenConnect client setup MSI hosted on two AWS IPs on port 8040, used as malware delivery infrastructure in a Japanese email campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2117176331142348868",
+      "type": "ip",
+      "value": "18.177.252.41"
+    },
+    "18.177.252.41:8040/bin/screenconnect.clientsetup.msi?e=access&y=guest": {
+      "confidence": 0.7,
+      "date": "2026-11-02 08:45:47",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "ScreenConnect client setup MSI hosted on two AWS IPs on port 8040, used as malware delivery infrastructure in a Japanese email campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2117176331142348868",
+      "type": "url",
+      "value": "http://18.177.252.41:8040/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
+    },
+    "18.178.245.211": {
+      "confidence": 0.7,
+      "date": "2026-11-02 08:45:47",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "ScreenConnect client setup MSI hosted on two AWS IPs on port 8040, used as malware delivery infrastructure in a Japanese email campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2117176331142348868",
+      "type": "ip",
+      "value": "18.178.245.211"
+    },
+    "18.178.245.211:8040/bin/screenconnect.clientsetup.msi?e=access&y=guest": {
+      "confidence": 0.7,
+      "date": "2026-11-02 08:45:47",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "ScreenConnect client setup MSI hosted on two AWS IPs on port 8040, used as malware delivery infrastructure in a Japanese email campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2117176331142348868",
+      "type": "url",
+      "value": "http://18.178.245.211:8040/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
+    },
+    "18.178.245.211:8041": {
+      "confidence": 0.7,
+      "date": "2026-11-02 10:07:31",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malicious ScreenConnect client installer hosted on an AWS IP with a related C2 endpoint; used in Japanese-language malware email campaigns.",
+      "threat_type": "malware",
+      "tweet_id": "2117196900009173313",
+      "type": "url",
+      "value": "http://18.178.245.211:8041"
     },
     "18.190.253.114": {
       "confidence": 0.6,
@@ -11027,6 +11113,22 @@
       "type": "ip",
       "value": "191.217.250.30"
     },
+    "192-166-82-213.plesk.page": {
+      "confidence": 0.5,
+      "date": "2026-11-02 06:34:23",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "c2",
+        "infostealer"
+      ],
+      "summary": "Suspected stealer C2 panel on an IP address and associated plesk.page hostnames.",
+      "threat_type": "c2",
+      "tweet_id": "2117143266449899993",
+      "type": "domain",
+      "value": "192-166-82-213.plesk.page"
+    },
     "192.162.199.171": {
       "confidence": 0.2,
       "date": "2026-10-09 09:13:50",
@@ -11038,6 +11140,22 @@
       "tweet_id": "2108486083851739244",
       "type": "url",
       "value": "http://192.162.199.171"
+    },
+    "192.166.82.213": {
+      "confidence": 0.5,
+      "date": "2026-11-02 06:34:23",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "c2",
+        "infostealer"
+      ],
+      "summary": "Suspected stealer C2 panel on an IP address and associated plesk.page hostnames.",
+      "threat_type": "c2",
+      "tweet_id": "2117143266449899993",
+      "type": "ip",
+      "value": "192.166.82.213"
     },
     "192.210.174.155": {
       "confidence": 0.6,
@@ -13589,6 +13707,22 @@
       "type": "ip",
       "value": "217.156.8.148"
     },
+    "217.16.25.99": {
+      "confidence": 0.9,
+      "date": "2026-11-02 11:36:38",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Sliver C2 servers identified on two IP addresses via Shodan, rated high confidence.",
+      "threat_type": "c2",
+      "tweet_id": "2117219328940494967",
+      "type": "url",
+      "value": "http://217.16.25.99"
+    },
     "217.6.46.91": {
       "confidence": 0.8,
       "date": "2026-10-14 17:59:48",
@@ -15230,20 +15364,6 @@
       "tweet_id": "2108207867446648928",
       "type": "domain",
       "value": "2fa-cp.cfd"
-    },
-    "3.107.75.193": {
-      "confidence": 0.9,
-      "date": "2026-10-03 07:01:15",
-      "enriched_at": "2026-10-03T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Facebook credential phishing page at facebook[.]hosweb[.]online hosted on an Amazon IP in Australia.",
-      "threat_type": "phishing",
-      "tweet_id": "2106278390986641848",
-      "type": "ip",
-      "value": "3.107.75.193"
     },
     "3.124.38.174": {
       "confidence": 0.75,
@@ -24572,6 +24692,22 @@
       "type": "ip",
       "value": "38.60.216.218"
     },
+    "38.60.226.70": {
+      "confidence": 0.9,
+      "date": "2026-11-02 11:36:38",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Sliver C2 servers identified on two IP addresses via Shodan, rated high confidence.",
+      "threat_type": "c2",
+      "tweet_id": "2117219328940494967",
+      "type": "url",
+      "value": "http://38.60.226.70"
+    },
     "38.76.177.46": {
       "confidence": 0.85,
       "date": "2026-10-12 14:53:38",
@@ -28046,6 +28182,23 @@
       "type": "sha256",
       "value": "58648467edabd8e8914b022a8d475bffc6db598086f4505e09815e9d02537f91"
     },
+    "58668941e3d70dfce6dd0810bda36e44c1556d3940874f1efde3b4a2892c3b6f": {
+      "confidence": 0.7,
+      "date": "2026-11-02 10:57:48",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "cryptoscam",
+        "malware"
+      ],
+      "summary": "Fake OKX crypto exchange site tricks users into downloading a suspicious Android APK; the registration button redirects to another suspicious domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2117209556258521585",
+      "type": "sha256",
+      "value": "58668941e3d70dfce6dd0810bda36e44c1556d3940874f1efde3b4a2892c3b6f"
+    },
     "5874e779a7718f416185c920a19be41d569ddd43d01b405fc7ffde2db955ad6c": {
       "confidence": 0.6,
       "date": "2026-10-26 08:28:00",
@@ -29146,6 +29299,20 @@
       "tweet_id": "2107380629612433761",
       "type": "sha256",
       "value": "6ae1890733bc70a08b6b4300608235d708ed7bb6b430844ad782e7dfb720d71b"
+    },
+    "6b0584efdcbb2eddf56cb9c2638ec4e0": {
+      "confidence": 0.5,
+      "date": "2026-11-02 08:45:46",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "MD5 hashes of g2m.dll samples and a fake invoice PDF executable from a Japanese ScreenConnect-related malware campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2117176329112322489",
+      "type": "md5",
+      "value": "6b0584efdcbb2eddf56cb9c2638ec4e0"
     },
     "6b330c5de267e3aed1e1f169ec8db1bc": {
       "confidence": 0.85,
@@ -32885,6 +33052,20 @@
       "type": "sha256",
       "value": "9c8f7ed3d0431cc8446828df9a47e10ec713a7859fb079a37399271725302eae"
     },
+    "9cbe9bce950d008ab85a673967e922bb94552e50ada6f4eeabc6105b3665a9c1": {
+      "confidence": 0.5,
+      "date": "2026-11-02 07:05:37",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Undetected malicious VBS file posing as an SSA document, seen from Egypt, with associated domain.",
+      "threat_type": "malware",
+      "tweet_id": "2117151126327820588",
+      "type": "sha256",
+      "value": "9cbe9bce950d008ab85a673967e922bb94552e50ada6f4eeabc6105b3665a9c1"
+    },
     "9cdf9119881608c365d9bec3356b06d9ee5bb0ece48376c415a8d14c0070dc55": {
       "confidence": 0.35,
       "date": "2026-10-12 20:10:30",
@@ -33167,6 +33348,20 @@
       "tweet_id": "2115918875292549322",
       "type": "sha256",
       "value": "a1469f561141c9f5955444765ab6645af30216608219e34f1b9496c6f44c8b82"
+    },
+    "a1ec177a3a82fde9e66bacbe001a07456d20c4412061933d1c54f29dd68285de": {
+      "confidence": 0.6,
+      "date": "2026-11-02 10:07:30",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Invoice-themed ZIP downloaded from OneDrive after redirect from a campaign IP; contains an executable and g2m.dll.",
+      "threat_type": "malware",
+      "tweet_id": "2117196898457341958",
+      "type": "sha256",
+      "value": "a1ec177a3a82fde9e66bacbe001a07456d20c4412061933d1c54f29dd68285de"
     },
     "a2.cdnresolver.com": {
       "confidence": 0.85,
@@ -39051,6 +39246,20 @@
       "type": "url",
       "value": "https://aexshorthood.cactx5.info/2ymmlo/hepe"
     },
+    "afatshacojps.org": {
+      "confidence": 0.5,
+      "date": "2026-11-02 10:53:54",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Undetected malicious JavaScript file with Ukrainian-language lure about a security status report, seen from Ukraine and Russia, with associated domain.",
+      "threat_type": "malware",
+      "tweet_id": "2117208574006862025",
+      "type": "domain",
+      "value": "afatshacojps.org"
+    },
     "afcd40cbdca11cf2c64b43d895584ffd": {
       "confidence": 0.85,
       "date": "2026-10-31 15:26:05",
@@ -39683,21 +39892,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "amb-whatsapp.com"
-    },
-    "amber-ridge-bruixsioi.pro": {
-      "confidence": 0.8,
-      "date": "2026-10-03 08:46:30",
-      "enriched_at": "2026-10-03T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Compromised site leading to ClickFix social-engineering lures via domains vale-quaeum-a4hc9[.]top and amber-ridge-bruixsioi[.]pro.",
-      "threat_type": "malware",
-      "tweet_id": "2106304875802001582",
-      "type": "domain",
-      "value": "amber-ridge-bruixsioi.pro"
     },
     "amc-whatsapp.com": {
       "confidence": 0.65,
@@ -41963,6 +42157,22 @@
       "type": "sha256",
       "value": "b72c09f181e67e3c570e868bff79870fbac2681588b17e376fbd9d8365f9542d"
     },
+    "b787551280f511c33c29286cd467dd0e352fa24260344409b0a2ab3b51afe7b8": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "sha256",
+      "value": "b787551280f511c33c29286cd467dd0e352fa24260344409b0a2ab3b51afe7b8"
+    },
     "b8038599839a7b01b6a36223ea0324f90d2d41b601bd672effc4160041297e20": {
       "confidence": 0.8,
       "date": "2026-10-27 23:54:22",
@@ -42506,6 +42716,70 @@
       "type": "sha256",
       "value": "bee97a199dda48a85a0421a8dd7148e16fd84b85674f8c7c190287d1ec871848"
     },
+    "bepnet.in": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "bepnet.in"
+    },
+    "bepxt.com": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "bepxt.com"
+    },
+    "bepxt.in": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "bepxt.in"
+    },
+    "bepxt.online": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "bepxt.online"
+    },
     "bestpartneha-jp.com": {
       "confidence": 0.88,
       "date": "2026-10-19 03:28:58",
@@ -42668,6 +42942,54 @@
       "tweet_id": "2116260969685090705",
       "type": "domain",
       "value": "binance-com-nk.refers.workers.dev"
+    },
+    "binancecheck.com": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "binancecheck.com"
+    },
+    "binancecheck.online": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "binancecheck.online"
+    },
+    "binanceverify.live": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "binanceverify.live"
     },
     "birch-nuiis-d9q37.xyz": {
       "confidence": 0.75,
@@ -43469,6 +43791,102 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "bnb.trx-exchange.com"
+    },
+    "bnbet.online": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "bnbet.online"
+    },
+    "bnbone.live": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "bnbone.live"
+    },
+    "bnbtest20.online": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "bnbtest20.online"
+    },
+    "bnbvf.com": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "bnbvf.com"
+    },
+    "bnbvf.org": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "bnbvf.org"
+    },
+    "bnbxt.org": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "bnbxt.org"
     },
     "bnc-whatsapp.com": {
       "confidence": 0.65,
@@ -44356,6 +44774,22 @@
       "type": "domain",
       "value": "bryweb-whatsapp.com"
     },
+    "bscactive.net": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "bscactive.net"
+    },
     "btexiws.cn": {
       "confidence": 0.85,
       "date": "2026-10-15 23:25:14",
@@ -45156,6 +45590,22 @@
       "type": "sha256",
       "value": "c082af1dd7a1fd3d8738e7897281503971302e3d3dad8f46771ae4127aefb20a"
     },
+    "c0ae9d70a439eed68d65cb553cf6c0c2a678ebc463e45f526bf9a4b93afcc6a9": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "sha256",
+      "value": "c0ae9d70a439eed68d65cb553cf6c0c2a678ebc463e45f526bf9a4b93afcc6a9"
+    },
     "c2293ae79e10df56b1630113ee9329dc31d18ba79285a8c51095a40176571142": {
       "confidence": 0.4,
       "date": "2026-10-22 17:12:26",
@@ -45528,6 +45978,34 @@
       "tweet_id": "2109055946949578753",
       "type": "domain",
       "value": "caihongzhixia-jp.com"
+    },
+    "calernix.cfd": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:57:36",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Mitsubishi UFJ eSmart Securities login page.",
+      "threat_type": "phishing",
+      "tweet_id": "2117209506111537433",
+      "type": "domain",
+      "value": "calernix.cfd"
+    },
+    "calernix.cfd/login/#/index": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:57:36",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Mitsubishi UFJ eSmart Securities login page.",
+      "threat_type": "phishing",
+      "tweet_id": "2117209506111537433",
+      "type": "url",
+      "value": "https://calernix.cfd/Login/#/index"
     },
     "call.webstatici-whatsapp.com": {
       "confidence": 0.85,
@@ -45914,6 +46392,20 @@
       "tweet_id": "2113753472726434072",
       "type": "domain",
       "value": "cdn.nairawaterfall.com"
+    },
+    "cdn.node-js.dev": {
+      "confidence": 0.6,
+      "date": "2026-11-02 08:09:56",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": "PolinRider",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Obfuscated worm payload in npm package persona-ai-sdk with crypto dead drops overlapping PolinRider; possibly DPRK testing or adversary emulation.",
+      "threat_type": "malware",
+      "tweet_id": "2117153425297432764",
+      "type": "domain",
+      "value": "cdn.node-js.dev"
     },
     "cdn.sakenlogistics.com": {
       "confidence": 0.85,
@@ -49885,6 +50377,37 @@
       "type": "url",
       "value": "https://doboski.top/adobe%20detect/adobe/"
     },
+    "dock-okx.com.cn": {
+      "confidence": 0.7,
+      "date": "2026-11-02 10:57:48",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "cryptoscam",
+        "malware"
+      ],
+      "summary": "Fake OKX crypto exchange site tricks users into downloading a suspicious Android APK; the registration button redirects to another suspicious domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2117209556258521585",
+      "type": "domain",
+      "value": "dock-okx.com.cn"
+    },
+    "docs-portal.top": {
+      "confidence": 0.5,
+      "date": "2026-11-02 07:05:37",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Undetected malicious VBS file posing as an SSA document, seen from Egypt, with associated domain.",
+      "threat_type": "malware",
+      "tweet_id": "2117151126327820588",
+      "type": "domain",
+      "value": "docs-portal.top"
+    },
     "docs.google.com/drawings/d/1lxz7ir19letzywis66uexxopvuo2cny3rikdblkqy4w/preview": {
       "confidence": 0.75,
       "date": "2026-10-13 08:59:31",
@@ -52322,20 +52845,6 @@
       "type": "domain",
       "value": "facebook-logiin.vercel.app"
     },
-    "facebook.hosweb.online": {
-      "confidence": 0.9,
-      "date": "2026-10-03 07:01:15",
-      "enriched_at": "2026-10-03T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Facebook credential phishing page at facebook[.]hosweb[.]online hosted on an Amazon IP in Australia.",
-      "threat_type": "phishing",
-      "tweet_id": "2106278390986641848",
-      "type": "domain",
-      "value": "facebook.hosweb.online"
-    },
     "facebook.recovery.jisandev.com": {
       "confidence": 0.9,
       "date": "2026-10-24 12:01:11",
@@ -54520,20 +55029,6 @@
       "tweet_id": "2107507521900753315",
       "type": "domain",
       "value": "ftworthmedicalclinic.info"
-    },
-    "fullpowerproperties.uk": {
-      "confidence": 0.7,
-      "date": "2026-10-03 11:10:59",
-      "enriched_at": "2026-10-03T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Domain fullpowerproperties[.]uk flagged by a web scanner as a confirmed scam website.",
-      "threat_type": "scam",
-      "tweet_id": "2106341235518534072",
-      "type": "domain",
-      "value": "fullpowerproperties.uk"
     },
     "fullwork3e4.gamer.free": {
       "confidence": 0.7,
@@ -57156,6 +57651,21 @@
       "type": "domain",
       "value": "hvbaqrat.cn"
     },
+    "hyipbird.com": {
+      "confidence": 0.7,
+      "date": "2026-11-02 08:45:46",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "phishing"
+      ],
+      "summary": "Japanese-language malware email impersonating an organization's representative with invoice lure links and a ZIP download; ScreenConnect-related.",
+      "threat_type": "malware",
+      "tweet_id": "2117176326734123170",
+      "type": "domain",
+      "value": "hyipbird.com"
+    },
     "iasteun.cn": {
       "confidence": 0.9,
       "date": "2026-10-17 00:09:09",
@@ -59211,6 +59721,21 @@
       "type": "url",
       "value": "https://kongzaixian.com/106sms.zip"
     },
+    "konsultasiagama.com": {
+      "confidence": 0.7,
+      "date": "2026-11-02 08:45:46",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "phishing"
+      ],
+      "summary": "Japanese-language malware email impersonating an organization's representative with invoice lure links and a ZIP download; ScreenConnect-related.",
+      "threat_type": "malware",
+      "tweet_id": "2117176326734123170",
+      "type": "domain",
+      "value": "konsultasiagama.com"
+    },
     "kozae666.com": {
       "confidence": 0.6,
       "date": "2026-10-27 19:17:23",
@@ -59847,34 +60372,6 @@
       "type": "url",
       "value": "https://linkprofile.blob.core.windows.net/files/WindowsDefender.msi"
     },
-    "linksdocumentation001.blob.core.windows.net": {
-      "confidence": 0.85,
-      "date": "2026-10-03 10:33:42",
-      "enriched_at": "2026-10-03T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Credential phishing chain from an Azure Blob Storage URL redirecting to nettcasters[.]com/connect/ to harvest Microsoft account credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2106331856040055264",
-      "type": "domain",
-      "value": "linksdocumentation001.blob.core.windows.net"
-    },
-    "linksdocumentation001.blob.core.windows.net/00111/scan020825_0608202622001": {
-      "confidence": 0.85,
-      "date": "2026-10-03 10:33:42",
-      "enriched_at": "2026-10-03T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Credential phishing chain from an Azure Blob Storage URL redirecting to nettcasters[.]com/connect/ to harvest Microsoft account credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2106331856040055264",
-      "type": "url",
-      "value": "https://linksdocumentation001.blob.core.windows.net/00111/Scan020825_0608202622001"
-    },
     "linksub-4u1.pages.dev": {
       "confidence": 0.75,
       "date": "2026-10-23 20:47:00",
@@ -60383,6 +60880,21 @@
       "tweet_id": "2116240777290637360",
       "type": "domain",
       "value": "luck.dpmz.top"
+    },
+    "ludetang.com": {
+      "confidence": 0.7,
+      "date": "2026-11-02 08:45:46",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "phishing"
+      ],
+      "summary": "Japanese-language malware email impersonating an organization's representative with invoice lure links and a ZIP download; ScreenConnect-related.",
+      "threat_type": "malware",
+      "tweet_id": "2117176326734123170",
+      "type": "domain",
+      "value": "ludetang.com"
     },
     "luoc.run": {
       "confidence": 0.9,
@@ -61718,6 +62230,23 @@
       "type": "domain",
       "value": "misuwh.com"
     },
+    "mithvxrqkpn.com": {
+      "confidence": 0.7,
+      "date": "2026-11-02 10:57:48",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "cryptoscam",
+        "malware"
+      ],
+      "summary": "Fake OKX crypto exchange site tricks users into downloading a suspicious Android APK; the registration button redirects to another suspicious domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2117209556258521585",
+      "type": "domain",
+      "value": "mithvxrqkpn.com"
+    },
     "mitsuiapp.nlpbxc.com": {
       "confidence": 0.9,
       "date": "2026-10-20 05:59:23",
@@ -62836,34 +63365,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "netsys-whatsapp.com"
-    },
-    "nettcasters.com": {
-      "confidence": 0.85,
-      "date": "2026-10-03 10:33:42",
-      "enriched_at": "2026-10-03T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Credential phishing chain from an Azure Blob Storage URL redirecting to nettcasters[.]com/connect/ to harvest Microsoft account credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2106331856040055264",
-      "type": "domain",
-      "value": "nettcasters.com"
-    },
-    "nettcasters.com/connect": {
-      "confidence": 0.85,
-      "date": "2026-10-03 10:33:42",
-      "enriched_at": "2026-10-03T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Credential phishing chain from an Azure Blob Storage URL redirecting to nettcasters[.]com/connect/ to harvest Microsoft account credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2106331856040055264",
-      "type": "url",
-      "value": "https://nettcasters.com/connect/"
     },
     "netuse-whatsapp.com": {
       "confidence": 0.65,
@@ -64498,6 +64999,20 @@
       "type": "domain",
       "value": "pdfdocusignersdocument.info"
     },
+    "pdfshwodas.top": {
+      "confidence": 0.6,
+      "date": "2026-11-02 06:06:14",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Operator on one IP runs fake software download sites (WinRAR, WPS, Chrome and others) serving ZIPs from Aliyun OSS buckets.",
+      "threat_type": "malware",
+      "tweet_id": "2117136178386268342",
+      "type": "domain",
+      "value": "pdfshwodas.top"
+    },
     "pemfinsideo-jp.com": {
       "confidence": 0.8,
       "date": "2026-10-03 23:15:14",
@@ -65742,6 +66257,38 @@
       "tweet_id": "2109263406956155061",
       "type": "domain",
       "value": "pubad-gov-lk.net-src.info"
+    },
+    "pussycat.online": {
+      "confidence": 0.7,
+      "date": "2026-11-02 07:19:44",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": "Evilginx",
+      "suggested_tags": [
+        "evilginx",
+        "aitm",
+        "phishing"
+      ],
+      "summary": "Evilginx adversary-in-the-middle phishing panel hosted on a domain using port 8443.",
+      "threat_type": "phishing",
+      "tweet_id": "2117154679096574211",
+      "type": "domain",
+      "value": "pussycat.online"
+    },
+    "pussycat.online:8443": {
+      "confidence": 0.7,
+      "date": "2026-11-02 07:19:44",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": "Evilginx",
+      "suggested_tags": [
+        "evilginx",
+        "aitm",
+        "phishing"
+      ],
+      "summary": "Evilginx adversary-in-the-middle phishing panel hosted on a domain using port 8443.",
+      "threat_type": "phishing",
+      "tweet_id": "2117154679096574211",
+      "type": "url",
+      "value": "https://pussycat.online:8443"
     },
     "pususufim.z28.web.core.windows.net": {
       "confidence": 0.85,
@@ -74268,6 +74815,22 @@
       "type": "domain",
       "value": "v3-whatsapp.com"
     },
+    "v4.bnbvf.com": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "v4.bnbvf.com"
+    },
     "v6-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -74309,21 +74872,6 @@
       "tweet_id": "2112982341731910035",
       "type": "domain",
       "value": "vahuebivaet.cc"
-    },
-    "vale-quaeum-a4hc9.top": {
-      "confidence": 0.8,
-      "date": "2026-10-03 08:46:30",
-      "enriched_at": "2026-10-03T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Compromised site leading to ClickFix social-engineering lures via domains vale-quaeum-a4hc9[.]top and amber-ridge-bruixsioi[.]pro.",
-      "threat_type": "malware",
-      "tweet_id": "2106304875802001582",
-      "type": "domain",
-      "value": "vale-quaeum-a4hc9.top"
     },
     "vavgxahwqq.vercel.app": {
       "confidence": 0.65,
@@ -74508,6 +75056,21 @@
       "type": "domain",
       "value": "video.webstatici-whatsapp.com"
     },
+    "viewercontroller.com": {
+      "confidence": 0.6,
+      "date": "2026-11-02 11:43:47",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Configured C2 domain tied to a malware sample masquerading as a TeamsInstaller service with scheduled tasks for persistence.",
+      "threat_type": "c2",
+      "tweet_id": "2117221125369319435",
+      "type": "domain",
+      "value": "viewercontroller.com"
+    },
     "viewweb-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -74521,6 +75084,22 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "viewweb-whatsapp.com"
+    },
+    "vigorous-murdock.192-166-82-213.plesk.page": {
+      "confidence": 0.5,
+      "date": "2026-11-02 06:34:23",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "c2",
+        "infostealer"
+      ],
+      "summary": "Suspected stealer C2 panel on an IP address and associated plesk.page hostnames.",
+      "threat_type": "c2",
+      "tweet_id": "2117143266449899993",
+      "type": "domain",
+      "value": "vigorous-murdock.192-166-82-213.plesk.page"
     },
     "vijaydarda.in": {
       "confidence": 0.75,
@@ -76044,6 +76623,38 @@
       "type": "domain",
       "value": "webserver-whatsapp.com"
     },
+    "website-b536f06a.svf.kaf.mybluehost.me": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "website-b536f06a.svf.kaf.mybluehost.me"
+    },
+    "website-d8644cc4.svf.kaf.mybluehost.me": {
+      "confidence": 0.9,
+      "date": "2026-11-02 10:30:52",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "BNB Chain wallet drainer campaign using fake verification portals; malicious JS drains USDT and shows a fake fund-lock demanding a 65% deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117202778120658993",
+      "type": "domain",
+      "value": "website-d8644cc4.svf.kaf.mybluehost.me"
+    },
     "webstart-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -76446,6 +77057,20 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "windows.webapi-whatsapp.com"
+    },
+    "winrarsdwee.top": {
+      "confidence": 0.6,
+      "date": "2026-11-02 06:06:14",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Operator on one IP runs fake software download sites (WinRAR, WPS, Chrome and others) serving ZIPs from Aliyun OSS buckets.",
+      "threat_type": "malware",
+      "tweet_id": "2117136178386268342",
+      "type": "domain",
+      "value": "winrarsdwee.top"
     },
     "winter-dawn-c288.suplayer810.workers.dev": {
       "confidence": 0.75,
@@ -77179,6 +77804,23 @@
       "tweet_id": "2114895482627801249",
       "type": "url",
       "value": "https://www.miricanvas.com/v2/ko/design2"
+    },
+    "www.mithvxrqkpn.com/upgradeapp/android_ace532658.apk": {
+      "confidence": 0.7,
+      "date": "2026-11-02 10:57:48",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "cryptoscam",
+        "malware"
+      ],
+      "summary": "Fake OKX crypto exchange site tricks users into downloading a suspicious Android APK; the registration button redirects to another suspicious domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2117209556258521585",
+      "type": "url",
+      "value": "http://www.mithvxrqkpn.com/upgradeapp/android_ACE532658.apk"
     },
     "www.nairawaterfall.com": {
       "confidence": 0.85,
@@ -79336,8 +79978,23 @@
       "tweet_id": "2107393470403121604",
       "type": "domain",
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
+    },
+    "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip": {
+      "confidence": 0.7,
+      "date": "2026-11-02 08:45:46",
+      "enriched_at": "2026-11-02T12:40:03Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "phishing"
+      ],
+      "summary": "Japanese-language malware email impersonating an organization's representative with invoice lure links and a ZIP download; ScreenConnect-related.",
+      "threat_type": "malware",
+      "tweet_id": "2117176326734123170",
+      "type": "domain",
+      "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-02T06:40:04Z",
+  "generated_at": "2026-11-02T12:40:03Z",
   "window_days": 30
 }
