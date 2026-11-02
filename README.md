@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-02 07:00:24 (UTC)</th>
+        <th colspan=4>2026-11-02 07:15:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 12 | 381 | 2790 | 45033 |
-| **:globe_with_meridians: Domains** | 11 | 274 | 2329 | 38796 |
+| **:link: URLs** | 13 | 382 | 2791 | 45034 |
+| **:globe_with_meridians: Domains** | 12 | 275 | 2330 | 38797 |
 | **:triangular_flag_on_post: IPs** | 2 | 123 | 2009 | 7832 |
-| **:1234: SHA256** | 4 | 102 | 423 | 3036 |
+| **:1234: SHA256** | 5 | 103 | 424 | 3037 |
 | **:1234: MD5** | 0 | 35 | 94 | 2101 |
 
 </div>
@@ -234,11 +234,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#2** | [Fact_Finder03](https://x.com/Fact_Finder03) | 5 |
 | **#3** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 3 |
-| **#5** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#6** | [Now_on_VT](https://x.com/Now_on_VT) | 2 |
-| **#7** | [harugasumi](https://x.com/harugasumi) | 2 |
-| **#8** | [skocherhan](https://x.com/skocherhan) | 1 |
-| **#9** | [-](https://x.com/-) | 0 |
+| **#5** | [smica83](https://x.com/smica83) | 3 |
+| **#6** | [PhishStats](https://x.com/PhishStats) | 2 |
+| **#7** | [Now_on_VT](https://x.com/Now_on_VT) | 2 |
+| **#8** | [harugasumi](https://x.com/harugasumi) | 2 |
+| **#9** | [skocherhan](https://x.com/skocherhan) | 1 |
 | **#10** | [-](https://x.com/-) | 0 |
 <!-- TOP_REPORTERS_END -->
 
