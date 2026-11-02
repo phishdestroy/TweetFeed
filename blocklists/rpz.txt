@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2239
-; Updated: 2026-11-02T03:45:19Z
+; Entries: 2241
+; Updated: 2026-11-02T04:00:27Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793591119 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793592027 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2752,6 +2752,8 @@ olympushorse.com.br CNAME .
 *.olympushorse.com.br CNAME .
 ommartbd.com CNAME .
 *.ommartbd.com CNAME .
+onfact5-production.web.app CNAME .
+*.onfact5-production.web.app CNAME .
 online.en.webhwsapp-whatsapp.com CNAME .
 *.online.en.webhwsapp-whatsapp.com CNAME .
 online.es.webhwsapp-whatsapp.com CNAME .
@@ -3364,6 +3366,8 @@ sharepointoffficewwork.sbs CNAME .
 *.sharepointoffficewwork.sbs CNAME .
 shenzhenmk-jp.com CNAME .
 *.shenzhenmk-jp.com CNAME .
+shewailvsh-jp.com CNAME .
+*.shewailvsh-jp.com CNAME .
 shield-whatsapp.com CNAME .
 *.shield-whatsapp.com CNAME .
 shoppingbasketweekly.info CNAME .

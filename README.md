@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-02 03:45:20 (UTC)</th>
+        <th colspan=4>2026-11-02 04:00:28 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 5 | 374 | 2783 | 45026 |
-| **:globe_with_meridians: Domains** | 5 | 268 | 2323 | 38790 |
+| **:link: URLs** | 7 | 376 | 2785 | 45028 |
+| **:globe_with_meridians: Domains** | 7 | 270 | 2325 | 38792 |
 | **:triangular_flag_on_post: IPs** | 0 | 121 | 2007 | 7830 |
-| **:1234: SHA256** | 3 | 101 | 422 | 3035 |
+| **:1234: SHA256** | 4 | 102 | 423 | 3036 |
 | **:1234: MD5** | 0 | 35 | 94 | 2101 |
 
 </div>
@@ -205,10 +205,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 8 | 376 | 3313 | 33228 |
+| **#phishing** | 13 | 381 | 3318 | 33233 |
 | **#Kimsuky** | 0 | 10 | 38 | 13317 |
 | **#DPRK** | 0 | 18 | 20 | 11687 |
-| **#malware** | 0 | 114 | 1127 | 4105 |
+| **#malware** | 3 | 117 | 1130 | 4108 |
 | **#scam** | 0 | 12 | 42 | 3198 |
 | **#C2** | 0 | 12 | 93 | 2200 |
 | **#APT** | 0 | 8 | 35 | 1496 |
@@ -231,12 +231,12 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#2** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#3** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#4** | [Now_on_VT](https://x.com/Now_on_VT) | 2 |
-| **#5** | [harugasumi](https://x.com/harugasumi) | 2 |
-| **#6** | [skocherhan](https://x.com/skocherhan) | 1 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#2** | [scanmalware](https://x.com/scanmalware) | 4 |
+| **#3** | [masaomi346](https://x.com/masaomi346) | 3 |
+| **#4** | [PhishStats](https://x.com/PhishStats) | 2 |
+| **#5** | [Now_on_VT](https://x.com/Now_on_VT) | 2 |
+| **#6** | [harugasumi](https://x.com/harugasumi) | 2 |
+| **#7** | [skocherhan](https://x.com/skocherhan) | 1 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
