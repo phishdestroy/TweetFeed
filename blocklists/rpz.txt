@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2236
-; Updated: 2026-11-02T00:00:32Z
+; Entries: 2237
+; Updated: 2026-11-02T00:15:17Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793577632 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793578517 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3604,6 +3604,8 @@ streamzuzu.cyou CNAME .
 *.streamzuzu.cyou CNAME .
 string-whatsapp.com CNAME .
 *.string-whatsapp.com CNAME .
+studio.unicore.tv CNAME .
+*.studio.unicore.tv CNAME .
 style-whatsapp.com CNAME .
 *.style-whatsapp.com CNAME .
 stylishhomegallery.com CNAME .
