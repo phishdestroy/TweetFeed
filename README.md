@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-02 08:45:18 (UTC)</th>
+        <th colspan=4>2026-11-02 09:00:26 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,11 +188,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 15 | 384 | 2793 | 45036 |
-| **:globe_with_meridians: Domains** | 14 | 277 | 2332 | 38799 |
-| **:triangular_flag_on_post: IPs** | 2 | 123 | 2009 | 7832 |
-| **:1234: SHA256** | 5 | 103 | 424 | 3037 |
-| **:1234: MD5** | 0 | 35 | 94 | 2101 |
+| **:link: URLs** | 21 | 390 | 2799 | 45042 |
+| **:globe_with_meridians: Domains** | 18 | 281 | 2336 | 38803 |
+| **:triangular_flag_on_post: IPs** | 4 | 125 | 2011 | 7834 |
+| **:1234: SHA256** | 6 | 104 | 425 | 3038 |
+| **:1234: MD5** | 3 | 38 | 97 | 2104 |
 
 </div>
 
@@ -230,16 +230,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [scanmalware](https://x.com/scanmalware) | 10 |
-| **#2** | [Fact_Finder03](https://x.com/Fact_Finder03) | 7 |
-| **#3** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#4** | [masaomi346](https://x.com/masaomi346) | 3 |
-| **#5** | [smica83](https://x.com/smica83) | 3 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#7** | [Now_on_VT](https://x.com/Now_on_VT) | 2 |
-| **#8** | [harugasumi](https://x.com/harugasumi) | 2 |
-| **#9** | [oliver_ojsec](https://x.com/oliver_ojsec) | 2 |
-| **#10** | [skocherhan](https://x.com/skocherhan) | 1 |
+| **#1** | [tdatwja](https://x.com/tdatwja) | 16 |
+| **#2** | [scanmalware](https://x.com/scanmalware) | 10 |
+| **#3** | [Fact_Finder03](https://x.com/Fact_Finder03) | 7 |
+| **#4** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#5** | [masaomi346](https://x.com/masaomi346) | 3 |
+| **#6** | [smica83](https://x.com/smica83) | 3 |
+| **#7** | [PhishStats](https://x.com/PhishStats) | 2 |
+| **#8** | [Now_on_VT](https://x.com/Now_on_VT) | 2 |
+| **#9** | [harugasumi](https://x.com/harugasumi) | 2 |
+| **#10** | [oliver_ojsec](https://x.com/oliver_ojsec) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
