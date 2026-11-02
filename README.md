@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-02 08:00:25 (UTC)</th>
+        <th colspan=4>2026-11-02 08:15:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 14 | 383 | 2792 | 45035 |
-| **:globe_with_meridians: Domains** | 13 | 276 | 2331 | 38798 |
+| **:link: URLs** | 15 | 384 | 2793 | 45036 |
+| **:globe_with_meridians: Domains** | 14 | 277 | 2332 | 38799 |
 | **:triangular_flag_on_post: IPs** | 2 | 123 | 2009 | 7832 |
 | **:1234: SHA256** | 5 | 103 | 424 | 3037 |
 | **:1234: MD5** | 0 | 35 | 94 | 2101 |
@@ -238,8 +238,8 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#6** | [PhishStats](https://x.com/PhishStats) | 2 |
 | **#7** | [Now_on_VT](https://x.com/Now_on_VT) | 2 |
 | **#8** | [harugasumi](https://x.com/harugasumi) | 2 |
-| **#9** | [skocherhan](https://x.com/skocherhan) | 1 |
-| **#10** | [-](https://x.com/-) | 0 |
+| **#9** | [oliver_ojsec](https://x.com/oliver_ojsec) | 2 |
+| **#10** | [skocherhan](https://x.com/skocherhan) | 1 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
