@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-02 10:15:19 (UTC)</th>
+        <th colspan=4>2026-11-02 10:30:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 21 | 390 | 2799 | 45042 |
-| **:globe_with_meridians: Domains** | 18 | 281 | 2336 | 38803 |
-| **:triangular_flag_on_post: IPs** | 4 | 125 | 2011 | 7834 |
-| **:1234: SHA256** | 6 | 104 | 425 | 3038 |
+| **:link: URLs** | 29 | 398 | 2807 | 45050 |
+| **:globe_with_meridians: Domains** | 21 | 284 | 2339 | 38806 |
+| **:triangular_flag_on_post: IPs** | 5 | 126 | 2012 | 7835 |
+| **:1234: SHA256** | 7 | 105 | 426 | 3039 |
 | **:1234: MD5** | 3 | 38 | 97 | 2104 |
 
 </div>
@@ -231,15 +231,15 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [tdatwja](https://x.com/tdatwja) | 16 |
-| **#2** | [scanmalware](https://x.com/scanmalware) | 10 |
-| **#3** | [Fact_Finder03](https://x.com/Fact_Finder03) | 7 |
-| **#4** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 3 |
-| **#6** | [smica83](https://x.com/smica83) | 3 |
-| **#7** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#8** | [Now_on_VT](https://x.com/Now_on_VT) | 2 |
-| **#9** | [harugasumi](https://x.com/harugasumi) | 2 |
-| **#10** | [oliver_ojsec](https://x.com/oliver_ojsec) | 2 |
+| **#2** | [bomccss](https://x.com/bomccss) | 13 |
+| **#3** | [scanmalware](https://x.com/scanmalware) | 10 |
+| **#4** | [Fact_Finder03](https://x.com/Fact_Finder03) | 7 |
+| **#5** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#6** | [masaomi346](https://x.com/masaomi346) | 3 |
+| **#7** | [smica83](https://x.com/smica83) | 3 |
+| **#8** | [PhishStats](https://x.com/PhishStats) | 2 |
+| **#9** | [Now_on_VT](https://x.com/Now_on_VT) | 2 |
+| **#10** | [harugasumi](https://x.com/harugasumi) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
