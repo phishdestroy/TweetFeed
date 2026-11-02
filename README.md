@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-02 11:00:22 (UTC)</th>
+        <th colspan=4>2026-11-02 11:15:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 47 | 416 | 2825 | 45068 |
-| **:globe_with_meridians: Domains** | 39 | 302 | 2357 | 38824 |
+| **:link: URLs** | 50 | 419 | 2828 | 45071 |
+| **:globe_with_meridians: Domains** | 42 | 305 | 2360 | 38827 |
 | **:triangular_flag_on_post: IPs** | 5 | 126 | 2012 | 7835 |
-| **:1234: SHA256** | 10 | 108 | 429 | 3042 |
+| **:1234: SHA256** | 11 | 109 | 430 | 3043 |
 | **:1234: MD5** | 3 | 38 | 97 | 2104 |
 
 </div>
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 13 | 381 | 3318 | 33233 |
+| **#phishing** | 20 | 388 | 3325 | 33240 |
 | **#Kimsuky** | 0 | 10 | 38 | 13317 |
 | **#DPRK** | 0 | 18 | 20 | 11687 |
 | **#malware** | 3 | 117 | 1130 | 4108 |
@@ -230,14 +230,14 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 36 |
+| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 41 |
 | **#2** | [tdatwja](https://x.com/tdatwja) | 16 |
 | **#3** | [bomccss](https://x.com/bomccss) | 13 |
 | **#4** | [scanmalware](https://x.com/scanmalware) | 10 |
 | **#5** | [Fact_Finder03](https://x.com/Fact_Finder03) | 7 |
 | **#6** | [smica83](https://x.com/smica83) | 6 |
-| **#7** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#8** | [masaomi346](https://x.com/masaomi346) | 3 |
+| **#7** | [masaomi346](https://x.com/masaomi346) | 5 |
+| **#8** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 | **#9** | [PhishStats](https://x.com/PhishStats) | 2 |
 | **#10** | [Now_on_VT](https://x.com/Now_on_VT) | 2 |
 <!-- TOP_REPORTERS_END -->
