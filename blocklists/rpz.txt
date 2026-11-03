@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2309
-; Updated: 2026-11-03T20:45:20Z
+; Entries: 2313
+; Updated: 2026-11-03T21:15:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793738720 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793740518 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1004,6 +1004,8 @@ checkyoursecurityfast.com CNAME .
 *.checkyoursecurityfast.com CNAME .
 chefstablehub.com CNAME .
 *.chefstablehub.com CNAME .
+chestergreenfarming.com CNAME .
+*.chestergreenfarming.com CNAME .
 chimneyscrubber.com CNAME .
 *.chimneyscrubber.com CNAME .
 chinatpst.com CNAME .
@@ -1874,6 +1876,8 @@ goinsideitmore.com CNAME .
 *.goinsideitmore.com CNAME .
 goja.click CNAME .
 *.goja.click CNAME .
+gomescareerplans.com CNAME .
+*.gomescareerplans.com CNAME .
 gongzuo-whatsapp.com CNAME .
 *.gongzuo-whatsapp.com CNAME .
 googie-chrome.top CNAME .
@@ -2038,6 +2042,8 @@ hotelalloldnewfinal.gptjailbreak.net CNAME .
 *.hotelalloldnewfinal.gptjailbreak.net CNAME .
 hotelnov26.blogspot.com CNAME .
 *.hotelnov26.blogspot.com CNAME .
+hotsitar.com CNAME .
+*.hotsitar.com CNAME .
 howto.webapi-whatsapp.com CNAME .
 *.howto.webapi-whatsapp.com CNAME .
 httpapi-whatsapp.com CNAME .
@@ -3158,6 +3164,8 @@ rakuten-banks.top CNAME .
 *.rakuten-banks.top CNAME .
 range-whatsapp.com CNAME .
 *.range-whatsapp.com CNAME .
+rappellingaart.com CNAME .
+*.rappellingaart.com CNAME .
 rdtds.net CNAME .
 *.rdtds.net CNAME .
 rdwv03.cc CNAME .
