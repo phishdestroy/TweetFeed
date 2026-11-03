@@ -1,5 +1,5 @@
 {
-  "count": 5768,
+  "count": 5793,
   "dead_tweets": {
     "2107773993008669042": {
       "attempts": 2,
@@ -169,6 +169,20 @@
       "tweet_id": "2112984658157723965",
       "type": "sha256",
       "value": "0329c3dcb71f6ed5eed1d17f1e945612aeba5d67cc80699d734a2df64bba1cdf"
+    },
+    "0371b2265206832e350a730a3a9da5519e0a7483b94a2602df539a91791a2ec8": {
+      "confidence": 0.5,
+      "date": "2026-11-03 06:53:20",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "MSI sample with zero AV detection, related to a malicious cluster, uploaded to MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2117510423079473576",
+      "type": "sha256",
+      "value": "0371b2265206832e350a730a3a9da5519e0a7483b94a2602df539a91791a2ec8"
     },
     "03b0942b48585f29fe2e4f63140b2aab": {
       "confidence": 0.85,
@@ -741,6 +755,22 @@
       "tweet_id": "2110435300283683112",
       "type": "ip",
       "value": "102.67.136.82"
+    },
+    "102bb74d066de4113cb88016f50e43b8": {
+      "confidence": 0.85,
+      "date": "2026-11-03 11:23:59",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": "Braodo Stealer",
+      "suggested_tags": [
+        "infostealer",
+        "stealer",
+        "malware"
+      ],
+      "summary": "Braodo Stealer delivered by a batch file lure that downloads payload and Python library from attacker GitHub accounts.",
+      "threat_type": "malware",
+      "tweet_id": "2117578534436921803",
+      "type": "md5",
+      "value": "102bb74d066de4113cb88016f50e43b8"
     },
     "103.10.54.130": {
       "confidence": 0.5,
@@ -3703,6 +3733,21 @@
       "tweet_id": "2107011153872273414",
       "type": "url",
       "value": "http://110.41.6.163"
+    },
+    "111.92.246.145": {
+      "confidence": 0.55,
+      "date": "2026-11-03 11:44:53",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "Malicious LNK disguised as a researcher CV with a hardcoded server IP and port 12345; tagged APT targeting Ukraine-related themes.",
+      "threat_type": "malware",
+      "tweet_id": "2117583792261287947",
+      "type": "ip",
+      "value": "111.92.246.145"
     },
     "11159078aae574a1b2f0a96f7936626a62d29e6263b421d5db28a4da9c21c59a": {
       "confidence": 0.6,
@@ -27078,6 +27123,21 @@
       "type": "url",
       "value": "http://47.74.7.119"
     },
+    "47.76.120.34": {
+      "confidence": 0.7,
+      "date": "2026-11-03 06:56:19",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": "Hyflock",
+      "suggested_tags": [
+        "ransomware",
+        "malware"
+      ],
+      "summary": "Clearnet IP addresses attributed to the Hyflock ransomware group.",
+      "threat_type": "ransomware",
+      "tweet_id": "2117511172979388734",
+      "type": "ip",
+      "value": "47.76.120.34"
+    },
     "47.77.204.57": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -27862,6 +27922,20 @@
       "tweet_id": "2108594904385372616",
       "type": "sha256",
       "value": "52f0c0230b580e2fdf53a378b5c6d0db9829af900dae43e0df8f18635cd9f0c1"
+    },
+    "5306e0bd70df8b9e0c38a181ff9172013c1272fd82ab9d308ea7cd7a66579cde": {
+      "confidence": 0.6,
+      "date": "2026-11-03 10:13:53",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "BAT sample with zero AV detection fetched from Azure blob storage and communicating with an Azure cloudapp next-stage host; uploaded to MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2117560677338436036",
+      "type": "sha256",
+      "value": "5306e0bd70df8b9e0c38a181ff9172013c1272fd82ab9d308ea7cd7a66579cde"
     },
     "532b1a2e3d6fe2b628d3e566dbe54165": {
       "confidence": 0.8,
@@ -28867,6 +28941,21 @@
       "tweet_id": "2115353984387211708",
       "type": "url",
       "value": "http://64.89.160.210"
+    },
+    "64.89.161.172": {
+      "confidence": 0.7,
+      "date": "2026-11-03 06:56:19",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": "Hyflock",
+      "suggested_tags": [
+        "ransomware",
+        "malware"
+      ],
+      "summary": "Clearnet IP addresses attributed to the Hyflock ransomware group.",
+      "threat_type": "ransomware",
+      "tweet_id": "2117511172979388734",
+      "type": "ip",
+      "value": "64.89.161.172"
     },
     "64.89.161.65": {
       "confidence": 0.6,
@@ -31504,6 +31593,20 @@
       "type": "sha256",
       "value": "85009ea54606ded4f2f43f508d465f67aba79787826b2886535efa91c920b647"
     },
+    "85249f8bdd5a1b2d63a424c71c17d317981e9e514b5da4c04a4fcfdc7f949844": {
+      "confidence": 0.7,
+      "date": "2026-11-03 07:04:37",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "RAR archives with Russian invoice-themed filename seen from Russia, exploiting CVE-2025-8088 (WinRAR path traversal).",
+      "threat_type": "vulnerability",
+      "tweet_id": "2117513261260153072",
+      "type": "sha256",
+      "value": "85249f8bdd5a1b2d63a424c71c17d317981e9e514b5da4c04a4fcfdc7f949844"
+    },
     "8579b1ac0699f2c05bf21bafc0bf1b30700f38c5b0e2f03e85ba39b6a3fdb924": {
       "confidence": 0.5,
       "date": "2026-10-16 09:58:06",
@@ -31757,6 +31860,34 @@
       "tweet_id": "2117337847179206719",
       "type": "ip",
       "value": "89.252.130.60"
+    },
+    "89.36.231.178": {
+      "confidence": 0.6,
+      "date": "2026-11-03 11:39:36",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir"
+      ],
+      "summary": "Open directory exposed on a server at 89.36.231.178 port 8080, potentially hosting malicious files.",
+      "threat_type": "other",
+      "tweet_id": "2117582462742397424",
+      "type": "ip",
+      "value": "89.36.231.178"
+    },
+    "89.36.231.178:8080": {
+      "confidence": 0.6,
+      "date": "2026-11-03 11:39:36",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir"
+      ],
+      "summary": "Open directory exposed on a server at 89.36.231.178 port 8080, potentially hosting malicious files.",
+      "threat_type": "other",
+      "tweet_id": "2117582462742397424",
+      "type": "url",
+      "value": "http://89.36.231.178:8080"
     },
     "8942aa707ffd3865febf6b7ecea1ab200fdabdc9d7032a34cd6b8ce3b48b1165": {
       "confidence": 0.5,
@@ -33405,6 +33536,20 @@
       "type": "sha256",
       "value": "a1469f561141c9f5955444765ab6645af30216608219e34f1b9496c6f44c8b82"
     },
+    "a1bd1a3af026c176afe52c941622858227214d0aa5234b2d791a1631ea20ea0c": {
+      "confidence": 0.7,
+      "date": "2026-11-03 07:04:37",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "RAR archives with Russian invoice-themed filename seen from Russia, exploiting CVE-2025-8088 (WinRAR path traversal).",
+      "threat_type": "vulnerability",
+      "tweet_id": "2117513261260153072",
+      "type": "sha256",
+      "value": "a1bd1a3af026c176afe52c941622858227214d0aa5234b2d791a1631ea20ea0c"
+    },
     "a1ec177a3a82fde9e66bacbe001a07456d20c4412061933d1c54f29dd68285de": {
       "confidence": 0.6,
       "date": "2026-11-02 10:07:30",
@@ -33523,6 +33668,22 @@
       "tweet_id": "2113601611503120436",
       "type": "sha256",
       "value": "a44cad7e7d26a0f0284ceb2e9a10a964d9e7ab44ab74b22464eb2f836af3d90a"
+    },
+    "a52ed8094ba5bc976b4a21c69165e4f232af65ba899ef91b45a5d45e7d63b047": {
+      "confidence": 0.85,
+      "date": "2026-11-03 10:14:20",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware disguised as e-Tax app, distributed through phishing site christmasgif-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2117561003261272205",
+      "type": "sha256",
+      "value": "a52ed8094ba5bc976b4a21c69165e4f232af65ba899ef91b45a5d45e7d63b047"
     },
     "a5aaabe0dfe73e2a3f2071c150f4ddbbc5e53cebb6b67fb8425ac4b9038f5f99": {
       "confidence": 0.6,
@@ -34345,6 +34506,20 @@
       "tweet_id": "2107728010660987332",
       "type": "domain",
       "value": "accounts-google-signin.duckdns.org"
+    },
+    "acd02a95696d544d9bcf6e59285e92000fe8c6071d3b4321711f5daef694dd01": {
+      "confidence": 0.7,
+      "date": "2026-11-03 07:04:37",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "RAR archives with Russian invoice-themed filename seen from Russia, exploiting CVE-2025-8088 (WinRAR path traversal).",
+      "threat_type": "vulnerability",
+      "tweet_id": "2117513261260153072",
+      "type": "sha256",
+      "value": "acd02a95696d544d9bcf6e59285e92000fe8c6071d3b4321711f5daef694dd01"
     },
     "acd083343625712a2116d2480cdf9e80af72338b7653590d03b109b60708742b": {
       "confidence": 0.5,
@@ -39452,6 +39627,21 @@
       "tweet_id": "2114385282728378453",
       "type": "domain",
       "value": "ahutn0lm.onlinewebshop.net"
+    },
+    "ahutn0lm.onlinewebshop.net/setting.php": {
+      "confidence": 0.6,
+      "date": "2026-11-03 11:45:30",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "Korean-language malicious LNK lure posing as meeting minutes, fetching a payload from an onlinewebshop.net setting.php URL; tagged APT.",
+      "threat_type": "malware",
+      "tweet_id": "2117583946125090987",
+      "type": "url",
+      "value": "http://ahutn0lm.onlinewebshop.net/setting.php"
     },
     "ai-gateway.internal-corp.com": {
       "confidence": 0.8,
@@ -47266,6 +47456,22 @@
       "type": "domain",
       "value": "chinatpst.com"
     },
+    "christmasgif-jp.com": {
+      "confidence": 0.85,
+      "date": "2026-11-03 10:14:20",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware disguised as e-Tax app, distributed through phishing site christmasgif-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2117561003261272205",
+      "type": "domain",
+      "value": "christmasgif-jp.com"
+    },
     "cik07-cos.7moor-fs2.com": {
       "confidence": 0.55,
       "date": "2026-10-19 10:49:02",
@@ -49348,6 +49554,20 @@
       "type": "sha256",
       "value": "ddc85ad4885dd3da9ac8de4c3bc0392c0b2ccee075b79c8564ba71394d5b7aa6"
     },
+    "dde505f27b7a245044670679e49bab78c4b2629bcb56f265a0d79590327edcab": {
+      "confidence": 0.55,
+      "date": "2026-11-03 11:29:36",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "MSI sample with zero AV detection, distributed via an Azure cloudapp subdomain and uploaded to MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2117579945408921883",
+      "type": "sha256",
+      "value": "dde505f27b7a245044670679e49bab78c4b2629bcb56f265a0d79590327edcab"
+    },
     "de-at.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -49534,6 +49754,20 @@
       "tweet_id": "2112583368479318236",
       "type": "domain",
       "value": "deploy-whatsapp.com"
+    },
+    "deployment.eastus.cloudapp.azure.com": {
+      "confidence": 0.6,
+      "date": "2026-11-03 09:45:03",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Batch file hosted on Azure blob storage with next-stage proxy domain on Azure cloudapp, showing zero AV detections.",
+      "threat_type": "malware",
+      "tweet_id": "2117553636213473680",
+      "type": "domain",
+      "value": "deployment.eastus.cloudapp.azure.com"
     },
     "depositonovoteto.com": {
       "confidence": 0.8,
@@ -55118,6 +55352,23 @@
       "type": "domain",
       "value": "forzaverification.com"
     },
+    "foxnevs.com": {
+      "confidence": 0.9,
+      "date": "2026-11-03 11:46:12",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "phishing",
+        "malware"
+      ],
+      "summary": "ClickFix lure on typosquat foxnevs[.]com with fake Cloudflare CAPTCHA; pasted command uses curl to fetch an MSI from update.neewsoo[.]com and attempts persistence.",
+      "threat_type": "malware",
+      "tweet_id": "2117584123262898538",
+      "type": "domain",
+      "value": "foxnevs.com"
+    },
     "fqelt.cn": {
       "confidence": 0.75,
       "date": "2026-10-07 12:05:54",
@@ -55861,6 +56112,22 @@
       "type": "url",
       "value": "https://gist.github.com/recoverfitter-ux/d9fdb8ef52fd833fb16155c4ed68aeee"
     },
+    "github.com/dmt-101026": {
+      "confidence": 0.85,
+      "date": "2026-11-03 11:23:59",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": "Braodo Stealer",
+      "suggested_tags": [
+        "infostealer",
+        "stealer",
+        "malware"
+      ],
+      "summary": "Braodo Stealer delivered by a batch file lure that downloads payload and Python library from attacker GitHub accounts.",
+      "threat_type": "malware",
+      "tweet_id": "2117578534436921803",
+      "type": "url",
+      "value": "http://github.com/dmt-101026"
+    },
     "github.com/e303x": {
       "confidence": 0.75,
       "date": "2026-10-21 16:40:05",
@@ -55951,6 +56218,22 @@
       "tweet_id": "2112992876963451098",
       "type": "url",
       "value": "http://github.com/mariaaefyw"
+    },
+    "github.com/udt-101026": {
+      "confidence": 0.85,
+      "date": "2026-11-03 11:23:59",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": "Braodo Stealer",
+      "suggested_tags": [
+        "infostealer",
+        "stealer",
+        "malware"
+      ],
+      "summary": "Braodo Stealer delivered by a batch file lure that downloads payload and Python library from attacker GitHub accounts.",
+      "threat_type": "malware",
+      "tweet_id": "2117578534436921803",
+      "type": "url",
+      "value": "http://github.com/udt-101026"
     },
     "github.com/udt-101026/thaem/raw/main/udt.bat": {
       "confidence": 0.6,
@@ -57106,6 +57389,21 @@
       "type": "domain",
       "value": "help.webstatici-whatsapp.com"
     },
+    "hendakhelifi.com": {
+      "confidence": 0.55,
+      "date": "2026-11-03 11:44:19",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "Russian-language malicious LNK disguised as a document, linking to hendakhelifi.com; tagged APT with Node.js-based payload targeting Ukraine.",
+      "threat_type": "malware",
+      "tweet_id": "2117583647666761791",
+      "type": "domain",
+      "value": "hendakhelifi.com"
+    },
     "herstel-google.com": {
       "confidence": 0.88,
       "date": "2026-10-30 19:33:40",
@@ -57923,6 +58221,20 @@
       "tweet_id": "2111248110081224749",
       "type": "url",
       "value": "https://iasteun.cn/Login/"
+    },
+    "icicibankkyc.vercel.app": {
+      "confidence": 0.9,
+      "date": "2026-11-03 06:23:40",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page impersonating ICICI Bank KYC hosted on Vercel.",
+      "threat_type": "phishing",
+      "tweet_id": "2117502955314409620",
+      "type": "domain",
+      "value": "icicibankkyc.vercel.app"
     },
     "id-review.at": {
       "confidence": 0.8,
@@ -60985,6 +61297,34 @@
       "type": "domain",
       "value": "logs.uvexio.com"
     },
+    "logstack.blob.core.windows.net": {
+      "confidence": 0.6,
+      "date": "2026-11-03 09:45:03",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Batch file hosted on Azure blob storage with next-stage proxy domain on Azure cloudapp, showing zero AV detections.",
+      "threat_type": "malware",
+      "tweet_id": "2117553636213473680",
+      "type": "domain",
+      "value": "logstack.blob.core.windows.net"
+    },
+    "logstack.blob.core.windows.net/stackflow/codewatch.bat": {
+      "confidence": 0.6,
+      "date": "2026-11-03 09:45:03",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Batch file hosted on Azure blob storage with next-stage proxy domain on Azure cloudapp, showing zero AV detections.",
+      "threat_type": "malware",
+      "tweet_id": "2117553636213473680",
+      "type": "url",
+      "value": "https://logstack.blob.core.windows.net/stackflow/codewatch.bat"
+    },
     "loja-ma-ga-zine-luiza.com": {
       "confidence": 0.9,
       "date": "2026-10-08 21:34:13",
@@ -61214,22 +61554,6 @@
       "tweet_id": "2112415073583141097",
       "type": "url",
       "value": "https://luoc.run/TMLYa"
-    },
-    "luqiuid91.com": {
-      "confidence": 0.85,
-      "date": "2026-10-04 11:27:05",
-      "enriched_at": "2026-10-04T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "fakecaptcha",
-        "malware"
-      ],
-      "summary": "Fake 'DDoS-Guard verification' ClickFix page; the domain's DNS TXT records are used to retrieve malware payloads.",
-      "threat_type": "malware",
-      "tweet_id": "2106613709208797692",
-      "type": "domain",
-      "value": "luqiuid91.com"
     },
     "luqos.cn": {
       "confidence": 0.8,
@@ -64294,6 +64618,20 @@
       "tweet_id": "2115875870560694464",
       "type": "domain",
       "value": "octoberfp.eastus.cloudapp.azure.com"
+    },
+    "octoberfp.eastus.cloudapp.azure.com/files/kb59930": {
+      "confidence": 0.5,
+      "date": "2026-11-03 10:18:54",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Another source URL on an Azure cloudapp subdomain serving an MSI with no AV detections and apparently inert metadata.",
+      "threat_type": "malware",
+      "tweet_id": "2117562154240888853",
+      "type": "url",
+      "value": "https://octoberfp.eastus.cloudapp.azure.com/files/KB59930"
     },
     "octoberfp.eastus.cloudapp.azure.com/files/kb59985": {
       "confidence": 0.4,
@@ -68195,6 +68533,22 @@
       "tweet_id": "2109770913336156252",
       "type": "domain",
       "value": "romcu.cn"
+    },
+    "rongjuekeji.com": {
+      "confidence": 0.85,
+      "date": "2026-11-03 11:06:54",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware disguised as a Sumitomo Mitsui card app, with phishing site at rongjuekeji.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2117574231261409770",
+      "type": "domain",
+      "value": "rongjuekeji.com"
     },
     "room-whatsapp.com": {
       "confidence": 0.75,
@@ -74803,6 +75157,23 @@
       "type": "url",
       "value": "http://update.cdnlinks.org/PdfView.lnk"
     },
+    "update.neewsoo.com": {
+      "confidence": 0.9,
+      "date": "2026-11-03 11:46:12",
+      "enriched_at": "2026-11-03T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "phishing",
+        "malware"
+      ],
+      "summary": "ClickFix lure on typosquat foxnevs[.]com with fake Cloudflare CAPTCHA; pasted command uses curl to fetch an MSI from update.neewsoo[.]com and attempts persistence.",
+      "threat_type": "malware",
+      "tweet_id": "2117584123262898538",
+      "type": "domain",
+      "value": "update.neewsoo.com"
+    },
     "update.zip": {
       "confidence": 0.85,
       "date": "2026-10-07 13:43:37",
@@ -80486,6 +80857,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-03T06:40:04Z",
+  "generated_at": "2026-11-03T12:40:03Z",
   "window_days": 30
 }
