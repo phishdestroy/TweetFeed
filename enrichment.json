@@ -1,5 +1,5 @@
 {
-  "count": 5793,
+  "count": 5840,
   "dead_tweets": {
     "2107773993008669042": {
       "attempts": 2,
@@ -485,6 +485,20 @@
       "type": "sha256",
       "value": "0d0cf937953e7bdc87d29f093f3667e618314b312a9bd70345b84e25be57fab7"
     },
+    "0e807a485125b699a83d923eea9e128a": {
+      "confidence": 0.3,
+      "date": "2026-11-03 13:12:30",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "MD5 hash shared with a file name reference 'VAN CHHAY_RESIDENTAIL BOOK' and no further context; likely a malicious document lure.",
+      "threat_type": "malware",
+      "tweet_id": "2117605840337191002",
+      "type": "md5",
+      "value": "0e807a485125b699a83d923eea9e128a"
+    },
     "0xrpc.io": {
       "confidence": 0.45,
       "date": "2026-10-16 11:12:08",
@@ -559,6 +573,24 @@
       "type": "ip",
       "value": "1.48.4.0"
     },
+    "1.92.135.168": {
+      "confidence": 0.7,
+      "date": "2026-11-03 16:26:07",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Cobalt Strike",
+      "suggested_tags": [
+        "cobaltstrike",
+        "adaptixc2",
+        "c2",
+        "opendir",
+        "malware"
+      ],
+      "summary": "Twelve malware-hosting IPs also tied to live C2 and offensive tooling (Cobalt Strike, AdaptixC2, Mirai, Quasar, vshell), open directories, proxies and phishing.",
+      "threat_type": "c2",
+      "tweet_id": "2117654568360099853",
+      "type": "ip",
+      "value": "1.92.135.168"
+    },
     "1.95.73.195": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -570,6 +602,24 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "1.95.73.195"
+    },
+    "101.200.193.211": {
+      "confidence": 0.7,
+      "date": "2026-11-03 16:26:07",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Cobalt Strike",
+      "suggested_tags": [
+        "cobaltstrike",
+        "adaptixc2",
+        "c2",
+        "opendir",
+        "malware"
+      ],
+      "summary": "Twelve malware-hosting IPs also tied to live C2 and offensive tooling (Cobalt Strike, AdaptixC2, Mirai, Quasar, vshell), open directories, proxies and phishing.",
+      "threat_type": "c2",
+      "tweet_id": "2117654568360099853",
+      "type": "ip",
+      "value": "101.200.193.211"
     },
     "101.32.103.87": {
       "confidence": 0.8,
@@ -700,6 +750,24 @@
       "tweet_id": "2116299379321577713",
       "type": "url",
       "value": "http://102.220.160.88"
+    },
+    "102.220.161.143": {
+      "confidence": 0.7,
+      "date": "2026-11-03 16:26:07",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Cobalt Strike",
+      "suggested_tags": [
+        "cobaltstrike",
+        "adaptixc2",
+        "c2",
+        "opendir",
+        "malware"
+      ],
+      "summary": "Twelve malware-hosting IPs also tied to live C2 and offensive tooling (Cobalt Strike, AdaptixC2, Mirai, Quasar, vshell), open directories, proxies and phishing.",
+      "threat_type": "c2",
+      "tweet_id": "2117654568360099853",
+      "type": "ip",
+      "value": "102.220.161.143"
     },
     "102.220.163.152": {
       "confidence": 0.9,
@@ -1685,6 +1753,24 @@
       "type": "url",
       "value": "http://103.170.217.170"
     },
+    "103.172.186.175": {
+      "confidence": 0.7,
+      "date": "2026-11-03 16:26:07",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Cobalt Strike",
+      "suggested_tags": [
+        "cobaltstrike",
+        "adaptixc2",
+        "c2",
+        "opendir",
+        "malware"
+      ],
+      "summary": "Twelve malware-hosting IPs also tied to live C2 and offensive tooling (Cobalt Strike, AdaptixC2, Mirai, Quasar, vshell), open directories, proxies and phishing.",
+      "threat_type": "c2",
+      "tweet_id": "2117654568360099853",
+      "type": "ip",
+      "value": "103.172.186.175"
+    },
     "103.174.225.95": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -2086,6 +2172,24 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "103.25.250.251"
+    },
+    "103.27.239.184": {
+      "confidence": 0.7,
+      "date": "2026-11-03 16:26:07",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Cobalt Strike",
+      "suggested_tags": [
+        "cobaltstrike",
+        "adaptixc2",
+        "c2",
+        "opendir",
+        "malware"
+      ],
+      "summary": "Twelve malware-hosting IPs also tied to live C2 and offensive tooling (Cobalt Strike, AdaptixC2, Mirai, Quasar, vshell), open directories, proxies and phishing.",
+      "threat_type": "c2",
+      "tweet_id": "2117654568360099853",
+      "type": "ip",
+      "value": "103.27.239.184"
     },
     "103.31.153.253": {
       "confidence": 0.5,
@@ -3113,6 +3217,24 @@
       "type": "url",
       "value": "http://104.237.154.191"
     },
+    "104.238.147.251": {
+      "confidence": 0.7,
+      "date": "2026-11-03 16:26:07",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Cobalt Strike",
+      "suggested_tags": [
+        "cobaltstrike",
+        "adaptixc2",
+        "c2",
+        "opendir",
+        "malware"
+      ],
+      "summary": "Twelve malware-hosting IPs also tied to live C2 and offensive tooling (Cobalt Strike, AdaptixC2, Mirai, Quasar, vshell), open directories, proxies and phishing.",
+      "threat_type": "c2",
+      "tweet_id": "2117654568360099853",
+      "type": "ip",
+      "value": "104.238.147.251"
+    },
     "105.224.242.90": {
       "confidence": 0.8,
       "date": "2026-10-05 12:46:56",
@@ -3201,6 +3323,24 @@
       "tweet_id": "2111396440815947970",
       "type": "url",
       "value": "http://106.55.34.199"
+    },
+    "106.75.7.239": {
+      "confidence": 0.7,
+      "date": "2026-11-03 16:26:07",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Cobalt Strike",
+      "suggested_tags": [
+        "cobaltstrike",
+        "adaptixc2",
+        "c2",
+        "opendir",
+        "malware"
+      ],
+      "summary": "Twelve malware-hosting IPs also tied to live C2 and offensive tooling (Cobalt Strike, AdaptixC2, Mirai, Quasar, vshell), open directories, proxies and phishing.",
+      "threat_type": "c2",
+      "tweet_id": "2117654568360099853",
+      "type": "ip",
+      "value": "106.75.7.239"
     },
     "107.150.123.48": {
       "confidence": 0.5,
@@ -3452,6 +3592,24 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "107.175.132.47"
+    },
+    "107.175.39.140": {
+      "confidence": 0.7,
+      "date": "2026-11-03 16:26:07",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Cobalt Strike",
+      "suggested_tags": [
+        "cobaltstrike",
+        "adaptixc2",
+        "c2",
+        "opendir",
+        "malware"
+      ],
+      "summary": "Twelve malware-hosting IPs also tied to live C2 and offensive tooling (Cobalt Strike, AdaptixC2, Mirai, Quasar, vshell), open directories, proxies and phishing.",
+      "threat_type": "c2",
+      "tweet_id": "2117654568360099853",
+      "type": "ip",
+      "value": "107.175.39.140"
     },
     "107.175.82.242": {
       "confidence": 0.5,
@@ -3734,6 +3892,42 @@
       "type": "url",
       "value": "http://110.41.6.163"
     },
+    "110.42.215.163": {
+      "confidence": 0.7,
+      "date": "2026-11-03 16:26:07",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Cobalt Strike",
+      "suggested_tags": [
+        "cobaltstrike",
+        "adaptixc2",
+        "c2",
+        "opendir",
+        "malware"
+      ],
+      "summary": "Twelve malware-hosting IPs also tied to live C2 and offensive tooling (Cobalt Strike, AdaptixC2, Mirai, Quasar, vshell), open directories, proxies and phishing.",
+      "threat_type": "c2",
+      "tweet_id": "2117654568360099853",
+      "type": "ip",
+      "value": "110.42.215.163"
+    },
+    "111.228.5.127": {
+      "confidence": 0.7,
+      "date": "2026-11-03 16:26:07",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Cobalt Strike",
+      "suggested_tags": [
+        "cobaltstrike",
+        "adaptixc2",
+        "c2",
+        "opendir",
+        "malware"
+      ],
+      "summary": "Twelve malware-hosting IPs also tied to live C2 and offensive tooling (Cobalt Strike, AdaptixC2, Mirai, Quasar, vshell), open directories, proxies and phishing.",
+      "threat_type": "c2",
+      "tweet_id": "2117654568360099853",
+      "type": "ip",
+      "value": "111.228.5.127"
+    },
     "111.92.246.145": {
       "confidence": 0.55,
       "date": "2026-11-03 11:44:53",
@@ -3843,6 +4037,24 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "113.212.111.204"
+    },
+    "113.45.207.71": {
+      "confidence": 0.7,
+      "date": "2026-11-03 16:26:07",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Cobalt Strike",
+      "suggested_tags": [
+        "cobaltstrike",
+        "adaptixc2",
+        "c2",
+        "opendir",
+        "malware"
+      ],
+      "summary": "Twelve malware-hosting IPs also tied to live C2 and offensive tooling (Cobalt Strike, AdaptixC2, Mirai, Quasar, vshell), open directories, proxies and phishing.",
+      "threat_type": "c2",
+      "tweet_id": "2117654568360099853",
+      "type": "ip",
+      "value": "113.45.207.71"
     },
     "113.45.22.170": {
       "confidence": 0.5,
@@ -4787,6 +4999,24 @@
       "tweet_id": "2110300468928729479",
       "type": "url",
       "value": "http://134.122.130.202"
+    },
+    "134.122.140.63": {
+      "confidence": 0.7,
+      "date": "2026-11-03 16:26:07",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Cobalt Strike",
+      "suggested_tags": [
+        "cobaltstrike",
+        "adaptixc2",
+        "c2",
+        "opendir",
+        "malware"
+      ],
+      "summary": "Twelve malware-hosting IPs also tied to live C2 and offensive tooling (Cobalt Strike, AdaptixC2, Mirai, Quasar, vshell), open directories, proxies and phishing.",
+      "threat_type": "c2",
+      "tweet_id": "2117654568360099853",
+      "type": "ip",
+      "value": "134.122.140.63"
     },
     "134.122.189.138": {
       "confidence": 0.45,
@@ -7478,6 +7708,22 @@
       "type": "ip",
       "value": "151.80.21.203"
     },
+    "152.175.230.66": {
+      "confidence": 0.9,
+      "date": "2026-11-03 14:53:10",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Three IPs identified via Shodan as Sliver C2 servers, reported with high confidence.",
+      "threat_type": "c2",
+      "tweet_id": "2117631175892279541",
+      "type": "url",
+      "value": "http://152.175.230.66"
+    },
     "152.232.132.254": {
       "confidence": 0.9,
       "date": "2026-10-05 13:34:13",
@@ -9484,6 +9730,20 @@
       "type": "sha256",
       "value": "16a9a0455feeaaf9a60b23b7430852f6d31936da8ebb29d54ca3dc4c15b7da42"
     },
+    "16f8a627f45be80228a2e9878b155a3b691ed218ec7b7f85d9f367f8a3bb400f": {
+      "confidence": 0.4,
+      "date": "2026-11-03 12:58:56",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Low-detection EXE sample 'blyat.exe' from Poland uploaded to MalwareBazaar; sandbox run showed unusual behavior.",
+      "threat_type": "malware",
+      "tweet_id": "2117602426081382828",
+      "type": "sha256",
+      "value": "16f8a627f45be80228a2e9878b155a3b691ed218ec7b7f85d9f367f8a3bb400f"
+    },
     "17.1.3.7": {
       "confidence": 0.7,
       "date": "2026-10-26 04:54:04",
@@ -10618,6 +10878,20 @@
       "type": "url",
       "value": "http://18.228.18.93:4782"
     },
+    "180.178.191.153": {
+      "confidence": 0.92,
+      "date": "2026-11-03 13:01:47",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Banco Santander phishing on santander.nfcobsidian[.]com, registered 2026-11-01, hosted at 180.178.191.153 (AS399979).",
+      "threat_type": "phishing",
+      "tweet_id": "2117603145832353872",
+      "type": "ip",
+      "value": "180.178.191.153"
+    },
     "180.181.122.134": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -10653,6 +10927,86 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "180.93.54.84"
+    },
+    "181.85.173.171": {
+      "confidence": 0.88,
+      "date": "2026-11-03 12:35:40",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Xeno RAT",
+      "suggested_tags": [
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "Xeno RAT sample with C2 at 181.85.173.171 using HTTP endpoints /api/checkin, /api/blob, /api/result and /api/ping; Spanish comments in the log.",
+      "threat_type": "c2",
+      "tweet_id": "2117596570468405324",
+      "type": "ip",
+      "value": "181.85.173.171"
+    },
+    "181.85.173.171:8001/api/blob": {
+      "confidence": 0.88,
+      "date": "2026-11-03 12:35:40",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Xeno RAT",
+      "suggested_tags": [
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "Xeno RAT sample with C2 at 181.85.173.171 using HTTP endpoints /api/checkin, /api/blob, /api/result and /api/ping; Spanish comments in the log.",
+      "threat_type": "c2",
+      "tweet_id": "2117596570468405324",
+      "type": "url",
+      "value": "http://181.85.173.171:8001/api/blob"
+    },
+    "181.85.173.171:8001/api/checkin": {
+      "confidence": 0.88,
+      "date": "2026-11-03 12:35:40",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Xeno RAT",
+      "suggested_tags": [
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "Xeno RAT sample with C2 at 181.85.173.171 using HTTP endpoints /api/checkin, /api/blob, /api/result and /api/ping; Spanish comments in the log.",
+      "threat_type": "c2",
+      "tweet_id": "2117596570468405324",
+      "type": "url",
+      "value": "http://181.85.173.171:8001/api/checkin"
+    },
+    "181.85.173.171:8001/api/ping": {
+      "confidence": 0.88,
+      "date": "2026-11-03 12:35:40",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Xeno RAT",
+      "suggested_tags": [
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "Xeno RAT sample with C2 at 181.85.173.171 using HTTP endpoints /api/checkin, /api/blob, /api/result and /api/ping; Spanish comments in the log.",
+      "threat_type": "c2",
+      "tweet_id": "2117596570468405324",
+      "type": "url",
+      "value": "http://181.85.173.171:8001/api/ping"
+    },
+    "181.85.173.171:8001/api/result": {
+      "confidence": 0.88,
+      "date": "2026-11-03 12:35:40",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Xeno RAT",
+      "suggested_tags": [
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "Xeno RAT sample with C2 at 181.85.173.171 using HTTP endpoints /api/checkin, /api/blob, /api/result and /api/ping; Spanish comments in the log.",
+      "threat_type": "c2",
+      "tweet_id": "2117596570468405324",
+      "type": "url",
+      "value": "http://181.85.173.171:8001/api/result"
     },
     "181818data1.icu": {
       "confidence": 0.35,
@@ -12389,6 +12743,21 @@
       "tweet_id": "2113601611503120436",
       "type": "sha256",
       "value": "1aa47ce02867f847227839b60d396ca96dac60372b0cd26b78b71a34473bb079"
+    },
+    "1b11227769ec83035b631f3b21af0747e7f53dd3ce5dde69e8b2f04480bf275a": {
+      "confidence": 0.5,
+      "date": "2026-11-03 13:15:24",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Low-detection 'agent-setup.msi' related to a fake 'WHisKEY - Remote Device Management' panel; likely remote access tooling abused as malware.",
+      "threat_type": "malware",
+      "tweet_id": "2117606569680490578",
+      "type": "sha256",
+      "value": "1b11227769ec83035b631f3b21af0747e7f53dd3ce5dde69e8b2f04480bf275a"
     },
     "1b519c70fe1f04dfed8e09bbbd7deb376b9c7bc6ce828fc62eba326fe71a26f2": {
       "confidence": 0.6,
@@ -15633,6 +16002,22 @@
       "type": "url",
       "value": "http://31.57.38.4:9015"
     },
+    "31.57.38.70": {
+      "confidence": 0.9,
+      "date": "2026-11-03 14:53:10",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Three IPs identified via Shodan as Sliver C2 servers, reported with high confidence.",
+      "threat_type": "c2",
+      "tweet_id": "2117631175892279541",
+      "type": "url",
+      "value": "http://31.57.38.70"
+    },
     "31.59.39.40": {
       "confidence": 0.2,
       "date": "2026-10-06 09:32:48",
@@ -15644,6 +16029,22 @@
       "tweet_id": "2107403690747351321",
       "type": "url",
       "value": "http://31.59.39.40"
+    },
+    "31.76.111.31": {
+      "confidence": 0.9,
+      "date": "2026-11-03 14:53:10",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Three IPs identified via Shodan as Sliver C2 servers, reported with high confidence.",
+      "threat_type": "c2",
+      "tweet_id": "2117631175892279541",
+      "type": "url",
+      "value": "http://31.76.111.31"
     },
     "31.77.228.184": {
       "confidence": 0.65,
@@ -27654,6 +28055,21 @@
       "type": "url",
       "value": "http://5.83.136.39:8080"
     },
+    "50.114.179.29": {
+      "confidence": 0.55,
+      "date": "2026-11-03 13:07:20",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "rat"
+      ],
+      "summary": "Another 'WHisKEY - Remote Device Management' panel hosted on 50.114.179[.]29, likely a remote access tool control server.",
+      "threat_type": "c2",
+      "tweet_id": "2117604540996272316",
+      "type": "url",
+      "value": "http://50.114.179.29"
+    },
     "50.114.236.142": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -30103,6 +30519,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "79.124.58.82"
+    },
+    "79.99.164.4": {
+      "confidence": 0.85,
+      "date": "2026-11-03 15:20:30",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site hosted at www.hubert-chauffage.fr on a French IP (AS16347), reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2117638051925221815",
+      "type": "ip",
+      "value": "79.99.164.4"
     },
     "7997f060b20c6e84a31552af0ca63fe29f4cbd5815decf48a5218175abb5dcd9": {
       "confidence": 0.7,
@@ -39396,6 +39826,21 @@
       "type": "sha256",
       "value": "ae77ca969d8da72838100e387e4813d51265375937ad4245f1fce2fd4473493e"
     },
+    "ae7cdef673ba700dfd12d96a3b7b22d8f089b0fecbbcf65861c0635718c93581": {
+      "confidence": 0.6,
+      "date": "2026-11-03 15:05:32",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Ambrela RAT",
+      "suggested_tags": [
+        "rat",
+        "malware"
+      ],
+      "summary": "Related malware sample seen from Azerbaijan, linked to a panel titled 'AMBRELA RAT'.",
+      "threat_type": "malware",
+      "tweet_id": "2117634289328119904",
+      "type": "sha256",
+      "value": "ae7cdef673ba700dfd12d96a3b7b22d8f089b0fecbbcf65861c0635718c93581"
+    },
     "aea291ecbfc916acb6cd8b1d1f9a3671c8782c5bc051098c7ab9d94c786d5dcc": {
       "confidence": 0.55,
       "date": "2026-10-25 22:13:56",
@@ -39809,6 +40254,20 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "akd-whatsapp.com"
+    },
+    "ake-terais-nouls.rest": {
+      "confidence": 0.4,
+      "date": "2026-11-03 16:10:38",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Domains reported via Webamon as clinic-copy and offer-page lures, likely scam or phishing pages; few technical details provided.",
+      "threat_type": "scam",
+      "tweet_id": "2117650669599350846",
+      "type": "domain",
+      "value": "ake-terais-nouls.rest"
     },
     "ake-whatsapp.com": {
       "confidence": 0.65,
@@ -41446,6 +41905,38 @@
       "type": "domain",
       "value": "appimg-whatsapp.com"
     },
+    "apple-condition.com": {
+      "confidence": 0.92,
+      "date": "2026-11-03 15:30:10",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam",
+        "scam"
+      ],
+      "summary": "Ledger phishing: store-looking domains redirect via /en/verification to a fake Ledger device verification page, aimed at stealing crypto wallet credentials.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117640487192629756",
+      "type": "domain",
+      "value": "apple-condition.com"
+    },
+    "apple-conditions.com": {
+      "confidence": 0.92,
+      "date": "2026-11-03 15:30:10",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam",
+        "scam"
+      ],
+      "summary": "Ledger phishing: store-looking domains redirect via /en/verification to a fake Ledger device verification page, aimed at stealing crypto wallet credentials.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117640487192629756",
+      "type": "domain",
+      "value": "apple-conditions.com"
+    },
     "apple-support.today": {
       "confidence": 0.65,
       "date": "2026-10-20 13:14:11",
@@ -42618,6 +43109,22 @@
       "tweet_id": "2116022057163268198",
       "type": "sha256",
       "value": "ba96c4e1fc238fef71778726d006b2d4edd1374e177c8cde9078043e91079055"
+    },
+    "baa9ee4ba8822876bb4a21bb9f0c72e7417f3122b1ad2d05b4a8e141b0fb419d": {
+      "confidence": 0.92,
+      "date": "2026-11-03 15:30:10",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam",
+        "scam"
+      ],
+      "summary": "Ledger phishing: store-looking domains redirect via /en/verification to a fake Ledger device verification page, aimed at stealing crypto wallet credentials.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117640487192629756",
+      "type": "sha256",
+      "value": "baa9ee4ba8822876bb4a21bb9f0c72e7417f3122b1ad2d05b4a8e141b0fb419d"
     },
     "backup.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -45092,6 +45599,38 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "browser-whatsapp.com"
+    },
+    "browseruphelp.com": {
+      "confidence": 0.92,
+      "date": "2026-11-03 15:30:10",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam",
+        "scam"
+      ],
+      "summary": "Additional Ledger/Trezor phishing: browseruphelp[.]com/en/verification plus a long list of lookalike hardware wallet domains.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2045461770199019849",
+      "type": "domain",
+      "value": "browseruphelp.com"
+    },
+    "browseruphelp.com/en/verification": {
+      "confidence": 0.92,
+      "date": "2026-11-03 15:30:10",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam",
+        "scam"
+      ],
+      "summary": "Additional Ledger/Trezor phishing: browseruphelp[.]com/en/verification plus a long list of lookalike hardware wallet domains.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2045461770199019849",
+      "type": "url",
+      "value": "http://browseruphelp.com/en/verification"
     },
     "bryweb-whatsapp.com": {
       "confidence": 0.65,
@@ -50177,6 +50716,38 @@
       "type": "url",
       "value": "http://device.ledger-config.live/en/verification"
     },
+    "device.ledger-signature.live": {
+      "confidence": 0.92,
+      "date": "2026-11-03 15:30:10",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam",
+        "scam"
+      ],
+      "summary": "Ledger phishing: store-looking domains redirect via /en/verification to a fake Ledger device verification page, aimed at stealing crypto wallet credentials.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117640487192629756",
+      "type": "domain",
+      "value": "device.ledger-signature.live"
+    },
+    "device.ledger-signature.live/en/verification": {
+      "confidence": 0.92,
+      "date": "2026-11-03 15:30:10",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam",
+        "scam"
+      ],
+      "summary": "Ledger phishing: store-looking domains redirect via /en/verification to a fake Ledger device verification page, aimed at stealing crypto wallet credentials.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2117640487192629756",
+      "type": "url",
+      "value": "https://device.ledger-signature.live/en/verification"
+    },
     "device.webstatici-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -51904,6 +52475,20 @@
       "type": "sha256",
       "value": "ebd865e5901bd5881f6a932d5f7a58e69ef54d25a58df50547e1b1fc8612789d"
     },
+    "ec69264f4a445875a94feb2e0a20de4b4d83b92f4fcca31a33fb7de3b387f265": {
+      "confidence": 0.5,
+      "date": "2026-11-03 15:09:50",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malware sample 'ComThickener-x64.dll' seen from Mongolia; uses api.telegram.org, suggesting Telegram-based C2 or exfiltration.",
+      "threat_type": "malware",
+      "tweet_id": "2117635368405131759",
+      "type": "sha256",
+      "value": "ec69264f4a445875a94feb2e0a20de4b4d83b92f4fcca31a33fb7de3b387f265"
+    },
     "ec832c3ad772111081ba21e35aca3bb0": {
       "confidence": 0.8,
       "date": "2026-10-08 11:25:45",
@@ -52184,6 +52769,22 @@
       "type": "url",
       "value": "http://efanxian.com/ns"
     },
+    "efe92b5b04570495f2b845b78414dee4": {
+      "confidence": 0.88,
+      "date": "2026-11-03 12:35:40",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Xeno RAT",
+      "suggested_tags": [
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "Xeno RAT sample with C2 at 181.85.173.171 using HTTP endpoints /api/checkin, /api/blob, /api/result and /api/ping; Spanish comments in the log.",
+      "threat_type": "c2",
+      "tweet_id": "2117596570468405324",
+      "type": "md5",
+      "value": "efe92b5b04570495f2b845b78414dee4"
+    },
     "efine-post.com": {
       "confidence": 0.3,
       "date": "2026-10-09 12:45:45",
@@ -52270,6 +52871,20 @@
       "tweet_id": "2108663107824345098",
       "type": "domain",
       "value": "element.proxy08.com"
+    },
+    "ems-rifted-grigs.site": {
+      "confidence": 0.4,
+      "date": "2026-11-03 16:10:38",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Domains reported via Webamon as clinic-copy and offer-page lures, likely scam or phishing pages; few technical details provided.",
+      "threat_type": "scam",
+      "tweet_id": "2117650669599350846",
+      "type": "domain",
+      "value": "ems-rifted-grigs.site"
     },
     "en-au.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
@@ -53036,6 +53651,20 @@
       "type": "domain",
       "value": "f7-whatsapp.com"
     },
+    "f780877110f17ab0a41e6c837a203b4a7b4cf0d9cb9ce60face9c376d7d8bf1d": {
+      "confidence": 0.5,
+      "date": "2026-11-03 15:13:53",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malware sample 'ReportViewer.exe' seen from the Netherlands; communicates with api.telegram.org, suggesting Telegram-based C2 or exfiltration.",
+      "threat_type": "malware",
+      "tweet_id": "2117636388602384728",
+      "type": "sha256",
+      "value": "f780877110f17ab0a41e6c837a203b4a7b4cf0d9cb9ce60face9c376d7d8bf1d"
+    },
     "f7d69eb3676f025cdaf5d387ca10dfb2": {
       "confidence": 0.6,
       "date": "2026-10-28 18:41:18",
@@ -53779,6 +54408,22 @@
       "tweet_id": "2112993603123552401",
       "type": "domain",
       "value": "fileserver.devin-hk.shop"
+    },
+    "filesyncoraflow.com": {
+      "confidence": 0.85,
+      "date": "2026-11-03 17:06:40",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware"
+      ],
+      "summary": "Fake macOS download page on filesyncoraflow[.]com mimics a GitHub Verified Publisher and stages a Terminal command to fetch and run a hidden script; part of a ClickFix cluster.",
+      "threat_type": "malware",
+      "tweet_id": "2117664769628897347",
+      "type": "domain",
+      "value": "filesyncoraflow.com"
     },
     "fimnet.fi": {
       "confidence": 0.92,
@@ -55975,6 +56620,21 @@
       "type": "url",
       "value": "https://gerardo.desarrollowebalcala.es/ip/index.php?sid=df26277ab0cdf62c179305f2bf4fe8bc"
     },
+    "geratronic.com.br": {
+      "confidence": 0.8,
+      "date": "2026-11-03 13:36:36",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "php2shell"
+      ],
+      "summary": "Possibly compromised Brazilian website geratronic[.]com[.]br hosting a phishing kit consisting of a single PHP file; reported to CERT.br.",
+      "threat_type": "phishing",
+      "tweet_id": "2117611907880468977",
+      "type": "domain",
+      "value": "geratronic.com.br"
+    },
     "get-googlemeet.com": {
       "confidence": 0.75,
       "date": "2026-10-21 16:40:05",
@@ -56899,6 +57559,20 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "guide.webapi-whatsapp.com"
+    },
+    "gulas-kaccha-tronk.space": {
+      "confidence": 0.4,
+      "date": "2026-11-03 16:10:38",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Domains reported via Webamon as clinic-copy and offer-page lures, likely scam or phishing pages; few technical details provided.",
+      "threat_type": "scam",
+      "tweet_id": "2117650669599350846",
+      "type": "domain",
+      "value": "gulas-kaccha-tronk.space"
     },
     "gumruk.info": {
       "confidence": 0.7,
@@ -58043,6 +58717,20 @@
       "tweet_id": "2107696283205201983",
       "type": "domain",
       "value": "hubeigegua-jp.com"
+    },
+    "hubert-chauffage.fr": {
+      "confidence": 0.85,
+      "date": "2026-11-03 15:20:30",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site hosted at www.hubert-chauffage.fr on a French IP (AS16347), reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2117638051925221815",
+      "type": "domain",
+      "value": "hubert-chauffage.fr"
     },
     "hubkit-whatsapp.com": {
       "confidence": 0.65,
@@ -60440,6 +61128,38 @@
       "type": "domain",
       "value": "kucoinapps.b12sites.com"
     },
+    "kyamich.dev": {
+      "confidence": 0.7,
+      "date": "2026-11-03 15:05:32",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Ambrela RAT",
+      "suggested_tags": [
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "Login panel titled 'AMBRELA RAT' hosted at kyamich[.]dev, a likely RAT C2 control panel.",
+      "threat_type": "c2",
+      "tweet_id": "2117628960913637693",
+      "type": "domain",
+      "value": "kyamich.dev"
+    },
+    "kyamich.dev/login": {
+      "confidence": 0.7,
+      "date": "2026-11-03 15:05:32",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "Ambrela RAT",
+      "suggested_tags": [
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "Login panel titled 'AMBRELA RAT' hosted at kyamich[.]dev, a likely RAT C2 control panel.",
+      "threat_type": "c2",
+      "tweet_id": "2117628960913637693",
+      "type": "url",
+      "value": "https://kyamich.dev/login"
+    },
     "l4-l4.site": {
       "confidence": 0.8,
       "date": "2026-10-19 20:50:17",
@@ -62816,6 +63536,22 @@
       "tweet_id": "2115514257752133832",
       "type": "domain",
       "value": "mineiicancry10june2026w2limilim.blogspot.com"
+    },
+    "mineproper.org": {
+      "confidence": 0.75,
+      "date": "2026-11-03 15:23:00",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": "PaperWerewolf",
+      "suggested_tags": [
+        "apt",
+        "c2",
+        "malware"
+      ],
+      "summary": "Domain mineproper[.]org attributed to the PaperWerewolf APT as C2 infrastructure for cyber espionage.",
+      "threat_type": "c2",
+      "tweet_id": "2117638682475626616",
+      "type": "domain",
+      "value": "mineproper.org"
     },
     "minha-maga-online.com": {
       "confidence": 0.93,
@@ -68940,6 +69676,34 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "sample-whatsapp.com"
+    },
+    "santander.nfcobsidian.com": {
+      "confidence": 0.92,
+      "date": "2026-11-03 13:01:47",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Banco Santander phishing on santander.nfcobsidian[.]com, registered 2026-11-01, hosted at 180.178.191.153 (AS399979).",
+      "threat_type": "phishing",
+      "tweet_id": "2117603145832353872",
+      "type": "domain",
+      "value": "santander.nfcobsidian.com"
+    },
+    "saw-strops-tedy.top": {
+      "confidence": 0.4,
+      "date": "2026-11-03 16:10:38",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Domains reported via Webamon as clinic-copy and offer-page lures, likely scam or phishing pages; few technical details provided.",
+      "threat_type": "scam",
+      "tweet_id": "2117650669599350846",
+      "type": "domain",
+      "value": "saw-strops-tedy.top"
     },
     "sayosay.cc": {
       "confidence": 0.9,
@@ -78550,6 +79314,20 @@
       "type": "url",
       "value": "https://www.grillchefsecrets.com"
     },
+    "www.hubert-chauffage.fr": {
+      "confidence": 0.85,
+      "date": "2026-11-03 15:20:30",
+      "enriched_at": "2026-11-03T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site hosted at www.hubert-chauffage.fr on a French IP (AS16347), reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2117638051925221815",
+      "type": "url",
+      "value": "https://www.hubert-chauffage.fr"
+    },
     "www.isgraphicsport.net/cloud/index.php": {
       "confidence": 0.45,
       "date": "2026-10-15 21:25:19",
@@ -78857,20 +79635,6 @@
       "tweet_id": "2110490637070111188",
       "type": "url",
       "value": "http://www.xionamiconm.com:8050/ws/"
-    },
-    "www.yinxing688.com": {
-      "confidence": 0.7,
-      "date": "2026-10-04 18:21:18",
-      "enriched_at": "2026-10-05T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site reported at yinxing688.com, fronted by Cloudflare (AS13335).",
-      "threat_type": "phishing",
-      "tweet_id": "2106811916714688784",
-      "type": "url",
-      "value": "https://www.yinxing688.com"
     },
     "www.youlovemybiba.com": {
       "confidence": 0.85,
@@ -79498,20 +80262,6 @@
       "tweet_id": "2110021356809240703",
       "type": "domain",
       "value": "yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion"
-    },
-    "yinxing688.com": {
-      "confidence": 0.7,
-      "date": "2026-10-04 18:21:18",
-      "enriched_at": "2026-10-05T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site reported at yinxing688.com, fronted by Cloudflare (AS13335).",
-      "threat_type": "phishing",
-      "tweet_id": "2106811916714688784",
-      "type": "domain",
-      "value": "yinxing688.com"
     },
     "yjgift.com": {
       "confidence": 0.9,
@@ -80857,6 +81607,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-03T12:40:03Z",
+  "generated_at": "2026-11-03T18:40:04Z",
   "window_days": 30
 }
