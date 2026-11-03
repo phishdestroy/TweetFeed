@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-03 20:30:22 (UTC)</th>
+        <th colspan=4>2026-11-03 20:45:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 47 | 446 | 2867 | 44945 |
-| **:globe_with_meridians: Domains** | 36 | 339 | 2398 | 38702 |
+| **:link: URLs** | 50 | 449 | 2870 | 44948 |
+| **:globe_with_meridians: Domains** | 37 | 340 | 2399 | 38703 |
 | **:triangular_flag_on_post: IPs** | 24 | 141 | 2030 | 7851 |
 | **:1234: SHA256** | 13 | 110 | 455 | 3066 |
 | **:1234: MD5** | 3 | 29 | 100 | 2104 |
@@ -231,11 +231,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [masaomi346](https://x.com/masaomi346) | 15 |
-| **#2** | [malwrhunterteam](https://x.com/malwrhunterteam) | 12 |
-| **#3** | [teamcymru_S2](https://x.com/teamcymru_S2) | 12 |
-| **#4** | [smica83](https://x.com/smica83) | 11 |
-| **#5** | [suyog41](https://x.com/suyog41) | 9 |
-| **#6** | [Malwarehunterr](https://x.com/Malwarehunterr) | 9 |
+| **#2** | [Malwarehunterr](https://x.com/Malwarehunterr) | 13 |
+| **#3** | [malwrhunterteam](https://x.com/malwrhunterteam) | 12 |
+| **#4** | [teamcymru_S2](https://x.com/teamcymru_S2) | 12 |
+| **#5** | [smica83](https://x.com/smica83) | 11 |
+| **#6** | [suyog41](https://x.com/suyog41) | 9 |
 | **#7** | [AaronCTI](https://x.com/AaronCTI) | 8 |
 | **#8** | [TKemmerling](https://x.com/TKemmerling) | 6 |
 | **#9** | [PhishStats](https://x.com/PhishStats) | 6 |
