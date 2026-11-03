@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-03 03:45:20 (UTC)</th>
+        <th colspan=4>2026-11-03 04:00:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 8 | 407 | 2828 | 44906 |
-| **:globe_with_meridians: Domains** | 8 | 311 | 2370 | 38674 |
+| **:link: URLs** | 9 | 408 | 2829 | 44907 |
+| **:globe_with_meridians: Domains** | 9 | 312 | 2371 | 38675 |
 | **:triangular_flag_on_post: IPs** | 1 | 118 | 2007 | 7828 |
 | **:1234: SHA256** | 0 | 97 | 442 | 3053 |
 | **:1234: MD5** | 0 | 26 | 97 | 2101 |
@@ -214,7 +214,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#APT** | 0 | 10 | 37 | 1493 |
 | **#ClickFix** | 0 | 6 | 189 | 1119 |
 | **#opendir** | 0 | 3 | 17 | 701 |
-| **#ransomware** | 0 | 19 | 93 | 689 |
+| **#ransomware** | 2 | 21 | 95 | 691 |
 <!-- TAG_TABLE_END -->
 
 These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tags being matched. Every one of them is queryable through the [API](#gear-programmatic-access) and has its own [RSS feed](https://tweetfeed.live/rss/tag/phishing.xml); the highest-volume ones also get a curated landing page at [tweetfeed.live/tags/](https://tweetfeed.live/tags/).
@@ -233,7 +233,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [masaomi346](https://x.com/masaomi346) | 8 |
 | **#2** | [TKemmerling](https://x.com/TKemmerling) | 6 |
 | **#3** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#4** | [-](https://x.com/-) | 0 |
+| **#4** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#5** | [-](https://x.com/-) | 0 |
 | **#6** | [-](https://x.com/-) | 0 |
 | **#7** | [-](https://x.com/-) | 0 |
