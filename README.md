@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-03 00:45:17 (UTC)</th>
+        <th colspan=4>2026-11-03 14:00:26 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,11 +188,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 399 | 2820 | 44898 |
-| **:globe_with_meridians: Domains** | 0 | 303 | 2362 | 38666 |
-| **:triangular_flag_on_post: IPs** | 0 | 117 | 2006 | 7827 |
-| **:1234: SHA256** | 0 | 97 | 442 | 3053 |
-| **:1234: MD5** | 0 | 26 | 97 | 2101 |
+| **:link: URLs** | 31 | 430 | 2851 | 44929 |
+| **:globe_with_meridians: Domains** | 23 | 326 | 2385 | 38689 |
+| **:triangular_flag_on_post: IPs** | 8 | 125 | 2014 | 7835 |
+| **:1234: SHA256** | 9 | 106 | 451 | 3062 |
+| **:1234: MD5** | 3 | 29 | 100 | 2104 |
 
 </div>
 
@@ -205,16 +205,16 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 367 | 3292 | 32934 |
+| **#phishing** | 31 | 398 | 3323 | 32965 |
 | **#Kimsuky** | 0 | 10 | 38 | 13317 |
 | **#DPRK** | 0 | 18 | 20 | 11687 |
-| **#malware** | 0 | 114 | 1122 | 4096 |
+| **#malware** | 9 | 123 | 1131 | 4105 |
 | **#scam** | 0 | 6 | 42 | 3149 |
 | **#C2** | 0 | 18 | 102 | 2190 |
-| **#APT** | 0 | 10 | 37 | 1493 |
-| **#ClickFix** | 0 | 6 | 189 | 1119 |
+| **#APT** | 5 | 15 | 42 | 1498 |
+| **#ClickFix** | 4 | 10 | 193 | 1123 |
 | **#opendir** | 0 | 3 | 17 | 701 |
-| **#ransomware** | 0 | 19 | 93 | 689 |
+| **#ransomware** | 6 | 25 | 99 | 695 |
 <!-- TAG_TABLE_END -->
 
 These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tags being matched. Every one of them is queryable through the [API](#gear-programmatic-access) and has its own [RSS feed](https://tweetfeed.live/rss/tag/phishing.xml); the highest-volume ones also get a curated landing page at [tweetfeed.live/tags/](https://tweetfeed.live/tags/).
@@ -230,16 +230,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [-](https://x.com/-) | 0 |
-| **#2** | [-](https://x.com/-) | 0 |
-| **#3** | [-](https://x.com/-) | 0 |
-| **#4** | [-](https://x.com/-) | 0 |
-| **#5** | [-](https://x.com/-) | 0 |
-| **#6** | [-](https://x.com/-) | 0 |
-| **#7** | [-](https://x.com/-) | 0 |
-| **#8** | [-](https://x.com/-) | 0 |
-| **#9** | [-](https://x.com/-) | 0 |
-| **#10** | [-](https://x.com/-) | 0 |
+| **#1** | [masaomi346](https://x.com/masaomi346) | 15 |
+| **#2** | [malwrhunterteam](https://x.com/malwrhunterteam) | 10 |
+| **#3** | [suyog41](https://x.com/suyog41) | 9 |
+| **#4** | [smica83](https://x.com/smica83) | 8 |
+| **#5** | [TKemmerling](https://x.com/TKemmerling) | 6 |
+| **#6** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 5 |
+| **#7** | [scanmalware](https://x.com/scanmalware) | 4 |
+| **#8** | [threatzone_](https://x.com/threatzone_) | 4 |
+| **#9** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#10** | [phishunt_io](https://x.com/phishunt_io) | 3 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
