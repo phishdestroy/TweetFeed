@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-03 15:00:24 (UTC)</th>
+        <th colspan=4>2026-11-03 15:15:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 31 | 430 | 2851 | 44929 |
+| **:link: URLs** | 34 | 433 | 2854 | 44932 |
 | **:globe_with_meridians: Domains** | 23 | 326 | 2385 | 38689 |
-| **:triangular_flag_on_post: IPs** | 8 | 125 | 2014 | 7835 |
+| **:triangular_flag_on_post: IPs** | 11 | 128 | 2017 | 7838 |
 | **:1234: SHA256** | 9 | 106 | 451 | 3062 |
 | **:1234: MD5** | 3 | 29 | 100 | 2104 |
 
@@ -208,7 +208,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#phishing** | 31 | 398 | 3323 | 32965 |
 | **#Kimsuky** | 0 | 10 | 38 | 13317 |
 | **#DPRK** | 0 | 18 | 20 | 11687 |
-| **#malware** | 9 | 123 | 1131 | 4105 |
+| **#malware** | 15 | 129 | 1137 | 4111 |
 | **#scam** | 0 | 6 | 42 | 3149 |
 | **#C2** | 0 | 18 | 102 | 2190 |
 | **#APT** | 5 | 15 | 42 | 1498 |
@@ -235,11 +235,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#3** | [suyog41](https://x.com/suyog41) | 9 |
 | **#4** | [smica83](https://x.com/smica83) | 8 |
 | **#5** | [TKemmerling](https://x.com/TKemmerling) | 6 |
-| **#6** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 5 |
-| **#7** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#8** | [threatzone_](https://x.com/threatzone_) | 4 |
-| **#9** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#10** | [phishunt_io](https://x.com/phishunt_io) | 3 |
+| **#6** | [orlof_v](https://x.com/orlof_v) | 6 |
+| **#7** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 5 |
+| **#8** | [scanmalware](https://x.com/scanmalware) | 4 |
+| **#9** | [threatzone_](https://x.com/threatzone_) | 4 |
+| **#10** | [PhishStats](https://x.com/PhishStats) | 3 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
