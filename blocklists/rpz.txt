@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2306
-; Updated: 2026-11-03T16:30:22Z
+; Entries: 2307
+; Updated: 2026-11-03T17:30:23Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793723422 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793727023 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1558,6 +1558,8 @@ files.webstatici-whatsapp.com CNAME .
 *.files.webstatici-whatsapp.com CNAME .
 fileserver.devin-hk.shop CNAME .
 *.fileserver.devin-hk.shop CNAME .
+filesyncoraflow.com CNAME .
+*.filesyncoraflow.com CNAME .
 firedmanlaw.co.uk CNAME .
 *.firedmanlaw.co.uk CNAME .
 firewall-whatsapp.com CNAME .

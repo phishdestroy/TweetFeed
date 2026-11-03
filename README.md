@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-03 17:15:19 (UTC)</th>
+        <th colspan=4>2026-11-03 17:30:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 45 | 444 | 2865 | 44943 |
-| **:globe_with_meridians: Domains** | 34 | 337 | 2396 | 38700 |
+| **:link: URLs** | 46 | 445 | 2866 | 44944 |
+| **:globe_with_meridians: Domains** | 35 | 338 | 2397 | 38701 |
 | **:triangular_flag_on_post: IPs** | 24 | 141 | 2030 | 7851 |
 | **:1234: SHA256** | 13 | 110 | 455 | 3066 |
 | **:1234: MD5** | 3 | 29 | 100 | 2104 |
@@ -212,7 +212,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#scam** | 0 | 6 | 42 | 3149 |
 | **#C2** | 2 | 20 | 104 | 2192 |
 | **#APT** | 7 | 17 | 44 | 1500 |
-| **#ClickFix** | 4 | 10 | 193 | 1123 |
+| **#ClickFix** | 6 | 12 | 195 | 1125 |
 | **#opendir** | 0 | 3 | 17 | 701 |
 | **#ransomware** | 6 | 25 | 99 | 695 |
 <!-- TAG_TABLE_END -->
