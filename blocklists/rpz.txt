@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2277
-; Updated: 2026-11-03T00:00:27Z
+; Entries: 2282
+; Updated: 2026-11-03T03:30:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793664027 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793676619 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1734,6 +1734,8 @@ fontawesome-cdn.cfd CNAME .
 *.fontawesome-cdn.cfd CNAME .
 format-whatsapp.com CNAME .
 *.format-whatsapp.com CNAME .
+fortvite.com CNAME .
+*.fortvite.com CNAME .
 forumst.co.kr CNAME .
 *.forumst.co.kr CNAME .
 forzaverification.com CNAME .
@@ -3322,10 +3324,18 @@ secure-xdomain-32259.w-group.shop CNAME .
 *.secure-xdomain-32259.w-group.shop CNAME .
 secure-xdomain-38084.dashboard-payment.app CNAME .
 *.secure-xdomain-38084.dashboard-payment.app CNAME .
+secure-xdomain-39974.w-group.shop CNAME .
+*.secure-xdomain-39974.w-group.shop CNAME .
+secure-xdomain-47972.w-group.shop CNAME .
+*.secure-xdomain-47972.w-group.shop CNAME .
 secure-xdomain-50869.w-group.shop CNAME .
 *.secure-xdomain-50869.w-group.shop CNAME .
+secure-xdomain-54494.w-group.shop CNAME .
+*.secure-xdomain-54494.w-group.shop CNAME .
 secure-xdomain-55493.w-group.shop CNAME .
 *.secure-xdomain-55493.w-group.shop CNAME .
+secure-xdomain-62629.w-group.shop CNAME .
+*.secure-xdomain-62629.w-group.shop CNAME .
 secure-xdomain-69242.dashboard-payment.app CNAME .
 *.secure-xdomain-69242.dashboard-payment.app CNAME .
 secure-xdomain-69342.w-group.shop CNAME .
