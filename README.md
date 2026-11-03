@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-03 13:00:27 (UTC)</th>
+        <th colspan=4>2026-11-03 13:15:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 28 | 427 | 2848 | 44926 |
-| **:globe_with_meridians: Domains** | 21 | 324 | 2383 | 38687 |
-| **:triangular_flag_on_post: IPs** | 6 | 123 | 2012 | 7833 |
-| **:1234: SHA256** | 7 | 104 | 449 | 3060 |
+| **:link: URLs** | 29 | 428 | 2849 | 44927 |
+| **:globe_with_meridians: Domains** | 22 | 325 | 2384 | 38688 |
+| **:triangular_flag_on_post: IPs** | 7 | 124 | 2013 | 7834 |
+| **:1234: SHA256** | 8 | 105 | 450 | 3061 |
 | **:1234: MD5** | 2 | 28 | 99 | 2103 |
 
 </div>
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 26 | 393 | 3318 | 32960 |
+| **#phishing** | 29 | 396 | 3321 | 32963 |
 | **#Kimsuky** | 0 | 10 | 38 | 13317 |
 | **#DPRK** | 0 | 18 | 20 | 11687 |
 | **#malware** | 9 | 123 | 1131 | 4105 |
@@ -233,13 +233,13 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [masaomi346](https://x.com/masaomi346) | 15 |
 | **#2** | [suyog41](https://x.com/suyog41) | 9 |
 | **#3** | [malwrhunterteam](https://x.com/malwrhunterteam) | 8 |
-| **#4** | [TKemmerling](https://x.com/TKemmerling) | 6 |
-| **#5** | [smica83](https://x.com/smica83) | 6 |
+| **#4** | [smica83](https://x.com/smica83) | 7 |
+| **#5** | [TKemmerling](https://x.com/TKemmerling) | 6 |
 | **#6** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 5 |
 | **#7** | [scanmalware](https://x.com/scanmalware) | 4 |
 | **#8** | [threatzone_](https://x.com/threatzone_) | 4 |
 | **#9** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#10** | [c9lab_soc](https://x.com/c9lab_soc) | 2 |
+| **#10** | [phishunt_io](https://x.com/phishunt_io) | 3 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
