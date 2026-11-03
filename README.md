@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-03 10:15:23 (UTC)</th>
+        <th colspan=4>2026-11-03 10:30:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 14 | 413 | 2834 | 44912 |
-| **:globe_with_meridians: Domains** | 14 | 317 | 2376 | 38680 |
+| **:link: URLs** | 16 | 415 | 2836 | 44914 |
+| **:globe_with_meridians: Domains** | 16 | 319 | 2378 | 38682 |
 | **:triangular_flag_on_post: IPs** | 3 | 120 | 2009 | 7830 |
-| **:1234: SHA256** | 5 | 102 | 447 | 3058 |
+| **:1234: SHA256** | 6 | 103 | 448 | 3059 |
 | **:1234: MD5** | 0 | 26 | 97 | 2101 |
 
 </div>
@@ -205,10 +205,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 21 | 388 | 3313 | 32955 |
+| **#phishing** | 24 | 391 | 3316 | 32958 |
 | **#Kimsuky** | 0 | 10 | 38 | 13317 |
 | **#DPRK** | 0 | 18 | 20 | 11687 |
-| **#malware** | 4 | 118 | 1126 | 4100 |
+| **#malware** | 7 | 121 | 1129 | 4103 |
 | **#scam** | 0 | 6 | 42 | 3149 |
 | **#C2** | 0 | 18 | 102 | 2190 |
 | **#APT** | 0 | 10 | 37 | 1493 |
@@ -230,11 +230,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [masaomi346](https://x.com/masaomi346) | 10 |
+| **#1** | [masaomi346](https://x.com/masaomi346) | 13 |
 | **#2** | [TKemmerling](https://x.com/TKemmerling) | 6 |
-| **#3** | [smica83](https://x.com/smica83) | 5 |
-| **#4** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#3** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
+| **#4** | [smica83](https://x.com/smica83) | 5 |
+| **#5** | [scanmalware](https://x.com/scanmalware) | 4 |
 | **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
 | **#7** | [c9lab_soc](https://x.com/c9lab_soc) | 2 |
 | **#8** | [OpcodeIntel](https://x.com/OpcodeIntel) | 2 |
