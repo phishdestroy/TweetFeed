@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-03 10:00:22 (UTC)</th>
+        <th colspan=4>2026-11-03 10:15:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 12 | 411 | 2832 | 44910 |
-| **:globe_with_meridians: Domains** | 12 | 315 | 2374 | 38678 |
+| **:link: URLs** | 14 | 413 | 2834 | 44912 |
+| **:globe_with_meridians: Domains** | 14 | 317 | 2376 | 38680 |
 | **:triangular_flag_on_post: IPs** | 3 | 120 | 2009 | 7830 |
-| **:1234: SHA256** | 4 | 101 | 446 | 3057 |
+| **:1234: SHA256** | 5 | 102 | 447 | 3058 |
 | **:1234: MD5** | 0 | 26 | 97 | 2101 |
 
 </div>
@@ -232,12 +232,12 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [masaomi346](https://x.com/masaomi346) | 10 |
 | **#2** | [TKemmerling](https://x.com/TKemmerling) | 6 |
-| **#3** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#4** | [smica83](https://x.com/smica83) | 4 |
-| **#5** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#6** | [c9lab_soc](https://x.com/c9lab_soc) | 2 |
-| **#7** | [OpcodeIntel](https://x.com/OpcodeIntel) | 2 |
-| **#8** | [-](https://x.com/-) | 0 |
+| **#3** | [smica83](https://x.com/smica83) | 5 |
+| **#4** | [scanmalware](https://x.com/scanmalware) | 4 |
+| **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#7** | [c9lab_soc](https://x.com/c9lab_soc) | 2 |
+| **#8** | [OpcodeIntel](https://x.com/OpcodeIntel) | 2 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
 <!-- TOP_REPORTERS_END -->
