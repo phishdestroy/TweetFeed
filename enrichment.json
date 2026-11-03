@@ -1,5 +1,5 @@
 {
-  "count": 5766,
+  "count": 5768,
   "dead_tweets": {
     "2107773993008669042": {
       "attempts": 2,
@@ -10,12 +10,12 @@
       "last_attempt": "2026-11-01T06:40:04Z"
     },
     "2114565057338343930": {
-      "attempts": 1,
-      "last_attempt": "2026-11-03T00:40:03Z"
+      "attempts": 2,
+      "last_attempt": "2026-11-03T06:40:04Z"
     },
     "2117357108056498381": {
-      "attempts": 1,
-      "last_attempt": "2026-11-03T00:40:03Z"
+      "attempts": 2,
+      "last_attempt": "2026-11-03T06:40:04Z"
     }
   },
   "entries": {
@@ -3588,18 +3588,6 @@
       "tweet_id": "2110648242555998566",
       "type": "ip",
       "value": "109.110.184.230"
-    },
-    "109.120.137.175": {
-      "confidence": 0.4,
-      "date": "2026-10-04 05:56:37",
-      "enriched_at": "2026-10-04T06:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "IP associated with the Pandorum dark web marketplace, shared with its clearnet and onion domains in a dark web monitoring post.",
-      "threat_type": "other",
-      "tweet_id": "2106624513534509438",
-      "type": "ip",
-      "value": "109.120.137.175"
     },
     "109.120.139.126": {
       "confidence": 0.5,
@@ -11077,6 +11065,20 @@
       "type": "ip",
       "value": "188.246.224.242"
     },
+    "188.40.225.137": {
+      "confidence": 0.5,
+      "date": "2026-10-09 14:31:42",
+      "enriched_at": "2026-11-03T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Batch file 'installer10.bat' sample seen on MalwareBazaar, associated with IP 188.40.225.137, reported as seen from Ukraine.",
+      "threat_type": "malware",
+      "tweet_id": "2108566077387018491",
+      "type": "url",
+      "value": "http://188.40.225.137"
+    },
     "189.12.226.77": {
       "confidence": 0.75,
       "date": "2026-10-21 16:40:05",
@@ -11482,6 +11484,20 @@
       "tweet_id": "2112153803470590280",
       "type": "ip",
       "value": "193.178.159.129"
+    },
+    "193.187.110.10": {
+      "confidence": 0.9,
+      "date": "2026-11-03 03:12:37",
+      "enriched_at": "2026-11-03T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "New phishing login page at fortvite.com hosted on 193.187.110.10 (AS153947, Fast Zone IT), reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2117454877299446005",
+      "type": "ip",
+      "value": "193.187.110.10"
     },
     "193.228.128.2": {
       "confidence": 0.55,
@@ -12733,21 +12749,6 @@
       "tweet_id": "2115017300843839826",
       "type": "url",
       "value": "http://2.59.152.21:8041"
-    },
-    "20.102.117.176": {
-      "confidence": 0.6,
-      "date": "2026-10-04 06:10:12",
-      "enriched_at": "2026-10-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "IP 20.102.117[.]176 tied to a 'Kebab' stealer panel, shared with researchers for tracking.",
-      "threat_type": "malware",
-      "tweet_id": "2106627928352313545",
-      "type": "ip",
-      "value": "20.102.117.176"
     },
     "20.124.33.198": {
       "confidence": 0.6,
@@ -39776,20 +39777,6 @@
       "type": "domain",
       "value": "allegro.1200h8h.click"
     },
-    "allegro.ofe90392.pics": {
-      "confidence": 0.85,
-      "date": "2026-10-04 06:31:29",
-      "enriched_at": "2026-10-04T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Allegro hosted on a Cloudflare-fronted subdomain, reported by PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2106633288265711835",
-      "type": "domain",
-      "value": "allegro.ofe90392.pics"
-    },
     "allegro.smar2829.casa": {
       "confidence": 0.8,
       "date": "2026-10-07 00:29:25",
@@ -49391,20 +49378,6 @@
       "type": "domain",
       "value": "de-de.webhwsapp-whatsapp.com"
     },
-    "de-zines.com": {
-      "confidence": 0.85,
-      "date": "2026-10-04 05:00:39",
-      "enriched_at": "2026-10-04T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "BetterHelp-themed phishing offer sent from de-zines.com, redirecting victims to sandsprecast.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2106610428658987434",
-      "type": "domain",
-      "value": "de-zines.com"
-    },
     "de.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -53631,34 +53604,6 @@
       "type": "domain",
       "value": "firewall-whatsapp.com"
     },
-    "firvolden.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-04 01:52:53",
-      "enriched_at": "2026-10-04T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Docomo SMTB net banking, targeting Japanese users.",
-      "threat_type": "phishing",
-      "tweet_id": "2106563176364179531",
-      "type": "domain",
-      "value": "firvolden.cfd"
-    },
-    "firvolden.cfd/pages/#/index": {
-      "confidence": 0.9,
-      "date": "2026-10-04 01:52:53",
-      "enriched_at": "2026-10-04T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Docomo SMTB net banking, targeting Japanese users.",
-      "threat_type": "phishing",
-      "tweet_id": "2106563176364179531",
-      "type": "url",
-      "value": "https://firvolden.cfd/pages/#/index"
-    },
     "fixbetamp.vip": {
       "confidence": 0.7,
       "date": "2026-10-19 21:49:48",
@@ -55113,6 +55058,34 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "format-whatsapp.com"
+    },
+    "fortvite.com": {
+      "confidence": 0.9,
+      "date": "2026-11-03 03:12:37",
+      "enriched_at": "2026-11-03T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "New phishing login page at fortvite.com hosted on 193.187.110.10 (AS153947, Fast Zone IT), reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2117454877299446005",
+      "type": "domain",
+      "value": "fortvite.com"
+    },
+    "fortvite.com/id/login": {
+      "confidence": 0.9,
+      "date": "2026-11-03 03:12:37",
+      "enriched_at": "2026-11-03T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "New phishing login page at fortvite.com hosted on 193.187.110.10 (AS153947, Fast Zone IT), reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2117454877299446005",
+      "type": "url",
+      "value": "https://fortvite.com/id/login"
     },
     "forumst.co.kr": {
       "confidence": 0.4,
@@ -60065,6 +60038,20 @@
       "tweet_id": "2107807540650332488",
       "type": "domain",
       "value": "krioldflaeara-willow.pro"
+    },
+    "ktcinvesting.com": {
+      "confidence": 0.8,
+      "date": "2026-10-06 22:38:48",
+      "enriched_at": "2026-11-03T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing alert: a MEDVI offer email from an unrelated real-estate sender links to ktcinvesting.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2107601496389120309",
+      "type": "domain",
+      "value": "ktcinvesting.com"
     },
     "ktoktotam.cc": {
       "confidence": 0.7,
@@ -66253,6 +66240,20 @@
       "type": "domain",
       "value": "proxysrv-whatsapp.com"
     },
+    "prsnrw.de": {
+      "confidence": 0.6,
+      "date": "2026-11-03 04:51:37",
+      "enriched_at": "2026-11-03T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Domain prsnrw.de flagged as a confirmed scam by an automated web scan service; the tweet's ransomware hashtags look like generic spam.",
+      "threat_type": "scam",
+      "tweet_id": "2117479790831616415",
+      "type": "domain",
+      "value": "prsnrw.de"
+    },
     "psoz96apk.9yyl9.net": {
       "confidence": 0.95,
       "date": "2026-10-22 17:40:46",
@@ -66571,21 +66572,6 @@
       "tweet_id": "2107262070592860342",
       "type": "domain",
       "value": "pub-e00ed203a8c94e1e806a3d3453458c6d.r2.dev"
-    },
-    "pub-f4a21afc244c4ddda2b708bacf755479.r2.dev": {
-      "confidence": 0.6,
-      "date": "2026-10-04 02:23:02",
-      "enriched_at": "2026-10-04T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Cloudflare R2 public bucket URL flagged by an automated scanner as a confirmed scam, tagged as phishing.",
-      "threat_type": "phishing",
-      "tweet_id": "2106570760366034965",
-      "type": "domain",
-      "value": "pub-f4a21afc244c4ddda2b708bacf755479.r2.dev"
     },
     "pubad-gov-lk.net-src.info": {
       "confidence": 0.6,
@@ -67890,20 +67876,6 @@
       "type": "url",
       "value": "https://reurl.cc/qa4krD"
     },
-    "review-docusign-document.top": {
-      "confidence": 0.85,
-      "date": "2026-10-04 03:05:03",
-      "enriched_at": "2026-10-04T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Recently registered domains suspected of impersonating DocuSign and Microsoft Teams for phishing, registered via NameSilo.",
-      "threat_type": "phishing",
-      "tweet_id": "2106581334097608914",
-      "type": "domain",
-      "value": "review-docusign-document.top"
-    },
     "reviewshared.s3.us-east-005.backblazeb2.com": {
       "confidence": 0.85,
       "date": "2026-10-29 13:22:48",
@@ -68615,20 +68587,6 @@
       "type": "domain",
       "value": "sample-whatsapp.com"
     },
-    "sandsprecast.com": {
-      "confidence": 0.85,
-      "date": "2026-10-04 05:00:39",
-      "enriched_at": "2026-10-04T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "BetterHelp-themed phishing offer sent from de-zines.com, redirecting victims to sandsprecast.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2106610428658987434",
-      "type": "domain",
-      "value": "sandsprecast.com"
-    },
     "sayosay.cc": {
       "confidence": 0.9,
       "date": "2026-10-07 13:04:41",
@@ -68674,34 +68632,6 @@
       "tweet_id": "2111110762391626052",
       "type": "domain",
       "value": "scarlettgugldabhgz3uertpnxglxytddxbd5vnoma5pihfk6k5q2sid.onion"
-    },
-    "schedule-meeting-zoom.us": {
-      "confidence": 0.85,
-      "date": "2026-10-04 02:50:57",
-      "enriched_at": "2026-10-04T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Newly registered domain impersonating Zoom with a Zoom/Gmail theme, hosting a /join phishing page, registered via NameSilo.",
-      "threat_type": "phishing",
-      "tweet_id": "2106577786710482999",
-      "type": "domain",
-      "value": "schedule-meeting-zoom.us"
-    },
-    "schedule-meeting-zoom.us/join": {
-      "confidence": 0.85,
-      "date": "2026-10-04 02:50:57",
-      "enriched_at": "2026-10-04T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Newly registered domain impersonating Zoom with a Zoom/Gmail theme, hosting a /join phishing page, registered via NameSilo.",
-      "threat_type": "phishing",
-      "tweet_id": "2106577786710482999",
-      "type": "url",
-      "value": "http://schedule-meeting-zoom.us/join"
     },
     "schema-whatsapp.com": {
       "confidence": 0.65,
@@ -69134,6 +69064,34 @@
       "type": "domain",
       "value": "secure-xdomain-38084.dashboard-payment.app"
     },
+    "secure-xdomain-39974.w-group.shop": {
+      "confidence": 0.9,
+      "date": "2026-11-03 03:16:28",
+      "enriched_at": "2026-11-03T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Four phishing sites on w-group.shop subdomains impersonating Sakura Internet, reported by a Japanese researcher.",
+      "threat_type": "phishing",
+      "tweet_id": "2117455845458067827",
+      "type": "domain",
+      "value": "secure-xdomain-39974.w-group.shop"
+    },
+    "secure-xdomain-47972.w-group.shop": {
+      "confidence": 0.9,
+      "date": "2026-11-03 03:16:28",
+      "enriched_at": "2026-11-03T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Four phishing sites on w-group.shop subdomains impersonating Sakura Internet, reported by a Japanese researcher.",
+      "threat_type": "phishing",
+      "tweet_id": "2117455845458067827",
+      "type": "domain",
+      "value": "secure-xdomain-47972.w-group.shop"
+    },
     "secure-xdomain-50869.w-group.shop": {
       "confidence": 0.9,
       "date": "2026-10-28 04:02:13",
@@ -69148,6 +69106,20 @@
       "type": "domain",
       "value": "secure-xdomain-50869.w-group.shop"
     },
+    "secure-xdomain-54494.w-group.shop": {
+      "confidence": 0.9,
+      "date": "2026-11-03 03:16:28",
+      "enriched_at": "2026-11-03T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Four phishing sites on w-group.shop subdomains impersonating Sakura Internet, reported by a Japanese researcher.",
+      "threat_type": "phishing",
+      "tweet_id": "2117455845458067827",
+      "type": "domain",
+      "value": "secure-xdomain-54494.w-group.shop"
+    },
     "secure-xdomain-55493.w-group.shop": {
       "confidence": 0.9,
       "date": "2026-11-01 13:37:47",
@@ -69161,6 +69133,20 @@
       "tweet_id": "2116887426895630715",
       "type": "domain",
       "value": "secure-xdomain-55493.w-group.shop"
+    },
+    "secure-xdomain-62629.w-group.shop": {
+      "confidence": 0.9,
+      "date": "2026-11-03 03:16:28",
+      "enriched_at": "2026-11-03T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Four phishing sites on w-group.shop subdomains impersonating Sakura Internet, reported by a Japanese researcher.",
+      "threat_type": "phishing",
+      "tweet_id": "2117455845458067827",
+      "type": "domain",
+      "value": "secure-xdomain-62629.w-group.shop"
     },
     "secure-xdomain-69242.dashboard-payment.app": {
       "confidence": 0.9,
@@ -72010,6 +71996,20 @@
       "type": "domain",
       "value": "style-whatsapp.com"
     },
+    "stylishhomegallery.com": {
+      "confidence": 0.8,
+      "date": "2026-10-06 06:01:23",
+      "enriched_at": "2026-11-03T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing alert: a weight-loss medication lure email leads to stylishhomegallery.com, flagged by public threat intelligence providers.",
+      "threat_type": "phishing",
+      "tweet_id": "2107350488895398078",
+      "type": "domain",
+      "value": "stylishhomegallery.com"
+    },
     "styvlor.cfd": {
       "confidence": 0.9,
       "date": "2026-10-26 00:17:28",
@@ -73194,20 +73194,6 @@
       "tweet_id": "2113862124875440370",
       "type": "domain",
       "value": "teamsmeeting.site"
-    },
-    "teamsmeeting.top": {
-      "confidence": 0.85,
-      "date": "2026-10-04 03:05:03",
-      "enriched_at": "2026-10-04T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Recently registered domains suspected of impersonating DocuSign and Microsoft Teams for phishing, registered via NameSilo.",
-      "threat_type": "phishing",
-      "tweet_id": "2106581334097608914",
-      "type": "domain",
-      "value": "teamsmeeting.top"
     },
     "teamsosl123.oss-cn-hongkong.aliyuncs.com": {
       "confidence": 0.85,
@@ -76660,6 +76646,20 @@
       "type": "domain",
       "value": "webfastpro-whatsapp.com"
     },
+    "webferret-ai.com": {
+      "confidence": 0.6,
+      "date": "2026-11-03 03:40:05",
+      "enriched_at": "2026-11-03T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Domain webferret-ai.com flagged as a confirmed scam by an automated web scan service; the tweet's ransomware hashtags look like generic spam.",
+      "threat_type": "scam",
+      "tweet_id": "2117461790132986134",
+      "type": "domain",
+      "value": "webferret-ai.com"
+    },
     "webframework-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -79757,6 +79757,34 @@
       "type": "domain",
       "value": "zen-whatsapp.com"
     },
+    "zenithal.cfd": {
+      "confidence": 0.9,
+      "date": "2026-11-03 05:24:36",
+      "enriched_at": "2026-11-03T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating JCB (Japanese credit card brand) hosted on zenithal.cfd, reported by a Japanese researcher.",
+      "threat_type": "phishing",
+      "tweet_id": "2117488092571648420",
+      "type": "domain",
+      "value": "zenithal.cfd"
+    },
+    "zenithal.cfd/dsfdsgad/#/index": {
+      "confidence": 0.9,
+      "date": "2026-11-03 05:24:36",
+      "enriched_at": "2026-11-03T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating JCB (Japanese credit card brand) hosted on zenithal.cfd, reported by a Japanese researcher.",
+      "threat_type": "phishing",
+      "tweet_id": "2117488092571648420",
+      "type": "url",
+      "value": "https://zenithal.cfd/dsfdsgad/#/index"
+    },
     "zewalegin.z43.web.core.windows.net": {
       "confidence": 0.85,
       "date": "2026-10-14 17:27:24",
@@ -80458,6 +80486,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-03T00:40:03Z",
+  "generated_at": "2026-11-03T06:40:04Z",
   "window_days": 30
 }
