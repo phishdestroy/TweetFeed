@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2302
-; Updated: 2026-11-03T15:45:21Z
+; Entries: 2306
+; Updated: 2026-11-03T16:30:22Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793720721 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793723422 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -184,6 +184,8 @@ akc-whatsapp.com CNAME .
 *.akc-whatsapp.com CNAME .
 akd-whatsapp.com CNAME .
 *.akd-whatsapp.com CNAME .
+ake-terais-nouls.rest CNAME .
+*.ake-terais-nouls.rest CNAME .
 ake-whatsapp.com CNAME .
 *.ake-whatsapp.com CNAME .
 akf-whatsapp.com CNAME .
@@ -1452,6 +1454,8 @@ egrweb-whatsapp.com CNAME .
 *.egrweb-whatsapp.com CNAME .
 element.proxy08.com CNAME .
 *.element.proxy08.com CNAME .
+ems-rifted-grigs.site CNAME .
+*.ems-rifted-grigs.site CNAME .
 en-au.webhwsapp-whatsapp.com CNAME .
 *.en-au.webhwsapp-whatsapp.com CNAME .
 en-ca.webhwsapp-whatsapp.com CNAME .
@@ -1916,6 +1920,8 @@ gugyh.icu CNAME .
 *.gugyh.icu CNAME .
 guide.webapi-whatsapp.com CNAME .
 *.guide.webapi-whatsapp.com CNAME .
+gulas-kaccha-tronk.space CNAME .
+*.gulas-kaccha-tronk.space CNAME .
 gumruk.info CNAME .
 *.gumruk.info CNAME .
 gvagsb.cn CNAME .
@@ -3296,6 +3302,8 @@ sandsprecast.com CNAME .
 *.sandsprecast.com CNAME .
 santander.nfcobsidian.com CNAME .
 *.santander.nfcobsidian.com CNAME .
+saw-strops-tedy.top CNAME .
+*.saw-strops-tedy.top CNAME .
 sayosay.cc CNAME .
 *.sayosay.cc CNAME .
 scan.webstatici-whatsapp.com CNAME .
