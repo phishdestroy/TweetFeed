@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2291
-; Updated: 2026-11-03T11:45:22Z
+; Entries: 2293
+; Updated: 2026-11-03T12:00:24Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793706322 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793707224 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1744,6 +1744,8 @@ forumst.co.kr CNAME .
 *.forumst.co.kr CNAME .
 forzaverification.com CNAME .
 *.forzaverification.com CNAME .
+foxnevs.com CNAME .
+*.foxnevs.com CNAME .
 fqelt.cn CNAME .
 *.fqelt.cn CNAME .
 fr-ca.webhwsapp-whatsapp.com CNAME .
@@ -4014,6 +4016,8 @@ uob-bk6-c3gnawcfendtf8gu.z01.azurefd.net CNAME .
 *.uob-bk6-c3gnawcfendtf8gu.z01.azurefd.net CNAME .
 update.cdnlinks.org CNAME .
 *.update.cdnlinks.org CNAME .
+update.neewsoo.com CNAME .
+*.update.neewsoo.com CNAME .
 update.zip CNAME .
 *.update.zip CNAME .
 updatestates.blob.core.windows.net CNAME .

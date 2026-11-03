@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-03 11:45:23 (UTC)</th>
+        <th colspan=4>2026-11-03 12:00:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 20 | 419 | 2840 | 44918 |
-| **:globe_with_meridians: Domains** | 18 | 321 | 2380 | 38684 |
-| **:triangular_flag_on_post: IPs** | 3 | 120 | 2009 | 7830 |
+| **:link: URLs** | 24 | 423 | 2844 | 44922 |
+| **:globe_with_meridians: Domains** | 21 | 324 | 2383 | 38687 |
+| **:triangular_flag_on_post: IPs** | 5 | 122 | 2011 | 7832 |
 | **:1234: SHA256** | 7 | 104 | 449 | 3060 |
 | **:1234: MD5** | 1 | 27 | 98 | 2102 |
 
@@ -211,8 +211,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#malware** | 9 | 123 | 1131 | 4105 |
 | **#scam** | 0 | 6 | 42 | 3149 |
 | **#C2** | 0 | 18 | 102 | 2190 |
-| **#APT** | 2 | 12 | 39 | 1495 |
-| **#ClickFix** | 0 | 6 | 189 | 1119 |
+| **#APT** | 5 | 15 | 42 | 1498 |
+| **#ClickFix** | 4 | 10 | 193 | 1123 |
 | **#opendir** | 0 | 3 | 17 | 701 |
 | **#ransomware** | 6 | 25 | 99 | 695 |
 <!-- TAG_TABLE_END -->
@@ -231,15 +231,15 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [masaomi346](https://x.com/masaomi346) | 15 |
-| **#2** | [TKemmerling](https://x.com/TKemmerling) | 6 |
-| **#3** | [smica83](https://x.com/smica83) | 6 |
-| **#4** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
-| **#5** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#7** | [suyog41](https://x.com/suyog41) | 3 |
-| **#8** | [c9lab_soc](https://x.com/c9lab_soc) | 2 |
-| **#9** | [OpcodeIntel](https://x.com/OpcodeIntel) | 2 |
-| **#10** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
+| **#2** | [malwrhunterteam](https://x.com/malwrhunterteam) | 8 |
+| **#3** | [TKemmerling](https://x.com/TKemmerling) | 6 |
+| **#4** | [smica83](https://x.com/smica83) | 6 |
+| **#5** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 5 |
+| **#6** | [scanmalware](https://x.com/scanmalware) | 4 |
+| **#7** | [threatzone_](https://x.com/threatzone_) | 4 |
+| **#8** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#9** | [suyog41](https://x.com/suyog41) | 3 |
+| **#10** | [c9lab_soc](https://x.com/c9lab_soc) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
