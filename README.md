@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-03 16:30:23 (UTC)</th>
+        <th colspan=4>2026-11-03 16:45:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -190,7 +190,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 45 | 444 | 2865 | 44943 |
 | **:globe_with_meridians: Domains** | 34 | 337 | 2396 | 38700 |
-| **:triangular_flag_on_post: IPs** | 12 | 129 | 2018 | 7839 |
+| **:triangular_flag_on_post: IPs** | 24 | 141 | 2030 | 7851 |
 | **:1234: SHA256** | 13 | 110 | 455 | 3066 |
 | **:1234: MD5** | 3 | 29 | 100 | 2104 |
 
@@ -232,14 +232,14 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [masaomi346](https://x.com/masaomi346) | 15 |
 | **#2** | [malwrhunterteam](https://x.com/malwrhunterteam) | 12 |
-| **#3** | [smica83](https://x.com/smica83) | 11 |
-| **#4** | [suyog41](https://x.com/suyog41) | 9 |
-| **#5** | [Malwarehunterr](https://x.com/Malwarehunterr) | 9 |
-| **#6** | [AaronCTI](https://x.com/AaronCTI) | 8 |
-| **#7** | [TKemmerling](https://x.com/TKemmerling) | 6 |
-| **#8** | [PhishStats](https://x.com/PhishStats) | 6 |
-| **#9** | [orlof_v](https://x.com/orlof_v) | 6 |
-| **#10** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 5 |
+| **#3** | [teamcymru_S2](https://x.com/teamcymru_S2) | 12 |
+| **#4** | [smica83](https://x.com/smica83) | 11 |
+| **#5** | [suyog41](https://x.com/suyog41) | 9 |
+| **#6** | [Malwarehunterr](https://x.com/Malwarehunterr) | 9 |
+| **#7** | [AaronCTI](https://x.com/AaronCTI) | 8 |
+| **#8** | [TKemmerling](https://x.com/TKemmerling) | 6 |
+| **#9** | [PhishStats](https://x.com/PhishStats) | 6 |
+| **#10** | [orlof_v](https://x.com/orlof_v) | 6 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
