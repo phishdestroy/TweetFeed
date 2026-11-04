@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-04 06:45:18 (UTC)</th>
+        <th colspan=4>2026-11-04 07:00:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 7 | 372 | 2874 | 44761 |
-| **:globe_with_meridians: Domains** | 7 | 283 | 2399 | 38519 |
-| **:triangular_flag_on_post: IPs** | 2 | 128 | 2033 | 7849 |
+| **:link: URLs** | 10 | 375 | 2877 | 44764 |
+| **:globe_with_meridians: Domains** | 9 | 285 | 2401 | 38521 |
+| **:triangular_flag_on_post: IPs** | 4 | 130 | 2035 | 7851 |
 | **:1234: SHA256** | 4 | 108 | 472 | 3083 |
 | **:1234: MD5** | 1 | 18 | 102 | 2101 |
 
@@ -205,12 +205,12 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 13 | 342 | 3337 | 32633 |
+| **#phishing** | 19 | 348 | 3343 | 32639 |
 | **#Kimsuky** | 0 | 8 | 38 | 13317 |
 | **#DPRK** | 0 | 18 | 20 | 11687 |
 | **#malware** | 3 | 124 | 1142 | 4116 |
 | **#scam** | 0 | 6 | 42 | 3087 |
-| **#C2** | 4 | 22 | 108 | 2192 |
+| **#C2** | 5 | 23 | 109 | 2193 |
 | **#APT** | 0 | 13 | 44 | 1485 |
 | **#ClickFix** | 0 | 12 | 195 | 1125 |
 | **#opendir** | 0 | 3 | 17 | 696 |
@@ -230,11 +230,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [masaomi346](https://x.com/masaomi346) | 7 |
-| **#2** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#3** | [Fact_Finder03](https://x.com/Fact_Finder03) | 4 |
-| **#4** | [FsecIntelEs](https://x.com/FsecIntelEs) | 2 |
-| **#5** | [Metemcyber](https://x.com/Metemcyber) | 2 |
+| **#1** | [masaomi346](https://x.com/masaomi346) | 9 |
+| **#2** | [Metemcyber](https://x.com/Metemcyber) | 6 |
+| **#3** | [Fact_Finder03](https://x.com/Fact_Finder03) | 5 |
+| **#4** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#5** | [FsecIntelEs](https://x.com/FsecIntelEs) | 2 |
 | **#6** | [skocherhan](https://x.com/skocherhan) | 1 |
 | **#7** | [Now_on_VT](https://x.com/Now_on_VT) | 1 |
 | **#8** | [-](https://x.com/-) | 0 |
