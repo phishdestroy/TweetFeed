@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-04 05:45:18 (UTC)</th>
+        <th colspan=4>2026-11-04 06:00:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -190,7 +190,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 7 | 372 | 2874 | 44761 |
 | **:globe_with_meridians: Domains** | 7 | 283 | 2399 | 38519 |
-| **:triangular_flag_on_post: IPs** | 0 | 126 | 2031 | 7847 |
+| **:triangular_flag_on_post: IPs** | 2 | 128 | 2033 | 7849 |
 | **:1234: SHA256** | 2 | 106 | 470 | 3081 |
 | **:1234: MD5** | 1 | 18 | 102 | 2101 |
 
@@ -210,7 +210,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 18 | 20 | 11687 |
 | **#malware** | 3 | 124 | 1142 | 4116 |
 | **#scam** | 0 | 6 | 42 | 3087 |
-| **#C2** | 0 | 18 | 104 | 2188 |
+| **#C2** | 2 | 20 | 106 | 2190 |
 | **#APT** | 0 | 13 | 44 | 1485 |
 | **#ClickFix** | 0 | 12 | 195 | 1125 |
 | **#opendir** | 0 | 3 | 17 | 696 |
@@ -234,9 +234,9 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#2** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 | **#3** | [FsecIntelEs](https://x.com/FsecIntelEs) | 2 |
 | **#4** | [Metemcyber](https://x.com/Metemcyber) | 2 |
-| **#5** | [skocherhan](https://x.com/skocherhan) | 1 |
-| **#6** | [Now_on_VT](https://x.com/Now_on_VT) | 1 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#5** | [Fact_Finder03](https://x.com/Fact_Finder03) | 2 |
+| **#6** | [skocherhan](https://x.com/skocherhan) | 1 |
+| **#7** | [Now_on_VT](https://x.com/Now_on_VT) | 1 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
