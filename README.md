@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-04 14:00:24 (UTC)</th>
+        <th colspan=4>2026-11-04 14:15:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -190,7 +190,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 49 | 414 | 2916 | 44803 |
 | **:globe_with_meridians: Domains** | 42 | 318 | 2434 | 38554 |
-| **:triangular_flag_on_post: IPs** | 15 | 141 | 2046 | 7862 |
+| **:triangular_flag_on_post: IPs** | 18 | 144 | 2049 | 7865 |
 | **:1234: SHA256** | 73 | 177 | 541 | 3152 |
 | **:1234: MD5** | 1 | 18 | 102 | 2101 |
 
@@ -210,11 +210,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 18 | 20 | 11687 |
 | **#malware** | 6 | 127 | 1145 | 4119 |
 | **#scam** | 0 | 6 | 42 | 3087 |
-| **#C2** | 8 | 26 | 112 | 2196 |
+| **#C2** | 11 | 29 | 115 | 2199 |
 | **#APT** | 0 | 13 | 44 | 1485 |
 | **#ClickFix** | 60 | 72 | 255 | 1185 |
 | **#opendir** | 0 | 3 | 17 | 696 |
-| **#ransomware** | 2 | 22 | 101 | 693 |
+| **#ransomware** | 3 | 23 | 102 | 694 |
 <!-- TAG_TABLE_END -->
 
 These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tags being matched. Every one of them is queryable through the [API](#gear-programmatic-access) and has its own [RSS feed](https://tweetfeed.live/rss/tag/phishing.xml); the highest-volume ones also get a curated landing page at [tweetfeed.live/tags/](https://tweetfeed.live/tags/).
@@ -235,8 +235,8 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#3** | [AaronCTI](https://x.com/AaronCTI) | 22 |
 | **#4** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 20 |
 | **#5** | [masaomi346](https://x.com/masaomi346) | 14 |
-| **#6** | [Metemcyber](https://x.com/Metemcyber) | 8 |
-| **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 8 |
+| **#6** | [Fact_Finder03](https://x.com/Fact_Finder03) | 11 |
+| **#7** | [Metemcyber](https://x.com/Metemcyber) | 8 |
 | **#8** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
 | **#9** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 | **#10** | [PhishStats](https://x.com/PhishStats) | 3 |
