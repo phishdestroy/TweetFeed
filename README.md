@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-03 23:00:25 (UTC)</th>
+        <th colspan=4>2026-11-04 14:15:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,11 +188,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 58 | 457 | 2878 | 44956 |
-| **:globe_with_meridians: Domains** | 42 | 345 | 2404 | 38708 |
-| **:triangular_flag_on_post: IPs** | 26 | 143 | 2032 | 7853 |
-| **:1234: SHA256** | 25 | 122 | 467 | 3078 |
-| **:1234: MD5** | 4 | 30 | 101 | 2105 |
+| **:link: URLs** | 49 | 414 | 2916 | 44803 |
+| **:globe_with_meridians: Domains** | 42 | 318 | 2434 | 38554 |
+| **:triangular_flag_on_post: IPs** | 18 | 144 | 2049 | 7865 |
+| **:1234: SHA256** | 73 | 177 | 541 | 3152 |
+| **:1234: MD5** | 1 | 18 | 102 | 2101 |
 
 </div>
 
@@ -205,16 +205,16 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 48 | 415 | 3340 | 32982 |
-| **#Kimsuky** | 0 | 10 | 38 | 13317 |
+| **#phishing** | 31 | 360 | 3355 | 32651 |
+| **#Kimsuky** | 0 | 8 | 38 | 13317 |
 | **#DPRK** | 0 | 18 | 20 | 11687 |
-| **#malware** | 17 | 131 | 1139 | 4113 |
-| **#scam** | 0 | 6 | 42 | 3149 |
-| **#C2** | 2 | 20 | 104 | 2192 |
-| **#APT** | 7 | 17 | 44 | 1500 |
-| **#ClickFix** | 6 | 12 | 195 | 1125 |
-| **#opendir** | 0 | 3 | 17 | 701 |
-| **#ransomware** | 6 | 25 | 99 | 695 |
+| **#malware** | 6 | 127 | 1145 | 4119 |
+| **#scam** | 0 | 6 | 42 | 3087 |
+| **#C2** | 11 | 29 | 115 | 2199 |
+| **#APT** | 0 | 13 | 44 | 1485 |
+| **#ClickFix** | 60 | 72 | 255 | 1185 |
+| **#opendir** | 0 | 3 | 17 | 696 |
+| **#ransomware** | 3 | 23 | 102 | 694 |
 <!-- TAG_TABLE_END -->
 
 These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tags being matched. Every one of them is queryable through the [API](#gear-programmatic-access) and has its own [RSS feed](https://tweetfeed.live/rss/tag/phishing.xml); the highest-volume ones also get a curated landing page at [tweetfeed.live/tags/](https://tweetfeed.live/tags/).
@@ -230,16 +230,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [smica83](https://x.com/smica83) | 18 |
-| **#2** | [Malwarehunterr](https://x.com/Malwarehunterr) | 16 |
-| **#3** | [masaomi346](https://x.com/masaomi346) | 15 |
-| **#4** | [malwrhunterteam](https://x.com/malwrhunterteam) | 14 |
-| **#5** | [vxunderground](https://x.com/vxunderground) | 14 |
-| **#6** | [teamcymru_S2](https://x.com/teamcymru_S2) | 12 |
-| **#7** | [suyog41](https://x.com/suyog41) | 9 |
-| **#8** | [AaronCTI](https://x.com/AaronCTI) | 8 |
-| **#9** | [TKemmerling](https://x.com/TKemmerling) | 6 |
-| **#10** | [PhishStats](https://x.com/PhishStats) | 6 |
+| **#1** | [TheM3gatr0n](https://x.com/TheM3gatr0n) | 60 |
+| **#2** | [smica83](https://x.com/smica83) | 28 |
+| **#3** | [AaronCTI](https://x.com/AaronCTI) | 22 |
+| **#4** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 20 |
+| **#5** | [masaomi346](https://x.com/masaomi346) | 14 |
+| **#6** | [Fact_Finder03](https://x.com/Fact_Finder03) | 11 |
+| **#7** | [Metemcyber](https://x.com/Metemcyber) | 8 |
+| **#8** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
+| **#9** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#10** | [PhishStats](https://x.com/PhishStats) | 3 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
