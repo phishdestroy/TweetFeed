@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2311
-; Updated: 2026-11-04T07:00:23Z
+; Entries: 2321
+; Updated: 2026-11-04T07:15:15Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793775623 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793776515 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -430,6 +430,8 @@ async-whatsapp.com CNAME .
 *.async-whatsapp.com CNAME .
 atdku.cn CNAME .
 *.atdku.cn CNAME .
+atendimentobradescosaude.com CNAME .
+*.atendimentobradescosaude.com CNAME .
 audio-whatsapp.com CNAME .
 *.audio-whatsapp.com CNAME .
 auditormadrid.es CNAME .
@@ -770,6 +772,8 @@ bridge-whatsapp.com CNAME .
 *.bridge-whatsapp.com CNAME .
 brixena.cfd CNAME .
 *.brixena.cfd CNAME .
+broadspancapital.com CNAME .
+*.broadspancapital.com CNAME .
 browser-whatsapp.com CNAME .
 *.browser-whatsapp.com CNAME .
 browseruphelp.com CNAME .
@@ -1020,6 +1024,8 @@ ciuyf.cn CNAME .
 *.ciuyf.cn CNAME .
 ckeuuat.cn CNAME .
 *.ckeuuat.cn CNAME .
+claudeearlyaccess-fable.cfd CNAME .
+*.claudeearlyaccess-fable.cfd CNAME .
 cleaningbyme.screenconnect.com CNAME .
 *.cleaningbyme.screenconnect.com CNAME .
 clearer.kesug.com CNAME .
@@ -1828,6 +1834,8 @@ gdfgdsa.duckdns.org CNAME .
 *.gdfgdsa.duckdns.org CNAME .
 gemini-alarmes.com CNAME .
 *.gemini-alarmes.com CNAME .
+genovaw.com CNAME .
+*.genovaw.com CNAME .
 gentle.best CNAME .
 *.gentle.best CNAME .
 geoogle.top CNAME .
@@ -1884,6 +1892,8 @@ google.drive03.com CNAME .
 *.google.drive03.com CNAME .
 google.workspacedoc.com CNAME .
 *.google.workspacedoc.com CNAME .
+googlegemini-earlyaccess.com CNAME .
+*.googlegemini-earlyaccess.com CNAME .
 googlemeeeeet.live CNAME .
 *.googlemeeeeet.live CNAME .
 googleplay.tail017acc.ts.net CNAME .
@@ -2144,6 +2154,8 @@ instantposupdate.com CNAME .
 *.instantposupdate.com CNAME .
 instantupdate.dev CNAME .
 *.instantupdate.dev CNAME .
+integercdn.com CNAME .
+*.integercdn.com CNAME .
 integration-auth.com CNAME .
 *.integration-auth.com CNAME .
 interacty.me CNAME .
@@ -2372,6 +2384,8 @@ lcopz.cn CNAME .
 *.lcopz.cn CNAME .
 leanviainc.top CNAME .
 *.leanviainc.top CNAME .
+leebin101.com CNAME .
+*.leebin101.com CNAME .
 legacy-whatsapp.com CNAME .
 *.legacy-whatsapp.com CNAME .
 legal.honestemploymentlaw.com CNAME .
@@ -3052,6 +3066,8 @@ proset-whatsapp.com CNAME .
 *.proset-whatsapp.com CNAME .
 prouse-whatsapp.com CNAME .
 *.prouse-whatsapp.com CNAME .
+proximadeploy.app CNAME .
+*.proximadeploy.app CNAME .
 proxy-tg-huafei080.papag8593.workers.dev CNAME .
 *.proxy-tg-huafei080.papag8593.workers.dev CNAME .
 proxy8.com CNAME .
@@ -3098,6 +3114,8 @@ pub-e00ed203a8c94e1e806a3d3453458c6d.r2.dev CNAME .
 *.pub-e00ed203a8c94e1e806a3d3453458c6d.r2.dev CNAME .
 pubad-gov-lk.net-src.info CNAME .
 *.pubad-gov-lk.net-src.info CNAME .
+pumpadmin.fun CNAME .
+*.pumpadmin.fun CNAME .
 purvoyage.com CNAME .
 *.purvoyage.com CNAME .
 pussycat.online CNAME .
@@ -3954,6 +3972,8 @@ thmaiaas.duckdns.org CNAME .
 *.thmaiaas.duckdns.org CNAME .
 thread-whatsapp.com CNAME .
 *.thread-whatsapp.com CNAME .
+threejrev.com CNAME .
+*.threejrev.com CNAME .
 thunder.godofthunder.st CNAME .
 *.thunder.godofthunder.st CNAME .
 thymeconcert.live CNAME .
