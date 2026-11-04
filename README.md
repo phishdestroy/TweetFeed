@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-04 14:15:24 (UTC)</th>
+        <th colspan=4>2026-11-04 14:30:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -190,7 +190,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 49 | 414 | 2916 | 44803 |
 | **:globe_with_meridians: Domains** | 42 | 318 | 2434 | 38554 |
-| **:triangular_flag_on_post: IPs** | 18 | 144 | 2049 | 7865 |
+| **:triangular_flag_on_post: IPs** | 30 | 156 | 2061 | 7877 |
 | **:1234: SHA256** | 73 | 177 | 541 | 3152 |
 | **:1234: MD5** | 1 | 18 | 102 | 2101 |
 
@@ -235,11 +235,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#3** | [AaronCTI](https://x.com/AaronCTI) | 22 |
 | **#4** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 20 |
 | **#5** | [masaomi346](https://x.com/masaomi346) | 14 |
-| **#6** | [Fact_Finder03](https://x.com/Fact_Finder03) | 11 |
-| **#7** | [Metemcyber](https://x.com/Metemcyber) | 8 |
-| **#8** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
-| **#9** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#10** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#6** | [teamcymru_S2](https://x.com/teamcymru_S2) | 12 |
+| **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 11 |
+| **#8** | [Metemcyber](https://x.com/Metemcyber) | 8 |
+| **#9** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
+| **#10** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
