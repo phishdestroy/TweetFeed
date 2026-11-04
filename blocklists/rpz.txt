@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2333
-; Updated: 2026-11-04T11:30:21Z
+; Entries: 2343
+; Updated: 2026-11-04T12:15:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793791821 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793794518 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -454,6 +454,8 @@ authy-ledger.at CNAME .
 *.authy-ledger.at CNAME .
 avkqcf.cfd CNAME .
 *.avkqcf.cfd CNAME .
+aw.ktonemail.com CNAME .
+*.aw.ktonemail.com CNAME .
 await-whatsapp.com CNAME .
 *.await-whatsapp.com CNAME .
 awedsaklsaq.onrender.com CNAME .
@@ -1028,6 +1030,8 @@ citrixplugins.blob.core.windows.net CNAME .
 *.citrixplugins.blob.core.windows.net CNAME .
 ciuyf.cn CNAME .
 *.ciuyf.cn CNAME .
+ck.wmgg5.com CNAME .
+*.ck.wmgg5.com CNAME .
 ckeuuat.cn CNAME .
 *.ckeuuat.cn CNAME .
 claudeearlyaccess-fable.cfd CNAME .
@@ -1562,6 +1566,8 @@ fenxiang-whatsapp.com CNAME .
 *.fenxiang-whatsapp.com CNAME .
 fertilab.net CNAME .
 *.fertilab.net CNAME .
+ff.ibig-tech.com CNAME .
+*.ff.ibig-tech.com CNAME .
 fhkdbv.cfd CNAME .
 *.fhkdbv.cfd CNAME .
 fhnweb-whatsapp.com CNAME .
@@ -1784,6 +1790,8 @@ fr-fr.webhwsapp-whatsapp.com CNAME .
 *.fr-fr.webhwsapp-whatsapp.com CNAME .
 fr.webhwsapp-whatsapp.com CNAME .
 *.fr.webhwsapp-whatsapp.com CNAME .
+fr.yxdnsy.com CNAME .
+*.fr.yxdnsy.com CNAME .
 freshmenuideas.com CNAME .
 *.freshmenuideas.com CNAME .
 ftp.fundacionpiaz.org CNAME .
@@ -2502,6 +2510,8 @@ luxonuniversity.com CNAME .
 *.luxonuniversity.com CNAME .
 luxuryfitnesslabs.com CNAME .
 *.luxuryfitnesslabs.com CNAME .
+lzexox.com CNAME .
+*.lzexox.com CNAME .
 m-facebooks.vn CNAME .
 *.m-facebooks.vn CNAME .
 m-fixbet.vip CNAME .
@@ -2674,6 +2684,8 @@ mjoh.eu.cc CNAME .
 *.mjoh.eu.cc CNAME .
 mkwweb-whatsapp.com CNAME .
 *.mkwweb-whatsapp.com CNAME .
+ml.qcqfzx.com CNAME .
+*.ml.qcqfzx.com CNAME .
 mlbysalw.cn CNAME .
 *.mlbysalw.cn CNAME .
 mlroweb.com CNAME .
@@ -3334,8 +3346,12 @@ ruyibebe.com CNAME .
 *.ruyibebe.com CNAME .
 ryfotukhjiohfhgkfg.xyz CNAME .
 *.ryfotukhjiohfhgkfg.xyz CNAME .
+s.aimi-aijia.com CNAME .
+*.s.aimi-aijia.com CNAME .
 s1z0j88g.onlinewebshop.net CNAME .
 *.s1z0j88g.onlinewebshop.net CNAME .
+s3051017.s3.us-east-2.amazonaws.com CNAME .
+*.s3051017.s3.us-east-2.amazonaws.com CNAME .
 sahko-team.fi CNAME .
 *.sahko-team.fi CNAME .
 saissodbn202607oint.u0fnd.info CNAME .
@@ -3542,6 +3558,8 @@ sinsp6ibw32abbcoagbjwetgm2w56u7tr4izy3xzp7ehqoenxvdd3qyd.onion CNAME .
 *.sinsp6ibw32abbcoagbjwetgm2w56u7tr4izy3xzp7ehqoenxvdd3qyd.onion CNAME .
 sivthara.cfd CNAME .
 *.sivthara.cfd CNAME .
+sjfa061019.s3.us-east-1.amazonaws.com CNAME .
+*.sjfa061019.s3.us-east-1.amazonaws.com CNAME .
 slpotify.com CNAME .
 *.slpotify.com CNAME .
 smaluf.net CNAME .
@@ -4516,6 +4534,8 @@ xncdvoghw.wuaze.com CNAME .
 *.xncdvoghw.wuaze.com CNAME .
 xrtweb-whatsapp.com CNAME .
 *.xrtweb-whatsapp.com CNAME .
+xrzyy.com CNAME .
+*.xrzyy.com CNAME .
 xss-whatsapp.com CNAME .
 *.xss-whatsapp.com CNAME .
 xtmafe.cn CNAME .

@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-04 12:00:22 (UTC)</th>
+        <th colspan=4>2026-11-04 12:15:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 38 | 403 | 2905 | 44792 |
-| **:globe_with_meridians: Domains** | 32 | 308 | 2424 | 38544 |
-| **:triangular_flag_on_post: IPs** | 12 | 138 | 2043 | 7859 |
-| **:1234: SHA256** | 11 | 115 | 479 | 3090 |
+| **:link: URLs** | 48 | 413 | 2915 | 44802 |
+| **:globe_with_meridians: Domains** | 42 | 318 | 2434 | 38554 |
+| **:triangular_flag_on_post: IPs** | 13 | 139 | 2044 | 7860 |
+| **:1234: SHA256** | 12 | 116 | 480 | 3091 |
 | **:1234: MD5** | 1 | 18 | 102 | 2101 |
 
 </div>
@@ -230,16 +230,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [smica83](https://x.com/smica83) | 26 |
+| **#1** | [smica83](https://x.com/smica83) | 27 |
 | **#2** | [AaronCTI](https://x.com/AaronCTI) | 22 |
-| **#3** | [masaomi346](https://x.com/masaomi346) | 14 |
-| **#4** | [Metemcyber](https://x.com/Metemcyber) | 8 |
-| **#5** | [Fact_Finder03](https://x.com/Fact_Finder03) | 7 |
-| **#6** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#7** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
-| **#8** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#9** | [FsecIntelEs](https://x.com/FsecIntelEs) | 2 |
-| **#10** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#3** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 20 |
+| **#4** | [masaomi346](https://x.com/masaomi346) | 14 |
+| **#5** | [Metemcyber](https://x.com/Metemcyber) | 8 |
+| **#6** | [Fact_Finder03](https://x.com/Fact_Finder03) | 7 |
+| **#7** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#8** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#9** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#10** | [FsecIntelEs](https://x.com/FsecIntelEs) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
