@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-04 09:00:23 (UTC)</th>
+        <th colspan=4>2026-11-04 09:15:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 24 | 389 | 2891 | 44778 |
-| **:globe_with_meridians: Domains** | 22 | 298 | 2414 | 38534 |
-| **:triangular_flag_on_post: IPs** | 8 | 134 | 2039 | 7855 |
-| **:1234: SHA256** | 4 | 108 | 472 | 3083 |
+| **:link: URLs** | 26 | 391 | 2893 | 44780 |
+| **:globe_with_meridians: Domains** | 23 | 299 | 2415 | 38535 |
+| **:triangular_flag_on_post: IPs** | 9 | 135 | 2040 | 7856 |
+| **:1234: SHA256** | 5 | 109 | 473 | 3084 |
 | **:1234: MD5** | 1 | 18 | 102 | 2101 |
 
 </div>
@@ -234,12 +234,12 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#2** | [masaomi346](https://x.com/masaomi346) | 11 |
 | **#3** | [Fact_Finder03](https://x.com/Fact_Finder03) | 7 |
 | **#4** | [Metemcyber](https://x.com/Metemcyber) | 6 |
-| **#5** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#7** | [FsecIntelEs](https://x.com/FsecIntelEs) | 2 |
-| **#8** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#9** | [skocherhan](https://x.com/skocherhan) | 1 |
-| **#10** | [Now_on_VT](https://x.com/Now_on_VT) | 1 |
+| **#5** | [smica83](https://x.com/smica83) | 5 |
+| **#6** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#7** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#8** | [FsecIntelEs](https://x.com/FsecIntelEs) | 2 |
+| **#9** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#10** | [skocherhan](https://x.com/skocherhan) | 1 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
