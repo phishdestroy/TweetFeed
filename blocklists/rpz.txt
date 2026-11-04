@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2343
-; Updated: 2026-11-04T12:15:18Z
+; Entries: 2353
+; Updated: 2026-11-04T23:00:25Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793794518 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793833225 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1176,6 +1176,8 @@ craigbohart.com CNAME .
 *.craigbohart.com CNAME .
 cruahop.shop CNAME .
 *.cruahop.shop CNAME .
+cruisemacauu-jp.com CNAME .
+*.cruisemacauu-jp.com CNAME .
 crying881.beer CNAME .
 *.crying881.beer CNAME .
 crystalmnhomes.com CNAME .
@@ -1382,6 +1384,8 @@ docu-sign.biz CNAME .
 *.docu-sign.biz CNAME .
 docusign-document.info CNAME .
 *.docusign-document.info CNAME .
+docusign.alt3-doc3ea7-v2.sbs CNAME .
+*.docusign.alt3-doc3ea7-v2.sbs CNAME .
 docusignaccessportal.com CNAME .
 *.docusignaccessportal.com CNAME .
 docusignadmintra.com CNAME .
@@ -1494,6 +1498,8 @@ encode-whatsapp.com CNAME .
 *.encode-whatsapp.com CNAME .
 energyleasing88.com CNAME .
 *.energyleasing88.com CNAME .
+engrdist.site CNAME .
+*.engrdist.site CNAME .
 enterprisedeliv.com CNAME .
 *.enterprisedeliv.com CNAME .
 entry-whatsapp.com CNAME .
@@ -2122,6 +2128,8 @@ iasteun.cn CNAME .
 *.iasteun.cn CNAME .
 icicibankkyc.vercel.app CNAME .
 *.icicibankkyc.vercel.app CNAME .
+icollections.github.io CNAME .
+*.icollections.github.io CNAME .
 id-review.at CNAME .
 *.id-review.at CNAME .
 id-so-net-ne-jp.duckdns.org CNAME .
@@ -2136,6 +2144,8 @@ ids-whatsapp.com CNAME .
 *.ids-whatsapp.com CNAME .
 illustrationi-jp.com CNAME .
 *.illustrationi-jp.com CNAME .
+im-quirky.com CNAME .
+*.im-quirky.com CNAME .
 imepki.com CNAME .
 *.imepki.com CNAME .
 img.webapi-whatsapp.com CNAME .
@@ -3570,6 +3580,8 @@ smokingstationhub.com CNAME .
 *.smokingstationhub.com CNAME .
 smulaf.net CNAME .
 *.smulaf.net CNAME .
+sni13.docsmanagement.endl.site CNAME .
+*.sni13.docsmanagement.endl.site CNAME .
 snj.kjk.mybluehost.me CNAME .
 *.snj.kjk.mybluehost.me CNAME .
 snuznsva.cn CNAME .
@@ -3630,6 +3642,8 @@ staganddoenc.com CNAME .
 *.staganddoenc.com CNAME .
 stake-app-au.org CNAME .
 *.stake-app-au.org CNAME .
+stalevi-shershni.somee.com CNAME .
+*.stalevi-shershni.somee.com CNAME .
 startweb-whatsapp.com CNAME .
 *.startweb-whatsapp.com CNAME .
 state-whatsapp.com CNAME .
@@ -3648,6 +3662,8 @@ stellasallaku.com CNAME .
 *.stellasallaku.com CNAME .
 stinson.myssologin.com CNAME .
 *.stinson.myssologin.com CNAME .
+store2.shop CNAME .
+*.store2.shop CNAME .
 stormvenomforge.top CNAME .
 *.stormvenomforge.top CNAME .
 strand-output-firefox-laptop.trycloudflare.com CNAME .
@@ -4056,6 +4072,10 @@ track.senderbulk.com CNAME .
 *.track.senderbulk.com CNAME .
 traffer.net CNAME .
 *.traffer.net CNAME .
+translucentle.com CNAME .
+*.translucentle.com CNAME .
+trastwallet.cam CNAME .
+*.trastwallet.cam CNAME .
 trendcars.be CNAME .
 *.trendcars.be CNAME .
 truecdnnetwork.com CNAME .

@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-04 14:15:24 (UTC)</th>
+        <th colspan=4>2026-11-04 23:30:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,11 +188,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 49 | 414 | 2916 | 44803 |
-| **:globe_with_meridians: Domains** | 42 | 318 | 2434 | 38554 |
-| **:triangular_flag_on_post: IPs** | 18 | 144 | 2049 | 7865 |
-| **:1234: SHA256** | 73 | 177 | 541 | 3152 |
-| **:1234: MD5** | 1 | 18 | 102 | 2101 |
+| **:link: URLs** | 72 | 439 | 2941 | 44828 |
+| **:globe_with_meridians: Domains** | 51 | 328 | 2444 | 38564 |
+| **:triangular_flag_on_post: IPs** | 39 | 353 | 2258 | 8074 |
+| **:1234: SHA256** | 87 | 191 | 555 | 3166 |
+| **:1234: MD5** | 2 | 19 | 103 | 2102 |
 
 </div>
 
@@ -205,15 +205,15 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 31 | 360 | 3355 | 32651 |
+| **#phishing** | 39 | 368 | 3363 | 32659 |
 | **#Kimsuky** | 0 | 8 | 38 | 13317 |
 | **#DPRK** | 0 | 18 | 20 | 11687 |
-| **#malware** | 6 | 127 | 1145 | 4119 |
-| **#scam** | 0 | 6 | 42 | 3087 |
+| **#malware** | 18 | 139 | 1157 | 4131 |
+| **#scam** | 2 | 8 | 44 | 3089 |
 | **#C2** | 11 | 29 | 115 | 2199 |
-| **#APT** | 0 | 13 | 44 | 1485 |
+| **#APT** | 3 | 16 | 47 | 1488 |
 | **#ClickFix** | 60 | 72 | 255 | 1185 |
-| **#opendir** | 0 | 3 | 17 | 696 |
+| **#opendir** | 6 | 9 | 23 | 702 |
 | **#ransomware** | 3 | 23 | 102 | 694 |
 <!-- TAG_TABLE_END -->
 
@@ -231,15 +231,15 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [TheM3gatr0n](https://x.com/TheM3gatr0n) | 60 |
-| **#2** | [smica83](https://x.com/smica83) | 28 |
+| **#2** | [smica83](https://x.com/smica83) | 51 |
 | **#3** | [AaronCTI](https://x.com/AaronCTI) | 22 |
 | **#4** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 20 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 14 |
-| **#6** | [Fact_Finder03](https://x.com/Fact_Finder03) | 11 |
-| **#7** | [Metemcyber](https://x.com/Metemcyber) | 8 |
-| **#8** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
-| **#9** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#10** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#5** | [masaomi346](https://x.com/masaomi346) | 17 |
+| **#6** | [teamcymru_S2](https://x.com/teamcymru_S2) | 12 |
+| **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 11 |
+| **#8** | [Metemcyber](https://x.com/Metemcyber) | 8 |
+| **#9** | [Malwarehunterr](https://x.com/Malwarehunterr) | 8 |
+| **#10** | [malwrhunterteam](https://x.com/malwrhunterteam) | 7 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
