@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-04 07:30:21 (UTC)</th>
+        <th colspan=4>2026-11-04 07:45:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -190,7 +190,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 22 | 387 | 2889 | 44776 |
 | **:globe_with_meridians: Domains** | 20 | 296 | 2412 | 38532 |
-| **:triangular_flag_on_post: IPs** | 6 | 132 | 2037 | 7853 |
+| **:triangular_flag_on_post: IPs** | 7 | 133 | 2038 | 7854 |
 | **:1234: SHA256** | 4 | 108 | 472 | 3083 |
 | **:1234: MD5** | 1 | 18 | 102 | 2101 |
 
@@ -210,7 +210,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 18 | 20 | 11687 |
 | **#malware** | 3 | 124 | 1142 | 4116 |
 | **#scam** | 0 | 6 | 42 | 3087 |
-| **#C2** | 5 | 23 | 109 | 2193 |
+| **#C2** | 6 | 24 | 110 | 2194 |
 | **#APT** | 0 | 13 | 44 | 1485 |
 | **#ClickFix** | 0 | 12 | 195 | 1125 |
 | **#opendir** | 0 | 3 | 17 | 696 |
@@ -233,7 +233,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [AaronCTI](https://x.com/AaronCTI) | 22 |
 | **#2** | [masaomi346](https://x.com/masaomi346) | 9 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 6 |
-| **#4** | [Fact_Finder03](https://x.com/Fact_Finder03) | 5 |
+| **#4** | [Fact_Finder03](https://x.com/Fact_Finder03) | 6 |
 | **#5** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 | **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
 | **#7** | [FsecIntelEs](https://x.com/FsecIntelEs) | 2 |
