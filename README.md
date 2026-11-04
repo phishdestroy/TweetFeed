@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-04 20:30:27 (UTC)</th>
+        <th colspan=4>2026-11-04 20:45:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 66 | 431 | 2933 | 44820 |
-| **:globe_with_meridians: Domains** | 49 | 325 | 2441 | 38561 |
+| **:link: URLs** | 69 | 434 | 2936 | 44823 |
+| **:globe_with_meridians: Domains** | 50 | 326 | 2442 | 38562 |
 | **:triangular_flag_on_post: IPs** | 37 | 163 | 2068 | 7884 |
-| **:1234: SHA256** | 80 | 184 | 548 | 3159 |
+| **:1234: SHA256** | 82 | 186 | 550 | 3161 |
 | **:1234: MD5** | 1 | 18 | 102 | 2101 |
 
 </div>
@@ -238,8 +238,8 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#6** | [teamcymru_S2](https://x.com/teamcymru_S2) | 12 |
 | **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 11 |
 | **#8** | [Metemcyber](https://x.com/Metemcyber) | 8 |
-| **#9** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
-| **#10** | [orlof_v](https://x.com/orlof_v) | 6 |
+| **#9** | [Malwarehunterr](https://x.com/Malwarehunterr) | 8 |
+| **#10** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
