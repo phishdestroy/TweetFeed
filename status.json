@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T12:30:26Z",
+ "generated_at": "2026-11-04T12:45:28Z",
  "pipeline": {
   "interval_seconds": 900,
   "stale_after_seconds": 1800
@@ -17,7 +17,7 @@
   "total": 57,
   "hashtag": 33,
   "account": 24,
-  "rows_last_24h": 225,
+  "rows_last_24h": 279,
   "dead_after_seconds": {
    "account": 2592000,
    "hashtag": null
@@ -146,7 +146,7 @@
     "id": "suyog41",
     "kind": "account",
     "newest_item_at": "2026-11-03T12:35:00Z",
-    "rows_last_24h": 6,
+    "rows_last_24h": 0,
     "dead_after_seconds": 2592000
    },
    {
@@ -159,8 +159,8 @@
    {
     "id": "TheM3gatr0n",
     "kind": "account",
-    "newest_item_at": "2026-11-03T06:06:00Z",
-    "rows_last_24h": 0,
+    "newest_item_at": "2026-11-04T12:27:00Z",
+    "rows_last_24h": 60,
     "dead_after_seconds": 2592000
    },
    {
@@ -173,7 +173,7 @@
    {
     "id": "TweetFeedList",
     "kind": "account",
-    "newest_item_at": "2026-11-04T11:14:00Z",
+    "newest_item_at": "2026-11-04T12:27:00Z",
     "rows_last_24h": 0,
     "dead_after_seconds": 2592000
    },
@@ -222,8 +222,8 @@
    {
     "id": "ClickFix",
     "kind": "hashtag",
-    "newest_item_at": "2026-11-04T08:31:00Z",
-    "rows_last_24h": 2,
+    "newest_item_at": "2026-11-04T12:27:00Z",
+    "rows_last_24h": 62,
     "dead_after_seconds": null
    },
    {
@@ -299,7 +299,7 @@
    {
     "id": "malware",
     "kind": "hashtag",
-    "newest_item_at": "2026-11-04T11:15:00Z",
+    "newest_item_at": "2026-11-04T12:18:00Z",
     "rows_last_24h": 17,
     "dead_after_seconds": null
    },
@@ -341,7 +341,7 @@
    {
     "id": "phishing",
     "kind": "hashtag",
-    "newest_item_at": "2026-11-04T12:09:00Z",
+    "newest_item_at": "2026-11-04T12:29:00Z",
     "rows_last_24h": 58,
     "dead_after_seconds": null
    },
@@ -355,7 +355,7 @@
    {
     "id": "ransomware",
     "kind": "hashtag",
-    "newest_item_at": "2026-11-04T12:00:00Z",
+    "newest_item_at": "2026-11-04T12:18:00Z",
     "rows_last_24h": 2,
     "dead_after_seconds": null
    },
@@ -428,97 +428,97 @@
   "today.csv": {
    "kind": "tick",
    "path": "today.csv",
-   "updated_at": "2026-11-04T12:30:26Z",
+   "updated_at": "2026-11-04T12:45:28Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "today",
-   "rows": 116,
+   "rows": 176,
    "first_row": "2026-11-04 00:42:01",
-   "last_row": "2026-11-04 12:04:08",
+   "last_row": "2026-11-04 12:27:25",
    "data_stale_after_seconds": 28800
   },
   "week.csv": {
    "kind": "tick",
    "path": "week.csv",
-   "updated_at": "2026-11-04T12:30:26Z",
+   "updated_at": "2026-11-04T12:45:28Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "week",
-   "rows": 1004,
+   "rows": 1064,
    "first_row": "2026-10-29 00:03:02",
-   "last_row": "2026-11-04 12:04:08",
+   "last_row": "2026-11-04 12:27:25",
    "data_stale_after_seconds": 28800
   },
   "month.csv": {
    "kind": "tick",
    "path": "month.csv",
-   "updated_at": "2026-11-04T12:30:26Z",
+   "updated_at": "2026-11-04T12:45:28Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "month",
-   "rows": 7975,
+   "rows": 8035,
    "first_row": "2026-10-05 00:48:22",
-   "last_row": "2026-11-04 12:04:08",
+   "last_row": "2026-11-04 12:27:25",
    "data_stale_after_seconds": 28800
   },
   "year.csv": {
    "kind": "tick",
    "path": "year.csv",
-   "updated_at": "2026-11-04T12:30:26Z",
+   "updated_at": "2026-11-04T12:45:28Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "year",
-   "rows": 96408,
+   "rows": 96468,
    "first_row": "2025-11-05 00:20:25",
-   "last_row": "2026-11-04 12:04:08",
+   "last_row": "2026-11-04 12:27:25",
    "data_stale_after_seconds": 28800
   },
   "rss.xml": {
    "kind": "tick",
    "path": "rss.xml",
-   "updated_at": "2026-11-04T12:30:26Z",
+   "updated_at": "2026-11-04T12:45:28Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "counts.json": {
    "kind": "tick",
    "path": "counts.json",
-   "updated_at": "2026-11-04T12:30:26Z",
+   "updated_at": "2026-11-04T12:45:28Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "contributors.json": {
    "kind": "tick",
    "path": "contributors.json",
-   "updated_at": "2026-11-04T12:30:26Z",
+   "updated_at": "2026-11-04T12:45:28Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "misp": {
    "kind": "tick",
    "path": "misp/",
-   "updated_at": "2026-11-04T12:30:26Z",
+   "updated_at": "2026-11-04T12:45:28Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "stix": {
    "kind": "tick",
    "path": "stix/",
-   "updated_at": "2026-11-04T12:30:26Z",
+   "updated_at": "2026-11-04T12:45:28Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "blocklists": {
    "kind": "tick",
    "path": "blocklists/",
-   "updated_at": "2026-11-04T12:30:26Z",
+   "updated_at": "2026-11-04T12:45:28Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "exclusive.csv": {
    "kind": "tick",
    "path": "exclusive.csv",
-   "updated_at": "2026-11-04T12:30:26Z",
+   "updated_at": "2026-11-04T12:45:28Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "note": "30-day rows not listed by URLhaus, ThreatFox, MalwareBazaar, USOM or IPsum as of the last cross-check"
@@ -526,7 +526,7 @@
   "lookup": {
    "kind": "own-clock",
    "path": "lookup/",
-   "updated_at": "2026-11-04T12:30:19Z",
+   "updated_at": "2026-11-04T12:45:19Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700,
    "shards": 256
@@ -534,7 +534,7 @@
   "trends.json": {
    "kind": "own-clock",
    "path": "trends.json",
-   "updated_at": "2026-11-04T12:30:21Z",
+   "updated_at": "2026-11-04T12:45:21Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700
   },
@@ -563,7 +563,7 @@
   "enrichment.json": {
    "kind": "own-clock",
    "path": "enrichment.json",
-   "updated_at": "2026-11-04T06:40:05Z",
+   "updated_at": "2026-11-04T12:40:04Z",
    "interval_seconds": 21600,
    "stale_after_seconds": 46800
   },

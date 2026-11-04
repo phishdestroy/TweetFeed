@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-04 12:30:21 (UTC)</th>
+        <th colspan=4>2026-11-04 12:45:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -191,7 +191,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **:link: URLs** | 48 | 413 | 2915 | 44802 |
 | **:globe_with_meridians: Domains** | 42 | 318 | 2434 | 38554 |
 | **:triangular_flag_on_post: IPs** | 13 | 139 | 2044 | 7860 |
-| **:1234: SHA256** | 12 | 116 | 480 | 3091 |
+| **:1234: SHA256** | 72 | 176 | 540 | 3151 |
 | **:1234: MD5** | 1 | 18 | 102 | 2101 |
 
 </div>
@@ -212,7 +212,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#scam** | 0 | 6 | 42 | 3087 |
 | **#C2** | 7 | 25 | 111 | 2195 |
 | **#APT** | 0 | 13 | 44 | 1485 |
-| **#ClickFix** | 0 | 12 | 195 | 1125 |
+| **#ClickFix** | 60 | 72 | 255 | 1185 |
 | **#opendir** | 0 | 3 | 17 | 696 |
 | **#ransomware** | 2 | 22 | 101 | 693 |
 <!-- TAG_TABLE_END -->
@@ -230,16 +230,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [smica83](https://x.com/smica83) | 27 |
-| **#2** | [AaronCTI](https://x.com/AaronCTI) | 22 |
-| **#3** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 20 |
-| **#4** | [masaomi346](https://x.com/masaomi346) | 14 |
-| **#5** | [Metemcyber](https://x.com/Metemcyber) | 8 |
-| **#6** | [Fact_Finder03](https://x.com/Fact_Finder03) | 7 |
-| **#7** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#8** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
-| **#9** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#10** | [FsecIntelEs](https://x.com/FsecIntelEs) | 2 |
+| **#1** | [TheM3gatr0n](https://x.com/TheM3gatr0n) | 60 |
+| **#2** | [smica83](https://x.com/smica83) | 27 |
+| **#3** | [AaronCTI](https://x.com/AaronCTI) | 22 |
+| **#4** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 20 |
+| **#5** | [masaomi346](https://x.com/masaomi346) | 14 |
+| **#6** | [Metemcyber](https://x.com/Metemcyber) | 8 |
+| **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 7 |
+| **#8** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#9** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#10** | [PhishStats](https://x.com/PhishStats) | 3 |
 <!-- TOP_REPORTERS_END -->
 
 </div>

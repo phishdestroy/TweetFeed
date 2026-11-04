@@ -1,5 +1,5 @@
 {
-  "count": 5869,
+  "count": 5916,
   "dead_tweets": {
     "2107773993008669042": {
       "attempts": 2,
@@ -335,6 +335,20 @@
       "type": "sha256",
       "value": "07be91c98c5feee161e87d01ff2c617b324baebb5a0b6eeb7c888900ad3588bb"
     },
+    "07e26317533211e85f78739b643423dd65f4b589e701c4b855378c743fa82558": {
+      "confidence": 0.5,
+      "date": "2026-11-04 11:51:09",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious batch file with Spanish legal-notice lure ('Aviso Prejuridico') seen from Colombia, shared via MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2117947758212440308",
+      "type": "sha256",
+      "value": "07e26317533211e85f78739b643423dd65f4b589e701c4b855378c743fa82558"
+    },
     "07f37d654db3ce7a009e2d59833358452d884eb36a4deda9fcc0ad64617f7293": {
       "confidence": 0.7,
       "date": "2026-11-01 11:15:22",
@@ -428,6 +442,20 @@
       "tweet_id": "2107463036793680195",
       "type": "sha256",
       "value": "0aad8e8b65ee59ed916c190ef16719f396861e1d040a460a866604e67b074fb4"
+    },
+    "0ab3122f40166928fab322f0a7bfeb4df959beb68503737bf75f42e3f0701b8b": {
+      "confidence": 0.45,
+      "date": "2026-11-04 11:19:52",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malware sample linked to two source URLs (roseruvorif.app/.zone /lntegration) with low AV detection, related to bigriemp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2117939883779965432",
+      "type": "sha256",
+      "value": "0ab3122f40166928fab322f0a7bfeb4df959beb68503737bf75f42e3f0701b8b"
     },
     "0adc3cb190e10f61005d7a0c12cfe6f4f8e082a26a1719e0df560dbd61e81613": {
       "confidence": 0.6,
@@ -3703,22 +3731,6 @@
       "type": "url",
       "value": "http://107.175.85.215"
     },
-    "107.189.21.25": {
-      "confidence": 0.8,
-      "date": "2026-10-05 07:09:14",
-      "enriched_at": "2026-10-05T12:40:04Z",
-      "family": "Phantom Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "IP with port 8443 reported as hosting a Phantom stealer panel.",
-      "threat_type": "malware",
-      "tweet_id": "2107005175097672022",
-      "type": "ip",
-      "value": "107.189.21.25"
-    },
     "108.165.147.226": {
       "confidence": 0.8,
       "date": "2026-10-14 17:59:48",
@@ -3921,22 +3933,6 @@
       "tweet_id": "2107102060042719580",
       "type": "ip",
       "value": "109.238.87.205"
-    },
-    "110.41.6.163": {
-      "confidence": 0.93,
-      "date": "2026-10-05 07:33:00",
-      "enriched_at": "2026-10-05T12:40:04Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "valleyrat",
-        "c2",
-        "rat"
-      ],
-      "summary": "IP address reported as a ValleyRAT command-and-control server.",
-      "threat_type": "c2",
-      "tweet_id": "2107011153872273414",
-      "type": "url",
-      "value": "http://110.41.6.163"
     },
     "110.42.215.163": {
       "confidence": 0.7,
@@ -7738,6 +7734,20 @@
       "type": "ip",
       "value": "151.243.126.22"
     },
+    "151.243.18.12": {
+      "confidence": 0.35,
+      "date": "2026-11-04 11:14:44",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "IP 151.243.18.12 reported as the resolution target for a related malicious domain (bigriemp.com).",
+      "threat_type": "malware",
+      "tweet_id": "2117938591670096027",
+      "type": "url",
+      "value": "http://151.243.18.12"
+    },
     "151.245.121.241": {
       "confidence": 0.9,
       "date": "2026-10-24 17:04:54",
@@ -9183,6 +9193,22 @@
       "type": "ip",
       "value": "161.33.92.176"
     },
+    "162.213.193.26": {
+      "confidence": 0.7,
+      "date": "2026-11-04 06:38:37",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": "Tripaul",
+      "suggested_tags": [
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "Tripaul RAT C2 panel reported at 162.213.193.26 on port 8000.",
+      "threat_type": "c2",
+      "tweet_id": "2117869103490994587",
+      "type": "ip",
+      "value": "162.213.193.26"
+    },
     "162.246.19.216": {
       "confidence": 0.7,
       "date": "2026-10-27 16:17:50",
@@ -9701,6 +9727,21 @@
       "type": "url",
       "value": "http://168.138.40.244"
     },
+    "168.144.90.43": {
+      "confidence": 0.6,
+      "date": "2026-11-04 07:32:28",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "NightCrypt crypter C2 panel reported at 168.144.90.43 on port 8000.",
+      "threat_type": "c2",
+      "tweet_id": "2117882657891918323",
+      "type": "ip",
+      "value": "168.144.90.43"
+    },
     "168.222.255.158": {
       "confidence": 0.35,
       "date": "2026-10-29 11:43:25",
@@ -9764,6 +9805,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "169.58.206.194"
+    },
+    "169.58.23.32": {
+      "confidence": 0.6,
+      "date": "2026-11-04 12:04:08",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "IP:port 169.58.23.32:3000 reported as hosting a fake account verification page, likely credential phishing.",
+      "threat_type": "phishing",
+      "tweet_id": "2117951023784595909",
+      "type": "ip",
+      "value": "169.58.23.32"
     },
     "169.58.25.186": {
       "confidence": 0.65,
@@ -10673,6 +10728,22 @@
       "type": "url",
       "value": "http://178.16.52.204/data/apk/Cloudflare.apk"
     },
+    "178.16.53.50": {
+      "confidence": 0.5,
+      "date": "2026-11-04 07:03:00",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Campaign using fake early-access lures for Claude and Google Gemini, with related historical and later infrastructure domains and IP.",
+      "threat_type": "scam",
+      "tweet_id": "2117875241930437108",
+      "type": "url",
+      "value": "http://178.16.53.50"
+    },
     "178.211.133.12": {
       "confidence": 0.85,
       "date": "2026-10-24 17:33:15",
@@ -11208,6 +11279,20 @@
       "tweet_id": "2109705171466912180",
       "type": "ip",
       "value": "185.148.144.99"
+    },
+    "185.158.133.1": {
+      "confidence": 0.85,
+      "date": "2026-11-04 07:03:31",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site atendimentobradescosaude.com impersonating Bradesco Saude, behind Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2117875371144368458",
+      "type": "ip",
+      "value": "185.158.133.1"
     },
     "185.166.154.105": {
       "confidence": 0.85,
@@ -11960,6 +12045,21 @@
       "tweet_id": "2117454877299446005",
       "type": "ip",
       "value": "193.187.110.10"
+    },
+    "193.187.91.224": {
+      "confidence": 0.5,
+      "date": "2026-11-04 08:58:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Batch file with Hungarian lure seen from Hungary, using DuckDNS domain newbiesember.duckdns.org and IP 193.187.91.224.",
+      "threat_type": "malware",
+      "tweet_id": "2117904212268884031",
+      "type": "url",
+      "value": "http://193.187.91.224"
     },
     "193.228.128.2": {
       "confidence": 0.55,
@@ -13658,6 +13758,21 @@
       "type": "url",
       "value": "http://204.168.131.234"
     },
+    "204.76.203.208": {
+      "confidence": 0.5,
+      "date": "2026-11-04 10:38:42",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "MSI installer 'setup.msi' communicating with beers.ath.cx and IP 204.76.203.208.",
+      "threat_type": "malware",
+      "tweet_id": "2117929524948038089",
+      "type": "url",
+      "value": "http://204.76.203.208"
+    },
     "206.119.179.187": {
       "confidence": 0.9,
       "date": "2026-10-20 05:31:35",
@@ -14933,6 +15048,21 @@
       "type": "url",
       "value": "http://23.94.252.89/31919"
     },
+    "23.95.217.154": {
+      "confidence": 0.6,
+      "date": "2026-11-04 07:44:59",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Ghost crypter C2 panel reported at 23.95.217.154 on port 8080.",
+      "threat_type": "c2",
+      "tweet_id": "2117885805700206928",
+      "type": "ip",
+      "value": "23.95.217.154"
+    },
     "23.95.220.222": {
       "confidence": 0.6,
       "date": "2026-10-30 15:47:30",
@@ -14947,6 +15077,21 @@
       "tweet_id": "2116166833682178423",
       "type": "ip",
       "value": "23.95.220.222"
+    },
+    "23e64c7e4425c434b5cce1949662b797dcbbd16b068ee84527c1666023879efa": {
+      "confidence": 0.5,
+      "date": "2026-11-04 08:58:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Batch file with Hungarian lure seen from Hungary, using DuckDNS domain newbiesember.duckdns.org and IP 193.187.91.224.",
+      "threat_type": "malware",
+      "tweet_id": "2117904212268884031",
+      "type": "sha256",
+      "value": "23e64c7e4425c434b5cce1949662b797dcbbd16b068ee84527c1666023879efa"
     },
     "2416d60ed2e9b8d0f040a232fe8ca2ad82a5392970d3c87ae5c55225231b7b46": {
       "confidence": 0.6,
@@ -19811,22 +19956,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "34.24.9.239"
-    },
-    "34.254.202.253": {
-      "confidence": 0.85,
-      "date": "2026-10-05 09:45:23",
-      "enriched_at": "2026-10-05T12:40:04Z",
-      "family": "Sliver",
-      "suggested_tags": [
-        "sliver",
-        "c2",
-        "malware"
-      ],
-      "summary": "Exposed attacker infrastructure at a single IP reported as hosting Sliver C2, a miner and Metasploit, allegedly targeting institutions in Brazil.",
-      "threat_type": "c2",
-      "tweet_id": "2107044472198693028",
-      "type": "url",
-      "value": "http://34.254.202.253"
     },
     "34.26.104.177": {
       "confidence": 0.5,
@@ -24706,6 +24835,21 @@
       "type": "ip",
       "value": "35.247.247.220"
     },
+    "351312.cc": {
+      "confidence": 0.6,
+      "date": "2026-11-04 07:40:41",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "Domain 351312.cc flagged by a web scanner as a confirmed scam site.",
+      "threat_type": "scam",
+      "tweet_id": "2117884726337736761",
+      "type": "domain",
+      "value": "351312.cc"
+    },
     "351395a3055b183263aa2e4cc2245fdc0ffd249b0011ac65bdc8d471d1b5b4c5": {
       "confidence": 0.6,
       "date": "2026-10-20 08:11:20",
@@ -26138,21 +26282,6 @@
       "tweet_id": "2107089813820395829",
       "type": "url",
       "value": "http://43.165.128.22"
-    },
-    "43.165.128.97": {
-      "confidence": 0.9,
-      "date": "2026-10-05 12:33:50",
-      "enriched_at": "2026-10-05T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing site impersonating UC Card targeting Japanese users, at kaifitness.penwfe.asia.",
-      "threat_type": "phishing",
-      "tweet_id": "2107086863836279280",
-      "type": "url",
-      "value": "http://43.165.128.97"
     },
     "43.165.129.163": {
       "confidence": 0.9,
@@ -27842,23 +27971,6 @@
       "type": "ip",
       "value": "49.51.38.193"
     },
-    "493aafd42641c852be9a7a0e8fd77f85": {
-      "confidence": 0.85,
-      "date": "2026-10-05 12:21:17",
-      "enriched_at": "2026-10-05T18:40:03Z",
-      "family": "AMOS Stealer",
-      "suggested_tags": [
-        "amosstealer",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "AMOS (Atomic) macOS stealer sample, file name sync_client.7.18, identified by MD5.",
-      "threat_type": "malware",
-      "tweet_id": "2107083705449685228",
-      "type": "md5",
-      "value": "493aafd42641c852be9a7a0e8fd77f85"
-    },
     "4adb8b4f38f0199a238831a9c8892bae329b8737e5c00d26eaf072b8b4e43106": {
       "confidence": 0.5,
       "date": "2026-10-22 04:33:50",
@@ -27995,6 +28107,22 @@
       "tweet_id": "2114995865517695018",
       "type": "sha256",
       "value": "4dc4c0bdce7d711bd4160beebbfe67d64a65a5c083429cb222926d7bd095b353"
+    },
+    "4e472f1a5d14cf690e18943c0fede03185b0faf82429b7ac1ee81e5b7639139c": {
+      "confidence": 0.8,
+      "date": "2026-11-04 10:34:27",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as Amazon, distributed from a Japanese phishing site (mackdentistr-jp.com).",
+      "threat_type": "malware",
+      "tweet_id": "2117928456273133709",
+      "type": "sha256",
+      "value": "4e472f1a5d14cf690e18943c0fede03185b0faf82429b7ac1ee81e5b7639139c"
     },
     "4e6489e9161e0abff2f2bc40a4fcc3489cc69371b099fd0f2756fc6a607cfcc0": {
       "confidence": 0.6,
@@ -28608,6 +28736,21 @@
       "type": "sha256",
       "value": "554c27175cc2b455b641863c55031497feaf4e4e9779576c7e1129504b3ed5c4"
     },
+    "55cef23463e998ab05ec9995f545b9e128b91e7c6cea0343eceec6abc7dea355": {
+      "confidence": 0.55,
+      "date": "2026-11-04 10:44:10",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "MSI installer 'Py.msi' with a FUD C2 domain and a next-stage payload download (xise.bin) from a separate domain.",
+      "threat_type": "malware",
+      "tweet_id": "2117930899622838732",
+      "type": "sha256",
+      "value": "55cef23463e998ab05ec9995f545b9e128b91e7c6cea0343eceec6abc7dea355"
+    },
     "560c1b90739343ea70a38ce5ad1c37e7b8cbc99308e45a40a1560a7de63c51a1": {
       "confidence": 0.5,
       "date": "2026-10-28 20:53:22",
@@ -28802,23 +28945,6 @@
       "tweet_id": "2113601611503120436",
       "type": "sha256",
       "value": "58eb890b612938867237c3fa1715b8742d9b25a8fe136cd75ea659882b7b7a10"
-    },
-    "58edc99975583d608c5c78ca6afb13fe36ac49560f8e5f673e047ab93269990f": {
-      "confidence": 0.8,
-      "date": "2026-10-05 12:18:40",
-      "enriched_at": "2026-10-05T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as PayPay payment app, distributed via a Tailscale funnel URL in a Japanese phishing campaign.",
-      "threat_type": "malware",
-      "tweet_id": "2107083045178368297",
-      "type": "sha256",
-      "value": "58edc99975583d608c5c78ca6afb13fe36ac49560f8e5f673e047ab93269990f"
     },
     "59.153.202.112": {
       "confidence": 0.5,
@@ -29870,20 +29996,6 @@
       "tweet_id": "2115115765632496094",
       "type": "url",
       "value": "http://69.169.106.96:8041"
-    },
-    "69.169.109.75": {
-      "confidence": 0.95,
-      "date": "2026-10-05 07:01:11",
-      "enriched_at": "2026-10-05T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Spotify-themed phishing site on a recently registered domain (2026-09-30), hosted at Interserver in the US.",
-      "threat_type": "phishing",
-      "tweet_id": "2107003147818344881",
-      "type": "ip",
-      "value": "69.169.109.75"
     },
     "69.46.46.90": {
       "confidence": 0.9,
@@ -33421,6 +33533,36 @@
       "tweet_id": "2114657401773400431",
       "type": "ip",
       "value": "93.152.223.44"
+    },
+    "93.177.77.101": {
+      "confidence": 0.55,
+      "date": "2026-11-04 11:09:45",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "ELF binary named 'pay' seen from China, communicating with 93.177.77.101 on TCP port 39077.",
+      "threat_type": "c2",
+      "tweet_id": "2117937339401994405",
+      "type": "ip",
+      "value": "93.177.77.101"
+    },
+    "93.177.77.101:39077": {
+      "confidence": 0.55,
+      "date": "2026-11-04 11:09:45",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "ELF binary named 'pay' seen from China, communicating with 93.177.77.101 on TCP port 39077.",
+      "threat_type": "c2",
+      "tweet_id": "2117937339401994405",
+      "type": "url",
+      "value": "http://93.177.77.101:39077"
     },
     "93248da1a4ef6df7b13ecda6c3d91d4d3a49efd4ed1034acd1217e790fc90783": {
       "confidence": 0.4,
@@ -41885,20 +42027,6 @@
       "type": "domain",
       "value": "app.slidy.ai"
     },
-    "app.spotifylite.online": {
-      "confidence": 0.95,
-      "date": "2026-10-05 07:01:11",
-      "enriched_at": "2026-10-05T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Spotify-themed phishing site on a recently registered domain (2026-09-30), hosted at Interserver in the US.",
-      "threat_type": "phishing",
-      "tweet_id": "2107003147818344881",
-      "type": "domain",
-      "value": "app.spotifylite.online"
-    },
     "app.webapi-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -42580,6 +42708,20 @@
       "type": "domain",
       "value": "atdku.cn"
     },
+    "atendimentobradescosaude.com": {
+      "confidence": 0.85,
+      "date": "2026-11-04 07:03:31",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site atendimentobradescosaude.com impersonating Bradesco Saude, behind Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2117875371144368458",
+      "type": "domain",
+      "value": "atendimentobradescosaude.com"
+    },
     "audio-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -42778,6 +42920,21 @@
       "tweet_id": "2107402198468722811",
       "type": "url",
       "value": "https://avkqcf.cfd/pages/#/index"
+    },
+    "aw.ktonemail.com": {
+      "confidence": 0.55,
+      "date": "2026-11-04 12:02:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "List of domains and S3-hosted pages to block, including fake store and fake PayPal payment pages (lzexox.com, xrzyy.com).",
+      "threat_type": "scam",
+      "tweet_id": "2117950517305655397",
+      "type": "domain",
+      "value": "aw.ktonemail.com"
     },
     "await-whatsapp.com": {
       "confidence": 0.65,
@@ -43791,6 +43948,21 @@
       "type": "sha256",
       "value": "bee97a199dda48a85a0421a8dd7148e16fd84b85674f8c7c190287d1ec871848"
     },
+    "beers.ath.cx": {
+      "confidence": 0.5,
+      "date": "2026-11-04 10:38:42",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "MSI installer 'setup.msi' communicating with beers.ath.cx and IP 204.76.203.208.",
+      "threat_type": "malware",
+      "tweet_id": "2117929524948038089",
+      "type": "domain",
+      "value": "beers.ath.cx"
+    },
     "bepnet.in": {
       "confidence": 0.9,
       "date": "2026-11-02 10:30:52",
@@ -43969,6 +44141,20 @@
       "tweet_id": "2112010243626635335",
       "type": "url",
       "value": "https://bigperu.com/?email=aaaa@example.jp&token=vWKHZ6kR6qmCbsLxcmcbsbQN"
+    },
+    "bigriemp.com": {
+      "confidence": 0.4,
+      "date": "2026-11-04 11:14:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Domain bigriemp.com shared as a malware-related indicator, linked to samples with FUD source URLs.",
+      "threat_type": "malware",
+      "tweet_id": "2117938437189681334",
+      "type": "domain",
+      "value": "bigriemp.com"
     },
     "binance-com-10.refers.workers.dev": {
       "confidence": 0.9,
@@ -45896,6 +46082,22 @@
       "type": "url",
       "value": "https://brixena.cfd/mnshzdHc/"
     },
+    "broadspancapital.com": {
+      "confidence": 0.5,
+      "date": "2026-11-04 07:03:00",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Campaign using fake early-access lures for Claude and Google Gemini, with related historical and later infrastructure domains and IP.",
+      "threat_type": "scam",
+      "tweet_id": "2117875241930437108",
+      "type": "domain",
+      "value": "broadspancapital.com"
+    },
     "browser-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -46953,6 +47155,21 @@
       "tweet_id": "2107934172945731835",
       "type": "sha256",
       "value": "c7379839f369be77459456639443959b1760b4f0dae42e197a4099254d69f69c"
+    },
+    "c741006e8d1c2f09e35fc4d71590aa21b5fbe7fe2b90cd9a701ae855b2745918": {
+      "confidence": 0.5,
+      "date": "2026-11-04 10:38:42",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "MSI installer 'setup.msi' communicating with beers.ath.cx and IP 204.76.203.208.",
+      "threat_type": "malware",
+      "tweet_id": "2117929524948038089",
+      "type": "sha256",
+      "value": "c741006e8d1c2f09e35fc4d71590aa21b5fbe7fe2b90cd9a701ae855b2745918"
     },
     "c74fa2f839d06699234b61b7ff9e98b1b301215b019370a04644ff08d8efd1a3": {
       "confidence": 0.6,
@@ -48462,6 +48679,21 @@
       "type": "domain",
       "value": "ciuyf.cn"
     },
+    "ck.wmgg5.com": {
+      "confidence": 0.55,
+      "date": "2026-11-04 12:02:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "List of domains and S3-hosted pages to block, including fake store and fake PayPal payment pages (lzexox.com, xrzyy.com).",
+      "threat_type": "scam",
+      "tweet_id": "2117950517305655397",
+      "type": "domain",
+      "value": "ck.wmgg5.com"
+    },
     "ckeuuat.cn": {
       "confidence": 0.8,
       "date": "2026-10-18 23:13:52",
@@ -48477,6 +48709,22 @@
       "tweet_id": "2111958975076090219",
       "type": "domain",
       "value": "ckeuuat.cn"
+    },
+    "claudeearlyaccess-fable.cfd": {
+      "confidence": 0.5,
+      "date": "2026-11-04 07:03:00",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Campaign using fake early-access lures for Claude and Google Gemini, with related historical and later infrastructure domains and IP.",
+      "threat_type": "scam",
+      "tweet_id": "2117875241930437108",
+      "type": "domain",
+      "value": "claudeearlyaccess-fable.cfd"
     },
     "cleaningbyme.screenconnect.com": {
       "confidence": 0.8,
@@ -50079,6 +50327,21 @@
       "type": "sha256",
       "value": "d5534936dcb8913c250b9e0bc14ee438feaf9ce3b5e076ba771b4211645acc81"
     },
+    "d5d1992604bf015d84b17710dc510ea6dd54c908445590e3ae5f0d35404d1790": {
+      "confidence": 0.55,
+      "date": "2026-11-04 11:09:45",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "ELF binary named 'pay' seen from China, communicating with 93.177.77.101 on TCP port 39077.",
+      "threat_type": "c2",
+      "tweet_id": "2117937339401994405",
+      "type": "sha256",
+      "value": "d5d1992604bf015d84b17710dc510ea6dd54c908445590e3ae5f0d35404d1790"
+    },
     "d70f5b8ec6359ad5c22acb628a7c7ec81c8d549869afa7f96a377e52879a6642": {
       "confidence": 0.75,
       "date": "2026-10-19 21:10:41",
@@ -50437,6 +50700,21 @@
       "tweet_id": "2117579945408921883",
       "type": "sha256",
       "value": "dde505f27b7a245044670679e49bab78c4b2629bcb56f265a0d79590327edcab"
+    },
+    "ddfkljuvnnoifrsdfhtiop.top": {
+      "confidence": 0.55,
+      "date": "2026-11-04 10:44:10",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "MSI installer 'Py.msi' with a FUD C2 domain and a next-stage payload download (xise.bin) from a separate domain.",
+      "threat_type": "malware",
+      "tweet_id": "2117930899622838732",
+      "type": "domain",
+      "value": "ddfkljuvnnoifrsdfhtiop.top"
     },
     "de-at.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
@@ -53117,6 +53395,21 @@
       "type": "md5",
       "value": "efe92b5b04570495f2b845b78414dee4"
     },
+    "effba12a04e4a1b8732c65307965584c4e2514a8cfa6db853b80f8a639dafff9": {
+      "confidence": 0.5,
+      "date": "2026-11-04 10:47:22",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Suspicious ISO sample contacting domain zxc.pidanokbj.xyz on port 4399, likely a C2 endpoint.",
+      "threat_type": "c2",
+      "tweet_id": "2117931703364648975",
+      "type": "sha256",
+      "value": "effba12a04e4a1b8732c65307965584c4e2514a8cfa6db853b80f8a639dafff9"
+    },
     "efine-post.com": {
       "confidence": 0.3,
       "date": "2026-10-09 12:45:45",
@@ -54615,6 +54908,21 @@
       "tweet_id": "2107315437965037941",
       "type": "domain",
       "value": "fertilab.net"
+    },
+    "ff.ibig-tech.com": {
+      "confidence": 0.55,
+      "date": "2026-11-04 12:02:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "List of domains and S3-hosted pages to block, including fake store and fake PayPal payment pages (lzexox.com, xrzyy.com).",
+      "threat_type": "scam",
+      "tweet_id": "2117950517305655397",
+      "type": "domain",
+      "value": "ff.ibig-tech.com"
     },
     "ff38255d7f1cf0dcbb735f5e76ad0128589731a41b1d8e90b783228c4d37e6db": {
       "confidence": 0.7,
@@ -56471,6 +56779,21 @@
       "type": "domain",
       "value": "fr.webhwsapp-whatsapp.com"
     },
+    "fr.yxdnsy.com": {
+      "confidence": 0.55,
+      "date": "2026-11-04 12:02:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "List of domains and S3-hosted pages to block, including fake store and fake PayPal payment pages (lzexox.com, xrzyy.com).",
+      "threat_type": "scam",
+      "tweet_id": "2117950517305655397",
+      "type": "domain",
+      "value": "fr.yxdnsy.com"
+    },
     "freshmenuideas.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -56958,6 +57281,22 @@
       "tweet_id": "2116456512625557904",
       "type": "domain",
       "value": "gemini-alarmes.com"
+    },
+    "genovaw.com": {
+      "confidence": 0.5,
+      "date": "2026-11-04 07:03:00",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Campaign using fake early-access lures for Claude and Google Gemini, with related historical and later infrastructure domains and IP.",
+      "threat_type": "scam",
+      "tweet_id": "2117875241930437108",
+      "type": "domain",
+      "value": "genovaw.com"
     },
     "gentle.best": {
       "confidence": 0.7,
@@ -57603,6 +57942,22 @@
       "tweet_id": "2114346835334570269",
       "type": "domain",
       "value": "google.workspacedoc.com"
+    },
+    "googlegemini-earlyaccess.com": {
+      "confidence": 0.5,
+      "date": "2026-11-04 07:03:00",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Campaign using fake early-access lures for Claude and Google Gemini, with related historical and later infrastructure domains and IP.",
+      "threat_type": "scam",
+      "tweet_id": "2117875241930437108",
+      "type": "domain",
+      "value": "googlegemini-earlyaccess.com"
     },
     "googlemeeeeet.live": {
       "confidence": 0.85,
@@ -59816,6 +60171,22 @@
       "type": "domain",
       "value": "instantupdate.dev"
     },
+    "integercdn.com": {
+      "confidence": 0.5,
+      "date": "2026-11-04 07:03:00",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Campaign using fake early-access lures for Claude and Google Gemini, with related historical and later infrastructure domains and IP.",
+      "threat_type": "scam",
+      "tweet_id": "2117875241930437108",
+      "type": "domain",
+      "value": "integercdn.com"
+    },
     "integration-auth.com": {
       "confidence": 0.8,
       "date": "2026-10-28 19:28:49",
@@ -60936,36 +61307,6 @@
       "type": "domain",
       "value": "ka376.online"
     },
-    "kaifitness.penwfe.asia": {
-      "confidence": 0.9,
-      "date": "2026-10-05 12:33:50",
-      "enriched_at": "2026-10-05T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing site impersonating UC Card targeting Japanese users, at kaifitness.penwfe.asia.",
-      "threat_type": "phishing",
-      "tweet_id": "2107086863836279280",
-      "type": "domain",
-      "value": "kaifitness.penwfe.asia"
-    },
-    "kaifitness.penwfe.asia/h80aoo": {
-      "confidence": 0.9,
-      "date": "2026-10-05 12:33:50",
-      "enriched_at": "2026-10-05T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing site impersonating UC Card targeting Japanese users, at kaifitness.penwfe.asia.",
-      "threat_type": "phishing",
-      "tweet_id": "2107086863836279280",
-      "type": "url",
-      "value": "https://kaifitness.penwfe.asia/H80AoO"
-    },
     "kakisafedecrypt.com": {
       "confidence": 0.8,
       "date": "2026-10-27 07:09:59",
@@ -61849,6 +62190,22 @@
       "tweet_id": "2112530428532076864",
       "type": "domain",
       "value": "leanviainc.top"
+    },
+    "leebin101.com": {
+      "confidence": 0.5,
+      "date": "2026-11-04 07:03:00",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Campaign using fake early-access lures for Claude and Google Gemini, with related historical and later infrastructure domains and IP.",
+      "threat_type": "scam",
+      "tweet_id": "2117875241930437108",
+      "type": "domain",
+      "value": "leebin101.com"
     },
     "legacy-whatsapp.com": {
       "confidence": 0.65,
@@ -62806,6 +63163,21 @@
       "type": "domain",
       "value": "luxuryfitnesslabs.com"
     },
+    "lzexox.com": {
+      "confidence": 0.55,
+      "date": "2026-11-04 12:02:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "List of domains and S3-hosted pages to block, including fake store and fake PayPal payment pages (lzexox.com, xrzyy.com).",
+      "threat_type": "scam",
+      "tweet_id": "2117950517305655397",
+      "type": "domain",
+      "value": "lzexox.com"
+    },
     "m-facebooks.vn": {
       "confidence": 0.95,
       "date": "2026-10-30 18:06:35",
@@ -62907,6 +63279,22 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "mac.webapi-whatsapp.com"
+    },
+    "mackdentistr-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-04 10:34:27",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as Amazon, distributed from a Japanese phishing site (mackdentistr-jp.com).",
+      "threat_type": "malware",
+      "tweet_id": "2117928456273133709",
+      "type": "domain",
+      "value": "mackdentistr-jp.com"
     },
     "macro-whatsapp.com": {
       "confidence": 0.65,
@@ -64311,6 +64699,21 @@
       "type": "domain",
       "value": "mkwweb-whatsapp.com"
     },
+    "ml.qcqfzx.com": {
+      "confidence": 0.55,
+      "date": "2026-11-04 12:02:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "List of domains and S3-hosted pages to block, including fake store and fake PayPal payment pages (lzexox.com, xrzyy.com).",
+      "threat_type": "scam",
+      "tweet_id": "2117950517305655397",
+      "type": "domain",
+      "value": "ml.qcqfzx.com"
+    },
     "mlbysalw.cn": {
       "confidence": 0.75,
       "date": "2026-10-14 23:32:16",
@@ -65261,6 +65664,21 @@
       "type": "domain",
       "value": "netuse-whatsapp.com"
     },
+    "newbiesember.duckdns.org": {
+      "confidence": 0.5,
+      "date": "2026-11-04 08:58:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Batch file with Hungarian lure seen from Hungary, using DuckDNS domain newbiesember.duckdns.org and IP 193.187.91.224.",
+      "threat_type": "malware",
+      "tweet_id": "2117904212268884031",
+      "type": "domain",
+      "value": "newbiesember.duckdns.org"
+    },
     "newoldstamp.com": {
       "confidence": 0.9,
       "date": "2026-10-28 09:29:20",
@@ -65424,6 +65842,34 @@
       "tweet_id": "2110046818688192537",
       "type": "domain",
       "value": "nildex.com"
+    },
+    "nintendo-co.jp.sdfgef.com": {
+      "confidence": 0.9,
+      "date": "2026-11-04 06:45:52",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing site impersonating Nintendo, hosted on nintendo-co.jp.sdfgef.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2117870931649716463",
+      "type": "domain",
+      "value": "nintendo-co.jp.sdfgef.com"
+    },
+    "nintendo-co.jp.sdfgef.com/rftajdvd": {
+      "confidence": 0.9,
+      "date": "2026-11-04 06:45:52",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing site impersonating Nintendo, hosted on nintendo-co.jp.sdfgef.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2117870931649716463",
+      "type": "url",
+      "value": "https://nintendo-co.jp.sdfgef.com/RfTAjdvd/"
     },
     "ni\u0199e.com": {
       "confidence": 0.7,
@@ -65640,34 +66086,6 @@
       "tweet_id": "2115514257752133832",
       "type": "domain",
       "value": "novhotellogs.aclobe.me"
-    },
-    "nozazisoda.z11.web.core.windows.net": {
-      "confidence": 0.93,
-      "date": "2026-10-05 11:43:17",
-      "enriched_at": "2026-10-05T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Tech support scam page hosted on Azure static web storage showing a fake 'your computer has virus' alert with loud alarm and a toll-free phone number.",
-      "threat_type": "scam",
-      "tweet_id": "2107074143112012244",
-      "type": "domain",
-      "value": "nozazisoda.z11.web.core.windows.net"
-    },
-    "nozazisoda.z11.web.core.windows.net/gx/index.html?phone=%2b1-844-959-2863": {
-      "confidence": 0.93,
-      "date": "2026-10-05 11:43:17",
-      "enriched_at": "2026-10-05T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Tech support scam page hosted on Azure static web storage showing a fake 'your computer has virus' alert with loud alarm and a toll-free phone number.",
-      "threat_type": "scam",
-      "tweet_id": "2107074143112012244",
-      "type": "url",
-      "value": "https://nozazisoda.z11.web.core.windows.net/gx/index.html?phone=%2B1-844-959-2863"
     },
     "nqxweb-whatsapp.com": {
       "confidence": 0.65,
@@ -65910,22 +66328,6 @@
       "tweet_id": "2108349747027443911",
       "type": "url",
       "value": "https://odeesa.com.mx/.well-known/pki-validation/wp-file-manager/lib/img/ions.com/#redacted@abuse.ionos.com"
-    },
-    "ohhhhhmoney.com": {
-      "confidence": 0.8,
-      "date": "2026-10-05 12:09:32",
-      "enriched_at": "2026-10-05T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware",
-        "fakecaptcha"
-      ],
-      "summary": "Compromised site at ohhhhhmoney.com serving a ClickFix fake verification lure to deliver malware.",
-      "threat_type": "malware",
-      "tweet_id": "2107080746225811459",
-      "type": "domain",
-      "value": "ohhhhhmoney.com"
     },
     "ojsdocument.blob.core.windows.net": {
       "confidence": 0.85,
@@ -67738,6 +68140,22 @@
       "type": "domain",
       "value": "prouse-whatsapp.com"
     },
+    "proximadeploy.app": {
+      "confidence": 0.5,
+      "date": "2026-11-04 07:03:00",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Campaign using fake early-access lures for Claude and Google Gemini, with related historical and later infrastructure domains and IP.",
+      "threat_type": "scam",
+      "tweet_id": "2117875241930437108",
+      "type": "domain",
+      "value": "proximadeploy.app"
+    },
     "proxy-tg-huafei080.papag8593.workers.dev": {
       "confidence": 0.75,
       "date": "2026-10-23 20:47:00",
@@ -67919,20 +68337,6 @@
       "tweet_id": "2110946355111702888",
       "type": "domain",
       "value": "pub-0c3c1b636d92458081997bb1aec2f965.r2.dev"
-    },
-    "pub-106f839a8e06470ebf320252d50291c1.r2.dev": {
-      "confidence": 0.5,
-      "date": "2026-10-05 07:10:49",
-      "enriched_at": "2026-10-05T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Cloudflare R2 public bucket domain flagged as a confirmed scam by an automated web malware scanner; the ransomware hashtag appears generic.",
-      "threat_type": "scam",
-      "tweet_id": "2107005571601768515",
-      "type": "domain",
-      "value": "pub-106f839a8e06470ebf320252d50291c1.r2.dev"
     },
     "pub-1e489e802c044438b77b5f3eb2390c68.r2.dev": {
       "confidence": 0.6,
@@ -68143,6 +68547,22 @@
       "tweet_id": "2109263406956155061",
       "type": "domain",
       "value": "pubad-gov-lk.net-src.info"
+    },
+    "pumpadmin.fun": {
+      "confidence": 0.5,
+      "date": "2026-11-04 07:03:00",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Campaign using fake early-access lures for Claude and Google Gemini, with related historical and later infrastructure domains and IP.",
+      "threat_type": "scam",
+      "tweet_id": "2117875241930437108",
+      "type": "domain",
+      "value": "pumpadmin.fun"
     },
     "purvoyage.com": {
       "confidence": 0.85,
@@ -68649,6 +69069,48 @@
       "tweet_id": "2108416986963415061",
       "type": "url",
       "value": "https://qweaxfgtc.study/KnaeByNf/"
+    },
+    "r0symss2.xyz": {
+      "confidence": 0.9,
+      "date": "2026-11-04 06:28:02",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Docomo (Japan), hosted on r0symss2.xyz.",
+      "threat_type": "phishing",
+      "tweet_id": "2117866442578350467",
+      "type": "domain",
+      "value": "r0symss2.xyz"
+    },
+    "r0symss2.xyz/knaebynf": {
+      "confidence": 0.9,
+      "date": "2026-11-04 06:28:02",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Docomo (Japan), hosted on r0symss2.xyz.",
+      "threat_type": "phishing",
+      "tweet_id": "2117866442578350467",
+      "type": "url",
+      "value": "https://r0symss2.xyz/KnaeByNf/"
+    },
+    "r6j3hjp.shop": {
+      "confidence": 0.9,
+      "date": "2026-11-04 07:55:56",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Rakuten (Japan), hosted on r6j3hjp.shop.",
+      "threat_type": "phishing",
+      "tweet_id": "2117888561097924725",
+      "type": "domain",
+      "value": "r6j3hjp.shop"
     },
     "rabbitshiha-jp.com": {
       "confidence": 0.7,
@@ -69781,6 +70243,62 @@
       "type": "domain",
       "value": "rosaehessfrzimbra.vercel.app"
     },
+    "roseruvorif.app": {
+      "confidence": 0.45,
+      "date": "2026-11-04 11:19:52",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malware sample linked to two source URLs (roseruvorif.app/.zone /lntegration) with low AV detection, related to bigriemp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2117939883779965432",
+      "type": "domain",
+      "value": "roseruvorif.app"
+    },
+    "roseruvorif.app/lntegration": {
+      "confidence": 0.45,
+      "date": "2026-11-04 11:19:52",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malware sample linked to two source URLs (roseruvorif.app/.zone /lntegration) with low AV detection, related to bigriemp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2117939883779965432",
+      "type": "url",
+      "value": "http://roseruvorif.app/lntegration"
+    },
+    "roseruvorif.zone": {
+      "confidence": 0.45,
+      "date": "2026-11-04 11:19:52",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malware sample linked to two source URLs (roseruvorif.app/.zone /lntegration) with low AV detection, related to bigriemp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2117939883779965432",
+      "type": "domain",
+      "value": "roseruvorif.zone"
+    },
+    "roseruvorif.zone/lntegration": {
+      "confidence": 0.45,
+      "date": "2026-11-04 11:19:52",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malware sample linked to two source URLs (roseruvorif.app/.zone /lntegration) with low AV detection, related to bigriemp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2117939883779965432",
+      "type": "url",
+      "value": "http://roseruvorif.zone/lntegration"
+    },
     "roujizaixian.com": {
       "confidence": 0.6,
       "date": "2026-10-27 19:17:23",
@@ -70019,6 +70537,51 @@
       "type": "domain",
       "value": "ruyibebe.com"
     },
+    "ryfotukhjiohfhgkfg.xyz": {
+      "confidence": 0.55,
+      "date": "2026-11-04 10:44:10",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "MSI installer 'Py.msi' with a FUD C2 domain and a next-stage payload download (xise.bin) from a separate domain.",
+      "threat_type": "malware",
+      "tweet_id": "2117930899622838732",
+      "type": "domain",
+      "value": "ryfotukhjiohfhgkfg.xyz"
+    },
+    "ryfotukhjiohfhgkfg.xyz/xise.bin": {
+      "confidence": 0.55,
+      "date": "2026-11-04 10:44:10",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "MSI installer 'Py.msi' with a FUD C2 domain and a next-stage payload download (xise.bin) from a separate domain.",
+      "threat_type": "malware",
+      "tweet_id": "2117930899622838732",
+      "type": "url",
+      "value": "http://ryfotukhjiohfhgkfg.xyz/xise.bin"
+    },
+    "s.aimi-aijia.com": {
+      "confidence": 0.55,
+      "date": "2026-11-04 12:02:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "List of domains and S3-hosted pages to block, including fake store and fake PayPal payment pages (lzexox.com, xrzyy.com).",
+      "threat_type": "scam",
+      "tweet_id": "2117950517305655397",
+      "type": "domain",
+      "value": "s.aimi-aijia.com"
+    },
     "s1z0j88g.onlinewebshop.net": {
       "confidence": 0.75,
       "date": "2026-10-14 13:06:47",
@@ -70034,6 +70597,36 @@
       "tweet_id": "2110356647654969441",
       "type": "domain",
       "value": "s1z0j88g.onlinewebshop.net"
+    },
+    "s3051017.s3.us-east-2.amazonaws.com": {
+      "confidence": 0.55,
+      "date": "2026-11-04 12:02:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "List of domains and S3-hosted pages to block, including fake store and fake PayPal payment pages (lzexox.com, xrzyy.com).",
+      "threat_type": "scam",
+      "tweet_id": "2117950517305655397",
+      "type": "domain",
+      "value": "s3051017.s3.us-east-2.amazonaws.com"
+    },
+    "s3051017.s3.us-east-2.amazonaws.com/ds.html": {
+      "confidence": 0.55,
+      "date": "2026-11-04 12:02:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "List of domains and S3-hosted pages to block, including fake store and fake PayPal payment pages (lzexox.com, xrzyy.com).",
+      "threat_type": "scam",
+      "tweet_id": "2117950517305655397",
+      "type": "url",
+      "value": "http://s3051017.s3.us-east-2.amazonaws.com/ds.html"
     },
     "sahko-team.fi": {
       "confidence": 0.6,
@@ -71832,6 +72425,36 @@
       "tweet_id": "2112711255572259293",
       "type": "url",
       "value": "https://sivthara.cfd/LOGIN/"
+    },
+    "sjfa061019.s3.us-east-1.amazonaws.com": {
+      "confidence": 0.55,
+      "date": "2026-11-04 12:02:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "List of domains and S3-hosted pages to block, including fake store and fake PayPal payment pages (lzexox.com, xrzyy.com).",
+      "threat_type": "scam",
+      "tweet_id": "2117950517305655397",
+      "type": "domain",
+      "value": "sjfa061019.s3.us-east-1.amazonaws.com"
+    },
+    "sjfa061019.s3.us-east-1.amazonaws.com/sj1.html": {
+      "confidence": 0.55,
+      "date": "2026-11-04 12:02:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "List of domains and S3-hosted pages to block, including fake store and fake PayPal payment pages (lzexox.com, xrzyy.com).",
+      "threat_type": "scam",
+      "tweet_id": "2117950517305655397",
+      "type": "url",
+      "value": "http://sjfa061019.s3.us-east-1.amazonaws.com/sj1.html"
     },
     "slpotify.com": {
       "confidence": 0.85,
@@ -75538,6 +76161,22 @@
       "type": "domain",
       "value": "thread-whatsapp.com"
     },
+    "threejrev.com": {
+      "confidence": 0.5,
+      "date": "2026-11-04 07:03:00",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Campaign using fake early-access lures for Claude and Google Gemini, with related historical and later infrastructure domains and IP.",
+      "threat_type": "scam",
+      "tweet_id": "2117875241930437108",
+      "type": "domain",
+      "value": "threejrev.com"
+    },
     "thunder.godofthunder.st": {
       "confidence": 0.8,
       "date": "2026-10-22 22:10:50",
@@ -78982,39 +79621,6 @@
       "type": "domain",
       "value": "willkie.myssologin.com"
     },
-    "win-5nadl1jm5uv.tail84c20e.ts.net": {
-      "confidence": 0.8,
-      "date": "2026-10-05 12:18:40",
-      "enriched_at": "2026-11-04T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as PayPay, delivered from a Tailscale ts.net funnel host.",
-      "threat_type": "malware",
-      "tweet_id": "2107083045178368297",
-      "type": "domain",
-      "value": "win-5nadl1jm5uv.tail84c20e.ts.net"
-    },
-    "win-5nadl1jm5uv.tail84c20e.ts.net/d/9fef9dcc9b70d16d4c43609defb5a98c": {
-      "confidence": 0.8,
-      "date": "2026-10-05 12:18:40",
-      "enriched_at": "2026-10-05T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as PayPay payment app, distributed via a Tailscale funnel URL in a Japanese phishing campaign.",
-      "threat_type": "malware",
-      "tweet_id": "2107083045178368297",
-      "type": "url",
-      "value": "https://win-5nadl1jm5uv.tail84c20e.ts.net/d/9fef9dcc9b70d16d4c43609defb5a98c"
-    },
     "win10pc.oss-cn-hongkong.aliyuncs.com": {
       "confidence": 0.6,
       "date": "2026-10-28 06:14:44",
@@ -79386,6 +79992,34 @@
       "tweet_id": "2112880827789123811",
       "type": "domain",
       "value": "wuzheshijue.cyou"
+    },
+    "ww2.uc-co-jp.fffatuoma.com": {
+      "confidence": 0.9,
+      "date": "2026-11-04 09:29:54",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing site impersonating UC Card, hosted on ww2.uc-co-jp.fffatuoma.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2117912211385688149",
+      "type": "domain",
+      "value": "ww2.uc-co-jp.fffatuoma.com"
+    },
+    "ww2.uc-co-jp.fffatuoma.com/arzavxzc": {
+      "confidence": 0.9,
+      "date": "2026-11-04 09:29:54",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing site impersonating UC Card, hosted on ww2.uc-co-jp.fffatuoma.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2117912211385688149",
+      "type": "url",
+      "value": "https://ww2.uc-co-jp.fffatuoma.com/aRzAvXZc/"
     },
     "wwppodd6688.com": {
       "confidence": 0.6,
@@ -80492,6 +81126,36 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "xrtweb-whatsapp.com"
+    },
+    "xrzyy.com": {
+      "confidence": 0.55,
+      "date": "2026-11-04 12:02:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "List of domains and S3-hosted pages to block, including fake store and fake PayPal payment pages (lzexox.com, xrzyy.com).",
+      "threat_type": "scam",
+      "tweet_id": "2117950517305655397",
+      "type": "domain",
+      "value": "xrzyy.com"
+    },
+    "xrzyy.com/codpaypal/ppstandard.php": {
+      "confidence": 0.55,
+      "date": "2026-11-04 12:02:07",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "List of domains and S3-hosted pages to block, including fake store and fake PayPal payment pages (lzexox.com, xrzyy.com).",
+      "threat_type": "scam",
+      "tweet_id": "2117950517305655397",
+      "type": "url",
+      "value": "http://xrzyy.com/codpaypal/ppstandard.php"
     },
     "xss-whatsapp.com": {
       "confidence": 0.65,
@@ -81974,6 +82638,36 @@
       "type": "domain",
       "value": "zvh4.com"
     },
+    "zxc.pidanokbj.xyz": {
+      "confidence": 0.5,
+      "date": "2026-11-04 10:47:22",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Suspicious ISO sample contacting domain zxc.pidanokbj.xyz on port 4399, likely a C2 endpoint.",
+      "threat_type": "c2",
+      "tweet_id": "2117931703364648975",
+      "type": "domain",
+      "value": "zxc.pidanokbj.xyz"
+    },
+    "zxc.pidanokbj.xyz:4399": {
+      "confidence": 0.5,
+      "date": "2026-11-04 10:47:22",
+      "enriched_at": "2026-11-04T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Suspicious ISO sample contacting domain zxc.pidanokbj.xyz on port 4399, likely a C2 endpoint.",
+      "threat_type": "c2",
+      "tweet_id": "2117931703364648975",
+      "type": "url",
+      "value": "http://zxc.pidanokbj.xyz:4399"
+    },
     "zyxel.sh": {
       "confidence": 0.9,
       "date": "2026-10-22 10:52:58",
@@ -82054,6 +82748,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-04T06:40:05Z",
+  "generated_at": "2026-11-04T12:40:04Z",
   "window_days": 30
 }
