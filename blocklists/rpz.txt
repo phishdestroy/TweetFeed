@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2330
-; Updated: 2026-11-04T11:15:18Z
+; Entries: 2333
+; Updated: 2026-11-04T11:30:21Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793790918 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793791821 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -522,6 +522,8 @@ bifcapnepa-jp.com CNAME .
 *.bifcapnepa-jp.com CNAME .
 bigperu.com CNAME .
 *.bigperu.com CNAME .
+bigriemp.com CNAME .
+*.bigriemp.com CNAME .
 binance-com-10.refers.workers.dev CNAME .
 *.binance-com-10.refers.workers.dev CNAME .
 binance-com-l3.referrering.workers.dev CNAME .
@@ -3296,6 +3298,10 @@ room-whatsapp.com CNAME .
 *.room-whatsapp.com CNAME .
 rosaehessfrzimbra.vercel.app CNAME .
 *.rosaehessfrzimbra.vercel.app CNAME .
+roseruvorif.app CNAME .
+*.roseruvorif.app CNAME .
+roseruvorif.zone CNAME .
+*.roseruvorif.zone CNAME .
 roujizaixian.com CNAME .
 *.roujizaixian.com CNAME .
 roundedbullets.com CNAME .
