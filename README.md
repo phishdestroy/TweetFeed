@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-04 03:15:21 (UTC)</th>
+        <th colspan=4>2026-11-04 03:30:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 5 | 370 | 2872 | 44759 |
-| **:globe_with_meridians: Domains** | 5 | 281 | 2397 | 38517 |
+| **:link: URLs** | 6 | 371 | 2873 | 44760 |
+| **:globe_with_meridians: Domains** | 6 | 282 | 2398 | 38518 |
 | **:triangular_flag_on_post: IPs** | 0 | 126 | 2031 | 7847 |
 | **:1234: SHA256** | 1 | 105 | 469 | 3080 |
 | **:1234: MD5** | 1 | 18 | 102 | 2101 |
@@ -214,7 +214,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#APT** | 0 | 13 | 44 | 1485 |
 | **#ClickFix** | 0 | 12 | 195 | 1125 |
 | **#opendir** | 0 | 3 | 17 | 696 |
-| **#ransomware** | 0 | 20 | 99 | 691 |
+| **#ransomware** | 2 | 22 | 101 | 693 |
 <!-- TAG_TABLE_END -->
 
 These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tags being matched. Every one of them is queryable through the [API](#gear-programmatic-access) and has its own [RSS feed](https://tweetfeed.live/rss/tag/phishing.xml); the highest-volume ones also get a curated landing page at [tweetfeed.live/tags/](https://tweetfeed.live/tags/).
@@ -232,8 +232,8 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [masaomi346](https://x.com/masaomi346) | 7 |
 | **#2** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#3** | [skocherhan](https://x.com/skocherhan) | 1 |
-| **#4** | [-](https://x.com/-) | 0 |
+| **#3** | [FsecIntelEs](https://x.com/FsecIntelEs) | 2 |
+| **#4** | [skocherhan](https://x.com/skocherhan) | 1 |
 | **#5** | [-](https://x.com/-) | 0 |
 | **#6** | [-](https://x.com/-) | 0 |
 | **#7** | [-](https://x.com/-) | 0 |
