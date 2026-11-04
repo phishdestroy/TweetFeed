@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2346
-; Updated: 2026-11-04T18:45:19Z
+; Entries: 2349
+; Updated: 2026-11-04T19:45:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793817919 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793821520 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2138,6 +2138,8 @@ ids-whatsapp.com CNAME .
 *.ids-whatsapp.com CNAME .
 illustrationi-jp.com CNAME .
 *.illustrationi-jp.com CNAME .
+im-quirky.com CNAME .
+*.im-quirky.com CNAME .
 imepki.com CNAME .
 *.imepki.com CNAME .
 img.webapi-whatsapp.com CNAME .
@@ -3572,6 +3574,8 @@ smokingstationhub.com CNAME .
 *.smokingstationhub.com CNAME .
 smulaf.net CNAME .
 *.smulaf.net CNAME .
+sni13.docsmanagement.endl.site CNAME .
+*.sni13.docsmanagement.endl.site CNAME .
 snj.kjk.mybluehost.me CNAME .
 *.snj.kjk.mybluehost.me CNAME .
 snuznsva.cn CNAME .
@@ -3632,6 +3636,8 @@ staganddoenc.com CNAME .
 *.staganddoenc.com CNAME .
 stake-app-au.org CNAME .
 *.stake-app-au.org CNAME .
+stalevi-shershni.somee.com CNAME .
+*.stalevi-shershni.somee.com CNAME .
 startweb-whatsapp.com CNAME .
 *.startweb-whatsapp.com CNAME .
 state-whatsapp.com CNAME .
