@@ -1,5 +1,5 @@
 {
-  "count": 5861,
+  "count": 5869,
   "dead_tweets": {
     "2107773993008669042": {
       "attempts": 2,
@@ -49,6 +49,23 @@
       "tweet_id": "2109948415752745036",
       "type": "md5",
       "value": "00a805c4fa27abcb216a3932a2566ead"
+    },
+    "00aac4cab3138dc2f4903d1dcd0e575f4446b45680d2e2db2b34708e5a6177f8": {
+      "confidence": 0.8,
+      "date": "2026-11-04 05:54:19",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": "NapsaWare",
+      "suggested_tags": [
+        "stealer",
+        "c2",
+        "malware",
+        "infostealer"
+      ],
+      "summary": "Two file hashes and a C2 panel at 130.61.254.7:8888 linked to NapsaWare, a stealer/grabber, reported by community researchers.",
+      "threat_type": "malware",
+      "tweet_id": "2117857958096998481",
+      "type": "sha256",
+      "value": "00aac4cab3138dc2f4903d1dcd0e575f4446b45680d2e2db2b34708e5a6177f8"
     },
     "01-buy.com": {
       "confidence": 0.9,
@@ -4892,6 +4909,23 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "130.211.106.14"
+    },
+    "130.61.254.7": {
+      "confidence": 0.82,
+      "date": "2026-11-04 05:53:28",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": "NapsaWare",
+      "suggested_tags": [
+        "c2",
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "C2 panel IP 130.61.254.7 on port 8888 associated with the NapsaWare stealer/grabber.",
+      "threat_type": "c2",
+      "tweet_id": "2117857741129830498",
+      "type": "ip",
+      "value": "130.61.254.7"
     },
     "130.94.1.88": {
       "confidence": 0.85,
@@ -25729,20 +25763,6 @@
       "type": "ip",
       "value": "41.223.139.111"
     },
-    "41.225.25.98": {
-      "confidence": 0.9,
-      "date": "2026-10-05 06:06:04",
-      "enriched_at": "2026-10-05T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site reported at a domain hosted on a Tunisian IP address (AS2609), submitted via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2106989278362267949",
-      "type": "ip",
-      "value": "41.225.25.98"
-    },
     "41341ef5b5832abe13153dae29449a67757c6cf48e6ecdefb4b3e33a99ea8732": {
       "confidence": 0.9,
       "date": "2026-10-29 09:00:26",
@@ -25868,22 +25888,6 @@
       "tweet_id": "2112900982417825954",
       "type": "md5",
       "value": "4298fc53df2b92566970e757ac998c34"
-    },
-    "429c9de426ae01faa2ffc08850e70fa0b4ace5fa2a56b7908fa9dacb72a77fbd": {
-      "confidence": 0.8,
-      "date": "2026-10-05 00:48:22",
-      "enriched_at": "2026-10-05T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as Rakuten, distributed via a phishing site with an associated malicious APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2106909325759484370",
-      "type": "sha256",
-      "value": "429c9de426ae01faa2ffc08850e70fa0b4ace5fa2a56b7908fa9dacb72a77fbd"
     },
     "43.108.120.121": {
       "confidence": 0.5,
@@ -29218,6 +29222,23 @@
       "type": "url",
       "value": "http://62.171.131.66:31337"
     },
+    "62.182.84.123": {
+      "confidence": 0.75,
+      "date": "2026-11-04 05:45:14",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": "TITAN",
+      "suggested_tags": [
+        "c2",
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "C2 panel at 62.182.84.123 tied to the TITAN iOS stealer.",
+      "threat_type": "c2",
+      "tweet_id": "2117855670091612425",
+      "type": "ip",
+      "value": "62.182.84.123"
+    },
     "62.60.226.103": {
       "confidence": 0.9,
       "date": "2026-10-05 13:34:13",
@@ -30364,6 +30385,20 @@
       "tweet_id": "2112738026938069150",
       "type": "md5",
       "value": "75084b45b724a406d3c9e17d679b617e"
+    },
+    "751cb36cbed40e557692e663cc678f45": {
+      "confidence": 0.55,
+      "date": "2026-11-04 00:45:02",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": "Mira",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "MD5 hash of a Mira malware sample flagged for retrohunting.",
+      "threat_type": "malware",
+      "tweet_id": "2117780121901736190",
+      "type": "md5",
+      "value": "751cb36cbed40e557692e663cc678f45"
     },
     "75225f1bb13b7618fef070e7c4f2b000": {
       "confidence": 0.8,
@@ -41283,6 +41318,20 @@
       "type": "domain",
       "value": "aobaby31.com"
     },
+    "aoqinwwrizxbrwm3qb6l4jzgujgmcetp4jaug7fqylbf3xcwqwzvbuid.onion": {
+      "confidence": 0.8,
+      "date": "2026-11-04 03:03:45",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": "AOQIN",
+      "suggested_tags": [
+        "ransomware"
+      ],
+      "summary": "Onion leak site attributed to the AOQIN ransomware group, shared with a #Ransomware tag.",
+      "threat_type": "ransomware",
+      "tweet_id": "2117815032478314557",
+      "type": "domain",
+      "value": "aoqinwwrizxbrwm3qb6l4jzgujgmcetp4jaug7fqylbf3xcwqwzvbuid.onion"
+    },
     "aowwo.com": {
       "confidence": 0.8,
       "date": "2026-10-07 05:38:37",
@@ -43354,6 +43403,22 @@
       "tweet_id": "2107412416984494516",
       "type": "sha256",
       "value": "bae46112fc8e39957ae63d51fd6dffdd9853955dbee8968c08a81e37026b059d"
+    },
+    "baf42fcd4eb96c00f3393ebc6239e1ce8b07bc165786f1aa6469fd2899f43cc0": {
+      "confidence": 0.8,
+      "date": "2026-11-04 00:42:01",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as the Japan Pension Service, distributed via heightsviha-jp.com with an associated APK hash.",
+      "threat_type": "malware",
+      "tweet_id": "2117779362707886178",
+      "type": "sha256",
+      "value": "baf42fcd4eb96c00f3393ebc6239e1ce8b07bc165786f1aa6469fd2899f43cc0"
     },
     "bagueie.xyz": {
       "confidence": 0.9,
@@ -47434,6 +47499,21 @@
       "type": "sha256",
       "value": "ccb014ba9a9dd62a2ace683183fbcda8b577de7239afc2bd3eb01c8dade04b9c"
     },
+    "ccb9edfa233328c3351bd3a46fec037aeb27b3a74779c2bbb738e9e108c33e76": {
+      "confidence": 0.6,
+      "date": "2026-11-04 02:46:05",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "Sample hash attributed to the Sandworm actor, linked to the CERT-UA report on attacks against Ukrainian ICS of about twenty enterprises.",
+      "threat_type": "malware",
+      "tweet_id": "2117810584519627072",
+      "type": "sha256",
+      "value": "ccb9edfa233328c3351bd3a46fec037aeb27b3a74779c2bbb738e9e108c33e76"
+    },
     "ccbc2673ae3de57a2cb29f0dda09926aaa155010822afc96dbf2615c565cc975": {
       "confidence": 0.85,
       "date": "2026-10-21 09:12:42",
@@ -50075,34 +50155,6 @@
       "type": "sha256",
       "value": "dad182e472136e1ce4e4ad4aa92f84d23b85bf289f5f9d6d3a96146c25c219ab"
     },
-    "dagasz.com": {
-      "confidence": 0.85,
-      "date": "2026-10-05 04:08:23",
-      "enriched_at": "2026-10-05T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating the Japanese ticketing service Ticket Pia, hosting a fake login page.",
-      "threat_type": "phishing",
-      "tweet_id": "2106959663015289321",
-      "type": "domain",
-      "value": "dagasz.com"
-    },
-    "dagasz.com/pia-login": {
-      "confidence": 0.85,
-      "date": "2026-10-05 04:08:23",
-      "enriched_at": "2026-10-05T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating the Japanese ticketing service Ticket Pia, hosting a fake login page.",
-      "threat_type": "phishing",
-      "tweet_id": "2106959663015289321",
-      "type": "url",
-      "value": "https://dagasz.com/pia-login/"
-    },
     "dailychefrecipe.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -50619,22 +50671,6 @@
       "tweet_id": "2109263406956155061",
       "type": "domain",
       "value": "desco-gov-bd.workers.dev"
-    },
-    "desertramble-jp.com": {
-      "confidence": 0.8,
-      "date": "2026-10-05 00:48:22",
-      "enriched_at": "2026-10-05T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as Rakuten, distributed via a phishing site with an associated malicious APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2106909325759484370",
-      "type": "domain",
-      "value": "desertramble-jp.com"
     },
     "designedglass.com.lb": {
       "confidence": 0.6,
@@ -52754,6 +52790,23 @@
       "type": "sha256",
       "value": "ebd865e5901bd5881f6a932d5f7a58e69ef54d25a58df50547e1b1fc8612789d"
     },
+    "ebf2340c7cbba01979d6163b057fd638d11a9f4514c5b042f5b5e9cb411787b5": {
+      "confidence": 0.8,
+      "date": "2026-11-04 05:54:19",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": "NapsaWare",
+      "suggested_tags": [
+        "stealer",
+        "c2",
+        "malware",
+        "infostealer"
+      ],
+      "summary": "Two file hashes and a C2 panel at 130.61.254.7:8888 linked to NapsaWare, a stealer/grabber, reported by community researchers.",
+      "threat_type": "malware",
+      "tweet_id": "2117857958096998481",
+      "type": "sha256",
+      "value": "ebf2340c7cbba01979d6163b057fd638d11a9f4514c5b042f5b5e9cb411787b5"
+    },
     "ec69264f4a445875a94feb2e0a20de4b4d83b92f4fcca31a33fb7de3b387f265": {
       "confidence": 0.5,
       "date": "2026-11-03 15:09:50",
@@ -54153,21 +54206,6 @@
       "tweet_id": "2114828481464811548",
       "type": "sha256",
       "value": "f9f8bb03427562dc0948d90c0324465ef9ba2d5bc63317ae650b10422bc9e0b4"
-    },
-    "facebook-logiin.vercel.app": {
-      "confidence": 0.75,
-      "date": "2026-10-05 01:20:03",
-      "enriched_at": "2026-10-05T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fake Facebook login page hosted on vercel.app, flagged as a confirmed scam by a web scanner.",
-      "threat_type": "phishing",
-      "tweet_id": "2106917301253488702",
-      "type": "domain",
-      "value": "facebook-logiin.vercel.app"
     },
     "facebook.recovery.jisandev.com": {
       "confidence": 0.9,
@@ -58339,6 +58377,22 @@
       "type": "domain",
       "value": "healthlicensefl.vercel.app"
     },
+    "heightsviha-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-04 00:42:01",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as the Japan Pension Service, distributed via heightsviha-jp.com with an associated APK hash.",
+      "threat_type": "malware",
+      "tweet_id": "2117779362707886178",
+      "type": "domain",
+      "value": "heightsviha-jp.com"
+    },
     "hekimaplastic.co.tz": {
       "confidence": 0.85,
       "date": "2026-10-06 03:42:07",
@@ -60246,6 +60300,20 @@
       "tweet_id": "2112414023237185714",
       "type": "domain",
       "value": "japanpostr7l.club"
+    },
+    "jasperbalcony.live": {
+      "confidence": 0.9,
+      "date": "2026-11-04 02:49:59",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Two phishing domains (thymeconcert.live, jasperbalcony.live) impersonating Interactive Brokers, targeting Japanese users.",
+      "threat_type": "phishing",
+      "tweet_id": "2117811567836496369",
+      "type": "domain",
+      "value": "jasperbalcony.live"
     },
     "jauty45.cn": {
       "confidence": 0.75,
@@ -67866,6 +67934,70 @@
       "type": "domain",
       "value": "pub-106f839a8e06470ebf320252d50291c1.r2.dev"
     },
+    "pub-1e489e802c044438b77b5f3eb2390c68.r2.dev": {
+      "confidence": 0.6,
+      "date": "2026-10-05 13:20:33",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": "WinosStager",
+      "suggested_tags": [
+        "malware",
+        "valleyrat",
+        "trojan"
+      ],
+      "summary": "Two Cloudflare R2 URLs delivering trojanized installers (Trade-Journal MSI, fake CapCut EXE), assessed as WinosStager.",
+      "threat_type": "malware",
+      "tweet_id": "2107098619316670767",
+      "type": "domain",
+      "value": "pub-1e489e802c044438b77b5f3eb2390c68.r2.dev"
+    },
+    "pub-1e489e802c044438b77b5f3eb2390c68.r2.dev/capcut_7689073905453039624_installer.exe": {
+      "confidence": 0.6,
+      "date": "2026-10-05 13:20:33",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": "WinosStager",
+      "suggested_tags": [
+        "malware",
+        "valleyrat",
+        "trojan"
+      ],
+      "summary": "Two Cloudflare R2 URLs delivering trojanized installers (Trade-Journal MSI, fake CapCut EXE), assessed as WinosStager.",
+      "threat_type": "malware",
+      "tweet_id": "2107098619316670767",
+      "type": "url",
+      "value": "https://pub-1e489e802c044438b77b5f3eb2390c68.r2.dev/CapCut_7689073905453039624_installer.exe"
+    },
+    "pub-209ca94c79b043bea60b0f7868222cd4.r2.dev": {
+      "confidence": 0.6,
+      "date": "2026-10-05 13:20:33",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": "WinosStager",
+      "suggested_tags": [
+        "malware",
+        "valleyrat",
+        "trojan"
+      ],
+      "summary": "Two Cloudflare R2 URLs delivering trojanized installers (Trade-Journal MSI, fake CapCut EXE), assessed as WinosStager.",
+      "threat_type": "malware",
+      "tweet_id": "2107098619316670767",
+      "type": "domain",
+      "value": "pub-209ca94c79b043bea60b0f7868222cd4.r2.dev"
+    },
+    "pub-209ca94c79b043bea60b0f7868222cd4.r2.dev/trade-journal-setup.msi": {
+      "confidence": 0.6,
+      "date": "2026-10-05 13:20:33",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": "WinosStager",
+      "suggested_tags": [
+        "malware",
+        "valleyrat",
+        "trojan"
+      ],
+      "summary": "Two Cloudflare R2 URLs delivering trojanized installers (Trade-Journal MSI, fake CapCut EXE), assessed as WinosStager.",
+      "threat_type": "malware",
+      "tweet_id": "2107098619316670767",
+      "type": "url",
+      "value": "https://pub-209ca94c79b043bea60b0f7868222cd4.r2.dev/Trade-Journal-Setup.msi"
+    },
     "pub-225d7290d0da4d5e8555183cd264a146.r2.dev": {
       "confidence": 0.5,
       "date": "2026-10-05 23:21:24",
@@ -69284,20 +69416,6 @@
       "type": "domain",
       "value": "restsetestes.com"
     },
-    "reurl.cc/qa4krd": {
-      "confidence": 0.8,
-      "date": "2026-10-05 05:00:05",
-      "enriched_at": "2026-10-05T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Verified phishing URL on a reurl.cc short link targeting Italian users, tagged Aruba (Italian hosting/email provider).",
-      "threat_type": "phishing",
-      "tweet_id": "2106972672303243293",
-      "type": "url",
-      "value": "https://reurl.cc/qa4krD"
-    },
     "reviewshared.s3.us-east-005.backblazeb2.com": {
       "confidence": 0.85,
       "date": "2026-10-29 13:22:48",
@@ -69993,6 +70111,34 @@
       "tweet_id": "2111430099538948116",
       "type": "domain",
       "value": "salator.es"
+    },
+    "salvoren.cfd": {
+      "confidence": 0.9,
+      "date": "2026-11-04 04:48:53",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site salvoren.cfd impersonating Mitsubishi UFJ eSmart Securities (Japan), hosted behind Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2117841490005438710",
+      "type": "domain",
+      "value": "salvoren.cfd"
+    },
+    "salvoren.cfd/login/#/index": {
+      "confidence": 0.9,
+      "date": "2026-11-04 04:48:53",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site salvoren.cfd impersonating Mitsubishi UFJ eSmart Securities (Japan), hosted behind Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2117841490005438710",
+      "type": "url",
+      "value": "https://salvoren.cfd/Login/#/index"
     },
     "samehoo229.fun": {
       "confidence": 0.85,
@@ -71347,20 +71493,6 @@
       "type": "url",
       "value": "https://share-adminsimple.s3.eu-west-2.amazonaws.com/October2026/AS-2026-1048.zip?utm_source=chatgpt.com"
     },
-    "share-files-onedrive.com": {
-      "confidence": 0.85,
-      "date": "2026-10-05 02:48:07",
-      "enriched_at": "2026-10-05T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Device code phishing page impersonating OneDrive file sharing, hosted on share-files-onedrive.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2106939463750598689",
-      "type": "domain",
-      "value": "share-files-onedrive.com"
-    },
     "share.google/5o0da0jlwxyg9gim0": {
       "confidence": 0.8,
       "date": "2026-10-16 06:46:40",
@@ -71700,6 +71832,20 @@
       "tweet_id": "2112711255572259293",
       "type": "url",
       "value": "https://sivthara.cfd/LOGIN/"
+    },
+    "slpotify.com": {
+      "confidence": 0.85,
+      "date": "2026-11-03 23:14:48",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Typosquat domain slpotify.com impersonating Spotify in a phishing campaign; quoted tweet covers a fake JioHotstar lookalike.",
+      "threat_type": "phishing",
+      "tweet_id": "2117757416083488918",
+      "type": "domain",
+      "value": "slpotify.com"
     },
     "smaluf.net": {
       "confidence": 0.45,
@@ -72342,20 +72488,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "status.webstatici-whatsapp.com"
-    },
-    "stc-chaffoteaux.com": {
-      "confidence": 0.9,
-      "date": "2026-10-05 06:06:04",
-      "enriched_at": "2026-10-05T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site reported at a domain hosted on a Tunisian IP address (AS2609), submitted via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2106989278362267949",
-      "type": "domain",
-      "value": "stc-chaffoteaux.com"
     },
     "stcdn.yuriykraynov.com": {
       "confidence": 0.85,
@@ -75420,6 +75552,20 @@
       "tweet_id": "2113392662908969075",
       "type": "domain",
       "value": "thunder.godofthunder.st"
+    },
+    "thymeconcert.live": {
+      "confidence": 0.9,
+      "date": "2026-11-04 02:49:59",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Two phishing domains (thymeconcert.live, jasperbalcony.live) impersonating Interactive Brokers, targeting Japanese users.",
+      "threat_type": "phishing",
+      "tweet_id": "2117811567836496369",
+      "type": "domain",
+      "value": "thymeconcert.live"
     },
     "tier-whatsapp.com": {
       "confidence": 0.65,
@@ -78836,6 +78982,22 @@
       "type": "domain",
       "value": "willkie.myssologin.com"
     },
+    "win-5nadl1jm5uv.tail84c20e.ts.net": {
+      "confidence": 0.8,
+      "date": "2026-10-05 12:18:40",
+      "enriched_at": "2026-11-04T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as PayPay, delivered from a Tailscale ts.net funnel host.",
+      "threat_type": "malware",
+      "tweet_id": "2107083045178368297",
+      "type": "domain",
+      "value": "win-5nadl1jm5uv.tail84c20e.ts.net"
+    },
     "win-5nadl1jm5uv.tail84c20e.ts.net/d/9fef9dcc9b70d16d4c43609defb5a98c": {
       "confidence": 0.8,
       "date": "2026-10-05 12:18:40",
@@ -79537,21 +79699,6 @@
       "type": "url",
       "value": "https://www.eyeearhospital.com/bnd/"
     },
-    "www.facebook-logiin.vercel.app": {
-      "confidence": 0.75,
-      "date": "2026-10-05 01:20:03",
-      "enriched_at": "2026-10-05T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fake Facebook login page hosted on vercel.app, flagged as a confirmed scam by a web scanner.",
-      "threat_type": "phishing",
-      "tweet_id": "2106917301253488702",
-      "type": "url",
-      "value": "http://www.facebook-logiin.vercel.app"
-    },
     "www.fertilab.net/background_manager.aspx?ajxname=link_banner&id_banner=22&url=": {
       "confidence": 0.85,
       "date": "2026-10-06 03:42:07",
@@ -79843,20 +79990,6 @@
       "tweet_id": "2110988894280020440",
       "type": "url",
       "value": "https://www.staganddoenc.com/YN18t6ktd/"
-    },
-    "www.stc-chaffoteaux.com": {
-      "confidence": 0.9,
-      "date": "2026-10-05 06:06:04",
-      "enriched_at": "2026-10-05T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site reported at a domain hosted on a Tunisian IP address (AS2609), submitted via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2106989278362267949",
-      "type": "url",
-      "value": "https://www.stc-chaffoteaux.com"
     },
     "www.supportforpolicycompliance.vercel.app": {
       "confidence": 0.7,
@@ -81921,6 +82054,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-04T00:40:04Z",
+  "generated_at": "2026-11-04T06:40:05Z",
   "window_days": 30
 }
