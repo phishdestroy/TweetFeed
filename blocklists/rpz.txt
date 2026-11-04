@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2321
-; Updated: 2026-11-04T07:15:15Z
+; Entries: 2323
+; Updated: 2026-11-04T08:00:24Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793776515 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793779224 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -46,6 +46,8 @@ $TTL 300
 *.31.56.209.167.sslip.io CNAME .
 31231851.xyz CNAME .
 *.31231851.xyz CNAME .
+351312.cc CNAME .
+*.351312.cc CNAME .
 3cdffc93.fase-x.com CNAME .
 *.3cdffc93.fase-x.com CNAME .
 3d7hz1zm.onlinewebshop.net CNAME .
@@ -3168,6 +3170,8 @@ qweaxfgtc.study CNAME .
 *.qweaxfgtc.study CNAME .
 r0symss2.xyz CNAME .
 *.r0symss2.xyz CNAME .
+r6j3hjp.shop CNAME .
+*.r6j3hjp.shop CNAME .
 rabbitshiha-jp.com CNAME .
 *.rabbitshiha-jp.com CNAME .
 rabbitshimak-jp.com CNAME .
