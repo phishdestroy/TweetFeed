@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-04 13:00:24 (UTC)</th>
+        <th colspan=4>2026-11-04 13:15:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 48 | 413 | 2915 | 44802 |
+| **:link: URLs** | 49 | 414 | 2916 | 44803 |
 | **:globe_with_meridians: Domains** | 42 | 318 | 2434 | 38554 |
-| **:triangular_flag_on_post: IPs** | 13 | 139 | 2044 | 7860 |
-| **:1234: SHA256** | 72 | 176 | 540 | 3151 |
+| **:triangular_flag_on_post: IPs** | 14 | 140 | 2045 | 7861 |
+| **:1234: SHA256** | 73 | 177 | 541 | 3152 |
 | **:1234: MD5** | 1 | 18 | 102 | 2101 |
 
 </div>
@@ -231,14 +231,14 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [TheM3gatr0n](https://x.com/TheM3gatr0n) | 60 |
-| **#2** | [smica83](https://x.com/smica83) | 27 |
+| **#2** | [smica83](https://x.com/smica83) | 28 |
 | **#3** | [AaronCTI](https://x.com/AaronCTI) | 22 |
 | **#4** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 20 |
 | **#5** | [masaomi346](https://x.com/masaomi346) | 14 |
 | **#6** | [Metemcyber](https://x.com/Metemcyber) | 8 |
 | **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 7 |
-| **#8** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#9** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#8** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
+| **#9** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 | **#10** | [PhishStats](https://x.com/PhishStats) | 3 |
 <!-- TOP_REPORTERS_END -->
 
