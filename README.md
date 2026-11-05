@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-05 01:15:18 (UTC)</th>
+        <th colspan=4>2026-11-05 01:30:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 362 | 2904 | 44596 |
-| **:globe_with_meridians: Domains** | 0 | 279 | 2415 | 38347 |
+| **:link: URLs** | 1 | 363 | 2905 | 44597 |
+| **:globe_with_meridians: Domains** | 1 | 280 | 2416 | 38348 |
 | **:triangular_flag_on_post: IPs** | 0 | 328 | 2221 | 8059 |
 | **:1234: SHA256** | 0 | 166 | 543 | 3163 |
 | **:1234: MD5** | 0 | 16 | 102 | 2096 |
@@ -213,7 +213,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#C2** | 0 | 29 | 113 | 2197 |
 | **#APT** | 0 | 16 | 47 | 1485 |
 | **#ClickFix** | 0 | 72 | 253 | 1185 |
-| **#ransomware** | 0 | 21 | 92 | 694 |
+| **#ransomware** | 2 | 23 | 94 | 696 |
 | **#opendir** | 0 | 9 | 22 | 691 |
 <!-- TAG_TABLE_END -->
 
@@ -230,7 +230,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [-](https://x.com/-) | 0 |
+| **#1** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#2** | [-](https://x.com/-) | 0 |
 | **#3** | [-](https://x.com/-) | 0 |
 | **#4** | [-](https://x.com/-) | 0 |
