@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2369
-; Updated: 2026-11-05T20:15:19Z
+; Entries: 2460
+; Updated: 2026-11-05T21:30:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793909719 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793914220 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -18,8 +18,16 @@ $TTL 300
 *.01-buy.com CNAME .
 0c7057.wjpeso-ph.net CNAME .
 *.0c7057.wjpeso-ph.net CNAME .
+10today-diwalisales.icu CNAME .
+*.10today-diwalisales.icu CNAME .
+10today-diwalisales.info CNAME .
+*.10today-diwalisales.info CNAME .
 1120hjl.top CNAME .
 *.1120hjl.top CNAME .
+12today-diwalisales.icu CNAME .
+*.12today-diwalisales.icu CNAME .
+12today-diwalisales.info CNAME .
+*.12today-diwalisales.info CNAME .
 1300762.us8.myftpupload.com CNAME .
 *.1300762.us8.myftpupload.com CNAME .
 179-43-175-64.sslip.io CNAME .
@@ -32,6 +40,12 @@ $TTL 300
 *.1960.ef4x.com CNAME .
 1dyorzi7.xyz CNAME .
 *.1dyorzi7.xyz CNAME .
+1stdiwali-bigsavingsale.shop CNAME .
+*.1stdiwali-bigsavingsale.shop CNAME .
+1today-diwalisales.icu CNAME .
+*.1today-diwalisales.icu CNAME .
+1today-diwalisales.info CNAME .
+*.1today-diwalisales.info CNAME .
 224meetgooglecomfskqcdzfcwh.com CNAME .
 *.224meetgooglecomfskqcdzfcwh.com CNAME .
 26etou1.cn CNAME .
@@ -40,6 +54,14 @@ $TTL 300
 *.2c2a9c.jackpot-deluxe.net CNAME .
 2fa-cp.cfd CNAME .
 *.2fa-cp.cfd CNAME .
+2stdiwali-bigsavingsale.info CNAME .
+*.2stdiwali-bigsavingsale.info CNAME .
+2stdiwali-bigsavingsale.shop CNAME .
+*.2stdiwali-bigsavingsale.shop CNAME .
+2today-diwalisales.icu CNAME .
+*.2today-diwalisales.icu CNAME .
+2today-diwalisales.info CNAME .
+*.2today-diwalisales.info CNAME .
 31.56.209.167.sslip.io CNAME .
 *.31.56.209.167.sslip.io CNAME .
 31231851.xyz CNAME .
@@ -50,6 +72,14 @@ $TTL 300
 *.3cdffc93.fase-x.com CNAME .
 3d7hz1zm.onlinewebshop.net CNAME .
 *.3d7hz1zm.onlinewebshop.net CNAME .
+3today-diwalisales.icu CNAME .
+*.3today-diwalisales.icu CNAME .
+3today-diwalisales.info CNAME .
+*.3today-diwalisales.info CNAME .
+4today-diwalisales.icu CNAME .
+*.4today-diwalisales.icu CNAME .
+4today-diwalisales.info CNAME .
+*.4today-diwalisales.info CNAME .
 529motors.com CNAME .
 *.529motors.com CNAME .
 5kiwqdzvhip5yjx5u6ms2hsv3yozpslxocjhyf4cyimrg33fcb7devid.onion CNAME .
@@ -58,6 +88,12 @@ $TTL 300
 *.5ldym2.shop CNAME .
 5p8w1j6f9y3h0t7bg.live CNAME .
 *.5p8w1j6f9y3h0t7bg.live CNAME .
+5today-diwalisales.icu CNAME .
+*.5today-diwalisales.icu CNAME .
+5today-diwalisales.info CNAME .
+*.5today-diwalisales.info CNAME .
+6today-diwalisales.icu CNAME .
+*.6today-diwalisales.icu CNAME .
 7k.iakmialor.web.id CNAME .
 *.7k.iakmialor.web.id CNAME .
 8ak5ww.cfd CNAME .
@@ -72,6 +108,10 @@ $TTL 300
 *.9oogle.app CNAME .
 9tcj2.tik-tok-18.com CNAME .
 *.9tcj2.tik-tok-18.com CNAME .
+9today-diwalisales.icu CNAME .
+*.9today-diwalisales.icu CNAME .
+9today-diwalisales.info CNAME .
+*.9today-diwalisales.info CNAME .
 9xkcaayaagvr1p2.top CNAME .
 *.9xkcaayaagvr1p2.top CNAME .
 a0be120b.fase-x.com CNAME .
@@ -350,6 +390,8 @@ apk.webapi-whatsapp.com CNAME .
 *.apk.webapi-whatsapp.com CNAME .
 apology.fulqhj.asia CNAME .
 *.apology.fulqhj.asia CNAME .
+app-web-diwali.shop CNAME .
+*.app-web-diwali.shop CNAME .
 app.5tr.org CNAME .
 *.app.5tr.org CNAME .
 app.aes-pdf.com CNAME .
@@ -524,6 +566,10 @@ bepxt.in CNAME .
 *.bepxt.in CNAME .
 bepxt.online CNAME .
 *.bepxt.online CNAME .
+best-diwali-offers.shop CNAME .
+*.best-diwali-offers.shop CNAME .
+bestdiwalioffers.shop CNAME .
+*.bestdiwalioffers.shop CNAME .
 bestpartneha-jp.com CNAME .
 *.bestpartneha-jp.com CNAME .
 bfrdhdtrht.duckdns.org CNAME .
@@ -536,10 +582,20 @@ bhfs.myssologin.com CNAME .
 *.bhfs.myssologin.com CNAME .
 bifcapnepa-jp.com CNAME .
 *.bifcapnepa-jp.com CNAME .
+big-diwalisales.icu CNAME .
+*.big-diwalisales.icu CNAME .
+big-diwalisales.info CNAME .
+*.big-diwalisales.info CNAME .
+bigdiwali-offers.shop CNAME .
+*.bigdiwali-offers.shop CNAME .
+bigfilpkart-diwali-offers.shop CNAME .
+*.bigfilpkart-diwali-offers.shop CNAME .
 bigperu.com CNAME .
 *.bigperu.com CNAME .
 bigriemp.com CNAME .
 *.bigriemp.com CNAME .
+bigsavingg-diwali.space CNAME .
+*.bigsavingg-diwali.space CNAME .
 binache.app CNAME .
 *.binache.app CNAME .
 binache.click CNAME .
@@ -1268,6 +1324,8 @@ de-de.webhwsapp-whatsapp.com CNAME .
 *.de-de.webhwsapp-whatsapp.com CNAME .
 de.webhwsapp-whatsapp.com CNAME .
 *.de.webhwsapp-whatsapp.com CNAME .
+dealdiwali.shop CNAME .
+*.dealdiwali.shop CNAME .
 debiandelivr.com CNAME .
 *.debiandelivr.com CNAME .
 dechert.myssologin.com CNAME .
@@ -1352,6 +1410,8 @@ devsys-whatsapp.com CNAME .
 *.devsys-whatsapp.com CNAME .
 dfskk2.oss-cn-hongkong.aliyuncs.com CNAME .
 *.dfskk2.oss-cn-hongkong.aliyuncs.com CNAME .
+dhamaka-diwali-offer.shop CNAME .
+*.dhamaka-diwali-offer.shop CNAME .
 dhcpapi-whatsapp.com CNAME .
 *.dhcpapi-whatsapp.com CNAME .
 dhcpcdn-whatsapp.com CNAME .
@@ -1368,12 +1428,100 @@ dillardindustrial.com CNAME .
 *.dillardindustrial.com CNAME .
 disable-own-nest-response.trycloudflare.com CNAME .
 *.disable-own-nest-response.trycloudflare.com CNAME .
+discodiwali.fun CNAME .
+*.discodiwali.fun CNAME .
 discovery-whatsapp.com CNAME .
 *.discovery-whatsapp.com CNAME .
 dist-cdn.net CNAME .
 *.dist-cdn.net CNAME .
 distenel.site CNAME .
 *.distenel.site CNAME .
+diwali-best-offers.shop CNAME .
+*.diwali-best-offers.shop CNAME .
+diwali-big-offer.shop CNAME .
+*.diwali-big-offer.shop CNAME .
+diwali-big-offers.shop CNAME .
+*.diwali-big-offers.shop CNAME .
+diwali-fksale.xyz CNAME .
+*.diwali-fksale.xyz CNAME .
+diwali-gift.site CNAME .
+*.diwali-gift.site CNAME .
+diwali-offerss.shop CNAME .
+*.diwali-offerss.shop CNAME .
+diwali-seasonsale.icu CNAME .
+*.diwali-seasonsale.icu CNAME .
+diwali-seasonsale.info CNAME .
+*.diwali-seasonsale.info CNAME .
+diwali-supermegasale.icu CNAME .
+*.diwali-supermegasale.icu CNAME .
+diwali-supermegasale.info CNAME .
+*.diwali-supermegasale.info CNAME .
+diwali-wish.family CNAME .
+*.diwali-wish.family CNAME .
+diwali.homes CNAME .
+*.diwali.homes CNAME .
+diwali.lol CNAME .
+*.diwali.lol CNAME .
+diwali.pics CNAME .
+*.diwali.pics CNAME .
+diwali2026.website CNAME .
+*.diwali2026.website CNAME .
+diwali99.bar CNAME .
+*.diwali99.bar CNAME .
+diwalibest-offers.shop CNAME .
+*.diwalibest-offers.shop CNAME .
+diwalibumparsale.info CNAME .
+*.diwalibumparsale.info CNAME .
+diwalibumparsale.store CNAME .
+*.diwalibumparsale.store CNAME .
+diwalicasback.click CNAME .
+*.diwalicasback.click CNAME .
+diwalidazzle.in CNAME .
+*.diwalidazzle.in CNAME .
+diwalidecor.in CNAME .
+*.diwalidecor.in CNAME .
+diwalidhamaka.xyz CNAME .
+*.diwalidhamaka.xyz CNAME .
+diwalidhamakaoffer.shop CNAME .
+*.diwalidhamakaoffer.shop CNAME .
+diwaliglow.tech CNAME .
+*.diwaliglow.tech CNAME .
+diwalijackpot.store CNAME .
+*.diwalijackpot.store CNAME .
+diwalijackpott.shop CNAME .
+*.diwalijackpott.shop CNAME .
+diwalimela.org CNAME .
+*.diwalimela.org CNAME .
+diwaling.store CNAME .
+*.diwaling.store CNAME .
+diwalioff.shop CNAME .
+*.diwalioff.shop CNAME .
+diwalioffers.shop CNAME .
+*.diwalioffers.shop CNAME .
+diwalirchrg.info CNAME .
+*.diwalirchrg.info CNAME .
+diwalirchrg.shop CNAME .
+*.diwalirchrg.shop CNAME .
+diwalirecharge.online CNAME .
+*.diwalirecharge.online CNAME .
+diwalisale.shop CNAME .
+*.diwalisale.shop CNAME .
+diwalisale2026a-flippkart.space CNAME .
+*.diwalisale2026a-flippkart.space CNAME .
+diwalisalefliepkart2026.space CNAME .
+*.diwalisalefliepkart2026.space CNAME .
+diwalisaleslive.shop CNAME .
+*.diwalisaleslive.shop CNAME .
+diwalisuperoffersofthemagasale.shop CNAME .
+*.diwalisuperoffersofthemagasale.shop CNAME .
+diwalisweets.shop CNAME .
+*.diwalisweets.shop CNAME .
+diwaliwishes.online CNAME .
+*.diwaliwishes.online CNAME .
+diwaliwishes.xyz CNAME .
+*.diwaliwishes.xyz CNAME .
+diwaliwishes4u.online CNAME .
+*.diwaliwishes4u.online CNAME .
 dklak.cam CNAME .
 *.dklak.cam CNAME .
 dlhengshengtang.com CNAME .
@@ -1476,6 +1624,8 @@ e1.cdnresolver.com CNAME .
 *.e1.cdnresolver.com CNAME .
 earthbuddypet.cslt168.com CNAME .
 *.earthbuddypet.cslt168.com CNAME .
+easydiwali.shop CNAME .
+*.easydiwali.shop CNAME .
 easydriverhub.com CNAME .
 *.easydriverhub.com CNAME .
 echallan.party CNAME .
@@ -1610,6 +1760,8 @@ fhnweb-whatsapp.com CNAME .
 *.fhnweb-whatsapp.com CNAME .
 fiberhost.net CNAME .
 *.fiberhost.net CNAME .
+fiklghytart-diwali-sale.space CNAME .
+*.fiklghytart-diwali-sale.space CNAME .
 file.webapi-whatsapp.com CNAME .
 *.file.webapi-whatsapp.com CNAME .
 file.webstatici-whatsapp.com CNAME .
@@ -1620,6 +1772,10 @@ fileserver.devin-hk.shop CNAME .
 *.fileserver.devin-hk.shop CNAME .
 filesyncoraflow.com CNAME .
 *.filesyncoraflow.com CNAME .
+filpkart-diwali-offers.shop CNAME .
+*.filpkart-diwali-offers.shop CNAME .
+filpkartdiwali-offers.shop CNAME .
+*.filpkartdiwali-offers.shop CNAME .
 firedmanlaw.co.uk CNAME .
 *.firedmanlaw.co.uk CNAME .
 firewall-whatsapp.com CNAME .
@@ -2018,6 +2174,10 @@ hang-asian-ray-music.trycloudflare.com CNAME .
 *.hang-asian-ray-music.trycloudflare.com CNAME .
 happy-whatsapp.com CNAME .
 *.happy-whatsapp.com CNAME .
+happydiwali-offers.shop CNAME .
+*.happydiwali-offers.shop CNAME .
+happydiwali.tech CNAME .
+*.happydiwali.tech CNAME .
 harborstonegroup.shop CNAME .
 *.harborstonegroup.shop CNAME .
 hardly-signatures-loc-surf.trycloudflare.com CNAME .
@@ -2342,6 +2502,8 @@ katfiore.com CNAME .
 *.katfiore.com CNAME .
 kb102531x.vercel.app CNAME .
 *.kb102531x.vercel.app CNAME .
+kbardiwali.fun CNAME .
+*.kbardiwali.fun CNAME .
 kdyweb-whatsapp.com CNAME .
 *.kdyweb-whatsapp.com CNAME .
 keisigr.top CNAME .
@@ -2466,6 +2628,8 @@ lexer-whatsapp.com CNAME .
 *.lexer-whatsapp.com CNAME .
 lhdn.tos-cn-hongkong.volces.com CNAME .
 *.lhdn.tos-cn-hongkong.volces.com CNAME .
+lightdiwali.online CNAME .
+*.lightdiwali.online CNAME .
 limit-whatsapp.com CNAME .
 *.limit-whatsapp.com CNAME .
 link-ledger.at CNAME .
@@ -2572,6 +2736,8 @@ maga-zine-luiza.com CNAME .
 *.maga-zine-luiza.com CNAME .
 magic-whatsapp.com CNAME .
 *.magic-whatsapp.com CNAME .
+mahafestdiwalii5000.shop CNAME .
+*.mahafestdiwalii5000.shop CNAME .
 mail-googleaccounts-verification.uw.ua CNAME .
 *.mail-googleaccounts-verification.uw.ua CNAME .
 mail-mof-gov-np.netlify.app CNAME .
@@ -2654,6 +2820,8 @@ meetgoogle.chat CNAME .
 *.meetgoogle.chat CNAME .
 meetoa.protofire.org CNAME .
 *.meetoa.protofire.org CNAME .
+mega-bigdiwalisales.icu CNAME .
+*.mega-bigdiwalisales.icu CNAME .
 megeve.beer CNAME .
 *.megeve.beer CNAME .
 merge-whatsapp.com CNAME .
@@ -2754,6 +2922,8 @@ monoxide.vip CNAME .
 *.monoxide.vip CNAME .
 morojames1789900170014.0690011.misitiohostgator.com CNAME .
 *.morojames1789900170014.0690011.misitiohostgator.com CNAME .
+mossypinediwali.online CNAME .
+*.mossypinediwali.online CNAME .
 movecogi.z16.web.core.windows.net CNAME .
 *.movecogi.z16.web.core.windows.net CNAME .
 mqpml.cn CNAME .
@@ -2786,6 +2956,8 @@ mydishisbom-jp.com CNAME .
 *.mydishisbom-jp.com CNAME .
 mydishisbom.com CNAME .
 *.mydishisbom.com CNAME .
+mydiwali.online CNAME .
+*.mydiwali.online CNAME .
 mydocu-sign-documents.ink CNAME .
 *.mydocu-sign-documents.ink CNAME .
 mypage-nlfty.duckdns.org CNAME .
@@ -2918,6 +3090,10 @@ octoberfp.eastus.cloudapp.azure.com CNAME .
 *.octoberfp.eastus.cloudapp.azure.com CNAME .
 odeesa.com.mx CNAME .
 *.odeesa.com.mx CNAME .
+offer-diwali-sale2026.space CNAME .
+*.offer-diwali-sale2026.space CNAME .
+offers-fkarrts-diwali.space CNAME .
+*.offers-fkarrts-diwali.space CNAME .
 ojsdocument.blob.core.windows.net CNAME .
 *.ojsdocument.blob.core.windows.net CNAME .
 okta-linksso.com CNAME .
@@ -4074,6 +4250,12 @@ tmmkxi.cn CNAME .
 *.tmmkxi.cn CNAME .
 toastposupdate.com CNAME .
 *.toastposupdate.com CNAME .
+today-biggesst-diwalisale.icu CNAME .
+*.today-biggesst-diwalisale.icu CNAME .
+today-biggesst-diwalisale.info CNAME .
+*.today-biggesst-diwalisale.info CNAME .
+today-diwalisales.icu CNAME .
+*.today-diwalisales.icu CNAME .
 toddloftindds.com CNAME .
 *.toddloftindds.com CNAME .
 tokenapi-whatsapp.com CNAME .
