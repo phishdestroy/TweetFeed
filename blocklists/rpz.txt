@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2359
-; Updated: 2026-11-05T18:45:19Z
+; Entries: 2361
+; Updated: 2026-11-05T19:15:21Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793904319 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793906121 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2666,6 +2666,8 @@ mgxyuko.xyz CNAME .
 *.mgxyuko.xyz CNAME .
 mhtqk.cn CNAME .
 *.mhtqk.cn CNAME .
+microservice6533.com CNAME .
+*.microservice6533.com CNAME .
 microsoft-telemetry.at CNAME .
 *.microsoft-telemetry.at CNAME .
 microsoftcloudverification.com CNAME .
@@ -4346,6 +4348,8 @@ webbar-whatsapp.com CNAME .
 *.webbar-whatsapp.com CNAME .
 webbat-whatsapp.com CNAME .
 *.webbat-whatsapp.com CNAME .
+webbit6551.com CNAME .
+*.webbit6551.com CNAME .
 webcap-whatsapp.com CNAME .
 *.webcap-whatsapp.com CNAME .
 webcar-whatsapp.com CNAME .

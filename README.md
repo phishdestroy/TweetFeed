@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-05 19:00:24 (UTC)</th>
+        <th colspan=4>2026-11-05 19:15:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 49 | 411 | 2953 | 44645 |
-| **:globe_with_meridians: Domains** | 37 | 316 | 2452 | 38384 |
-| **:triangular_flag_on_post: IPs** | 20 | 348 | 2241 | 8079 |
-| **:1234: SHA256** | 12 | 178 | 555 | 3175 |
+| **:link: URLs** | 54 | 416 | 2958 | 44650 |
+| **:globe_with_meridians: Domains** | 39 | 318 | 2454 | 38386 |
+| **:triangular_flag_on_post: IPs** | 22 | 350 | 2243 | 8081 |
+| **:1234: SHA256** | 14 | 180 | 557 | 3177 |
 | **:1234: MD5** | 15 | 31 | 117 | 2111 |
 
 </div>
@@ -235,11 +235,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#3** | [suyog41](https://x.com/suyog41) | 12 |
 | **#4** | [Fact_Finder03](https://x.com/Fact_Finder03) | 11 |
 | **#5** | [SquiblydooBlog](https://x.com/SquiblydooBlog) | 11 |
-| **#6** | [phishunt_io](https://x.com/phishunt_io) | 8 |
-| **#7** | [bomccss](https://x.com/bomccss) | 8 |
-| **#8** | [LandscapeThreat](https://x.com/LandscapeThreat) | 8 |
-| **#9** | [ShadowOpCode](https://x.com/ShadowOpCode) | 8 |
-| **#10** | [Malwarehunterr](https://x.com/Malwarehunterr) | 6 |
+| **#6** | [smica83](https://x.com/smica83) | 9 |
+| **#7** | [phishunt_io](https://x.com/phishunt_io) | 8 |
+| **#8** | [bomccss](https://x.com/bomccss) | 8 |
+| **#9** | [LandscapeThreat](https://x.com/LandscapeThreat) | 8 |
+| **#10** | [ShadowOpCode](https://x.com/ShadowOpCode) | 8 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
