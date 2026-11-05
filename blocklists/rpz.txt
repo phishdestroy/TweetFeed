@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2460
-; Updated: 2026-11-05T21:30:20Z
+; Entries: 2465
+; Updated: 2026-11-05T22:30:22Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793914220 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793917822 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -176,6 +176,8 @@ addsecureapps.com CNAME .
 *.addsecureapps.com CNAME .
 admin-heteml.com CNAME .
 *.admin-heteml.com CNAME .
+admin.model-point.click CNAME .
+*.admin.model-point.click CNAME .
 adobe.parterro.com CNAME .
 *.adobe.parterro.com CNAME .
 adobeacrobatdoc.com CNAME .
@@ -2192,6 +2194,8 @@ hcnksadcn.cc CNAME .
 *.hcnksadcn.cc CNAME .
 hdhdandan.duckdns.org CNAME .
 *.hdhdandan.duckdns.org CNAME .
+health3.flex-haven.click CNAME .
+*.health3.flex-haven.click CNAME .
 healthherofit.com CNAME .
 *.healthherofit.com CNAME .
 healthlicensefl.vercel.app CNAME .
@@ -2248,6 +2252,8 @@ homes.vernonagent.com CNAME .
 *.homes.vernonagent.com CNAME .
 homeweb-whatsapp.com CNAME .
 *.homeweb-whatsapp.com CNAME .
+host6.southspark.lat CNAME .
+*.host6.southspark.lat CNAME .
 hostapi-whatsapp.com CNAME .
 *.hostapi-whatsapp.com CNAME .
 hostauth-whatsapp.com CNAME .
@@ -2346,6 +2352,8 @@ in-echallan.win CNAME .
 *.in-echallan.win CNAME .
 inbox.webstatici-whatsapp.com CNAME .
 *.inbox.webstatici-whatsapp.com CNAME .
+index.brew-reef.lat CNAME .
+*.index.brew-reef.lat CNAME .
 indigo-flicker-zephyr-truior.pro CNAME .
 *.indigo-flicker-zephyr-truior.pro CNAME .
 inducol.co CNAME .
@@ -4278,6 +4286,8 @@ tpab7.com CNAME .
 *.tpab7.com CNAME .
 tr.webhwsapp-whatsapp.com CNAME .
 *.tr.webhwsapp-whatsapp.com CNAME .
+trace9.web-nest.xyz CNAME .
+*.trace9.web-nest.xyz CNAME .
 track.senderbulk.com CNAME .
 *.track.senderbulk.com CNAME .
 traffer.net CNAME .
