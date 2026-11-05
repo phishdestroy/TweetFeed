@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-05 15:15:19 (UTC)</th>
+        <th colspan=4>2026-11-05 15:30:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,11 +188,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 25 | 387 | 2929 | 44621 |
+| **:link: URLs** | 29 | 391 | 2933 | 44625 |
 | **:globe_with_meridians: Domains** | 21 | 300 | 2436 | 38368 |
-| **:triangular_flag_on_post: IPs** | 18 | 346 | 2239 | 8077 |
+| **:triangular_flag_on_post: IPs** | 19 | 347 | 2240 | 8078 |
 | **:1234: SHA256** | 10 | 176 | 553 | 3173 |
-| **:1234: MD5** | 12 | 28 | 114 | 2108 |
+| **:1234: MD5** | 15 | 31 | 117 | 2111 |
 
 </div>
 
@@ -235,11 +235,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#3** | [Fact_Finder03](https://x.com/Fact_Finder03) | 11 |
 | **#4** | [SquiblydooBlog](https://x.com/SquiblydooBlog) | 11 |
 | **#5** | [bomccss](https://x.com/bomccss) | 8 |
-| **#6** | [phishunt_io](https://x.com/phishunt_io) | 6 |
-| **#7** | [PhishStats](https://x.com/PhishStats) | 5 |
-| **#8** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#9** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
-| **#10** | [smica83](https://x.com/smica83) | 3 |
+| **#6** | [LandscapeThreat](https://x.com/LandscapeThreat) | 8 |
+| **#7** | [phishunt_io](https://x.com/phishunt_io) | 6 |
+| **#8** | [PhishStats](https://x.com/PhishStats) | 5 |
+| **#9** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#10** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
