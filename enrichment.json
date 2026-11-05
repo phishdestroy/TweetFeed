@@ -1,5 +1,5 @@
 {
-  "count": 6135,
+  "count": 6131,
   "dead_tweets": {
     "2107773993008669042": {
       "attempts": 2,
@@ -19,6 +19,20 @@
     }
   },
   "entries": {
+    "002112430b3cce790837b92c614efc5c": {
+      "confidence": 0.4,
+      "date": "2026-11-05 11:58:55",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious DMG file (iPhemeris Astrology_5.3.dmg) shared as an IOC with no further context; likely a macOS stealer lure.",
+      "threat_type": "malware",
+      "tweet_id": "2118312101055725997",
+      "type": "md5",
+      "value": "002112430b3cce790837b92c614efc5c"
+    },
     "006f0ba963a63d9b2822b139ac806dee71eb6a3382b1b1db74b5cf2e60b57a51": {
       "confidence": 0.7,
       "date": "2026-11-02 11:48:37",
@@ -352,6 +366,22 @@
       "type": "sha256",
       "value": "05880d390a0ec8e221b0b8f3eb2f2f0172e192c8dd0a2f409806bc24e98a182c"
     },
+    "06ec7e87c2762746dc7157dfbad7aa68": {
+      "confidence": 0.85,
+      "date": "2026-11-05 11:57:01",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "MioLab",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "MioLab macOS stealer sample distributed as SVGee_2.0.0.dmg.",
+      "threat_type": "malware",
+      "tweet_id": "2118311622326276314",
+      "type": "md5",
+      "value": "06ec7e87c2762746dc7157dfbad7aa68"
+    },
     "078ca0e41957369c39c5d3d249ed5821b33726b3e09403b301704b2c02b46cc9": {
       "confidence": 0.8,
       "date": "2026-10-11 23:58:30",
@@ -561,20 +591,6 @@
       "tweet_id": "2117939883779965432",
       "type": "sha256",
       "value": "0ab3122f40166928fab322f0a7bfeb4df959beb68503737bf75f42e3f0701b8b"
-    },
-    "0adc3cb190e10f61005d7a0c12cfe6f4f8e082a26a1719e0df560dbd61e81613": {
-      "confidence": 0.6,
-      "date": "2026-10-06 09:55:41",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious MSI file (223_FINAL_0of61.msi) seen from Germany, associated with IP 78.17.25.46; family not identified.",
-      "threat_type": "malware",
-      "tweet_id": "2107409449761575008",
-      "type": "sha256",
-      "value": "0adc3cb190e10f61005d7a0c12cfe6f4f8e082a26a1719e0df560dbd61e81613"
     },
     "0ae0977e0a2c707e9435b6acfea4da11": {
       "confidence": 0.5,
@@ -2300,6 +2316,21 @@
       "type": "ip",
       "value": "103.214.201.168"
     },
+    "103.214.71.68": {
+      "confidence": 0.75,
+      "date": "2026-11-05 08:19:05",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "GALODO",
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "GALODO C2 panel at 103.214.71.68:5000/login, also reachable via an sslip.io hostname, with associated sample hash.",
+      "threat_type": "c2",
+      "tweet_id": "2118256775195717933",
+      "type": "ip",
+      "value": "103.214.71.68"
+    },
     "103.216.57.154": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -3847,6 +3878,40 @@
       "type": "ip",
       "value": "107.155.48.46"
     },
+    "107.161.23.11": {
+      "confidence": 0.9,
+      "date": "2026-11-05 11:59:06",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "XWorm",
+      "suggested_tags": [
+        "xworm",
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "XWorm malware delivered via a RAR archive hosted on amazing-rooms.com, with C2 at 155.103.71.197:1956.",
+      "threat_type": "malware",
+      "tweet_id": "2118312143888203949",
+      "type": "ip",
+      "value": "107.161.23.11"
+    },
+    "107.161.23.11:443": {
+      "confidence": 0.9,
+      "date": "2026-11-05 11:59:06",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "XWorm",
+      "suggested_tags": [
+        "xworm",
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "XWorm malware delivered via a RAR archive hosted on amazing-rooms.com, with C2 at 155.103.71.197:1956.",
+      "threat_type": "malware",
+      "tweet_id": "2118312143888203949",
+      "type": "url",
+      "value": "http://107.161.23.11:443"
+    },
     "107.167.182.152": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -5225,6 +5290,22 @@
       "type": "ip",
       "value": "124.222.192.148"
     },
+    "125425ec2534d4607ff21632000ef8f4": {
+      "confidence": 0.85,
+      "date": "2026-11-05 12:02:02",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "MioLab",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "MioLab macOS stealer distributed as trojanized DMG installers masquerading as legitimate Mac apps (Spy Cam, DropDMG, VPN Peek, etc.).",
+      "threat_type": "malware",
+      "tweet_id": "2118312882555281545",
+      "type": "md5",
+      "value": "125425ec2534d4607ff21632000ef8f4"
+    },
     "129.121.62.230": {
       "confidence": 0.9,
       "date": "2026-10-16 14:03:21",
@@ -5472,6 +5553,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "130.211.106.14"
+    },
+    "130.254.47.37": {
+      "confidence": 0.7,
+      "date": "2026-11-05 08:26:50",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "GMailer",
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP 130.254.47.37 on port 8080 flagged as a GMailer cloud C2 server.",
+      "threat_type": "c2",
+      "tweet_id": "2118258727350665398",
+      "type": "ip",
+      "value": "130.254.47.37"
     },
     "130.61.254.7": {
       "confidence": 0.82,
@@ -8313,23 +8408,6 @@
       "type": "ip",
       "value": "149.88.66.95"
     },
-    "14a58fbb6422c27976bf32401f5ef593": {
-      "confidence": 0.92,
-      "date": "2026-10-06 07:25:20",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "Formbook",
-      "suggested_tags": [
-        "formbook",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Japanese-language malspam with a ZIP/JS attachment identified as Formbook infostealer.",
-      "threat_type": "malware",
-      "tweet_id": "2107371615084495244",
-      "type": "md5",
-      "value": "14a58fbb6422c27976bf32401f5ef593"
-    },
     "14f920e611772134999e437c05956970aa4ac8e1a07ba65568e7c24d5b641390": {
       "confidence": 0.95,
       "date": "2026-10-09 16:26:15",
@@ -9118,6 +9196,40 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "155.103.157.43"
+    },
+    "155.103.71.197": {
+      "confidence": 0.9,
+      "date": "2026-11-05 11:59:06",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "XWorm",
+      "suggested_tags": [
+        "xworm",
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "XWorm malware delivered via a RAR archive hosted on amazing-rooms.com, with C2 at 155.103.71.197:1956.",
+      "threat_type": "malware",
+      "tweet_id": "2118312143888203949",
+      "type": "ip",
+      "value": "155.103.71.197"
+    },
+    "155.103.71.197:1956": {
+      "confidence": 0.9,
+      "date": "2026-11-05 11:59:06",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "XWorm",
+      "suggested_tags": [
+        "xworm",
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "XWorm malware delivered via a RAR archive hosted on amazing-rooms.com, with C2 at 155.103.71.197:1956.",
+      "threat_type": "malware",
+      "tweet_id": "2118312143888203949",
+      "type": "url",
+      "value": "http://155.103.71.197:1956"
     },
     "155.117.98.165": {
       "confidence": 0.6,
@@ -10284,6 +10396,20 @@
       "tweet_id": "2117869103490994587",
       "type": "ip",
       "value": "162.213.193.26"
+    },
+    "162.214.159.190": {
+      "confidence": 0.8,
+      "date": "2026-11-05 11:05:08",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page at 529motors.com/homepersonas/ hosted on Unified Layer infrastructure (US).",
+      "threat_type": "phishing",
+      "tweet_id": "2118298566326194392",
+      "type": "ip",
+      "value": "162.214.159.190"
     },
     "162.246.19.216": {
       "confidence": 0.7,
@@ -11640,6 +11766,21 @@
       "type": "ip",
       "value": "172.98.32.95"
     },
+    "173.211.81.11": {
+      "confidence": 0.85,
+      "date": "2026-11-05 08:01:29",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "USPS-themed phishing site uspsfund.online, registered 2026-11-04 and hosted at 173.211.81.11 (Latitude.sh, US).",
+      "threat_type": "phishing",
+      "tweet_id": "2118252348313137283",
+      "type": "ip",
+      "value": "173.211.81.11"
+    },
     "173.230.135.57": {
       "confidence": 0.7,
       "date": "2026-10-15 14:18:10",
@@ -12026,38 +12167,6 @@
       "tweet_id": "2112066017660944691",
       "type": "ip",
       "value": "178.130.46.120"
-    },
-    "178.16.52.204": {
-      "confidence": 0.85,
-      "date": "2026-10-06 08:50:28",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "fakecaptcha",
-        "android",
-        "malware"
-      ],
-      "summary": "Fake captcha page urging download of a 'security app'; leads to a malicious Android APK (Cloudflare.apk) on 178.16.52.204.",
-      "threat_type": "malware",
-      "tweet_id": "2107393040151421211",
-      "type": "url",
-      "value": "http://178.16.52.204"
-    },
-    "178.16.52.204/data/apk/cloudflare.apk": {
-      "confidence": 0.85,
-      "date": "2026-10-06 08:50:28",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "fakecaptcha",
-        "android",
-        "malware"
-      ],
-      "summary": "Fake captcha page urging download of a 'security app'; leads to a malicious Android APK (Cloudflare.apk) on 178.16.52.204.",
-      "threat_type": "malware",
-      "tweet_id": "2107393040151421211",
-      "type": "url",
-      "value": "http://178.16.52.204/data/apk/Cloudflare.apk"
     },
     "178.16.53.50": {
       "confidence": 0.5,
@@ -14491,6 +14600,22 @@
       "type": "url",
       "value": "https://1dyorzi7.xyz/uKeHXtre/"
     },
+    "1eb336b5e39b2a5544b03fb0d08b457c": {
+      "confidence": 0.85,
+      "date": "2026-11-05 11:55:20",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "MioLab",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "MioLab macOS stealer sample distributed as ClassicWeather_9.0.dmg.",
+      "threat_type": "malware",
+      "tweet_id": "2118311195874574739",
+      "type": "md5",
+      "value": "1eb336b5e39b2a5544b03fb0d08b457c"
+    },
     "1ec50a6066dc8a222756507df308cfd496183ae333d87eae1635eed330707395": {
       "confidence": 0.7,
       "date": "2026-10-26 20:37:29",
@@ -15947,101 +16072,6 @@
       "type": "ip",
       "value": "213.186.33.19"
     },
-    "213.209.159.55": {
-      "confidence": 0.85,
-      "date": "2026-10-06 10:29:56",
-      "enriched_at": "2026-11-02T00:40:04Z",
-      "family": "SLAPSHOT",
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "SLAPSHOT/WHIPSHOT post-exploitation installer for Citrix NetScaler deploys Perl/Python proxies and a PHP web shell, then exfiltrates configs to 213.209.159.55 via HTTP PUT.",
-      "threat_type": "malware",
-      "tweet_id": "2107418068393873847",
-      "type": "ip",
-      "value": "213.209.159.55"
-    },
-    "213.209.159.55:443": {
-      "confidence": 0.85,
-      "date": "2026-10-06 10:29:56",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "SLAPSHOT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Post-exploitation installer for Citrix NetScaler (SLAPSHOT/WHIPSHOT) deploying Perl/Python agents and PHP web shells, with config exfiltration via HTTP PUT.",
-      "threat_type": "malware",
-      "tweet_id": "2107418068393873847",
-      "type": "url",
-      "value": "http://213.209.159.55:443"
-    },
-    "213.209.159.55:443/t/ae7427/loot_diag.txt": {
-      "confidence": 0.85,
-      "date": "2026-10-06 10:29:56",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "SLAPSHOT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Post-exploitation installer for Citrix NetScaler (SLAPSHOT/WHIPSHOT) deploying Perl/Python agents and PHP web shells, with config exfiltration via HTTP PUT.",
-      "threat_type": "malware",
-      "tweet_id": "2107418068393873847",
-      "type": "url",
-      "value": "http://213.209.159.55:443/t/ae7427/loot_diag.txt"
-    },
-    "213.209.159.55:443/t/ae7427/loot_httpd.conf": {
-      "confidence": 0.85,
-      "date": "2026-10-06 10:29:56",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "SLAPSHOT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Post-exploitation installer for Citrix NetScaler (SLAPSHOT/WHIPSHOT) deploying Perl/Python agents and PHP web shells, with config exfiltration via HTTP PUT.",
-      "threat_type": "malware",
-      "tweet_id": "2107418068393873847",
-      "type": "url",
-      "value": "http://213.209.159.55:443/t/ae7427/loot_httpd.conf"
-    },
-    "213.209.159.55:443/t/ae7427/loot_nsconfig.tgz": {
-      "confidence": 0.85,
-      "date": "2026-10-06 10:29:56",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "SLAPSHOT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Post-exploitation installer for Citrix NetScaler (SLAPSHOT/WHIPSHOT) deploying Perl/Python agents and PHP web shells, with config exfiltration via HTTP PUT.",
-      "threat_type": "malware",
-      "tweet_id": "2107418068393873847",
-      "type": "url",
-      "value": "http://213.209.159.55:443/t/ae7427/loot_nsconfig.tgz"
-    },
-    "213.209.159.55:443/t/ae7427/loot_nshist.tgz": {
-      "confidence": 0.85,
-      "date": "2026-10-06 10:29:56",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "SLAPSHOT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Post-exploitation installer for Citrix NetScaler (SLAPSHOT/WHIPSHOT) deploying Perl/Python agents and PHP web shells, with config exfiltration via HTTP PUT.",
-      "threat_type": "malware",
-      "tweet_id": "2107418068393873847",
-      "type": "url",
-      "value": "http://213.209.159.55:443/t/ae7427/loot_nshist.tgz"
-    },
     "216.150.1.1": {
       "confidence": 0.9,
       "date": "2026-11-01 18:01:04",
@@ -16683,6 +16713,22 @@
       "tweet_id": "2109649861385609321",
       "type": "sha256",
       "value": "22b0fc350b5e5c557344267b3c44323ac117d3fbeb5cf1bcb8b027352155fa11"
+    },
+    "22e1db2b877cc70be55246ef1661d4e5": {
+      "confidence": 0.85,
+      "date": "2026-11-05 12:02:02",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "MioLab",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "MioLab macOS stealer distributed as trojanized DMG installers masquerading as legitimate Mac apps (Spy Cam, DropDMG, VPN Peek, etc.).",
+      "threat_type": "malware",
+      "tweet_id": "2118312882555281545",
+      "type": "md5",
+      "value": "22e1db2b877cc70be55246ef1661d4e5"
     },
     "23.132.164.3": {
       "confidence": 0.6,
@@ -18129,6 +18175,21 @@
       "type": "sha256",
       "value": "301bd9f16f94feedfae7a946a14bac38cb73c43efe6117bc5586835af03d7d6f"
     },
+    "302d62816fc064d2cd19feea1a3d46c259762ccbfc64fa8be917d1165ef1dd47": {
+      "confidence": 0.75,
+      "date": "2026-11-05 08:19:05",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "GALODO",
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "GALODO C2 panel at 103.214.71.68:5000/login, also reachable via an sslip.io hostname, with associated sample hash.",
+      "threat_type": "c2",
+      "tweet_id": "2118256775195717933",
+      "type": "sha256",
+      "value": "302d62816fc064d2cd19feea1a3d46c259762ccbfc64fa8be917d1165ef1dd47"
+    },
     "31.128.39.24": {
       "confidence": 0.55,
       "date": "2026-10-23 20:38:14",
@@ -18256,18 +18317,6 @@
       "tweet_id": "2117631175892279541",
       "type": "url",
       "value": "http://31.57.38.70"
-    },
-    "31.59.39.40": {
-      "confidence": 0.2,
-      "date": "2026-10-06 09:32:48",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Bare IP address shared without context; likely malicious infrastructure but type and family are unspecified.",
-      "threat_type": "other",
-      "tweet_id": "2107403690747351321",
-      "type": "url",
-      "value": "http://31.59.39.40"
     },
     "31.76.111.31": {
       "confidence": 0.9,
@@ -24757,6 +24806,22 @@
       "type": "ip",
       "value": "34.97.152.185"
     },
+    "34535b896c9898f2d3af394dd43f4150": {
+      "confidence": 0.85,
+      "date": "2026-11-05 12:02:02",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "MioLab",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "MioLab macOS stealer distributed as trojanized DMG installers masquerading as legitimate Mac apps (Spy Cam, DropDMG, VPN Peek, etc.).",
+      "threat_type": "malware",
+      "tweet_id": "2118312882555281545",
+      "type": "md5",
+      "value": "34535b896c9898f2d3af394dd43f4150"
+    },
     "3461b395a20846cefef84d6f7ddcbd7aff2209423eaaf74925ab70b0038e160a": {
       "confidence": 0.6,
       "date": "2026-10-13 12:34:45",
@@ -26919,6 +26984,22 @@
       "type": "sha256",
       "value": "355ee70e091b82b987d09db3cf8ba4176da316c220a72742f74a9e604199c79b"
     },
+    "356ee304d5548ddc8b0cdd4b45fdea7f": {
+      "confidence": 0.85,
+      "date": "2026-11-05 12:02:02",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "MioLab",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "MioLab macOS stealer distributed as trojanized DMG installers masquerading as legitimate Mac apps (Spy Cam, DropDMG, VPN Peek, etc.).",
+      "threat_type": "malware",
+      "tweet_id": "2118312882555281545",
+      "type": "md5",
+      "value": "356ee304d5548ddc8b0cdd4b45fdea7f"
+    },
     "35b63d41888e44520c4c3078261e1946f6b4811ad640cec6bbdd74620afb0ddd": {
       "confidence": 0.7,
       "date": "2026-10-27 21:40:14",
@@ -27744,10 +27825,10 @@
       "type": "url",
       "value": "http://38.87.116.68"
     },
-    "38fc7910c4e49d6be701b7850ad3f00093735590d051bbeb1399ce149fc65b94": {
-      "confidence": 0.93,
-      "date": "2026-10-06 11:45:32",
-      "enriched_at": "2026-10-06T12:40:03Z",
+    "3890c0790485771e74b9027df730ec99fd8e03cf52afededf4fa193f506070ac": {
+      "confidence": 0.9,
+      "date": "2026-11-05 11:59:06",
+      "enriched_at": "2026-11-05T12:40:04Z",
       "family": "XWorm",
       "suggested_tags": [
         "xworm",
@@ -27755,11 +27836,11 @@
         "c2",
         "malware"
       ],
-      "summary": "Batch script identified as XWorm; downloads next-stage fps.exe from ygz.bet and uses a TCP C2 at 45.141.26.63:6000.",
+      "summary": "XWorm malware delivered via a RAR archive hosted on amazing-rooms.com, with C2 at 155.103.71.197:1956.",
       "threat_type": "malware",
-      "tweet_id": "2107437096495419722",
+      "tweet_id": "2118312143888203949",
       "type": "sha256",
-      "value": "38fc7910c4e49d6be701b7850ad3f00093735590d051bbeb1399ce149fc65b94"
+      "value": "3890c0790485771e74b9027df730ec99fd8e03cf52afededf4fa193f506070ac"
     },
     "39.108.48.11": {
       "confidence": 0.5,
@@ -28128,20 +28209,6 @@
       "tweet_id": "2115216529931575638",
       "type": "sha256",
       "value": "4040bea4b89030f2a71de1e6a8b581e5732fecf4117a11c919c0c4f47788055d"
-    },
-    "40618793adac69df00e5fe836827e38c13c2f6452d42e881c8efd256d8bf0c63": {
-      "confidence": 0.6,
-      "date": "2026-10-06 08:36:55",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Batch file posing as an overdue invoice, seen from South Korea, contacting the dynamic DNS domain angle7.noip.at; family not identified.",
-      "threat_type": "malware",
-      "tweet_id": "2107389628474933589",
-      "type": "sha256",
-      "value": "40618793adac69df00e5fe836827e38c13c2f6452d42e881c8efd256d8bf0c63"
     },
     "408f36738f10d2ac47fed558f2820682": {
       "confidence": 0.8,
@@ -29182,23 +29249,6 @@
       "type": "ip",
       "value": "45.141.26.3"
     },
-    "45.141.26.63": {
-      "confidence": 0.93,
-      "date": "2026-10-06 11:45:32",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "Batch script identified as XWorm; downloads next-stage fps.exe from ygz.bet and uses a TCP C2 at 45.141.26.63:6000.",
-      "threat_type": "malware",
-      "tweet_id": "2107437096495419722",
-      "type": "ip",
-      "value": "45.141.26.63"
-    },
     "45.142.152.180": {
       "confidence": 0.85,
       "date": "2026-10-12 14:53:38",
@@ -30148,18 +30198,6 @@
       "type": "url",
       "value": "http://47.237.154.162"
     },
-    "47.238.230.14": {
-      "confidence": 0.2,
-      "date": "2026-10-06 09:59:37",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Bare IP address shared without context; likely malicious infrastructure but type and family are unspecified.",
-      "threat_type": "other",
-      "tweet_id": "2107410442146693628",
-      "type": "url",
-      "value": "http://47.238.230.14"
-    },
     "47.243.109.132": {
       "confidence": 0.85,
       "date": "2026-10-21 02:49:32",
@@ -30882,6 +30920,21 @@
       "type": "ip",
       "value": "5.223.42.100"
     },
+    "5.252.20.248": {
+      "confidence": 0.55,
+      "date": "2026-11-05 07:51:01",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "IP 5.252.20.248 and a sample hash attributed to APT36 activity.",
+      "threat_type": "malware",
+      "tweet_id": "2118249715209003359",
+      "type": "ip",
+      "value": "5.252.20.248"
+    },
     "5.39.10.246": {
       "confidence": 0.55,
       "date": "2026-10-14 09:08:50",
@@ -31260,6 +31313,34 @@
       "type": "md5",
       "value": "52694ec965202a0be19f81c6cd9bf848"
     },
+    "529motors.com": {
+      "confidence": 0.8,
+      "date": "2026-11-05 11:05:08",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page at 529motors.com/homepersonas/ hosted on Unified Layer infrastructure (US).",
+      "threat_type": "phishing",
+      "tweet_id": "2118298566326194392",
+      "type": "domain",
+      "value": "529motors.com"
+    },
+    "529motors.com/homepersonas": {
+      "confidence": 0.8,
+      "date": "2026-11-05 11:05:08",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page at 529motors.com/homepersonas/ hosted on Unified Layer infrastructure (US).",
+      "threat_type": "phishing",
+      "tweet_id": "2118298566326194392",
+      "type": "url",
+      "value": "https://529motors.com/homepersonas/"
+    },
     "52f0c0230b580e2fdf53a378b5c6d0db9829af900dae43e0df8f18635cd9f0c1": {
       "confidence": 0.95,
       "date": "2026-10-09 16:26:15",
@@ -31290,6 +31371,21 @@
       "tweet_id": "2117560677338436036",
       "type": "sha256",
       "value": "5306e0bd70df8b9e0c38a181ff9172013c1272fd82ab9d308ea7cd7a66579cde"
+    },
+    "532606ab597ee4f7cd0b0c76ea90e139e601a116bfa355ec1bdbd77566d53e5b": {
+      "confidence": 0.5,
+      "date": "2026-11-05 08:56:15",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "Sample delivered in a TAR archive themed as an ASEAN Summit meeting agenda, described as a supposed APT sample uploaded to MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2118266129768427598",
+      "type": "sha256",
+      "value": "532606ab597ee4f7cd0b0c76ea90e139e601a116bfa355ec1bdbd77566d53e5b"
     },
     "532b1a2e3d6fe2b628d3e566dbe54165": {
       "confidence": 0.8,
@@ -32310,34 +32406,6 @@
       "type": "ip",
       "value": "64.226.84.77"
     },
-    "64.239.109.1": {
-      "confidence": 0.95,
-      "date": "2026-10-06 07:01:17",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Xfinity (Comcast) webmail phishing page on a Vercel-lookalike domain (gercel.app), resolving to an Amazon-hosted IP in the US.",
-      "threat_type": "phishing",
-      "tweet_id": "2107365559822073857",
-      "type": "ip",
-      "value": "64.239.109.1"
-    },
-    "64.239.109.193": {
-      "confidence": 0.95,
-      "date": "2026-10-06 12:01:08",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Xfinity (Comcast) webmail phishing page hosted on a Vercel-lookalike domain (fercel.app), resolving to an Amazon-hosted IP in the US.",
-      "threat_type": "phishing",
-      "tweet_id": "2107441021973848408",
-      "type": "ip",
-      "value": "64.239.109.193"
-    },
     "64.64.255.170": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -32908,20 +32976,6 @@
       "tweet_id": "2115893904373432405",
       "type": "sha256",
       "value": "6a5da90c553bb0da87e821a3bece34e1394825e845601993bd1df5cea70e29f1"
-    },
-    "6ae1890733bc70a08b6b4300608235d708ed7bb6b430844ad782e7dfb720d71b": {
-      "confidence": 0.6,
-      "date": "2026-10-06 08:01:09",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "ISO sample seen from Malaysia that fetches a next-stage DMRootCA.zip from a Tencent Cloud COS bucket; family not identified.",
-      "threat_type": "malware",
-      "tweet_id": "2107380629612433761",
-      "type": "sha256",
-      "value": "6ae1890733bc70a08b6b4300608235d708ed7bb6b430844ad782e7dfb720d71b"
     },
     "6b0584efdcbb2eddf56cb9c2638ec4e0": {
       "confidence": 0.5,
@@ -33600,20 +33654,6 @@
       "tweet_id": "2111801710863851952",
       "type": "sha256",
       "value": "77e60b111fe5c9ceab77bd87ac1763c71bfa86191655a454e7903d29717ecd90"
-    },
-    "78.17.25.46": {
-      "confidence": 0.6,
-      "date": "2026-10-06 09:55:41",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious MSI file (223_FINAL_0of61.msi) seen from Germany, associated with IP 78.17.25.46; family not identified.",
-      "threat_type": "malware",
-      "tweet_id": "2107409449761575008",
-      "type": "url",
-      "value": "http://78.17.25.46"
     },
     "78.17.93.224": {
       "confidence": 0.8,
@@ -34417,20 +34457,6 @@
       "tweet_id": "2113601611503120436",
       "type": "sha256",
       "value": "806d430c036e3bcb5b05b14eaf7423fdad2fcea67dae7a4beef545ffd864da52"
-    },
-    "8081f3cd5000ef335104f7d0ff3a268afa82b4abe24e49c34b26299970fee331": {
-      "confidence": 0.55,
-      "date": "2026-10-06 07:44:55",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Batch file posing as a Social Security Benefit Statement, submitted to MalwareBazaar; family not identified.",
-      "threat_type": "malware",
-      "tweet_id": "2107376542602981428",
-      "type": "sha256",
-      "value": "8081f3cd5000ef335104f7d0ff3a268afa82b4abe24e49c34b26299970fee331"
     },
     "80a684f580a5b42dab7e3329b66706a765a8c08f04879e58ae734072786a3bc2": {
       "confidence": 0.45,
@@ -36103,6 +36129,20 @@
       "type": "ip",
       "value": "91.92.34.93"
     },
+    "91.92.40.137": {
+      "confidence": 0.7,
+      "date": "2026-11-05 08:11:27",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "Kush",
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Kush stress-tool C2 panel hosted at 91.92.40.137, reachable via an sslip.io hostname.",
+      "threat_type": "c2",
+      "tweet_id": "2118254855815110777",
+      "type": "ip",
+      "value": "91.92.40.137"
+    },
     "91.92.40.28": {
       "confidence": 0.8,
       "date": "2026-10-17 17:51:41",
@@ -36242,20 +36282,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "92.242.198.105"
-    },
-    "92.255.111.71": {
-      "confidence": 0.8,
-      "date": "2026-10-06 12:15:40",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page on craftum.io subdomain gk5440 hosted at 92.255.111.71 (TimeWeb, Russia), reported by PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2107444676685156496",
-      "type": "ip",
-      "value": "92.255.111.71"
     },
     "92.39.211.142": {
       "confidence": 0.55,
@@ -36606,6 +36632,21 @@
       "tweet_id": "2112738029064589398",
       "type": "md5",
       "value": "9356a73aa05b45a2e87dd1207820f26d"
+    },
+    "935837357aa1f44ac3bb2418de21bf04b9c3a27cf39ecab142679eca205c2125": {
+      "confidence": 0.9,
+      "date": "2026-11-05 11:59:05",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "GuLoader",
+      "suggested_tags": [
+        "guloader",
+        "malware"
+      ],
+      "summary": "Japanese-language malspam with an attached archive containing a JS file (Inventory_list.xz) that delivers GuLoader.",
+      "threat_type": "malware",
+      "tweet_id": "2118312141816315917",
+      "type": "sha256",
+      "value": "935837357aa1f44ac3bb2418de21bf04b9c3a27cf39ecab142679eca205c2125"
     },
     "935f933ebd6b61efe29566238233c28ab7f4d6ff27d567f067dfc9cdcf92daa2": {
       "confidence": 0.5,
@@ -37166,22 +37207,6 @@
       "type": "sha256",
       "value": "9f34ec35fc57b33ee6118fb608abc46c1e7b9ff89955a158b6c8812b48ed2963"
     },
-    "9f792058552da5cbbb08693694d31a31d360be8402a3c9d41584d34e3b569be7": {
-      "confidence": 0.85,
-      "date": "2026-10-06 10:29:56",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "SLAPSHOT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Post-exploitation installer for Citrix NetScaler (SLAPSHOT/WHIPSHOT) deploying Perl/Python agents and PHP web shells, with config exfiltration via HTTP PUT.",
-      "threat_type": "malware",
-      "tweet_id": "2107418068393873847",
-      "type": "sha256",
-      "value": "9f792058552da5cbbb08693694d31a31d360be8402a3c9d41584d34e3b569be7"
-    },
     "9oogle.app": {
       "confidence": 0.8,
       "date": "2026-10-22 16:33:07",
@@ -37527,6 +37552,22 @@
       "type": "sha256",
       "value": "a44cad7e7d26a0f0284ceb2e9a10a964d9e7ab44ab74b22464eb2f836af3d90a"
     },
+    "a44d8dcd0fae7ab75e03e7bba2477925": {
+      "confidence": 0.85,
+      "date": "2026-11-05 12:02:02",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "MioLab",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "MioLab macOS stealer distributed as trojanized DMG installers masquerading as legitimate Mac apps (Spy Cam, DropDMG, VPN Peek, etc.).",
+      "threat_type": "malware",
+      "tweet_id": "2118312882555281545",
+      "type": "md5",
+      "value": "a44d8dcd0fae7ab75e03e7bba2477925"
+    },
     "a52ed8094ba5bc976b4a21c69165e4f232af65ba899ef91b45a5d45e7d63b047": {
       "confidence": 0.85,
       "date": "2026-11-03 10:14:20",
@@ -37740,23 +37781,6 @@
       "tweet_id": "2112772524828483798",
       "type": "sha256",
       "value": "a82e85b2cdf25b2e9f5b239f633e637e4979a25af16c984888accdb3ed33b892"
-    },
-    "a834ac8699c5b2fc4e1e9ad8cc7d98b9da6a976de91cc048ca2864ad846399fe": {
-      "confidence": 0.92,
-      "date": "2026-10-06 07:25:20",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "Formbook",
-      "suggested_tags": [
-        "formbook",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Japanese-language malspam with a ZIP/JS attachment identified as Formbook infostealer.",
-      "threat_type": "malware",
-      "tweet_id": "2107371615084495244",
-      "type": "sha256",
-      "value": "a834ac8699c5b2fc4e1e9ad8cc7d98b9da6a976de91cc048ca2864ad846399fe"
     },
     "a88z0b.info": {
       "confidence": 0.85,
@@ -44029,6 +44053,40 @@
       "type": "domain",
       "value": "ama-whatsapp.com"
     },
+    "amazing-rooms.com": {
+      "confidence": 0.9,
+      "date": "2026-11-05 11:59:06",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "XWorm",
+      "suggested_tags": [
+        "xworm",
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "XWorm malware delivered via a RAR archive hosted on amazing-rooms.com, with C2 at 155.103.71.197:1956.",
+      "threat_type": "malware",
+      "tweet_id": "2118312143888203949",
+      "type": "domain",
+      "value": "amazing-rooms.com"
+    },
+    "amazing-rooms.com/kendingsmrker.rar": {
+      "confidence": 0.9,
+      "date": "2026-11-05 11:59:06",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "XWorm",
+      "suggested_tags": [
+        "xworm",
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "XWorm malware delivered via a RAR archive hosted on amazing-rooms.com, with C2 at 155.103.71.197:1956.",
+      "threat_type": "malware",
+      "tweet_id": "2118312143888203949",
+      "type": "url",
+      "value": "https://amazing-rooms.com/Kendingsmrker.rar"
+    },
     "amazonresellingtraining.com": {
       "confidence": 0.4,
       "date": "2026-10-21 16:34:48",
@@ -44293,20 +44351,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "ang-whatsapp.com"
-    },
-    "angle7.noip.at": {
-      "confidence": 0.6,
-      "date": "2026-10-06 08:36:55",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Batch file posing as an overdue invoice, seen from South Korea, contacting the dynamic DNS domain angle7.noip.at; family not identified.",
-      "threat_type": "malware",
-      "tweet_id": "2107389628474933589",
-      "type": "domain",
-      "value": "angle7.noip.at"
     },
     "anh-whatsapp.com": {
       "confidence": 0.65,
@@ -45930,34 +45974,6 @@
       "type": "domain",
       "value": "authy-ledger.at"
     },
-    "avkqcf.cfd": {
-      "confidence": 0.93,
-      "date": "2026-10-06 09:26:52",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Docomo SMTB Net Bank, targeting Japanese users.",
-      "threat_type": "phishing",
-      "tweet_id": "2107402198468722811",
-      "type": "domain",
-      "value": "avkqcf.cfd"
-    },
-    "avkqcf.cfd/pages/#/index": {
-      "confidence": 0.93,
-      "date": "2026-10-06 09:26:52",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Docomo SMTB Net Bank, targeting Japanese users.",
-      "threat_type": "phishing",
-      "tweet_id": "2107402198468722811",
-      "type": "url",
-      "value": "https://avkqcf.cfd/pages/#/index"
-    },
     "aw.ktonemail.com": {
       "confidence": 0.55,
       "date": "2026-11-04 12:02:07",
@@ -46537,22 +46553,6 @@
       "type": "md5",
       "value": "b97980c046ff56cd4393bc37bfea4db5"
     },
-    "b9b0a4380db462c706597bd3e6a08d4d99fcbbf0919d63eb99b488d396c8ce63": {
-      "confidence": 0.85,
-      "date": "2026-10-06 10:29:56",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "SLAPSHOT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Post-exploitation installer for Citrix NetScaler (SLAPSHOT/WHIPSHOT) deploying Perl/Python agents and PHP web shells, with config exfiltration via HTTP PUT.",
-      "threat_type": "malware",
-      "tweet_id": "2107418068393873847",
-      "type": "sha256",
-      "value": "b9b0a4380db462c706597bd3e6a08d4d99fcbbf0919d63eb99b488d396c8ce63"
-    },
     "b9ca63d025ff38a9e148b389565c034ba8768a5e01018e1f110f87a046b231e7": {
       "confidence": 0.4,
       "date": "2026-10-21 06:24:53",
@@ -46628,20 +46628,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "backup.webstatici-whatsapp.com"
-    },
-    "bae46112fc8e39957ae63d51fd6dffdd9853955dbee8968c08a81e37026b059d": {
-      "confidence": 0.7,
-      "date": "2026-10-06 10:07:28",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Japanese-language malicious email with a quote-request lure; a PDF-named attachment (.r11) is actually an executable. Sample on VirusTotal and Triage.",
-      "threat_type": "malware",
-      "tweet_id": "2107412416984494516",
-      "type": "sha256",
-      "value": "bae46112fc8e39957ae63d51fd6dffdd9853955dbee8968c08a81e37026b059d"
     },
     "baf42fcd4eb96c00f3393ebc6239e1ce8b07bc165786f1aa6469fd2899f43cc0": {
       "confidence": 0.8,
@@ -46983,22 +46969,6 @@
       "type": "sha256",
       "value": "be24b9eb3fcfb9671aeaacbb24a4f413daf9abd24b41a9ee390caeec74200af6"
     },
-    "be559fb34104b8ce491082276084e76736f5a5ec6b8d05fe31adc60ec063e447": {
-      "confidence": 0.85,
-      "date": "2026-10-06 10:29:56",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "SLAPSHOT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Post-exploitation installer for Citrix NetScaler (SLAPSHOT/WHIPSHOT) deploying Perl/Python agents and PHP web shells, with config exfiltration via HTTP PUT.",
-      "threat_type": "malware",
-      "tweet_id": "2107418068393873847",
-      "type": "sha256",
-      "value": "be559fb34104b8ce491082276084e76736f5a5ec6b8d05fe31adc60ec063e447"
-    },
     "beaconpromotions.com.na": {
       "confidence": 0.9,
       "date": "2026-10-14 18:19:20",
@@ -47152,6 +47122,38 @@
       "tweet_id": "2112023172040347658",
       "type": "domain",
       "value": "bestpartneha-jp.com"
+    },
+    "bf8fc3ecd564ef8bb015f304519cf625": {
+      "confidence": 0.85,
+      "date": "2026-11-05 12:02:02",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "MioLab",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "MioLab macOS stealer distributed as trojanized DMG installers masquerading as legitimate Mac apps (Spy Cam, DropDMG, VPN Peek, etc.).",
+      "threat_type": "malware",
+      "tweet_id": "2118312882555281545",
+      "type": "md5",
+      "value": "bf8fc3ecd564ef8bb015f304519cf625"
+    },
+    "bf939084d319bf84e6979ce2e95aea7c": {
+      "confidence": 0.85,
+      "date": "2026-11-05 12:02:02",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "MioLab",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "MioLab macOS stealer distributed as trojanized DMG installers masquerading as legitimate Mac apps (Spy Cam, DropDMG, VPN Peek, etc.).",
+      "threat_type": "malware",
+      "tweet_id": "2118312882555281545",
+      "type": "md5",
+      "value": "bf939084d319bf84e6979ce2e95aea7c"
     },
     "bfa1f3075cf4353fe18a07a5e6772df5d505149a7ff40629816dde69945cc7e4": {
       "confidence": 0.6,
@@ -47330,6 +47332,22 @@
       "tweet_id": "2116260969685090705",
       "type": "domain",
       "value": "binance-com-nk.refers.workers.dev"
+    },
+    "binance-kplaw.top": {
+      "confidence": 0.9,
+      "date": "2026-11-05 06:27:33",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "phishing",
+        "scam"
+      ],
+      "summary": "Fake Binance claim site binance-kplaw.top impersonating UK law firm KP Law, using a wallet popup and obfuscated JS to target crypto wallets.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2118228707706118227",
+      "type": "domain",
+      "value": "binance-kplaw.top"
     },
     "binancecheck.com": {
       "confidence": 0.9,
@@ -49995,20 +50013,6 @@
       "type": "domain",
       "value": "bxp-whatsapp.com"
     },
-    "byodxn5s7sua6oyyjj74rycgn6afncfckprt5ezskt3cni6lg3wdrgad.onion": {
-      "confidence": 0.9,
-      "date": "2026-10-06 09:01:14",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "BYOD",
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "New ransomware group 'BYOD' reported with a Tor leak site and a contact email on onionmail.",
-      "threat_type": "ransomware",
-      "tweet_id": "2107395747536879890",
-      "type": "domain",
-      "value": "byodxn5s7sua6oyyjj74rycgn6afncfckprt5ezskt3cni6lg3wdrgad.onion"
-    },
     "bytemai.com": {
       "confidence": 0.8,
       "date": "2026-10-07 10:42:04",
@@ -50554,20 +50558,6 @@
       "type": "domain",
       "value": "cachesrv-whatsapp.com"
     },
-    "caf46345f73f879002bca604908cb0875ee19e3cee9935357aa7c83d619bf3a3": {
-      "confidence": 0.6,
-      "date": "2026-10-06 08:01:09",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "ISO sample seen from Malaysia that fetches a next-stage DMRootCA.zip from a Tencent Cloud COS bucket; family not identified.",
-      "threat_type": "malware",
-      "tweet_id": "2107380629612433761",
-      "type": "sha256",
-      "value": "caf46345f73f879002bca604908cb0875ee19e3cee9935357aa7c83d619bf3a3"
-    },
     "caff702bfd474f09f695e2e43deb006e14d2894ee62668fb036bbd619f588ac7": {
       "confidence": 0.5,
       "date": "2026-10-23 12:21:48",
@@ -50949,22 +50939,6 @@
       "tweet_id": "2114099418043646041",
       "type": "domain",
       "value": "ccloudbeds.com"
-    },
-    "cd6b7acea0bdbcf8b6e8b2e62ea710ab3d9e59111202ac7a733d109c27c948fd": {
-      "confidence": 0.85,
-      "date": "2026-10-06 10:29:56",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "SLAPSHOT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Post-exploitation installer for Citrix NetScaler (SLAPSHOT/WHIPSHOT) deploying Perl/Python agents and PHP web shells, with config exfiltration via HTTP PUT.",
-      "threat_type": "malware",
-      "tweet_id": "2107418068393873847",
-      "type": "sha256",
-      "value": "cd6b7acea0bdbcf8b6e8b2e62ea710ab3d9e59111202ac7a733d109c27c948fd"
     },
     "cdn-edge-f3f85b.netlify.app": {
       "confidence": 0.6,
@@ -53053,6 +53027,21 @@
       "type": "url",
       "value": "https://craigbohart.com/FAKp3BS1ZK.osaka.jp"
     },
+    "crepiehumru.lol": {
+      "confidence": 0.6,
+      "date": "2026-11-05 11:14:42",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 infrastructure shared: domains kenpousland.cfd and crepiehumru.lol plus associated IPs on port 443, with a related sample hash.",
+      "threat_type": "c2",
+      "tweet_id": "2118300972925763870",
+      "type": "domain",
+      "value": "crepiehumru.lol"
+    },
     "cruahop.shop": {
       "confidence": 0.9,
       "date": "2026-10-12 14:18:17",
@@ -53397,6 +53386,22 @@
       "tweet_id": "2116748238787342567",
       "type": "domain",
       "value": "d1g9mpv1gr3wxx.cloudfront.net"
+    },
+    "d284a2c78b1717620b9c7f99d9512aba": {
+      "confidence": 0.85,
+      "date": "2026-11-05 12:02:02",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "MioLab",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "MioLab macOS stealer distributed as trojanized DMG installers masquerading as legitimate Mac apps (Spy Cam, DropDMG, VPN Peek, etc.).",
+      "threat_type": "malware",
+      "tweet_id": "2118312882555281545",
+      "type": "md5",
+      "value": "d284a2c78b1717620b9c7f99d9512aba"
     },
     "d2ba2b7c61b060f644f46add729c4006": {
       "confidence": 0.6,
@@ -53808,22 +53813,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "dbcache-whatsapp.com"
-    },
-    "dc07e82e31f874c386e74bb5882c269a3d33a774a7b9772b11830bf6d33bfc7e": {
-      "confidence": 0.85,
-      "date": "2026-10-06 10:29:56",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "SLAPSHOT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Post-exploitation installer for Citrix NetScaler (SLAPSHOT/WHIPSHOT) deploying Perl/Python agents and PHP web shells, with config exfiltration via HTTP PUT.",
-      "threat_type": "malware",
-      "tweet_id": "2107418068393873847",
-      "type": "sha256",
-      "value": "dc07e82e31f874c386e74bb5882c269a3d33a774a7b9772b11830bf6d33bfc7e"
     },
     "dc0a864f441f0237853b40217eda577defb7c1dd15af407c7241688b1b3a3b46": {
       "confidence": 0.9,
@@ -56150,6 +56139,22 @@
       "type": "sha256",
       "value": "e84d9461947ee432901dbaf5e1cf2fb61c84cd53ef62a11e30a9c56ea9b50228"
     },
+    "e87715b1c5f276cffcfac895f7569b12": {
+      "confidence": 0.85,
+      "date": "2026-11-05 12:02:02",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "MioLab",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "MioLab macOS stealer distributed as trojanized DMG installers masquerading as legitimate Mac apps (Spy Cam, DropDMG, VPN Peek, etc.).",
+      "threat_type": "malware",
+      "tweet_id": "2118312882555281545",
+      "type": "md5",
+      "value": "e87715b1c5f276cffcfac895f7569b12"
+    },
     "e8a247e49a3543fc2e9cb6e579f326adc66e19c8b2c768cd338f3dfe2f4803e4": {
       "confidence": 0.35,
       "date": "2026-10-20 14:06:23",
@@ -56377,6 +56382,21 @@
       "tweet_id": "2108156892333670522",
       "type": "md5",
       "value": "ec832c3ad772111081ba21e35aca3bb0"
+    },
+    "ecd10815b84885333dd99b56c0e5c58c653373ede83b243947d1c4a8c64dcb12": {
+      "confidence": 0.55,
+      "date": "2026-11-05 07:51:01",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "IP 5.252.20.248 and a sample hash attributed to APT36 activity.",
+      "threat_type": "malware",
+      "tweet_id": "2118249715209003359",
+      "type": "sha256",
+      "value": "ecd10815b84885333dd99b56c0e5c58c653373ede83b243947d1c4a8c64dcb12"
     },
     "ecefe715624f0588bce5f546f175675e320da90583a378993c6ac54c074b01d1": {
       "confidence": 0.55,
@@ -58103,6 +58123,21 @@
       "tweet_id": "2117956883139252716",
       "type": "sha256",
       "value": "fbae1df16f20b3f54b0e0955b496bef8f891a512fd00c817206e6a9a17109705"
+    },
+    "fbdcf1c1ef19a5bef2c9ca43b3685aa5dacd78b7b071a90ced67ead83b736fa7": {
+      "confidence": 0.6,
+      "date": "2026-11-05 11:14:42",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 infrastructure shared: domains kenpousland.cfd and crepiehumru.lol plus associated IPs on port 443, with a related sample hash.",
+      "threat_type": "c2",
+      "tweet_id": "2118300972925763870",
+      "type": "sha256",
+      "value": "fbdcf1c1ef19a5bef2c9ca43b3685aa5dacd78b7b071a90ced67ead83b736fa7"
     },
     "fc3f22e3e93c426501b5efb7831ae7c8e7dfd749653b792d1601199b6e39f380": {
       "confidence": 0.6,
@@ -61052,20 +61087,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "gitnode-whatsapp.com"
-    },
-    "gk5440.craftum.io": {
-      "confidence": 0.8,
-      "date": "2026-10-06 12:15:40",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page on craftum.io subdomain gk5440 hosted at 92.255.111.71 (TimeWeb, Russia), reported by PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2107444676685156496",
-      "type": "domain",
-      "value": "gk5440.craftum.io"
     },
     "glamour-studio.com": {
       "confidence": 0.8,
@@ -64857,6 +64878,21 @@
       "tweet_id": "2107463036793680195",
       "type": "domain",
       "value": "kenmarktur-jp.com"
+    },
+    "kenpousland.cfd": {
+      "confidence": 0.6,
+      "date": "2026-11-05 11:14:42",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 infrastructure shared: domains kenpousland.cfd and crepiehumru.lol plus associated IPs on port 443, with a related sample hash.",
+      "threat_type": "c2",
+      "tweet_id": "2118300972925763870",
+      "type": "domain",
+      "value": "kenpousland.cfd"
     },
     "kethvion.cfd": {
       "confidence": 0.9,
@@ -70753,6 +70789,20 @@
       "tweet_id": "2113342928957415879",
       "type": "url",
       "value": "https://pixeldrain.com/api/file/LEfVj7fg?download"
+    },
+    "pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion": {
+      "confidence": 0.85,
+      "date": "2026-11-05 07:04:03",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": "pixelleaks",
+      "suggested_tags": [
+        "ransomware"
+      ],
+      "summary": "Leak site (onion) of a newly observed ransomware group named 'pixelleaks'.",
+      "threat_type": "ransomware",
+      "tweet_id": "2118237895635206199",
+      "type": "domain",
+      "value": "pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion"
     },
     "pizzabiglatino.com": {
       "confidence": 0.55,
@@ -80518,6 +80568,21 @@
       "type": "domain",
       "value": "useweb-whatsapp.com"
     },
+    "uspsfund.online": {
+      "confidence": 0.85,
+      "date": "2026-11-05 08:01:29",
+      "enriched_at": "2026-11-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "USPS-themed phishing site uspsfund.online, registered 2026-11-04 and hosted at 173.211.81.11 (Latitude.sh, US).",
+      "threat_type": "phishing",
+      "tweet_id": "2118252348313137283",
+      "type": "domain",
+      "value": "uspsfund.online"
+    },
     "uxmesq.cn": {
       "confidence": 0.8,
       "date": "2026-10-13 23:31:39",
@@ -82157,34 +82222,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "webkotlin-whatsapp.com"
-    },
-    "webmail-service-xfinity.fercel.app": {
-      "confidence": 0.95,
-      "date": "2026-10-06 12:01:08",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Xfinity (Comcast) webmail phishing page hosted on a Vercel-lookalike domain (fercel.app), resolving to an Amazon-hosted IP in the US.",
-      "threat_type": "phishing",
-      "tweet_id": "2107441021973848408",
-      "type": "domain",
-      "value": "webmail-service-xfinity.fercel.app"
-    },
-    "webmail-service-xfinity.gercel.app": {
-      "confidence": 0.95,
-      "date": "2026-10-06 07:01:17",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Xfinity (Comcast) webmail phishing page on a Vercel-lookalike domain (gercel.app), resolving to an Amazon-hosted IP in the US.",
-      "threat_type": "phishing",
-      "tweet_id": "2107365559822073857",
-      "type": "domain",
-      "value": "webmail-service-xfinity.gercel.app"
     },
     "webmail.hisaka-me.com": {
       "confidence": 0.9,
@@ -84458,40 +84495,6 @@
       "type": "url",
       "value": "https://yepemumi.z22.web.core.windows.net/tx06xof/"
     },
-    "ygz.bet": {
-      "confidence": 0.93,
-      "date": "2026-10-06 11:45:32",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "Batch script identified as XWorm; downloads next-stage fps.exe from ygz.bet and uses a TCP C2 at 45.141.26.63:6000.",
-      "threat_type": "malware",
-      "tweet_id": "2107437096495419722",
-      "type": "domain",
-      "value": "ygz.bet"
-    },
-    "ygz.bet/fps.exe": {
-      "confidence": 0.93,
-      "date": "2026-10-06 11:45:32",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "Batch script identified as XWorm; downloads next-stage fps.exe from ygz.bet and uses a TCP C2 at 45.141.26.63:6000.",
-      "threat_type": "malware",
-      "tweet_id": "2107437096495419722",
-      "type": "url",
-      "value": "http://ygz.bet/fps.exe"
-    },
     "yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion": {
       "confidence": 0.9,
       "date": "2026-10-13 14:54:28",
@@ -84948,34 +84951,6 @@
       "tweet_id": "2109430647815323920",
       "type": "domain",
       "value": "yxqexr.cn"
-    },
-    "yxz-1469461062.cos.ap-singapore.myqcloud.com": {
-      "confidence": 0.6,
-      "date": "2026-10-06 08:01:09",
-      "enriched_at": "2026-10-20T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious ISO sample from Malaysia fetching a next-stage DMRootCA.zip from a Tencent Cloud COS bucket.",
-      "threat_type": "malware",
-      "tweet_id": "2107380629612433761",
-      "type": "domain",
-      "value": "yxz-1469461062.cos.ap-singapore.myqcloud.com"
-    },
-    "yxz-1469461062.cos.ap-singapore.myqcloud.com/dmrootca.zip": {
-      "confidence": 0.6,
-      "date": "2026-10-06 08:01:09",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "ISO sample seen from Malaysia that fetches a next-stage DMRootCA.zip from a Tencent Cloud COS bucket; family not identified.",
-      "threat_type": "malware",
-      "tweet_id": "2107380629612433761",
-      "type": "url",
-      "value": "https://yxz-1469461062.cos.ap-singapore.myqcloud.com/DMRootCA.zip"
     },
     "yzhw666.com": {
       "confidence": 0.85,
@@ -85805,23 +85780,6 @@
       "type": "domain",
       "value": "\u7d50\u5a5a\u5f0f\u306e\u3054\u62db\u5f85.zip"
     },
-    "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip": {
-      "confidence": 0.92,
-      "date": "2026-10-06 08:52:11",
-      "enriched_at": "2026-10-06T12:40:03Z",
-      "family": "Formbook",
-      "suggested_tags": [
-        "formbook",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Japanese-language malspam delivering a ZIP containing a JS file, identified as Formbook infostealer.",
-      "threat_type": "malware",
-      "tweet_id": "2107393470403121604",
-      "type": "domain",
-      "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
-    },
     "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip": {
       "confidence": 0.7,
       "date": "2026-11-02 08:45:46",
@@ -85838,6 +85796,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-05T06:40:04Z",
+  "generated_at": "2026-11-05T12:40:04Z",
   "window_days": 30
 }
