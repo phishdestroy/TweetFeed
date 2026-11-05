@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2337
-; Updated: 2026-11-05T12:45:23Z
+; Entries: 2342
+; Updated: 2026-11-05T13:45:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793882723 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793886319 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2846,6 +2846,8 @@ novametalinc.com CNAME .
 *.novametalinc.com CNAME .
 novhotellogs.aclobe.me CNAME .
 *.novhotellogs.aclobe.me CNAME .
+npparchive.z1.web.core.windows.net CNAME .
+*.npparchive.z1.web.core.windows.net CNAME .
 nqxweb-whatsapp.com CNAME .
 *.nqxweb-whatsapp.com CNAME .
 nrbkjs.cfd CNAME .
@@ -3812,6 +3814,8 @@ swervimgbackj.top CNAME .
 *.swervimgbackj.top CNAME .
 swflnylt.com CNAME .
 *.swflnylt.com CNAME .
+swiftpoint.cyou CNAME .
+*.swiftpoint.cyou CNAME .
 swoavada.top CNAME .
 *.swoavada.top CNAME .
 sxgfy.cn CNAME .
@@ -4004,6 +4008,12 @@ thymeconcert.live CNAME .
 *.thymeconcert.live CNAME .
 tier-whatsapp.com CNAME .
 *.tier-whatsapp.com CNAME .
+tik-tok-18-2.cc CNAME .
+*.tik-tok-18-2.cc CNAME .
+tik-tok-18-3.cc CNAME .
+*.tik-tok-18-3.cc CNAME .
+tik-tok-18-4.cc CNAME .
+*.tik-tok-18-4.cc CNAME .
 tik-tok-18.com CNAME .
 *.tik-tok-18.com CNAME .
 times.eastus.cloudapp.azure.com CNAME .
