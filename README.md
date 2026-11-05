@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-05 08:45:18 (UTC)</th>
+        <th colspan=4>2026-11-05 09:00:27 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 7 | 369 | 2911 | 44603 |
-| **:globe_with_meridians: Domains** | 7 | 286 | 2422 | 38354 |
-| **:triangular_flag_on_post: IPs** | 3 | 331 | 2224 | 8062 |
+| **:link: URLs** | 8 | 370 | 2912 | 44604 |
+| **:globe_with_meridians: Domains** | 8 | 287 | 2423 | 38355 |
+| **:triangular_flag_on_post: IPs** | 4 | 332 | 2225 | 8063 |
 | **:1234: SHA256** | 1 | 167 | 544 | 3164 |
 | **:1234: MD5** | 0 | 16 | 102 | 2096 |
 
@@ -210,10 +210,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 0 | 20 | 11687 |
 | **#malware** | 0 | 129 | 1144 | 4118 |
 | **#scam** | 0 | 6 | 42 | 3033 |
-| **#C2** | 3 | 32 | 116 | 2200 |
+| **#C2** | 4 | 33 | 117 | 2201 |
 | **#APT** | 0 | 16 | 47 | 1485 |
 | **#ClickFix** | 0 | 72 | 253 | 1185 |
-| **#ransomware** | 2 | 23 | 94 | 696 |
+| **#ransomware** | 4 | 25 | 96 | 698 |
 | **#opendir** | 0 | 9 | 22 | 691 |
 <!-- TAG_TABLE_END -->
 
@@ -231,13 +231,13 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#2** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#3** | [Fact_Finder03](https://x.com/Fact_Finder03) | 3 |
+| **#2** | [Fact_Finder03](https://x.com/Fact_Finder03) | 4 |
+| **#3** | [phishunt_io](https://x.com/phishunt_io) | 3 |
 | **#4** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#5** | [masaomi346](https://x.com/masaomi346) | 2 |
 | **#6** | [PhishStats](https://x.com/PhishStats) | 2 |
 | **#7** | [Malwarehunterr](https://x.com/Malwarehunterr) | 2 |
-| **#8** | [-](https://x.com/-) | 0 |
+| **#8** | [RansoMonitor](https://x.com/RansoMonitor) | 2 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
 <!-- TOP_REPORTERS_END -->
