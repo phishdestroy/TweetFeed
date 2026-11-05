@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-05 20:00:26 (UTC)</th>
+        <th colspan=4>2026-11-05 20:15:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 54 | 416 | 2958 | 44650 |
-| **:globe_with_meridians: Domains** | 39 | 318 | 2454 | 38386 |
-| **:triangular_flag_on_post: IPs** | 22 | 350 | 2243 | 8081 |
-| **:1234: SHA256** | 17 | 183 | 560 | 3180 |
+| **:link: URLs** | 63 | 425 | 2967 | 44659 |
+| **:globe_with_meridians: Domains** | 47 | 326 | 2462 | 38394 |
+| **:triangular_flag_on_post: IPs** | 37 | 365 | 2258 | 8096 |
+| **:1234: SHA256** | 21 | 187 | 564 | 3184 |
 | **:1234: MD5** | 15 | 31 | 117 | 2111 |
 
 </div>
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 63 | 372 | 3388 | 32345 |
+| **#phishing** | 76 | 385 | 3401 | 32358 |
 | **#Kimsuky** | 0 | 0 | 38 | 13317 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
 | **#malware** | 14 | 143 | 1158 | 4132 |
@@ -230,16 +230,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [Block6iQ](https://x.com/Block6iQ) | 20 |
-| **#2** | [masaomi346](https://x.com/masaomi346) | 12 |
-| **#3** | [smica83](https://x.com/smica83) | 12 |
-| **#4** | [suyog41](https://x.com/suyog41) | 12 |
-| **#5** | [Fact_Finder03](https://x.com/Fact_Finder03) | 11 |
-| **#6** | [SquiblydooBlog](https://x.com/SquiblydooBlog) | 11 |
-| **#7** | [phishunt_io](https://x.com/phishunt_io) | 8 |
-| **#8** | [bomccss](https://x.com/bomccss) | 8 |
-| **#9** | [LandscapeThreat](https://x.com/LandscapeThreat) | 8 |
-| **#10** | [ShadowOpCode](https://x.com/ShadowOpCode) | 8 |
+| **#1** | [smica83](https://x.com/smica83) | 20 |
+| **#2** | [Block6iQ](https://x.com/Block6iQ) | 20 |
+| **#3** | [Malwarehunterr](https://x.com/Malwarehunterr) | 19 |
+| **#4** | [MichalKoczwara](https://x.com/MichalKoczwara) | 13 |
+| **#5** | [masaomi346](https://x.com/masaomi346) | 12 |
+| **#6** | [suyog41](https://x.com/suyog41) | 12 |
+| **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 11 |
+| **#8** | [SquiblydooBlog](https://x.com/SquiblydooBlog) | 11 |
+| **#9** | [phishunt_io](https://x.com/phishunt_io) | 8 |
+| **#10** | [bomccss](https://x.com/bomccss) | 8 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
