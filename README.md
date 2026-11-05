@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-05 13:45:20 (UTC)</th>
+        <th colspan=4>2026-11-05 14:00:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -190,7 +190,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 24 | 386 | 2928 | 44620 |
 | **:globe_with_meridians: Domains** | 20 | 299 | 2435 | 38367 |
-| **:triangular_flag_on_post: IPs** | 11 | 339 | 2232 | 8070 |
+| **:triangular_flag_on_post: IPs** | 15 | 343 | 2236 | 8074 |
 | **:1234: SHA256** | 10 | 176 | 553 | 3173 |
 | **:1234: MD5** | 12 | 28 | 114 | 2108 |
 
@@ -210,7 +210,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 0 | 20 | 11687 |
 | **#malware** | 10 | 139 | 1154 | 4128 |
 | **#scam** | 0 | 6 | 42 | 3033 |
-| **#C2** | 4 | 33 | 117 | 2201 |
+| **#C2** | 8 | 37 | 121 | 2205 |
 | **#APT** | 0 | 16 | 47 | 1485 |
 | **#ClickFix** | 0 | 72 | 253 | 1185 |
 | **#ransomware** | 4 | 25 | 96 | 698 |
@@ -233,11 +233,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [masaomi346](https://x.com/masaomi346) | 12 |
 | **#2** | [suyog41](https://x.com/suyog41) | 12 |
 | **#3** | [SquiblydooBlog](https://x.com/SquiblydooBlog) | 11 |
-| **#4** | [bomccss](https://x.com/bomccss) | 8 |
-| **#5** | [phishunt_io](https://x.com/phishunt_io) | 6 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 5 |
-| **#7** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#8** | [Fact_Finder03](https://x.com/Fact_Finder03) | 4 |
+| **#4** | [Fact_Finder03](https://x.com/Fact_Finder03) | 8 |
+| **#5** | [bomccss](https://x.com/bomccss) | 8 |
+| **#6** | [phishunt_io](https://x.com/phishunt_io) | 6 |
+| **#7** | [PhishStats](https://x.com/PhishStats) | 5 |
+| **#8** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 | **#9** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
 | **#10** | [smica83](https://x.com/smica83) | 3 |
 <!-- TOP_REPORTERS_END -->
