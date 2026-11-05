@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-05 11:30:25 (UTC)</th>
+        <th colspan=4>2026-11-05 11:45:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 8 | 370 | 2912 | 44604 |
-| **:globe_with_meridians: Domains** | 8 | 287 | 2423 | 38355 |
-| **:triangular_flag_on_post: IPs** | 5 | 333 | 2226 | 8064 |
-| **:1234: SHA256** | 3 | 169 | 546 | 3166 |
+| **:link: URLs** | 13 | 375 | 2917 | 44609 |
+| **:globe_with_meridians: Domains** | 11 | 290 | 2426 | 38358 |
+| **:triangular_flag_on_post: IPs** | 8 | 336 | 2229 | 8067 |
+| **:1234: SHA256** | 4 | 170 | 547 | 3167 |
 | **:1234: MD5** | 0 | 16 | 102 | 2096 |
 
 </div>
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 13 | 322 | 3338 | 32295 |
+| **#phishing** | 16 | 325 | 3341 | 32298 |
 | **#Kimsuky** | 0 | 0 | 38 | 13317 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
 | **#malware** | 0 | 129 | 1144 | 4118 |
@@ -230,16 +230,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#2** | [Fact_Finder03](https://x.com/Fact_Finder03) | 4 |
-| **#3** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#4** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 2 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#7** | [Malwarehunterr](https://x.com/Malwarehunterr) | 2 |
-| **#8** | [RansoMonitor](https://x.com/RansoMonitor) | 2 |
-| **#9** | [solostalking](https://x.com/solostalking) | 2 |
-| **#10** | [smica83](https://x.com/smica83) | 1 |
+| **#1** | [SquiblydooBlog](https://x.com/SquiblydooBlog) | 9 |
+| **#2** | [PhishStats](https://x.com/PhishStats) | 5 |
+| **#3** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#4** | [Fact_Finder03](https://x.com/Fact_Finder03) | 4 |
+| **#5** | [phishunt_io](https://x.com/phishunt_io) | 3 |
+| **#6** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#7** | [masaomi346](https://x.com/masaomi346) | 2 |
+| **#8** | [Malwarehunterr](https://x.com/Malwarehunterr) | 2 |
+| **#9** | [RansoMonitor](https://x.com/RansoMonitor) | 2 |
+| **#10** | [solostalking](https://x.com/solostalking) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>

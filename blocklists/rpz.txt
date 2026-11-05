@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2331
-; Updated: 2026-11-05T09:00:25Z
+; Entries: 2334
+; Updated: 2026-11-05T11:45:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793869225 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793879120 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -50,6 +50,8 @@ $TTL 300
 *.3cdffc93.fase-x.com CNAME .
 3d7hz1zm.onlinewebshop.net CNAME .
 *.3d7hz1zm.onlinewebshop.net CNAME .
+529motors.com CNAME .
+*.529motors.com CNAME .
 5kiwqdzvhip5yjx5u6ms2hsv3yozpslxocjhyf4cyimrg33fcb7devid.onion CNAME .
 *.5kiwqdzvhip5yjx5u6ms2hsv3yozpslxocjhyf4cyimrg33fcb7devid.onion CNAME .
 5ldym2.shop CNAME .
@@ -1172,6 +1174,8 @@ crackcodes.in CNAME .
 *.crackcodes.in CNAME .
 craigbohart.com CNAME .
 *.craigbohart.com CNAME .
+crepiehumru.lol CNAME .
+*.crepiehumru.lol CNAME .
 cruahop.shop CNAME .
 *.cruahop.shop CNAME .
 cruisemacauu-jp.com CNAME .
@@ -2308,6 +2312,8 @@ kelleydrye.myssologin.com CNAME .
 *.kelleydrye.myssologin.com CNAME .
 kenmarktur-jp.com CNAME .
 *.kenmarktur-jp.com CNAME .
+kenpousland.cfd CNAME .
+*.kenpousland.cfd CNAME .
 kethvion.cfd CNAME .
 *.kethvion.cfd CNAME .
 keychainagent.pro CNAME .
