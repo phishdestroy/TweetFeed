@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-05 08:15:17 (UTC)</th>
+        <th colspan=4>2026-11-05 08:30:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -190,8 +190,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 7 | 369 | 2911 | 44603 |
 | **:globe_with_meridians: Domains** | 7 | 286 | 2422 | 38354 |
-| **:triangular_flag_on_post: IPs** | 1 | 329 | 2222 | 8060 |
-| **:1234: SHA256** | 0 | 166 | 543 | 3163 |
+| **:triangular_flag_on_post: IPs** | 3 | 331 | 2224 | 8062 |
+| **:1234: SHA256** | 1 | 167 | 544 | 3164 |
 | **:1234: MD5** | 0 | 16 | 102 | 2096 |
 
 </div>
@@ -210,7 +210,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 0 | 20 | 11687 |
 | **#malware** | 0 | 129 | 1144 | 4118 |
 | **#scam** | 0 | 6 | 42 | 3033 |
-| **#C2** | 0 | 29 | 113 | 2197 |
+| **#C2** | 3 | 32 | 116 | 2200 |
 | **#APT** | 0 | 16 | 47 | 1485 |
 | **#ClickFix** | 0 | 72 | 253 | 1185 |
 | **#ransomware** | 2 | 23 | 94 | 696 |
@@ -232,11 +232,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 | **#2** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#3** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#4** | [masaomi346](https://x.com/masaomi346) | 2 |
-| **#5** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#6** | [Malwarehunterr](https://x.com/Malwarehunterr) | 2 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#3** | [Fact_Finder03](https://x.com/Fact_Finder03) | 3 |
+| **#4** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#5** | [masaomi346](https://x.com/masaomi346) | 2 |
+| **#6** | [PhishStats](https://x.com/PhishStats) | 2 |
+| **#7** | [Malwarehunterr](https://x.com/Malwarehunterr) | 2 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
