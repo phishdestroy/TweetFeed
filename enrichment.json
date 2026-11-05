@@ -1,5 +1,5 @@
 {
-  "count": 6131,
+  "count": 6122,
   "dead_tweets": {
     "2107773993008669042": {
       "attempts": 2,
@@ -95,23 +95,6 @@
       "tweet_id": "2117956883139252716",
       "type": "sha256",
       "value": "00cd757cd32f4a97d689ba747b5592dc5dba346b10c0fe876d805c498691acf7"
-    },
-    "01-buy.com": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "domain",
-      "value": "01-buy.com"
     },
     "0102d7fbafa74cbb13f8edd63704fd5e686da6715bae55276d8f3cdb36d59921": {
       "confidence": 0.6,
@@ -561,23 +544,6 @@
       "type": "sha256",
       "value": "09c5cd09d195c275a79dad60db3035ccb916fb2d6edfcd148299f1f5e20ad2ba"
     },
-    "0aad8e8b65ee59ed916c190ef16719f396861e1d040a460a866604e67b074fb4": {
-      "confidence": 0.85,
-      "date": "2026-10-06 13:28:37",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware",
-        "scam"
-      ],
-      "summary": "Japanese phishing/scam email impersonating Rakuten Pay account protection app; redirects to a site delivering a malicious Android APK.",
-      "threat_type": "phishing",
-      "tweet_id": "2107463036793680195",
-      "type": "sha256",
-      "value": "0aad8e8b65ee59ed916c190ef16719f396861e1d040a460a866604e67b074fb4"
-    },
     "0ab3122f40166928fab322f0a7bfeb4df959beb68503737bf75f42e3f0701b8b": {
       "confidence": 0.45,
       "date": "2026-11-04 11:19:52",
@@ -694,6 +660,21 @@
       "tweet_id": "2117956883139252716",
       "type": "sha256",
       "value": "0dc5538bf5593b37f59893629161b7aed3e965218b7dd83296f6ad51b6cae046"
+    },
+    "0e0b77f79fe5d06f11de2959559379e94d62512e073c267b481a58d19d265240": {
+      "confidence": 0.8,
+      "date": "2026-11-05 15:24:00",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": "SideCopy",
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "SideCopy APT downloader: HTA file hosted on docsportal[.]in used for cyber espionage, with associated payload hash.",
+      "threat_type": "malware",
+      "tweet_id": "2118363709169181098",
+      "type": "sha256",
+      "value": "0e0b77f79fe5d06f11de2959559379e94d62512e073c267b481a58d19d265240"
     },
     "0e807a485125b699a83d923eea9e128a": {
       "confidence": 0.3,
@@ -873,18 +854,6 @@
       "tweet_id": "2112023801735299102",
       "type": "ip",
       "value": "101.32.103.87"
-    },
-    "101.33.117.120": {
-      "confidence": 0.15,
-      "date": "2026-10-06 12:50:49",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Bare IP 101.33.117.120 posted with no context; nature of the threat is unclear.",
-      "threat_type": "other",
-      "tweet_id": "2107453523457638486",
-      "type": "url",
-      "value": "http://101.33.117.120"
     },
     "101.42.255.92": {
       "confidence": 0.6,
@@ -4033,42 +4002,6 @@
       "type": "ip",
       "value": "107.172.79.182"
     },
-    "107.173.143.44": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:21:19",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "opendir",
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "XWorm open directory at 107.173.143.44/60 with C2 at 151.241.154.23:7007.",
-      "threat_type": "c2",
-      "tweet_id": "2107491399730073763",
-      "type": "ip",
-      "value": "107.173.143.44"
-    },
-    "107.173.143.44/60": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:21:19",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "opendir",
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "XWorm open directory at 107.173.143.44/60 with C2 at 151.241.154.23:7007.",
-      "threat_type": "c2",
-      "tweet_id": "2107491399730073763",
-      "type": "url",
-      "value": "http://107.173.143.44/60"
-    },
     "107.173.227.153": {
       "confidence": 0.25,
       "date": "2026-10-27 12:43:57",
@@ -4479,23 +4412,6 @@
       "tweet_id": "2114657401773400431",
       "type": "ip",
       "value": "112.224.219.7"
-    },
-    "1120hjl.top": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "domain",
-      "value": "1120hjl.top"
     },
     "112159f69ff2f3fdd0b4869c40cb904e": {
       "confidence": 0.9,
@@ -4945,21 +4861,6 @@
       "tweet_id": "2108594904385372616",
       "type": "sha256",
       "value": "11ca4a2f90b53a58477bf86d565f73e0ada6846a8bab7ff110ffedc4ee8b85be"
-    },
-    "11d7da51a1d765e6f6946b27566876a5c42e4d157bdb2c9f45dc579c87417f31": {
-      "confidence": 0.4,
-      "date": "2026-10-06 17:43:07",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Executable 'Havene catalog.pdf.exe' (double-extension lure) contacting api.adoptium.net and g-956487.com; malware sample on MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2107527084637835636",
-      "type": "sha256",
-      "value": "11d7da51a1d765e6f6946b27566876a5c42e4d157bdb2c9f45dc579c87417f31"
     },
     "120.211.74.131": {
       "confidence": 0.5,
@@ -5823,6 +5724,20 @@
       "type": "url",
       "value": "http://134.122.189.138:8151"
     },
+    "134.122.73.184": {
+      "confidence": 0.8,
+      "date": "2026-11-05 13:47:08",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": "Shlaka",
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP hosting a Shlaka C2 panel on port 5002.",
+      "threat_type": "c2",
+      "tweet_id": "2118339331777860021",
+      "type": "ip",
+      "value": "134.122.73.184"
+    },
     "134.175.139.55": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -5836,6 +5751,62 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "134.175.139.55"
+    },
+    "136.0.141.71": {
+      "confidence": 0.85,
+      "date": "2026-11-05 12:42:56",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": "cwpdoor",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "cwpdoor, a passive backdoor in Control Web Panel's cwpsrv, linked to Ebury; IOCs include a staging IP and payload URLs.",
+      "threat_type": "malware",
+      "tweet_id": "2118323178057404438",
+      "type": "url",
+      "value": "http://136.0.141.71"
+    },
+    "136.0.141.71/static/cwpsrv_1.15.10": {
+      "confidence": 0.85,
+      "date": "2026-11-05 12:42:56",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": "cwpdoor",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "cwpdoor, a passive backdoor in Control Web Panel's cwpsrv, linked to Ebury; IOCs include a staging IP and payload URLs.",
+      "threat_type": "malware",
+      "tweet_id": "2118323178057404438",
+      "type": "url",
+      "value": "http://136.0.141.71/static/cwpsrv_1.15.10"
+    },
+    "136.0.141.71/static/cwpsrv_1.24.0": {
+      "confidence": 0.85,
+      "date": "2026-11-05 12:42:56",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": "cwpdoor",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "cwpdoor, a passive backdoor in Control Web Panel's cwpsrv, linked to Ebury; IOCs include a staging IP and payload URLs.",
+      "threat_type": "malware",
+      "tweet_id": "2118323178057404438",
+      "type": "url",
+      "value": "http://136.0.141.71/static/cwpsrv_1.24.0"
+    },
+    "136.0.141.71/static/cwpsrv_update.sh": {
+      "confidence": 0.85,
+      "date": "2026-11-05 12:42:56",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": "cwpdoor",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "cwpdoor, a passive backdoor in Control Web Panel's cwpsrv, linked to Ebury; IOCs include a staging IP and payload URLs.",
+      "threat_type": "malware",
+      "tweet_id": "2118323178057404438",
+      "type": "url",
+      "value": "http://136.0.141.71/static/cwpsrv_update.sh"
     },
     "136.0.96.24": {
       "confidence": 0.5,
@@ -8530,42 +8501,6 @@
       "type": "ip",
       "value": "150.241.68.194"
     },
-    "151.241.154.23": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:21:19",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "opendir",
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "XWorm open directory at 107.173.143.44/60 with C2 at 151.241.154.23:7007.",
-      "threat_type": "c2",
-      "tweet_id": "2107491399730073763",
-      "type": "ip",
-      "value": "151.241.154.23"
-    },
-    "151.241.154.23:7007": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:21:19",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "opendir",
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "XWorm open directory at 107.173.143.44/60 with C2 at 151.241.154.23:7007.",
-      "threat_type": "c2",
-      "tweet_id": "2107491399730073763",
-      "type": "url",
-      "value": "http://151.241.154.23:7007"
-    },
     "151.241.99.99": {
       "confidence": 0.9,
       "date": "2026-10-29 09:00:26",
@@ -9541,22 +9476,6 @@
       "tweet_id": "2113222072272928813",
       "type": "url",
       "value": "http://157.230.218.54/zyxel.sh"
-    },
-    "157.230.224.101": {
-      "confidence": 0.5,
-      "date": "2026-10-06 13:41:01",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "IP 157.230.224.101 reported as hosting a stealer panel.",
-      "threat_type": "c2",
-      "tweet_id": "2107466157615939848",
-      "type": "ip",
-      "value": "157.230.224.101"
     },
     "157.245.246.149": {
       "confidence": 0.9,
@@ -10852,22 +10771,6 @@
       "type": "url",
       "value": "http://166.88.4.144"
     },
-    "167.148.201.15": {
-      "confidence": 0.7,
-      "date": "2026-10-06 18:13:36",
-      "enriched_at": "2026-10-07T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "clickfix",
-        "malware"
-      ],
-      "summary": "IP delivering a RAT via ChatGPT Custom GPTs, associated with a ClickFix-style lure and Romulus panel, per Cato CTRL MDR.",
-      "threat_type": "malware",
-      "tweet_id": "2107534755038421359",
-      "type": "url",
-      "value": "http://167.148.201.15"
-    },
     "167.148.201.67": {
       "confidence": 0.55,
       "date": "2026-10-20 08:15:15",
@@ -11052,6 +10955,18 @@
       "tweet_id": "2111817425150964152",
       "type": "url",
       "value": "http://167.99.227.197"
+    },
+    "168.107.31.203": {
+      "confidence": 0.7,
+      "date": "2026-11-05 12:58:56",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Exploitation attempt from a source IP using a proxy request to access OCI instance metadata (SSRF-style).",
+      "threat_type": "vulnerability",
+      "tweet_id": "2118327202152370578",
+      "type": "ip",
+      "value": "168.107.31.203"
     },
     "168.138.176.205": {
       "confidence": 0.5,
@@ -11546,6 +11461,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "172.235.245.36"
+    },
+    "172.236.156.130": {
+      "confidence": 0.55,
+      "date": "2026-11-05 13:31:48",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Two IPs with open C2 panels (ports 8080 and 8000); family not identified.",
+      "threat_type": "c2",
+      "tweet_id": "2118335473601159277",
+      "type": "ip",
+      "value": "172.236.156.130"
     },
     "172.236.233.65": {
       "confidence": 0.5,
@@ -14929,6 +14858,20 @@
       "type": "url",
       "value": "http://2.59.152.21:8041"
     },
+    "20.106.126.48": {
+      "confidence": 0.9,
+      "date": "2026-11-05 13:02:17",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Facebook credential phishing page at swiftpoint[.]cyou hosted on Microsoft infrastructure, recently registered.",
+      "threat_type": "phishing",
+      "tweet_id": "2118328047602454683",
+      "type": "ip",
+      "value": "20.106.126.48"
+    },
     "20.124.33.198": {
       "confidence": 0.6,
       "date": "2026-10-30 15:47:30",
@@ -15844,6 +15787,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "209.141.51.90"
+    },
+    "209.74.64.192": {
+      "confidence": 0.55,
+      "date": "2026-11-05 13:31:48",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Two IPs with open C2 panels (ports 8080 and 8000); family not identified.",
+      "threat_type": "c2",
+      "tweet_id": "2118335473601159277",
+      "type": "ip",
+      "value": "209.74.64.192"
     },
     "209.74.83.47": {
       "confidence": 0.92,
@@ -17066,6 +17023,20 @@
       "type": "ip",
       "value": "23.95.220.222"
     },
+    "232c3c996d14bd6e195794f7fe00d92a8cdb37765ac1543022baee399cad1818": {
+      "confidence": 0.5,
+      "date": "2026-11-05 13:02:02",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Suspicious edge.zip hosted on Azure blob storage containing an edge.msc file with no VT detections; sample uploaded to MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2118327981303030132",
+      "type": "sha256",
+      "value": "232c3c996d14bd6e195794f7fe00d92a8cdb37765ac1543022baee399cad1818"
+    },
     "23e64c7e4425c434b5cce1949662b797dcbbd16b068ee84527c1666023879efa": {
       "confidence": 0.5,
       "date": "2026-11-04 08:58:07",
@@ -17217,20 +17188,6 @@
       "tweet_id": "2116256547907281047",
       "type": "ip",
       "value": "26.2.1.9"
-    },
-    "265fb1b0dc44cfa05b94d2802189cf7aeb2a42905646f28453cf1e16941789dc": {
-      "confidence": 0.4,
-      "date": "2026-10-06 17:47:31",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malware sample 'MO_TA_VIEC_LAM_P5.zip' (Vietnamese job-description lure) seen from Viet Nam and submitted to MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2107528190097063985",
-      "type": "sha256",
-      "value": "265fb1b0dc44cfa05b94d2802189cf7aeb2a42905646f28453cf1e16941789dc"
     },
     "26617bb88f08067374b25539281cb1be": {
       "confidence": 0.85,
@@ -18348,23 +18305,6 @@
       "tweet_id": "2112454270553657714",
       "type": "ip",
       "value": "31.77.228.184"
-    },
-    "31231851.xyz": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "domain",
-      "value": "31231851.xyz"
     },
     "312ccddffce813529d27c0962b140c031e6d7e8aa8eec3f4c6ada40d16d775d0": {
       "confidence": 0.95,
@@ -29197,6 +29137,18 @@
       "type": "ip",
       "value": "45.137.194.154"
     },
+    "45.138.12.24": {
+      "confidence": 0.7,
+      "date": "2026-11-05 12:59:56",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Exploitation attempt from a source IP using XXE injection to retrieve AWS EC2 metadata.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2118327453747662954",
+      "type": "ip",
+      "value": "45.138.12.24"
+    },
     "45.138.12.34": {
       "confidence": 0.6,
       "date": "2026-10-15 13:00:22",
@@ -29903,6 +29855,20 @@
       "tweet_id": "2114652505091305524",
       "type": "ip",
       "value": "45.86.61.186"
+    },
+    "45.88.91.60": {
+      "confidence": 0.75,
+      "date": "2026-11-05 13:37:42",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": "Nova",
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP address hosting a Nova C2 panel.",
+      "threat_type": "c2",
+      "tweet_id": "2118336959546634551",
+      "type": "ip",
+      "value": "45.88.91.60"
     },
     "45.91.202.146": {
       "confidence": 0.9,
@@ -32034,23 +32000,6 @@
       "type": "domain",
       "value": "5kiwqdzvhip5yjx5u6ms2hsv3yozpslxocjhyf4cyimrg33fcb7devid.onion"
     },
-    "5ldym2.shop": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "domain",
-      "value": "5ldym2.shop"
-    },
     "5p8w1j6f9y3h0t7bg.live": {
       "confidence": 0.85,
       "date": "2026-10-16 03:39:05",
@@ -32463,38 +32412,6 @@
       "tweet_id": "2109650108887204073",
       "type": "ip",
       "value": "64.83.18.174"
-    },
-    "64.89.160.127": {
-      "confidence": 0.6,
-      "date": "2026-10-06 17:43:22",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "LxBaseRAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "Linux RAT variant tagged lxbaserat observed in an ANY.RUN task, with C2 at 64.89.160.127:4561.",
-      "threat_type": "c2",
-      "tweet_id": "2107527148680736866",
-      "type": "ip",
-      "value": "64.89.160.127"
-    },
-    "64.89.160.127:4561": {
-      "confidence": 0.6,
-      "date": "2026-10-06 17:43:22",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "LxBaseRAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "Linux RAT variant tagged lxbaserat observed in an ANY.RUN task, with C2 at 64.89.160.127:4561.",
-      "threat_type": "c2",
-      "tweet_id": "2107527148680736866",
-      "type": "url",
-      "value": "http://64.89.160.127:4561"
     },
     "64.89.160.210": {
       "confidence": 0.65,
@@ -33039,6 +32956,20 @@
       "tweet_id": "2115730468264182255",
       "type": "sha256",
       "value": "6bb0f5a098315d26841481f8a57a03fca150c02afe70a8a4b173249e2245dd97"
+    },
+    "6bd9e8b490500dadea8c5657cdc19fd15829730b7fde1a17b5f8e89f132f893e": {
+      "confidence": 0.4,
+      "date": "2026-11-05 17:30:35",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Researcher links a VirusTotal-reported file to a subdomain tied to an actor who has used Microsoft signing to sign malware since at least May.",
+      "threat_type": "malware",
+      "tweet_id": "2118395564601864512",
+      "type": "sha256",
+      "value": "6bd9e8b490500dadea8c5657cdc19fd15829730b7fde1a17b5f8e89f132f893e"
     },
     "6bf4c4c728c7657a1595273f58b180fb": {
       "confidence": 0.85,
@@ -33609,20 +33540,6 @@
       "type": "url",
       "value": "http://77.239.124.141"
     },
-    "77.32.170.3": {
-      "confidence": 0.85,
-      "date": "2026-10-06 15:11:45",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing email impersonating PlanetHoster N0C asking to update payment details; sent via Brevo from IP 77.32.170.3 with a cock.li Reply-To.",
-      "threat_type": "phishing",
-      "tweet_id": "2107488989921837262",
-      "type": "ip",
-      "value": "77.32.170.3"
-    },
     "77.90.185.20": {
       "confidence": 0.85,
       "date": "2026-10-23 08:00:38",
@@ -33727,6 +33644,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "79.124.58.82"
+    },
+    "79.137.194.213": {
+      "confidence": 0.6,
+      "date": "2026-11-05 13:53:15",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP address hosting a C2 panel on port 8000; malware family not identified.",
+      "threat_type": "c2",
+      "tweet_id": "2118340873369141253",
+      "type": "ip",
+      "value": "79.137.194.213"
     },
     "79.99.164.4": {
       "confidence": 0.85,
@@ -35704,23 +35635,6 @@
       "type": "sha256",
       "value": "8a1db253cf95e71e091e9808743e594e7bca6ba3d45adb319f6307c52b50eed5"
     },
-    "8ak5ww.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "domain",
-      "value": "8ak5ww.cfd"
-    },
     "8bc90c20c7a1b23920d979ea6e416024d92220ac1853d52d9a6bf47e958cf83f": {
       "confidence": 0.5,
       "date": "2026-10-31 15:14:21",
@@ -36834,6 +36748,20 @@
       "type": "ip",
       "value": "96.62.224.138"
     },
+    "965aea67fb40de1bab5169ada993349f": {
+      "confidence": 0.85,
+      "date": "2026-11-05 12:42:56",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": "cwpdoor",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "cwpdoor, a passive backdoor in Control Web Panel's cwpsrv, linked to Ebury; IOCs include a staging IP and payload URLs.",
+      "threat_type": "malware",
+      "tweet_id": "2118323178057404438",
+      "type": "md5",
+      "value": "965aea67fb40de1bab5169ada993349f"
+    },
     "9683514cc99c80e7021849da4e9bd65d00c6d477f478589ea9aef522daed3c72": {
       "confidence": 0.4,
       "date": "2026-10-23 12:01:07",
@@ -37781,34 +37709,6 @@
       "tweet_id": "2112772524828483798",
       "type": "sha256",
       "value": "a82e85b2cdf25b2e9f5b239f633e637e4979a25af16c984888accdb3ed33b892"
-    },
-    "a88z0b.info": {
-      "confidence": 0.85,
-      "date": "2026-10-06 12:56:43",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Apple at a88z0b.info, reported by a Japanese researcher.",
-      "threat_type": "phishing",
-      "tweet_id": "2107455010464485533",
-      "type": "domain",
-      "value": "a88z0b.info"
-    },
-    "a88z0b.info/shisei/menu/zjahjvbwuqeqgdeaaya": {
-      "confidence": 0.85,
-      "date": "2026-10-06 12:56:43",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Apple at a88z0b.info, reported by a Japanese researcher.",
-      "threat_type": "phishing",
-      "tweet_id": "2107455010464485533",
-      "type": "url",
-      "value": "https://a88z0b.info/shisei/menu/ZjaHJvbWUqEQgDEAAYA"
     },
     "a8d7e195089b11db3c3c362a4f81b0eb6dc502f204993b73ef37ae0947306a35": {
       "confidence": 0.7,
@@ -43323,6 +43223,21 @@
       "type": "domain",
       "value": "aep.login-options.com"
     },
+    "aes-pdf.com": {
+      "confidence": 0.75,
+      "date": "2026-11-05 17:02:03",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "Phishing domain aes-pdf[.]com and its app subdomain, tagged as adversary-in-the-middle (AiTM) phishing.",
+      "threat_type": "phishing",
+      "tweet_id": "2118388386826232080",
+      "type": "domain",
+      "value": "aes-pdf.com"
+    },
     "aesmartdata.cloud": {
       "confidence": 0.3,
       "date": "2026-10-21 20:39:38",
@@ -43334,6 +43249,20 @@
       "tweet_id": "2113004658814042476",
       "type": "domain",
       "value": "aesmartdata.cloud"
+    },
+    "aespdf.com": {
+      "confidence": 0.5,
+      "date": "2026-11-05 17:03:17",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Redirect chain pointing to aespdf[.]com and app.aespdf[.]com, associated with a fake PDF/AES-themed phishing campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118388695711817735",
+      "type": "domain",
+      "value": "aespdf.com"
     },
     "aexshorthoo26d.9zy6p8.info": {
       "confidence": 0.9,
@@ -44618,21 +44547,6 @@
       "type": "domain",
       "value": "api-webvision.com"
     },
-    "api.adoptium.net": {
-      "confidence": 0.4,
-      "date": "2026-10-06 17:43:07",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Executable 'Havene catalog.pdf.exe' (double-extension lure) contacting api.adoptium.net and g-956487.com; malware sample on MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2107527084637835636",
-      "type": "domain",
-      "value": "api.adoptium.net"
-    },
     "api.brandogdigital.org": {
       "confidence": 0.9,
       "date": "2026-10-23 18:53:53",
@@ -45093,6 +45007,35 @@
       "tweet_id": "2110033718345863417",
       "type": "domain",
       "value": "app.5tr.org"
+    },
+    "app.aes-pdf.com": {
+      "confidence": 0.75,
+      "date": "2026-11-05 17:02:03",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "Phishing domain aes-pdf[.]com and its app subdomain, tagged as adversary-in-the-middle (AiTM) phishing.",
+      "threat_type": "phishing",
+      "tweet_id": "2118388386826232080",
+      "type": "domain",
+      "value": "app.aes-pdf.com"
+    },
+    "app.aespdf.com": {
+      "confidence": 0.5,
+      "date": "2026-11-05 17:03:17",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Redirect chain pointing to aespdf[.]com and app.aespdf[.]com, associated with a fake PDF/AES-themed phishing campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118388695711817735",
+      "type": "domain",
+      "value": "app.aespdf.com"
     },
     "app.slidy.ai": {
       "confidence": 0.75,
@@ -46164,37 +46107,6 @@
       "type": "sha256",
       "value": "b1022d3e58a0318b52feb8aa8048376113ca7596830cb0da750c08f2c8ece583"
     },
-    "b12.share-dns.net": {
-      "confidence": 0.85,
-      "date": "2026-10-06 18:02:23",
-      "enriched_at": "2026-10-07T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New phishkit impersonating Danish MitID on freshly registered domain mitid.me, with nameservers at b12.share-dns.net.",
-      "threat_type": "phishing",
-      "tweet_id": "2107531933286584735",
-      "type": "domain",
-      "value": "b12.share-dns.net"
-    },
-    "b13t17.pro": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "domain",
-      "value": "b13t17.pro"
-    },
     "b1871fbbcb58fb660e574096bd9c3886cf9254178d99a96e1b0047e717ce12eb": {
       "confidence": 0.93,
       "date": "2026-10-13 12:12:13",
@@ -46224,6 +46136,21 @@
       "tweet_id": "2113351070315642931",
       "type": "sha256",
       "value": "b199422fe5f11a4c532f05fbca85446edd426c70fb4f330bb7f78e566f5bd66a"
+    },
+    "b318e8af1ad0a5991c98db40a9565cbb421808b61521adaa5910d7fdc26605b9": {
+      "confidence": 0.5,
+      "date": "2026-11-05 13:25:23",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": "Outflank C2",
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malicious NppExport.dll from a fake Notepad++ archive, reportedly Outflank C2 (possibly pentester activity); sample uploaded to MalwareBazaar.",
+      "threat_type": "c2",
+      "tweet_id": "2118333858328322260",
+      "type": "sha256",
+      "value": "b318e8af1ad0a5991c98db40a9565cbb421808b61521adaa5910d7fdc26605b9"
     },
     "b3c1f64cb527514abd74bf39e4025b59677e3289346735f06d79ba3c95f010b2": {
       "confidence": 0.85,
@@ -46475,23 +46402,6 @@
       "type": "sha256",
       "value": "b8ddf38d3c9137ab091b83acc99864a64e69bc140e7519dd0e489d58aaeabe3d"
     },
-    "b8q9h.fun": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "domain",
-      "value": "b8q9h.fun"
-    },
     "b91db514edd5821530ba2023b8a52e6e": {
       "confidence": 0.8,
       "date": "2026-10-20 10:33:15",
@@ -46661,23 +46571,6 @@
       "tweet_id": "2107819401319735711",
       "type": "domain",
       "value": "bagueie.xyz"
-    },
-    "bahbashyz.info": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "domain",
-      "value": "bahbashyz.info"
     },
     "balladcompass11.com": {
       "confidence": 0.75,
@@ -50760,23 +50653,6 @@
       "type": "url",
       "value": "https://canjepuntosrapidobac.click/pa"
     },
-    "car-insurance-27673.bond": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "domain",
-      "value": "car-insurance-27673.bond"
-    },
     "carlyle.login-options.com": {
       "confidence": 0.7,
       "date": "2026-10-14 08:09:45",
@@ -52735,23 +52611,6 @@
       "type": "domain",
       "value": "conversations.webstatici-whatsapp.com"
     },
-    "convertfusionpro.cloud": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "domain",
-      "value": "convertfusionpro.cloud"
-    },
     "cookieapi-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -53198,6 +53057,21 @@
       "type": "domain",
       "value": "cwmk.eu.cc"
     },
+    "cx-rat-v2-dpyshdh12b1m.edgeone.dev": {
+      "confidence": 0.85,
+      "date": "2026-11-05 14:00:42",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": "CxRAT",
+      "suggested_tags": [
+        "c2",
+        "rat"
+      ],
+      "summary": "CxRAT v2 command-and-control panel hosted on an edgeone.dev subdomain.",
+      "threat_type": "c2",
+      "tweet_id": "2118342747690340629",
+      "type": "domain",
+      "value": "cx-rat-v2-dpyshdh12b1m.edgeone.dev"
+    },
     "cycle-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -53502,6 +53376,20 @@
       "tweet_id": "2111509594090754521",
       "type": "sha256",
       "value": "d3acebf61074387a761fdd1e895c16447dd072364fb83ce90c12ff0a8c6773f4"
+    },
+    "d3f4e95113d49ab3991b45e457bda75b": {
+      "confidence": 0.85,
+      "date": "2026-11-05 12:42:56",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": "cwpdoor",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "cwpdoor, a passive backdoor in Control Web Panel's cwpsrv, linked to Ebury; IOCs include a staging IP and payload URLs.",
+      "threat_type": "malware",
+      "tweet_id": "2118323178057404438",
+      "type": "md5",
+      "value": "d3f4e95113d49ab3991b45e457bda75b"
     },
     "d53128ca7057a8bcc362f2c8ea30fcce": {
       "confidence": 0.6,
@@ -54692,6 +54580,22 @@
       "type": "sha256",
       "value": "df86db89f7f965fc117d4c14b722d3d02f1d1de5c6ec216bb59fcf2736374caa"
     },
+    "dfa875ce0f779a6252c263ef8e96a7e1c25bafd9ecaa20df49342ec5ab5a073e": {
+      "confidence": 0.8,
+      "date": "2026-11-05 12:19:58",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as an Amazon app, distributed via a phishing site at mydishisbom[.]com.",
+      "threat_type": "malware",
+      "tweet_id": "2118317396503175671",
+      "type": "sha256",
+      "value": "dfa875ce0f779a6252c263ef8e96a7e1c25bafd9ecaa20df49342ec5ab5a073e"
+    },
     "dfd703d9a6904ab1e10441bfaa14428d36893e4109485302422b259b5d087e30": {
       "confidence": 0.45,
       "date": "2026-10-12 20:47:55",
@@ -55220,6 +55124,36 @@
       "tweet_id": "2110962680358175038",
       "type": "url",
       "value": "https://docsewallet.com/Adobe_Installer.html"
+    },
+    "docsportal.in": {
+      "confidence": 0.8,
+      "date": "2026-11-05 15:24:00",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": "SideCopy",
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "SideCopy APT downloader: HTA file hosted on docsportal[.]in used for cyber espionage, with associated payload hash.",
+      "threat_type": "malware",
+      "tweet_id": "2118363709169181098",
+      "type": "domain",
+      "value": "docsportal.in"
+    },
+    "docsportal.in/public/reps/com/com.hta": {
+      "confidence": 0.8,
+      "date": "2026-11-05 15:24:00",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": "SideCopy",
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "SideCopy APT downloader: HTA file hosted on docsportal[.]in used for cyber espionage, with associated payload hash.",
+      "threat_type": "malware",
+      "tweet_id": "2118363709169181098",
+      "type": "url",
+      "value": "https://docsportal.in/public/reps/com/com.hta"
     },
     "docss-whatsapp.com": {
       "confidence": 0.85,
@@ -56046,6 +55980,20 @@
       "type": "sha256",
       "value": "e478de33724ef288215d8f238e52846b5da173574b48825dcdc2ac2627e44535"
     },
+    "e505d4ffa21cf494a5dc2d7c8f4f1236": {
+      "confidence": 0.85,
+      "date": "2026-11-05 12:42:56",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": "cwpdoor",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "cwpdoor, a passive backdoor in Control Web Panel's cwpsrv, linked to Ebury; IOCs include a staging IP and payload URLs.",
+      "threat_type": "malware",
+      "tweet_id": "2118323178057404438",
+      "type": "md5",
+      "value": "e505d4ffa21cf494a5dc2d7c8f4f1236"
+    },
     "e527c90fa9ed585c2fe27b2ec23b6bec511b0f431d568d3b6c27ce148b2bf4d5": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -56617,6 +56565,22 @@
       "tweet_id": "2109588791853814065",
       "type": "sha256",
       "value": "ee710c2430567c7740026a3b4772c1c22516196285a58f976b91e2f6ae5dfab3"
+    },
+    "ef32609097b1739fb3353c5d65661ccae670e30be1d9b0ace889284276df5f80": {
+      "confidence": 0.8,
+      "date": "2026-11-05 12:58:51",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as an adult TikTok app, distributed through tik-tok-18-x.cc phishing domains.",
+      "threat_type": "malware",
+      "tweet_id": "2118327183232160139",
+      "type": "sha256",
+      "value": "ef32609097b1739fb3353c5d65661ccae670e30be1d9b0ace889284276df5f80"
     },
     "ef870e646a673285666748925664b44b": {
       "confidence": 0.5,
@@ -58153,20 +58117,6 @@
       "tweet_id": "2110317820143702469",
       "type": "sha256",
       "value": "fc3f22e3e93c426501b5efb7831ae7c8e7dfd749653b792d1601199b6e39f380"
-    },
-    "fced413a9960c7da5bc4f1e10ffb0c2898b8f053e56f0f168543265529044bd4": {
-      "confidence": 0.4,
-      "date": "2026-10-06 14:03:44",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "ISO file 'Electronic invoice.iso' (invoice lure) seen from India and submitted to MalwareBazaar; family not stated.",
-      "threat_type": "malware",
-      "tweet_id": "2107471875769065814",
-      "type": "sha256",
-      "value": "fced413a9960c7da5bc4f1e10ffb0c2898b8f053e56f0f168543265529044bd4"
     },
     "fcibk.cn": {
       "confidence": 0.8,
@@ -60244,21 +60194,6 @@
       "type": "domain",
       "value": "ftp.fundacionpiaz.org"
     },
-    "ftworthmedicalclinic.info": {
-      "confidence": 0.85,
-      "date": "2026-10-06 16:25:23",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing lure impersonating an Omaha Steaks reward, sent from trusthallfreight.com and redirecting to ftworthmedicalclinic.info.",
-      "threat_type": "phishing",
-      "tweet_id": "2107507521900753315",
-      "type": "domain",
-      "value": "ftworthmedicalclinic.info"
-    },
     "fullwork3e4.gamer.free": {
       "confidence": 0.7,
       "date": "2026-10-29 02:16:05",
@@ -60395,21 +60330,6 @@
       "tweet_id": "2107977561716506894",
       "type": "domain",
       "value": "fyrestormic-jp.com"
-    },
-    "g-956487.com": {
-      "confidence": 0.4,
-      "date": "2026-10-06 17:43:07",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Executable 'Havene catalog.pdf.exe' (double-extension lure) contacting api.adoptium.net and g-956487.com; malware sample on MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2107527084637835636",
-      "type": "domain",
-      "value": "g-956487.com"
     },
     "g.fetc-twqgov.com": {
       "confidence": 0.35,
@@ -64862,23 +64782,6 @@
       "type": "domain",
       "value": "kelleydrye.myssologin.com"
     },
-    "kenmarktur-jp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-06 13:28:37",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware",
-        "scam"
-      ],
-      "summary": "Japanese phishing/scam email impersonating Rakuten Pay account protection app; redirects to a site delivering a malicious Android APK.",
-      "threat_type": "phishing",
-      "tweet_id": "2107463036793680195",
-      "type": "domain",
-      "value": "kenmarktur-jp.com"
-    },
     "kenpousland.cfd": {
       "confidence": 0.6,
       "date": "2026-11-05 11:14:42",
@@ -67828,20 +67731,6 @@
       "type": "domain",
       "value": "miricanvas.com"
     },
-    "missvalledeladrome.info": {
-      "confidence": 0.8,
-      "date": "2026-10-06 14:56:40",
-      "enriched_at": "2026-10-31T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Empire Today sale lure sent from wookidoodlesalga[.]com leading to missvalledeladrome[.]info, flagged by public threat intel.",
-      "threat_type": "phishing",
-      "tweet_id": "2107485196312572006",
-      "type": "domain",
-      "value": "missvalledeladrome.info"
-    },
     "misuwh.com": {
       "confidence": 0.85,
       "date": "2026-10-23 23:52:47",
@@ -68352,6 +68241,34 @@
       "type": "domain",
       "value": "ms.webhwsapp-whatsapp.com"
     },
+    "mscupdate.blob.core.windows.net": {
+      "confidence": 0.5,
+      "date": "2026-11-05 12:33:25",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Suspicious edge.zip on Azure blob storage containing edge.msc with no VT detections, posing as legitimate Microsoft content.",
+      "threat_type": "malware",
+      "tweet_id": "2118320782137041230",
+      "type": "domain",
+      "value": "mscupdate.blob.core.windows.net"
+    },
+    "mscupdate.blob.core.windows.net/downloads/edge.zip": {
+      "confidence": 0.5,
+      "date": "2026-11-05 12:33:25",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Suspicious edge.zip on Azure blob storage containing edge.msc with no VT detections, posing as legitimate Microsoft content.",
+      "threat_type": "malware",
+      "tweet_id": "2118320782137041230",
+      "type": "url",
+      "value": "https://mscupdate.blob.core.windows.net/downloads/edge.zip"
+    },
     "msjsonp.com": {
       "confidence": 0.4,
       "date": "2026-10-16 08:51:21",
@@ -68508,6 +68425,22 @@
       "tweet_id": "2117765241165750325",
       "type": "domain",
       "value": "mydishisbom-jp.com"
+    },
+    "mydishisbom.com": {
+      "confidence": 0.8,
+      "date": "2026-11-05 12:19:58",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as an Amazon app, distributed via a phishing site at mydishisbom[.]com.",
+      "threat_type": "malware",
+      "tweet_id": "2118317396503175671",
+      "type": "domain",
+      "value": "mydishisbom.com"
     },
     "mydocu-sign-documents.ink": {
       "confidence": 0.85,
@@ -69431,6 +69364,21 @@
       "tweet_id": "2115514257752133832",
       "type": "domain",
       "value": "novhotellogs.aclobe.me"
+    },
+    "npparchive.z1.web.core.windows.net": {
+      "confidence": 0.5,
+      "date": "2026-11-05 13:25:23",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": "Outflank C2",
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Azure-hosted Notepad++ archive containing malicious NppExport.dll, reportedly Outflank C2 (possibly pentester activity).",
+      "threat_type": "malware",
+      "tweet_id": "2118328625522933806",
+      "type": "domain",
+      "value": "npparchive.z1.web.core.windows.net"
     },
     "nqxweb-whatsapp.com": {
       "confidence": 0.65,
@@ -75849,40 +75797,6 @@
       "type": "domain",
       "value": "sort-whatsapp.com"
     },
-    "souljourneysingreece.com": {
-      "confidence": 0.85,
-      "date": "2026-10-06 13:28:37",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware",
-        "scam"
-      ],
-      "summary": "Japanese phishing/scam email impersonating Rakuten Pay account protection app; redirects to a site delivering a malicious Android APK.",
-      "threat_type": "phishing",
-      "tweet_id": "2107463036793680195",
-      "type": "domain",
-      "value": "souljourneysingreece.com"
-    },
-    "souljourneysingreece.com/rdcr2eaawb.lg.jp": {
-      "confidence": 0.85,
-      "date": "2026-10-06 13:28:37",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "malware",
-        "scam"
-      ],
-      "summary": "Japanese phishing/scam email impersonating Rakuten Pay account protection app; redirects to a site delivering a malicious Android APK.",
-      "threat_type": "phishing",
-      "tweet_id": "2107463036793680195",
-      "type": "url",
-      "value": "https://souljourneysingreece.com/rDCr2eAAWB.lg.jp"
-    },
     "sourceuse.cyou": {
       "confidence": 0.8,
       "date": "2026-10-17 17:51:41",
@@ -77720,6 +77634,34 @@
       "type": "url",
       "value": "https://swflnylt.com/?email=aaaa@example.jp&token=luWh3rd7q8yZSwFdv0V4fQ7E"
     },
+    "swiftpoint.cyou": {
+      "confidence": 0.9,
+      "date": "2026-11-05 13:02:17",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Facebook credential phishing page at swiftpoint[.]cyou hosted on Microsoft infrastructure, recently registered.",
+      "threat_type": "phishing",
+      "tweet_id": "2118328047602454683",
+      "type": "domain",
+      "value": "swiftpoint.cyou"
+    },
+    "swiftpoint.cyou/facebook/login": {
+      "confidence": 0.9,
+      "date": "2026-11-05 13:02:17",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Facebook credential phishing page at swiftpoint[.]cyou hosted on Microsoft infrastructure, recently registered.",
+      "threat_type": "phishing",
+      "tweet_id": "2118328047602454683",
+      "type": "url",
+      "value": "http://swiftpoint.cyou/facebook/login"
+    },
     "swoavada.top": {
       "confidence": 0.9,
       "date": "2026-10-22 08:32:33",
@@ -79368,6 +79310,54 @@
       "type": "domain",
       "value": "tier-whatsapp.com"
     },
+    "tik-tok-18-2.cc": {
+      "confidence": 0.8,
+      "date": "2026-11-05 12:58:51",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as an adult TikTok app, distributed through tik-tok-18-x.cc phishing domains.",
+      "threat_type": "malware",
+      "tweet_id": "2118327183232160139",
+      "type": "domain",
+      "value": "tik-tok-18-2.cc"
+    },
+    "tik-tok-18-3.cc": {
+      "confidence": 0.8,
+      "date": "2026-11-05 12:58:51",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as an adult TikTok app, distributed through tik-tok-18-x.cc phishing domains.",
+      "threat_type": "malware",
+      "tweet_id": "2118327183232160139",
+      "type": "domain",
+      "value": "tik-tok-18-3.cc"
+    },
+    "tik-tok-18-4.cc": {
+      "confidence": 0.8,
+      "date": "2026-11-05 12:58:51",
+      "enriched_at": "2026-11-05T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as an adult TikTok app, distributed through tik-tok-18-x.cc phishing domains.",
+      "threat_type": "malware",
+      "tweet_id": "2118327183232160139",
+      "type": "domain",
+      "value": "tik-tok-18-4.cc"
+    },
     "tik-tok-18.com": {
       "confidence": 0.75,
       "date": "2026-11-01 23:39:32",
@@ -79865,21 +79855,6 @@
       "tweet_id": "2113209694240317937",
       "type": "domain",
       "value": "trustdate.eastus.cloudapp.azure.com"
-    },
-    "trusthallfreight.com": {
-      "confidence": 0.85,
-      "date": "2026-10-06 16:25:23",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing lure impersonating an Omaha Steaks reward, sent from trusthallfreight.com and redirecting to ftworthmedicalclinic.info.",
-      "threat_type": "phishing",
-      "tweet_id": "2107507521900753315",
-      "type": "domain",
-      "value": "trusthallfreight.com"
     },
     "try-whatsapp.com": {
       "confidence": 0.75,
@@ -82956,21 +82931,6 @@
       "type": "domain",
       "value": "wmail.aitai.ne.jp"
     },
-    "wookidoodlesalga.com": {
-      "confidence": 0.85,
-      "date": "2026-10-06 14:56:40",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing lure of an Empire Today sale originating from wookidoodlesalga.com and redirecting to missvalledeladrome.info.",
-      "threat_type": "phishing",
-      "tweet_id": "2107485196312572006",
-      "type": "domain",
-      "value": "wookidoodlesalga.com"
-    },
     "wordmoss.com": {
       "confidence": 0.6,
       "date": "2026-10-11 12:42:39",
@@ -83205,91 +83165,6 @@
       "type": "domain",
       "value": "wwppodd6688.com"
     },
-    "www.01-buy.com": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "url",
-      "value": "http://www.01-buy.com"
-    },
-    "www.1120hjl.top": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "url",
-      "value": "http://www.1120hjl.top"
-    },
-    "www.31231851.xyz": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "url",
-      "value": "http://www.31231851.xyz"
-    },
-    "www.5ldym2.shop": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "url",
-      "value": "http://www.5ldym2.shop"
-    },
-    "www.8ak5ww.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "url",
-      "value": "http://www.8ak5ww.cfd"
-    },
     "www.advanceamazon.com": {
       "confidence": 0.4,
       "date": "2026-10-21 16:34:48",
@@ -83315,74 +83190,6 @@
       "tweet_id": "2110249691937947941",
       "type": "url",
       "value": "http://www.allegrolokalne.8078794.cc"
-    },
-    "www.b13t17.pro": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "url",
-      "value": "http://www.b13t17.pro"
-    },
-    "www.b8q9h.fun": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "url",
-      "value": "http://www.b8q9h.fun"
-    },
-    "www.bahbashyz.info": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "url",
-      "value": "http://www.bahbashyz.info"
-    },
-    "www.car-insurance-27673.bond": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "url",
-      "value": "http://www.car-insurance-27673.bond"
     },
     "www.cdiscount.com?source_id=&sub1=dbdsl260fgns73fncrf0&adv1=&adv2=": {
       "confidence": 0.7,
@@ -83456,23 +83263,6 @@
       "tweet_id": "2106293721159582168",
       "type": "url",
       "value": "https://www.chefstablehub.com"
-    },
-    "www.convertfusionpro.cloud": {
-      "confidence": 0.9,
-      "date": "2026-10-06 15:38:35",
-      "enriched_at": "2026-10-06T18:40:03Z",
-      "family": "FormBook",
-      "suggested_tags": [
-        "formbook",
-        "c2",
-        "malware",
-        "infostealer"
-      ],
-      "summary": "Sample of FormBook/XLoader C2 domains from a Team Cymru Total Insights feed of 311 domains with randomized hostnames across many TLDs.",
-      "threat_type": "c2",
-      "tweet_id": "2107495744642969841",
-      "type": "url",
-      "value": "http://www.convertfusionpro.cloud"
     },
     "www.dropbox.com/scl/fi/1744i84tld8w95cphyxop/rabo-bank_txn-seb13.zip?rlkey=21nzaofbihw84yl5gj4gex2bt&dl=1": {
       "confidence": 0.55,
@@ -85796,6 +85586,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-05T12:40:04Z",
+  "generated_at": "2026-11-05T18:40:05Z",
   "window_days": 30
 }
