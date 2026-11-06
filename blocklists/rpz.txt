@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2419
-; Updated: 2026-11-06T06:30:21Z
+; Entries: 2423
+; Updated: 2026-11-06T07:15:16Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793946621 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793949316 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -72,6 +72,8 @@ $TTL 300
 *.3today-diwalisales.icu CNAME .
 3today-diwalisales.info CNAME .
 *.3today-diwalisales.info CNAME .
+4rfgcfy780ok.sportsonotheweb.net CNAME .
+*.4rfgcfy780ok.sportsonotheweb.net CNAME .
 4today-diwalisales.icu CNAME .
 *.4today-diwalisales.icu CNAME .
 4today-diwalisales.info CNAME .
@@ -944,6 +946,8 @@ bzvmjsn5.sportsontheweb.net CNAME .
 *.bzvmjsn5.sportsontheweb.net CNAME .
 c2.staticbdfe.com CNAME .
 *.c2.staticbdfe.com CNAME .
+c5ldzz07.onlinewebshop.net CNAME .
+*.c5ldzz07.onlinewebshop.net CNAME .
 c97xx6lx.onlinewebshop.net CNAME .
 *.c97xx6lx.onlinewebshop.net CNAME .
 cachedpage-jp.com CNAME .
@@ -1584,6 +1588,8 @@ e-docu-sign.online CNAME .
 *.e-docu-sign.online CNAME .
 e1.cdnresolver.com CNAME .
 *.e1.cdnresolver.com CNAME .
+e1vfaomn3.onlinewebshop.net CNAME .
+*.e1vfaomn3.onlinewebshop.net CNAME .
 earthbuddypet.cslt168.com CNAME .
 *.earthbuddypet.cslt168.com CNAME .
 easydiwali.shop CNAME .
@@ -4398,6 +4404,8 @@ vwwv-roblox.co CNAME .
 *.vwwv-roblox.co CNAME .
 vyv51.top CNAME .
 *.vyv51.top CNAME .
+w8l35buwr.onlinewebshop.net CNAME .
+*.w8l35buwr.onlinewebshop.net CNAME .
 waaako.proxy08.com CNAME .
 *.waaako.proxy08.com CNAME .
 wafnode-whatsapp.com CNAME .
