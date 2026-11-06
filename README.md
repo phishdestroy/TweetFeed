@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-06 08:30:25 (UTC)</th>
+        <th colspan=4>2026-11-06 08:45:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 165 | 632 | 3162 | 44625 |
-| **:globe_with_meridians: Domains** | 160 | 541 | 2667 | 38416 |
+| **:link: URLs** | 166 | 633 | 3163 | 44626 |
+| **:globe_with_meridians: Domains** | 161 | 542 | 2668 | 38417 |
 | **:triangular_flag_on_post: IPs** | 4 | 334 | 2244 | 8061 |
-| **:1234: SHA256** | 0 | 184 | 552 | 3184 |
+| **:1234: SHA256** | 1 | 185 | 553 | 3185 |
 | **:1234: MD5** | 1 | 27 | 116 | 2076 |
 
 </div>
@@ -205,10 +205,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 313 | 804 | 3821 | 32373 |
+| **#phishing** | 316 | 807 | 3824 | 32376 |
 | **#Kimsuky** | 10 | 10 | 48 | 13316 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
-| **#malware** | 0 | 128 | 1145 | 4126 |
+| **#malware** | 3 | 131 | 1148 | 4129 |
 | **#scam** | 0 | 4 | 40 | 2992 |
 | **#C2** | 0 | 36 | 124 | 2203 |
 | **#APT** | 0 | 20 | 51 | 1479 |
@@ -233,11 +233,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 299 |
 | **#2** | [copy_and_paster](https://x.com/copy_and_paster) | 10 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 8 |
-| **#4** | [LandscapeThreat](https://x.com/LandscapeThreat) | 4 |
-| **#5** | [suyog41](https://x.com/suyog41) | 3 |
-| **#6** | [TKemmerling](https://x.com/TKemmerling) | 2 |
-| **#7** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#8** | [masaomi346](https://x.com/masaomi346) | 2 |
+| **#4** | [masaomi346](https://x.com/masaomi346) | 5 |
+| **#5** | [LandscapeThreat](https://x.com/LandscapeThreat) | 4 |
+| **#6** | [suyog41](https://x.com/suyog41) | 3 |
+| **#7** | [TKemmerling](https://x.com/TKemmerling) | 2 |
+| **#8** | [PhishStats](https://x.com/PhishStats) | 2 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
 <!-- TOP_REPORTERS_END -->
