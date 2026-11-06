@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2587
-; Updated: 2026-11-06T13:30:25Z
+; Entries: 2602
+; Updated: 2026-11-06T21:00:21Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793971825 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793998821 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -90,6 +90,8 @@ $TTL 300
 *.5today-diwalisales.info CNAME .
 6today-diwalisales.icu CNAME .
 *.6today-diwalisales.icu CNAME .
+7fcafe.wwvip88.site CNAME .
+*.7fcafe.wwvip88.site CNAME .
 7k.iakmialor.web.id CNAME .
 *.7k.iakmialor.web.id CNAME .
 8j536vj.cn CNAME .
@@ -330,12 +332,16 @@ aoqinwwrizxbrwm3qb6l4jzgujgmcetp4jaug7fqylbf3xcwqwzvbuid.onion CNAME .
 *.aoqinwwrizxbrwm3qb6l4jzgujgmcetp4jaug7fqylbf3xcwqwzvbuid.onion CNAME .
 aowwo.com CNAME .
 *.aowwo.com CNAME .
+api-63nkaf68d.berimazinjagentleman.sbs CNAME .
+*.api-63nkaf68d.berimazinjagentleman.sbs CNAME .
 api-webvision.com CNAME .
 *.api-webvision.com CNAME .
 api.brandogdigital.org CNAME .
 *.api.brandogdigital.org CNAME .
 api.kkxsnjd.click CNAME .
 *.api.kkxsnjd.click CNAME .
+api.kyamich.dev CNAME .
+*.api.kyamich.dev CNAME .
 api.mitsui.smt7mlj.pro CNAME .
 *.api.mitsui.smt7mlj.pro CNAME .
 api.mitsui.syzing.com CNAME .
@@ -794,6 +800,8 @@ authpush-whatsapp.com CNAME .
 *.authpush-whatsapp.com CNAME .
 authy-ledger.at CNAME .
 *.authy-ledger.at CNAME .
+avinfra.in CNAME .
+*.avinfra.in CNAME .
 aw.ktonemail.com CNAME .
 *.aw.ktonemail.com CNAME .
 await-whatsapp.com CNAME .
@@ -842,6 +850,8 @@ bepxt.in CNAME .
 *.bepxt.in CNAME .
 bepxt.online CNAME .
 *.bepxt.online CNAME .
+berimazinjagentleman.sbs CNAME .
+*.berimazinjagentleman.sbs CNAME .
 best-diwali-offers.shop CNAME .
 *.best-diwali-offers.shop CNAME .
 bestdiwalioffers.shop CNAME .
@@ -958,6 +968,8 @@ blue-night-ba2c.gradwest03.workers.dev CNAME .
 *.blue-night-ba2c.gradwest03.workers.dev CNAME .
 blueguradian.com CNAME .
 *.blueguradian.com CNAME .
+bluerocksfinance.live CNAME .
+*.bluerocksfinance.live CNAME .
 bluesoftsdocrks.com CNAME .
 *.bluesoftsdocrks.com CNAME .
 blv-whatsapp.com CNAME .
@@ -1388,6 +1400,8 @@ cik07-cos.7moor-fs2.com CNAME .
 *.cik07-cos.7moor-fs2.com CNAME .
 citrixplugins.blob.core.windows.net CNAME .
 *.citrixplugins.blob.core.windows.net CNAME .
+cjoxgdvexb6wyhih45rmzgeram0vijbb.lambda-url.us-east-1.on.aws CNAME .
+*.cjoxgdvexb6wyhih45rmzgeram0vijbb.lambda-url.us-east-1.on.aws CNAME .
 ck.wmgg5.com CNAME .
 *.ck.wmgg5.com CNAME .
 ckeuuat.cn CNAME .
@@ -2246,6 +2260,8 @@ forzaverification.com CNAME .
 *.forzaverification.com CNAME .
 foxnevs.com CNAME .
 *.foxnevs.com CNAME .
+fpnov4-zone.eastus.cloudapp.azure.com CNAME .
+*.fpnov4-zone.eastus.cloudapp.azure.com CNAME .
 fqelt.cn CNAME .
 *.fqelt.cn CNAME .
 fr-ca.webhwsapp-whatsapp.com CNAME .
@@ -2738,6 +2754,8 @@ join-zoomm.online CNAME .
 *.join-zoomm.online CNAME .
 joinushealth.com CNAME .
 *.joinushealth.com CNAME .
+joinzoommeeting.online CNAME .
+*.joinzoommeeting.online CNAME .
 joker-whatsapp.com CNAME .
 *.joker-whatsapp.com CNAME .
 jorvlen.cfd CNAME .
@@ -3790,6 +3808,8 @@ rpc-framework-check.cfd CNAME .
 *.rpc-framework-check.cfd CNAME .
 rqszsx.cn CNAME .
 *.rqszsx.cn CNAME .
+rsg63gpp.s3.us-east-2.amazonaws.com CNAME .
+*.rsg63gpp.s3.us-east-2.amazonaws.com CNAME .
 rsvpconnect-events.com CNAME .
 *.rsvpconnect-events.com CNAME .
 rthvrq.cc CNAME .
@@ -4436,6 +4456,8 @@ tergenerator.com CNAME .
 *.tergenerator.com CNAME .
 terms.webapi-whatsapp.com CNAME .
 *.terms.webapi-whatsapp.com CNAME .
+test-api.claude.gg CNAME .
+*.test-api.claude.gg CNAME .
 testenv-whatsapp.com CNAME .
 *.testenv-whatsapp.com CNAME .
 testenv1829.com CNAME .
@@ -5166,12 +5188,18 @@ zoominviteus07.pages.dev CNAME .
 *.zoominviteus07.pages.dev CNAME .
 zoomjoinlive.com CNAME .
 *.zoomjoinlive.com CNAME .
+zoommeet.live CNAME .
+*.zoommeet.live CNAME .
+zoommeetcall.live CNAME .
+*.zoommeetcall.live CNAME .
 zoommeeting.click CNAME .
 *.zoommeeting.click CNAME .
 zoommeetingconnect.click CNAME .
 *.zoommeetingconnect.click CNAME .
 zoomwebmeet.icu CNAME .
 *.zoomwebmeet.icu CNAME .
+zoomworkplace.sbs CNAME .
+*.zoomworkplace.sbs CNAME .
 zqfancu.cn CNAME .
 *.zqfancu.cn CNAME .
 zqfenen.cn CNAME .
@@ -5186,5 +5214,7 @@ zvh4.com CNAME .
 *.zvh4.com CNAME .
 zxc.pidanokbj.xyz CNAME .
 *.zxc.pidanokbj.xyz CNAME .
+zz.aiapi2025.top CNAME .
+*.zz.aiapi2025.top CNAME .
 zzpwttke.cn CNAME .
 *.zzpwttke.cn CNAME .
