@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-06 14:30:22 (UTC)</th>
+        <th colspan=4>2026-11-06 14:45:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 184 | 651 | 3181 | 44644 |
-| **:globe_with_meridians: Domains** | 176 | 557 | 2683 | 38432 |
+| **:link: URLs** | 185 | 652 | 3182 | 44645 |
+| **:globe_with_meridians: Domains** | 177 | 558 | 2684 | 38433 |
 | **:triangular_flag_on_post: IPs** | 17 | 347 | 2257 | 8074 |
-| **:1234: SHA256** | 8 | 192 | 560 | 3192 |
+| **:1234: SHA256** | 15 | 199 | 567 | 3199 |
 | **:1234: MD5** | 1 | 27 | 116 | 2076 |
 
 </div>
@@ -232,14 +232,14 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 299 |
 | **#2** | [LandscapeThreat](https://x.com/LandscapeThreat) | 24 |
-| **#3** | [Fact_Finder03](https://x.com/Fact_Finder03) | 11 |
-| **#4** | [copy_and_paster](https://x.com/copy_and_paster) | 10 |
-| **#5** | [smica83](https://x.com/smica83) | 9 |
+| **#3** | [smica83](https://x.com/smica83) | 12 |
+| **#4** | [Fact_Finder03](https://x.com/Fact_Finder03) | 11 |
+| **#5** | [copy_and_paster](https://x.com/copy_and_paster) | 10 |
 | **#6** | [Metemcyber](https://x.com/Metemcyber) | 8 |
-| **#7** | [suyog41](https://x.com/suyog41) | 7 |
-| **#8** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
+| **#7** | [malwrhunterteam](https://x.com/malwrhunterteam) | 8 |
+| **#8** | [suyog41](https://x.com/suyog41) | 7 |
 | **#9** | [masaomi346](https://x.com/masaomi346) | 5 |
-| **#10** | [phishunt_io](https://x.com/phishunt_io) | 3 |
+| **#10** | [nextronresearch](https://x.com/nextronresearch) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
