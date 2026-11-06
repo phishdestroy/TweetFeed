@@ -1,5 +1,5 @@
 {
-  "count": 6212,
+  "count": 6351,
   "dead_tweets": {
     "2107773993008669042": {
       "attempts": 2,
@@ -287,20 +287,6 @@
       "tweet_id": "2116907842125132115",
       "type": "sha256",
       "value": "04395a955f57f772cfb4d0d6161bf085c48e6d55ed6fc7cbbf522867099957d7"
-    },
-    "04eae0a7625bd280faee6cee1f09abaf77d278c16f4f4fae3c9cd607efbcb5a0": {
-      "confidence": 0.35,
-      "date": "2026-10-07 11:34:20",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Zip sample on MalwareBazaar named as a tax audit enterprise list, seen from India; likely a malicious lure.",
-      "threat_type": "malware",
-      "tweet_id": "2107796665843241420",
-      "type": "sha256",
-      "value": "04eae0a7625bd280faee6cee1f09abaf77d278c16f4f4fae3c9cd607efbcb5a0"
     },
     "05629f35dfe1409ea963c135581c228e3b71869b0707974244f6938af635a70e": {
       "confidence": 0.9,
@@ -3705,20 +3691,6 @@
       "type": "ip",
       "value": "106.14.113.87"
     },
-    "106.153.250.12": {
-      "confidence": 0.85,
-      "date": "2026-10-07 07:58:44",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Email phishing URL on securesup.online (NXDOMAIN), reported by a Japanese university blog.",
-      "threat_type": "phishing",
-      "tweet_id": "2107742407831982563",
-      "type": "ip",
-      "value": "106.153.250.12"
-    },
     "106.52.119.73": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -5250,6 +5222,21 @@
       "type": "ip",
       "value": "129.146.23.7"
     },
+    "129.225.118.236": {
+      "confidence": 0.7,
+      "date": "2026-11-06 10:18:08",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": "ShadowRAT",
+      "suggested_tags": [
+        "c2",
+        "rat"
+      ],
+      "summary": "IP address reported as a ShadowRAT command-and-control panel.",
+      "threat_type": "c2",
+      "tweet_id": "2118649124497285494",
+      "type": "ip",
+      "value": "129.225.118.236"
+    },
     "12b3322bf21f4d05de4b368cef6ac7f559afb7aeda057ebbcd6aaa9911684231": {
       "confidence": 0.55,
       "date": "2026-10-15 19:16:54",
@@ -5398,20 +5385,6 @@
       "tweet_id": "2116491566420467941",
       "type": "url",
       "value": "http://13.143.234.166"
-    },
-    "13.219.148.2": {
-      "confidence": 0.85,
-      "date": "2026-10-07 12:20:00",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site hosted on Amazon AWS infrastructure (AS14618) at infosever.linkup.store, reported via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2107808155828662329",
-      "type": "ip",
-      "value": "13.219.148.2"
     },
     "13.250.128.77": {
       "confidence": 0.75,
@@ -8113,6 +8086,22 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "146.148.122.37"
+    },
+    "14639b4cfc0ec9ca0426381af361ec4a3260fd941aeed936af0a382fefa7699f": {
+      "confidence": 0.7,
+      "date": "2026-11-06 08:04:14",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as a 'lustvoll TV' app, distributed via a phishing site.",
+      "threat_type": "malware",
+      "tweet_id": "2118615428851458416",
+      "type": "sha256",
+      "value": "14639b4cfc0ec9ca0426381af361ec4a3260fd941aeed936af0a382fefa7699f"
     },
     "147.15.15.226": {
       "confidence": 0.5,
@@ -14479,6 +14468,18 @@
       "type": "ip",
       "value": "198.52.244.44"
     },
+    "199.19.77.18": {
+      "confidence": 0.5,
+      "date": "2026-11-06 07:38:51",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Microsoft observed successful service principal sign-ins across tenants since Oct 28, 2026, mainly from two IP addresses in the 199.19.77.x range.",
+      "threat_type": "other",
+      "tweet_id": "2118609038128611810",
+      "type": "url",
+      "value": "http://199.19.77.18"
+    },
     "199.19.77.84": {
       "confidence": 0.6,
       "date": "2026-11-03 21:31:53",
@@ -14505,21 +14506,6 @@
       "tweet_id": "2117956883139252716",
       "type": "sha256",
       "value": "19e11045972770ea7959f2dc520896cdefef15f805aa5a83353aee337437efdd"
-    },
-    "1a6bcdc196d179125bf3dee63ec53b7bf027b7816f9fd43e7b15353e2bd4a3ce": {
-      "confidence": 0.3,
-      "date": "2026-10-07 10:23:57",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "ransomware",
-        "malware"
-      ],
-      "summary": "VirusTotal file hash tagged as ransomware/malware with no further context.",
-      "threat_type": "ransomware",
-      "tweet_id": "2107778952999960676",
-      "type": "sha256",
-      "value": "1a6bcdc196d179125bf3dee63ec53b7bf027b7816f9fd43e7b15353e2bd4a3ce"
     },
     "1aa47ce02867f847227839b60d396ca96dac60372b0cd26b78b71a34473bb079": {
       "confidence": 0.4,
@@ -14597,6 +14583,20 @@
       "tweet_id": "2112738026938069150",
       "type": "md5",
       "value": "1d617f5fda401b5bed0a63550f9de05d"
+    },
+    "1da2d3c8caa8ed7d7260494e2314c8671a9e6a689d87dd6338966baa6286eb66": {
+      "confidence": 0.4,
+      "date": "2026-11-06 10:11:22",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Executable 'System_Service.exe' seen from Turkey and reported on MalwareBazaar; family not stated.",
+      "threat_type": "malware",
+      "tweet_id": "2118647419965427767",
+      "type": "sha256",
+      "value": "1da2d3c8caa8ed7d7260494e2314c8671a9e6a689d87dd6338966baa6286eb66"
     },
     "1db09b3ecd24ee54c1c03932f4c2f71c6868b871bd3a709c42522ce1c974a1c9": {
       "confidence": 0.45,
@@ -15323,6 +15323,34 @@
       "tweet_id": "2112131195383304377",
       "type": "url",
       "value": "http://202.61.85.173:3668"
+    },
+    "202.61.85.39": {
+      "confidence": 0.7,
+      "date": "2026-11-06 10:39:54",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir"
+      ],
+      "summary": "Open directory exposing a 'Cute File Explorer' web interface on an IP address and port 8934.",
+      "threat_type": "other",
+      "tweet_id": "2118654603587649574",
+      "type": "ip",
+      "value": "202.61.85.39"
+    },
+    "202.61.85.39:8934": {
+      "confidence": 0.7,
+      "date": "2026-11-06 10:39:54",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir"
+      ],
+      "summary": "Open directory exposing a 'Cute File Explorer' web interface on an IP address and port 8934.",
+      "threat_type": "other",
+      "tweet_id": "2118654603587649574",
+      "type": "url",
+      "value": "http://202.61.85.39:8934"
     },
     "202.79.168.14": {
       "confidence": 0.5,
@@ -16685,6 +16713,20 @@
       "type": "ip",
       "value": "220.247.130.43"
     },
+    "221b82ea2ab76f5155a2537bc0c635599663229152c0a21c44d1e5313bd23f7b": {
+      "confidence": 0.5,
+      "date": "2026-11-06 11:46:59",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious HTA file 'lista-clientes4025.hta' reported on MalwareBazaar; sample reportedly undetected on VirusTotal at time of posting.",
+      "threat_type": "malware",
+      "tweet_id": "2118671483144667525",
+      "type": "sha256",
+      "value": "221b82ea2ab76f5155a2537bc0c635599663229152c0a21c44d1e5313bd23f7b"
+    },
     "222.255.137.82": {
       "confidence": 0.85,
       "date": "2026-10-25 08:01:03",
@@ -17252,20 +17294,6 @@
       "tweet_id": "2117904212268884031",
       "type": "sha256",
       "value": "23e64c7e4425c434b5cce1949662b797dcbbd16b068ee84527c1666023879efa"
-    },
-    "2416d60ed2e9b8d0f040a232fe8ca2ad82a5392970d3c87ae5c55225231b7b46": {
-      "confidence": 0.6,
-      "date": "2026-10-07 08:19:41",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "RAR archive posing as a pentest report, likely exploiting WinRAR vulnerabilities CVE-2025-8088 and CVE-2025-6218.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2107747678234783792",
-      "type": "sha256",
-      "value": "2416d60ed2e9b8d0f040a232fe8ca2ad82a5392970d3c87ae5c55225231b7b46"
     },
     "2433580470b08228ae74cddb364bf41cbe1e6aa26c9b3321271a458965594086": {
       "confidence": 0.6,
@@ -18303,6 +18331,20 @@
       "type": "sha256",
       "value": "2fa7498a3bda849c8c5a0e0869708ff113379d54197109a5cdfaea0155e878c9"
     },
+    "2fcfbd.991jili.site": {
+      "confidence": 0.85,
+      "date": "2026-11-06 05:35:03",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Amazon-themed phishing site targeting Japanese users, hosted on an AS45102 IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2118577882578710918",
+      "type": "domain",
+      "value": "2fcfbd.991jili.site"
+    },
     "2stdiwali-bigsavingsale.info": {
       "confidence": 0.75,
       "date": "2026-11-05 21:08:55",
@@ -18380,6 +18422,20 @@
       "tweet_id": "2109263406956155061",
       "type": "url",
       "value": "http://3.147.84.164"
+    },
+    "3.39.131.123": {
+      "confidence": 0.7,
+      "date": "2026-11-06 10:15:12",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": "Hackmin",
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP address and domain reported as a Hackmin C2 panel.",
+      "threat_type": "c2",
+      "tweet_id": "2118648387725906371",
+      "type": "ip",
+      "value": "3.39.131.123"
     },
     "301bd9f16f94feedfae7a946a14bac38cb73c43efe6117bc5586835af03d7d6f": {
       "confidence": 0.2,
@@ -27171,6 +27227,22 @@
       "type": "sha256",
       "value": "351395a3055b183263aa2e4cc2245fdc0ffd249b0011ac65bdc8d471d1b5b4c5"
     },
+    "353fe1edf3d8f0699f855eda6b1cb22ce7ace94a9b913e806958eefbf1b9abc1": {
+      "confidence": 0.75,
+      "date": "2026-11-06 08:29:48",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": "Odyssey Stealer",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2"
+      ],
+      "summary": "Odyssey macOS stealer samples with C2 and in-the-wild activity at an IP address.",
+      "threat_type": "malware",
+      "tweet_id": "2118621862615818548",
+      "type": "sha256",
+      "value": "353fe1edf3d8f0699f855eda6b1cb22ce7ace94a9b913e806958eefbf1b9abc1"
+    },
     "355ee70e091b82b987d09db3cf8ba4176da316c220a72742f74a9e604199c79b": {
       "confidence": 0.55,
       "date": "2026-10-19 10:38:13",
@@ -28663,20 +28735,6 @@
       "type": "ip",
       "value": "43.131.232.24"
     },
-    "43.133.163.30": {
-      "confidence": 0.9,
-      "date": "2026-10-07 07:09:43",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "JR East / JRE POINT phishing at bcyukonexpeditions.com, with a redirect to another IP.",
-      "threat_type": "phishing",
-      "tweet_id": "2107730070194532701",
-      "type": "ip",
-      "value": "43.133.163.30"
-    },
     "43.133.47.87": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -29413,6 +29471,36 @@
       "type": "ip",
       "value": "45.137.194.154"
     },
+    "45.137.198.160": {
+      "confidence": 0.6,
+      "date": "2026-11-06 10:14:39",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Executable 'kuzeyaracsigorta.exe' seen from Turkey on MalwareBazaar, communicating with a C2 at an IP address on port 1881.",
+      "threat_type": "malware",
+      "tweet_id": "2118648248889958770",
+      "type": "ip",
+      "value": "45.137.198.160"
+    },
+    "45.137.198.160:1881": {
+      "confidence": 0.6,
+      "date": "2026-11-06 10:14:39",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Executable 'kuzeyaracsigorta.exe' seen from Turkey on MalwareBazaar, communicating with a C2 at an IP address on port 1881.",
+      "threat_type": "malware",
+      "tweet_id": "2118648248889958770",
+      "type": "url",
+      "value": "http://45.137.198.160:1881"
+    },
     "45.138.12.24": {
       "confidence": 0.7,
       "date": "2026-11-05 12:59:56",
@@ -29591,6 +29679,20 @@
       "tweet_id": "2113720731897119108",
       "type": "url",
       "value": "http://45.150.109.94"
+    },
+    "45.151.74.183": {
+      "confidence": 0.6,
+      "date": "2026-11-06 10:08:27",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP address and port 8081 reported as a command-and-control panel.",
+      "threat_type": "c2",
+      "tweet_id": "2118646689401835683",
+      "type": "ip",
+      "value": "45.151.74.183"
     },
     "45.152.149.66": {
       "confidence": 0.85,
@@ -30559,6 +30661,20 @@
       "type": "url",
       "value": "http://47.74.7.119"
     },
+    "47.74.9.184": {
+      "confidence": 0.85,
+      "date": "2026-11-06 05:22:37",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Matsui Securities targeting Japanese users, hosted on an AS45102 IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2118574753263104388",
+      "type": "url",
+      "value": "http://47.74.9.184"
+    },
     "47.76.120.34": {
       "confidence": 0.7,
       "date": "2026-11-03 06:56:19",
@@ -30599,6 +30715,20 @@
       "tweet_id": "2110633607232684124",
       "type": "url",
       "value": "http://47.79.33.3"
+    },
+    "47.79.90.89": {
+      "confidence": 0.85,
+      "date": "2026-11-06 05:35:03",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Amazon-themed phishing site targeting Japanese users, hosted on an AS45102 IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2118577882578710918",
+      "type": "url",
+      "value": "http://47.79.90.89"
     },
     "47.94.132.198": {
       "confidence": 0.5,
@@ -31004,6 +31134,20 @@
       "type": "sha256",
       "value": "4e472f1a5d14cf690e18943c0fede03185b0faf82429b7ac1ee81e5b7639139c"
     },
+    "4e494f2120b292de0a074f968cff42c1eb459064d322f2add63adca92cea17af": {
+      "confidence": 0.5,
+      "date": "2026-11-06 09:13:34",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious CMD script 'CKTRUCKINGLLC.cmd' on MalwareBazaar associated with the domain beta-into.space.",
+      "threat_type": "malware",
+      "tweet_id": "2118632874240888867",
+      "type": "sha256",
+      "value": "4e494f2120b292de0a074f968cff42c1eb459064d322f2add63adca92cea17af"
+    },
     "4e6489e9161e0abff2f2bc40a4fcc3489cc69371b099fd0f2756fc6a607cfcc0": {
       "confidence": 0.6,
       "date": "2026-10-29 12:14:17",
@@ -31034,6 +31178,21 @@
       "tweet_id": "2112834452321632688",
       "type": "sha256",
       "value": "4f0b4dae2cc3ace8d80bdd50b2df1b8421556e325ca65ac43037113cc61eb6ee"
+    },
+    "4rfgcfy780ok.sportsonotheweb.net": {
+      "confidence": 0.7,
+      "date": "2026-11-06 05:46:55",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": "Kimsuky",
+      "suggested_tags": [
+        "kimsuky",
+        "apt"
+      ],
+      "summary": "Kimsuky-attributed infrastructure: several free-hosting domains and two associated GitHub accounts.",
+      "threat_type": "malware",
+      "tweet_id": "2118580871766978652",
+      "type": "domain",
+      "value": "4rfgcfy780ok.sportsonotheweb.net"
     },
     "4today-diwalisales.icu": {
       "confidence": 0.75,
@@ -31078,21 +31237,6 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "5.104.86.108"
-    },
-    "5.175.169.152": {
-      "confidence": 0.6,
-      "date": "2026-10-07 08:40:36",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malicious .bat file disguised as a payment confirmation slip, downloaded from a compromised site, with a C2 IP reported.",
-      "threat_type": "malware",
-      "tweet_id": "2107752941801054519",
-      "type": "url",
-      "value": "http://5.175.169.152"
     },
     "5.175.192.232": {
       "confidence": 0.5,
@@ -31399,20 +31543,6 @@
       "type": "ip",
       "value": "51.159.4.12"
     },
-    "51.21.167.4": {
-      "confidence": 0.9,
-      "date": "2026-10-07 07:01:32",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Google phishing site on a DuckDNS subdomain hosted on Amazon in Sweden.",
-      "threat_type": "phishing",
-      "tweet_id": "2107728010660987332",
-      "type": "ip",
-      "value": "51.21.167.4"
-    },
     "51.68.132.244": {
       "confidence": 0.85,
       "date": "2026-10-30 00:29:57",
@@ -31526,20 +31656,6 @@
       "tweet_id": "2108815108486930562",
       "type": "ip",
       "value": "52.22.145.238"
-    },
-    "52.253.112.116": {
-      "confidence": 0.9,
-      "date": "2026-10-07 07:09:43",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "JR East / JRE POINT phishing at bcyukonexpeditions.com, with a redirect to another IP.",
-      "threat_type": "phishing",
-      "tweet_id": "2107730070194532701",
-      "type": "ip",
-      "value": "52.253.112.116"
     },
     "52.253.119.229": {
       "confidence": 0.5,
@@ -32094,21 +32210,6 @@
       "type": "sha256",
       "value": "590942bc868e9ee89884bb183de4b4c49dbf96d51578a4936d1fa88f422d3b1f"
     },
-    "5939b15fae5fd976387431b2c6d67ba2e1ee533c05529d33c65c320fbd0ce0a7": {
-      "confidence": 0.85,
-      "date": "2026-10-07 11:48:49",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": "Acsogenixx",
-      "suggested_tags": [
-        "trojan",
-        "malware"
-      ],
-      "summary": "Malicious npm package 'hardhat-kex' 2.0.1 mimicking pino delivers an obfuscated JS trojan payload (Acsogenixx) in a supply-chain attack.",
-      "threat_type": "malware",
-      "tweet_id": "2107800310509101170",
-      "type": "sha256",
-      "value": "5939b15fae5fd976387431b2c6d67ba2e1ee533c05529d33c65c320fbd0ce0a7"
-    },
     "59a364ccc3aa269831ba8915abbb060a32de7ea27c74ef69b8c21331bb71f3ea": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -32166,20 +32267,6 @@
       "tweet_id": "2110300468928729479",
       "type": "sha256",
       "value": "5ab77d640643354800ac7a4a31eb407bcc2b56d70d0e9c4853bba07b1d58cb4d"
-    },
-    "5b7e8eff2805f6fe579abda73e84f752457d621d908d016c0be5d74f4d12e2ba": {
-      "confidence": 0.35,
-      "date": "2026-10-07 08:36:03",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Zip sample on MalwareBazaar named as an Income Tax Department file, seen from Algeria; likely a malicious lure.",
-      "threat_type": "malware",
-      "tweet_id": "2107751798479958347",
-      "type": "sha256",
-      "value": "5b7e8eff2805f6fe579abda73e84f752457d621d908d016c0be5d74f4d12e2ba"
     },
     "5b9e3dd417961cc21ebd0d146796a64622a840cfd035e5ee0a68535d6b463a43": {
       "confidence": 0.45,
@@ -33066,22 +33153,6 @@
       "type": "sha256",
       "value": "67c10a4f7db7fe55953b9b57492d4e6aa9cf0e20f492d193328def2662840c97"
     },
-    "6827edb54e2310ae0179751b9204ec58a792fb3dbfb410dfaa2c435cc8e9d4c0": {
-      "confidence": 0.75,
-      "date": "2026-10-07 12:05:54",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as Rakuten, distributed via several .cn domains; also tagged as phishing.",
-      "threat_type": "malware",
-      "tweet_id": "2107804609066782864",
-      "type": "sha256",
-      "value": "6827edb54e2310ae0179751b9204ec58a792fb3dbfb410dfaa2c435cc8e9d4c0"
-    },
     "682b1041b4b7f6e78ec33dab05dc7781d0daaaf2801cb92629302bf4fad97a92": {
       "confidence": 0.7,
       "date": "2026-10-10 05:05:48",
@@ -33577,6 +33648,20 @@
       "type": "sha256",
       "value": "717ce10ab324d01bc51602cf360ce03854ec607a360548bb764b623293a4de45"
     },
+    "72.47.208.142": {
+      "confidence": 0.85,
+      "date": "2026-11-06 08:01:20",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Amazon-impersonating phishing site hosted on a GoDaddy-registered IP in the United States.",
+      "threat_type": "phishing",
+      "tweet_id": "2118614698107039985",
+      "type": "ip",
+      "value": "72.47.208.142"
+    },
     "725fa840a70c47196797db5977b2d99654063d01310e23d0887bfc4054e143cc": {
       "confidence": 0.35,
       "date": "2026-10-21 20:39:38",
@@ -33775,21 +33860,6 @@
       "type": "md5",
       "value": "751cb36cbed40e557692e663cc678f45"
     },
-    "75225f1bb13b7618fef070e7c4f2b000": {
-      "confidence": 0.8,
-      "date": "2026-10-07 09:51:12",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": "MioLab",
-      "suggested_tags": [
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "MioLab macOS stealer distributed as WidgetFlow.dmg, with a separate C2 domain.",
-      "threat_type": "malware",
-      "tweet_id": "2107770708491198831",
-      "type": "md5",
-      "value": "75225f1bb13b7618fef070e7c4f2b000"
-    },
     "75ad088c172a0c1bd54753547a25115b93edd93c520594d1a35cfc945136297e": {
       "confidence": 0.45,
       "date": "2026-10-17 20:27:40",
@@ -33938,6 +34008,20 @@
       "type": "url",
       "value": "http://77.90.185.20"
     },
+    "774f4828b8c589a78a624bb70354ed40888802c6dfc98510e15e8513b468caf5": {
+      "confidence": 0.45,
+      "date": "2026-11-06 10:31:12",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Executable 'hackopilot.exe' seen from Ukraine, branded as a 'Pentest AI Agent - Autonomous Red Team Framework'; reported on MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2118652410906214586",
+      "type": "sha256",
+      "value": "774f4828b8c589a78a624bb70354ed40888802c6dfc98510e15e8513b468caf5"
+    },
     "77e60b111fe5c9ceab77bd87ac1763c71bfa86191655a454e7903d29717ecd90": {
       "confidence": 0.8,
       "date": "2026-10-18 12:48:57",
@@ -33967,21 +34051,6 @@
       "tweet_id": "2118432402015948849",
       "type": "ip",
       "value": "78.141.211.155"
-    },
-    "78.17.93.224": {
-      "confidence": 0.8,
-      "date": "2026-10-07 10:42:04",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "New ClickFix variant abusing PowerShell (Get-Command, Invoke-RestMethod, Invoke-Expression) to fetch and run remote code from listed domains and IPs.",
-      "threat_type": "malware",
-      "tweet_id": "2107783512745193569",
-      "type": "url",
-      "value": "http://78.17.93.224"
     },
     "782b519154f11ae211cae0e8c4f0c9d8ca1c078d904684bc8923b978c6813898": {
       "confidence": 0.85,
@@ -34068,6 +34137,21 @@
       "tweet_id": "2117638051925221815",
       "type": "ip",
       "value": "79.99.164.4"
+    },
+    "79739a3d1e29136d8697f20ef6396a4a4f790659874cdb43c9cf995a31b3f660": {
+      "confidence": 0.6,
+      "date": "2026-11-06 10:14:39",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Executable 'kuzeyaracsigorta.exe' seen from Turkey on MalwareBazaar, communicating with a C2 at an IP address on port 1881.",
+      "threat_type": "malware",
+      "tweet_id": "2118648248889958770",
+      "type": "sha256",
+      "value": "79739a3d1e29136d8697f20ef6396a4a4f790659874cdb43c9cf995a31b3f660"
     },
     "7997f060b20c6e84a31552af0ca63fe29f4cbd5815decf48a5218175abb5dcd9": {
       "confidence": 0.7,
@@ -35083,21 +35167,6 @@
       "type": "url",
       "value": "http://82.47.180.159"
     },
-    "823fcf547a03d08d256480a97d673c0b62ccef9723f8f830dd66ccd3df5d07df": {
-      "confidence": 0.6,
-      "date": "2026-10-07 08:40:36",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malicious .bat file disguised as a payment confirmation slip, downloaded from a compromised site, with a C2 IP reported.",
-      "threat_type": "malware",
-      "tweet_id": "2107752941801054519",
-      "type": "sha256",
-      "value": "823fcf547a03d08d256480a97d673c0b62ccef9723f8f830dd66ccd3df5d07df"
-    },
     "82ad640cd9ed8709766babc77413baa9": {
       "confidence": 0.6,
       "date": "2026-10-28 18:41:18",
@@ -35311,6 +35380,22 @@
       "tweet_id": "2118432402015948849",
       "type": "ip",
       "value": "85.137.56.245"
+    },
+    "85.193.68.244": {
+      "confidence": 0.75,
+      "date": "2026-11-06 08:29:48",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": "Odyssey Stealer",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2"
+      ],
+      "summary": "Odyssey macOS stealer samples with C2 and in-the-wild activity at an IP address.",
+      "threat_type": "malware",
+      "tweet_id": "2118621862615818548",
+      "type": "url",
+      "value": "http://85.193.68.244"
     },
     "85.203.21.100": {
       "confidence": 0.5,
@@ -35813,21 +35898,6 @@
       "tweet_id": "2108569955121963212",
       "type": "sha256",
       "value": "85e97d5219e8646c3b823ed96295eaee02d79666d59fb9689b27de0d47e3e077"
-    },
-    "86.107.168.146": {
-      "confidence": 0.8,
-      "date": "2026-10-07 10:42:04",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "New ClickFix variant abusing PowerShell (Get-Command, Invoke-RestMethod, Invoke-Expression) to fetch and run remote code from listed domains and IPs.",
-      "threat_type": "malware",
-      "tweet_id": "2107783512745193569",
-      "type": "url",
-      "value": "http://86.107.168.146"
     },
     "86a0ed5fc0336d6ade1ce4ad3688ef73c3dde04fce4c6daed761a796f347c66a": {
       "confidence": 0.8,
@@ -37270,6 +37340,20 @@
       "type": "sha256",
       "value": "97ed374fe4ea6c8bd095f4402a4afb94d0fd33eaff806886cccd616c1bdef8cc"
     },
+    "99.91.221.237": {
+      "confidence": 0.6,
+      "date": "2026-11-06 10:01:06",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP address and port 3000 reported as a command-and-control panel.",
+      "threat_type": "c2",
+      "tweet_id": "2118644836438036611",
+      "type": "ip",
+      "value": "99.91.221.237"
+    },
     "994becb3008d8dacd064bf699bd2acb55b59e213143451f67b808edc261c4511": {
       "confidence": 0.4,
       "date": "2026-10-10 20:50:40",
@@ -38616,34 +38700,6 @@
       "type": "domain",
       "value": "account-booking.vercel.app"
     },
-    "account-icloud.cquup.com": {
-      "confidence": 0.9,
-      "date": "2026-10-07 09:47:54",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Apple iCloud phishing page targeting Japanese users at account-icloud.cquup.com, reported via Team NA4Sec.",
-      "threat_type": "phishing",
-      "tweet_id": "2107769879021707522",
-      "type": "domain",
-      "value": "account-icloud.cquup.com"
-    },
-    "account-icloud.cquup.com/login": {
-      "confidence": 0.9,
-      "date": "2026-10-07 09:47:54",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Apple iCloud phishing page targeting Japanese users at account-icloud.cquup.com, reported via Team NA4Sec.",
-      "threat_type": "phishing",
-      "tweet_id": "2107769879021707522",
-      "type": "url",
-      "value": "https://account-icloud.cquup.com/login/"
-    },
     "account.payoneer.com": {
       "confidence": 0.6,
       "date": "2026-10-28 13:27:07",
@@ -38715,20 +38771,6 @@
       "tweet_id": "2114043690020700630",
       "type": "domain",
       "value": "accounts-google-signin-recovery.com"
-    },
-    "accounts-google-signin.duckdns.org": {
-      "confidence": 0.9,
-      "date": "2026-10-07 07:01:32",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Google phishing site on a DuckDNS subdomain hosted on Amazon in Sweden.",
-      "threat_type": "phishing",
-      "tweet_id": "2107728010660987332",
-      "type": "domain",
-      "value": "accounts-google-signin.duckdns.org"
     },
     "acd02a95696d544d9bcf6e59285e92000fe8c6071d3b4321711f5daef694dd01": {
       "confidence": 0.7,
@@ -38845,6 +38887,36 @@
       "type": "sha256",
       "value": "ad4058f2052a58585c9f96727b6b781f3657814de517f07943a4d7645d5ca9a7"
     },
+    "add-mfa.com": {
+      "confidence": 0.85,
+      "date": "2026-11-06 09:44:01",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "eSentire report on vishing combined with AiTM phishing for account compromise and extortion, using passkey/MFA-themed lookalike domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2118640538286985396",
+      "type": "domain",
+      "value": "add-mfa.com"
+    },
+    "addoktapasskey.com": {
+      "confidence": 0.85,
+      "date": "2026-11-06 09:44:01",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "eSentire report on vishing combined with AiTM phishing for account compromise and extortion, using passkey/MFA-themed lookalike domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2118640538286985396",
+      "type": "domain",
+      "value": "addoktapasskey.com"
+    },
     "addsecureapps.com": {
       "confidence": 0.6,
       "date": "2026-10-25 16:52:45",
@@ -38858,6 +38930,21 @@
       "tweet_id": "2114399778859602386",
       "type": "domain",
       "value": "addsecureapps.com"
+    },
+    "addyourpasskey.com": {
+      "confidence": 0.85,
+      "date": "2026-11-06 09:44:01",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "eSentire report on vishing combined with AiTM phishing for account compromise and extortion, using passkey/MFA-themed lookalike domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2118640538286985396",
+      "type": "domain",
+      "value": "addyourpasskey.com"
     },
     "admin-heteml.com": {
       "confidence": 0.85,
@@ -44468,6 +44555,20 @@
       "type": "url",
       "value": "https://amazing-rooms.com/Kendingsmrker.rar"
     },
+    "amazon.cgiagent.com": {
+      "confidence": 0.85,
+      "date": "2026-11-06 08:01:20",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Amazon-impersonating phishing site hosted on a GoDaddy-registered IP in the United States.",
+      "threat_type": "phishing",
+      "tweet_id": "2118614698107039985",
+      "type": "domain",
+      "value": "amazon.cgiagent.com"
+    },
     "amazonresellingtraining.com": {
       "confidence": 0.4,
       "date": "2026-10-21 16:34:48",
@@ -45743,6 +45844,216 @@
       "type": "domain",
       "value": "appimg-whatsapp.com"
     },
+    "apple-ab.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ab.top"
+    },
+    "apple-ac.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ac.top"
+    },
+    "apple-ad.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ad.top"
+    },
+    "apple-af.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-af.top"
+    },
+    "apple-ag.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ag.top"
+    },
+    "apple-ah.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ah.top"
+    },
+    "apple-aj.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-aj.top"
+    },
+    "apple-ak.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ak.top"
+    },
+    "apple-al.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-al.top"
+    },
+    "apple-an.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-an.top"
+    },
+    "apple-av.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-av.top"
+    },
+    "apple-ax.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ax.top"
+    },
+    "apple-az.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-az.top"
+    },
+    "apple-bk.com": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-bk.com"
+    },
+    "apple-br.site": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-br.site"
+    },
     "apple-condition.com": {
       "confidence": 0.92,
       "date": "2026-11-03 15:30:10",
@@ -45775,6 +46086,762 @@
       "type": "domain",
       "value": "apple-conditions.com"
     },
+    "apple-de.com": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-de.com"
+    },
+    "apple-dk.cfd": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-dk.cfd"
+    },
+    "apple-dk.com": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-dk.com"
+    },
+    "apple-dk.xyz": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-dk.xyz"
+    },
+    "apple-dm.xyz": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-dm.xyz"
+    },
+    "apple-gd.xyz": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-gd.xyz"
+    },
+    "apple-hz.com": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-hz.com"
+    },
+    "apple-id.autos": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-id.autos"
+    },
+    "apple-id.beer": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-id.beer"
+    },
+    "apple-id.bid": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-id.bid"
+    },
+    "apple-id.casa": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-id.casa"
+    },
+    "apple-id.date": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-id.date"
+    },
+    "apple-id.hair": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-id.hair"
+    },
+    "apple-id.luxe": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-id.luxe"
+    },
+    "apple-id.mobi": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-id.mobi"
+    },
+    "apple-id.skin": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-id.skin"
+    },
+    "apple-id.work": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-id.work"
+    },
+    "apple-id.yoga": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-id.yoga"
+    },
+    "apple-ip.ink": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ip.ink"
+    },
+    "apple-jh.com": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-jh.com"
+    },
+    "apple-jp.cyou": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-jp.cyou"
+    },
+    "apple-kf.com": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-kf.com"
+    },
+    "apple-km.com": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-km.com"
+    },
+    "apple-kz.life": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-kz.life"
+    },
+    "apple-ld.us": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ld.us"
+    },
+    "apple-mn.com": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-mn.com"
+    },
+    "apple-ra.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ra.top"
+    },
+    "apple-rb.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-rb.top"
+    },
+    "apple-rc.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-rc.top"
+    },
+    "apple-rd.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-rd.top"
+    },
+    "apple-rf.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-rf.top"
+    },
+    "apple-rg.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-rg.top"
+    },
+    "apple-rh.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-rh.top"
+    },
+    "apple-ri.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ri.top"
+    },
+    "apple-rj.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-rj.top"
+    },
+    "apple-rk.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-rk.top"
+    },
+    "apple-rl.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-rl.top"
+    },
+    "apple-rm.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-rm.top"
+    },
+    "apple-rn.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-rn.top"
+    },
+    "apple-ro.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ro.top"
+    },
+    "apple-rp.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-rp.top"
+    },
+    "apple-rs.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-rs.top"
+    },
+    "apple-ru.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ru.top"
+    },
+    "apple-rv.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-rv.top"
+    },
+    "apple-rx.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-rx.top"
+    },
+    "apple-rz.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-rz.top"
+    },
+    "apple-se.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-se.top"
+    },
+    "apple-si.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-si.top"
+    },
+    "apple-sq.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-sq.top"
+    },
+    "apple-sr.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-sr.top"
+    },
+    "apple-st.beer": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-st.beer"
+    },
+    "apple-st.com": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-st.com"
+    },
+    "apple-st.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-st.top"
+    },
+    "apple-su.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-su.top"
+    },
     "apple-support.today": {
       "confidence": 0.65,
       "date": "2026-10-20 13:14:11",
@@ -45788,6 +46855,1084 @@
       "tweet_id": "2112532836871782885",
       "type": "domain",
       "value": "apple-support.today"
+    },
+    "apple-sw.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-sw.top"
+    },
+    "apple-sy.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-sy.top"
+    },
+    "apple-sz.cyou": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-sz.cyou"
+    },
+    "apple-ta.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ta.top"
+    },
+    "apple-tb.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tb.top"
+    },
+    "apple-tc.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tc.top"
+    },
+    "apple-td.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-td.top"
+    },
+    "apple-te.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-te.top"
+    },
+    "apple-tf.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tf.top"
+    },
+    "apple-tg.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tg.top"
+    },
+    "apple-th.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-th.top"
+    },
+    "apple-ti.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ti.top"
+    },
+    "apple-tj.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tj.top"
+    },
+    "apple-tk.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tk.top"
+    },
+    "apple-tk.win": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tk.win"
+    },
+    "apple-tl.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tl.top"
+    },
+    "apple-tm.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tm.top"
+    },
+    "apple-tn.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tn.top"
+    },
+    "apple-to.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-to.top"
+    },
+    "apple-tp.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tp.top"
+    },
+    "apple-tq.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tq.top"
+    },
+    "apple-tr.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tr.top"
+    },
+    "apple-tu.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tu.top"
+    },
+    "apple-tv.com": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tv.com"
+    },
+    "apple-tw.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tw.top"
+    },
+    "apple-tx.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tx.top"
+    },
+    "apple-tz.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-tz.top"
+    },
+    "apple-us.store": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-us.store"
+    },
+    "apple-xa.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xa.top"
+    },
+    "apple-xc.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xc.top"
+    },
+    "apple-xd.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xd.top"
+    },
+    "apple-xe.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xe.top"
+    },
+    "apple-xf.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xf.top"
+    },
+    "apple-xg.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xg.top"
+    },
+    "apple-xh.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xh.top"
+    },
+    "apple-xi.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xi.top"
+    },
+    "apple-xj.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xj.top"
+    },
+    "apple-xk.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xk.top"
+    },
+    "apple-xl.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xl.top"
+    },
+    "apple-xo.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xo.top"
+    },
+    "apple-xp.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xp.top"
+    },
+    "apple-xq.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xq.top"
+    },
+    "apple-xr.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xr.top"
+    },
+    "apple-xs.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xs.top"
+    },
+    "apple-xt.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xt.top"
+    },
+    "apple-xu.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xu.top"
+    },
+    "apple-xw.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xw.top"
+    },
+    "apple-xx.tl": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-xx.tl"
+    },
+    "apple-ye.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ye.top"
+    },
+    "apple-yi.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-yi.top"
+    },
+    "apple-yo.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-yo.top"
+    },
+    "apple-yq.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-yq.top"
+    },
+    "apple-yr.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-yr.top"
+    },
+    "apple-yt.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-yt.top"
+    },
+    "apple-yu.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-yu.top"
+    },
+    "apple-yw.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-yw.top"
+    },
+    "apple-zb.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zb.top"
+    },
+    "apple-zc.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zc.top"
+    },
+    "apple-zd.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zd.top"
+    },
+    "apple-ze.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-ze.top"
+    },
+    "apple-zf.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zf.top"
+    },
+    "apple-zg.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zg.top"
+    },
+    "apple-zh.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zh.top"
+    },
+    "apple-zi.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zi.top"
+    },
+    "apple-zj.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zj.top"
+    },
+    "apple-zk.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zk.top"
+    },
+    "apple-zm.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zm.top"
+    },
+    "apple-zn.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zn.top"
+    },
+    "apple-zo.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zo.top"
+    },
+    "apple-zp.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zp.top"
+    },
+    "apple-zq.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zq.top"
+    },
+    "apple-zr.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zr.top"
+    },
+    "apple-zt.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zt.top"
+    },
+    "apple-zu.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zu.top"
+    },
+    "apple-zv.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zv.top"
+    },
+    "apple-zx.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zx.top"
+    },
+    "apple-zy.top": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:57:52",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roughly 145 apple-xx domains across multiple TLDs, suspected Apple brand impersonation infrastructure; malicious activity not yet confirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2118613824651878639",
+      "type": "domain",
+      "value": "apple-zy.top"
     },
     "appnet-whatsapp.com": {
       "confidence": 0.65,
@@ -46426,22 +48571,6 @@
       "type": "url",
       "value": "https://awedsaklsaq.onrender.com/f/i5HXAVYP"
     },
-    "aykfm.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-07 12:05:54",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as Rakuten, distributed via several .cn domains; also tagged as phishing.",
-      "threat_type": "malware",
-      "tweet_id": "2107804609066782864",
-      "type": "domain",
-      "value": "aykfm.cn"
-    },
     "azocnrq.cn": {
       "confidence": 0.85,
       "date": "2026-10-15 23:25:14",
@@ -46513,21 +48642,6 @@
       "tweet_id": "2109539568072483256",
       "type": "domain",
       "value": "a\u0440\u0440\u04cf\u04e9.com"
-    },
-    "b01c59ae0a76527503799aab109bd701e34f260d192722a8cf12c97a4e6d208c": {
-      "confidence": 0.85,
-      "date": "2026-10-07 11:48:49",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": "Acsogenixx",
-      "suggested_tags": [
-        "trojan",
-        "malware"
-      ],
-      "summary": "Malicious npm package 'hardhat-kex' 2.0.1 mimicking pino delivers an obfuscated JS trojan payload (Acsogenixx) in a supply-chain attack.",
-      "threat_type": "malware",
-      "tweet_id": "2107800310509101170",
-      "type": "sha256",
-      "value": "b01c59ae0a76527503799aab109bd701e34f260d192722a8cf12c97a4e6d208c"
     },
     "b0d8467f2f2ed6a104e45b828b8f3c9637f8cd73a66166c3441aefb336906e95": {
       "confidence": 0.75,
@@ -46603,21 +48717,6 @@
       "tweet_id": "2118333858328322260",
       "type": "sha256",
       "value": "b318e8af1ad0a5991c98db40a9565cbb421808b61521adaa5910d7fdc26605b9"
-    },
-    "b3c1f64cb527514abd74bf39e4025b59677e3289346735f06d79ba3c95f010b2": {
-      "confidence": 0.85,
-      "date": "2026-10-07 11:48:49",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": "Acsogenixx",
-      "suggested_tags": [
-        "trojan",
-        "malware"
-      ],
-      "summary": "Malicious npm package 'hardhat-kex' 2.0.1 mimicking pino delivers an obfuscated JS trojan payload (Acsogenixx) in a supply-chain attack.",
-      "threat_type": "malware",
-      "tweet_id": "2107800310509101170",
-      "type": "sha256",
-      "value": "b3c1f64cb527514abd74bf39e4025b59677e3289346735f06d79ba3c95f010b2"
     },
     "b3e93fda43d72109f6d17cf6aa0fa6017db1f8ee9c237ec49083385bb0248bf5": {
       "confidence": 0.55,
@@ -47222,34 +49321,6 @@
       "type": "domain",
       "value": "bcncdncl-ns.beer"
     },
-    "bcyukonexpeditions.com": {
-      "confidence": 0.9,
-      "date": "2026-10-07 07:09:43",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "JR East / JRE POINT phishing at bcyukonexpeditions.com, with a redirect to another IP.",
-      "threat_type": "phishing",
-      "tweet_id": "2107730070194532701",
-      "type": "domain",
-      "value": "bcyukonexpeditions.com"
-    },
-    "bcyukonexpeditions.com/content/oobudfhgua": {
-      "confidence": 0.9,
-      "date": "2026-10-07 07:09:43",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "JR East / JRE POINT phishing at bcyukonexpeditions.com, with a redirect to another IP.",
-      "threat_type": "phishing",
-      "tweet_id": "2107730070194532701",
-      "type": "url",
-      "value": "https://bcyukonexpeditions.com/content/oobudfhgua"
-    },
     "bd56374469374a6b144c684aa44b8692423a6749574dba2c99d49b76b8ac8bc2": {
       "confidence": 0.5,
       "date": "2026-11-02 20:30:59",
@@ -47340,21 +49411,6 @@
       "tweet_id": "2116299379321577713",
       "type": "sha256",
       "value": "beb7e7589979a43a2f763081d8eba2b84419a68c0e5a42b4cf6dc4fafce56733"
-    },
-    "bed116abf922b28f79323cce3901e206e82cb4a37020c623217ff1541baa00f1": {
-      "confidence": 0.4,
-      "date": "2026-10-07 12:13:02",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malware sample 'winhost.exe' on MalwareBazaar from Australia, tied to a trycloudflare.com domain likely used as C2.",
-      "threat_type": "malware",
-      "tweet_id": "2107806405767967081",
-      "type": "sha256",
-      "value": "bed116abf922b28f79323cce3901e206e82cb4a37020c623217ff1541baa00f1"
     },
     "bedd2297739632da8ee470367295fe976e55be74d628dcaee7fa98121ee530f1": {
       "confidence": 0.9,
@@ -47512,6 +49568,20 @@
       "tweet_id": "2112023172040347658",
       "type": "domain",
       "value": "bestpartneha-jp.com"
+    },
+    "beta-into.space": {
+      "confidence": 0.5,
+      "date": "2026-11-06 09:13:34",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious CMD script 'CKTRUCKINGLLC.cmd' on MalwareBazaar associated with the domain beta-into.space.",
+      "threat_type": "malware",
+      "tweet_id": "2118632874240888867",
+      "type": "domain",
+      "value": "beta-into.space"
     },
     "bf8fc3ecd564ef8bb015f304519cf625": {
       "confidence": 0.85,
@@ -50544,21 +52614,6 @@
       "type": "domain",
       "value": "bxp-whatsapp.com"
     },
-    "bytemai.com": {
-      "confidence": 0.8,
-      "date": "2026-10-07 10:42:04",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "New ClickFix variant abusing PowerShell (Get-Command, Invoke-RestMethod, Invoke-Expression) to fetch and run remote code from listed domains and IPs.",
-      "threat_type": "malware",
-      "tweet_id": "2107783512745193569",
-      "type": "domain",
-      "value": "bytemai.com"
-    },
     "bzvmjsn5.sportsontheweb.net": {
       "confidence": 0.7,
       "date": "2026-10-29 02:16:05",
@@ -50896,6 +52951,21 @@
       "type": "sha256",
       "value": "c438b9a3bb67e2c10eff0d01513422dc17dce7c5508303a680e46f3dcec886ef"
     },
+    "c5ldzz07.onlinewebshop.net": {
+      "confidence": 0.7,
+      "date": "2026-11-06 05:46:55",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": "Kimsuky",
+      "suggested_tags": [
+        "kimsuky",
+        "apt"
+      ],
+      "summary": "Kimsuky-attributed infrastructure: several free-hosting domains and two associated GitHub accounts.",
+      "threat_type": "malware",
+      "tweet_id": "2118580871766978652",
+      "type": "domain",
+      "value": "c5ldzz07.onlinewebshop.net"
+    },
     "c7379839f369be77459456639443959b1760b4f0dae42e197a4099254d69f69c": {
       "confidence": 0.5,
       "date": "2026-10-07 20:40:45",
@@ -51043,6 +53113,22 @@
       "tweet_id": "2113914498440659229",
       "type": "md5",
       "value": "ca298d49d3fc924b481e1a32ad659edc"
+    },
+    "ca3e2e824c48017fc81b0a5614e1453e": {
+      "confidence": 0.7,
+      "date": "2026-11-06 07:24:13",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": "OW RAT",
+      "suggested_tags": [
+        "rat",
+        "malware",
+        "c2"
+      ],
+      "summary": "OW RAT sample with its control panel hosted on a Cloudflare Workers domain.",
+      "threat_type": "malware",
+      "tweet_id": "2118605355949117947",
+      "type": "md5",
+      "value": "ca3e2e824c48017fc81b0a5614e1453e"
     },
     "ca47e13a2980817e7849ddfef70312542ed11efaeba7b1b583161c06a440baf2": {
       "confidence": 0.8,
@@ -53526,6 +55612,21 @@
       "tweet_id": "2112492335858896919",
       "type": "url",
       "value": "http://crackcodes.in/resources/penumbra-stealer-1-0.642/"
+    },
+    "createpasskey.com": {
+      "confidence": 0.85,
+      "date": "2026-11-06 09:44:01",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "eSentire report on vishing combined with AiTM phishing for account compromise and extortion, using passkey/MFA-themed lookalike domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2118640538286985396",
+      "type": "domain",
+      "value": "createpasskey.com"
     },
     "crepiehumru.lol": {
       "confidence": 0.6,
@@ -56806,21 +58907,6 @@
       "type": "domain",
       "value": "downloads.nairawaterfall.com"
     },
-    "downmirapp.org": {
-      "confidence": 0.8,
-      "date": "2026-10-07 10:42:04",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "New ClickFix variant abusing PowerShell (Get-Command, Invoke-RestMethod, Invoke-Expression) to fetch and run remote code from listed domains and IPs.",
-      "threat_type": "malware",
-      "tweet_id": "2107783512745193569",
-      "type": "domain",
-      "value": "downmirapp.org"
-    },
     "dramajp.com": {
       "confidence": 0.8,
       "date": "2026-10-18 01:40:32",
@@ -57206,6 +59292,21 @@
       "type": "sha256",
       "value": "e1b67c126982238429dfa7ac475ec5f859c5cd25a2c64d46463f4926f0b403c6"
     },
+    "e1vfaomn3.onlinewebshop.net": {
+      "confidence": 0.7,
+      "date": "2026-11-06 05:46:55",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": "Kimsuky",
+      "suggested_tags": [
+        "kimsuky",
+        "apt"
+      ],
+      "summary": "Kimsuky-attributed infrastructure: several free-hosting domains and two associated GitHub accounts.",
+      "threat_type": "malware",
+      "tweet_id": "2118580871766978652",
+      "type": "domain",
+      "value": "e1vfaomn3.onlinewebshop.net"
+    },
     "e23507e03916279372baa4f0c314fb3df5d78d741eeb7df25f43fe33ae50d9c5": {
       "confidence": 0.8,
       "date": "2026-11-01 12:26:18",
@@ -57450,22 +59551,6 @@
       "tweet_id": "2112545972312006696",
       "type": "sha256",
       "value": "e8a247e49a3543fc2e9cb6e579f326adc66e19c8b2c768cd338f3dfe2f4803e4"
-    },
-    "e90fa92306d16b329c5d68fdd24bd4f2": {
-      "confidence": 0.8,
-      "date": "2026-10-07 10:02:21",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": "Sonoma Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "Sonoma macOS stealer distributed as WaaakoInstaller.dmg, communicating with a C2 domain on proxy08.com.",
-      "threat_type": "malware",
-      "tweet_id": "2107773515126731248",
-      "type": "md5",
-      "value": "e90fa92306d16b329c5d68fdd24bd4f2"
     },
     "e952886ff2c74ead54a7ab09263fcd24bb75d7bc73ad1eceef82f530a2872f87": {
       "confidence": 0.5,
@@ -58820,20 +60905,6 @@
       "type": "md5",
       "value": "f2ae44b6f070273d53f79ef73646f880"
     },
-    "f3171ee172b751eadab38b37cf0a3e465f7085590dfbf0fae88008611d261e57": {
-      "confidence": 0.6,
-      "date": "2026-10-07 08:02:41",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Zip lure posing as a social security statement delivering an MSI hosted on Supabase storage.",
-      "threat_type": "malware",
-      "tweet_id": "2107743400476750313",
-      "type": "sha256",
-      "value": "f3171ee172b751eadab38b37cf0a3e465f7085590dfbf0fae88008611d261e57"
-    },
     "f367768387fc1deea2ea904aed28e7017d40dd4e17f5c12a4e56bce9005101b5": {
       "confidence": 0.8,
       "date": "2026-10-09 04:03:07",
@@ -59336,6 +61407,22 @@
       "type": "domain",
       "value": "faq.webapi-whatsapp.com"
     },
+    "farbetv.eu.cc": {
+      "confidence": 0.7,
+      "date": "2026-11-06 08:04:14",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as a 'lustvoll TV' app, distributed via a phishing site.",
+      "threat_type": "malware",
+      "tweet_id": "2118615428851458416",
+      "type": "domain",
+      "value": "farbetv.eu.cc"
+    },
     "farea.jp": {
       "confidence": 0.5,
       "date": "2026-10-12 19:16:59",
@@ -59498,6 +61585,22 @@
       "tweet_id": "2118300972925763870",
       "type": "sha256",
       "value": "fbdcf1c1ef19a5bef2c9ca43b3685aa5dacd78b7b071a90ced67ead83b736fa7"
+    },
+    "fc12e1cebcb8c4e154a3cf2ab38e6056cac4eb9d93eb2044bbfeffb714596b27": {
+      "confidence": 0.75,
+      "date": "2026-11-06 08:29:48",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": "Odyssey Stealer",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2"
+      ],
+      "summary": "Odyssey macOS stealer samples with C2 and in-the-wild activity at an IP address.",
+      "threat_type": "malware",
+      "tweet_id": "2118621862615818548",
+      "type": "sha256",
+      "value": "fc12e1cebcb8c4e154a3cf2ab38e6056cac4eb9d93eb2044bbfeffb714596b27"
     },
     "fc3f22e3e93c426501b5efb7831ae7c8e7dfd749653b792d1601199b6e39f380": {
       "confidence": 0.6,
@@ -59951,6 +62054,20 @@
       "tweet_id": "2113373037047246960",
       "type": "url",
       "value": "https://firedmanlaw.co.uk/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest&c=macaw&c=&c=hr&c=sec&c=&c=&c=&c="
+    },
+    "firestore.googleapis.com/v1/projects/search1y/databases/(default)/documents": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:11:29",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Google-lookalike search site logging queries, clicks and highlighted text to Firebase and selling paid access to the data; no password theft or malware found.",
+      "threat_type": "other",
+      "tweet_id": "2118602151572508937",
+      "type": "url",
+      "value": "http://firestore.googleapis.com/v1/projects/search1y/databases/(default)/documents/"
     },
     "firewall-whatsapp.com": {
       "confidence": 0.7,
@@ -61358,22 +63475,6 @@
       "type": "url",
       "value": "https://fmcoyko.cn/Login/"
     },
-    "fnfkv.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-07 12:05:54",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as Rakuten, distributed via several .cn domains; also tagged as phishing.",
-      "threat_type": "malware",
-      "tweet_id": "2107804609066782864",
-      "type": "domain",
-      "value": "fnfkv.cn"
-    },
     "fol9.com": {
       "confidence": 0.6,
       "date": "2026-10-14 10:43:00",
@@ -61496,22 +63597,6 @@
       "tweet_id": "2117584123262898538",
       "type": "domain",
       "value": "foxnevs.com"
-    },
-    "fqelt.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-07 12:05:54",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as Rakuten, distributed via several .cn domains; also tagged as phishing.",
-      "threat_type": "malware",
-      "tweet_id": "2107804609066782864",
-      "type": "domain",
-      "value": "fqelt.cn"
     },
     "fr-ca.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
@@ -62149,21 +64234,6 @@
       "tweet_id": "2115321810841645095",
       "type": "url",
       "value": "http://getfile.centreomega.ca/dl/Product_Unboxing_Condition_Report_Mp4/5489cbf4b215d1742e5f11cb1b252e85"
-    },
-    "getstampi.com": {
-      "confidence": 0.8,
-      "date": "2026-10-07 10:42:04",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "New ClickFix variant abusing PowerShell (Get-Command, Invoke-RestMethod, Invoke-Expression) to fetch and run remote code from listed domains and IPs.",
-      "threat_type": "malware",
-      "tweet_id": "2107783512745193569",
-      "type": "domain",
-      "value": "getstampi.com"
     },
     "ggdxorxunolcknocbnfc.supabase.co": {
       "confidence": 0.9,
@@ -63345,35 +65415,6 @@
       "type": "domain",
       "value": "harborstonegroup.shop"
     },
-    "hardly-signatures-loc-surf.trycloudflare.com": {
-      "confidence": 0.6,
-      "date": "2026-10-07 12:14:42",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": "RatBits",
-      "suggested_tags": [
-        "rat",
-        "c2"
-      ],
-      "summary": "Operator panel titled 'RatBits' sign-in page hosted on a trycloudflare.com tunnel, likely a RAT control panel.",
-      "threat_type": "c2",
-      "tweet_id": "2107806823747129694",
-      "type": "domain",
-      "value": "hardly-signatures-loc-surf.trycloudflare.com"
-    },
-    "hardwood-studio-obviously-briefing.trycloudflare.com": {
-      "confidence": 0.55,
-      "date": "2026-10-07 12:13:02",
-      "enriched_at": "2026-11-01T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malware sample 'winhost.exe' reported on abuse.ch, using a trycloudflare.com tunnel subdomain as its associated domain.",
-      "threat_type": "malware",
-      "tweet_id": "2107806405767967081",
-      "type": "domain",
-      "value": "hardwood-studio-obviously-briefing.trycloudflare.com"
-    },
     "havelbeenpwned.net": {
       "confidence": 0.7,
       "date": "2026-10-20 13:59:03",
@@ -63785,6 +65826,34 @@
       "tweet_id": "2110072357716943050",
       "type": "url",
       "value": "https://hmelef.ru/fits.html"
+    },
+    "hnrtqbsfwxm.cfd": {
+      "confidence": 0.85,
+      "date": "2026-11-06 02:44:44",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Matsui Securities targeting Japanese users.",
+      "threat_type": "phishing",
+      "tweet_id": "2118535023771210233",
+      "type": "domain",
+      "value": "hnrtqbsfwxm.cfd"
+    },
+    "hnrtqbsfwxm.cfd/drgsdfbdr/?__eat=d902583e17a9b55c#/index": {
+      "confidence": 0.85,
+      "date": "2026-11-06 02:44:44",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Matsui Securities targeting Japanese users.",
+      "threat_type": "phishing",
+      "tweet_id": "2118535023771210233",
+      "type": "url",
+      "value": "https://hnrtqbsfwxm.cfd/drgsdfbdr/?__eat=d902583e17a9b55c#/index"
     },
     "hoexq.cn": {
       "confidence": 0.8,
@@ -64778,20 +66847,6 @@
       "tweet_id": "2111967927465591196",
       "type": "url",
       "value": "https://inducol.co/gmo/web/perso-login.php"
-    },
-    "infosever.linkup.store": {
-      "confidence": 0.85,
-      "date": "2026-10-07 12:20:00",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site hosted on Amazon AWS infrastructure (AS14618) at infosever.linkup.store, reported via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2107808155828662329",
-      "type": "domain",
-      "value": "infosever.linkup.store"
     },
     "infoweb-whatsapp.com": {
       "confidence": 0.75,
@@ -66329,6 +68384,21 @@
       "type": "url",
       "value": "http://keychainagent.pro/wksxgj/yBZlaFX3ewy2"
     },
+    "keysyncos.com": {
+      "confidence": 0.85,
+      "date": "2026-11-06 09:44:01",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "eSentire report on vishing combined with AiTM phishing for account compromise and extortion, using passkey/MFA-themed lookalike domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2118640538286985396",
+      "type": "domain",
+      "value": "keysyncos.com"
+    },
     "kfgwq34.cn": {
       "confidence": 0.75,
       "date": "2026-10-08 23:25:59",
@@ -66619,21 +68689,6 @@
       "tweet_id": "2115160953675522367",
       "type": "domain",
       "value": "kozae666.com"
-    },
-    "krioldflaeara-willow.pro": {
-      "confidence": 0.8,
-      "date": "2026-10-07 12:17:33",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Compromised site serving a ClickFix lure, with the malicious domain krioldflaeara-willow.pro involved.",
-      "threat_type": "malware",
-      "tweet_id": "2107807540650332488",
-      "type": "domain",
-      "value": "krioldflaeara-willow.pro"
     },
     "ktoktotam.cc": {
       "confidence": 0.7,
@@ -67030,22 +69085,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "level-whatsapp.com"
-    },
-    "lewokodwqko.icu": {
-      "confidence": 0.85,
-      "date": "2026-10-07 09:51:12",
-      "enriched_at": "2026-10-30T00:40:03Z",
-      "family": "MioLab",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "MioLab macOS stealer delivered as a fake WidgetFlow DMG installer, with C2 at lewokodwqko.icu.",
-      "threat_type": "malware",
-      "tweet_id": "2107770708491198831",
-      "type": "domain",
-      "value": "lewokodwqko.icu"
     },
     "lexer-whatsapp.com": {
       "confidence": 0.65,
@@ -67728,34 +69767,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "lpfweb-whatsapp.com"
-    },
-    "lqxnbr.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-07 06:49:03",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating VIEW card (Japan) at lqxnbr.cfd behind Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2107724870201352621",
-      "type": "domain",
-      "value": "lqxnbr.cfd"
-    },
-    "lqxnbr.cfd/default/#/index": {
-      "confidence": 0.9,
-      "date": "2026-10-07 06:49:03",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating VIEW card (Japan) at lqxnbr.cfd behind Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2107724870201352621",
-      "type": "url",
-      "value": "https://lqxnbr.cfd/default/#/index"
     },
     "lryjfreporting.5tr.org": {
       "confidence": 0.85,
@@ -68460,20 +70471,6 @@
       "type": "domain",
       "value": "matadorbetgiris.biz"
     },
-    "matadorbetonlinegiris.com": {
-      "confidence": 0.85,
-      "date": "2026-10-07 12:23:04",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site matadorbetonlinegiris[.]com hosted behind Cloudflare (AS13335), reported via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2107808927446434236",
-      "type": "domain",
-      "value": "matadorbetonlinegiris.com"
-    },
     "match-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -68904,6 +70901,21 @@
       "tweet_id": "2112583368479318236",
       "type": "domain",
       "value": "metrics-whatsapp.com"
+    },
+    "mfa-passkey.com": {
+      "confidence": 0.85,
+      "date": "2026-11-06 09:44:01",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "eSentire report on vishing combined with AiTM phishing for account compromise and extortion, using passkey/MFA-themed lookalike domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2118640538286985396",
+      "type": "domain",
+      "value": "mfa-passkey.com"
     },
     "mgfdeutschland.com": {
       "confidence": 0.85,
@@ -70039,33 +72051,20 @@
       "type": "domain",
       "value": "myssologin.com"
     },
-    "mzfpvc.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-07 07:55:06",
-      "enriched_at": "2026-10-07T12:40:03Z",
+    "myssosetup.com": {
+      "confidence": 0.85,
+      "date": "2026-11-06 09:44:01",
+      "enriched_at": "2026-11-06T12:40:04Z",
       "family": null,
       "suggested_tags": [
-        "phishing"
+        "phishing",
+        "aitm"
       ],
-      "summary": "Phishing site impersonating VIEW card (Japan) at mzfpvc.cfd behind Cloudflare.",
+      "summary": "eSentire report on vishing combined with AiTM phishing for account compromise and extortion, using passkey/MFA-themed lookalike domains.",
       "threat_type": "phishing",
-      "tweet_id": "2107741492706148848",
+      "tweet_id": "2118640538286985396",
       "type": "domain",
-      "value": "mzfpvc.cfd"
-    },
-    "mzfpvc.cfd/default/#/index": {
-      "confidence": 0.9,
-      "date": "2026-10-07 07:55:06",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating VIEW card (Japan) at mzfpvc.cfd behind Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2107741492706148848",
-      "type": "url",
-      "value": "https://mzfpvc.cfd/default/#/index"
+      "value": "myssosetup.com"
     },
     "n1-us-google.com": {
       "confidence": 0.9,
@@ -70894,34 +72893,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "nqxweb-whatsapp.com"
-    },
-    "nrbkjs.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-07 09:07:34",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating VIEW card (Japan) at nrbkjs.cfd behind Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2107759731356127354",
-      "type": "domain",
-      "value": "nrbkjs.cfd"
-    },
-    "nrbkjs.cfd/default/#/index": {
-      "confidence": 0.9,
-      "date": "2026-10-07 09:07:34",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating VIEW card (Japan) at nrbkjs.cfd behind Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2107759731356127354",
-      "type": "url",
-      "value": "https://nrbkjs.cfd/default/#/index"
     },
     "nsjhkttv.cn": {
       "confidence": 0.75,
@@ -71756,6 +73727,22 @@
       "type": "domain",
       "value": "ovenwisdom.com"
     },
+    "ow-rat-panel.1ow.workers.dev": {
+      "confidence": 0.7,
+      "date": "2026-11-06 07:24:13",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": "OW RAT",
+      "suggested_tags": [
+        "rat",
+        "malware",
+        "c2"
+      ],
+      "summary": "OW RAT sample with its control panel hosted on a Cloudflare Workers domain.",
+      "threat_type": "malware",
+      "tweet_id": "2118605355949117947",
+      "type": "domain",
+      "value": "ow-rat-panel.1ow.workers.dev"
+    },
     "owyweb-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -71927,6 +73914,21 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "parse-whatsapp.com"
+    },
+    "passkeycreate.com": {
+      "confidence": 0.85,
+      "date": "2026-11-06 09:44:01",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "eSentire report on vishing combined with AiTM phishing for account compromise and extortion, using passkey/MFA-themed lookalike domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2118640538286985396",
+      "type": "domain",
+      "value": "passkeycreate.com"
     },
     "password.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -72374,22 +74376,6 @@
       "tweet_id": "2108222108698644732",
       "type": "url",
       "value": "https://play.google.com/store/apps/details?id=com.railforge.footplate.documentreader_pdfviewer"
-    },
-    "plbkm.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-07 12:05:54",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as Rakuten, distributed via several .cn domains; also tagged as phishing.",
-      "threat_type": "malware",
-      "tweet_id": "2107804609066782864",
-      "type": "domain",
-      "value": "plbkm.cn"
     },
     "plesk.swissrdp.com": {
       "confidence": 0.5,
@@ -73450,50 +75436,6 @@
       "tweet_id": "2116549012929364105",
       "type": "url",
       "value": "https://qihangweiye.com/R6XsVjCbji.in.jp"
-    },
-    "qiotpqfrrypshdvcvhso.supabase.co": {
-      "confidence": 0.6,
-      "date": "2026-10-07 08:02:41",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Zip lure posing as a social security statement delivering an MSI hosted on Supabase storage.",
-      "threat_type": "malware",
-      "tweet_id": "2107743400476750313",
-      "type": "domain",
-      "value": "qiotpqfrrypshdvcvhso.supabase.co"
-    },
-    "qiotpqfrrypshdvcvhso.supabase.co/storage/v1/object/public/ghochu/ghoch.msi": {
-      "confidence": 0.6,
-      "date": "2026-10-07 08:02:41",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Zip lure posing as a social security statement delivering an MSI hosted on Supabase storage.",
-      "threat_type": "malware",
-      "tweet_id": "2107743400476750313",
-      "type": "url",
-      "value": "https://qiotpqfrrypshdvcvhso.supabase.co/storage/v1/object/public/ghochu/ghoch.msi"
-    },
-    "qjkoy.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-07 12:05:54",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as Rakuten, distributed via several .cn domains; also tagged as phishing.",
-      "threat_type": "malware",
-      "tweet_id": "2107804609066782864",
-      "type": "domain",
-      "value": "qjkoy.cn"
     },
     "qnsonz.cn": {
       "confidence": 0.7,
@@ -75562,6 +77504,62 @@
       "type": "domain",
       "value": "sea-whatsapp.com"
     },
+    "seafood-controllers-prev-publish.trycloudflare.com": {
+      "confidence": 0.4,
+      "date": "2026-11-06 10:49:32",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Trycloudflare-hosted URL serving static/app.js with obfuscated junk code, linked to a similar related trycloudflare host; likely malicious script delivery.",
+      "threat_type": "malware",
+      "tweet_id": "2118657025051914534",
+      "type": "domain",
+      "value": "seafood-controllers-prev-publish.trycloudflare.com"
+    },
+    "seafood-controllers-prev-publish.trycloudflare.com/static/app.js": {
+      "confidence": 0.4,
+      "date": "2026-11-06 10:49:32",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Trycloudflare-hosted URL serving static/app.js with obfuscated junk code, linked to a similar related trycloudflare host; likely malicious script delivery.",
+      "threat_type": "malware",
+      "tweet_id": "2118657025051914534",
+      "type": "url",
+      "value": "https://seafood-controllers-prev-publish.trycloudflare.com/static/app.js"
+    },
+    "search1y.firebaseapp.com": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:11:29",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Google-lookalike search site logging queries, clicks and highlighted text to Firebase and selling paid access to the data; no password theft or malware found.",
+      "threat_type": "other",
+      "tweet_id": "2118602151572508937",
+      "type": "domain",
+      "value": "search1y.firebaseapp.com"
+    },
+    "searchly-five.vercel.app": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:11:29",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Google-lookalike search site logging queries, clicks and highlighted text to Firebase and selling paid access to the data; no password theft or malware found.",
+      "threat_type": "other",
+      "tweet_id": "2118602151572508937",
+      "type": "domain",
+      "value": "searchly-five.vercel.app"
+    },
     "searedrecipes.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -75693,6 +77691,21 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "secsys-whatsapp.com"
+    },
+    "secure-passkey.com": {
+      "confidence": 0.85,
+      "date": "2026-11-06 09:44:01",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "eSentire report on vishing combined with AiTM phishing for account compromise and extortion, using passkey/MFA-themed lookalike domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2118640538286985396",
+      "type": "domain",
+      "value": "secure-passkey.com"
     },
     "secure-xdomain-18374.w-group.shop": {
       "confidence": 0.9,
@@ -76076,34 +78089,6 @@
       "tweet_id": "2116747820283924593",
       "type": "domain",
       "value": "securedocument-docusign.info"
-    },
-    "securesup.online": {
-      "confidence": 0.85,
-      "date": "2026-10-07 07:58:44",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Email phishing URL on securesup.online (NXDOMAIN), reported by a Japanese university blog.",
-      "threat_type": "phishing",
-      "tweet_id": "2107742407831982563",
-      "type": "domain",
-      "value": "securesup.online"
-    },
-    "securesup.online/uploads/managements/hgjsdnmdujhdnmhdgjsdbngjhejhgnbsdlioksd/wmail/safety/?email=aaaa@": {
-      "confidence": 0.85,
-      "date": "2026-10-07 07:58:44",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Email phishing URL on securesup.online (NXDOMAIN), reported by a Japanese university blog.",
-      "threat_type": "phishing",
-      "tweet_id": "2107742407831982563",
-      "type": "url",
-      "value": "https://securesup.online/uploads/managements/hgjsdnmdujhdnmhdgjsdbngjhejhgnbsdlioksd/wmail/safety/?email=aaaa@"
     },
     "security.cortivas.us": {
       "confidence": 0.9,
@@ -77372,6 +79357,34 @@
       "tweet_id": "2109649861385609321",
       "type": "domain",
       "value": "spogear.click"
+    },
+    "sqhwlbkpyax.cfd": {
+      "confidence": 0.85,
+      "date": "2026-11-06 05:22:37",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Matsui Securities targeting Japanese users, hosted on an AS45102 IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2118574753263104388",
+      "type": "domain",
+      "value": "sqhwlbkpyax.cfd"
+    },
+    "sqhwlbkpyax.cfd/drgsdfbdr/?__eat=b2667ed2d4270e7f#/index": {
+      "confidence": 0.85,
+      "date": "2026-11-06 05:22:37",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Matsui Securities targeting Japanese users, hosted on an AS45102 IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2118574753263104388",
+      "type": "url",
+      "value": "https://sqhwlbkpyax.cfd/drgsdfbdr/?__eat=b2667ed2d4270e7f#/index"
     },
     "ssl.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -80732,34 +82745,6 @@
       "type": "domain",
       "value": "times.eastus.cloudapp.azure.com"
     },
-    "timesyns.eastus.cloudapp.azure.com": {
-      "confidence": 0.4,
-      "date": "2026-10-07 09:26:53",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "MSI file served from an Azure cloudapp host with no AV detections; the author implies it is suspicious despite benign-looking analysis.",
-      "threat_type": "malware",
-      "tweet_id": "2107764592805908516",
-      "type": "domain",
-      "value": "timesyns.eastus.cloudapp.azure.com"
-    },
-    "timesyns.eastus.cloudapp.azure.com/z5.msi": {
-      "confidence": 0.4,
-      "date": "2026-10-07 09:26:53",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "MSI file served from an Azure cloudapp host with no AV detections; the author implies it is suspicious despite benign-looking analysis.",
-      "threat_type": "malware",
-      "tweet_id": "2107764592805908516",
-      "type": "url",
-      "value": "https://timesyns.eastus.cloudapp.azure.com/z5.msi"
-    },
     "tinyurl.com/dmt1-731": {
       "confidence": 0.6,
       "date": "2026-10-09 14:35:39",
@@ -81473,22 +83458,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "udpip-whatsapp.com"
-    },
-    "ufatr.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-07 12:05:54",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as Rakuten, distributed via several .cn domains; also tagged as phishing.",
-      "threat_type": "malware",
-      "tweet_id": "2107804609066782864",
-      "type": "domain",
-      "value": "ufatr.cn"
     },
     "uhdyadasud.duckdns.org": {
       "confidence": 0.55,
@@ -82241,20 +84210,6 @@
       "type": "domain",
       "value": "verify.webapi-whatsapp.com"
     },
-    "verifyaccount-google.com": {
-      "confidence": 0.9,
-      "date": "2026-10-07 12:01:14",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Google-branded phishing site at verifyaccount-google.com fronted by Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2107803435953201493",
-      "type": "domain",
-      "value": "verifyaccount-google.com"
-    },
     "version-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -82700,21 +84655,20 @@
       "type": "domain",
       "value": "vyv51.top"
     },
-    "waaako.proxy08.com": {
-      "confidence": 0.8,
-      "date": "2026-10-07 10:02:21",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": "Sonoma Stealer",
+    "w8l35buwr.onlinewebshop.net": {
+      "confidence": 0.7,
+      "date": "2026-11-06 05:46:55",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": "Kimsuky",
       "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2"
+        "kimsuky",
+        "apt"
       ],
-      "summary": "Sonoma macOS stealer distributed as WaaakoInstaller.dmg, communicating with a C2 domain on proxy08.com.",
+      "summary": "Kimsuky-attributed infrastructure: several free-hosting domains and two associated GitHub accounts.",
       "threat_type": "malware",
-      "tweet_id": "2107773515126731248",
+      "tweet_id": "2118580871766978652",
       "type": "domain",
-      "value": "waaako.proxy08.com"
+      "value": "w8l35buwr.onlinewebshop.net"
     },
     "wafnode-whatsapp.com": {
       "confidence": 0.65,
@@ -82877,36 +84831,6 @@
       "tweet_id": "2116271510918987811",
       "type": "domain",
       "value": "wazirxr.com"
-    },
-    "weareevokeafrica.com": {
-      "confidence": 0.6,
-      "date": "2026-10-07 08:40:36",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malicious .bat file disguised as a payment confirmation slip, downloaded from a compromised site, with a C2 IP reported.",
-      "threat_type": "malware",
-      "tweet_id": "2107752941801054519",
-      "type": "domain",
-      "value": "weareevokeafrica.com"
-    },
-    "weareevokeafrica.com/old/payment_comfirmation_slip_pdf.bat": {
-      "confidence": 0.6,
-      "date": "2026-10-07 08:40:36",
-      "enriched_at": "2026-10-07T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malicious .bat file disguised as a payment confirmation slip, downloaded from a compromised site, with a C2 IP reported.",
-      "threat_type": "malware",
-      "tweet_id": "2107752941801054519",
-      "type": "url",
-      "value": "https://weareevokeafrica.com/old/Payment_comfirmation_slip_PDF.bat"
     },
     "web-keplr.com": {
       "confidence": 0.8,
@@ -85419,6 +87343,20 @@
       "type": "domain",
       "value": "xn--ehqqgw46acy5a.top"
     },
+    "xn--goog-yva5t.com": {
+      "confidence": 0.6,
+      "date": "2026-11-06 07:11:29",
+      "enriched_at": "2026-11-06T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Google-lookalike search site logging queries, clicks and highlighted text to Firebase and selling paid access to the data; no password theft or malware found.",
+      "threat_type": "other",
+      "tweet_id": "2118602151572508937",
+      "type": "domain",
+      "value": "xn--goog-yva5t.com"
+    },
     "xn--smarktt-y0a.net": {
       "confidence": 0.9,
       "date": "2026-10-28 09:29:20",
@@ -86952,6 +88890,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-06T06:40:06Z",
+  "generated_at": "2026-11-06T12:40:04Z",
   "window_days": 30
 }
