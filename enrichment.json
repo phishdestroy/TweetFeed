@@ -1,10 +1,6 @@
 {
-  "count": 6351,
+  "count": 6362,
   "dead_tweets": {
-    "2107773993008669042": {
-      "attempts": 2,
-      "last_attempt": "2026-10-30T18:40:03Z"
-    },
     "2111212930066706900": {
       "attempts": 2,
       "last_attempt": "2026-11-01T06:40:04Z"
@@ -453,6 +449,20 @@
       "type": "sha256",
       "value": "0874fd28183187a94e649269cc68866c0f71fd94e08e6083fd56792d1164632d"
     },
+    "088d77b1d97eac2cf02bbec6be3116959463814de74478417811936d09ba1940": {
+      "confidence": 0.5,
+      "date": "2026-11-06 14:29:07",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious batch file disguised as a wedding vehicle rental request, uploaded to MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2118712287141797926",
+      "type": "sha256",
+      "value": "088d77b1d97eac2cf02bbec6be3116959463814de74478417811936d09ba1940"
+    },
     "08cb272fdc37735a34dc9f149513ee17c40eca8818f1e6241e59aaa6bdff67aa": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -689,24 +699,6 @@
       "tweet_id": "2111052568411398539",
       "type": "domain",
       "value": "0xrpc.io"
-    },
-    "1.14.104.208": {
-      "confidence": 0.7,
-      "date": "2026-10-07 14:02:51",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "adaptixc2",
-        "cobaltstrike",
-        "sliver",
-        "opendir"
-      ],
-      "summary": "Team Cymru Total Insights reports IPs running AI pentest frameworks alongside C2 tooling (Sliver, Mythic, AdaptixC2, Cobalt Strike), open directories and exposed gen-AI apps.",
-      "threat_type": "c2",
-      "tweet_id": "2107834038459220031",
-      "type": "ip",
-      "value": "1.14.104.208"
     },
     "1.14.146.76": {
       "confidence": 0.7,
@@ -1102,24 +1094,6 @@
       "tweet_id": "2117980605778460813",
       "type": "ip",
       "value": "103.100.222.247"
-    },
-    "103.101.176.236": {
-      "confidence": 0.7,
-      "date": "2026-10-07 14:02:51",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "adaptixc2",
-        "cobaltstrike",
-        "sliver",
-        "opendir"
-      ],
-      "summary": "Team Cymru Total Insights reports IPs running AI pentest frameworks alongside C2 tooling (Sliver, Mythic, AdaptixC2, Cobalt Strike), open directories and exposed gen-AI apps.",
-      "threat_type": "c2",
-      "tweet_id": "2107834038459220031",
-      "type": "ip",
-      "value": "103.101.176.236"
     },
     "103.109.239.204": {
       "confidence": 0.5,
@@ -4126,6 +4100,20 @@
       "type": "ip",
       "value": "108.165.147.226"
     },
+    "108.174.155.202": {
+      "confidence": 0.8,
+      "date": "2026-11-06 13:08:23",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site apple-mn.com hosted on Oracle Cloud, apparently impersonating Apple.",
+      "threat_type": "phishing",
+      "tweet_id": "2118691967970234655",
+      "type": "ip",
+      "value": "108.174.155.202"
+    },
     "108.179.192.148": {
       "confidence": 0.85,
       "date": "2026-10-09 00:12:05",
@@ -4828,24 +4816,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "119.28.84.193"
-    },
-    "119.45.122.90": {
-      "confidence": 0.7,
-      "date": "2026-10-07 14:02:51",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "adaptixc2",
-        "cobaltstrike",
-        "sliver",
-        "opendir"
-      ],
-      "summary": "Team Cymru Total Insights reports IPs running AI pentest frameworks alongside C2 tooling (Sliver, Mythic, AdaptixC2, Cobalt Strike), open directories and exposed gen-AI apps.",
-      "threat_type": "c2",
-      "tweet_id": "2107834038459220031",
-      "type": "ip",
-      "value": "119.45.122.90"
     },
     "11ca4a2f90b53a58477bf86d565f73e0ada6846a8bab7ff110ffedc4ee8b85be": {
       "confidence": 0.95,
@@ -8243,21 +8213,6 @@
       "type": "ip",
       "value": "149.104.23.85"
     },
-    "149.104.24.91": {
-      "confidence": 0.5,
-      "date": "2026-10-07 14:02:51",
-      "enriched_at": "2026-11-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Team Cymru Total Insights reports IPs running multiple AI pentest frameworks alongside C2 tools such as Mythic; two listed IPs run cyberstrikeai, artex and related tooling.",
-      "threat_type": "c2",
-      "tweet_id": "2107834038459220031",
-      "type": "ip",
-      "value": "149.104.24.91"
-    },
     "149.104.30.17": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -8543,24 +8498,6 @@
       "tweet_id": "2111527336973640146",
       "type": "ip",
       "value": "151.243.11.241"
-    },
-    "151.243.126.22": {
-      "confidence": 0.7,
-      "date": "2026-10-07 14:02:51",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "adaptixc2",
-        "cobaltstrike",
-        "sliver",
-        "opendir"
-      ],
-      "summary": "Team Cymru Total Insights reports IPs running AI pentest frameworks alongside C2 tooling (Sliver, Mythic, AdaptixC2, Cobalt Strike), open directories and exposed gen-AI apps.",
-      "threat_type": "c2",
-      "tweet_id": "2107834038459220031",
-      "type": "ip",
-      "value": "151.243.126.22"
     },
     "151.243.18.12": {
       "confidence": 0.35,
@@ -9156,6 +9093,22 @@
       "tweet_id": "2118312143888203949",
       "type": "url",
       "value": "http://155.103.71.197:1956"
+    },
+    "155.117.20.119": {
+      "confidence": 0.85,
+      "date": "2026-11-06 13:46:06",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": "BTMOB",
+      "suggested_tags": [
+        "c2",
+        "android",
+        "rat"
+      ],
+      "summary": "C2 panel infrastructure for the BTMOB Android RAT at btmob.app and IP 155.117.20.119.",
+      "threat_type": "c2",
+      "tweet_id": "2118701459818856891",
+      "type": "ip",
+      "value": "155.117.20.119"
     },
     "155.117.98.165": {
       "confidence": 0.6,
@@ -12709,6 +12662,21 @@
       "type": "ip",
       "value": "185.158.133.1"
     },
+    "185.161.209.61": {
+      "confidence": 0.75,
+      "date": "2026-11-06 13:07:10",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": "FZSTACK",
+      "suggested_tags": [
+        "c2",
+        "stealer"
+      ],
+      "summary": "FZSTACK dashboard C2 panel for a stealer/clipper/dropper at 185.161.209.61.",
+      "threat_type": "c2",
+      "tweet_id": "2118691661937295563",
+      "type": "ip",
+      "value": "185.161.209.61"
+    },
     "185.166.154.105": {
       "confidence": 0.85,
       "date": "2026-10-31 16:46:43",
@@ -13278,6 +13246,20 @@
       "type": "ip",
       "value": "192.166.82.213"
     },
+    "192.185.142.84": {
+      "confidence": 0.9,
+      "date": "2026-11-06 13:03:16",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Alibaba-branded phishing page hosted at avinfra.in on IP 192.185.142.84.",
+      "threat_type": "phishing",
+      "tweet_id": "2118690680042029294",
+      "type": "ip",
+      "value": "192.185.142.84"
+    },
     "192.210.174.155": {
       "confidence": 0.6,
       "date": "2026-10-12 14:19:16",
@@ -13307,21 +13289,6 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "192.236.151.249"
-    },
-    "192.236.166.73": {
-      "confidence": 0.5,
-      "date": "2026-10-07 14:02:51",
-      "enriched_at": "2026-11-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "mythic"
-      ],
-      "summary": "Team Cymru Total Insights reports IPs running multiple AI pentest frameworks alongside C2 tools such as Mythic; two listed IPs run cyberstrikeai, artex and related tooling.",
-      "threat_type": "c2",
-      "tweet_id": "2107834038459220031",
-      "type": "ip",
-      "value": "192.236.166.73"
     },
     "192.238.177.20": {
       "confidence": 0.8,
@@ -13407,24 +13374,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "192.253.209.93"
-    },
-    "192.253.229.113": {
-      "confidence": 0.7,
-      "date": "2026-10-07 14:02:51",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "adaptixc2",
-        "cobaltstrike",
-        "sliver",
-        "opendir"
-      ],
-      "summary": "Team Cymru Total Insights reports IPs running AI pentest frameworks alongside C2 tooling (Sliver, Mythic, AdaptixC2, Cobalt Strike), open directories and exposed gen-AI apps.",
-      "threat_type": "c2",
-      "tweet_id": "2107834038459220031",
-      "type": "ip",
-      "value": "192.253.229.113"
     },
     "192.255.249.243": {
       "confidence": 0.5,
@@ -15088,6 +15037,21 @@
       "type": "ip",
       "value": "20.89.228.217"
     },
+    "200.9.154.68": {
+      "confidence": 0.7,
+      "date": "2026-11-06 13:11:03",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "stealer"
+      ],
+      "summary": "C2 panel for a stealer tagged BB at 200.9.154.68 port 5000.",
+      "threat_type": "c2",
+      "tweet_id": "2118692641579970780",
+      "type": "ip",
+      "value": "200.9.154.68"
+    },
     "202.125.66.58": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -15963,6 +15927,22 @@
       "type": "url",
       "value": "http://207.58.174.146:8041"
     },
+    "209.127.228.106": {
+      "confidence": 0.8,
+      "date": "2026-11-06 17:42:00",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": "Odyssey Stealer",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2"
+      ],
+      "summary": "IP linked to Odyssey macOS stealer infrastructure, with related sample hashes and a separate C2 IP noted.",
+      "threat_type": "malware",
+      "tweet_id": "2118760825351745740",
+      "type": "url",
+      "value": "http://209.127.228.106"
+    },
     "209.141.51.90": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -16366,6 +16346,20 @@
       "type": "ip",
       "value": "216.73.160.88"
     },
+    "216fb7587c27745b4325b0ba14b20f0fdc45ff485de9030018364710d96fedc2": {
+      "confidence": 0.4,
+      "date": "2026-11-06 14:21:28",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "List of four related SHA-256 sample hashes, part of a thread about Azure-hosted malicious installers.",
+      "threat_type": "malware",
+      "tweet_id": "2118710360152711333",
+      "type": "sha256",
+      "value": "216fb7587c27745b4325b0ba14b20f0fdc45ff485de9030018364710d96fedc2"
+    },
     "217.142.187.160": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -16419,6 +16413,20 @@
       "tweet_id": "2110644092547846348",
       "type": "ip",
       "value": "217.15.163.7"
+    },
+    "217.154.47.115": {
+      "confidence": 0.75,
+      "date": "2026-11-06 13:15:03",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "C2 panel with HVNC console hosted on vt3.eu and IP 217.154.47.115.",
+      "threat_type": "c2",
+      "tweet_id": "2118693648321978656",
+      "type": "ip",
+      "value": "217.154.47.115"
     },
     "217.156.8.148": {
       "confidence": 0.85,
@@ -17279,6 +17287,20 @@
       "tweet_id": "2118327981303030132",
       "type": "sha256",
       "value": "232c3c996d14bd6e195794f7fe00d92a8cdb37765ac1543022baee399cad1818"
+    },
+    "234bf59aa5a95c53099ccb3a618211aa": {
+      "confidence": 0.4,
+      "date": "2026-11-06 16:47:33",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": "Plemood",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "MD5 hash of a sample tagged Plemood/Purplemood, noted for few YARA detections during a retrohunt.",
+      "threat_type": "malware",
+      "tweet_id": "2118747122858344597",
+      "type": "md5",
+      "value": "234bf59aa5a95c53099ccb3a618211aa"
     },
     "23e64c7e4425c434b5cce1949662b797dcbbd16b068ee84527c1666023879efa": {
       "confidence": 0.5,
@@ -32747,24 +32769,6 @@
       "type": "ip",
       "value": "64.188.66.51"
     },
-    "64.20.61.134": {
-      "confidence": 0.7,
-      "date": "2026-10-07 14:02:51",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "adaptixc2",
-        "cobaltstrike",
-        "sliver",
-        "opendir"
-      ],
-      "summary": "Team Cymru Total Insights reports IPs running AI pentest frameworks alongside C2 tooling (Sliver, Mythic, AdaptixC2, Cobalt Strike), open directories and exposed gen-AI apps.",
-      "threat_type": "c2",
-      "tweet_id": "2107834038459220031",
-      "type": "ip",
-      "value": "64.20.61.134"
-    },
     "64.224.17.108": {
       "confidence": 0.65,
       "date": "2026-10-24 09:01:00",
@@ -32910,6 +32914,20 @@
       "tweet_id": "2109932029144187317",
       "type": "sha256",
       "value": "6449cd0137becee602b0b9360803484e27d7a912a1ab6dbb7b4ecd8cf7970617"
+    },
+    "645c24927c1ad42aa8c43ddc15d981b8589d4e02c92b9822bf456fa76f6f2c0d": {
+      "confidence": 0.5,
+      "date": "2026-11-06 14:22:38",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Fake Zoom Setup sample containing 'TeamsCopyrights' strings, flagged as suspicious and related to Azure-hosted samples.",
+      "threat_type": "malware",
+      "tweet_id": "2118710653980397670",
+      "type": "sha256",
+      "value": "645c24927c1ad42aa8c43ddc15d981b8589d4e02c92b9822bf456fa76f6f2c0d"
     },
     "64604ad0bc1a5cf7ae8bc1c2b690929a0e1567d6ad64d372d7753c4094931e1d": {
       "confidence": 0.6,
@@ -33314,6 +33332,20 @@
       "tweet_id": "2115893904373432405",
       "type": "sha256",
       "value": "6a5da90c553bb0da87e821a3bece34e1394825e845601993bd1df5cea70e29f1"
+    },
+    "6a8441872566565d8f81932b49ed762f0fc427579225332dda4a5ab20814325d": {
+      "confidence": 0.4,
+      "date": "2026-11-06 14:21:28",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "List of four related SHA-256 sample hashes, part of a thread about Azure-hosted malicious installers.",
+      "threat_type": "malware",
+      "tweet_id": "2118710360152711333",
+      "type": "sha256",
+      "value": "6a8441872566565d8f81932b49ed762f0fc427579225332dda4a5ab20814325d"
     },
     "6b0584efdcbb2eddf56cb9c2638ec4e0": {
       "confidence": 0.5,
@@ -34376,6 +34408,20 @@
       "tweet_id": "2109057708926374341",
       "type": "sha256",
       "value": "7efde99b7571680389d6dcd8a807986355d8db3eed13227f5fee0028f9ffd12d"
+    },
+    "7fcafe.wwvip88.site": {
+      "confidence": 0.88,
+      "date": "2026-11-06 15:05:31",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Amazon, reported by a Japanese-language account.",
+      "threat_type": "phishing",
+      "tweet_id": "2118721448491782265",
+      "type": "domain",
+      "value": "7fcafe.wwvip88.site"
     },
     "7fec388a861ecd2cef7850cb45efdb90a21e7dcedac99ab9f2360361a8667765": {
       "confidence": 0.6,
@@ -39015,22 +39061,6 @@
       "tweet_id": "2116746237684982184",
       "type": "domain",
       "value": "adobeacrobatupdate.xyz"
-    },
-    "adserverworkshub.com": {
-      "confidence": 0.85,
-      "date": "2026-10-07 13:43:37",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malvertising",
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Fake MS Teams download page served via Bing ad; EtherHiding on Polygon leads to ClickFix, update.zip, DLL sideloading via BdeUISrv.exe and stage 2 at adserverworkshub[.]com.",
-      "threat_type": "malware",
-      "tweet_id": "2107829200942235910",
-      "type": "domain",
-      "value": "adserverworkshub.com"
     },
     "advanceamazon.com": {
       "confidence": 0.4,
@@ -45037,6 +45067,21 @@
       "type": "domain",
       "value": "aoqinwwrizxbrwm3qb6l4jzgujgmcetp4jaug7fqylbf3xcwqwzvbuid.onion"
     },
+    "api-63nkaf68d.berimazinjagentleman.sbs": {
+      "confidence": 0.92,
+      "date": "2026-11-06 15:18:43",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "Phishing abusing AWS Lambda Function URLs mimicking OneDrive, leading to a Microsoft login page using adversary-in-the-middle (AiTM) techniques.",
+      "threat_type": "phishing",
+      "tweet_id": "2118724766940922306",
+      "type": "domain",
+      "value": "api-63nkaf68d.berimazinjagentleman.sbs"
+    },
     "api-webvision.com": {
       "confidence": 0.9,
       "date": "2026-10-29 09:00:26",
@@ -45084,6 +45129,38 @@
       "tweet_id": "2115887941591732724",
       "type": "domain",
       "value": "api.kkxsnjd.click"
+    },
+    "api.kyamich.dev": {
+      "confidence": 0.85,
+      "date": "2026-11-06 11:56:14",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": "Ambrella RAT",
+      "suggested_tags": [
+        "rat",
+        "malware",
+        "c2"
+      ],
+      "summary": "AMBRELLA RAT posing as Microsoft Edge Update, with remote shell, screen/webcam streaming, Telegram tdata theft and Run-key persistence; C2 api.kyamich.dev:80.",
+      "threat_type": "malware",
+      "tweet_id": "2118673813302845946",
+      "type": "domain",
+      "value": "api.kyamich.dev"
+    },
+    "api.kyamich.dev:80": {
+      "confidence": 0.85,
+      "date": "2026-11-06 11:56:14",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": "Ambrella RAT",
+      "suggested_tags": [
+        "rat",
+        "malware",
+        "c2"
+      ],
+      "summary": "AMBRELLA RAT posing as Microsoft Edge Update, with remote shell, screen/webcam streaming, Telegram tdata theft and Run-key persistence; C2 api.kyamich.dev:80.",
+      "threat_type": "malware",
+      "tweet_id": "2118673813302845946",
+      "type": "url",
+      "value": "http://api.kyamich.dev:80"
     },
     "api.mitsui.smt7mlj.pro": {
       "confidence": 0.9,
@@ -48514,6 +48591,34 @@
       "type": "domain",
       "value": "authy-ledger.at"
     },
+    "avinfra.in": {
+      "confidence": 0.9,
+      "date": "2026-11-06 13:03:16",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Alibaba-branded phishing page hosted at avinfra.in on IP 192.185.142.84.",
+      "threat_type": "phishing",
+      "tweet_id": "2118690680042029294",
+      "type": "domain",
+      "value": "avinfra.in"
+    },
+    "avinfra.in/li/alibaba": {
+      "confidence": 0.9,
+      "date": "2026-11-06 13:03:16",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Alibaba-branded phishing page hosted at avinfra.in on IP 192.185.142.84.",
+      "threat_type": "phishing",
+      "tweet_id": "2118690680042029294",
+      "type": "url",
+      "value": "http://avinfra.in/Li/alibaba"
+    },
     "aw.ktonemail.com": {
       "confidence": 0.55,
       "date": "2026-11-04 12:02:07",
@@ -49089,23 +49194,6 @@
       "type": "sha256",
       "value": "baf42fcd4eb96c00f3393ebc6239e1ce8b07bc165786f1aa6469fd2899f43cc0"
     },
-    "bagueie.xyz": {
-      "confidence": 0.9,
-      "date": "2026-10-07 13:04:41",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": "Phexia",
-      "suggested_tags": [
-        "c2",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Latest C2 domains for Phexia, a macOS infostealer that stores its C2 domain names on the Polygon blockchain.",
-      "threat_type": "c2",
-      "tweet_id": "2107819401319735711",
-      "type": "domain",
-      "value": "bagueie.xyz"
-    },
     "balladcompass11.com": {
       "confidence": 0.75,
       "date": "2026-10-12 06:19:51",
@@ -49524,6 +49612,36 @@
       "tweet_id": "2117202778120658993",
       "type": "domain",
       "value": "bepxt.online"
+    },
+    "berimazinjagentleman.sbs": {
+      "confidence": 0.92,
+      "date": "2026-11-06 15:18:43",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "Phishing abusing AWS Lambda Function URLs mimicking OneDrive, leading to a Microsoft login page using adversary-in-the-middle (AiTM) techniques.",
+      "threat_type": "phishing",
+      "tweet_id": "2118724766940922306",
+      "type": "domain",
+      "value": "berimazinjagentleman.sbs"
+    },
+    "berimazinjagentleman.sbs/common?key=63nkaf68d": {
+      "confidence": 0.92,
+      "date": "2026-11-06 15:18:43",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "Phishing abusing AWS Lambda Function URLs mimicking OneDrive, leading to a Microsoft login page using adversary-in-the-middle (AiTM) techniques.",
+      "threat_type": "phishing",
+      "tweet_id": "2118724766940922306",
+      "type": "url",
+      "value": "https://berimazinjagentleman.sbs/common?key=63nkaf68d"
     },
     "best-diwali-offers.shop": {
       "confidence": 0.75,
@@ -50465,6 +50583,21 @@
       "tweet_id": "2117699659430867297",
       "type": "domain",
       "value": "blueguradian.com"
+    },
+    "bluerocksfinance.live": {
+      "confidence": 0.85,
+      "date": "2026-11-06 18:04:02",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Fake banking site posing as BlueRock Finance harvesting login credentials, SSN/TIN and ID documents via fake login and KYC pages.",
+      "threat_type": "phishing",
+      "tweet_id": "2118766371471601751",
+      "type": "domain",
+      "value": "bluerocksfinance.live"
     },
     "bluesoftsdocrks.com": {
       "confidence": 0.9,
@@ -54473,6 +54606,36 @@
       "type": "url",
       "value": "https://citrixplugins.blob.core.windows.net/winscp/Windows.Forms.ps1"
     },
+    "cjoxgdvexb6wyhih45rmzgeram0vijbb.lambda-url.us-east-1.on.aws": {
+      "confidence": 0.92,
+      "date": "2026-11-06 15:18:43",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "Phishing abusing AWS Lambda Function URLs mimicking OneDrive, leading to a Microsoft login page using adversary-in-the-middle (AiTM) techniques.",
+      "threat_type": "phishing",
+      "tweet_id": "2118724766940922306",
+      "type": "domain",
+      "value": "cjoxgdvexb6wyhih45rmzgeram0vijbb.lambda-url.us-east-1.on.aws"
+    },
+    "cjoxgdvexb6wyhih45rmzgeram0vijbb.lambda-url.us-east-1.on.aws/?meeting=pmvgedxroe={victim's": {
+      "confidence": 0.92,
+      "date": "2026-11-06 15:18:43",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "Phishing abusing AWS Lambda Function URLs mimicking OneDrive, leading to a Microsoft login page using adversary-in-the-middle (AiTM) techniques.",
+      "threat_type": "phishing",
+      "tweet_id": "2118724766940922306",
+      "type": "url",
+      "value": "https://cjoxgdvexb6wyhih45rmzgeram0vijbb.lambda-url.us-east-1.on.aws/?meeting=pmvgedxroe={victim's"
+    },
     "ck.wmgg5.com": {
       "confidence": 0.55,
       "date": "2026-11-04 12:02:07",
@@ -55564,23 +55727,6 @@
       "type": "url",
       "value": "https://corvtervsoa-te.xyz/aioserb/?tid="
     },
-    "couhe79.xyz": {
-      "confidence": 0.9,
-      "date": "2026-10-07 13:04:41",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": "Phexia",
-      "suggested_tags": [
-        "c2",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Latest C2 domains for Phexia, a macOS infostealer that stores its C2 domain names on the Polygon blockchain.",
-      "threat_type": "c2",
-      "tweet_id": "2107819401319735711",
-      "type": "domain",
-      "value": "couhe79.xyz"
-    },
     "crackcodes.in": {
       "confidence": 0.8,
       "date": "2026-10-20 10:33:15",
@@ -55676,23 +55822,6 @@
       "tweet_id": "2118110711897567316",
       "type": "domain",
       "value": "cruisemacauu-jp.com"
-    },
-    "crying881.beer": {
-      "confidence": 0.9,
-      "date": "2026-10-07 13:04:41",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": "Phexia",
-      "suggested_tags": [
-        "c2",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Latest C2 domains for Phexia, a macOS infostealer that stores its C2 domain names on the Polygon blockchain.",
-      "threat_type": "c2",
-      "tweet_id": "2107819401319735711",
-      "type": "domain",
-      "value": "crying881.beer"
     },
     "crystalmnhomes.com": {
       "confidence": 0.85,
@@ -56195,6 +56324,20 @@
       "type": "sha256",
       "value": "d91922934056bc0894d968a31eb95e9990b90fe50757ab6a7dbf817c210c3e9c"
     },
+    "d931c39f4326d7661be2441f1dc20a62dc75c6966d7b7a25e2f8de52ef51c551": {
+      "confidence": 0.4,
+      "date": "2026-11-06 14:21:28",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "List of four related SHA-256 sample hashes, part of a thread about Azure-hosted malicious installers.",
+      "threat_type": "malware",
+      "tweet_id": "2118710360152711333",
+      "type": "sha256",
+      "value": "d931c39f4326d7661be2441f1dc20a62dc75c6966d7b7a25e2f8de52ef51c551"
+    },
     "d97bec1a5a114f4a524dd98c2249fe3d65dcdcc22f229edf8dba45757061f119": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -56492,6 +56635,20 @@
       "tweet_id": "2118110711897567316",
       "type": "sha256",
       "value": "dc7295a605c3486350682d7bbb4dc391d5c30c047f02748bb2d914ecd8879749"
+    },
+    "dd02e2d0d5f18d120933621a82401da79eb62c2009fda554460581ffee20a8de": {
+      "confidence": 0.4,
+      "date": "2026-11-06 14:21:28",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "List of four related SHA-256 sample hashes, part of a thread about Azure-hosted malicious installers.",
+      "threat_type": "malware",
+      "tweet_id": "2118710360152711333",
+      "type": "sha256",
+      "value": "dd02e2d0d5f18d120933621a82401da79eb62c2009fda554460581ffee20a8de"
     },
     "ddc85ad4885dd3da9ac8de4c3bc0392c0b2ccee075b79c8564ba71394d5b7aa6": {
       "confidence": 0.95,
@@ -59985,6 +60142,20 @@
       "tweet_id": "2111216711831810173",
       "type": "sha256",
       "value": "ee39f091a23c746763ff44a273d11307abe5ca531f363b5621dfaa695f39a37b"
+    },
+    "ee3e768983ac1090ee49278575dabea12723527ab9442e7b603ad9b2d7d8f74e": {
+      "confidence": 0.5,
+      "date": "2026-11-06 14:25:37",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "MSI sample related to files hosted on Azure cloudapp infrastructure with no AV detections on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2118711403674501451",
+      "type": "sha256",
+      "value": "ee3e768983ac1090ee49278575dabea12723527ab9442e7b603ad9b2d7d8f74e"
     },
     "ee710c2430567c7740026a3b4772c1c22516196285a58f976b91e2f6ae5dfab3": {
       "confidence": 0.4,
@@ -63598,6 +63769,34 @@
       "type": "domain",
       "value": "foxnevs.com"
     },
+    "fpnov4-zone.eastus.cloudapp.azure.com": {
+      "confidence": 0.5,
+      "date": "2026-11-06 14:25:37",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Suspicious file hosted on an Azure cloudapp domain with no AV detections, flagged sarcastically as likely malicious.",
+      "threat_type": "malware",
+      "tweet_id": "2118708603120996656",
+      "type": "domain",
+      "value": "fpnov4-zone.eastus.cloudapp.azure.com"
+    },
+    "fpnov4-zone.eastus.cloudapp.azure.com/files/kb59905": {
+      "confidence": 0.5,
+      "date": "2026-11-06 14:25:37",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Suspicious file hosted on an Azure cloudapp domain with no AV detections, flagged sarcastically as likely malicious.",
+      "threat_type": "malware",
+      "tweet_id": "2118708603120996656",
+      "type": "url",
+      "value": "https://fpnov4-zone.eastus.cloudapp.azure.com/files/KB59905"
+    },
     "fr-ca.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -65311,23 +65510,6 @@
       "type": "url",
       "value": "http://hackforums.net/showthread.php?tid=6330629"
     },
-    "hahah1101.mom": {
-      "confidence": 0.9,
-      "date": "2026-10-07 13:04:41",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": "Phexia",
-      "suggested_tags": [
-        "c2",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Latest C2 domains for Phexia, a macOS infostealer that stores its C2 domain names on the Polygon blockchain.",
-      "threat_type": "c2",
-      "tweet_id": "2107819401319735711",
-      "type": "domain",
-      "value": "hahah1101.mom"
-    },
     "handwrittenresults.com": {
       "confidence": 0.8,
       "date": "2026-10-29 01:56:27",
@@ -66398,23 +66580,6 @@
       "tweet_id": "2117036975232332115",
       "type": "domain",
       "value": "huechura.firebaseapp.com"
-    },
-    "hugg1ngvx.top": {
-      "confidence": 0.9,
-      "date": "2026-10-07 13:04:41",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": "Phexia",
-      "suggested_tags": [
-        "c2",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Latest C2 domains for Phexia, a macOS infostealer that stores its C2 domain names on the Polygon blockchain.",
-      "threat_type": "c2",
-      "tweet_id": "2107819401319735711",
-      "type": "domain",
-      "value": "hugg1ngvx.top"
     },
     "huipiaoxia-jp.com": {
       "confidence": 0.75,
@@ -67983,23 +68148,6 @@
       "tweet_id": "2116032408403530162",
       "type": "url",
       "value": "https://jr-east.52hysmj.com/NeAbcbyy/"
-    },
-    "jrxciw2.xyz": {
-      "confidence": 0.9,
-      "date": "2026-10-07 13:04:41",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": "Phexia",
-      "suggested_tags": [
-        "c2",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Latest C2 domains for Phexia, a macOS infostealer that stores its C2 domain names on the Polygon blockchain.",
-      "threat_type": "c2",
-      "tweet_id": "2107819401319735711",
-      "type": "domain",
-      "value": "jrxciw2.xyz"
     },
     "js-stable.pupplements.com": {
       "confidence": 0.85,
@@ -72791,23 +72939,6 @@
       "type": "domain",
       "value": "nodehost-whatsapp.com"
     },
-    "nomaiei.sbs": {
-      "confidence": 0.9,
-      "date": "2026-10-07 13:04:41",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": "Phexia",
-      "suggested_tags": [
-        "c2",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Latest C2 domains for Phexia, a macOS infostealer that stores its C2 domain names on the Polygon blockchain.",
-      "threat_type": "c2",
-      "tweet_id": "2107819401319735711",
-      "type": "domain",
-      "value": "nomaiei.sbs"
-    },
     "nosqldb-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -76846,6 +76977,36 @@
       "type": "domain",
       "value": "rqszsx.cn"
     },
+    "rsg63gpp.s3.us-east-2.amazonaws.com": {
+      "confidence": 0.85,
+      "date": "2026-11-06 14:20:00",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Japanese tech-support scam page hosted on an AWS S3 bucket, urging victims to call a phone number.",
+      "threat_type": "scam",
+      "tweet_id": "2118709993256202386",
+      "type": "domain",
+      "value": "rsg63gpp.s3.us-east-2.amazonaws.com"
+    },
+    "rsg63gpp.s3.us-east-2.amazonaws.com/index.html": {
+      "confidence": 0.85,
+      "date": "2026-11-06 14:20:00",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Japanese tech-support scam page hosted on an AWS S3 bucket, urging victims to call a phone number.",
+      "threat_type": "scam",
+      "tweet_id": "2118709993256202386",
+      "type": "url",
+      "value": "https://rsg63gpp.s3.us-east-2.amazonaws.com/index.html"
+    },
     "rsvpconnect-events.com": {
       "confidence": 0.9,
       "date": "2026-10-28 13:30:23",
@@ -77273,23 +77434,6 @@
       "tweet_id": "2117650669599350846",
       "type": "domain",
       "value": "saw-strops-tedy.top"
-    },
-    "sayosay.cc": {
-      "confidence": 0.9,
-      "date": "2026-10-07 13:04:41",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": "Phexia",
-      "suggested_tags": [
-        "c2",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Latest C2 domains for Phexia, a macOS infostealer that stores its C2 domain names on the Polygon blockchain.",
-      "threat_type": "c2",
-      "tweet_id": "2107819401319735711",
-      "type": "domain",
-      "value": "sayosay.cc"
     },
     "scan.webstatici-whatsapp.com": {
       "confidence": 0.85,
@@ -81876,22 +82020,6 @@
       "type": "url",
       "value": "https://teams-meeting-invite.icu/Teamsetup.msi"
     },
-    "teams-microsoft-downloads.com": {
-      "confidence": 0.85,
-      "date": "2026-10-07 13:43:37",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malvertising",
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Fake MS Teams download page served via Bing ad; EtherHiding on Polygon leads to ClickFix, update.zip, DLL sideloading via BdeUISrv.exe and stage 2 at adserverworkshub[.]com.",
-      "threat_type": "malware",
-      "tweet_id": "2107829200942235910",
-      "type": "domain",
-      "value": "teams-microsoft-downloads.com"
-    },
     "teamsmeeting.site": {
       "confidence": 0.8,
       "date": "2026-10-24 05:16:18",
@@ -83640,22 +83768,6 @@
       "type": "domain",
       "value": "update.neewsoo.com"
     },
-    "update.zip": {
-      "confidence": 0.85,
-      "date": "2026-10-07 13:43:37",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malvertising",
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Fake MS Teams download page served via Bing ad; EtherHiding on Polygon leads to ClickFix, update.zip, DLL sideloading via BdeUISrv.exe and stage 2 at adserverworkshub[.]com.",
-      "threat_type": "malware",
-      "tweet_id": "2107829200942235910",
-      "type": "domain",
-      "value": "update.zip"
-    },
     "updatestates.blob.core.windows.net": {
       "confidence": 0.7,
       "date": "2026-10-20 11:09:21",
@@ -84611,6 +84723,20 @@
       "tweet_id": "2110332578850918854",
       "type": "url",
       "value": "http://vsdhjjt.club:5312"
+    },
+    "vt3.eu": {
+      "confidence": 0.75,
+      "date": "2026-11-06 13:15:03",
+      "enriched_at": "2026-11-06T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "C2 panel with HVNC console hosted on vt3.eu and IP 217.154.47.115.",
+      "threat_type": "c2",
+      "tweet_id": "2118693648321978656",
+      "type": "domain",
+      "value": "vt3.eu"
     },
     "vwwv-roblox.co": {
       "confidence": 0.92,
@@ -86364,20 +86490,6 @@
       "tweet_id": "2111366073953972720",
       "type": "domain",
       "value": "workspacegoogle.pp.ru"
-    },
-    "workspacegranite.com": {
-      "confidence": 0.85,
-      "date": "2026-10-07 16:43:21",
-      "enriched_at": "2026-10-07T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site workspacegranite[.]com posing as a Lowe's window offer, using unrelated destinations with public risk signals.",
-      "threat_type": "phishing",
-      "tweet_id": "2107874430890492163",
-      "type": "domain",
-      "value": "workspacegranite.com"
     },
     "worldweb-whatsapp.com": {
       "confidence": 0.75,
@@ -88890,6 +89002,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-06T12:40:04Z",
+  "generated_at": "2026-11-06T18:40:04Z",
   "window_days": 30
 }
