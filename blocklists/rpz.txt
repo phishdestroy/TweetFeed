@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2598
-; Updated: 2026-11-06T19:30:20Z
+; Entries: 2602
+; Updated: 2026-11-06T21:00:21Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793993420 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793998821 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2754,6 +2754,8 @@ join-zoomm.online CNAME .
 *.join-zoomm.online CNAME .
 joinushealth.com CNAME .
 *.joinushealth.com CNAME .
+joinzoommeeting.online CNAME .
+*.joinzoommeeting.online CNAME .
 joker-whatsapp.com CNAME .
 *.joker-whatsapp.com CNAME .
 jorvlen.cfd CNAME .
@@ -5186,12 +5188,18 @@ zoominviteus07.pages.dev CNAME .
 *.zoominviteus07.pages.dev CNAME .
 zoomjoinlive.com CNAME .
 *.zoomjoinlive.com CNAME .
+zoommeet.live CNAME .
+*.zoommeet.live CNAME .
+zoommeetcall.live CNAME .
+*.zoommeetcall.live CNAME .
 zoommeeting.click CNAME .
 *.zoommeeting.click CNAME .
 zoommeetingconnect.click CNAME .
 *.zoommeetingconnect.click CNAME .
 zoomwebmeet.icu CNAME .
 *.zoomwebmeet.icu CNAME .
+zoomworkplace.sbs CNAME .
+*.zoomworkplace.sbs CNAME .
 zqfancu.cn CNAME .
 *.zqfancu.cn CNAME .
 zqfenen.cn CNAME .
