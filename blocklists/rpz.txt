@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2588
-; Updated: 2026-11-06T14:45:18Z
+; Entries: 2590
+; Updated: 2026-11-06T15:00:26Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793976318 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793977226 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -794,6 +794,8 @@ authpush-whatsapp.com CNAME .
 *.authpush-whatsapp.com CNAME .
 authy-ledger.at CNAME .
 *.authy-ledger.at CNAME .
+avinfra.in CNAME .
+*.avinfra.in CNAME .
 aw.ktonemail.com CNAME .
 *.aw.ktonemail.com CNAME .
 await-whatsapp.com CNAME .
@@ -3792,6 +3794,8 @@ rpc-framework-check.cfd CNAME .
 *.rpc-framework-check.cfd CNAME .
 rqszsx.cn CNAME .
 *.rqszsx.cn CNAME .
+rsg63gpp.s3.us-east-2.amazonaws.com CNAME .
+*.rsg63gpp.s3.us-east-2.amazonaws.com CNAME .
 rsvpconnect-events.com CNAME .
 *.rsvpconnect-events.com CNAME .
 rthvrq.cc CNAME .
