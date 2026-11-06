@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-06 09:30:23 (UTC)</th>
+        <th colspan=4>2026-11-06 09:45:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 168 | 635 | 3165 | 44628 |
-| **:globe_with_meridians: Domains** | 162 | 543 | 2669 | 38418 |
+| **:link: URLs** | 169 | 636 | 3166 | 44629 |
+| **:globe_with_meridians: Domains** | 163 | 544 | 2670 | 38419 |
 | **:triangular_flag_on_post: IPs** | 6 | 336 | 2246 | 8063 |
-| **:1234: SHA256** | 3 | 187 | 555 | 3187 |
+| **:1234: SHA256** | 4 | 188 | 556 | 3188 |
 | **:1234: MD5** | 1 | 27 | 116 | 2076 |
 
 </div>
@@ -237,9 +237,9 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#5** | [masaomi346](https://x.com/masaomi346) | 5 |
 | **#6** | [LandscapeThreat](https://x.com/LandscapeThreat) | 4 |
 | **#7** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#8** | [TKemmerling](https://x.com/TKemmerling) | 2 |
-| **#9** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#10** | [-](https://x.com/-) | 0 |
+| **#8** | [smica83](https://x.com/smica83) | 3 |
+| **#9** | [TKemmerling](https://x.com/TKemmerling) | 2 |
+| **#10** | [PhishStats](https://x.com/PhishStats) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
