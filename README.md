@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-06 10:30:21 (UTC)</th>
+        <th colspan=4>2026-11-06 10:45:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 169 | 636 | 3166 | 44629 |
+| **:link: URLs** | 170 | 637 | 3167 | 44630 |
 | **:globe_with_meridians: Domains** | 163 | 544 | 2670 | 38419 |
-| **:triangular_flag_on_post: IPs** | 9 | 339 | 2249 | 8066 |
-| **:1234: SHA256** | 4 | 188 | 556 | 3188 |
+| **:triangular_flag_on_post: IPs** | 12 | 342 | 2252 | 8069 |
+| **:1234: SHA256** | 7 | 191 | 559 | 3191 |
 | **:1234: MD5** | 1 | 27 | 116 | 2076 |
 
 </div>
@@ -210,7 +210,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 0 | 20 | 11687 |
 | **#malware** | 3 | 131 | 1148 | 4129 |
 | **#scam** | 0 | 4 | 40 | 2992 |
-| **#C2** | 3 | 39 | 127 | 2206 |
+| **#C2** | 5 | 41 | 129 | 2208 |
 | **#APT** | 0 | 20 | 51 | 1479 |
 | **#ClickFix** | 0 | 72 | 251 | 1185 |
 | **#ransomware** | 0 | 17 | 92 | 698 |
@@ -233,12 +233,12 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 299 |
 | **#2** | [copy_and_paster](https://x.com/copy_and_paster) | 10 |
 | **#3** | [Metemcyber](https://x.com/Metemcyber) | 8 |
-| **#4** | [suyog41](https://x.com/suyog41) | 7 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 5 |
-| **#6** | [LandscapeThreat](https://x.com/LandscapeThreat) | 4 |
-| **#7** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#8** | [smica83](https://x.com/smica83) | 3 |
-| **#9** | [Fact_Finder03](https://x.com/Fact_Finder03) | 3 |
+| **#4** | [smica83](https://x.com/smica83) | 8 |
+| **#5** | [suyog41](https://x.com/suyog41) | 7 |
+| **#6** | [masaomi346](https://x.com/masaomi346) | 5 |
+| **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 5 |
+| **#8** | [LandscapeThreat](https://x.com/LandscapeThreat) | 4 |
+| **#9** | [phishunt_io](https://x.com/phishunt_io) | 3 |
 | **#10** | [TKemmerling](https://x.com/TKemmerling) | 2 |
 <!-- TOP_REPORTERS_END -->
 
