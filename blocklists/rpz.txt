@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2413
-; Updated: 2026-11-06T00:15:18Z
+; Entries: 2416
+; Updated: 2026-11-06T00:45:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793924118 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793925919 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -968,6 +968,8 @@ canabit.ca CNAME .
 *.canabit.ca CNAME .
 canjepuntosrapidobac.click CNAME .
 *.canjepuntosrapidobac.click CNAME .
+carloxmextos.org CNAME .
+*.carloxmextos.org CNAME .
 carlyle.login-options.com CNAME .
 *.carlyle.login-options.com CNAME .
 cartwaretech.click CNAME .
@@ -3738,6 +3740,8 @@ sp26ct10-zorvemi-biz-kaluno.pages.dev CNAME .
 *.sp26ct10-zorvemi-biz-kaluno.pages.dev CNAME .
 sp30ct-vadex-biz-qanik-rumol.pages.dev CNAME .
 *.sp30ct-vadex-biz-qanik-rumol.pages.dev CNAME .
+splace.co.za CNAME .
+*.splace.co.za CNAME .
 splitter-whatsapp.com CNAME .
 *.splitter-whatsapp.com CNAME .
 spnetflx.com CNAME .
@@ -4570,6 +4574,8 @@ webworld-whatsapp.com CNAME .
 *.webworld-whatsapp.com CNAME .
 wechat.proxy08.com CNAME .
 *.wechat.proxy08.com CNAME .
+wekash.net CNAME .
+*.wekash.net CNAME .
 welcome-whatsapp.com CNAME .
 *.welcome-whatsapp.com CNAME .
 wellsfargo-secure-login.beauty CNAME .
