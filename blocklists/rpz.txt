@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2596
-; Updated: 2026-11-06T18:15:18Z
+; Entries: 2598
+; Updated: 2026-11-06T19:30:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793988918 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793993420 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -4454,6 +4454,8 @@ tergenerator.com CNAME .
 *.tergenerator.com CNAME .
 terms.webapi-whatsapp.com CNAME .
 *.terms.webapi-whatsapp.com CNAME .
+test-api.claude.gg CNAME .
+*.test-api.claude.gg CNAME .
 testenv-whatsapp.com CNAME .
 *.testenv-whatsapp.com CNAME .
 testenv1829.com CNAME .
@@ -5204,5 +5206,7 @@ zvh4.com CNAME .
 *.zvh4.com CNAME .
 zxc.pidanokbj.xyz CNAME .
 *.zxc.pidanokbj.xyz CNAME .
+zz.aiapi2025.top CNAME .
+*.zz.aiapi2025.top CNAME .
 zzpwttke.cn CNAME .
 *.zzpwttke.cn CNAME .
