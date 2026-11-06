@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2576
-; Updated: 2026-11-06T09:45:19Z
+; Entries: 2577
+; Updated: 2026-11-06T12:00:25Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793958319 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793966425 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3852,6 +3852,8 @@ sdueioy.study CNAME .
 *.sdueioy.study CNAME .
 sea-whatsapp.com CNAME .
 *.sea-whatsapp.com CNAME .
+seafood-controllers-prev-publish.trycloudflare.com CNAME .
+*.seafood-controllers-prev-publish.trycloudflare.com CNAME .
 search1y.firebaseapp.com CNAME .
 *.search1y.firebaseapp.com CNAME .
 searchly-five.vercel.app CNAME .

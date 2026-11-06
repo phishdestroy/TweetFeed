@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-06 11:45:19 (UTC)</th>
+        <th colspan=4>2026-11-06 12:00:27 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 170 | 637 | 3167 | 44630 |
-| **:globe_with_meridians: Domains** | 163 | 544 | 2670 | 38419 |
+| **:link: URLs** | 172 | 639 | 3169 | 44632 |
+| **:globe_with_meridians: Domains** | 165 | 546 | 2672 | 38421 |
 | **:triangular_flag_on_post: IPs** | 12 | 342 | 2252 | 8069 |
-| **:1234: SHA256** | 7 | 191 | 559 | 3191 |
+| **:1234: SHA256** | 8 | 192 | 560 | 3192 |
 | **:1234: MD5** | 1 | 27 | 116 | 2076 |
 
 </div>
@@ -232,14 +232,14 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 299 |
 | **#2** | [copy_and_paster](https://x.com/copy_and_paster) | 10 |
-| **#3** | [Metemcyber](https://x.com/Metemcyber) | 8 |
-| **#4** | [smica83](https://x.com/smica83) | 8 |
+| **#3** | [smica83](https://x.com/smica83) | 9 |
+| **#4** | [Metemcyber](https://x.com/Metemcyber) | 8 |
 | **#5** | [suyog41](https://x.com/suyog41) | 7 |
 | **#6** | [masaomi346](https://x.com/masaomi346) | 5 |
 | **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 5 |
 | **#8** | [LandscapeThreat](https://x.com/LandscapeThreat) | 4 |
-| **#9** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#10** | [TKemmerling](https://x.com/TKemmerling) | 2 |
+| **#9** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#10** | [phishunt_io](https://x.com/phishunt_io) | 3 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
