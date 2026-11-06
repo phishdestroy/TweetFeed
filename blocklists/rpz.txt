@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2577
-; Updated: 2026-11-06T12:00:25Z
+; Entries: 2586
+; Updated: 2026-11-06T12:15:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793966425 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793967320 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -162,8 +162,14 @@ activekala.shop CNAME .
 *.activekala.shop CNAME .
 acxjixsd.ltd CNAME .
 *.acxjixsd.ltd CNAME .
+add-mfa.com CNAME .
+*.add-mfa.com CNAME .
+addoktapasskey.com CNAME .
+*.addoktapasskey.com CNAME .
 addsecureapps.com CNAME .
 *.addsecureapps.com CNAME .
+addyourpasskey.com CNAME .
+*.addyourpasskey.com CNAME .
 admin-heteml.com CNAME .
 *.admin-heteml.com CNAME .
 admin.model-point.click CNAME .
@@ -1522,6 +1528,8 @@ crackcodes.in CNAME .
 *.crackcodes.in CNAME .
 craigbohart.com CNAME .
 *.craigbohart.com CNAME .
+createpasskey.com CNAME .
+*.createpasskey.com CNAME .
 crepiehumru.lol CNAME .
 *.crepiehumru.lol CNAME .
 cruahop.shop CNAME .
@@ -2786,6 +2794,8 @@ kethvion.cfd CNAME .
 *.kethvion.cfd CNAME .
 keychainagent.pro CNAME .
 *.keychainagent.pro CNAME .
+keysyncos.com CNAME .
+*.keysyncos.com CNAME .
 kfgwq34.cn CNAME .
 *.kfgwq34.cn CNAME .
 kid-whatsapp.com CNAME .
@@ -3094,6 +3104,8 @@ messenger.webstatici-whatsapp.com CNAME .
 *.messenger.webstatici-whatsapp.com CNAME .
 metrics-whatsapp.com CNAME .
 *.metrics-whatsapp.com CNAME .
+mfa-passkey.com CNAME .
+*.mfa-passkey.com CNAME .
 mgfdeutschland.com CNAME .
 *.mgfdeutschland.com CNAME .
 mggesq.cn CNAME .
@@ -3222,6 +3234,8 @@ mysmbc.iojdao.com CNAME .
 *.mysmbc.iojdao.com CNAME .
 myssologin.com CNAME .
 *.myssologin.com CNAME .
+myssosetup.com CNAME .
+*.myssosetup.com CNAME .
 mzfpvc.cfd CNAME .
 *.mzfpvc.cfd CNAME .
 n1-us-google.com CNAME .
@@ -3438,6 +3452,8 @@ pairing.webstatici-whatsapp.com CNAME .
 *.pairing.webstatici-whatsapp.com CNAME .
 parse-whatsapp.com CNAME .
 *.parse-whatsapp.com CNAME .
+passkeycreate.com CNAME .
+*.passkeycreate.com CNAME .
 password.webapi-whatsapp.com CNAME .
 *.password.webapi-whatsapp.com CNAME .
 patch-whatsapp.com CNAME .
@@ -3876,6 +3892,8 @@ secpro-whatsapp.com CNAME .
 *.secpro-whatsapp.com CNAME .
 secsys-whatsapp.com CNAME .
 *.secsys-whatsapp.com CNAME .
+secure-passkey.com CNAME .
+*.secure-passkey.com CNAME .
 secure-xdomain-18374.w-group.shop CNAME .
 *.secure-xdomain-18374.w-group.shop CNAME .
 secure-xdomain-25359.dashboard-payment.app CNAME .

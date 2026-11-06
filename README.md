@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-06 12:00:27 (UTC)</th>
+        <th colspan=4>2026-11-06 12:15:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 172 | 639 | 3169 | 44632 |
-| **:globe_with_meridians: Domains** | 165 | 546 | 2672 | 38421 |
-| **:triangular_flag_on_post: IPs** | 12 | 342 | 2252 | 8069 |
+| **:link: URLs** | 183 | 650 | 3180 | 44643 |
+| **:globe_with_meridians: Domains** | 175 | 556 | 2682 | 38431 |
+| **:triangular_flag_on_post: IPs** | 13 | 343 | 2253 | 8070 |
 | **:1234: SHA256** | 8 | 192 | 560 | 3192 |
 | **:1234: MD5** | 1 | 27 | 116 | 2076 |
 
@@ -231,14 +231,14 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 299 |
-| **#2** | [copy_and_paster](https://x.com/copy_and_paster) | 10 |
-| **#3** | [smica83](https://x.com/smica83) | 9 |
-| **#4** | [Metemcyber](https://x.com/Metemcyber) | 8 |
-| **#5** | [suyog41](https://x.com/suyog41) | 7 |
-| **#6** | [masaomi346](https://x.com/masaomi346) | 5 |
-| **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 5 |
-| **#8** | [LandscapeThreat](https://x.com/LandscapeThreat) | 4 |
-| **#9** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#2** | [LandscapeThreat](https://x.com/LandscapeThreat) | 24 |
+| **#3** | [copy_and_paster](https://x.com/copy_and_paster) | 10 |
+| **#4** | [smica83](https://x.com/smica83) | 9 |
+| **#5** | [Metemcyber](https://x.com/Metemcyber) | 8 |
+| **#6** | [suyog41](https://x.com/suyog41) | 7 |
+| **#7** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
+| **#8** | [masaomi346](https://x.com/masaomi346) | 5 |
+| **#9** | [Fact_Finder03](https://x.com/Fact_Finder03) | 5 |
 | **#10** | [phishunt_io](https://x.com/phishunt_io) | 3 |
 <!-- TOP_REPORTERS_END -->
 
