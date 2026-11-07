@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2559
-; Updated: 2026-11-07T17:45:18Z
+; Entries: 2561
+; Updated: 2026-11-07T18:30:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794073518 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794076218 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -896,6 +896,8 @@ binancn.live CNAME .
 *.binancn.live CNAME .
 birch-nuiis-d9q37.xyz CNAME .
 *.birch-nuiis-d9q37.xyz CNAME .
+bitlaunch.io CNAME .
+*.bitlaunch.io CNAME .
 bixsgrb.cn CNAME .
 *.bixsgrb.cn CNAME .
 bjjmsjcfsb.com CNAME .
@@ -3530,6 +3532,8 @@ privacy.webapi-whatsapp.com CNAME .
 *.privacy.webapi-whatsapp.com CNAME .
 privacy.webstatici-whatsapp.com CNAME .
 *.privacy.webstatici-whatsapp.com CNAME .
+privatealps.net CNAME .
+*.privatealps.net CNAME .
 profile.webapi-whatsapp.com CNAME .
 *.profile.webapi-whatsapp.com CNAME .
 profile.webstatici-whatsapp.com CNAME .
