@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-07 12:45:18 (UTC)</th>
+        <th colspan=4>2026-11-07 21:30:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 23 | 674 | 3152 | 44566 |
-| **:globe_with_meridians: Domains** | 22 | 583 | 2654 | 38369 |
-| **:triangular_flag_on_post: IPs** | 1 | 343 | 2236 | 8058 |
+| **:link: URLs** | 29 | 680 | 3158 | 44572 |
+| **:globe_with_meridians: Domains** | 28 | 589 | 2657 | 38372 |
+| **:triangular_flag_on_post: IPs** | 15 | 357 | 2250 | 8072 |
 | **:1234: SHA256** | 1 | 204 | 558 | 3200 |
 | **:1234: MD5** | 0 | 26 | 115 | 2062 |
 
@@ -205,12 +205,12 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 43 | 829 | 3761 | 32269 |
+| **#phishing** | 49 | 835 | 3765 | 32273 |
 | **#Kimsuky** | 0 | 10 | 48 | 13315 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
-| **#malware** | 33 | 161 | 1157 | 4177 |
+| **#malware** | 35 | 163 | 1159 | 4179 |
 | **#scam** | 0 | 2 | 40 | 2962 |
-| **#C2** | 0 | 56 | 145 | 2209 |
+| **#C2** | 1 | 57 | 146 | 2210 |
 | **#APT** | 2 | 22 | 53 | 1470 |
 | **#ClickFix** | 0 | 70 | 233 | 1185 |
 | **#ransomware** | 0 | 17 | 91 | 698 |
@@ -231,15 +231,15 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [masaomi346](https://x.com/masaomi346) | 35 |
-| **#2** | [TKemmerling](https://x.com/TKemmerling) | 8 |
-| **#3** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
-| **#4** | [KesaGataMe0](https://x.com/KesaGataMe0) | 2 |
-| **#5** | [-](https://x.com/-) | 0 |
-| **#6** | [-](https://x.com/-) | 0 |
-| **#7** | [-](https://x.com/-) | 0 |
-| **#8** | [-](https://x.com/-) | 0 |
-| **#9** | [-](https://x.com/-) | 0 |
-| **#10** | [-](https://x.com/-) | 0 |
+| **#2** | [LandscapeThreat](https://x.com/LandscapeThreat) | 13 |
+| **#3** | [TKemmerling](https://x.com/TKemmerling) | 8 |
+| **#4** | [banthisguy9349](https://x.com/banthisguy9349) | 4 |
+| **#5** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
+| **#6** | [KesaGataMe0](https://x.com/KesaGataMe0) | 2 |
+| **#7** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
+| **#8** | [phishunt_io](https://x.com/phishunt_io) | 2 |
+| **#9** | [MitBa1042490](https://x.com/MitBa1042490) | 2 |
+| **#10** | [crimeonprem](https://x.com/crimeonprem) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
