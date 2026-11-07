@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-07 13:30:24 (UTC)</th>
+        <th colspan=4>2026-11-07 13:45:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -190,7 +190,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 25 | 676 | 3154 | 44568 |
 | **:globe_with_meridians: Domains** | 24 | 585 | 2656 | 38371 |
-| **:triangular_flag_on_post: IPs** | 1 | 343 | 2236 | 8058 |
+| **:triangular_flag_on_post: IPs** | 2 | 344 | 2237 | 8059 |
 | **:1234: SHA256** | 1 | 204 | 558 | 3200 |
 | **:1234: MD5** | 0 | 26 | 115 | 2062 |
 
@@ -210,7 +210,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 0 | 20 | 11687 |
 | **#malware** | 33 | 161 | 1157 | 4177 |
 | **#scam** | 0 | 2 | 40 | 2962 |
-| **#C2** | 0 | 56 | 145 | 2209 |
+| **#C2** | 1 | 57 | 146 | 2210 |
 | **#APT** | 2 | 22 | 53 | 1470 |
 | **#ClickFix** | 0 | 70 | 233 | 1185 |
 | **#ransomware** | 0 | 17 | 91 | 698 |
@@ -236,7 +236,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#4** | [KesaGataMe0](https://x.com/KesaGataMe0) | 2 |
 | **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
 | **#6** | [phishunt_io](https://x.com/phishunt_io) | 2 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 1 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
