@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-08 19:30:23 (UTC)</th>
+        <th colspan=4>2026-11-08 19:45:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,9 +187,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 59 | 703 | 3135 | 44514 |
-| **:globe_with_meridians: Domains** | 43 | 602 | 2636 | 38310 |
-| **:triangular_flag_on_post: IPs** | 8 | 357 | 2233 | 8064 |
+| **:link: URLs** | 61 | 705 | 3137 | 44516 |
+| **:globe_with_meridians: Domains** | 44 | 603 | 2637 | 38311 |
+| **:triangular_flag_on_post: IPs** | 9 | 358 | 2234 | 8065 |
 | **:1234: SHA256** | 8 | 205 | 558 | 3209 |
 | **:1234: MD5** | 0 | 26 | 110 | 2058 |
 
@@ -229,7 +229,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 45 |
+| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 47 |
 | **#2** | [skocherhan](https://x.com/skocherhan) | 17 |
 | **#3** | [scanmalware](https://x.com/scanmalware) | 11 |
 | **#4** | [TKemmerling](https://x.com/TKemmerling) | 8 |
