@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-08 20:15:18 (UTC)</th>
+        <th colspan=4>2026-11-08 20:30:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,11 +187,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 61 | 705 | 3137 | 44516 |
-| **:globe_with_meridians: Domains** | 44 | 603 | 2637 | 38311 |
+| **:link: URLs** | 70 | 714 | 3146 | 44525 |
+| **:globe_with_meridians: Domains** | 53 | 612 | 2646 | 38320 |
 | **:triangular_flag_on_post: IPs** | 9 | 358 | 2234 | 8065 |
-| **:1234: SHA256** | 8 | 205 | 558 | 3209 |
-| **:1234: MD5** | 0 | 26 | 110 | 2058 |
+| **:1234: SHA256** | 9 | 206 | 559 | 3210 |
+| **:1234: MD5** | 1 | 27 | 111 | 2059 |
 
 </div>
 
@@ -204,7 +204,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 53 | 848 | 3749 | 32170 |
+| **#phishing** | 67 | 862 | 3763 | 32184 |
 | **#Kimsuky** | 0 | 10 | 48 | 13315 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
 | **#malware** | 45 | 182 | 1185 | 4226 |
@@ -229,14 +229,14 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 47 |
-| **#2** | [skocherhan](https://x.com/skocherhan) | 17 |
+| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 61 |
+| **#2** | [skocherhan](https://x.com/skocherhan) | 19 |
 | **#3** | [scanmalware](https://x.com/scanmalware) | 11 |
 | **#4** | [TKemmerling](https://x.com/TKemmerling) | 8 |
 | **#5** | [TIE__SUN](https://x.com/TIE__SUN) | 8 |
-| **#6** | [phatomcandle](https://x.com/phatomcandle) | 5 |
-| **#7** | [PhishStats](https://x.com/PhishStats) | 4 |
-| **#8** | [banthisguy9349](https://x.com/banthisguy9349) | 4 |
+| **#6** | [banthisguy9349](https://x.com/banthisguy9349) | 6 |
+| **#7** | [phatomcandle](https://x.com/phatomcandle) | 5 |
+| **#8** | [PhishStats](https://x.com/PhishStats) | 4 |
 | **#9** | [Alopsis](https://x.com/Alopsis) | 4 |
 | **#10** | [masaomi346](https://x.com/masaomi346) | 3 |
 <!-- TOP_REPORTERS_END -->

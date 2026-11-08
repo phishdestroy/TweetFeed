@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2539
-; Updated: 2026-11-08T19:45:18Z
+; Entries: 2547
+; Updated: 2026-11-08T20:30:21Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794167118 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794169821 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -876,6 +876,8 @@ binance-com-nk.refers.workers.dev CNAME .
 *.binance-com-nk.refers.workers.dev CNAME .
 binance-kplaw.top CNAME .
 *.binance-kplaw.top CNAME .
+binanceai.fun CNAME .
+*.binanceai.fun CNAME .
 binancecheck.com CNAME .
 *.binancecheck.com CNAME .
 binancecheck.online CNAME .
@@ -1896,6 +1898,18 @@ easydiwali.shop CNAME .
 *.easydiwali.shop CNAME .
 easydriverhub.com CNAME .
 *.easydriverhub.com CNAME .
+echalla.bar CNAME .
+*.echalla.bar CNAME .
+echalla.cam CNAME .
+*.echalla.cam CNAME .
+echalla.cfd CNAME .
+*.echalla.cfd CNAME .
+echalla.com CNAME .
+*.echalla.com CNAME .
+echalla.shop CNAME .
+*.echalla.shop CNAME .
+echalla.xyz CNAME .
+*.echalla.xyz CNAME .
 echallan.party CNAME .
 *.echallan.party CNAME .
 edgeapi-whatsapp.com CNAME .
@@ -2760,6 +2774,8 @@ kitrun-whatsapp.com CNAME .
 *.kitrun-whatsapp.com CNAME .
 kitset-whatsapp.com CNAME .
 *.kitset-whatsapp.com CNAME .
+kittyrdp.com CNAME .
+*.kittyrdp.com CNAME .
 kitweb-whatsapp.com CNAME .
 *.kitweb-whatsapp.com CNAME .
 kjhg.lol CNAME .
