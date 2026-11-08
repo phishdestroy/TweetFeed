@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2528
-; Updated: 2026-11-08T15:30:22Z
+; Entries: 2531
+; Updated: 2026-11-08T18:00:22Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794151822 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794160822 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3146,12 +3146,16 @@ msteamsss.com CNAME .
 *.msteamsss.com CNAME .
 msteamvideoinvites.online CNAME .
 *.msteamvideoinvites.online CNAME .
+mu4lkdtjszjvio9g.public.blob.vercel-storage.com CNAME .
+*.mu4lkdtjszjvio9g.public.blob.vercel-storage.com CNAME .
 mundolatinoradio.info CNAME .
 *.mundolatinoradio.info CNAME .
 mxk-762399649109.southamerica-east1.run.app CNAME .
 *.mxk-762399649109.southamerica-east1.run.app CNAME .
 my-document-101607.proposal-union-9173673.workers.dev CNAME .
 *.my-document-101607.proposal-union-9173673.workers.dev CNAME .
+my-settings-google.com CNAME .
+*.my-settings-google.com CNAME .
 myaccountapps.com CNAME .
 *.myaccountapps.com CNAME .
 mydishisbom-jp.com CNAME .
@@ -3972,6 +3976,8 @@ sonichires.site CNAME .
 *.sonichires.site CNAME .
 sort-whatsapp.com CNAME .
 *.sort-whatsapp.com CNAME .
+soswwsvunulnhlcitpwl.supabase.co CNAME .
+*.soswwsvunulnhlcitpwl.supabase.co CNAME .
 sourceuse.cyou CNAME .
 *.sourceuse.cyou CNAME .
 sox-protest-regular-criticism.trycloudflare.com CNAME .
