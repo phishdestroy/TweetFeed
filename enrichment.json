@@ -1,6 +1,10 @@
 {
-  "count": 6322,
+  "count": 6331,
   "dead_tweets": {
+    "2111212930066706900": {
+      "attempts": 1,
+      "last_attempt": "2026-11-08T12:40:04Z"
+    },
     "2114565057338343930": {
       "attempts": 2,
       "last_attempt": "2026-11-03T06:40:04Z"
@@ -11136,21 +11140,6 @@
       "type": "url",
       "value": "http://170.106.188.119:8084"
     },
-    "170.168.61.117": {
-      "confidence": 0.7,
-      "date": "2026-10-09 11:30:48",
-      "enriched_at": "2026-10-09T12:40:05Z",
-      "family": "Bazuka",
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Bazuka C2 server reported at IP 170.168.61.117 on port 8082.",
-      "threat_type": "c2",
-      "tweet_id": "2108520552990466441",
-      "type": "ip",
-      "value": "170.168.61.117"
-    },
     "170.62.130.5": {
       "confidence": 0.75,
       "date": "2026-10-27 06:37:08",
@@ -13138,18 +13127,6 @@
       "tweet_id": "2117143266449899993",
       "type": "domain",
       "value": "192-166-82-213.plesk.page"
-    },
-    "192.162.199.171": {
-      "confidence": 0.2,
-      "date": "2026-10-09 09:13:50",
-      "enriched_at": "2026-10-09T12:40:05Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Bare IP address 192.162.199.171 shared without context; likely malicious infrastructure.",
-      "threat_type": "other",
-      "tweet_id": "2108486083851739244",
-      "type": "url",
-      "value": "http://192.162.199.171"
     },
     "192.166.82.213": {
       "confidence": 0.5,
@@ -16722,6 +16699,24 @@
       "type": "ip",
       "value": "223.83.183.254"
     },
+    "223fb04f69707d6ca7c22759aded44e22b248bd776914a7920f35850154537ec": {
+      "confidence": 0.88,
+      "date": "2026-11-08 11:29:04",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "surgebuilders.ink impersonates Surge Group with fake jobs; ClickFix lure runs a BAT and encrypted Node.js stealer (install_guard.js) targeting credentials and wallets.",
+      "threat_type": "malware",
+      "tweet_id": "2119391752167768424",
+      "type": "sha256",
+      "value": "223fb04f69707d6ca7c22759aded44e22b248bd776914a7920f35850154537ec"
+    },
     "224meetgooglecomfskqcdzfcwh.com": {
       "confidence": 0.75,
       "date": "2026-10-21 09:43:13",
@@ -17064,34 +17059,6 @@
       "type": "ip",
       "value": "23.94.145.243"
     },
-    "23.94.145.88": {
-      "confidence": 0.6,
-      "date": "2026-10-09 09:28:33",
-      "enriched_at": "2026-10-09T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious MSI installer '45010.msi' downloaded from 23.94.145.88, reported via abuse.ch Bazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2108489787476672597",
-      "type": "ip",
-      "value": "23.94.145.88"
-    },
-    "23.94.145.88/45010": {
-      "confidence": 0.6,
-      "date": "2026-10-09 09:28:33",
-      "enriched_at": "2026-10-09T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious MSI installer '45010.msi' downloaded from 23.94.145.88, reported via abuse.ch Bazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2108489787476672597",
-      "type": "url",
-      "value": "http://23.94.145.88/45010"
-    },
     "23.94.145.93": {
       "confidence": 0.65,
       "date": "2026-10-13 21:14:34",
@@ -17236,6 +17203,24 @@
       "tweet_id": "2112986518981951977",
       "type": "sha256",
       "value": "247b3244ccbb8e33ebba0d3aa66a38f66cfe7d27d91fb299927628249532d10e"
+    },
+    "249626244f23928c75e6c382da62278ed1d4e012a0c0f62beafefc1e4d7c5baa": {
+      "confidence": 0.88,
+      "date": "2026-11-08 11:29:04",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "surgebuilders.ink impersonates Surge Group with fake jobs; ClickFix lure runs a BAT and encrypted Node.js stealer (install_guard.js) targeting credentials and wallets.",
+      "threat_type": "malware",
+      "tweet_id": "2119391752167768424",
+      "type": "sha256",
+      "value": "249626244f23928c75e6c382da62278ed1d4e012a0c0f62beafefc1e4d7c5baa"
     },
     "24dd2168d5c0d0635488a44b1f270ee9bb6634846ce81c4797aa321398d891e7": {
       "confidence": 0.2,
@@ -17989,6 +17974,20 @@
       "type": "sha256",
       "value": "2a7afb187157a4052e5b9797d1d1c7ee807b2edeffef076a08b20b12e3dcf317"
     },
+    "2ad509cca193753e2945c77a5cf5a26943caf8a90df8f1038b05bb4521c436d7": {
+      "confidence": 0.6,
+      "date": "2026-11-08 11:51:14",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious LNK file 'dalil.lnk' seen from Iran, tied to a payload URL on boost.tanmath.shop and a sample on MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2119397330113728557",
+      "type": "sha256",
+      "value": "2ad509cca193753e2945c77a5cf5a26943caf8a90df8f1038b05bb4521c436d7"
+    },
     "2aecb30052c62ea30cccec32977be52d2c8ff84f08850c22b0fa43dc285168ad": {
       "confidence": 0.65,
       "date": "2026-11-02 18:26:43",
@@ -18113,20 +18112,6 @@
       "tweet_id": "2105548045542736119",
       "type": "md5",
       "value": "2e9d1c8bac5d0f288e61bf5987c52203"
-    },
-    "2ec2a1c2cc31a1e5b6cdd9b2f1d6f09804bc042242c432fb0536cb708f49a231": {
-      "confidence": 0.7,
-      "date": "2026-10-09 10:03:47",
-      "enriched_at": "2026-10-09T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious RAR archive 'ScanDocuments.docx.asice.rar' seen from Ukraine, exploiting CVE-2025-8088 (WinRAR path traversal).",
-      "threat_type": "vulnerability",
-      "tweet_id": "2108498652243112285",
-      "type": "sha256",
-      "value": "2ec2a1c2cc31a1e5b6cdd9b2f1d6f09804bc042242c432fb0536cb708f49a231"
     },
     "2efc9cf419817279bfecd7df6179ff5c921d8ec43070c58fcbf4cd535e3a4628": {
       "confidence": 0.6,
@@ -19694,20 +19679,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "34.143.254.176"
-    },
-    "34.143.73.2": {
-      "confidence": 0.8,
-      "date": "2026-10-09 12:13:21",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page hosted on a Google Cloud Run subdomain in southamerica-east1, reported via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2108531257416339560",
-      "type": "ip",
-      "value": "34.143.73.2"
     },
     "34.145.248.40": {
       "confidence": 0.5,
@@ -31663,23 +31634,6 @@
       "type": "sha256",
       "value": "532606ab597ee4f7cd0b0c76ea90e139e601a116bfa355ec1bdbd77566d53e5b"
     },
-    "532b1a2e3d6fe2b628d3e566dbe54165": {
-      "confidence": 0.8,
-      "date": "2026-10-09 08:03:24",
-      "enriched_at": "2026-10-09T12:40:05Z",
-      "family": "Rust Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "macOS Rust-based stealer distributed as DMG files (Zeff.dmg, Sayvora.dmg), using cdnresolver.com subdomains for C2.",
-      "threat_type": "malware",
-      "tweet_id": "2108468355472748856",
-      "type": "md5",
-      "value": "532b1a2e3d6fe2b628d3e566dbe54165"
-    },
     "5363bc92bac44aa2ba87b46c59fd3f78d5cdd32839efa854e97380a55fdacabb": {
       "confidence": 0.9,
       "date": "2026-10-12 14:18:17",
@@ -31953,23 +31907,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "58.145.189.233"
-    },
-    "584d1803b29cb192764b462d13098a2d": {
-      "confidence": 0.85,
-      "date": "2026-10-09 08:03:24",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": "Rust Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "macOS Rust stealer delivered as Sayvora.dmg (MD5 given), with C2 on e1.cdnresolver.com and a2.cdnresolver.com; related sample Sparksly.dmg also mentioned.",
-      "threat_type": "malware",
-      "tweet_id": "2098297735602483511",
-      "type": "md5",
-      "value": "584d1803b29cb192764b462d13098a2d"
     },
     "58648467edabd8e8914b022a8d475bffc6db598086f4505e09815e9d02537f91": {
       "confidence": 0.55,
@@ -32837,6 +32774,24 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "65.109.215.207"
+    },
+    "65.110.40.18": {
+      "confidence": 0.85,
+      "date": "2026-11-08 11:35:57",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "Fake recruitment sites using ClickFix lures deliver a BAT-launched Node.js infostealer targeting browser credentials, SSH keys and crypto wallets; shared infrastructure listed.",
+      "threat_type": "malware",
+      "tweet_id": "2119393481462263979",
+      "type": "url",
+      "value": "http://65.110.40.18"
     },
     "65.52.163.23": {
       "confidence": 0.8,
@@ -34929,6 +34884,20 @@
       "type": "sha256",
       "value": "8192e5a5149d984f6dbe31ef41b5a4ff480828004aa016f0bc2408908bf79889"
     },
+    "81a0aa400193e5bdfda7aeed753a6a8b4a65cd63dd2d23941deab60ea811e36d": {
+      "confidence": 0.3,
+      "date": "2026-11-08 09:23:02",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "User claims the CODOL Classic game contains malware, citing a VirusTotal behavior report for a file hash; claim is unverified.",
+      "threat_type": "malware",
+      "tweet_id": "2119360032479305743",
+      "type": "sha256",
+      "value": "81a0aa400193e5bdfda7aeed753a6a8b4a65cd63dd2d23941deab60ea811e36d"
+    },
     "81bb92e262b064f336a8f3443fccbeca4acd765e64052f7714add1059e7d822b": {
       "confidence": 0.5,
       "date": "2026-10-20 10:10:44",
@@ -35170,21 +35139,6 @@
       "tweet_id": "2114043849228063068",
       "type": "sha256",
       "value": "838f3f24867b7ec93a6ad13c225b50f34959e7ed558175f9bc1be2a62337e7b7"
-    },
-    "84.247.148.101": {
-      "confidence": 0.55,
-      "date": "2026-10-09 07:04:28",
-      "enriched_at": "2026-10-09T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "c2"
-      ],
-      "summary": "RAT control panel observed at 84.247.148.101 on port 8080.",
-      "threat_type": "c2",
-      "tweet_id": "2108453527739834530",
-      "type": "ip",
-      "value": "84.247.148.101"
     },
     "84.247.174.70": {
       "confidence": 0.4,
@@ -37880,23 +37834,6 @@
       "tweet_id": "2117196898457341958",
       "type": "sha256",
       "value": "a1ec177a3a82fde9e66bacbe001a07456d20c4412061933d1c54f29dd68285de"
-    },
-    "a2.cdnresolver.com": {
-      "confidence": 0.85,
-      "date": "2026-10-09 08:03:24",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": "Rust Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "macOS Rust-based stealer distributed as DMG files (Zeff.dmg, Sayvora.dmg) using C2 domains e1.cdnresolver.com and a2.cdnresolver.com.",
-      "threat_type": "malware",
-      "tweet_id": "2108468355472748856",
-      "type": "domain",
-      "value": "a2.cdnresolver.com"
     },
     "a2188f44c96edc2603fc1ec42ba4e8193b429809a1caa718ff430a263977eef7": {
       "confidence": 0.7,
@@ -44914,6 +44851,78 @@
       "type": "domain",
       "value": "api.brandogdigital.org"
     },
+    "api.cerysoi.ink": {
+      "confidence": 0.88,
+      "date": "2026-11-08 11:29:04",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "surgebuilders.ink impersonates Surge Group with fake jobs; ClickFix lure runs a BAT and encrypted Node.js stealer (install_guard.js) targeting credentials and wallets.",
+      "threat_type": "malware",
+      "tweet_id": "2119391752167768424",
+      "type": "domain",
+      "value": "api.cerysoi.ink"
+    },
+    "api.fallgamsterb.ink": {
+      "confidence": 0.88,
+      "date": "2026-11-08 11:29:04",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "surgebuilders.ink impersonates Surge Group with fake jobs; ClickFix lure runs a BAT and encrypted Node.js stealer (install_guard.js) targeting credentials and wallets.",
+      "threat_type": "malware",
+      "tweet_id": "2119391752167768424",
+      "type": "domain",
+      "value": "api.fallgamsterb.ink"
+    },
+    "api.gamsterb.ink": {
+      "confidence": 0.88,
+      "date": "2026-11-08 11:29:04",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "surgebuilders.ink impersonates Surge Group with fake jobs; ClickFix lure runs a BAT and encrypted Node.js stealer (install_guard.js) targeting credentials and wallets.",
+      "threat_type": "malware",
+      "tweet_id": "2119391752167768424",
+      "type": "domain",
+      "value": "api.gamsterb.ink"
+    },
+    "api.gamsterb.ink/install_guard.js": {
+      "confidence": 0.88,
+      "date": "2026-11-08 11:29:04",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "surgebuilders.ink impersonates Surge Group with fake jobs; ClickFix lure runs a BAT and encrypted Node.js stealer (install_guard.js) targeting credentials and wallets.",
+      "threat_type": "malware",
+      "tweet_id": "2119391752167768424",
+      "type": "url",
+      "value": "https://api.gamsterb.ink/install_guard.js"
+    },
     "api.kkxsnjd.click": {
       "confidence": 0.8,
       "date": "2026-10-29 19:26:11",
@@ -51384,6 +51393,34 @@
       "type": "domain",
       "value": "boo-whatsapp.com"
     },
+    "boost.tanmath.shop": {
+      "confidence": 0.6,
+      "date": "2026-11-08 11:51:14",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious LNK file 'dalil.lnk' seen from Iran, tied to a payload URL on boost.tanmath.shop and a sample on MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2119397330113728557",
+      "type": "domain",
+      "value": "boost.tanmath.shop"
+    },
+    "boost.tanmath.shop/emart/res/bb.php": {
+      "confidence": 0.6,
+      "date": "2026-11-08 11:51:14",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious LNK file 'dalil.lnk' seen from Iran, tied to a payload URL on boost.tanmath.shop and a sample on MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2119397330113728557",
+      "type": "url",
+      "value": "http://boost.tanmath.shop/emart/res/bb.php"
+    },
     "bop-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -52015,6 +52052,42 @@
       "tweet_id": "2115757383561380245",
       "type": "url",
       "value": "https://buildpoint.blob.core.windows.net/stackguard/netpatch.msi"
+    },
+    "buildwithknexus.xyz": {
+      "confidence": 0.88,
+      "date": "2026-11-08 11:29:04",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "surgebuilders.ink impersonates Surge Group with fake jobs; ClickFix lure runs a BAT and encrypted Node.js stealer (install_guard.js) targeting credentials and wallets.",
+      "threat_type": "malware",
+      "tweet_id": "2119391752167768424",
+      "type": "domain",
+      "value": "buildwithknexus.xyz"
+    },
+    "buildwithknexus.xyz/check_m": {
+      "confidence": 0.88,
+      "date": "2026-11-08 11:29:04",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "surgebuilders.ink impersonates Surge Group with fake jobs; ClickFix lure runs a BAT and encrypted Node.js stealer (install_guard.js) targeting credentials and wallets.",
+      "threat_type": "malware",
+      "tweet_id": "2119391752167768424",
+      "type": "url",
+      "value": "https://buildwithknexus.xyz/check_m"
     },
     "businesshire.top": {
       "confidence": 0.6,
@@ -54796,22 +54869,6 @@
       "tweet_id": "2111017138790056108",
       "type": "domain",
       "value": "cloudenterpriseve.com"
-    },
-    "cloudflare.vc": {
-      "confidence": 0.75,
-      "date": "2026-10-09 09:36:31",
-      "enriched_at": "2026-11-01T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Lure domain cloudflare[.]vc delivering a Rust-based infostealer; loader injects a DLL into explorer.exe and includes an anti-VM message.",
-      "threat_type": "malware",
-      "tweet_id": "2108478801277764011",
-      "type": "domain",
-      "value": "cloudflare.vc"
     },
     "cloudlink-whatsapp.com": {
       "confidence": 0.7,
@@ -59161,23 +59218,6 @@
       "type": "sha256",
       "value": "e050ddccbdac97dfc8eb41760a76b1ae7f0c9e22a44034304462ea20c3ed51f5"
     },
-    "e1.cdnresolver.com": {
-      "confidence": 0.85,
-      "date": "2026-10-09 08:03:24",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": "Rust Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "macOS Rust-based stealer distributed as DMG files (Zeff.dmg, Sayvora.dmg) using C2 domains e1.cdnresolver.com and a2.cdnresolver.com.",
-      "threat_type": "malware",
-      "tweet_id": "2108468355472748856",
-      "type": "domain",
-      "value": "e1.cdnresolver.com"
-    },
     "e118a4e9d48fcf7af31fa73e2b805ab1c8f5005b11b19a95ad68e4957df1a0b8": {
       "confidence": 0.4,
       "date": "2026-10-22 12:40:52",
@@ -60912,20 +60952,6 @@
       "tweet_id": "2110151512286801974",
       "type": "sha256",
       "value": "f620114d205fae0275faabab965db7d6ab47942cee71084d1d6d0fd75265a138"
-    },
-    "f641ad3393b5f6ae3185ec897807caf55382793464c6182b03871ceaa7b24cf8": {
-      "confidence": 0.6,
-      "date": "2026-10-09 09:28:33",
-      "enriched_at": "2026-10-09T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious MSI installer '45010.msi' downloaded from 23.94.145.88, reported via abuse.ch Bazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2108489787476672597",
-      "type": "sha256",
-      "value": "f641ad3393b5f6ae3185ec897807caf55382793464c6182b03871ceaa7b24cf8"
     },
     "f69a313141c32546b5267a7fd80e1a4f54f5a883710473704806586d1e32327c": {
       "confidence": 0.6,
@@ -64266,6 +64292,24 @@
       "type": "url",
       "value": "https://github.com/up-827/udt-0110/raw/main/udt.bat"
     },
+    "gitlab.com/up-indexings/tasks/-/raw/main/config.json": {
+      "confidence": 0.88,
+      "date": "2026-11-08 11:29:04",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "surgebuilders.ink impersonates Surge Group with fake jobs; ClickFix lure runs a BAT and encrypted Node.js stealer (install_guard.js) targeting credentials and wallets.",
+      "threat_type": "malware",
+      "tweet_id": "2119391752167768424",
+      "type": "url",
+      "value": "https://gitlab.com/up-indexings/tasks/-/raw/main/config.json"
+    },
     "gitnode-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -66726,21 +66770,6 @@
       "type": "domain",
       "value": "instantposupdate.com"
     },
-    "instantupdate.dev": {
-      "confidence": 0.55,
-      "date": "2026-10-09 10:07:41",
-      "enriched_at": "2026-10-09T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "phishing"
-      ],
-      "summary": "Fake NCR Aloha POS critical security update sites with low AV detection, likely luring restaurant staff to download malware.",
-      "threat_type": "malware",
-      "tweet_id": "2108499632909123917",
-      "type": "domain",
-      "value": "instantupdate.dev"
-    },
     "insuranceforteenagedrivers.com": {
       "confidence": 0.7,
       "date": "2026-11-05 22:56:38",
@@ -66833,6 +66862,24 @@
       "tweet_id": "2109263406956155061",
       "type": "domain",
       "value": "interior-gov-pk.mail-govt.org"
+    },
+    "inv2bullish.xyz": {
+      "confidence": 0.85,
+      "date": "2026-11-08 11:35:57",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "Fake recruitment sites using ClickFix lures deliver a BAT-launched Node.js infostealer targeting browser credentials, SSH keys and crypto wallets; shared infrastructure listed.",
+      "threat_type": "malware",
+      "tweet_id": "2119393481462263979",
+      "type": "domain",
+      "value": "inv2bullish.xyz"
     },
     "inyfkr.cn": {
       "confidence": 0.8,
@@ -67543,6 +67590,24 @@
       "tweet_id": "2115790889968939045",
       "type": "domain",
       "value": "join-zoomm.online"
+    },
+    "joinmotus.site": {
+      "confidence": 0.85,
+      "date": "2026-11-08 11:35:57",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "Fake recruitment sites using ClickFix lures deliver a BAT-launched Node.js infostealer targeting browser credentials, SSH keys and crypto wallets; shared infrastructure listed.",
+      "threat_type": "malware",
+      "tweet_id": "2119393481462263979",
+      "type": "domain",
+      "value": "joinmotus.site"
     },
     "joinushealth.com": {
       "confidence": 0.85,
@@ -69084,21 +69149,6 @@
       "type": "domain",
       "value": "llsbsnls.suplayer810.workers.dev"
     },
-    "lo-ja-ma-galu-store.com": {
-      "confidence": 0.85,
-      "date": "2026-10-09 10:55:17",
-      "enriched_at": "2026-10-09T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "phishing"
-      ],
-      "summary": "Fake Magazine Luiza (Magalu) e-commerce clone site used for Pix payment scam targeting Brazilian shoppers.",
-      "threat_type": "scam",
-      "tweet_id": "2108511613951287748",
-      "type": "domain",
-      "value": "lo-ja-ma-galu-store.com"
-    },
     "loanfairfield.com": {
       "confidence": 0.8,
       "date": "2026-10-14 00:03:18",
@@ -70041,6 +70091,36 @@
       "tweet_id": "2110579189250433531",
       "type": "url",
       "value": "https://manuelitellc.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
+    },
+    "manw-2ansn-smanqjk.xo.je": {
+      "confidence": 0.5,
+      "date": "2026-11-08 10:32:07",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "Korean-language academic-conference lure delivered as a .lnk file, with a payload/C2 URL on xo.je; flagged as suspected APT activity.",
+      "threat_type": "malware",
+      "tweet_id": "2119377418985308194",
+      "type": "domain",
+      "value": "manw-2ansn-smanqjk.xo.je"
+    },
+    "manw-2ansn-smanqjk.xo.je/ye97bw999zb87t1u8i.php": {
+      "confidence": 0.5,
+      "date": "2026-11-08 10:32:07",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "Korean-language academic-conference lure delivered as a .lnk file, with a payload/C2 URL on xo.je; flagged as suspected APT activity.",
+      "threat_type": "malware",
+      "tweet_id": "2119377418985308194",
+      "type": "url",
+      "value": "https://manw-2ansn-smanqjk.xo.je/YE97Bw999zB87t1U8i.php"
     },
     "mapper-whatsapp.com": {
       "confidence": 0.65,
@@ -71388,6 +71468,24 @@
       "type": "url",
       "value": "https://movecogi.z16.web.core.windows.net/cvpbqha/"
     },
+    "movementgigs.site": {
+      "confidence": 0.85,
+      "date": "2026-11-08 11:35:57",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "Fake recruitment sites using ClickFix lures deliver a BAT-launched Node.js infostealer targeting browser credentials, SSH keys and crypto wallets; shared infrastructure listed.",
+      "threat_type": "malware",
+      "tweet_id": "2119393481462263979",
+      "type": "domain",
+      "value": "movementgigs.site"
+    },
     "moyora.live": {
       "confidence": 0.55,
       "date": "2026-11-07 09:31:46",
@@ -71562,20 +71660,6 @@
       "tweet_id": "2110214641557385399",
       "type": "url",
       "value": "https://msteamvideoinvites.online/team/"
-    },
-    "mxk-762399649109.southamerica-east1.run.app": {
-      "confidence": 0.8,
-      "date": "2026-10-09 12:13:21",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page hosted on a Google Cloud Run subdomain in southamerica-east1, reported via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2108531257416339560",
-      "type": "domain",
-      "value": "mxk-762399649109.southamerica-east1.run.app"
     },
     "my-document-101607.proposal-union-9173673.workers.dev": {
       "confidence": 0.85,
@@ -73235,6 +73319,24 @@
       "tweet_id": "2109055341908607403",
       "type": "domain",
       "value": "ornqzbd.cn"
+    },
+    "oslhires.ink": {
+      "confidence": 0.85,
+      "date": "2026-11-08 11:35:57",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "Fake recruitment sites using ClickFix lures deliver a BAT-launched Node.js infostealer targeting browser credentials, SSH keys and crypto wallets; shared infrastructure listed.",
+      "threat_type": "malware",
+      "tweet_id": "2119393481462263979",
+      "type": "domain",
+      "value": "oslhires.ink"
     },
     "outlook365livee.dothome.co.kr": {
       "confidence": 0.8,
@@ -77060,6 +77162,24 @@
       "type": "domain",
       "value": "scrollsawvideos.com"
     },
+    "scrolltalents.online": {
+      "confidence": 0.85,
+      "date": "2026-11-08 11:35:57",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "Fake recruitment sites using ClickFix lures deliver a BAT-launched Node.js infostealer targeting browser credentials, SSH keys and crypto wallets; shared infrastructure listed.",
+      "threat_type": "malware",
+      "tweet_id": "2119393481462263979",
+      "type": "domain",
+      "value": "scrolltalents.online"
+    },
     "sdootuk.marmorariacoral.website": {
       "confidence": 0.5,
       "date": "2026-10-27 15:23:02",
@@ -78720,6 +78840,24 @@
       "type": "domain",
       "value": "solflare-extension.pages.dev"
     },
+    "sonichires.site": {
+      "confidence": 0.85,
+      "date": "2026-11-08 11:35:57",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "Fake recruitment sites using ClickFix lures deliver a BAT-launched Node.js infostealer targeting browser credentials, SSH keys and crypto wallets; shared infrastructure listed.",
+      "threat_type": "malware",
+      "tweet_id": "2119393481462263979",
+      "type": "domain",
+      "value": "sonichires.site"
+    },
     "sort-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -78986,20 +79124,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "ssltls-whatsapp.com"
-    },
-    "sso-808526.gmo-aozora.app": {
-      "confidence": 0.9,
-      "date": "2026-10-09 07:17:31",
-      "enriched_at": "2026-10-09T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating GMO Aozora Net Bank, targeting Japanese users.",
-      "threat_type": "phishing",
-      "tweet_id": "2108456810562859042",
-      "type": "domain",
-      "value": "sso-808526.gmo-aozora.app"
     },
     "sso-sync.at": {
       "confidence": 0.8,
@@ -80514,6 +80638,78 @@
       "tweet_id": "2109263406956155061",
       "type": "domain",
       "value": "surfanny.com"
+    },
+    "surgebuilders.ink": {
+      "confidence": 0.88,
+      "date": "2026-11-08 11:29:04",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "surgebuilders.ink impersonates Surge Group with fake jobs; ClickFix lure runs a BAT and encrypted Node.js stealer (install_guard.js) targeting credentials and wallets.",
+      "threat_type": "malware",
+      "tweet_id": "2119391752167768424",
+      "type": "domain",
+      "value": "surgebuilders.ink"
+    },
+    "surgebuilders.ink/assets/index-34le1um6.js": {
+      "confidence": 0.88,
+      "date": "2026-11-08 11:29:04",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "surgebuilders.ink impersonates Surge Group with fake jobs; ClickFix lure runs a BAT and encrypted Node.js stealer (install_guard.js) targeting credentials and wallets.",
+      "threat_type": "malware",
+      "tweet_id": "2119391752167768424",
+      "type": "url",
+      "value": "https://surgebuilders.ink/assets/index-34le1uM6.js"
+    },
+    "surgebuilders.ink/check_m": {
+      "confidence": 0.88,
+      "date": "2026-11-08 11:29:04",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "surgebuilders.ink impersonates Surge Group with fake jobs; ClickFix lure runs a BAT and encrypted Node.js stealer (install_guard.js) targeting credentials and wallets.",
+      "threat_type": "malware",
+      "tweet_id": "2119391752167768424",
+      "type": "url",
+      "value": "https://surgebuilders.ink/check_m"
+    },
+    "surgebuilders.ink/check_w": {
+      "confidence": 0.88,
+      "date": "2026-11-08 11:29:04",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "surgebuilders.ink impersonates Surge Group with fake jobs; ClickFix lure runs a BAT and encrypted Node.js stealer (install_guard.js) targeting credentials and wallets.",
+      "threat_type": "malware",
+      "tweet_id": "2119391752167768424",
+      "type": "url",
+      "value": "https://surgebuilders.ink/check_w"
     },
     "suzannejsmithzu.com": {
       "confidence": 0.8,
@@ -82356,21 +82552,6 @@
       "tweet_id": "2109430647815323920",
       "type": "domain",
       "value": "tmmkxi.cn"
-    },
-    "toastposupdate.com": {
-      "confidence": 0.55,
-      "date": "2026-10-09 10:07:41",
-      "enriched_at": "2026-10-09T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "phishing"
-      ],
-      "summary": "Fake NCR Aloha POS critical security update sites with low AV detection, likely luring restaurant staff to download malware.",
-      "threat_type": "malware",
-      "tweet_id": "2108499632909123917",
-      "type": "domain",
-      "value": "toastposupdate.com"
     },
     "today-biggesst-diwalisale.icu": {
       "confidence": 0.75,
@@ -85817,6 +85998,24 @@
       "type": "domain",
       "value": "workspacegoogle.pp.ru"
     },
+    "workwitheigen.xyz": {
+      "confidence": 0.85,
+      "date": "2026-11-08 11:35:57",
+      "enriched_at": "2026-11-08T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "infostealer",
+        "stealer",
+        "scam"
+      ],
+      "summary": "Fake recruitment sites using ClickFix lures deliver a BAT-launched Node.js infostealer targeting browser credentials, SSH keys and crypto wallets; shared infrastructure listed.",
+      "threat_type": "malware",
+      "tweet_id": "2119393481462263979",
+      "type": "domain",
+      "value": "workwitheigen.xyz"
+    },
     "worldweb-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -88344,6 +88543,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-08T06:40:05Z",
+  "generated_at": "2026-11-08T12:40:04Z",
   "window_days": 30
 }
