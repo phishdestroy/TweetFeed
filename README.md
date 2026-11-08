@@ -43,7 +43,6 @@
 ## :heart: Support the project
 If you like the project, please consider:
 - Giving it a star :star:
-- Invite to a [coffee](https://www.buymeacoffee.com/dlopez) :coffee:
 
 ## :page_facing_up: Data collected
 <div align="center">
@@ -55,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-08 14:30:21 (UTC)</th>
+        <th colspan=4>2026-11-08 14:45:16 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
