@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-08 14:15:19 (UTC)</th>
+        <th colspan=4>2026-11-08 14:30:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 39 | 683 | 3115 | 44494 |
-| **:globe_with_meridians: Domains** | 31 | 590 | 2624 | 38298 |
+| **:link: URLs** | 40 | 684 | 3116 | 44495 |
+| **:globe_with_meridians: Domains** | 32 | 591 | 2625 | 38299 |
 | **:triangular_flag_on_post: IPs** | 1 | 350 | 2226 | 8057 |
 | **:1234: SHA256** | 6 | 203 | 556 | 3207 |
 | **:1234: MD5** | 0 | 26 | 110 | 2058 |
@@ -233,11 +233,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 36 |
 | **#2** | [skocherhan](https://x.com/skocherhan) | 16 |
 | **#3** | [TKemmerling](https://x.com/TKemmerling) | 8 |
-| **#4** | [Alopsis](https://x.com/Alopsis) | 4 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 3 |
-| **#6** | [smica83](https://x.com/smica83) | 3 |
-| **#7** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#8** | [banthisguy9349](https://x.com/banthisguy9349) | 2 |
+| **#4** | [banthisguy9349](https://x.com/banthisguy9349) | 4 |
+| **#5** | [Alopsis](https://x.com/Alopsis) | 4 |
+| **#6** | [masaomi346](https://x.com/masaomi346) | 3 |
+| **#7** | [smica83](https://x.com/smica83) | 3 |
+| **#8** | [PhishStats](https://x.com/PhishStats) | 2 |
 | **#9** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
 | **#10** | [jxnplaysdev](https://x.com/jxnplaysdev) | 1 |
 <!-- TOP_REPORTERS_END -->
