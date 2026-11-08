@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2506
-; Updated: 2026-11-08T10:45:16Z
+; Entries: 2518
+; Updated: 2026-11-08T11:45:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794134716 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794138318 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -314,6 +314,12 @@ api-webvision.com CNAME .
 *.api-webvision.com CNAME .
 api.brandogdigital.org CNAME .
 *.api.brandogdigital.org CNAME .
+api.cerysoi.ink CNAME .
+*.api.cerysoi.ink CNAME .
+api.fallgamsterb.ink CNAME .
+*.api.fallgamsterb.ink CNAME .
+api.gamsterb.ink CNAME .
+*.api.gamsterb.ink CNAME .
 api.kkxsnjd.click CNAME .
 *.api.kkxsnjd.click CNAME .
 api.kyamich.dev CNAME .
@@ -1158,6 +1164,8 @@ build-whatsapp.com CNAME .
 *.build-whatsapp.com CNAME .
 buildpoint.blob.core.windows.net CNAME .
 *.buildpoint.blob.core.windows.net CNAME .
+buildwithknexus.xyz CNAME .
+*.buildwithknexus.xyz CNAME .
 businesshire.top CNAME .
 *.businesshire.top CNAME .
 buz-whatsapp.com CNAME .
@@ -2580,6 +2588,8 @@ integration-auth.com CNAME .
 *.integration-auth.com CNAME .
 interior-gov-pk.mail-govt.org CNAME .
 *.interior-gov-pk.mail-govt.org CNAME .
+inv2bullish.xyz CNAME .
+*.inv2bullish.xyz CNAME .
 inyfkr.cn CNAME .
 *.inyfkr.cn CNAME .
 ios.webapi-whatsapp.com CNAME .
@@ -2660,6 +2670,8 @@ join-inapp.com CNAME .
 *.join-inapp.com CNAME .
 join-zoomm.online CNAME .
 *.join-zoomm.online CNAME .
+joinmotus.site CNAME .
+*.joinmotus.site CNAME .
 joinushealth.com CNAME .
 *.joinushealth.com CNAME .
 joinzoommeeting.online CNAME .
@@ -3098,6 +3110,8 @@ mossypinediwali.online CNAME .
 *.mossypinediwali.online CNAME .
 movecogi.z16.web.core.windows.net CNAME .
 *.movecogi.z16.web.core.windows.net CNAME .
+movementgigs.site CNAME .
+*.movementgigs.site CNAME .
 moyora.live CNAME .
 *.moyora.live CNAME .
 mqpml.cn CNAME .
@@ -3312,6 +3326,8 @@ oreshnik.top CNAME .
 *.oreshnik.top CNAME .
 ornqzbd.cn CNAME .
 *.ornqzbd.cn CNAME .
+oslhires.ink CNAME .
+*.oslhires.ink CNAME .
 outlook365livee.dothome.co.kr CNAME .
 *.outlook365livee.dothome.co.kr CNAME .
 outlookportal.framer.ai CNAME .
@@ -3740,6 +3756,8 @@ scope-whatsapp.com CNAME .
 *.scope-whatsapp.com CNAME .
 scrollsawvideos.com CNAME .
 *.scrollsawvideos.com CNAME .
+scrolltalents.online CNAME .
+*.scrolltalents.online CNAME .
 sdootuk.marmorariacoral.website CNAME .
 *.sdootuk.marmorariacoral.website CNAME .
 sea-whatsapp.com CNAME .
@@ -3930,6 +3948,8 @@ soj.s4kyn.com CNAME .
 *.soj.s4kyn.com CNAME .
 solflare-extension.pages.dev CNAME .
 *.solflare-extension.pages.dev CNAME .
+sonichires.site CNAME .
+*.sonichires.site CNAME .
 sort-whatsapp.com CNAME .
 *.sort-whatsapp.com CNAME .
 sourceuse.cyou CNAME .
@@ -4160,6 +4180,8 @@ supportforpolicycompliance.vercel.app CNAME .
 *.supportforpolicycompliance.vercel.app CNAME .
 surfanny.com CNAME .
 *.surfanny.com CNAME .
+surgebuilders.ink CNAME .
+*.surgebuilders.ink CNAME .
 suzannejsmithzu.com CNAME .
 *.suzannejsmithzu.com CNAME .
 swervimgbackj.top CNAME .
@@ -4798,6 +4820,8 @@ workspacegoogle.org.ru CNAME .
 *.workspacegoogle.org.ru CNAME .
 workspacegoogle.pp.ru CNAME .
 *.workspacegoogle.pp.ru CNAME .
+workwitheigen.xyz CNAME .
+*.workwitheigen.xyz CNAME .
 worldweb-whatsapp.com CNAME .
 *.worldweb-whatsapp.com CNAME .
 worryfreetransport.com CNAME .
