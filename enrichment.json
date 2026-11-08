@@ -1,5 +1,5 @@
 {
-  "count": 6331,
+  "count": 6336,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -642,6 +642,22 @@
       "tweet_id": "2109968038900466012",
       "type": "sha256",
       "value": "0d0cf937953e7bdc87d29f093f3667e618314b312a9bd70345b84e25be57fab7"
+    },
+    "0d42cc34c2eefed99a65f9a979adad55e2927be14cc94b26a657b5808fa39614": {
+      "confidence": 0.8,
+      "date": "2026-11-07 22:50:09",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware masquerading as Amazon, distributed via a Japanese-targeted phishing site; a related sample hash was shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2119200763557917071",
+      "type": "sha256",
+      "value": "0d42cc34c2eefed99a65f9a979adad55e2927be14cc94b26a657b5808fa39614"
     },
     "0dc5538bf5593b37f59893629161b7aed3e965218b7dd83296f6ad51b6cae046": {
       "confidence": 0.6,
@@ -4115,20 +4131,6 @@
       "type": "ip",
       "value": "108.174.155.202"
     },
-    "108.179.192.148": {
-      "confidence": 0.85,
-      "date": "2026-10-09 00:12:05",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing URL hosted on a compromised odeesa.com.mx WordPress path, impersonating IONOS, served from IP 108.179.192.148.",
-      "threat_type": "phishing",
-      "tweet_id": "2108349747027443911",
-      "type": "ip",
-      "value": "108.179.192.148"
-    },
     "108.187.43.139": {
       "confidence": 0.7,
       "date": "2026-10-17 18:28:23",
@@ -5373,6 +5375,34 @@
       "tweet_id": "2111055796700364831",
       "type": "ip",
       "value": "13.250.128.77"
+    },
+    "13.37.72.210": {
+      "confidence": 0.6,
+      "date": "2026-10-09 19:58:21",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious JavaScript file 'SSA-document-66329858289.js' seen from France, linked to a host on 13.37.72.210 port 8040; hash reported on MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2108648279437107499",
+      "type": "ip",
+      "value": "13.37.72.210"
+    },
+    "13.37.72.210:8040": {
+      "confidence": 0.6,
+      "date": "2026-10-09 19:58:21",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious JavaScript file 'SSA-document-66329858289.js' seen from France, linked to a host on 13.37.72.210 port 8040; hash reported on MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2108648279437107499",
+      "type": "url",
+      "value": "http://13.37.72.210:8040"
     },
     "130.12.180.32": {
       "confidence": 0.75,
@@ -8759,34 +8789,6 @@
       "type": "ip",
       "value": "154.12.63.32"
     },
-    "154.12.83.188": {
-      "confidence": 0.8,
-      "date": "2026-10-08 21:38:58",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Open directory exposed on IP 154.12.83.188 port 33196, potentially hosting malicious files.",
-      "threat_type": "other",
-      "tweet_id": "2108311214891938068",
-      "type": "ip",
-      "value": "154.12.83.188"
-    },
-    "154.12.83.188:33196": {
-      "confidence": 0.8,
-      "date": "2026-10-08 21:38:58",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Open directory exposed on IP 154.12.83.188 port 33196, potentially hosting malicious files.",
-      "threat_type": "other",
-      "tweet_id": "2108311214891938068",
-      "type": "url",
-      "value": "http://154.12.83.188:33196"
-    },
     "154.12.86.207": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -8905,6 +8907,18 @@
       "tweet_id": "2111068565256261634",
       "type": "url",
       "value": "http://154.6.145.213"
+    },
+    "154.64.252.77": {
+      "confidence": 0.35,
+      "date": "2026-11-07 15:50:44",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Indicators (four IPv4 addresses and two IPv6 addresses) tied to an incident titled 'Agent Accesses WorkOS Customer Data'; limited context on the activity.",
+      "threat_type": "other",
+      "tweet_id": "2119095212123246839",
+      "type": "ip",
+      "value": "154.64.252.77"
     },
     "154.64.32.187": {
       "confidence": 0.6,
@@ -11906,6 +11920,22 @@
       "type": "ip",
       "value": "178.130.46.120"
     },
+    "178.15.54.129": {
+      "confidence": 0.8,
+      "date": "2026-11-07 15:49:12",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": "AdaptixC2",
+      "suggested_tags": [
+        "adaptixc2",
+        "c2",
+        "apt"
+      ],
+      "summary": "Storm-3358 reportedly targets financial organizations using AdaptixC2, vshell and WISP; nine IPv4 indicators shared, source attributed to Cambodia.",
+      "threat_type": "c2",
+      "tweet_id": "2119094826972971308",
+      "type": "ip",
+      "value": "178.15.54.129"
+    },
     "178.16.53.50": {
       "confidence": 0.5,
       "date": "2026-11-04 07:03:00",
@@ -11921,6 +11951,22 @@
       "tweet_id": "2117875241930437108",
       "type": "url",
       "value": "http://178.16.53.50"
+    },
+    "178.16.54.129": {
+      "confidence": 0.8,
+      "date": "2026-11-07 15:49:12",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": "AdaptixC2",
+      "suggested_tags": [
+        "adaptixc2",
+        "c2",
+        "apt"
+      ],
+      "summary": "Storm-3358 reportedly targets financial organizations using AdaptixC2, vshell and WISP; nine IPv4 indicators shared, source attributed to Cambodia.",
+      "threat_type": "c2",
+      "tweet_id": "2119094826972971308",
+      "type": "ip",
+      "value": "178.16.54.129"
     },
     "178.211.133.12": {
       "confidence": 0.85,
@@ -12365,6 +12411,18 @@
       "tweet_id": "2114707350229848327",
       "type": "domain",
       "value": "181818data1.icu"
+    },
+    "183.1.65.106": {
+      "confidence": 0.35,
+      "date": "2026-11-07 15:50:44",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Indicators (four IPv4 addresses and two IPv6 addresses) tied to an incident titled 'Agent Accesses WorkOS Customer Data'; limited context on the activity.",
+      "threat_type": "other",
+      "tweet_id": "2119095212123246839",
+      "type": "ip",
+      "value": "183.1.65.106"
     },
     "184.154.245.42": {
       "confidence": 0.5,
@@ -14272,6 +14330,54 @@
       "type": "url",
       "value": "http://199.19.77.84"
     },
+    "199.19.95.66": {
+      "confidence": 0.8,
+      "date": "2026-11-07 15:49:12",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": "AdaptixC2",
+      "suggested_tags": [
+        "adaptixc2",
+        "c2",
+        "apt"
+      ],
+      "summary": "Storm-3358 reportedly targets financial organizations using AdaptixC2, vshell and WISP; nine IPv4 indicators shared, source attributed to Cambodia.",
+      "threat_type": "c2",
+      "tweet_id": "2119094826972971308",
+      "type": "ip",
+      "value": "199.19.95.66"
+    },
+    "199.19.95.67": {
+      "confidence": 0.8,
+      "date": "2026-11-07 15:49:12",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": "AdaptixC2",
+      "suggested_tags": [
+        "adaptixc2",
+        "c2",
+        "apt"
+      ],
+      "summary": "Storm-3358 reportedly targets financial organizations using AdaptixC2, vshell and WISP; nine IPv4 indicators shared, source attributed to Cambodia.",
+      "threat_type": "c2",
+      "tweet_id": "2119094826972971308",
+      "type": "ip",
+      "value": "199.19.95.67"
+    },
+    "199.19.95.68": {
+      "confidence": 0.8,
+      "date": "2026-11-07 15:49:12",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": "AdaptixC2",
+      "suggested_tags": [
+        "adaptixc2",
+        "c2",
+        "apt"
+      ],
+      "summary": "Storm-3358 reportedly targets financial organizations using AdaptixC2, vshell and WISP; nine IPv4 indicators shared, source attributed to Cambodia.",
+      "threat_type": "c2",
+      "tweet_id": "2119094826972971308",
+      "type": "ip",
+      "value": "199.19.95.68"
+    },
     "19e11045972770ea7959f2dc520896cdefef15f805aa5a83353aee337437efdd": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -15285,6 +15391,18 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "203.168.131.145"
+    },
+    "203.190.1.60": {
+      "confidence": 0.35,
+      "date": "2026-11-07 15:50:44",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Indicators (four IPv4 addresses and two IPv6 addresses) tied to an incident titled 'Agent Accesses WorkOS Customer Data'; limited context on the activity.",
+      "threat_type": "other",
+      "tweet_id": "2119095212123246839",
+      "type": "ip",
+      "value": "203.190.1.60"
     },
     "203.195.82.138": {
       "confidence": 0.5,
@@ -18408,6 +18526,22 @@
       "tweet_id": "2118769026331713793",
       "type": "url",
       "value": "http://31.77.229.26:80"
+    },
+    "31.77.229.35": {
+      "confidence": 0.8,
+      "date": "2026-11-07 15:49:12",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": "AdaptixC2",
+      "suggested_tags": [
+        "adaptixc2",
+        "c2",
+        "apt"
+      ],
+      "summary": "Storm-3358 reportedly targets financial organizations using AdaptixC2, vshell and WISP; nine IPv4 indicators shared, source attributed to Cambodia.",
+      "threat_type": "c2",
+      "tweet_id": "2119094826972971308",
+      "type": "ip",
+      "value": "31.77.229.35"
     },
     "312ccddffce813529d27c0962b140c031e6d7e8aa8eec3f4c6ada40d16d775d0": {
       "confidence": 0.95,
@@ -28134,20 +28268,6 @@
       "type": "domain",
       "value": "3d7hz1zm.onlinewebshop.net"
     },
-    "3df0cc764976a4ca25b7959d53a0d432d165a57c381d08679357362be006c8f1": {
-      "confidence": 0.5,
-      "date": "2026-10-08 21:27:34",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious ISO file named 'Statement of Account.iso' submitted to MalwareBazaar from India; family not stated.",
-      "threat_type": "malware",
-      "tweet_id": "2108308343424970840",
-      "type": "sha256",
-      "value": "3df0cc764976a4ca25b7959d53a0d432d165a57c381d08679357362be006c8f1"
-    },
     "3df306ee35b8abd426d2231dd10c987aec8499b8339aff39725bc925eae20c48": {
       "confidence": 0.8,
       "date": "2026-10-30 04:07:46",
@@ -28730,6 +28850,20 @@
       "type": "ip",
       "value": "43.162.93.46"
     },
+    "43.164.137.93": {
+      "confidence": 0.85,
+      "date": "2026-10-23 10:44:17",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Minna Bank (Japan), hosted on a Tencent-hosted IP (AS132203), with a urlscan.io scan log.",
+      "threat_type": "phishing",
+      "tweet_id": "2113582274667241853",
+      "type": "ip",
+      "value": "43.164.137.93"
+    },
     "43.165.128.22": {
       "confidence": 0.85,
       "date": "2026-10-21 02:22:24",
@@ -28833,6 +28967,20 @@
       "tweet_id": "2110430385960034775",
       "type": "ip",
       "value": "43.167.192.67"
+    },
+    "43.167.235.101": {
+      "confidence": 0.85,
+      "date": "2026-10-09 04:39:16",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing campaign impersonating the docomo d account, hosted on a Tencent-hosted IP (AS132203); credited to Team NA4Sec.",
+      "threat_type": "phishing",
+      "tweet_id": "2108416986963415061",
+      "type": "url",
+      "value": "http://43.167.235.101"
     },
     "43.167.27.31": {
       "confidence": 0.5,
@@ -32038,6 +32186,22 @@
       "type": "sha256",
       "value": "5bb359886e2b9d51677fef23ac678759b822cf9e6e300cf83a02a1f71f85145d"
     },
+    "5bb41baf3b0f8491a80e913c3c328974f9de5840580e3f59dbf3521460e6453d": {
+      "confidence": 0.8,
+      "date": "2026-11-07 22:46:36",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as a Sumitomo Mitsui card app, distributed via a Japanese-targeted phishing site; a related sample hash was shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2119199872075395467",
+      "type": "sha256",
+      "value": "5bb41baf3b0f8491a80e913c3c328974f9de5840580e3f59dbf3521460e6453d"
+    },
     "5be88d5893fb9b4e854c18d311e299da36ef5b389546d53ada1f37802ef128c2": {
       "confidence": 0.8,
       "date": "2026-10-16 23:17:47",
@@ -35106,6 +35270,38 @@
       "type": "url",
       "value": "http://85.11.167.243"
     },
+    "85.11.167.52": {
+      "confidence": 0.8,
+      "date": "2026-11-07 15:49:12",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": "AdaptixC2",
+      "suggested_tags": [
+        "adaptixc2",
+        "c2",
+        "apt"
+      ],
+      "summary": "Storm-3358 reportedly targets financial organizations using AdaptixC2, vshell and WISP; nine IPv4 indicators shared, source attributed to Cambodia.",
+      "threat_type": "c2",
+      "tweet_id": "2119094826972971308",
+      "type": "ip",
+      "value": "85.11.167.52"
+    },
+    "85.11.168.45": {
+      "confidence": 0.8,
+      "date": "2026-11-07 15:49:12",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": "AdaptixC2",
+      "suggested_tags": [
+        "adaptixc2",
+        "c2",
+        "apt"
+      ],
+      "summary": "Storm-3358 reportedly targets financial organizations using AdaptixC2, vshell and WISP; nine IPv4 indicators shared, source attributed to Cambodia.",
+      "threat_type": "c2",
+      "tweet_id": "2119094826972971308",
+      "type": "ip",
+      "value": "85.11.168.45"
+    },
     "85.11.190.240": {
       "confidence": 0.35,
       "date": "2026-11-03 22:45:53",
@@ -36292,6 +36488,22 @@
       "type": "ip",
       "value": "91.230.225.99"
     },
+    "91.92.240.238": {
+      "confidence": 0.8,
+      "date": "2026-11-07 15:49:12",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": "AdaptixC2",
+      "suggested_tags": [
+        "adaptixc2",
+        "c2",
+        "apt"
+      ],
+      "summary": "Storm-3358 reportedly targets financial organizations using AdaptixC2, vshell and WISP; nine IPv4 indicators shared, source attributed to Cambodia.",
+      "threat_type": "c2",
+      "tweet_id": "2119094826972971308",
+      "type": "ip",
+      "value": "91.92.240.238"
+    },
     "91.92.241.101": {
       "confidence": 0.4,
       "date": "2026-10-18 15:35:40",
@@ -36528,22 +36740,6 @@
       "tweet_id": "2111527336973640146",
       "type": "ip",
       "value": "92.52.196.11"
-    },
-    "923e9ffc72ad8316764ac5848d02e566ccb8d4e2667a7259954ba634f1712f43": {
-      "confidence": 0.75,
-      "date": "2026-10-08 23:25:59",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware masquerading as Rakuten, distributed via several .cn phishing domains; a sample hash is shared.",
-      "threat_type": "malware",
-      "tweet_id": "2108338144068386954",
-      "type": "sha256",
-      "value": "923e9ffc72ad8316764ac5848d02e566ccb8d4e2667a7259954ba634f1712f43"
     },
     "92589172ef4b160bfe6a56ecf224d6be7c1c259923b9afc779a6ebf3f11400d8": {
       "confidence": 0.45,
@@ -36958,6 +37154,18 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "95.130.227.78"
+    },
+    "95.169.20.166": {
+      "confidence": 0.35,
+      "date": "2026-11-07 15:50:44",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Indicators (four IPv4 addresses and two IPv6 addresses) tied to an incident titled 'Agent Accesses WorkOS Customer Data'; limited context on the activity.",
+      "threat_type": "other",
+      "tweet_id": "2119095212123246839",
+      "type": "ip",
+      "value": "95.169.20.166"
     },
     "96.126.117.80": {
       "confidence": 0.5,
@@ -49762,6 +49970,18 @@
       "type": "domain",
       "value": "birch-nuiis-d9q37.xyz"
     },
+    "bitlaunch.io": {
+      "confidence": 0.55,
+      "date": "2026-11-07 17:49:00",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Bitlaunch.io, an anonymous VPS service, is noted as advertised via Google Ads by Liber Systems Limited (UK); context is an investigation of anonymous VPS services.",
+      "threat_type": "other",
+      "tweet_id": "2119122757006811179",
+      "type": "domain",
+      "value": "bitlaunch.io"
+    },
     "bixsgrb.cn": {
       "confidence": 0.9,
       "date": "2026-10-17 00:09:09",
@@ -55494,21 +55714,6 @@
       "type": "domain",
       "value": "cruisemacauu-jp.com"
     },
-    "crystalmnhomes.com": {
-      "confidence": 0.85,
-      "date": "2026-10-08 21:56:32",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Costco $500 winner phishing lure hosted on crystalmnhomes.com, reached via a short link.",
-      "threat_type": "phishing",
-      "tweet_id": "2108315634975310033",
-      "type": "domain",
-      "value": "crystalmnhomes.com"
-    },
     "csg-soft.com": {
       "confidence": 0.8,
       "date": "2026-10-14 17:53:20",
@@ -55850,20 +56055,6 @@
       "tweet_id": "2112856961972916551",
       "type": "sha256",
       "value": "d306ba62abcd3b3772e7ba27f94c9643bc6bf501380ca056142f65894038b0b8"
-    },
-    "d318c7d56dd52d00e1b2064335cbfb8974bb00ea685ed0c6d34812d8be53c0ea": {
-      "confidence": 0.55,
-      "date": "2026-10-08 20:33:23",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Suspicious LNK file from South Korea contacting g7wq4gvc17.onlinewebshop.net, shared via MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2108294707553972299",
-      "type": "sha256",
-      "value": "d318c7d56dd52d00e1b2064335cbfb8974bb00ea685ed0c6d34812d8be53c0ea"
     },
     "d35e469fb54c1b66f57785ae755fedea": {
       "confidence": 0.1,
@@ -56444,6 +56635,22 @@
       "type": "sha256",
       "value": "dea6bd7e91113ba369027ce28ae0b83ccfa9e5c40110e391931d5a82ae14f185"
     },
+    "deadmansdrawz-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-07 22:50:09",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware masquerading as Amazon, distributed via a Japanese-targeted phishing site; a related sample hash was shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2119200763557917071",
+      "type": "domain",
+      "value": "deadmansdrawz-jp.com"
+    },
     "dealdiwali.shop": {
       "confidence": 0.75,
       "date": "2026-11-05 21:08:55",
@@ -56630,6 +56837,22 @@
       "tweet_id": "2109263406956155061",
       "type": "domain",
       "value": "desco-gov-bd.workers.dev"
+    },
+    "desertautoin-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-07 22:46:36",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as a Sumitomo Mitsui card app, distributed via a Japanese-targeted phishing site; a related sample hash was shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2119199872075395467",
+      "type": "domain",
+      "value": "desertautoin-jp.com"
     },
     "designedglass.com.lb": {
       "confidence": 0.6,
@@ -57326,20 +57549,6 @@
       "tweet_id": "2112609596691107966",
       "type": "domain",
       "value": "digilocker.services"
-    },
-    "dillardindustrial.com": {
-      "confidence": 0.8,
-      "date": "2026-10-08 23:57:40",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing lures impersonating multiple brands originated from dillardindustrial.com; flagged by public threat intelligence providers.",
-      "threat_type": "phishing",
-      "tweet_id": "2108346120397332797",
-      "type": "domain",
-      "value": "dillardindustrial.com"
     },
     "disable-own-nest-response.trycloudflare.com": {
       "confidence": 0.5,
@@ -60371,20 +60580,6 @@
       "tweet_id": "2115841534868475973",
       "type": "domain",
       "value": "everstakewfma6sxdpshoq4ebtnqamsxnajrtzu2cflai77kfup5kzyd.onion"
-    },
-    "evilcrypter.ddns.com.br": {
-      "confidence": 0.6,
-      "date": "2026-10-08 20:26:42",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Login panel titled 'Evil Crypter' on evilcrypter.ddns.com.br, a Brazilian crypter service panel.",
-      "threat_type": "malware",
-      "tweet_id": "2108293025256366166",
-      "type": "domain",
-      "value": "evilcrypter.ddns.com.br"
     },
     "exodusathleticclub.com": {
       "confidence": 0.9,
@@ -63591,20 +63786,6 @@
       "type": "domain",
       "value": "g7-whatsapp.com"
     },
-    "g7wq4gvc17.onlinewebshop.net": {
-      "confidence": 0.55,
-      "date": "2026-10-08 20:33:23",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Suspicious LNK file from South Korea contacting g7wq4gvc17.onlinewebshop.net, shared via MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2108294707553972299",
-      "type": "domain",
-      "value": "g7wq4gvc17.onlinewebshop.net"
-    },
     "g8-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -63945,22 +64126,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "giant-whatsapp.com"
-    },
-    "giebh51.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-08 23:25:59",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware masquerading as Rakuten, distributed via several .cn phishing domains; a sample hash is shared.",
-      "threat_type": "malware",
-      "tweet_id": "2108338144068386954",
-      "type": "domain",
-      "value": "giebh51.cn"
     },
     "gist.github.com/henrysmith202": {
       "confidence": 0.4,
@@ -65279,22 +65444,6 @@
       "tweet_id": "2111248110081224749",
       "type": "url",
       "value": "https://hfpzuia.cn/Login/"
-    },
-    "hfxlq55.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-08 23:25:59",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware masquerading as Rakuten, distributed via several .cn phishing domains; a sample hash is shared.",
-      "threat_type": "malware",
-      "tweet_id": "2108338144068386954",
-      "type": "domain",
-      "value": "hfxlq55.cn"
     },
     "hi.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
@@ -67137,22 +67286,6 @@
       "type": "domain",
       "value": "jasperbalcony.live"
     },
-    "jauty45.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-08 23:25:59",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware masquerading as Rakuten, distributed via several .cn phishing domains; a sample hash is shared.",
-      "threat_type": "malware",
-      "tweet_id": "2108338144068386954",
-      "type": "domain",
-      "value": "jauty45.cn"
-    },
     "jbivjg.cn": {
       "confidence": 0.8,
       "date": "2026-10-11 23:47:12",
@@ -67968,22 +68101,6 @@
       "tweet_id": "2118640538286985396",
       "type": "domain",
       "value": "keysyncos.com"
-    },
-    "kfgwq34.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-08 23:25:59",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware masquerading as Rakuten, distributed via several .cn phishing domains; a sample hash is shared.",
-      "threat_type": "malware",
-      "tweet_id": "2108338144068386954",
-      "type": "domain",
-      "value": "kfgwq34.cn"
     },
     "kid-whatsapp.com": {
       "confidence": 0.75,
@@ -68818,20 +68935,6 @@
       "type": "domain",
       "value": "linkauth-whatsapp.com"
     },
-    "linkcoll.net": {
-      "confidence": 0.85,
-      "date": "2026-10-08 23:05:23",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Prime Day-themed phishing lure from onlineadspost.com redirected via linkcoll.net; flagged by threat intelligence providers.",
-      "threat_type": "phishing",
-      "tweet_id": "2108332961213063429",
-      "type": "domain",
-      "value": "linkcoll.net"
-    },
     "linkhost-whatsapp.com": {
       "confidence": 0.7,
       "date": "2026-10-20 16:34:59",
@@ -69052,6 +69155,34 @@
       "tweet_id": "2110159474220744752",
       "type": "domain",
       "value": "loanfairfield.com"
+    },
+    "login-msftportal.com": {
+      "confidence": 0.85,
+      "date": "2026-11-07 18:27:20",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Microsoft-themed phishing page with a captcha gate on login-msftportal.com, using an email parameter in the URL.",
+      "threat_type": "phishing",
+      "tweet_id": "2119134622844100942",
+      "type": "domain",
+      "value": "login-msftportal.com"
+    },
+    "login-msftportal.com/captcha.html?email=phishing@live.com": {
+      "confidence": 0.85,
+      "date": "2026-11-07 18:27:20",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Microsoft-themed phishing page with a captcha gate on login-msftportal.com, using an email parameter in the URL.",
+      "threat_type": "phishing",
+      "tweet_id": "2119134622844100942",
+      "type": "url",
+      "value": "https://login-msftportal.com/captcha.html?email=phishing@live.com"
     },
     "login-options.com": {
       "confidence": 0.7,
@@ -69281,21 +69412,6 @@
       "tweet_id": "2117553636213473680",
       "type": "url",
       "value": "https://logstack.blob.core.windows.net/stackflow/codewatch.bat"
-    },
-    "loja-ma-ga-zine-luiza.com": {
-      "confidence": 0.9,
-      "date": "2026-10-08 21:34:13",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fake Magazine Luiza (Magalu) clone shopping site at loja-ma-ga-zine-luiza.com used for Pix payment scams.",
-      "threat_type": "phishing",
-      "tweet_id": "2108310018722533726",
-      "type": "domain",
-      "value": "loja-ma-ga-zine-luiza.com"
     },
     "lojalivretos.store": {
       "confidence": 0.4,
@@ -70855,6 +70971,20 @@
       "type": "domain",
       "value": "miricanvas.com"
     },
+    "missvalledeladrome.info": {
+      "confidence": 0.85,
+      "date": "2026-10-12 21:56:45",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing emails impersonating Empire Today estimates, with buttons redirecting to missvalledeladrome.info from an unrelated sender.",
+      "threat_type": "phishing",
+      "tweet_id": "2109765240535838915",
+      "type": "domain",
+      "value": "missvalledeladrome.info"
+    },
     "misuwh.com": {
       "confidence": 0.85,
       "date": "2026-10-23 23:52:47",
@@ -71520,22 +71650,6 @@
       "tweet_id": "2108376853593690586",
       "type": "domain",
       "value": "mundolatinoradio.info"
-    },
-    "muqxc11.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-08 23:25:59",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware masquerading as Rakuten, distributed via several .cn phishing domains; a sample hash is shared.",
-      "threat_type": "malware",
-      "tweet_id": "2108338144068386954",
-      "type": "domain",
-      "value": "muqxc11.cn"
     },
     "mxk-762399649109.southamerica-east1.run.app": {
       "confidence": 0.8,
@@ -72680,34 +72794,6 @@
       "type": "url",
       "value": "https://octoberfp.eastus.cloudapp.azure.com/files/KB59985"
     },
-    "odeesa.com.mx": {
-      "confidence": 0.85,
-      "date": "2026-10-09 00:12:05",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing URL hosted on a compromised odeesa.com.mx WordPress path, impersonating IONOS, served from IP 108.179.192.148.",
-      "threat_type": "phishing",
-      "tweet_id": "2108349747027443911",
-      "type": "domain",
-      "value": "odeesa.com.mx"
-    },
-    "odeesa.com.mx/.well-known/pki-validation/wp-file-manager/lib/img/ions.com/#redacted@abuse.ionos.com": {
-      "confidence": 0.85,
-      "date": "2026-10-09 00:12:05",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing URL hosted on a compromised odeesa.com.mx WordPress path, impersonating IONOS, served from IP 108.179.192.148.",
-      "threat_type": "phishing",
-      "tweet_id": "2108349747027443911",
-      "type": "url",
-      "value": "https://odeesa.com.mx/.well-known/pki-validation/wp-file-manager/lib/img/ions.com/#redacted@abuse.ionos.com"
-    },
     "offer-diwali-sale2026.space": {
       "confidence": 0.75,
       "date": "2026-11-05 21:08:55",
@@ -72910,20 +72996,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "online.zh.webhwsapp-whatsapp.com"
-    },
-    "onlineadspost.com": {
-      "confidence": 0.85,
-      "date": "2026-10-08 23:05:23",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Prime Day-themed phishing lure from onlineadspost.com redirected via linkcoll.net; flagged by threat intelligence providers.",
-      "threat_type": "phishing",
-      "tweet_id": "2108332961213063429",
-      "type": "domain",
-      "value": "onlineadspost.com"
     },
     "only1mafia.net": {
       "confidence": 0.5,
@@ -74032,22 +74104,6 @@
       "type": "domain",
       "value": "pnalumni.dgitd.anchorbolnorth.com"
     },
-    "pnujh48.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-08 23:25:59",
-      "enriched_at": "2026-10-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware masquerading as Rakuten, distributed via several .cn phishing domains; a sample hash is shared.",
-      "threat_type": "malware",
-      "tweet_id": "2108338144068386954",
-      "type": "domain",
-      "value": "pnujh48.cn"
-    },
     "pobruog.wiki": {
       "confidence": 0.85,
       "date": "2026-10-23 13:51:39",
@@ -74465,6 +74521,18 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "privacy.webstatici-whatsapp.com"
+    },
+    "privatealps.net": {
+      "confidence": 0.6,
+      "date": "2026-11-07 17:49:00",
+      "enriched_at": "2026-11-08T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Researcher links Privatealps.net to bulletproof hosting via AS42624 (Global Data System IT Corporation) and notes related anonymous VPS services.",
+      "threat_type": "other",
+      "tweet_id": "2119124978620830000",
+      "type": "domain",
+      "value": "privatealps.net"
     },
     "profile.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -88473,6 +88541,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-07T18:40:03Z",
+  "generated_at": "2026-11-08T00:40:04Z",
   "window_days": 30
 }
