@@ -43,7 +43,6 @@
 ## :heart: Support the project
 If you like the project, please consider:
 - Giving it a star :star:
-- Invite to a [coffee](https://www.buymeacoffee.com/dlopez) :coffee:
 
 ## :page_facing_up: Data collected
 <div align="center">
@@ -55,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-08 13:00:24 (UTC)</th>
+        <th colspan=4>2026-11-08 21:45:16 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,11 +187,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 37 | 684 | 3116 | 44495 |
-| **:globe_with_meridians: Domains** | 29 | 591 | 2625 | 38299 |
-| **:triangular_flag_on_post: IPs** | 1 | 351 | 2228 | 8065 |
-| **:1234: SHA256** | 6 | 203 | 556 | 3207 |
-| **:1234: MD5** | 0 | 26 | 110 | 2058 |
+| **:link: URLs** | 75 | 719 | 3151 | 44530 |
+| **:globe_with_meridians: Domains** | 55 | 614 | 2648 | 38322 |
+| **:triangular_flag_on_post: IPs** | 12 | 361 | 2237 | 8068 |
+| **:1234: SHA256** | 12 | 209 | 562 | 3213 |
+| **:1234: MD5** | 1 | 27 | 111 | 2059 |
 
 </div>
 
@@ -205,15 +204,15 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 31 | 827 | 3729 | 32156 |
+| **#phishing** | 67 | 862 | 3763 | 32184 |
 | **#Kimsuky** | 0 | 10 | 48 | 13315 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
-| **#malware** | 38 | 175 | 1178 | 4219 |
+| **#malware** | 47 | 184 | 1187 | 4228 |
 | **#scam** | 0 | 2 | 38 | 2922 |
-| **#C2** | 0 | 55 | 146 | 2196 |
-| **#APT** | 2 | 20 | 55 | 1466 |
+| **#C2** | 5 | 60 | 151 | 2201 |
+| **#APT** | 7 | 25 | 60 | 1471 |
 | **#ClickFix** | 34 | 102 | 267 | 1219 |
-| **#ransomware** | 0 | 15 | 91 | 698 |
+| **#ransomware** | 0 | 13 | 89 | 696 |
 | **#opendir** | 0 | 10 | 21 | 689 |
 <!-- TAG_TABLE_END -->
 
@@ -230,16 +229,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 36 |
-| **#2** | [skocherhan](https://x.com/skocherhan) | 16 |
-| **#3** | [TKemmerling](https://x.com/TKemmerling) | 8 |
-| **#4** | [masaomi346](https://x.com/masaomi346) | 3 |
-| **#5** | [smica83](https://x.com/smica83) | 3 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#7** | [banthisguy9349](https://x.com/banthisguy9349) | 2 |
-| **#8** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
-| **#9** | [jxnplaysdev](https://x.com/jxnplaysdev) | 1 |
-| **#10** | [-](https://x.com/-) | 0 |
+| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 63 |
+| **#2** | [skocherhan](https://x.com/skocherhan) | 20 |
+| **#3** | [smica83](https://x.com/smica83) | 13 |
+| **#4** | [scanmalware](https://x.com/scanmalware) | 11 |
+| **#5** | [TKemmerling](https://x.com/TKemmerling) | 8 |
+| **#6** | [TIE__SUN](https://x.com/TIE__SUN) | 8 |
+| **#7** | [banthisguy9349](https://x.com/banthisguy9349) | 6 |
+| **#8** | [phatomcandle](https://x.com/phatomcandle) | 5 |
+| **#9** | [PhishStats](https://x.com/PhishStats) | 4 |
+| **#10** | [Alopsis](https://x.com/Alopsis) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
