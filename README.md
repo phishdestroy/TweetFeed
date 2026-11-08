@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-08 21:00:21 (UTC)</th>
+        <th colspan=4>2026-11-08 21:15:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,10 +187,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 71 | 715 | 3147 | 44526 |
-| **:globe_with_meridians: Domains** | 54 | 613 | 2647 | 38321 |
-| **:triangular_flag_on_post: IPs** | 9 | 358 | 2234 | 8065 |
-| **:1234: SHA256** | 9 | 206 | 559 | 3210 |
+| **:link: URLs** | 75 | 719 | 3151 | 44530 |
+| **:globe_with_meridians: Domains** | 55 | 614 | 2648 | 38322 |
+| **:triangular_flag_on_post: IPs** | 12 | 361 | 2237 | 8068 |
+| **:1234: SHA256** | 11 | 208 | 561 | 3212 |
 | **:1234: MD5** | 1 | 27 | 111 | 2059 |
 
 </div>
@@ -231,14 +231,14 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 63 |
 | **#2** | [skocherhan](https://x.com/skocherhan) | 19 |
-| **#3** | [scanmalware](https://x.com/scanmalware) | 11 |
-| **#4** | [TKemmerling](https://x.com/TKemmerling) | 8 |
-| **#5** | [TIE__SUN](https://x.com/TIE__SUN) | 8 |
-| **#6** | [banthisguy9349](https://x.com/banthisguy9349) | 6 |
-| **#7** | [phatomcandle](https://x.com/phatomcandle) | 5 |
-| **#8** | [PhishStats](https://x.com/PhishStats) | 4 |
-| **#9** | [Alopsis](https://x.com/Alopsis) | 4 |
-| **#10** | [masaomi346](https://x.com/masaomi346) | 3 |
+| **#3** | [smica83](https://x.com/smica83) | 13 |
+| **#4** | [scanmalware](https://x.com/scanmalware) | 11 |
+| **#5** | [TKemmerling](https://x.com/TKemmerling) | 8 |
+| **#6** | [TIE__SUN](https://x.com/TIE__SUN) | 8 |
+| **#7** | [banthisguy9349](https://x.com/banthisguy9349) | 6 |
+| **#8** | [phatomcandle](https://x.com/phatomcandle) | 5 |
+| **#9** | [PhishStats](https://x.com/PhishStats) | 4 |
+| **#10** | [Alopsis](https://x.com/Alopsis) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
