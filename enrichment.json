@@ -1,9 +1,9 @@
 {
-  "count": 6331,
+  "count": 6325,
   "dead_tweets": {
     "2111212930066706900": {
-      "attempts": 1,
-      "last_attempt": "2026-11-08T12:40:04Z"
+      "attempts": 2,
+      "last_attempt": "2026-11-08T18:40:04Z"
     },
     "2114565057338343930": {
       "attempts": 2,
@@ -4820,23 +4820,6 @@
       "type": "ip",
       "value": "119.28.84.193"
     },
-    "11ca4a2f90b53a58477bf86d565f73e0ada6846a8bab7ff110ffedc4ee8b85be": {
-      "confidence": 0.95,
-      "date": "2026-10-09 16:26:15",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": "Agent Tesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "malware",
-        "stealer"
-      ],
-      "summary": "Fake bank payment receipt MSI drops LuaJIT runtime and disguised Lua script that runs Donut shellcode in memory, loading Agent Tesla which exfiltrates over FTP.",
-      "threat_type": "malware",
-      "tweet_id": "2108594904385372616",
-      "type": "sha256",
-      "value": "11ca4a2f90b53a58477bf86d565f73e0ada6846a8bab7ff110ffedc4ee8b85be"
-    },
     "120.211.74.131": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -8277,23 +8260,6 @@
       "type": "ip",
       "value": "149.88.66.95"
     },
-    "14f920e611772134999e437c05956970aa4ac8e1a07ba65568e7c24d5b641390": {
-      "confidence": 0.95,
-      "date": "2026-10-09 16:26:15",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": "Agent Tesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "malware",
-        "stealer"
-      ],
-      "summary": "Fake bank payment receipt MSI drops LuaJIT runtime and disguised Lua script that runs Donut shellcode in memory, loading Agent Tesla which exfiltrates over FTP.",
-      "threat_type": "malware",
-      "tweet_id": "2108594904385372616",
-      "type": "sha256",
-      "value": "14f920e611772134999e437c05956970aa4ac8e1a07ba65568e7c24d5b641390"
-    },
     "15.0.245.2": {
       "confidence": 0.6,
       "date": "2026-10-28 18:41:18",
@@ -10311,6 +10277,20 @@
       "type": "ip",
       "value": "163.128.210.228"
     },
+    "163.181.214.22": {
+      "confidence": 0.85,
+      "date": "2026-11-08 16:57:37",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing URL at dunlop-ya.top/login/index hosted on 163.181.214.22 (Alibaba/Taobao ASN AS24429), reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2119474435170476347",
+      "type": "ip",
+      "value": "163.181.214.22"
+    },
     "163.223.21.3": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -11999,22 +11979,6 @@
       "type": "ip",
       "value": "178.95.25.104"
     },
-    "1782cd071bb973b3e24aa0ec49bc5a77": {
-      "confidence": 0.85,
-      "date": "2026-10-09 14:14:16",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": "DarkCore RAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "DarkCore RAT delivered via a PdfView.lnk shortcut with a World Bank PDF decoy; payload ReportPDFReader.exe talks to a C2 IP and the tool is advertised on hackforums.",
-      "threat_type": "c2",
-      "tweet_id": "2108561687372595465",
-      "type": "md5",
-      "value": "1782cd071bb973b3e24aa0ec49bc5a77"
-    },
     "179-43-175-64.sslip.io": {
       "confidence": 0.5,
       "date": "2026-10-13 19:26:46",
@@ -12960,20 +12924,6 @@
       "tweet_id": "2110072357716943050",
       "type": "ip",
       "value": "188.246.224.242"
-    },
-    "188.40.225.137": {
-      "confidence": 0.5,
-      "date": "2026-10-09 14:31:42",
-      "enriched_at": "2026-11-03T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Batch file 'installer10.bat' sample seen on MalwareBazaar, associated with IP 188.40.225.137, reported as seen from Ukraine.",
-      "threat_type": "malware",
-      "tweet_id": "2108566077387018491",
-      "type": "url",
-      "value": "http://188.40.225.137"
     },
     "189.105.68.190": {
       "confidence": 0.5,
@@ -16367,22 +16317,6 @@
       "tweet_id": "2118693648321978656",
       "type": "ip",
       "value": "217.154.47.115"
-    },
-    "217.156.8.148": {
-      "confidence": 0.85,
-      "date": "2026-10-09 14:14:16",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": "DarkCore RAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "DarkCore RAT delivered via a PdfView.lnk shortcut with a World Bank PDF decoy; payload ReportPDFReader.exe talks to a C2 IP and the tool is advertised on hackforums.",
-      "threat_type": "c2",
-      "tweet_id": "2108561687372595465",
-      "type": "ip",
-      "value": "217.156.8.148"
     },
     "217.16.25.99": {
       "confidence": 0.9,
@@ -27326,6 +27260,22 @@
       "type": "ip",
       "value": "36.50.250.37"
     },
+    "362e3bafe3a2a78800b995167e841b149de7bc89fbcb567851034f6b4be73b9b": {
+      "confidence": 0.9,
+      "date": "2026-11-08 12:51:31",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "phishing",
+        "scam"
+      ],
+      "summary": "Samsung-branded sites targeting Tajikistan harvest credentials and serve modified jQuery with crypto clipboard-hijacking code; related brand-impersonation domains share the JS.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119412501750448421",
+      "type": "sha256",
+      "value": "362e3bafe3a2a78800b995167e841b149de7bc89fbcb567851034f6b4be73b9b"
+    },
     "363582d900bfb1188ad417488392dc47193eea1d84b4f55e996509c27177194a": {
       "confidence": 0.6,
       "date": "2026-10-14 10:25:33",
@@ -29100,22 +29050,6 @@
       "type": "ip",
       "value": "44.220.188.120"
     },
-    "441a67671330483c53ab5fb9845c5b3a": {
-      "confidence": 0.85,
-      "date": "2026-10-09 14:14:16",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": "DarkCore RAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "DarkCore RAT delivered via a PdfView.lnk shortcut with a World Bank PDF decoy; payload ReportPDFReader.exe talks to a C2 IP and the tool is advertised on hackforums.",
-      "threat_type": "c2",
-      "tweet_id": "2108561687372595465",
-      "type": "md5",
-      "value": "441a67671330483c53ab5fb9845c5b3a"
-    },
     "45.11.57.79": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -29826,6 +29760,22 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "45.56.103.154"
+    },
+    "45.61.157.22": {
+      "confidence": 0.85,
+      "date": "2026-11-08 15:24:00",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": "SideCopy",
+      "suggested_tags": [
+        "c2",
+        "apt",
+        "malware"
+      ],
+      "summary": "SideCopy APT C2 infrastructure: IP 45.61.157.22 and domain dns.educationportals.biz, tied to cyber-espionage activity.",
+      "threat_type": "c2",
+      "tweet_id": "2119450872896012346",
+      "type": "url",
+      "value": "http://45.61.157.22"
     },
     "45.63.108.122": {
       "confidence": 0.7,
@@ -31588,23 +31538,6 @@
       "type": "url",
       "value": "https://529motors.com/homepersonas/"
     },
-    "52f0c0230b580e2fdf53a378b5c6d0db9829af900dae43e0df8f18635cd9f0c1": {
-      "confidence": 0.95,
-      "date": "2026-10-09 16:26:15",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": "Agent Tesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "malware",
-        "stealer"
-      ],
-      "summary": "Fake bank payment receipt MSI drops LuaJIT runtime and disguised Lua script that runs Donut shellcode in memory, loading Agent Tesla which exfiltrates over FTP.",
-      "threat_type": "malware",
-      "tweet_id": "2108594904385372616",
-      "type": "sha256",
-      "value": "52f0c0230b580e2fdf53a378b5c6d0db9829af900dae43e0df8f18635cd9f0c1"
-    },
     "5306e0bd70df8b9e0c38a181ff9172013c1272fd82ab9d308ea7cd7a66579cde": {
       "confidence": 0.6,
       "date": "2026-11-03 10:13:53",
@@ -33324,22 +33257,6 @@
       "type": "sha256",
       "value": "6cd016e3a9d023d8239acacdda7bd35f9e2544ec56fe3648d6cb54855aed6da0"
     },
-    "6d031d51ffc5e78171153a4af78ba6d327a9ae332ee432c0243ebc6e23e3188a": {
-      "confidence": 0.75,
-      "date": "2026-10-09 13:28:30",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "RAT-like network activity using websocket endpoints (/ws/victim, /ws/screen) with C2 domain httprat.xyz, observed in a sandbox run.",
-      "threat_type": "c2",
-      "tweet_id": "2108550171999236103",
-      "type": "sha256",
-      "value": "6d031d51ffc5e78171153a4af78ba6d327a9ae332ee432c0243ebc6e23e3188a"
-    },
     "6d43bcc5d29a1aa8ed6014d28fe72dbe26a3a8d4359db78fbaa87a130ff9994e": {
       "confidence": 0.5,
       "date": "2026-10-28 20:53:22",
@@ -34057,20 +33974,6 @@
       "tweet_id": "2115030566638924055",
       "type": "md5",
       "value": "7a8353e938eecde9c3e7544a1a52e496"
-    },
-    "7b0562d3d7742e8a08ae362b3374a8ce0638597ceb9aec103a1462f4750981b9": {
-      "confidence": 0.6,
-      "date": "2026-10-09 14:35:39",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious batch file disguised as a medical checkup result, seen from Thailand, fetching a further payload via a tinyurl redirect and a GitHub-hosted udt.bat.",
-      "threat_type": "malware",
-      "tweet_id": "2108567069503508703",
-      "type": "sha256",
-      "value": "7b0562d3d7742e8a08ae362b3374a8ce0638597ceb9aec103a1462f4750981b9"
     },
     "7c0706ae79f3245afd7a6d3bdb81a38a7c91d9cd6a55584e480774a31088edfa": {
       "confidence": 0.6,
@@ -35798,22 +35701,6 @@
       "tweet_id": "2115014837587632193",
       "type": "sha256",
       "value": "85acf873df0ca54c75ca7b80402c0ea0ce988adf79f4fa55b1b210f95cb078b1"
-    },
-    "85e97d5219e8646c3b823ed96295eaee02d79666d59fb9689b27de0d47e3e077": {
-      "confidence": 0.8,
-      "date": "2026-10-09 14:47:07",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as PayPay, distributed via a fake Google Play Store lookalike domain on duckdns.",
-      "threat_type": "malware",
-      "tweet_id": "2108569955121963212",
-      "type": "sha256",
-      "value": "85e97d5219e8646c3b823ed96295eaee02d79666d59fb9689b27de0d47e3e077"
     },
     "86a0ed5fc0336d6ade1ce4ad3688ef73c3dde04fce4c6daed761a796f347c66a": {
       "confidence": 0.8,
@@ -37641,6 +37528,22 @@
       "tweet_id": "2118450511234150864",
       "type": "domain",
       "value": "9today-diwalisales.info"
+    },
+    "a-guci.top": {
+      "confidence": 0.9,
+      "date": "2026-11-08 12:51:31",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "phishing",
+        "scam"
+      ],
+      "summary": "Samsung-branded sites targeting Tajikistan harvest credentials and serve modified jQuery with crypto clipboard-hijacking code; related brand-impersonation domains share the JS.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119412501750448421",
+      "type": "domain",
+      "value": "a-guci.top"
     },
     "a018996931284020174aceb658a9ac11bb6d0007dc623088e0ad5ecf2db767f6": {
       "confidence": 0.6,
@@ -44362,6 +44265,18 @@
       "type": "domain",
       "value": "amb-whatsapp.com"
     },
+    "ambercouncil.xyz": {
+      "confidence": 0.3,
+      "date": "2026-11-08 13:59:03",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Reply reporting an active domain, ambercouncil.xyz, reproducing the same scheme as a previously discussed campaign; scheme type not specified.",
+      "threat_type": "other",
+      "tweet_id": "2119429494310043803",
+      "type": "domain",
+      "value": "ambercouncil.xyz"
+    },
     "amc-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -44886,6 +44801,18 @@
       "tweet_id": "2119391752167768424",
       "type": "domain",
       "value": "api.fallgamsterb.ink"
+    },
+    "api.gaganata.ink": {
+      "confidence": 0.25,
+      "date": "2026-11-08 13:43:51",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Additional related domain api.gaganata.ink reported as a reply to another researcher; appears inactive. Threat type not stated.",
+      "threat_type": "other",
+      "tweet_id": "2119425668450849138",
+      "type": "domain",
+      "value": "api.gaganata.ink"
     },
     "api.gamsterb.ink": {
       "confidence": 0.88,
@@ -49151,23 +49078,6 @@
       "type": "sha256",
       "value": "bb8573dc1795986a8005754fece9117a3c52985fffed6bd30cff4299532b6819"
     },
-    "bbc8388371a9a41079191d88893e4599964c6b6246d97953de5c94033b19f900": {
-      "confidence": 0.95,
-      "date": "2026-10-09 16:26:15",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": "Agent Tesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "malware",
-        "stealer"
-      ],
-      "summary": "Fake bank payment receipt MSI drops LuaJIT runtime and disguised Lua script that runs Donut shellcode in memory, loading Agent Tesla which exfiltrates over FTP.",
-      "threat_type": "malware",
-      "tweet_id": "2108594904385372616",
-      "type": "sha256",
-      "value": "bbc8388371a9a41079191d88893e4599964c6b6246d97953de5c94033b19f900"
-    },
     "bc.ailingk.xyz": {
       "confidence": 0.7,
       "date": "2026-10-19 21:28:27",
@@ -53058,20 +52968,6 @@
       "type": "sha256",
       "value": "ca47e13a2980817e7849ddfef70312542ed11efaeba7b1b583161c06a440baf2"
     },
-    "ca91314eb71e95a51202dfa4db5d513893c2abe7cf46f7d0f414ca1c58b7c902": {
-      "confidence": 0.5,
-      "date": "2026-10-09 14:31:42",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious batch file 'installer10.bat' seen from Ukraine and submitted to MalwareBazaar, with an associated IP address.",
-      "threat_type": "malware",
-      "tweet_id": "2108566077387018491",
-      "type": "sha256",
-      "value": "ca91314eb71e95a51202dfa4db5d513893c2abe7cf46f7d0f414ca1c58b7c902"
-    },
     "ca9a5a5b5c7e12abf723f61db77ac54bf0f477db1f60bbc527157e62f94f637d": {
       "confidence": 0.9,
       "date": "2026-10-29 09:00:26",
@@ -56526,23 +56422,6 @@
       "type": "sha256",
       "value": "dd02e2d0d5f18d120933621a82401da79eb62c2009fda554460581ffee20a8de"
     },
-    "ddc85ad4885dd3da9ac8de4c3bc0392c0b2ccee075b79c8564ba71394d5b7aa6": {
-      "confidence": 0.95,
-      "date": "2026-10-09 16:26:15",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": "Agent Tesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "malware",
-        "stealer"
-      ],
-      "summary": "Fake bank payment receipt MSI drops LuaJIT runtime and disguised Lua script that runs Donut shellcode in memory, loading Agent Tesla which exfiltrates over FTP.",
-      "threat_type": "malware",
-      "tweet_id": "2108594904385372616",
-      "type": "sha256",
-      "value": "ddc85ad4885dd3da9ac8de4c3bc0392c0b2ccee075b79c8564ba71394d5b7aa6"
-    },
     "dde505f27b7a245044670679e49bab78c4b2629bcb56f265a0d79590327edcab": {
       "confidence": 0.55,
       "date": "2026-11-03 11:29:36",
@@ -58362,6 +58241,22 @@
       "type": "domain",
       "value": "dmpweb-whatsapp.com"
     },
+    "dns.educationportals.biz": {
+      "confidence": 0.85,
+      "date": "2026-11-08 15:24:00",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": "SideCopy",
+      "suggested_tags": [
+        "c2",
+        "apt",
+        "malware"
+      ],
+      "summary": "SideCopy APT C2 infrastructure: IP 45.61.157.22 and domain dns.educationportals.biz, tied to cyber-espionage activity.",
+      "threat_type": "c2",
+      "tweet_id": "2119450872896012346",
+      "type": "domain",
+      "value": "dns.educationportals.biz"
+    },
     "dnscloud-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -58608,38 +58503,6 @@
       "tweet_id": "2112999515733328213",
       "type": "domain",
       "value": "docss-whatsapp.com"
-    },
-    "documents1.worldbank.org": {
-      "confidence": 0.85,
-      "date": "2026-10-09 14:14:16",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": "DarkCore RAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "DarkCore RAT delivered via a PdfView.lnk shortcut with a World Bank PDF decoy; payload ReportPDFReader.exe talks to a C2 IP and the tool is advertised on hackforums.",
-      "threat_type": "c2",
-      "tweet_id": "2108561687372595465",
-      "type": "domain",
-      "value": "documents1.worldbank.org"
-    },
-    "documents1.worldbank.org/curated/en/585151601566378168/pdf/main-report.pdf": {
-      "confidence": 0.85,
-      "date": "2026-10-09 14:14:16",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": "DarkCore RAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "DarkCore RAT delivered via a PdfView.lnk shortcut with a World Bank PDF decoy; payload ReportPDFReader.exe talks to a C2 IP and the tool is advertised on hackforums.",
-      "threat_type": "c2",
-      "tweet_id": "2108561687372595465",
-      "type": "url",
-      "value": "http://documents1.worldbank.org/curated/en/585151601566378168/pdf/Main-Report.pdf"
     },
     "docusign-document.info": {
       "confidence": 0.85,
@@ -59081,6 +58944,52 @@
       "tweet_id": "2116574466646176031",
       "type": "domain",
       "value": "dtb-bank.pages.dev"
+    },
+    "dule.wang": {
+      "confidence": 0.9,
+      "date": "2026-11-08 12:51:31",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "phishing",
+        "scam"
+      ],
+      "summary": "Samsung-branded sites targeting Tajikistan harvest credentials and serve modified jQuery with crypto clipboard-hijacking code; related brand-impersonation domains share the JS.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119412501750448421",
+      "type": "domain",
+      "value": "dule.wang"
+    },
+    "dunlop-ya.top": {
+      "confidence": 0.9,
+      "date": "2026-11-08 12:51:31",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "phishing",
+        "scam"
+      ],
+      "summary": "Samsung-branded sites targeting Tajikistan harvest credentials and serve modified jQuery with crypto clipboard-hijacking code; related brand-impersonation domains share the JS.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119412501750448421",
+      "type": "domain",
+      "value": "dunlop-ya.top"
+    },
+    "dunlop-ya.top/login/index": {
+      "confidence": 0.85,
+      "date": "2026-11-08 16:57:37",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing URL at dunlop-ya.top/login/index hosted on 163.181.214.22 (Alibaba/Taobao ASN AS24429), reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2119474435170476347",
+      "type": "url",
+      "value": "https://dunlop-ya.top/login/index"
     },
     "dzwwftf.cn": {
       "confidence": 0.9,
@@ -59944,6 +59853,22 @@
       "type": "domain",
       "value": "edgenode-whatsapp.com"
     },
+    "ee346d1b288a620b6be253f8158deff3ff5ab44105c604eb14d7a7519139a9c9": {
+      "confidence": 0.7,
+      "date": "2026-11-08 13:57:37",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": "Gh0stRat",
+      "suggested_tags": [
+        "malware",
+        "rat",
+        "trojan"
+      ],
+      "summary": "SHA256 hash tagged as Gh0stRat/Blackmoon for retrohunting.",
+      "threat_type": "malware",
+      "tweet_id": "2119429133730295987",
+      "type": "sha256",
+      "value": "ee346d1b288a620b6be253f8158deff3ff5ab44105c604eb14d7a7519139a9c9"
+    },
     "ee39f091a23c746763ff44a273d11307abe5ca531f363b5621dfaa695f39a37b": {
       "confidence": 0.5,
       "date": "2026-10-16 22:04:23",
@@ -60076,34 +60001,6 @@
       "tweet_id": "2117931703364648975",
       "type": "sha256",
       "value": "effba12a04e4a1b8732c65307965584c4e2514a8cfa6db853b80f8a639dafff9"
-    },
-    "efine-post.com": {
-      "confidence": 0.3,
-      "date": "2026-10-09 12:45:45",
-      "enriched_at": "2026-11-01T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt"
-      ],
-      "summary": "Suspicious URL on efine-post[.]com tagged as APT-related, with no further context provided.",
-      "threat_type": "other",
-      "tweet_id": "2108539415140151548",
-      "type": "domain",
-      "value": "efine-post.com"
-    },
-    "efine-post.com/d/mdqehmdzhzdfsf4r0ghbjg": {
-      "confidence": 0.3,
-      "date": "2026-10-09 12:45:45",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt"
-      ],
-      "summary": "Suspicious URL on efine-post.com tagged APT with no further context provided.",
-      "threat_type": "other",
-      "tweet_id": "2108539415140151548",
-      "type": "url",
-      "value": "https://efine-post.com/d/mdqehmDZHZdFSf4R0gHBJg"
     },
     "egfbp.cn": {
       "confidence": 0.8,
@@ -60395,6 +60292,22 @@
       "tweet_id": "2113175173289685433",
       "type": "domain",
       "value": "eowebmail.eonet.jp"
+    },
+    "epicvip.top": {
+      "confidence": 0.9,
+      "date": "2026-11-08 12:51:31",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "phishing",
+        "scam"
+      ],
+      "summary": "Samsung-branded sites targeting Tajikistan harvest credentials and serve modified jQuery with crypto clipboard-hijacking code; related brand-impersonation domains share the JS.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119412501750448421",
+      "type": "domain",
+      "value": "epicvip.top"
     },
     "eqvpn.space": {
       "confidence": 0.75,
@@ -63565,23 +63478,6 @@
       "type": "domain",
       "value": "freshmenuideas.com"
     },
-    "ftp.fundacionpiaz.org": {
-      "confidence": 0.95,
-      "date": "2026-10-09 16:26:15",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": "Agent Tesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "malware",
-        "stealer"
-      ],
-      "summary": "Fake bank payment receipt MSI drops LuaJIT runtime and disguised Lua script that runs Donut shellcode in memory, loading Agent Tesla which exfiltrates over FTP.",
-      "threat_type": "malware",
-      "tweet_id": "2108594904385372616",
-      "type": "domain",
-      "value": "ftp.fundacionpiaz.org"
-    },
     "fullwork3e4.gamer.free": {
       "confidence": 0.7,
       "date": "2026-10-29 02:16:05",
@@ -64278,20 +64174,6 @@
       "type": "url",
       "value": "https://github.com/udt-101026/thaem/raw/main/udt.bat"
     },
-    "github.com/up-827/udt-0110/raw/main/udt.bat": {
-      "confidence": 0.6,
-      "date": "2026-10-09 14:35:39",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious batch file disguised as a medical checkup result, seen from Thailand, fetching a further payload via a tinyurl redirect and a GitHub-hosted udt.bat.",
-      "threat_type": "malware",
-      "tweet_id": "2108567069503508703",
-      "type": "url",
-      "value": "https://github.com/up-827/udt-0110/raw/main/udt.bat"
-    },
     "gitlab.com/up-indexings/tasks/-/raw/main/config.json": {
       "confidence": 0.88,
       "date": "2026-11-08 11:29:04",
@@ -64518,38 +64400,6 @@
       "tweet_id": "2116918060594655682",
       "type": "domain",
       "value": "googie-chrome.top"
-    },
-    "google-play-store.duckdns.org": {
-      "confidence": 0.8,
-      "date": "2026-10-09 14:47:07",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as PayPay, distributed via a fake Google Play Store lookalike domain on duckdns.",
-      "threat_type": "malware",
-      "tweet_id": "2108569955121963212",
-      "type": "domain",
-      "value": "google-play-store.duckdns.org"
-    },
-    "google-play-store.duckdns.org/d/bdd0d00c4a331b02a99a65ab52a4bc4d": {
-      "confidence": 0.8,
-      "date": "2026-10-09 14:47:07",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as PayPay, distributed via a fake Google Play Store lookalike domain on duckdns.",
-      "threat_type": "malware",
-      "tweet_id": "2108569955121963212",
-      "type": "url",
-      "value": "https://google-play-store.duckdns.org/d/bdd0d00c4a331b02a99a65ab52a4bc4d"
     },
     "google.drive03.com": {
       "confidence": 0.8,
@@ -65093,37 +64943,20 @@
       "type": "domain",
       "value": "hackattackkaboom.botlesscucks.st"
     },
-    "hackforums.net": {
-      "confidence": 0.85,
-      "date": "2026-10-09 14:14:16",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": "DarkCore RAT",
+    "halonatalents.com": {
+      "confidence": 0.7,
+      "date": "2026-11-08 12:15:03",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
       "suggested_tags": [
-        "rat",
-        "c2",
+        "dprk",
         "malware"
       ],
-      "summary": "DarkCore RAT delivered via a PdfView.lnk shortcut with a World Bank PDF decoy; payload ReportPDFReader.exe talks to a C2 IP and the tool is advertised on hackforums.",
-      "threat_type": "c2",
-      "tweet_id": "2108561687372595465",
+      "summary": "Fake website halonatalents.com linked to a North Korean operative delivering malware via malicious NPM packages and GitHub repositories.",
+      "threat_type": "malware",
+      "tweet_id": "2119403323619229805",
       "type": "domain",
-      "value": "hackforums.net"
-    },
-    "hackforums.net/showthread.php?tid=6330629": {
-      "confidence": 0.85,
-      "date": "2026-10-09 14:14:16",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": "DarkCore RAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "DarkCore RAT delivered via a PdfView.lnk shortcut with a World Bank PDF decoy; payload ReportPDFReader.exe talks to a C2 IP and the tool is advertised on hackforums.",
-      "threat_type": "c2",
-      "tweet_id": "2108561687372595465",
-      "type": "url",
-      "value": "http://hackforums.net/showthread.php?tid=6330629"
+      "value": "halonatalents.com"
     },
     "handwrittenresults.com": {
       "confidence": 0.8,
@@ -65949,22 +65782,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "httpcdn-whatsapp.com"
-    },
-    "httprat.xyz": {
-      "confidence": 0.75,
-      "date": "2026-10-09 13:28:30",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "RAT-like network activity using websocket endpoints (/ws/victim, /ws/screen) with C2 domain httprat.xyz, observed in a sandbox run.",
-      "threat_type": "c2",
-      "tweet_id": "2108550171999236103",
-      "type": "domain",
-      "value": "httprat.xyz"
     },
     "https--www--roblox.com": {
       "confidence": 0.9,
@@ -68634,22 +68451,6 @@
       "type": "url",
       "value": "https://ladygirl-series.com/downcb"
     },
-    "lake-90.com": {
-      "confidence": 0.85,
-      "date": "2026-10-09 13:25:30",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malvertising",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Malvertising campaign using a fake Claude install page on lake-90.com to deliver an infostealer.",
-      "threat_type": "malware",
-      "tweet_id": "2108549414566645959",
-      "type": "domain",
-      "value": "lake-90.com"
-    },
     "latest-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -70872,6 +70673,22 @@
       "type": "domain",
       "value": "microwindow-e9fvg7ahe0cxf6a6.z02.azurefd.net"
     },
+    "mikimoto.asia": {
+      "confidence": 0.9,
+      "date": "2026-11-08 12:51:31",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "phishing",
+        "scam"
+      ],
+      "summary": "Samsung-branded sites targeting Tajikistan harvest credentials and serve modified jQuery with crypto clipboard-hijacking code; related brand-impersonation domains share the JS.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119412501750448421",
+      "type": "domain",
+      "value": "mikimoto.asia"
+    },
     "milliontv.sbs": {
       "confidence": 0.75,
       "date": "2026-10-27 09:25:22",
@@ -71661,6 +71478,20 @@
       "type": "url",
       "value": "https://msteamvideoinvites.online/team/"
     },
+    "mu4lkdtjszjvio9g.public.blob.vercel-storage.com": {
+      "confidence": 0.95,
+      "date": "2026-11-08 17:39:16",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake Google sign-in page on my-settings-google.com harvests typed emails to a Supabase backend; assets hosted on Vercel blob storage.",
+      "threat_type": "phishing",
+      "tweet_id": "2119484913053519885",
+      "type": "domain",
+      "value": "mu4lkdtjszjvio9g.public.blob.vercel-storage.com"
+    },
     "my-document-101607.proposal-union-9173673.workers.dev": {
       "confidence": 0.85,
       "date": "2026-10-14 09:53:36",
@@ -71674,6 +71505,20 @@
       "tweet_id": "2110308027530412318",
       "type": "domain",
       "value": "my-document-101607.proposal-union-9173673.workers.dev"
+    },
+    "my-settings-google.com": {
+      "confidence": 0.95,
+      "date": "2026-11-08 17:39:16",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake Google sign-in page on my-settings-google.com harvests typed emails to a Supabase backend; assets hosted on Vercel blob storage.",
+      "threat_type": "phishing",
+      "tweet_id": "2119484913053519885",
+      "type": "domain",
+      "value": "my-settings-google.com"
     },
     "myaccountapps.com": {
       "confidence": 0.7,
@@ -76949,6 +76794,54 @@
       "type": "domain",
       "value": "sample-whatsapp.com"
     },
+    "samsung2026.lol": {
+      "confidence": 0.9,
+      "date": "2026-11-08 12:51:31",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "phishing",
+        "scam"
+      ],
+      "summary": "Samsung-branded sites targeting Tajikistan harvest credentials and serve modified jQuery with crypto clipboard-hijacking code; related brand-impersonation domains share the JS.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119412501750448421",
+      "type": "domain",
+      "value": "samsung2026.lol"
+    },
+    "samsung2026.sbs": {
+      "confidence": 0.9,
+      "date": "2026-11-08 12:51:31",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "phishing",
+        "scam"
+      ],
+      "summary": "Samsung-branded sites targeting Tajikistan harvest credentials and serve modified jQuery with crypto clipboard-hijacking code; related brand-impersonation domains share the JS.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119412501750448421",
+      "type": "domain",
+      "value": "samsung2026.sbs"
+    },
+    "samsung2026.sbs/static/home/js/jquery-1.11.3.min.js": {
+      "confidence": 0.9,
+      "date": "2026-11-08 12:51:31",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "phishing",
+        "scam"
+      ],
+      "summary": "Samsung-branded sites targeting Tajikistan harvest credentials and serve modified jQuery with crypto clipboard-hijacking code; related brand-impersonation domains share the JS.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119412501750448421",
+      "type": "url",
+      "value": "https://samsung2026.sbs/static/home/js/jquery-1.11.3.min.js"
+    },
     "santander.nfcobsidian.com": {
       "confidence": 0.92,
       "date": "2026-11-03 13:01:47",
@@ -78872,6 +78765,20 @@
       "type": "domain",
       "value": "sort-whatsapp.com"
     },
+    "soswwsvunulnhlcitpwl.supabase.co": {
+      "confidence": 0.95,
+      "date": "2026-11-08 17:39:16",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake Google sign-in page on my-settings-google.com harvests typed emails to a Supabase backend; assets hosted on Vercel blob storage.",
+      "threat_type": "phishing",
+      "tweet_id": "2119484913053519885",
+      "type": "domain",
+      "value": "soswwsvunulnhlcitpwl.supabase.co"
+    },
     "sourceuse.cyou": {
       "confidence": 0.8,
       "date": "2026-10-17 17:51:41",
@@ -79063,6 +78970,22 @@
       "tweet_id": "2118574753263104388",
       "type": "url",
       "value": "https://sqhwlbkpyax.cfd/drgsdfbdr/?__eat=b2667ed2d4270e7f#/index"
+    },
+    "ssamsung1.xyz": {
+      "confidence": 0.9,
+      "date": "2026-11-08 12:51:31",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "phishing",
+        "scam"
+      ],
+      "summary": "Samsung-branded sites targeting Tajikistan harvest credentials and serve modified jQuery with crypto clipboard-hijacking code; related brand-impersonation domains share the JS.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119412501750448421",
+      "type": "domain",
+      "value": "ssamsung1.xyz"
     },
     "ssl.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -82463,20 +82386,6 @@
       "type": "domain",
       "value": "times.eastus.cloudapp.azure.com"
     },
-    "tinyurl.com/dmt1-731": {
-      "confidence": 0.6,
-      "date": "2026-10-09 14:35:39",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious batch file disguised as a medical checkup result, seen from Thailand, fetching a further payload via a tinyurl redirect and a GitHub-hosted udt.bat.",
-      "threat_type": "malware",
-      "tweet_id": "2108567069503508703",
-      "type": "url",
-      "value": "https://tinyurl.com/dmt1-731"
-    },
     "tinyurl.com/g1-1trdovip": {
       "confidence": 0.6,
       "date": "2026-10-13 13:36:05",
@@ -83293,38 +83202,6 @@
       "tweet_id": "2112488698289799447",
       "type": "url",
       "value": "https://uob-bk6-c3gnawcfendtf8gu.z01.azurefd.net/S163DE_Voluntary_package.zip"
-    },
-    "update.cdnlinks.org": {
-      "confidence": 0.85,
-      "date": "2026-10-09 14:14:16",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": "DarkCore RAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "DarkCore RAT delivered via a PdfView.lnk shortcut with a World Bank PDF decoy; payload ReportPDFReader.exe talks to a C2 IP and the tool is advertised on hackforums.",
-      "threat_type": "c2",
-      "tweet_id": "2108561687372595465",
-      "type": "domain",
-      "value": "update.cdnlinks.org"
-    },
-    "update.cdnlinks.org/pdfview.lnk": {
-      "confidence": 0.85,
-      "date": "2026-10-09 14:14:16",
-      "enriched_at": "2026-10-09T18:40:03Z",
-      "family": "DarkCore RAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "DarkCore RAT delivered via a PdfView.lnk shortcut with a World Bank PDF decoy; payload ReportPDFReader.exe talks to a C2 IP and the tool is advertised on hackforums.",
-      "threat_type": "c2",
-      "tweet_id": "2108561687372595465",
-      "type": "url",
-      "value": "http://update.cdnlinks.org/PdfView.lnk"
     },
     "update.neewsoo.com": {
       "confidence": 0.9,
@@ -86444,6 +86321,20 @@
       "type": "url",
       "value": "http://www.mithvxrqkpn.com/upgradeapp/android_ACE532658.apk"
     },
+    "www.my-settings-google.com": {
+      "confidence": 0.95,
+      "date": "2026-11-08 17:39:16",
+      "enriched_at": "2026-11-08T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake Google sign-in page on my-settings-google.com harvests typed emails to a Supabase backend; assets hosted on Vercel blob storage.",
+      "threat_type": "phishing",
+      "tweet_id": "2119484913053519885",
+      "type": "url",
+      "value": "http://www.my-settings-google.com"
+    },
     "www.nairawaterfall.com": {
       "confidence": 0.85,
       "date": "2026-10-23 22:04:34",
@@ -88543,6 +88434,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-08T12:40:04Z",
+  "generated_at": "2026-11-08T18:40:04Z",
   "window_days": 30
 }
