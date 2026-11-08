@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2527
-; Updated: 2026-11-08T13:00:23Z
+; Entries: 2526
+; Updated: 2026-11-08T14:15:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794142823 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794147318 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -196,8 +196,6 @@ ahutn0lm.onlinewebshop.net CNAME .
 *.ahutn0lm.onlinewebshop.net CNAME .
 ai-gateway.internal-corp.com CNAME .
 *.ai-gateway.internal-corp.com CNAME .
-ai.google.com CNAME .
-*.ai.google.com CNAME .
 aiagentmi.com CNAME .
 *.aiagentmi.com CNAME .
 ainfnow.cn CNAME .
@@ -260,6 +258,8 @@ amazon.cgiagent.com CNAME .
 *.amazon.cgiagent.com CNAME .
 amb-whatsapp.com CNAME .
 *.amb-whatsapp.com CNAME .
+ambercouncil.xyz CNAME .
+*.ambercouncil.xyz CNAME .
 amc-whatsapp.com CNAME .
 *.amc-whatsapp.com CNAME .
 amd-whatsapp.com CNAME .
@@ -320,6 +320,8 @@ api.cerysoi.ink CNAME .
 *.api.cerysoi.ink CNAME .
 api.fallgamsterb.ink CNAME .
 *.api.fallgamsterb.ink CNAME .
+api.gaganata.ink CNAME .
+*.api.gaganata.ink CNAME .
 api.gamsterb.ink CNAME .
 *.api.gamsterb.ink CNAME .
 api.kkxsnjd.click CNAME .
@@ -886,8 +888,6 @@ binancn.live CNAME .
 *.binancn.live CNAME .
 birch-nuiis-d9q37.xyz CNAME .
 *.birch-nuiis-d9q37.xyz CNAME .
-bitlaunch.io CNAME .
-*.bitlaunch.io CNAME .
 bixsgrb.cn CNAME .
 *.bixsgrb.cn CNAME .
 bjjmsjcfsb.com CNAME .
@@ -4168,8 +4168,6 @@ streamzuzu.cyou CNAME .
 *.streamzuzu.cyou CNAME .
 string-whatsapp.com CNAME .
 *.string-whatsapp.com CNAME .
-studio.unicore.tv CNAME .
-*.studio.unicore.tv CNAME .
 style-whatsapp.com CNAME .
 *.style-whatsapp.com CNAME .
 styvlor.cfd CNAME .
