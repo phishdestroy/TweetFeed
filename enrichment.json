@@ -1,10 +1,6 @@
 {
-  "count": 6336,
+  "count": 6322,
   "dead_tweets": {
-    "2111212930066706900": {
-      "attempts": 2,
-      "last_attempt": "2026-11-01T06:40:04Z"
-    },
     "2114565057338343930": {
       "attempts": 2,
       "last_attempt": "2026-11-03T06:40:04Z"
@@ -14589,6 +14585,23 @@
       "type": "sha256",
       "value": "1ee69c54e4123219ab841b9742f28ca5ba3874d9cc026fec3219e7a7dbc6c0c8"
     },
+    "1f78dab72cbdca3319e59794bd9ab37b2228f317500083703f763a403defdac9": {
+      "confidence": 0.75,
+      "date": "2026-11-08 04:55:57",
+      "enriched_at": "2026-11-08T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware",
+        "scam"
+      ],
+      "summary": "Phishing site mimicking a Sumitomo Mitsui card, distributing an Android malware sample (SHA256 reported via VirusTotal).",
+      "threat_type": "phishing",
+      "tweet_id": "2119292818321809666",
+      "type": "sha256",
+      "value": "1f78dab72cbdca3319e59794bd9ab37b2228f317500083703f763a403defdac9"
+    },
     "1rpc.io": {
       "confidence": 0.6,
       "date": "2026-10-13 14:10:12",
@@ -28878,20 +28891,6 @@
       "type": "url",
       "value": "http://43.165.128.22"
     },
-    "43.165.129.163": {
-      "confidence": 0.9,
-      "date": "2026-10-09 04:16:24",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating AEON at accoun.nyrwhax.cn, with related IP 43.165.129.163 on AS132203.",
-      "threat_type": "phishing",
-      "tweet_id": "2108411231346602098",
-      "type": "url",
-      "value": "http://43.165.129.163"
-    },
     "43.165.135.154": {
       "confidence": 0.9,
       "date": "2026-10-19 02:45:19",
@@ -28967,20 +28966,6 @@
       "tweet_id": "2110430385960034775",
       "type": "ip",
       "value": "43.167.192.67"
-    },
-    "43.167.235.101": {
-      "confidence": 0.85,
-      "date": "2026-10-09 04:39:16",
-      "enriched_at": "2026-11-08T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing campaign impersonating the docomo d account, hosted on a Tencent-hosted IP (AS132203); credited to Team NA4Sec.",
-      "threat_type": "phishing",
-      "tweet_id": "2108416986963415061",
-      "type": "url",
-      "value": "http://43.167.235.101"
     },
     "43.167.27.31": {
       "confidence": 0.5,
@@ -38550,34 +38535,6 @@
       "type": "url",
       "value": "https://accessdocu.b-cdn.net/Installer.ps1"
     },
-    "accoun.nyrwhax.cn": {
-      "confidence": 0.9,
-      "date": "2026-10-09 04:16:24",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating AEON at accoun.nyrwhax.cn, with related IP 43.165.129.163 on AS132203.",
-      "threat_type": "phishing",
-      "tweet_id": "2108411231346602098",
-      "type": "domain",
-      "value": "accoun.nyrwhax.cn"
-    },
-    "accoun.nyrwhax.cn/1fnw71x4ty": {
-      "confidence": 0.9,
-      "date": "2026-10-09 04:16:24",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating AEON at accoun.nyrwhax.cn, with related IP 43.165.129.163 on AS132203.",
-      "threat_type": "phishing",
-      "tweet_id": "2108411231346602098",
-      "type": "url",
-      "value": "https://accoun.nyrwhax.cn/1fnw71x4ty"
-    },
     "accoun.omnwpws.cn": {
       "confidence": 0.9,
       "date": "2026-10-14 07:22:36",
@@ -44219,6 +44176,20 @@
       "tweet_id": "2116707028022460504",
       "type": "domain",
       "value": "alfrescoarcd-jp.com"
+    },
+    "allegro.00049499994.quest": {
+      "confidence": 0.85,
+      "date": "2026-11-08 04:56:45",
+      "enriched_at": "2026-11-08T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Allegro hosted on a .quest domain behind Cloudflare, reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2119293022923850138",
+      "type": "domain",
+      "value": "allegro.00049499994.quest"
     },
     "allegro.ur372h9.buzz": {
       "confidence": 0.85,
@@ -50374,20 +50345,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "blu-whatsapp.com"
-    },
-    "blue-night-ba2c.gradwest03.workers.dev": {
-      "confidence": 0.8,
-      "date": "2026-10-09 03:48:44",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page on workers.dev delivering a ScreenConnect RMM payload.",
-      "threat_type": "phishing",
-      "tweet_id": "2108404268575449534",
-      "type": "domain",
-      "value": "blue-night-ba2c.gradwest03.workers.dev"
     },
     "blueguradian.com": {
       "confidence": 0.8,
@@ -57550,6 +57507,20 @@
       "type": "domain",
       "value": "digilocker.services"
     },
+    "dillardindustrial.com": {
+      "confidence": 0.8,
+      "date": "2026-10-11 23:57:21",
+      "enriched_at": "2026-11-08T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing alert: a QuoteWizard-themed offer originating from the unrelated domain dillardindustrial[.]com.",
+      "threat_type": "phishing",
+      "tweet_id": "2109433203681542559",
+      "type": "domain",
+      "value": "dillardindustrial.com"
+    },
     "disable-own-nest-response.trycloudflare.com": {
       "confidence": 0.5,
       "date": "2026-10-17 17:20:22",
@@ -60852,21 +60823,6 @@
       "type": "md5",
       "value": "f2ae44b6f070273d53f79ef73646f880"
     },
-    "f367768387fc1deea2ea904aed28e7017d40dd4e17f5c12a4e56bce9005101b5": {
-      "confidence": 0.8,
-      "date": "2026-10-09 04:03:07",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Adobe-themed phishing URL at jskmarketings.com delivering an ISO payload.",
-      "threat_type": "phishing",
-      "tweet_id": "2108407886171058354",
-      "type": "sha256",
-      "value": "f367768387fc1deea2ea904aed28e7017d40dd4e17f5c12a4e56bce9005101b5"
-    },
     "f452b1a06c86c4ffa7ae32359cd2c03e58f6f20c7f892c4819c85836085804ae": {
       "confidence": 0.4,
       "date": "2026-10-26 18:18:40",
@@ -63786,6 +63742,23 @@
       "type": "domain",
       "value": "g7-whatsapp.com"
     },
+    "g7wq4gvc17.onlinewebshop.net": {
+      "confidence": 0.7,
+      "date": "2026-10-14 13:06:47",
+      "enriched_at": "2026-11-08T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "kimsuky",
+        "apt",
+        "dprk",
+        "c2"
+      ],
+      "summary": "Kimsuky-attributed infrastructure: multiple onlinewebshop.net subdomains linked to GitHub commit searches for 'Upload attachments' zip lures.",
+      "threat_type": "malware",
+      "tweet_id": "2110356647654969441",
+      "type": "domain",
+      "value": "g7wq4gvc17.onlinewebshop.net"
+    },
     "g8-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -66554,6 +66527,20 @@
       "type": "domain",
       "value": "inbox.webstatici-whatsapp.com"
     },
+    "incomestonefield.com": {
+      "confidence": 0.8,
+      "date": "2026-11-08 00:03:40",
+      "enriched_at": "2026-11-08T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing alert: a fake Nuvia quiz lure links to the unrelated domain incomestonefield[.]com.",
+      "threat_type": "phishing",
+      "tweet_id": "2119219264062369794",
+      "type": "domain",
+      "value": "incomestonefield.com"
+    },
     "index.brew-reef.lat": {
       "confidence": 0.2,
       "date": "2026-11-05 19:33:39",
@@ -67731,36 +67718,6 @@
       "tweet_id": "2116032408403530162",
       "type": "url",
       "value": "https://jr-east.52hysmj.com/NeAbcbyy/"
-    },
-    "jskmarketings.com": {
-      "confidence": 0.8,
-      "date": "2026-10-09 04:03:07",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Adobe-themed phishing URL at jskmarketings.com delivering an ISO payload.",
-      "threat_type": "phishing",
-      "tweet_id": "2108407886171058354",
-      "type": "domain",
-      "value": "jskmarketings.com"
-    },
-    "jskmarketings.com/acknowledgment.html": {
-      "confidence": 0.8,
-      "date": "2026-10-09 04:03:07",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Adobe-themed phishing URL at jskmarketings.com delivering an ISO payload.",
-      "threat_type": "phishing",
-      "tweet_id": "2108407886171058354",
-      "type": "url",
-      "value": "https://jskmarketings.com/acknowledgment.html"
     },
     "jugsedp.info": {
       "confidence": 0.85,
@@ -69588,20 +69545,6 @@
       "type": "domain",
       "value": "luqos.cn"
     },
-    "luxonuniversity.com": {
-      "confidence": 0.7,
-      "date": "2026-10-09 01:01:44",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Cloud payment phishing lure routed via a rebrand.ly link to luxonuniversity.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2108362241431187875",
-      "type": "domain",
-      "value": "luxonuniversity.com"
-    },
     "luxuryfitnesslabs.com": {
       "confidence": 0.85,
       "date": "2026-11-02 12:34:05",
@@ -70693,23 +70636,6 @@
       "type": "url",
       "value": "https://mgmylc.cc/jp"
     },
-    "mgxyuko.xyz": {
-      "confidence": 0.85,
-      "date": "2026-10-09 06:26:22",
-      "enriched_at": "2026-10-09T12:40:05Z",
-      "family": "Phexia",
-      "suggested_tags": [
-        "c2",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Phexia macOS infostealer C2 domain mgxyuko.xyz, resolved via domain names stored on the Polygon blockchain.",
-      "threat_type": "c2",
-      "tweet_id": "2108443938705031626",
-      "type": "domain",
-      "value": "mgxyuko.xyz"
-    },
     "mhtqk.cn": {
       "confidence": 0.8,
       "date": "2026-10-12 22:19:18",
@@ -71636,20 +71562,6 @@
       "tweet_id": "2110214641557385399",
       "type": "url",
       "value": "https://msteamvideoinvites.online/team/"
-    },
-    "mundolatinoradio.info": {
-      "confidence": 0.7,
-      "date": "2026-10-09 01:59:48",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing lure themed on LifeMD, with click routed through mundolatinoradio.info.",
-      "threat_type": "phishing",
-      "tweet_id": "2108376853593690586",
-      "type": "domain",
-      "value": "mundolatinoradio.info"
     },
     "mxk-762399649109.southamerica-east1.run.app": {
       "confidence": 0.8,
@@ -73719,20 +73631,6 @@
       "type": "domain",
       "value": "paulweiss.myssologin.com"
     },
-    "pay-pal-login-verification-center.com": {
-      "confidence": 0.9,
-      "date": "2026-10-09 03:28:40",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Recently registered domain impersonating PayPal login verification; flagged as phishing by Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2108399220390842675",
-      "type": "domain",
-      "value": "pay-pal-login-verification-center.com"
-    },
     "payload1717.pro": {
       "confidence": 0.85,
       "date": "2026-10-23 13:51:39",
@@ -73826,6 +73724,23 @@
       "tweet_id": "2106293721159582168",
       "type": "domain",
       "value": "perfectpitmaster.com"
+    },
+    "perlyperlygi-jp.com": {
+      "confidence": 0.75,
+      "date": "2026-11-08 04:55:57",
+      "enriched_at": "2026-11-08T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware",
+        "scam"
+      ],
+      "summary": "Phishing site mimicking a Sumitomo Mitsui card, distributing an Android malware sample (SHA256 reported via VirusTotal).",
+      "threat_type": "phishing",
+      "tweet_id": "2119292818321809666",
+      "type": "domain",
+      "value": "perlyperlygi-jp.com"
     },
     "pew9862l.onlinewebshop.net": {
       "confidence": 0.7,
@@ -75398,34 +75313,6 @@
       "type": "url",
       "value": "https://qvtoy.com/U2tNIfV6/"
     },
-    "qweaxfgtc.study": {
-      "confidence": 0.9,
-      "date": "2026-10-09 04:39:16",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating the docomo d Account brand, hosted at qweaxfgtc.study on AS132203 infrastructure.",
-      "threat_type": "phishing",
-      "tweet_id": "2108416986963415061",
-      "type": "domain",
-      "value": "qweaxfgtc.study"
-    },
-    "qweaxfgtc.study/knaebynf": {
-      "confidence": 0.9,
-      "date": "2026-10-09 04:39:16",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating the docomo d Account brand, hosted at qweaxfgtc.study on AS132203 infrastructure.",
-      "threat_type": "phishing",
-      "tweet_id": "2108416986963415061",
-      "type": "url",
-      "value": "https://qweaxfgtc.study/KnaeByNf/"
-    },
     "r0symss2.xyz": {
       "confidence": 0.9,
       "date": "2026-11-04 06:28:02",
@@ -76147,34 +76034,6 @@
       "tweet_id": "2115796495786242168",
       "type": "url",
       "value": "https://reviewshared.s3.us-east-005.backblazeb2.com/ScreenConnect.ClientSetup.exe"
-    },
-    "rivensa.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-09 04:27:06",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating VJA/Vpass card brand at rivensa.cfd, fronted by Cloudflare IPs.",
-      "threat_type": "phishing",
-      "tweet_id": "2108413924282716616",
-      "type": "domain",
-      "value": "rivensa.cfd"
-    },
-    "rivensa.cfd/mnshzdhc": {
-      "confidence": 0.9,
-      "date": "2026-10-09 04:27:06",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating VJA/Vpass card brand at rivensa.cfd, fronted by Cloudflare IPs.",
-      "threat_type": "phishing",
-      "tweet_id": "2108413924282716616",
-      "type": "url",
-      "value": "https://rivensa.cfd/mnshzdHc/"
     },
     "river-whatsapp.com": {
       "confidence": 0.65,
@@ -78381,20 +78240,6 @@
       "tweet_id": "2112143000361218342",
       "type": "url",
       "value": "https://share.google/XpDwUY4wr618gBIJQ"
-    },
-    "sharepointoffficewwork.sbs": {
-      "confidence": 0.8,
-      "date": "2026-10-09 03:36:36",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Recently registered domain suspected of impersonating SharePoint, registered via NameSilo.",
-      "threat_type": "phishing",
-      "tweet_id": "2108401212999737788",
-      "type": "domain",
-      "value": "sharepointoffficewwork.sbs"
     },
     "shewailvsh-jp.com": {
       "confidence": 0.8,
@@ -81555,34 +81400,6 @@
       "type": "domain",
       "value": "tea.vexexo.com"
     },
-    "teams-meeting-invite.icu": {
-      "confidence": 0.8,
-      "date": "2026-10-09 03:33:11",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Newly registered Microsoft Teams-themed domain delivering an Atera RMM installer (Teamsetup.msi).",
-      "threat_type": "phishing",
-      "tweet_id": "2108400354538946709",
-      "type": "domain",
-      "value": "teams-meeting-invite.icu"
-    },
-    "teams-meeting-invite.icu/teamsetup.msi": {
-      "confidence": 0.8,
-      "date": "2026-10-09 03:33:11",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Newly registered Microsoft Teams-themed domain delivering an Atera RMM installer (Teamsetup.msi).",
-      "threat_type": "phishing",
-      "tweet_id": "2108400354538946709",
-      "type": "url",
-      "value": "https://teams-meeting-invite.icu/Teamsetup.msi"
-    },
     "teamsmeeting.site": {
       "confidence": 0.8,
       "date": "2026-10-24 05:16:18",
@@ -84516,6 +84333,20 @@
       "tweet_id": "2116271510918987811",
       "type": "domain",
       "value": "wazirxr.com"
+    },
+    "wealthstepguide.com": {
+      "confidence": 0.8,
+      "date": "2026-11-08 01:01:55",
+      "enriched_at": "2026-11-08T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing alert: a fake Lemonade insurance quote links to the unrelated domain wealthstepguide[.]com.",
+      "threat_type": "phishing",
+      "tweet_id": "2119233924325052477",
+      "type": "domain",
+      "value": "wealthstepguide.com"
     },
     "web-keplr.com": {
       "confidence": 0.8,
@@ -88203,34 +88034,6 @@
       "type": "domain",
       "value": "zoomclientus.icu"
     },
-    "zoominviteus07.pages.dev": {
-      "confidence": 0.8,
-      "date": "2026-10-09 03:56:49",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Zoom-themed phishing page on pages.dev delivering a Faronics RMM payload via a Pixeldrain download.",
-      "threat_type": "phishing",
-      "tweet_id": "2108406301516870110",
-      "type": "domain",
-      "value": "zoominviteus07.pages.dev"
-    },
-    "zoomjoinlive.com": {
-      "confidence": 0.8,
-      "date": "2026-10-09 03:38:41",
-      "enriched_at": "2026-10-09T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Recently registered domain suspected of impersonating Zoom, registered via NameSilo.",
-      "threat_type": "phishing",
-      "tweet_id": "2108401739565293644",
-      "type": "domain",
-      "value": "zoomjoinlive.com"
-    },
     "zoommeet.live": {
       "confidence": 0.85,
       "date": "2026-11-06 20:58:37",
@@ -88541,6 +88344,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-08T00:40:04Z",
+  "generated_at": "2026-11-08T06:40:05Z",
   "window_days": 30
 }
