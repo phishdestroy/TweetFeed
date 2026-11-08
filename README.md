@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-08 17:15:16 (UTC)</th>
+        <th colspan=4>2026-11-08 17:30:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,9 +187,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 42 | 686 | 3118 | 44497 |
+| **:link: URLs** | 43 | 687 | 3119 | 44498 |
 | **:globe_with_meridians: Domains** | 33 | 592 | 2626 | 38300 |
-| **:triangular_flag_on_post: IPs** | 2 | 351 | 2227 | 8058 |
+| **:triangular_flag_on_post: IPs** | 3 | 352 | 2228 | 8059 |
 | **:1234: SHA256** | 8 | 205 | 558 | 3209 |
 | **:1234: MD5** | 0 | 26 | 110 | 2058 |
 
@@ -204,7 +204,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 31 | 826 | 3727 | 32148 |
+| **#phishing** | 33 | 828 | 3729 | 32150 |
 | **#Kimsuky** | 0 | 10 | 48 | 13315 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
 | **#malware** | 43 | 180 | 1183 | 4224 |
@@ -233,11 +233,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#2** | [skocherhan](https://x.com/skocherhan) | 17 |
 | **#3** | [TKemmerling](https://x.com/TKemmerling) | 8 |
 | **#4** | [phatomcandle](https://x.com/phatomcandle) | 5 |
-| **#5** | [banthisguy9349](https://x.com/banthisguy9349) | 4 |
-| **#6** | [Alopsis](https://x.com/Alopsis) | 4 |
-| **#7** | [masaomi346](https://x.com/masaomi346) | 3 |
-| **#8** | [smica83](https://x.com/smica83) | 3 |
-| **#9** | [PhishStats](https://x.com/PhishStats) | 2 |
+| **#5** | [PhishStats](https://x.com/PhishStats) | 4 |
+| **#6** | [banthisguy9349](https://x.com/banthisguy9349) | 4 |
+| **#7** | [Alopsis](https://x.com/Alopsis) | 4 |
+| **#8** | [masaomi346](https://x.com/masaomi346) | 3 |
+| **#9** | [smica83](https://x.com/smica83) | 3 |
 | **#10** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
 <!-- TOP_REPORTERS_END -->
 
