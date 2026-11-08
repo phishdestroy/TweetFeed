@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2532
-; Updated: 2026-11-08T19:15:15Z
+; Entries: 2538
+; Updated: 2026-11-08T19:30:22Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794165315 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794166222 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1870,6 +1870,8 @@ driverdocu.cloudaccess.host CNAME .
 *.driverdocu.cloudaccess.host CNAME .
 dtb-bank.pages.dev CNAME .
 *.dtb-bank.pages.dev CNAME .
+dule-vip.top CNAME .
+*.dule-vip.top CNAME .
 dule.wang CNAME .
 *.dule.wang CNAME .
 dunlop-ya.top CNAME .
@@ -2834,6 +2836,8 @@ lhdn.tos-cn-hongkong.volces.com CNAME .
 *.lhdn.tos-cn-hongkong.volces.com CNAME .
 lightdiwali.online CNAME .
 *.lightdiwali.online CNAME .
+lime-s.club CNAME .
+*.lime-s.club CNAME .
 limit-whatsapp.com CNAME .
 *.limit-whatsapp.com CNAME .
 link-ledger.at CNAME .
@@ -2918,6 +2922,8 @@ luxuryfitnesslabs.com CNAME .
 *.luxuryfitnesslabs.com CNAME .
 lzexox.com CNAME .
 *.lzexox.com CNAME .
+m-facebookk.com.vn CNAME .
+*.m-facebookk.com.vn CNAME .
 m-facebooks.vn CNAME .
 *.m-facebooks.vn CNAME .
 m-fixbet.vip CNAME .
@@ -3752,6 +3758,8 @@ samehoo229.fun CNAME .
 *.samehoo229.fun CNAME .
 sample-whatsapp.com CNAME .
 *.sample-whatsapp.com CNAME .
+samsung.beer CNAME .
+*.samsung.beer CNAME .
 samsung2026.lol CNAME .
 *.samsung2026.lol CNAME .
 samsung2026.sbs CNAME .
@@ -3918,6 +3926,8 @@ sghua.cn CNAME .
 *.sghua.cn CNAME .
 shadowemberstrike.top CNAME .
 *.shadowemberstrike.top CNAME .
+shamcash-mu.vercel.app CNAME .
+*.shamcash-mu.vercel.app CNAME .
 shanxinsawe-jp.com CNAME .
 *.shanxinsawe-jp.com CNAME .
 share-adminsimple.s3.eu-west-2.amazonaws.com CNAME .
@@ -4656,6 +4666,8 @@ wazirxr.com CNAME .
 *.wazirxr.com CNAME .
 wealthstepguide.com CNAME .
 *.wealthstepguide.com CNAME .
+web-cn-whatsapp.com CNAME .
+*.web-cn-whatsapp.com CNAME .
 web-keplr.com CNAME .
 *.web-keplr.com CNAME .
 web-static-cdn.od-files-repo.workers.dev CNAME .
