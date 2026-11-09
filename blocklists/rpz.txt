@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2523
-; Updated: 2026-11-09T09:15:18Z
+; Entries: 2529
+; Updated: 2026-11-09T10:45:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794215718 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794221118 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1890,6 +1890,8 @@ e-docu-sign.online CNAME .
 *.e-docu-sign.online CNAME .
 e1vfaomn3.onlinewebshop.net CNAME .
 *.e1vfaomn3.onlinewebshop.net CNAME .
+eaons.com CNAME .
+*.eaons.com CNAME .
 earthbuddypet.cslt168.com CNAME .
 *.earthbuddypet.cslt168.com CNAME .
 easydiwali.shop CNAME .
@@ -2734,6 +2736,8 @@ keychainagent.pro CNAME .
 *.keychainagent.pro CNAME .
 keysyncos.com CNAME .
 *.keysyncos.com CNAME .
+khtapes.com CNAME .
+*.khtapes.com CNAME .
 kid-whatsapp.com CNAME .
 *.kid-whatsapp.com CNAME .
 kihneatpyhqcs.zip CNAME .
@@ -2830,6 +2834,8 @@ lhdn.tos-cn-hongkong.volces.com CNAME .
 *.lhdn.tos-cn-hongkong.volces.com CNAME .
 lightdiwali.online CNAME .
 *.lightdiwali.online CNAME .
+liiknedln.com CNAME .
+*.liiknedln.com CNAME .
 lime-s.club CNAME .
 *.lime-s.club CNAME .
 limit-whatsapp.com CNAME .
@@ -3600,6 +3606,8 @@ rdwv03.cc CNAME .
 *.rdwv03.cc CNAME .
 readme-whatsapp.com CNAME .
 *.readme-whatsapp.com CNAME .
+reaycats.com CNAME .
+*.reaycats.com CNAME .
 recipebistro.com CNAME .
 *.recipebistro.com CNAME .
 recycle.startmultimedia.com CNAME .
@@ -3658,6 +3666,8 @@ rjxweb-whatsapp.com CNAME .
 *.rjxweb-whatsapp.com CNAME .
 rkm-20260709-1514.zip CNAME .
 *.rkm-20260709-1514.zip CNAME .
+rlnqcentral.com CNAME .
+*.rlnqcentral.com CNAME .
 rmm.cloakguard.org CNAME .
 *.rmm.cloakguard.org CNAME .
 rmwjb.com CNAME .
@@ -3768,6 +3778,8 @@ scontitech.emlnk9.com CNAME .
 *.scontitech.emlnk9.com CNAME .
 scope-whatsapp.com CNAME .
 *.scope-whatsapp.com CNAME .
+scrinnstudlo.com CNAME .
+*.scrinnstudlo.com CNAME .
 scrollsawvideos.com CNAME .
 *.scrollsawvideos.com CNAME .
 scrolltalents.online CNAME .
