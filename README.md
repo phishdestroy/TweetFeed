@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-09 12:30:22 (UTC)</th>
+        <th colspan=4>2026-11-09 12:45:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,10 +187,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 31 | 659 | 3135 | 44391 |
-| **:globe_with_meridians: Domains** | 26 | 562 | 2639 | 38198 |
+| **:link: URLs** | 32 | 660 | 3136 | 44392 |
+| **:globe_with_meridians: Domains** | 27 | 563 | 2640 | 38199 |
 | **:triangular_flag_on_post: IPs** | 11 | 357 | 2235 | 8060 |
-| **:1234: SHA256** | 2 | 185 | 552 | 3218 |
+| **:1234: SHA256** | 3 | 186 | 553 | 3219 |
 | **:1234: MD5** | 2 | 26 | 109 | 2056 |
 
 </div>
@@ -204,10 +204,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 17 | 843 | 3736 | 31920 |
+| **#phishing** | 20 | 846 | 3739 | 31923 |
 | **#Kimsuky** | 0 | 10 | 48 | 13315 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
-| **#malware** | 4 | 180 | 1189 | 4237 |
+| **#malware** | 7 | 183 | 1192 | 4240 |
 | **#scam** | 0 | 2 | 36 | 2866 |
 | **#C2** | 3 | 54 | 154 | 2174 |
 | **#APT** | 0 | 23 | 58 | 1469 |
@@ -233,12 +233,12 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#2** | [scanmalware](https://x.com/scanmalware) | 6 |
 | **#3** | [KesaGataMe0](https://x.com/KesaGataMe0) | 6 |
 | **#4** | [sicehice](https://x.com/sicehice) | 5 |
-| **#5** | [harugasumi](https://x.com/harugasumi) | 5 |
-| **#6** | [suyog41](https://x.com/suyog41) | 5 |
-| **#7** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#8** | [Fact_Finder03](https://x.com/Fact_Finder03) | 3 |
-| **#9** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#10** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#5** | [masaomi346](https://x.com/masaomi346) | 5 |
+| **#6** | [harugasumi](https://x.com/harugasumi) | 5 |
+| **#7** | [suyog41](https://x.com/suyog41) | 5 |
+| **#8** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#9** | [Fact_Finder03](https://x.com/Fact_Finder03) | 3 |
+| **#10** | [phishunt_io](https://x.com/phishunt_io) | 3 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
