@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2516
-; Updated: 2026-11-09T01:00:20Z
+; Entries: 2517
+; Updated: 2026-11-09T02:45:16Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794186020 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794192316 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1852,6 +1852,8 @@ downloads.nairawaterfall.com CNAME .
 *.downloads.nairawaterfall.com CNAME .
 dramajp.com CNAME .
 *.dramajp.com CNAME .
+drcourtneyjones.com CNAME .
+*.drcourtneyjones.com CNAME .
 drepace.click CNAME .
 *.drepace.click CNAME .
 dresiadkmhuta25.pages.dev CNAME .
