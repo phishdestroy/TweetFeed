@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2514
-; Updated: 2026-11-09T00:30:18Z
+; Entries: 2516
+; Updated: 2026-11-09T01:00:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794184218 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794186020 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2798,6 +2798,8 @@ latest-whatsapp.com CNAME .
 *.latest-whatsapp.com CNAME .
 lawresearch-jp.com CNAME .
 *.lawresearch-jp.com CNAME .
+lawsolutiondirect.info CNAME .
+*.lawsolutiondirect.info CNAME .
 layer-whatsapp.com CNAME .
 *.layer-whatsapp.com CNAME .
 layout-whatsapp.com CNAME .
@@ -3518,6 +3520,8 @@ pub-493f78e882da461f9f7b36234703f59b.r2.dev CNAME .
 *.pub-493f78e882da461f9f7b36234703f59b.r2.dev CNAME .
 pub-614b6a8544664ad7845f0c49488560a3.r2.dev CNAME .
 *.pub-614b6a8544664ad7845f0c49488560a3.r2.dev CNAME .
+pub-688274cc7fbe42babc80554f317de9ee.r2.dev CNAME .
+*.pub-688274cc7fbe42babc80554f317de9ee.r2.dev CNAME .
 pub-8bb2af2b13cd4e2d90a81254aea0d169.r2.dev CNAME .
 *.pub-8bb2af2b13cd4e2d90a81254aea0d169.r2.dev CNAME .
 pub-9fad4cf58ddf41d6b8a66e8621858802.r2.dev CNAME .
