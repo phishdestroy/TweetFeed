@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2520
-; Updated: 2026-11-09T05:45:15Z
+; Entries: 2522
+; Updated: 2026-11-09T07:15:17Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794203115 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794208517 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3574,6 +3574,8 @@ quickkitchendishes.com CNAME .
 *.quickkitchendishes.com CNAME .
 quota-whatsapp.com CNAME .
 *.quota-whatsapp.com CNAME .
+qutvb.com CNAME .
+*.qutvb.com CNAME .
 qvtoy.com CNAME .
 *.qvtoy.com CNAME .
 r0symss2.xyz CNAME .
@@ -4606,6 +4608,8 @@ vsdhjjt.club CNAME .
 *.vsdhjjt.club CNAME .
 vt3.eu CNAME .
 *.vt3.eu CNAME .
+vvcc.yoga CNAME .
+*.vvcc.yoga CNAME .
 vwwv-roblox.co CNAME .
 *.vwwv-roblox.co CNAME .
 vyv51.top CNAME .
