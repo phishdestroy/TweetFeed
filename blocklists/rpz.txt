@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2548
-; Updated: 2026-11-08T21:00:20Z
+; Entries: 2542
+; Updated: 2026-11-09T15:30:22Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794171620 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794238222 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -108,8 +108,6 @@ a-guci.top CNAME .
 *.a-guci.top CNAME .
 a0be120b.fase-x.com CNAME .
 *.a0be120b.fase-x.com CNAME .
-a2.cdnresolver.com CNAME .
-*.a2.cdnresolver.com CNAME .
 aadhar.tech CNAME .
 *.aadhar.tech CNAME .
 aaenen.cc CNAME .
@@ -130,8 +128,6 @@ access-whatsapp.com CNAME .
 *.access-whatsapp.com CNAME .
 accessdocu.b-cdn.net CNAME .
 *.accessdocu.b-cdn.net CNAME .
-accoun.nyrwhax.cn CNAME .
-*.accoun.nyrwhax.cn CNAME .
 accoun.omnwpws.cn CNAME .
 *.accoun.omnwpws.cn CNAME .
 account-booking.vercel.app CNAME .
@@ -166,6 +162,8 @@ adobeacrobatupdate.xyz CNAME .
 *.adobeacrobatupdate.xyz CNAME .
 aep.login-options.com CNAME .
 *.aep.login-options.com CNAME .
+aepc.in CNAME .
+*.aepc.in CNAME .
 aes-pdf.com CNAME .
 *.aes-pdf.com CNAME .
 aesmartdata.cloud CNAME .
@@ -268,6 +266,8 @@ ame-whatsapp.com CNAME .
 *.ame-whatsapp.com CNAME .
 amecxfund.com CNAME .
 *.amecxfund.com CNAME .
+americanexmissionit.jgenkr.asia CNAME .
+*.americanexmissionit.jgenkr.asia CNAME .
 americanexpcnh.w1u2p60.asia CNAME .
 *.americanexpcnh.w1u2p60.asia CNAME .
 amf-whatsapp.com CNAME .
@@ -292,6 +292,8 @@ anh-whatsapp.com CNAME .
 *.anh-whatsapp.com CNAME .
 anhuichengfe-jp.com CNAME .
 *.anhuichengfe-jp.com CNAME .
+aniv.dqtjvxa.cn CNAME .
+*.aniv.dqtjvxa.cn CNAME .
 aniv.ergstlj.cn CNAME .
 *.aniv.ergstlj.cn CNAME .
 anj-whatsapp.com CNAME .
@@ -944,8 +946,6 @@ blt-whatsapp.com CNAME .
 *.blt-whatsapp.com CNAME .
 blu-whatsapp.com CNAME .
 *.blu-whatsapp.com CNAME .
-blue-night-ba2c.gradwest03.workers.dev CNAME .
-*.blue-night-ba2c.gradwest03.workers.dev CNAME .
 blueguradian.com CNAME .
 *.blueguradian.com CNAME .
 bluerocksfinance.live CNAME .
@@ -1370,6 +1370,8 @@ check.neewsoo.com CNAME .
 *.check.neewsoo.com CNAME .
 check.petyamamkinjuk.workers.dev CNAME .
 *.check.petyamamkinjuk.workers.dev CNAME .
+checkogosdfg33.cc CNAME .
+*.checkogosdfg33.cc CNAME .
 checkpoint-access.com CNAME .
 *.checkpoint-access.com CNAME .
 checkyoursecurityfast.com CNAME .
@@ -1428,8 +1430,6 @@ cloudeliverrs.com CNAME .
 *.cloudeliverrs.com CNAME .
 cloudenterpriseve.com CNAME .
 *.cloudenterpriseve.com CNAME .
-cloudflare.vc CNAME .
-*.cloudflare.vc CNAME .
 cloudlink-whatsapp.com CNAME .
 *.cloudlink-whatsapp.com CNAME .
 cloudnode-whatsapp.com CNAME .
@@ -1534,8 +1534,6 @@ cruahop.shop CNAME .
 *.cruahop.shop CNAME .
 cruisemacauu-jp.com CNAME .
 *.cruisemacauu-jp.com CNAME .
-crystalmnhomes.com CNAME .
-*.crystalmnhomes.com CNAME .
 csg-soft.com CNAME .
 *.csg-soft.com CNAME .
 csrf-whatsapp.com CNAME .
@@ -1632,6 +1630,8 @@ desktop-telergram.org CNAME .
 *.desktop-telergram.org CNAME .
 desktop.webapi-whatsapp.com CNAME .
 *.desktop.webapi-whatsapp.com CNAME .
+detan2go.web.app CNAME .
+*.detan2go.web.app CNAME .
 dev.5tr.org CNAME .
 *.dev.5tr.org CNAME .
 dev.sbphototours.com CNAME .
@@ -1766,6 +1766,8 @@ diwalioff.shop CNAME .
 *.diwalioff.shop CNAME .
 diwalioffers.shop CNAME .
 *.diwalioffers.shop CNAME .
+diwalioffers2026.shop CNAME .
+*.diwalioffers2026.shop CNAME .
 diwalirchrg.info CNAME .
 *.diwalirchrg.info CNAME .
 diwalirchrg.shop CNAME .
@@ -1856,10 +1858,14 @@ download.youlovemybiba.com CNAME .
 *.download.youlovemybiba.com CNAME .
 downloadessays.net CNAME .
 *.downloadessays.net CNAME .
+downloadl-japan.com CNAME .
+*.downloadl-japan.com CNAME .
 downloads.nairawaterfall.com CNAME .
 *.downloads.nairawaterfall.com CNAME .
 dramajp.com CNAME .
 *.dramajp.com CNAME .
+drcourtneyjones.com CNAME .
+*.drcourtneyjones.com CNAME .
 drepace.click CNAME .
 *.drepace.click CNAME .
 dresiadkmhuta25.pages.dev CNAME .
@@ -1890,10 +1896,10 @@ e-challan.sarl CNAME .
 *.e-challan.sarl CNAME .
 e-docu-sign.online CNAME .
 *.e-docu-sign.online CNAME .
-e1.cdnresolver.com CNAME .
-*.e1.cdnresolver.com CNAME .
 e1vfaomn3.onlinewebshop.net CNAME .
 *.e1vfaomn3.onlinewebshop.net CNAME .
+eaons.com CNAME .
+*.eaons.com CNAME .
 earthbuddypet.cslt168.com CNAME .
 *.earthbuddypet.cslt168.com CNAME .
 easydiwali.shop CNAME .
@@ -1930,14 +1936,10 @@ edgenode-whatsapp.com CNAME .
 *.edgenode-whatsapp.com CNAME .
 efanxian.com CNAME .
 *.efanxian.com CNAME .
-efine-post.com CNAME .
-*.efine-post.com CNAME .
 egfbp.cn CNAME .
 *.egfbp.cn CNAME .
 egrweb-whatsapp.com CNAME .
 *.egrweb-whatsapp.com CNAME .
-element.proxy08.com CNAME .
-*.element.proxy08.com CNAME .
 elitewealthdaily.com CNAME .
 *.elitewealthdaily.com CNAME .
 ems-rifted-grigs.site CNAME .
@@ -2024,6 +2026,8 @@ fastwebpro-whatsapp.com CNAME .
 *.fastwebpro-whatsapp.com CNAME .
 faturapro.net CNAME .
 *.faturapro.net CNAME .
+fcdnbovres.cc CNAME .
+*.fcdnbovres.cc CNAME .
 fdhau3428957hfa.com CNAME .
 *.fdhau3428957hfa.com CNAME .
 fdsdgrixj.uk.cc CNAME .
@@ -2258,8 +2262,8 @@ fr.yxdnsy.com CNAME .
 *.fr.yxdnsy.com CNAME .
 freshmenuideas.com CNAME .
 *.freshmenuideas.com CNAME .
-ftp.fundacionpiaz.org CNAME .
-*.ftp.fundacionpiaz.org CNAME .
+fudcomcheck.art CNAME .
+*.fudcomcheck.art CNAME .
 fullwork3e4.gamer.free CNAME .
 *.fullwork3e4.gamer.free CNAME .
 future-whatsapp.com CNAME .
@@ -2298,8 +2302,6 @@ gambah.com CNAME .
 *.gambah.com CNAME .
 gbjeifr.cn CNAME .
 *.gbjeifr.cn CNAME .
-gdfgdsa.duckdns.org CNAME .
-*.gdfgdsa.duckdns.org CNAME .
 gemini-alarmes.com CNAME .
 *.gemini-alarmes.com CNAME .
 genovaw.com CNAME .
@@ -2350,8 +2352,6 @@ goodsecomfinder.com CNAME .
 *.goodsecomfinder.com CNAME .
 googie-chrome.top CNAME .
 *.googie-chrome.top CNAME .
-google-play-store.duckdns.org CNAME .
-*.google-play-store.duckdns.org CNAME .
 google.drive03.com CNAME .
 *.google.drive03.com CNAME .
 google.workspacedoc.com CNAME .
@@ -2362,6 +2362,8 @@ googlemeeeeet.live CNAME .
 *.googlemeeeeet.live CNAME .
 gosidefastandpure.com CNAME .
 *.gosidefastandpure.com CNAME .
+govrobczxc.cc CNAME .
+*.govrobczxc.cc CNAME .
 gptverification.com CNAME .
 *.gptverification.com CNAME .
 grabola.cfd CNAME .
@@ -2518,8 +2520,6 @@ httpapi-whatsapp.com CNAME .
 *.httpapi-whatsapp.com CNAME .
 httpcdn-whatsapp.com CNAME .
 *.httpcdn-whatsapp.com CNAME .
-httprat.xyz CNAME .
-*.httprat.xyz CNAME .
 https--www--roblox.com CNAME .
 *.https--www--roblox.com CNAME .
 httpsrv-whatsapp.com CNAME .
@@ -2610,8 +2610,6 @@ installgarphenos.ink CNAME .
 *.installgarphenos.ink CNAME .
 instantposupdate.com CNAME .
 *.instantposupdate.com CNAME .
-instantupdate.dev CNAME .
-*.instantupdate.dev CNAME .
 insuranceforteenagedrivers.com CNAME .
 *.insuranceforteenagedrivers.com CNAME .
 integercdn.com CNAME .
@@ -2720,18 +2718,12 @@ jqsweb-whatsapp.com CNAME .
 *.jqsweb-whatsapp.com CNAME .
 jr-east.52hysmj.com CNAME .
 *.jr-east.52hysmj.com CNAME .
-jskmarketings.com CNAME .
-*.jskmarketings.com CNAME .
 jugsedp.info CNAME .
 *.jugsedp.info CNAME .
-justtoit.icu CNAME .
-*.justtoit.icu CNAME .
 ka376.online CNAME .
 *.ka376.online CNAME .
 kakisafedecrypt.com CNAME .
 *.kakisafedecrypt.com CNAME .
-kalif-delivery.duckdns.org CNAME .
-*.kalif-delivery.duckdns.org CNAME .
 karichilevels.click CNAME .
 *.karichilevels.click CNAME .
 kb102531x.vercel.app CNAME .
@@ -2758,6 +2750,8 @@ keychainagent.pro CNAME .
 *.keychainagent.pro CNAME .
 keysyncos.com CNAME .
 *.keysyncos.com CNAME .
+khtapes.com CNAME .
+*.khtapes.com CNAME .
 kid-whatsapp.com CNAME .
 *.kid-whatsapp.com CNAME .
 kihneatpyhqcs.zip CNAME .
@@ -2824,12 +2818,12 @@ labweb-whatsapp.com CNAME .
 *.labweb-whatsapp.com CNAME .
 ladygirl-series.com CNAME .
 *.ladygirl-series.com CNAME .
-lake-90.com CNAME .
-*.lake-90.com CNAME .
 latest-whatsapp.com CNAME .
 *.latest-whatsapp.com CNAME .
 lawresearch-jp.com CNAME .
 *.lawresearch-jp.com CNAME .
+lawsolutiondirect.info CNAME .
+*.lawsolutiondirect.info CNAME .
 layer-whatsapp.com CNAME .
 *.layer-whatsapp.com CNAME .
 layout-whatsapp.com CNAME .
@@ -2854,6 +2848,8 @@ lhdn.tos-cn-hongkong.volces.com CNAME .
 *.lhdn.tos-cn-hongkong.volces.com CNAME .
 lightdiwali.online CNAME .
 *.lightdiwali.online CNAME .
+liiknedln.com CNAME .
+*.liiknedln.com CNAME .
 lime-s.club CNAME .
 *.lime-s.club CNAME .
 limit-whatsapp.com CNAME .
@@ -2882,8 +2878,6 @@ liveeee365.dothome.co.kr CNAME .
 *.liveeee365.dothome.co.kr CNAME .
 llsbsnls.suplayer810.workers.dev CNAME .
 *.llsbsnls.suplayer810.workers.dev CNAME .
-lo-ja-ma-galu-store.com CNAME .
-*.lo-ja-ma-galu-store.com CNAME .
 loanfairfield.com CNAME .
 *.loanfairfield.com CNAME .
 login-msftportal.com CNAME .
@@ -2934,8 +2928,6 @@ luoc.run CNAME .
 *.luoc.run CNAME .
 luqos.cn CNAME .
 *.luqos.cn CNAME .
-luxonuniversity.com CNAME .
-*.luxonuniversity.com CNAME .
 luxuryfitnesslabs.com CNAME .
 *.luxuryfitnesslabs.com CNAME .
 lzexox.com CNAME .
@@ -3066,8 +3058,6 @@ mggesq.cn CNAME .
 *.mggesq.cn CNAME .
 mgmylc.cc CNAME .
 *.mgmylc.cc CNAME .
-mgxyuko.xyz CNAME .
-*.mgxyuko.xyz CNAME .
 mhtqk.cn CNAME .
 *.mhtqk.cn CNAME .
 microservice6533.com CNAME .
@@ -3176,10 +3166,8 @@ msteamvideoinvites.online CNAME .
 *.msteamvideoinvites.online CNAME .
 mu4lkdtjszjvio9g.public.blob.vercel-storage.com CNAME .
 *.mu4lkdtjszjvio9g.public.blob.vercel-storage.com CNAME .
-mundolatinoradio.info CNAME .
-*.mundolatinoradio.info CNAME .
-mxk-762399649109.southamerica-east1.run.app CNAME .
-*.mxk-762399649109.southamerica-east1.run.app CNAME .
+muchautomation-jp.com CNAME .
+*.muchautomation-jp.com CNAME .
 my-document-101607.proposal-union-9173673.workers.dev CNAME .
 *.my-document-101607.proposal-union-9173673.workers.dev CNAME .
 my-settings-google.com CNAME .
@@ -3248,8 +3236,6 @@ newbiesember.duckdns.org CNAME .
 *.newbiesember.duckdns.org CNAME .
 news.webapi-whatsapp.com CNAME .
 *.news.webapi-whatsapp.com CNAME .
-neww-project-pdffiles.vercel.app CNAME .
-*.neww-project-pdffiles.vercel.app CNAME .
 next-whatsapp.com CNAME .
 *.next-whatsapp.com CNAME .
 nfdweb-whatsapp.com CNAME .
@@ -3292,6 +3278,8 @@ npparchive.z1.web.core.windows.net CNAME .
 *.npparchive.z1.web.core.windows.net CNAME .
 nqxweb-whatsapp.com CNAME .
 *.nqxweb-whatsapp.com CNAME .
+ns2.monstadns.com CNAME .
+*.ns2.monstadns.com CNAME .
 nsjhkttv.cn CNAME .
 *.nsjhkttv.cn CNAME .
 ntp.reposync.to CNAME .
@@ -3310,8 +3298,6 @@ oceanvw.click CNAME .
 *.oceanvw.click CNAME .
 octoberfp.eastus.cloudapp.azure.com CNAME .
 *.octoberfp.eastus.cloudapp.azure.com CNAME .
-odeesa.com.mx CNAME .
-*.odeesa.com.mx CNAME .
 offer-diwali-sale2026.space CNAME .
 *.offer-diwali-sale2026.space CNAME .
 offers-fkarrts-diwali.space CNAME .
@@ -3418,8 +3404,6 @@ paulenelson.com CNAME .
 *.paulenelson.com CNAME .
 paulweiss.myssologin.com CNAME .
 *.paulweiss.myssologin.com CNAME .
-pay-pal-login-verification-center.com CNAME .
-*.pay-pal-login-verification-center.com CNAME .
 payload1717.pro CNAME .
 *.payload1717.pro CNAME .
 pc.webapi-whatsapp.com CNAME .
@@ -3542,8 +3526,6 @@ proximadeploy.app CNAME .
 *.proximadeploy.app CNAME .
 proxy-tg-huafei080.papag8593.workers.dev CNAME .
 *.proxy-tg-huafei080.papag8593.workers.dev CNAME .
-proxy8.com CNAME .
-*.proxy8.com CNAME .
 proxyapi-whatsapp.com CNAME .
 *.proxyapi-whatsapp.com CNAME .
 proxysrv-whatsapp.com CNAME .
@@ -3566,6 +3548,8 @@ pub-493f78e882da461f9f7b36234703f59b.r2.dev CNAME .
 *.pub-493f78e882da461f9f7b36234703f59b.r2.dev CNAME .
 pub-614b6a8544664ad7845f0c49488560a3.r2.dev CNAME .
 *.pub-614b6a8544664ad7845f0c49488560a3.r2.dev CNAME .
+pub-688274cc7fbe42babc80554f317de9ee.r2.dev CNAME .
+*.pub-688274cc7fbe42babc80554f317de9ee.r2.dev CNAME .
 pub-8bb2af2b13cd4e2d90a81254aea0d169.r2.dev CNAME .
 *.pub-8bb2af2b13cd4e2d90a81254aea0d169.r2.dev CNAME .
 pub-9fad4cf58ddf41d6b8a66e8621858802.r2.dev CNAME .
@@ -3612,10 +3596,10 @@ quickkitchendishes.com CNAME .
 *.quickkitchendishes.com CNAME .
 quota-whatsapp.com CNAME .
 *.quota-whatsapp.com CNAME .
+qutvb.com CNAME .
+*.qutvb.com CNAME .
 qvtoy.com CNAME .
 *.qvtoy.com CNAME .
-qweaxfgtc.study CNAME .
-*.qweaxfgtc.study CNAME .
 r0symss2.xyz CNAME .
 *.r0symss2.xyz CNAME .
 r6j3hjp.shop CNAME .
@@ -3638,6 +3622,8 @@ rdwv03.cc CNAME .
 *.rdwv03.cc CNAME .
 readme-whatsapp.com CNAME .
 *.readme-whatsapp.com CNAME .
+reaycats.com CNAME .
+*.reaycats.com CNAME .
 recipebistro.com CNAME .
 *.recipebistro.com CNAME .
 recycle.startmultimedia.com CNAME .
@@ -3688,8 +3674,6 @@ restsetestes.com CNAME .
 *.restsetestes.com CNAME .
 reviewshared.s3.us-east-005.backblazeb2.com CNAME .
 *.reviewshared.s3.us-east-005.backblazeb2.com CNAME .
-rivensa.cfd CNAME .
-*.rivensa.cfd CNAME .
 river-whatsapp.com CNAME .
 *.river-whatsapp.com CNAME .
 riverpartner.org CNAME .
@@ -3698,6 +3682,8 @@ rjxweb-whatsapp.com CNAME .
 *.rjxweb-whatsapp.com CNAME .
 rkm-20260709-1514.zip CNAME .
 *.rkm-20260709-1514.zip CNAME .
+rlnqcentral.com CNAME .
+*.rlnqcentral.com CNAME .
 rmm.cloakguard.org CNAME .
 *.rmm.cloakguard.org CNAME .
 rmwjb.com CNAME .
@@ -3808,6 +3794,8 @@ scontitech.emlnk9.com CNAME .
 *.scontitech.emlnk9.com CNAME .
 scope-whatsapp.com CNAME .
 *.scope-whatsapp.com CNAME .
+scrinnstudlo.com CNAME .
+*.scrinnstudlo.com CNAME .
 scrollsawvideos.com CNAME .
 *.scrollsawvideos.com CNAME .
 scrolltalents.online CNAME .
@@ -3952,8 +3940,6 @@ shanxinsawe-jp.com CNAME .
 *.shanxinsawe-jp.com CNAME .
 share-adminsimple.s3.eu-west-2.amazonaws.com CNAME .
 *.share-adminsimple.s3.eu-west-2.amazonaws.com CNAME .
-sharepointoffficewwork.sbs CNAME .
-*.sharepointoffficewwork.sbs CNAME .
 shewailvsh-jp.com CNAME .
 *.shewailvsh-jp.com CNAME .
 shield-whatsapp.com CNAME .
@@ -4042,8 +4028,6 @@ sslcert-whatsapp.com CNAME .
 *.sslcert-whatsapp.com CNAME .
 ssltls-whatsapp.com CNAME .
 *.ssltls-whatsapp.com CNAME .
-sso-808526.gmo-aozora.app CNAME .
-*.sso-808526.gmo-aozora.app CNAME .
 sso-sync.at CNAME .
 *.sso-sync.at CNAME .
 sssrrllodhff.duckdns.org CNAME .
@@ -4290,6 +4274,8 @@ sysnet-whatsapp.com CNAME .
 *.sysnet-whatsapp.com CNAME .
 syspro-whatsapp.com CNAME .
 *.syspro-whatsapp.com CNAME .
+szghrl.com CNAME .
+*.szghrl.com CNAME .
 t-me.fluffydaddy.dev CNAME .
 *.t-me.fluffydaddy.dev CNAME .
 t-me.nproxy.org CNAME .
@@ -4340,8 +4326,6 @@ te1egram.lol CNAME .
 *.te1egram.lol CNAME .
 tea.vexexo.com CNAME .
 *.tea.vexexo.com CNAME .
-teams-meeting-invite.icu CNAME .
-*.teams-meeting-invite.icu CNAME .
 teamsmeeting.site CNAME .
 *.teamsmeeting.site CNAME .
 teamsosl123.oss-cn-hongkong.aliyuncs.com CNAME .
@@ -4444,18 +4428,16 @@ tik-tok-18-3.cc CNAME .
 *.tik-tok-18-3.cc CNAME .
 tik-tok-18-4.cc CNAME .
 *.tik-tok-18-4.cc CNAME .
+tik-tok-18-app-5.top CNAME .
+*.tik-tok-18-app-5.top CNAME .
 tik-tok-18.com CNAME .
 *.tik-tok-18.com CNAME .
-times.eastus.cloudapp.azure.com CNAME .
-*.times.eastus.cloudapp.azure.com CNAME .
 tips.webapi-whatsapp.com CNAME .
 *.tips.webapi-whatsapp.com CNAME .
 tme.telelauncher.com CNAME .
 *.tme.telelauncher.com CNAME .
 tmmkxi.cn CNAME .
 *.tmmkxi.cn CNAME .
-toastposupdate.com CNAME .
-*.toastposupdate.com CNAME .
 today-biggesst-diwalisale.icu CNAME .
 *.today-biggesst-diwalisale.icu CNAME .
 today-biggesst-diwalisale.info CNAME .
@@ -4492,6 +4474,8 @@ translucentle.com CNAME .
 *.translucentle.com CNAME .
 trastwallet.cam CNAME .
 *.trastwallet.cam CNAME .
+treffert.screenconnect.com CNAME .
+*.treffert.screenconnect.com CNAME .
 trendcars.be CNAME .
 *.trendcars.be CNAME .
 truecdnnetwork.com CNAME .
@@ -4524,6 +4508,8 @@ uau.pp.ua CNAME .
 *.uau.pp.ua CNAME .
 uazweb-whatsapp.com CNAME .
 *.uazweb-whatsapp.com CNAME .
+ubbrobccheck20.cc CNAME .
+*.ubbrobccheck20.cc CNAME .
 udp-whatsapp.com CNAME .
 *.udp-whatsapp.com CNAME .
 udpip-whatsapp.com CNAME .
@@ -4542,8 +4528,6 @@ unitstrust.click CNAME .
 *.unitstrust.click CNAME .
 uob-bk6-c3gnawcfendtf8gu.z01.azurefd.net CNAME .
 *.uob-bk6-c3gnawcfendtf8gu.z01.azurefd.net CNAME .
-update.cdnlinks.org CNAME .
-*.update.cdnlinks.org CNAME .
 update.neewsoo.com CNAME .
 *.update.neewsoo.com CNAME .
 updatestates.blob.core.windows.net CNAME .
@@ -4612,6 +4596,8 @@ verifing-server.codes CNAME .
 *.verifing-server.codes CNAME .
 verify.webapi-whatsapp.com CNAME .
 *.verify.webapi-whatsapp.com CNAME .
+verifyidentrob01.cc CNAME .
+*.verifyidentrob01.cc CNAME .
 version-whatsapp.com CNAME .
 *.version-whatsapp.com CNAME .
 vggkofmi.cn CNAME .
@@ -4658,6 +4644,8 @@ vsdhjjt.club CNAME .
 *.vsdhjjt.club CNAME .
 vt3.eu CNAME .
 *.vt3.eu CNAME .
+vvcc.yoga CNAME .
+*.vvcc.yoga CNAME .
 vwwv-roblox.co CNAME .
 *.vwwv-roblox.co CNAME .
 vyv51.top CNAME .
@@ -4790,6 +4778,8 @@ webkey-whatsapp.com CNAME .
 *.webkey-whatsapp.com CNAME .
 webkotlin-whatsapp.com CNAME .
 *.webkotlin-whatsapp.com CNAME .
+webmail.graftonband.org CNAME .
+*.webmail.graftonband.org CNAME .
 webmaxpro-whatsapp.com CNAME .
 *.webmaxpro-whatsapp.com CNAME .
 webmetric-whatsapp.com CNAME .
@@ -4850,6 +4840,8 @@ wellsfargo-secure-login.beauty CNAME .
 *.wellsfargo-secure-login.beauty CNAME .
 werefilledwit.org CNAME .
 *.werefilledwit.org CNAME .
+whatsappr.cc CNAME .
+*.whatsappr.cc CNAME .
 wheat-whatsapp.com CNAME .
 *.wheat-whatsapp.com CNAME .
 wi20a-1kkan-llam2.xo.je CNAME .
@@ -5076,10 +5068,6 @@ zoom-meet-invite7845957.s3.us-east-1.amazonaws.com CNAME .
 *.zoom-meet-invite7845957.s3.us-east-1.amazonaws.com CNAME .
 zoomclientus.icu CNAME .
 *.zoomclientus.icu CNAME .
-zoominviteus07.pages.dev CNAME .
-*.zoominviteus07.pages.dev CNAME .
-zoomjoinlive.com CNAME .
-*.zoomjoinlive.com CNAME .
 zoommeet.live CNAME .
 *.zoommeet.live CNAME .
 zoommeetcall.live CNAME .
