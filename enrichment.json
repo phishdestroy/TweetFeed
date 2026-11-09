@@ -1,5 +1,5 @@
 {
-  "count": 5864,
+  "count": 5883,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -7254,6 +7254,21 @@
       "type": "ip",
       "value": "136.92.8.91"
     },
+    "137.184.152.117": {
+      "confidence": 0.6,
+      "date": "2026-11-09 04:00:55",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "stealer"
+      ],
+      "summary": "IP and port reported as a stealer C2 panel; specific family not identified.",
+      "threat_type": "c2",
+      "tweet_id": "2119641359204356137",
+      "type": "ip",
+      "value": "137.184.152.117"
+    },
     "137.220.140.19": {
       "confidence": 0.65,
       "date": "2026-10-24 07:37:04",
@@ -8286,6 +8301,20 @@
       "tweet_id": "2117938591670096027",
       "type": "url",
       "value": "http://151.243.18.12"
+    },
+    "151.243.218.245": {
+      "confidence": 0.5,
+      "date": "2026-11-09 04:10:19",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP and port reported as a C2 panel, tagged ADB; malware family not identified.",
+      "threat_type": "c2",
+      "tweet_id": "2119643724900937983",
+      "type": "ip",
+      "value": "151.243.218.245"
     },
     "151.245.121.241": {
       "confidence": 0.9,
@@ -11478,6 +11507,22 @@
       "type": "url",
       "value": "http://176.53.159.37"
     },
+    "176.65.132.181": {
+      "confidence": 0.7,
+      "date": "2026-11-09 04:19:51",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": "Amethyst Stealer",
+      "suggested_tags": [
+        "c2",
+        "stealer",
+        "infostealer"
+      ],
+      "summary": "IP address reported as a C2 panel for Amethyst Stealer.",
+      "threat_type": "c2",
+      "tweet_id": "2119646123543724117",
+      "type": "ip",
+      "value": "176.65.132.181"
+    },
     "176.65.132.7": {
       "confidence": 0.9,
       "date": "2026-10-22 10:52:58",
@@ -13501,6 +13546,20 @@
       "type": "url",
       "value": "http://194.9.6.117:8090/login?next=/"
     },
+    "194.9.6.5": {
+      "confidence": 0.7,
+      "date": "2026-10-10 17:44:58",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": "ONYX C2",
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Login panel titled 'ONYX C2' (Command & Control) exposed on an IP address and port.",
+      "threat_type": "c2",
+      "tweet_id": "2108977101168578939",
+      "type": "ip",
+      "value": "194.9.6.5"
+    },
     "194.9.6.5:1115/login": {
       "confidence": 0.7,
       "date": "2026-10-10 17:44:58",
@@ -13573,6 +13632,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "195.178.110.22"
+    },
+    "195.178.110.78": {
+      "confidence": 0.7,
+      "date": "2026-11-09 02:22:16",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "RCE attempt against HNAP1 devices from a Bulgarian source IP, downloading and executing a malicious payload from a Netherlands-hosted server.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2119616530849874087",
+      "type": "ip",
+      "value": "195.178.110.78"
     },
     "195.182.16.23": {
       "confidence": 0.8,
@@ -28123,6 +28196,22 @@
       "type": "ip",
       "value": "42.0.7.250"
     },
+    "42074f21e41d540685a56123828416ea3c64dc9d52cd26a3504a0f32065de54e": {
+      "confidence": 0.8,
+      "date": "2026-11-08 23:56:34",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware distributed via a site impersonating Amazon (Japanese-language phishing campaign).",
+      "threat_type": "malware",
+      "tweet_id": "2119579864319889738",
+      "type": "sha256",
+      "value": "42074f21e41d540685a56123828416ea3c64dc9d52cd26a3504a0f32065de54e"
+    },
     "43.108.120.121": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -32040,6 +32129,18 @@
       "type": "ip",
       "value": "62.83.72.151"
     },
+    "6228b781c231fe290da7147e3b3b29ee81ecc79465cc3c6b0e72d66abb8ea156": {
+      "confidence": 0.4,
+      "date": "2026-11-09 02:16:10",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": "ARTEX",
+      "suggested_tags": [],
+      "summary": "Publication of an IP address list associated with ARTEX, with a VirusTotal collection reference; no specific malware family named.",
+      "threat_type": "other",
+      "tweet_id": "2119614998661992693",
+      "type": "sha256",
+      "value": "6228b781c231fe290da7147e3b3b29ee81ecc79465cc3c6b0e72d66abb8ea156"
+    },
     "6279b6c01c15d5451c316aac5e56bd9a8bd8d6bbf93a64d1acfb7de75650e288": {
       "confidence": 0.6,
       "date": "2026-10-26 09:24:06",
@@ -32507,23 +32608,6 @@
       "tweet_id": "2113375121545236514",
       "type": "sha256",
       "value": "67c10a4f7db7fe55953b9b57492d4e6aa9cf0e20f492d193328def2662840c97"
-    },
-    "682b1041b4b7f6e78ec33dab05dc7781d0daaaf2801cb92629302bf4fad97a92": {
-      "confidence": 0.7,
-      "date": "2026-10-10 05:05:48",
-      "enriched_at": "2026-10-10T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as an e-Tax app, tied to a Japanese phishing/fraud site; a sample hash was shared via VirusTotal.",
-      "threat_type": "malware",
-      "tweet_id": "2108786052400140706",
-      "type": "sha256",
-      "value": "682b1041b4b7f6e78ec33dab05dc7781d0daaaf2801cb92629302bf4fad97a92"
     },
     "6872db8913a00527f90a16c3441051ca88feb8388fe05f0b9f5880edff94e10f": {
       "confidence": 0.6,
@@ -33363,6 +33447,34 @@
       "type": "url",
       "value": "http://77.239.124.141"
     },
+    "77.239.124.167": {
+      "confidence": 0.7,
+      "date": "2026-11-09 02:22:16",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "RCE attempt against HNAP1 devices from a Bulgarian source IP, downloading and executing a malicious payload from a Netherlands-hosted server.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2119616530849874087",
+      "type": "ip",
+      "value": "77.239.124.167"
+    },
+    "77.239.124.167/s": {
+      "confidence": 0.7,
+      "date": "2026-11-09 02:22:16",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "RCE attempt against HNAP1 devices from a Bulgarian source IP, downloading and executing a malicious payload from a Netherlands-hosted server.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2119616530849874087",
+      "type": "url",
+      "value": "http://77.239.124.167/s"
+    },
     "77.90.185.20": {
       "confidence": 0.85,
       "date": "2026-10-23 08:00:38",
@@ -33571,6 +33683,20 @@
       "tweet_id": "2109055341908607403",
       "type": "sha256",
       "value": "79dba35f06d557a20d0ea100f4926da22aa9733513422addd7b4217246da3393"
+    },
+    "79f121fced18f5d1d425024842ed79dc": {
+      "confidence": 0.7,
+      "date": "2026-11-09 02:22:16",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "RCE attempt against HNAP1 devices from a Bulgarian source IP, downloading and executing a malicious payload from a Netherlands-hosted server.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2119616530849874087",
+      "type": "md5",
+      "value": "79f121fced18f5d1d425024842ed79dc"
     },
     "7a041d5cb690de7d5f5cdc97e806260f": {
       "confidence": 0.3,
@@ -39219,6 +39345,34 @@
       "tweet_id": "2113634827715117474",
       "type": "url",
       "value": "https://amecxfund.com/ivkehhc/lipp/vzisum/yahy/hnlxw/vjsoajyq/ckucolrd/gsjudctm/"
+    },
+    "americanexmissionit.jgenkr.asia": {
+      "confidence": 0.85,
+      "date": "2026-11-09 03:14:07",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating American Express (Japanese-language report).",
+      "threat_type": "phishing",
+      "tweet_id": "2119629579522585046",
+      "type": "domain",
+      "value": "americanexmissionit.jgenkr.asia"
+    },
+    "americanexmissionit.jgenkr.asia/yxhzxla": {
+      "confidence": 0.85,
+      "date": "2026-11-09 03:14:07",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating American Express (Japanese-language report).",
+      "threat_type": "phishing",
+      "tweet_id": "2119629579522585046",
+      "type": "url",
+      "value": "https://americanexmissionit.jgenkr.asia/yxhZxla"
     },
     "americanexpcnh.w1u2p60.asia": {
       "confidence": 0.93,
@@ -47710,6 +47864,22 @@
       "type": "sha256",
       "value": "c7c19812efc4ea911da10fb8603a338bb8d8ca15e6eb1a58913cf5a509d5fe50"
     },
+    "c80ff80822680c238962ee1e0bd293a36e739d6cbddee65545c3556476889ed1": {
+      "confidence": 0.8,
+      "date": "2026-11-08 23:49:08",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware distributed via a site impersonating e-Tax (Japanese-language phishing campaign).",
+      "threat_type": "malware",
+      "tweet_id": "2119577994494972122",
+      "type": "sha256",
+      "value": "c80ff80822680c238962ee1e0bd293a36e739d6cbddee65545c3556476889ed1"
+    },
     "c813ceb4bda2ab3371329fa4c786679f40b0a79a3483f673bb7ee94a190dcae0": {
       "confidence": 0.85,
       "date": "2026-10-29 15:20:23",
@@ -51124,6 +51294,22 @@
       "type": "domain",
       "value": "dawnharbor.cc"
     },
+    "db2a3d7f0aedb9a627aaed7274b07eab79eaa0fe590488c4c93d7baed716adae": {
+      "confidence": 0.8,
+      "date": "2026-11-09 04:51:53",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android APK malware delivered via a phishing site impersonating a Japanese Cabinet Office public opinion survey; non-Android user agents are redirected to the legitimate site.",
+      "threat_type": "phishing",
+      "tweet_id": "2119654184010338308",
+      "type": "sha256",
+      "value": "db2a3d7f0aedb9a627aaed7274b07eab79eaa0fe590488c4c93d7baed716adae"
+    },
     "dbaoi.com": {
       "confidence": 0.85,
       "date": "2026-10-23 04:02:43",
@@ -51348,6 +51534,22 @@
       "tweet_id": "2112738024262181174",
       "type": "sha256",
       "value": "de0b9b6656c9e9fc9db4271610a09c2ae27d07c5a4757e94b2e0314a9dda6ee4"
+    },
+    "de578e29c96f49bdc72756fce941b5c6c6814748a0cc9395e47a7d2aec354380": {
+      "confidence": 0.8,
+      "date": "2026-11-08 23:45:15",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware distributed via a site impersonating the Japanese Cabinet Office (phishing campaign).",
+      "threat_type": "malware",
+      "tweet_id": "2119577018014822575",
+      "type": "sha256",
+      "value": "de578e29c96f49bdc72756fce941b5c6c6814748a0cc9395e47a7d2aec354380"
     },
     "dea6bd7e91113ba369027ce28ae0b83ccfa9e5c40110e391931d5a82ae14f185": {
       "confidence": 0.85,
@@ -51711,6 +51913,20 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "desktop.webapi-whatsapp.com"
+    },
+    "detan2go.web.app": {
+      "confidence": 0.5,
+      "date": "2026-11-09 03:20:02",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Website flagged by an automated scanner as a confirmed scam; no further details on the threat.",
+      "threat_type": "scam",
+      "tweet_id": "2119631069527900496",
+      "type": "domain",
+      "value": "detan2go.web.app"
     },
     "dev.5tr.org": {
       "confidence": 0.85,
@@ -53612,6 +53828,22 @@
       "type": "domain",
       "value": "downloadessays.net"
     },
+    "downloadl-japan.com": {
+      "confidence": 0.8,
+      "date": "2026-11-08 23:49:08",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware distributed via a site impersonating e-Tax (Japanese-language phishing campaign).",
+      "threat_type": "malware",
+      "tweet_id": "2119577994494972122",
+      "type": "domain",
+      "value": "downloadl-japan.com"
+    },
     "downloads.nairawaterfall.com": {
       "confidence": 0.85,
       "date": "2026-10-23 22:04:34",
@@ -53645,6 +53877,20 @@
       "tweet_id": "2111633497538658611",
       "type": "domain",
       "value": "dramajp.com"
+    },
+    "drcourtneyjones.com": {
+      "confidence": 0.5,
+      "date": "2026-11-09 00:10:02",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Website flagged by an automated scanner as a confirmed scam; no further details on the threat.",
+      "threat_type": "scam",
+      "tweet_id": "2119583254449643788",
+      "type": "domain",
+      "value": "drcourtneyjones.com"
     },
     "drepace.click": {
       "confidence": 0.9,
@@ -56729,20 +56975,6 @@
       "type": "domain",
       "value": "fixbetamp.vip"
     },
-    "fixbetgir.net": {
-      "confidence": 0.75,
-      "date": "2026-10-10 01:51:51",
-      "enriched_at": "2026-10-10T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site reported at fixbetgir.net, hosted behind Cloudflare infrastructure.",
-      "threat_type": "phishing",
-      "tweet_id": "2108737243300905428",
-      "type": "domain",
-      "value": "fixbetgir.net"
-    },
     "flame-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -58034,20 +58266,6 @@
       "tweet_id": "2110579189250433531",
       "type": "domain",
       "value": "fllicensehealthpdf-viewer.vercel.app"
-    },
-    "flow-note-zsgf.p-dthpnqnd.workers.dev": {
-      "confidence": 0.6,
-      "date": "2026-10-10 01:02:57",
-      "enriched_at": "2026-10-10T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Cloudflare Workers subdomain flagged by a web scanner as a confirmed scam site; the tweet's ransomware hashtag appears generic.",
-      "threat_type": "scam",
-      "tweet_id": "2108724934335742233",
-      "type": "domain",
-      "value": "flow-note-zsgf.p-dthpnqnd.workers.dev"
     },
     "flpoised.net": {
       "confidence": 0.7,
@@ -63208,6 +63426,20 @@
       "type": "domain",
       "value": "lawresearch-jp.com"
     },
+    "lawsolutiondirect.info": {
+      "confidence": 0.75,
+      "date": "2026-11-08 23:01:33",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing alert: fake loan confirmation links to an unrelated domain flagged by threat intelligence providers.",
+      "threat_type": "phishing",
+      "tweet_id": "2119566018385461483",
+      "type": "domain",
+      "value": "lawsolutiondirect.info"
+    },
     "layer-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -64243,34 +64475,6 @@
       "tweet_id": "2112106786064896324",
       "type": "domain",
       "value": "m.cxxsmxt.com"
-    },
-    "m13584.pro": {
-      "confidence": 0.75,
-      "date": "2026-10-10 00:42:27",
-      "enriched_at": "2026-10-10T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page at m13584.pro on a '/suivi' (tracking) path, likely a French-language parcel tracking lure, behind Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2108719777728328143",
-      "type": "domain",
-      "value": "m13584.pro"
-    },
-    "m13584.pro/index.php/suivi": {
-      "confidence": 0.75,
-      "date": "2026-10-10 00:42:27",
-      "enriched_at": "2026-10-10T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page at m13584.pro on a '/suivi' (tracking) path, likely a French-language parcel tracking lure, behind Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2108719777728328143",
-      "type": "url",
-      "value": "https://m13584.pro/index.php/suivi"
     },
     "mac.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -65823,6 +66027,20 @@
       "type": "domain",
       "value": "mmarketplaces.com"
     },
+    "mmmonroy.com": {
+      "confidence": 0.75,
+      "date": "2026-10-11 23:00:03",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing alert: fake Empire Today estimate offers originating from an unrelated domain flagged by threat intelligence providers.",
+      "threat_type": "phishing",
+      "tweet_id": "2109418783647715826",
+      "type": "domain",
+      "value": "mmmonroy.com"
+    },
     "mnjuvzg.cn": {
       "confidence": 0.8,
       "date": "2026-10-18 23:13:52",
@@ -66204,6 +66422,22 @@
       "tweet_id": "2119484913053519885",
       "type": "domain",
       "value": "mu4lkdtjszjvio9g.public.blob.vercel-storage.com"
+    },
+    "muchautomation-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-08 23:56:34",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware distributed via a site impersonating Amazon (Japanese-language phishing campaign).",
+      "threat_type": "malware",
+      "tweet_id": "2119579864319889738",
+      "type": "domain",
+      "value": "muchautomation-jp.com"
     },
     "my-document-101607.proposal-union-9173673.workers.dev": {
       "confidence": 0.85,
@@ -69467,6 +69701,21 @@
       "tweet_id": "2112869024681918800",
       "type": "domain",
       "value": "pub-614b6a8544664ad7845f0c49488560a3.r2.dev"
+    },
+    "pub-688274cc7fbe42babc80554f317de9ee.r2.dev": {
+      "confidence": 0.5,
+      "date": "2026-11-09 00:40:02",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Cloudflare R2 public bucket URL flagged by an automated scanner as a confirmed scam; tweet also tagged phishing.",
+      "threat_type": "phishing",
+      "tweet_id": "2119590805614571914",
+      "type": "domain",
+      "value": "pub-688274cc7fbe42babc80554f317de9ee.r2.dev"
     },
     "pub-8bb2af2b13cd4e2d90a81254aea0d169.r2.dev": {
       "confidence": 0.85,
@@ -75677,6 +75926,38 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "syspro-whatsapp.com"
+    },
+    "szghrl.com": {
+      "confidence": 0.8,
+      "date": "2026-11-09 04:44:48",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Phishing/scam emails impersonating the Japanese Cabinet Office survey lead Android users to a site that drops a malicious APK.",
+      "threat_type": "phishing",
+      "tweet_id": "2119652401976357155",
+      "type": "domain",
+      "value": "szghrl.com"
+    },
+    "szghrl.com/site/hpggh.shtml": {
+      "confidence": 0.8,
+      "date": "2026-11-09 04:44:48",
+      "enriched_at": "2026-11-09T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Phishing/scam emails impersonating the Japanese Cabinet Office survey lead Android users to a site that drops a malicious APK.",
+      "threat_type": "phishing",
+      "tweet_id": "2119652401976357155",
+      "type": "url",
+      "value": "https://szghrl.com/site/hpggh.shtml"
     },
     "s\u0440\u0430\u0441\u04e9\u0445.com": {
       "confidence": 0.7,
@@ -82812,6 +83093,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-09T00:40:04Z",
+  "generated_at": "2026-11-09T06:40:04Z",
   "window_days": 30
 }
