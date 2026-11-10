@@ -1,5 +1,5 @@
 {
-  "count": 5919,
+  "count": 5911,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -15464,6 +15464,38 @@
       "type": "ip",
       "value": "207.148.75.75"
     },
+    "207.148.8.12": {
+      "confidence": 0.9,
+      "date": "2026-11-09 20:56:17",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake BNB Smart Chain wallet verification page abusing WalletConnect/Trust Wallet to trick users into approving a 1,000,000 USDT spending allowance (wallet drainer).",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119896883133088133",
+      "type": "url",
+      "value": "http://207.148.8.12"
+    },
+    "207.148.8.12:5000": {
+      "confidence": 0.9,
+      "date": "2026-11-09 20:56:17",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake BNB Smart Chain wallet verification page abusing WalletConnect/Trust Wallet to trick users into approving a 1,000,000 USDT spending allowance (wallet drainer).",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119896883133088133",
+      "type": "url",
+      "value": "http://207.148.8.12:5000"
+    },
     "207.175.25.248": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -27795,6 +27827,23 @@
       "type": "sha256",
       "value": "3949d7908ee8a448ab0091a24533e1224c071fd54b7da06d1ea2d0ff5085e112"
     },
+    "399cc61557f427e3e2712b5a2207dd4aadba90914f56563edc6dec61248cb15b": {
+      "confidence": 0.6,
+      "date": "2026-11-09 23:44:58",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "dprk",
+        "c2",
+        "malware",
+        "apt"
+      ],
+      "summary": "Korean-named LNK sample ('\uac74\uac15\uac80\uc9c4.lnk') attributed to a likely DPRK actor; it contacts a C2 at bnmjko07ygbn.getenjoyment.net/setting.php.",
+      "threat_type": "c2",
+      "tweet_id": "2119939335462269385",
+      "type": "sha256",
+      "value": "399cc61557f427e3e2712b5a2207dd4aadba90914f56563edc6dec61248cb15b"
+    },
     "39d76b97f4b74e65a8285a3b273926dff27af56a42408e5f4d98c202a6f35514": {
       "confidence": 0.45,
       "date": "2026-10-14 11:20:12",
@@ -33608,22 +33657,6 @@
       "type": "sha256",
       "value": "782b519154f11ae211cae0e8c4f0c9d8ca1c078d904684bc8923b978c6813898"
     },
-    "7858c59e16f13aa313282b409596faf4d141493bbe9d79adcf92117f4dab2ebd": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:58:16",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware posing as the Japanese e-Tax app, distributed through four lookalike -jp.com domains; phishing-based delivery of an APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055946949578753",
-      "type": "sha256",
-      "value": "7858c59e16f13aa313282b409596faf4d141493bbe9d79adcf92117f4dab2ebd"
-    },
     "78b61346111e80eef8f06bd674b52cec5ced17a43b46b317865a83c8ee579a44": {
       "confidence": 0.85,
       "date": "2026-11-06 20:58:37",
@@ -33725,22 +33758,6 @@
       "tweet_id": "2114818723265835051",
       "type": "sha256",
       "value": "7997f060b20c6e84a31552af0ca63fe29f4cbd5815decf48a5218175abb5dcd9"
-    },
-    "79dba35f06d557a20d0ea100f4926da22aa9733513422addd7b4217246da3393": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:55:52",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055341908607403",
-      "type": "sha256",
-      "value": "79dba35f06d557a20d0ea100f4926da22aa9733513422addd7b4217246da3393"
     },
     "79f121fced18f5d1d425024842ed79dc": {
       "confidence": 0.7,
@@ -33903,22 +33920,6 @@
       "tweet_id": "2109876492050293230",
       "type": "sha256",
       "value": "7eca6ff78c9a067293de9ac651b8f1292acc5f098e8e97dcafa1bdef9b8a61c2"
-    },
-    "7efde99b7571680389d6dcd8a807986355d8db3eed13227f5fee0028f9ffd12d": {
-      "confidence": 0.7,
-      "date": "2026-10-10 23:05:16",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as a 'Recycle' app, distributed via recycle.startmultimedia.com; Japanese-language phishing/fraud lure with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109057708926374341",
-      "type": "sha256",
-      "value": "7efde99b7571680389d6dcd8a807986355d8db3eed13227f5fee0028f9ffd12d"
     },
     "7fcafe.wwvip88.site": {
       "confidence": 0.88,
@@ -36955,20 +36956,6 @@
       "tweet_id": "2118644836438036611",
       "type": "ip",
       "value": "99.91.221.237"
-    },
-    "994becb3008d8dacd064bf699bd2acb55b59e213143451f67b808edc261c4511": {
-      "confidence": 0.4,
-      "date": "2026-10-10 20:50:40",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious Windows command script 'HARMAN_TRANSPORT_USA_SETUP.cmd' seen from Pakistan and shared on MalwareBazaar; family not identified.",
-      "threat_type": "malware",
-      "tweet_id": "2109023836041552217",
-      "type": "sha256",
-      "value": "994becb3008d8dacd064bf699bd2acb55b59e213143451f67b808edc261c4511"
     },
     "99708308b299112e76ffc2e856e76443cad324da3a14f0755c44c136266b4256": {
       "confidence": 0.8,
@@ -46058,6 +46045,40 @@
       "type": "domain",
       "value": "bnm-whatsapp.com"
     },
+    "bnmjko07ygbn.getenjoyment.net": {
+      "confidence": 0.6,
+      "date": "2026-11-09 23:44:58",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "dprk",
+        "c2",
+        "malware",
+        "apt"
+      ],
+      "summary": "Korean-named LNK sample ('\uac74\uac15\uac80\uc9c4.lnk') attributed to a likely DPRK actor; it contacts a C2 at bnmjko07ygbn.getenjoyment.net/setting.php.",
+      "threat_type": "c2",
+      "tweet_id": "2119939335462269385",
+      "type": "domain",
+      "value": "bnmjko07ygbn.getenjoyment.net"
+    },
+    "bnmjko07ygbn.getenjoyment.net/setting.php": {
+      "confidence": 0.6,
+      "date": "2026-11-09 23:44:58",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "dprk",
+        "c2",
+        "malware",
+        "apt"
+      ],
+      "summary": "Korean-named LNK sample ('\uac74\uac15\uac80\uc9c4.lnk') attributed to a likely DPRK actor; it contacts a C2 at bnmjko07ygbn.getenjoyment.net/setting.php.",
+      "threat_type": "c2",
+      "tweet_id": "2119939335462269385",
+      "type": "url",
+      "value": "http://bnmjko07ygbn.getenjoyment.net/setting.php"
+    },
     "bnn-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -48150,22 +48171,6 @@
       "tweet_id": "2113606106974929160",
       "type": "sha256",
       "value": "caff702bfd474f09f695e2e43deb006e14d2894ee62668fb036bbd619f588ac7"
-    },
-    "caihongzhixia-jp.com": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:58:16",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware posing as the Japanese e-Tax app, distributed through four lookalike -jp.com domains; phishing-based delivery of an APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055946949578753",
-      "type": "domain",
-      "value": "caihongzhixia-jp.com"
     },
     "calendly.com/d/d4jf-gpc-ddy": {
       "confidence": 0.85,
@@ -50808,6 +50813,22 @@
       "tweet_id": "2118110711897567316",
       "type": "domain",
       "value": "cruisemacauu-jp.com"
+    },
+    "cryptocommerceohpmigration.online": {
+      "confidence": 0.85,
+      "date": "2026-11-09 20:03:56",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Newly registered site impersonating the Mahoni (MHI) token trading platform, suspected Solana wallet-draining page.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119883708656480532",
+      "type": "domain",
+      "value": "cryptocommerceohpmigration.online"
     },
     "csg-soft.com": {
       "confidence": 0.8,
@@ -55750,22 +55771,6 @@
       "type": "domain",
       "value": "eroimijv.cn"
     },
-    "erqdooey.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:55:52",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055341908607403",
-      "type": "domain",
-      "value": "erqdooey.cn"
-    },
     "es-ar.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -55925,30 +55930,6 @@
       "type": "url",
       "value": "http://exodusathleticclub.com/wp-content/themes/wordpress/wordpress/WELLSFARGO%20OTP/Download%20File.html"
     },
-    "expirience.click": {
-      "confidence": 0.25,
-      "date": "2026-10-10 19:50:55",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Suspicious login panel titled 'Expirience \u00b7 Login' hosted at expirience.click; purpose unclear, possibly a malicious panel or phishing page.",
-      "threat_type": "other",
-      "tweet_id": "2109008798786716087",
-      "type": "domain",
-      "value": "expirience.click"
-    },
-    "expirience.click/login": {
-      "confidence": 0.25,
-      "date": "2026-10-10 19:50:55",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Suspicious login panel titled 'Expirience \u00b7 Login' hosted at expirience.click; purpose unclear, possibly a malicious panel or phishing page.",
-      "threat_type": "other",
-      "tweet_id": "2109008798786716087",
-      "type": "url",
-      "value": "https://expirience.click/login"
-    },
     "eyeearhospital.com": {
       "confidence": 0.85,
       "date": "2026-10-28 04:09:30",
@@ -56106,6 +56087,20 @@
       "tweet_id": "2115514259966701740",
       "type": "md5",
       "value": "f12f8237feb7bdfb066162d72ff3eec3"
+    },
+    "f156a7b27a367a54d8adedb7fd7675faab13d6d39de4f2c8c638bd049bd588d0": {
+      "confidence": 0.55,
+      "date": "2026-11-09 20:23:21",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious MSI installer masquerading as 'zoom_sdk-3.2.msi', hosted on a b-cdn.net domain and seen in Taiwan, Spain and the Dominican Republic; source URL now 404.",
+      "threat_type": "malware",
+      "tweet_id": "2119888594412212479",
+      "type": "sha256",
+      "value": "f156a7b27a367a54d8adedb7fd7675faab13d6d39de4f2c8c638bd049bd588d0"
     },
     "f1ea2976418ce14ffd5ef6cbfcb6fa48": {
       "confidence": 0.8,
@@ -59333,22 +59328,6 @@
       "type": "domain",
       "value": "ggdxorxunolcknocbnfc.supabase.co"
     },
-    "ghqbpkkz.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:55:52",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055341908607403",
-      "type": "domain",
-      "value": "ghqbpkkz.cn"
-    },
     "giant-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -60060,22 +60039,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "groups.webstatici-whatsapp.com"
-    },
-    "guangrongsuiy-jp.com": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:58:16",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware posing as the Japanese e-Tax app, distributed through four lookalike -jp.com domains; phishing-based delivery of an APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055946949578753",
-      "type": "domain",
-      "value": "guangrongsuiy-jp.com"
     },
     "guanlansec.com": {
       "confidence": 0.45,
@@ -62136,6 +62099,21 @@
       "tweet_id": "2112285228337344897",
       "type": "domain",
       "value": "ipv6.meet-google.live"
+    },
+    "irmaosrodriguesparafusos.com": {
+      "confidence": 0.75,
+      "date": "2026-11-09 17:56:51",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing/scam domain irmaosrodriguesparafusos.com reported as a golpe (scam), likely targeting Portuguese-speaking users.",
+      "threat_type": "phishing",
+      "tweet_id": "2119851726752850300",
+      "type": "domain",
+      "value": "irmaosrodriguesparafusos.com"
     },
     "ironphantomcore.top": {
       "confidence": 0.9,
@@ -68187,22 +68165,6 @@
       "type": "domain",
       "value": "ooni.cslt168.com"
     },
-    "opantaz.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:55:52",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055341908607403",
-      "type": "domain",
-      "value": "opantaz.cn"
-    },
     "open.spotify.mint.89237892.com": {
       "confidence": 0.9,
       "date": "2026-11-07 13:01:18",
@@ -68437,22 +68399,6 @@
       "tweet_id": "2113629425917141478",
       "type": "domain",
       "value": "oreshnik.top"
-    },
-    "ornqzbd.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:55:52",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055341908607403",
-      "type": "domain",
-      "value": "ornqzbd.cn"
     },
     "oslhires.ink": {
       "confidence": 0.85,
@@ -69601,6 +69547,22 @@
       "type": "domain",
       "value": "pride-whatsapp.com"
     },
+    "primary-link.net": {
+      "confidence": 0.9,
+      "date": "2026-11-09 20:56:17",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake BNB Smart Chain wallet verification page abusing WalletConnect/Trust Wallet to trick users into approving a 1,000,000 USDT spending allowance (wallet drainer).",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119896883133088133",
+      "type": "domain",
+      "value": "primary-link.net"
+    },
     "primeseriesservice.com": {
       "confidence": 0.8,
       "date": "2026-10-30 21:21:09",
@@ -70404,22 +70366,6 @@
       "type": "url",
       "value": "https://qihangweiye.com/R6XsVjCbji.in.jp"
     },
-    "qnsonz.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:55:52",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055341908607403",
-      "type": "domain",
-      "value": "qnsonz.cn"
-    },
     "qooglo.com": {
       "confidence": 0.8,
       "date": "2026-10-19 20:50:17",
@@ -70903,22 +70849,6 @@
       "tweet_id": "2106293721159582168",
       "type": "domain",
       "value": "recipebistro.com"
-    },
-    "recycle.startmultimedia.com": {
-      "confidence": 0.7,
-      "date": "2026-10-10 23:05:16",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as a 'Recycle' app, distributed via recycle.startmultimedia.com; Japanese-language phishing/fraud lure with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109057708926374341",
-      "type": "domain",
-      "value": "recycle.startmultimedia.com"
     },
     "redjaxfire.com": {
       "confidence": 0.55,
@@ -72199,6 +72129,34 @@
       "type": "domain",
       "value": "santander.nfcobsidian.com"
     },
+    "savmtapp.b-cdn.net": {
+      "confidence": 0.55,
+      "date": "2026-11-09 20:23:21",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious MSI installer masquerading as 'zoom_sdk-3.2.msi', hosted on a b-cdn.net domain and seen in Taiwan, Spain and the Dominican Republic; source URL now 404.",
+      "threat_type": "malware",
+      "tweet_id": "2119888594412212479",
+      "type": "domain",
+      "value": "savmtapp.b-cdn.net"
+    },
+    "savmtapp.b-cdn.net/zoom_sdk-3.2.msi": {
+      "confidence": 0.55,
+      "date": "2026-11-09 20:23:21",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious MSI installer masquerading as 'zoom_sdk-3.2.msi', hosted on a b-cdn.net domain and seen in Taiwan, Spain and the Dominican Republic; source URL now 404.",
+      "threat_type": "malware",
+      "tweet_id": "2119888594412212479",
+      "type": "url",
+      "value": "https://savmtapp.b-cdn.net/zoom_sdk-3.2.msi"
+    },
     "saw-strops-tedy.top": {
       "confidence": 0.4,
       "date": "2026-11-03 16:10:38",
@@ -73408,22 +73366,6 @@
       "type": "domain",
       "value": "sexygal.top"
     },
-    "sghua.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:55:52",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055341908607403",
-      "type": "domain",
-      "value": "sghua.cn"
-    },
     "shadowemberstrike.top": {
       "confidence": 0.9,
       "date": "2026-10-12 14:18:17",
@@ -73651,22 +73593,6 @@
       "tweet_id": "2116051503471620426",
       "type": "url",
       "value": "https://short.do/AwygVX#aaaa@example.jp"
-    },
-    "shunyishengh-jp.com": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:58:16",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware posing as the Japanese e-Tax app, distributed through four lookalike -jp.com domains; phishing-based delivery of an APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055946949578753",
-      "type": "domain",
-      "value": "shunyishengh-jp.com"
     },
     "signal-whatsapp.com": {
       "confidence": 0.65,
@@ -77368,20 +77294,6 @@
       "type": "domain",
       "value": "thecanniballazu.com"
     },
-    "thedentalsuite.com.au": {
-      "confidence": 0.7,
-      "date": "2026-10-10 18:59:28",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site reported at thedentalsuite.com.au, hosted behind Cloudflare (AS13335), per PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2108995850575958428",
-      "type": "domain",
-      "value": "thedentalsuite.com.au"
-    },
     "thedragonson-jp.com": {
       "confidence": 0.8,
       "date": "2026-10-27 23:54:22",
@@ -78796,20 +78708,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "usedev-whatsapp.com"
-    },
-    "userhub-coinbase.com": {
-      "confidence": 0.85,
-      "date": "2026-10-10 22:12:43",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Gated phishing campaign targeting Coinbase users with fake support ticket/case ID lures via SMS/email; Next.js kit with fingerprinting and bot gating on userhub-coinbase.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2109044483228893413",
-      "type": "domain",
-      "value": "userhub-coinbase.com"
     },
     "userswordpress-signin-customer.aromadiroma.org": {
       "confidence": 0.9,
@@ -81139,6 +81037,22 @@
       "type": "domain",
       "value": "wizardexpensive.com"
     },
+    "word-majority-cahoots.ngrok-free.dev": {
+      "confidence": 0.9,
+      "date": "2026-11-09 20:56:17",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake BNB Smart Chain wallet verification page abusing WalletConnect/Trust Wallet to trick users into approving a 1,000,000 USDT spending allowance (wallet drainer).",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119896883133088133",
+      "type": "domain",
+      "value": "word-majority-cahoots.ngrok-free.dev"
+    },
     "wordmoss.com": {
       "confidence": 0.6,
       "date": "2026-10-11 12:42:39",
@@ -81987,22 +81901,6 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "xgqosq.geblic.xyz"
-    },
-    "xiaoxiangliu-jp.com": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:58:16",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware posing as the Japanese e-Tax app, distributed through four lookalike -jp.com domains; phishing-based delivery of an APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055946949578753",
-      "type": "domain",
-      "value": "xiaoxiangliu-jp.com"
     },
     "xiksjha.cc": {
       "confidence": 0.6,
@@ -83142,22 +83040,6 @@
       "type": "domain",
       "value": "zhushou-whatsapp.com"
     },
-    "zilqkr.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:55:52",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055341908607403",
-      "type": "domain",
-      "value": "zilqkr.cn"
-    },
     "zinhoooo.workers.dev": {
       "confidence": 0.15,
       "date": "2026-10-27 12:46:13",
@@ -83630,6 +83512,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-09T18:40:04Z",
+  "generated_at": "2026-11-10T00:40:04Z",
   "window_days": 30
 }

@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2525
-; Updated: 2026-11-10T00:00:26Z
+; Entries: 2527
+; Updated: 2026-11-10T00:45:17Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794268826 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794271517 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2410,6 +2410,8 @@ hackattackkaboom.botlesscucks.st CNAME .
 *.hackattackkaboom.botlesscucks.st CNAME .
 halonatalents.com CNAME .
 *.halonatalents.com CNAME .
+handanyonggu-jp.com CNAME .
+*.handanyonggu-jp.com CNAME .
 handwrittenresults.com CNAME .
 *.handwrittenresults.com CNAME .
 hang-asian-ray-music.trycloudflare.com CNAME .
@@ -4882,6 +4884,8 @@ xgqosq.geblic.xyz CNAME .
 *.xgqosq.geblic.xyz CNAME .
 xiksjha.cc CNAME .
 *.xiksjha.cc CNAME .
+xinyaojiancai-jp.com CNAME .
+*.xinyaojiancai-jp.com CNAME .
 xionamiconm.com CNAME .
 *.xionamiconm.com CNAME .
 xl.goja.click CNAME .
