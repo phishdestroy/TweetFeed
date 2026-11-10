@@ -1,0 +1,425 @@
+{
+ "schema_version": 1,
+ "generated_at": "2026-11-10T00:01:11Z",
+ "base_url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/",
+ "api_base": "https://api.tweetfeed.live",
+ "note": "sha256/bytes/rows describe the files in the same commit as this manifest",
+ "sources": {
+  "total": 57,
+  "hashtag": 33,
+  "account": 24
+ },
+ "artifacts": [
+  {
+   "name": "today.csv",
+   "path": "today.csv",
+   "format": "csv",
+   "window": "today",
+   "bytes": 0,
+   "rows": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv",
+   "api_url": "https://api.tweetfeed.live/v1/today"
+  },
+  {
+   "name": "week.csv",
+   "path": "week.csv",
+   "format": "csv",
+   "window": "week",
+   "bytes": 192801,
+   "rows": 1490,
+   "sha256": "2669e226fb13865690b34b5d0978217256bedf93419ca1e194e7c3f288313d37",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/week.csv",
+   "api_url": "https://api.tweetfeed.live/v1/week"
+  },
+  {
+   "name": "month.csv",
+   "path": "month.csv",
+   "format": "csv",
+   "window": "month",
+   "bytes": 1082734,
+   "rows": 8661,
+   "sha256": "8a8b9c44646ab9d3498bf39ef4e7eeeb69d1b68ad6803609c7a8c4c44165766f",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/month.csv",
+   "api_url": "https://api.tweetfeed.live/v1/month"
+  },
+  {
+   "name": "year.csv",
+   "path": "year.csv",
+   "format": "csv",
+   "window": "year",
+   "bytes": 11982965,
+   "rows": 95568,
+   "sha256": "f088689262d27ffd6adc1943e7890497843b98f629eeb98495bb61255911670b",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/year.csv",
+   "api_url": "https://api.tweetfeed.live/v1/year"
+  },
+  {
+   "name": "exclusive.csv",
+   "path": "exclusive.csv",
+   "format": "csv",
+   "window": null,
+   "bytes": 949885,
+   "rows": 7602,
+   "sha256": "68048b6a0664019b26afe63fc1b0bd948061e6786e59f24340a5929a33af40b7",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/exclusive.csv",
+   "api_url": null
+  },
+  {
+   "name": "rss.xml",
+   "path": "rss.xml",
+   "format": "rss",
+   "window": null,
+   "bytes": 812,
+   "rows": null,
+   "sha256": "a41014cad103fab6e4871de88bb344ae37d28f80d50722ccc963d23b02167d21",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml",
+   "api_url": null
+  },
+  {
+   "name": "counts.json",
+   "path": "counts.json",
+   "format": "json",
+   "window": null,
+   "bytes": 5580,
+   "rows": null,
+   "sha256": "0465f525101686a7e7d9deb32e61314b5e193ec148461030a0d1cc54138150d5",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/counts.json",
+   "api_url": "https://api.tweetfeed.live/v1/counts"
+  },
+  {
+   "name": "contributors.json",
+   "path": "contributors.json",
+   "format": "json",
+   "window": null,
+   "bytes": 118118,
+   "rows": 581,
+   "sha256": "f2797eccdc46c1efe522f6991723f5781056b78994196ae59c9df7bff34b24be",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/contributors.json",
+   "api_url": "https://api.tweetfeed.live/v1/contributors"
+  },
+  {
+   "name": "trends.json",
+   "path": "trends.json",
+   "format": "json",
+   "window": null,
+   "bytes": 3621,
+   "rows": null,
+   "sha256": "486077b6b7057c9ad64ff3af9ea477264c573de628c6f1cf0270aed519b37559",
+   "updated_at": "2026-11-10T00:00:27Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/trends.json",
+   "api_url": "https://api.tweetfeed.live/v1/trends"
+  },
+  {
+   "name": "campaigns.json",
+   "path": "campaigns.json",
+   "format": "json",
+   "window": null,
+   "bytes": 310308,
+   "rows": null,
+   "sha256": "88fd0aa172860249c824d4a85b7fadb6845ac78f9f9a2e8caaddea0a41469276",
+   "updated_at": "2026-11-09T06:28:27Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/campaigns.json",
+   "api_url": "https://api.tweetfeed.live/v1/campaigns"
+  },
+  {
+   "name": "external.json",
+   "path": "external.json",
+   "format": "json",
+   "window": null,
+   "bytes": 818770,
+   "rows": null,
+   "sha256": "5b2ca68e294c075ac1498b39f651e79690fcfe4b22323c007707af6a98c3d337",
+   "updated_at": "2026-11-09T19:25:16Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/external.json",
+   "api_url": null
+  },
+  {
+   "name": "ipmeta.json",
+   "path": "ipmeta.json",
+   "format": "json",
+   "window": null,
+   "bytes": 1225947,
+   "rows": 7281,
+   "sha256": "88c57c5d172baeb42f52b23a370ef08bab1591f8be7863ef8e61c7874af46e93",
+   "updated_at": "2026-11-09T19:35:06Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/ipmeta.json",
+   "api_url": null
+  },
+  {
+   "name": "enrichment.json",
+   "path": "enrichment.json",
+   "format": "json",
+   "window": null,
+   "bytes": 3006186,
+   "rows": 5919,
+   "sha256": "c35a5c8aab4c8ec390c1186f736c4b15b7858def03260ec917af9d21d32efbc7",
+   "updated_at": "2026-11-09T18:40:04Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/enrichment.json",
+   "api_url": null
+  },
+  {
+   "name": "domainmeta.json",
+   "path": "domainmeta.json",
+   "format": "json",
+   "window": null,
+   "bytes": 2124604,
+   "rows": 8515,
+   "sha256": "e7ddaa47bdef00d92fa02d2b21590d1118b0d6555f34e4c4b7e785c01ee3b4b7",
+   "updated_at": "2026-11-09T21:15:29Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/domainmeta.json",
+   "api_url": null
+  },
+  {
+   "name": "status.json",
+   "path": "status.json",
+   "format": "json",
+   "window": null,
+   "bytes": 13932,
+   "rows": null,
+   "sha256": "9d4d08638bb25e89187e412cc39252b91e4ab17dda2df03bb16f08a15e48de09",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/status.json",
+   "api_url": "https://api.tweetfeed.live/v1/status"
+  },
+  {
+   "name": "domains.txt",
+   "path": "blocklists/domains.txt",
+   "format": "txt",
+   "window": null,
+   "bytes": 50621,
+   "rows": 2525,
+   "sha256": "da20df5e8ae27158041058bed6a801e2879a6ba0aab259c4243e1698a1f020fe",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/blocklists/domains.txt",
+   "api_url": "https://api.tweetfeed.live/v1/blocklist/domains.txt"
+  },
+  {
+   "name": "hosts.txt",
+   "path": "blocklists/hosts.txt",
+   "format": "txt",
+   "window": null,
+   "bytes": 70798,
+   "rows": 2525,
+   "sha256": "02f7b02a1278c5e6b994a4c39e1621d62890a16c903e3cad745120ab035fb7bf",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/blocklists/hosts.txt",
+   "api_url": "https://api.tweetfeed.live/v1/blocklist/hosts.txt"
+  },
+  {
+   "name": "adguard.txt",
+   "path": "blocklists/adguard.txt",
+   "format": "txt",
+   "window": null,
+   "bytes": 58271,
+   "rows": 2525,
+   "sha256": "06475e7fdaf01599ae063f7f3a7ab3325ec5cbb39f10dede7c8f9f5bfc3b7d57",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/blocklists/adguard.txt",
+   "api_url": "https://api.tweetfeed.live/v1/blocklist/adguard.txt"
+  },
+  {
+   "name": "ips.txt",
+   "path": "blocklists/ips.txt",
+   "format": "txt",
+   "window": null,
+   "bytes": 31469,
+   "rows": 2205,
+   "sha256": "ef14bf9488775821d81a5be97214d829460d99ccf8bb26d653be96a59577d0e0",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/blocklists/ips.txt",
+   "api_url": "https://api.tweetfeed.live/v1/blocklist/ips.txt"
+  },
+  {
+   "name": "dnsmasq.txt",
+   "path": "blocklists/dnsmasq.txt",
+   "format": "txt",
+   "window": null,
+   "bytes": 93543,
+   "rows": 2525,
+   "sha256": "0ab363b5e8d65024965a5613604c14eb3ef6e3ed4119122d527de60d63a631b2",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/blocklists/dnsmasq.txt",
+   "api_url": "https://api.tweetfeed.live/v1/blocklist/dnsmasq.txt"
+  },
+  {
+   "name": "rpz.txt",
+   "path": "blocklists/rpz.txt",
+   "format": "txt",
+   "window": null,
+   "bytes": 146406,
+   "rows": 2525,
+   "sha256": "6e7a2dd125e50d32c81e81deb81fde713d5f0a748fb7f81c5b1d54cc2b68008b",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/blocklists/rpz.txt",
+   "api_url": "https://api.tweetfeed.live/v1/blocklist/rpz.txt"
+  },
+  {
+   "name": "urls.txt",
+   "path": "blocklists/urls.txt",
+   "format": "txt",
+   "window": null,
+   "bytes": 89976,
+   "rows": 3032,
+   "sha256": "d2f7236d502d9ad0b6d5002425d3588f5e9ee98e0dd5808136d21436ccc4f610",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/blocklists/urls.txt",
+   "api_url": "https://api.tweetfeed.live/v1/blocklist/urls.txt"
+  },
+  {
+   "name": "sha256.txt",
+   "path": "blocklists/sha256.txt",
+   "format": "txt",
+   "window": null,
+   "bytes": 35515,
+   "rows": 540,
+   "sha256": "b32215f5c0ccc4137a79cacaeda92819ca7b2e83215e48f1b9a94c93b624ea7b",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/blocklists/sha256.txt",
+   "api_url": "https://api.tweetfeed.live/v1/blocklist/sha256.txt"
+  },
+  {
+   "name": "md5.txt",
+   "path": "blocklists/md5.txt",
+   "format": "txt",
+   "window": null,
+   "bytes": 3972,
+   "rows": 108,
+   "sha256": "e0327acbb56c1741211468fb6278b9dd618d6687fc0dc9c34d90b8b00514c77a",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/blocklists/md5.txt",
+   "api_url": "https://api.tweetfeed.live/v1/blocklist/md5.txt"
+  },
+  {
+   "name": "nrd-domains.txt",
+   "path": "blocklists/nrd-domains.txt",
+   "format": "txt",
+   "window": null,
+   "bytes": 30746,
+   "rows": 1543,
+   "sha256": "555561acb713aa38403e73a9e43e71b84473529139262b93869e45b00a84134e",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/blocklists/nrd-domains.txt",
+   "api_url": "https://api.tweetfeed.live/v1/blocklist/nrd-domains.txt"
+  },
+  {
+   "name": "zeek-intel.txt",
+   "path": "blocklists/zeek-intel.txt",
+   "format": "txt",
+   "window": null,
+   "bytes": 359801,
+   "rows": 7744,
+   "sha256": "0911f9f340f72ad3391f294c379a9e95abc0833166e492244076215f82b4710e",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/blocklists/zeek-intel.txt",
+   "api_url": "https://api.tweetfeed.live/v1/blocklist/zeek-intel.txt"
+  },
+  {
+   "name": "wazuh-domains.txt",
+   "path": "blocklists/wazuh-domains.txt",
+   "format": "txt",
+   "window": null,
+   "bytes": 75458,
+   "rows": 2525,
+   "sha256": "0d0c04ef2b94b8c36f5d2626c8c8cc4c39573dcf3f89743cfe34b9c1d728ff58",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/blocklists/wazuh-domains.txt",
+   "api_url": "https://api.tweetfeed.live/v1/blocklist/wazuh-domains.txt"
+  },
+  {
+   "name": "wazuh-ips.txt",
+   "path": "blocklists/wazuh-ips.txt",
+   "format": "txt",
+   "window": null,
+   "bytes": 53135,
+   "rows": 2205,
+   "sha256": "a15208f8f7e4106333fb99509017a289023859e2aacb99d33ba2da6c3c0a086c",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/blocklists/wazuh-ips.txt",
+   "api_url": "https://api.tweetfeed.live/v1/blocklist/wazuh-ips.txt"
+  },
+  {
+   "name": "domains-corroborated.txt",
+   "path": "blocklists/domains-corroborated.txt",
+   "format": "txt",
+   "window": null,
+   "bytes": 3400,
+   "rows": 155,
+   "sha256": "59f34ab28736d8bebd09bf1eed4de7ee788eba4a9d6399b244eff3fce596817a",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/blocklists/domains-corroborated.txt",
+   "api_url": "https://api.tweetfeed.live/v1/blocklist/domains-corroborated.txt"
+  },
+  {
+   "name": "ips-corroborated.txt",
+   "path": "blocklists/ips-corroborated.txt",
+   "format": "txt",
+   "window": null,
+   "bytes": 4721,
+   "rows": 288,
+   "sha256": "44818fbb58110ca9eb69c1d9dc37e7658dd1342107b5efe3cde3232fde18244f",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/blocklists/ips-corroborated.txt",
+   "api_url": "https://api.tweetfeed.live/v1/blocklist/ips-corroborated.txt"
+  },
+  {
+   "name": "urls-corroborated.txt",
+   "path": "blocklists/urls-corroborated.txt",
+   "format": "txt",
+   "window": null,
+   "bytes": 7699,
+   "rows": 284,
+   "sha256": "5e891c2a7bacae0815650385c2fb4fdbd0f3b2c0c0fe87728dc5f1cbc9eb7326",
+   "updated_at": "2026-11-10T00:01:11Z",
+   "url": "https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/blocklists/urls-corroborated.txt",
+   "api_url": "https://api.tweetfeed.live/v1/blocklist/urls-corroborated.txt"
+  }
+ ],
+ "families": [
+  {
+   "name": "lookup",
+   "path": "lookup/",
+   "shards": 256,
+   "meta": "lookup/meta.json"
+  },
+  {
+   "name": "misp",
+   "path": "misp/",
+   "manifest": "misp/manifest.json"
+  },
+  {
+   "name": "stix",
+   "path": "stix/",
+   "manifest": "stix/manifest.json"
+  },
+  {
+   "name": "campaigns",
+   "path": "campaigns/",
+   "count": 54
+  },
+  {
+   "name": "archive",
+   "path": "archive/"
+  },
+  {
+   "name": "rss/tag",
+   "path": "rss/tag/"
+  },
+  {
+   "name": "rss/type",
+   "path": "rss/type/"
+  },
+  {
+   "name": "rss/user",
+   "path": "rss/user/"
+  }
+ ]
+}
