@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-10 09:30:20 (UTC)</th>
+        <th colspan=4>2026-11-10 09:45:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,10 +187,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 13 | 641 | 3153 | 44239 |
-| **:globe_with_meridians: Domains** | 12 | 545 | 2642 | 38067 |
+| **:link: URLs** | 19 | 647 | 3159 | 44245 |
+| **:globe_with_meridians: Domains** | 15 | 548 | 2645 | 38070 |
 | **:triangular_flag_on_post: IPs** | 1 | 153 | 2242 | 8034 |
-| **:1234: SHA256** | 3 | 167 | 553 | 3223 |
+| **:1234: SHA256** | 4 | 168 | 554 | 3224 |
 | **:1234: MD5** | 0 | 23 | 110 | 2044 |
 
 </div>
@@ -207,11 +207,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#phishing** | 13 | 830 | 3725 | 31633 |
 | **#Kimsuky** | 0 | 10 | 48 | 13315 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
-| **#malware** | 8 | 189 | 1185 | 4258 |
+| **#malware** | 18 | 199 | 1195 | 4268 |
 | **#scam** | 2 | 6 | 40 | 2824 |
 | **#C2** | 2 | 55 | 157 | 2151 |
 | **#APT** | 2 | 22 | 62 | 1475 |
-| **#ClickFix** | 6 | 112 | 285 | 1237 |
+| **#ClickFix** | 16 | 122 | 295 | 1247 |
 | **#ransomware** | 0 | 7 | 87 | 691 |
 | **#opendir** | 0 | 10 | 21 | 683 |
 <!-- TAG_TABLE_END -->
@@ -229,15 +229,15 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [harugasumi](https://x.com/harugasumi) | 9 |
-| **#2** | [skocherhan](https://x.com/skocherhan) | 6 |
-| **#3** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#4** | [naumovax](https://x.com/naumovax) | 2 |
-| **#5** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#6** | [patialavii](https://x.com/patialavii) | 2 |
-| **#7** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
-| **#8** | [Fact_Finder03](https://x.com/Fact_Finder03) | 2 |
-| **#9** | [-](https://x.com/-) | 0 |
+| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 10 |
+| **#2** | [harugasumi](https://x.com/harugasumi) | 9 |
+| **#3** | [skocherhan](https://x.com/skocherhan) | 6 |
+| **#4** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#5** | [naumovax](https://x.com/naumovax) | 2 |
+| **#6** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#7** | [patialavii](https://x.com/patialavii) | 2 |
+| **#8** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
+| **#9** | [Fact_Finder03](https://x.com/Fact_Finder03) | 2 |
 | **#10** | [-](https://x.com/-) | 0 |
 <!-- TOP_REPORTERS_END -->
 
