@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-10 06:00:22 (UTC)</th>
+        <th colspan=4>2026-11-10 06:15:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,10 +187,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 5 | 633 | 3145 | 44231 |
-| **:globe_with_meridians: Domains** | 5 | 538 | 2635 | 38060 |
+| **:link: URLs** | 10 | 638 | 3150 | 44236 |
+| **:globe_with_meridians: Domains** | 10 | 543 | 2640 | 38065 |
 | **:triangular_flag_on_post: IPs** | 0 | 152 | 2241 | 8033 |
-| **:1234: SHA256** | 0 | 164 | 550 | 3220 |
+| **:1234: SHA256** | 1 | 165 | 551 | 3221 |
 | **:1234: MD5** | 0 | 23 | 110 | 2044 |
 
 </div>
@@ -204,7 +204,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 6 | 823 | 3718 | 31626 |
+| **#phishing** | 13 | 830 | 3725 | 31633 |
 | **#Kimsuky** | 0 | 10 | 48 | 13315 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
 | **#malware** | 2 | 183 | 1179 | 4252 |
@@ -229,12 +229,12 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#2** | [naumovax](https://x.com/naumovax) | 2 |
-| **#3** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#4** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
-| **#5** | [-](https://x.com/-) | 0 |
-| **#6** | [-](https://x.com/-) | 0 |
+| **#1** | [harugasumi](https://x.com/harugasumi) | 9 |
+| **#2** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#3** | [naumovax](https://x.com/naumovax) | 2 |
+| **#4** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#5** | [patialavii](https://x.com/patialavii) | 2 |
+| **#6** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
 | **#7** | [-](https://x.com/-) | 0 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |

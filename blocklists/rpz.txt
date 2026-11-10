@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2530
-; Updated: 2026-11-10T04:00:21Z
+; Entries: 2534
+; Updated: 2026-11-10T06:15:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794283221 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794291318 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1126,6 +1126,8 @@ brave-whatsapp.com CNAME .
 *.brave-whatsapp.com CNAME .
 bridge-whatsapp.com CNAME .
 *.bridge-whatsapp.com CNAME .
+brimembal.com CNAME .
+*.brimembal.com CNAME .
 broadspancapital.com CNAME .
 *.broadspancapital.com CNAME .
 browser-whatsapp.com CNAME .
@@ -1552,6 +1554,8 @@ czborunte.com CNAME .
 *.czborunte.com CNAME .
 d1g9mpv1gr3wxx.cloudfront.net CNAME .
 *.d1g9mpv1gr3wxx.cloudfront.net CNAME .
+d5wxfxf731zi7t.s3.ap-northeast-1.amazonaws.com CNAME .
+*.d5wxfxf731zi7t.s3.ap-northeast-1.amazonaws.com CNAME .
 dailychefrecipe.com CNAME .
 *.dailychefrecipe.com CNAME .
 daohang-whatsapp.com CNAME .
@@ -2554,6 +2558,8 @@ hyipbird.com CNAME .
 *.hyipbird.com CNAME .
 iasteun.cn CNAME .
 *.iasteun.cn CNAME .
+icgsxf.com CNAME .
+*.icgsxf.com CNAME .
 icicibankkyc.vercel.app CNAME .
 *.icicibankkyc.vercel.app CNAME .
 icollections.github.io CNAME .
@@ -4570,6 +4576,8 @@ velnoderic.com CNAME .
 *.velnoderic.com CNAME .
 vemtasbobinaj.com CNAME .
 *.vemtasbobinaj.com CNAME .
+veqgsccap42m7wyqyqcreg7haq0ugxuf.lambda-url.ap-northeast-1.on.aws CNAME .
+*.veqgsccap42m7wyqyqcreg7haq0ugxuf.lambda-url.ap-northeast-1.on.aws CNAME .
 verifing-server.codes CNAME .
 *.verifing-server.codes CNAME .
 verify.webapi-whatsapp.com CNAME .
