@@ -1,17 +1,9 @@
 {
-  "count": 5911,
+  "count": 5929,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
       "last_attempt": "2026-11-08T18:40:04Z"
-    },
-    "2114565057338343930": {
-      "attempts": 2,
-      "last_attempt": "2026-11-03T06:40:04Z"
-    },
-    "2117357108056498381": {
-      "attempts": 2,
-      "last_attempt": "2026-11-03T06:40:04Z"
     }
   },
   "entries": {
@@ -5433,20 +5425,6 @@
       "tweet_id": "2117980605778460813",
       "type": "ip",
       "value": "131.0.10.62"
-    },
-    "132.145.223.189": {
-      "confidence": 0.85,
-      "date": "2026-10-11 05:51:47",
-      "enriched_at": "2026-10-11T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Fake Netflix phishing campaign targeting subscribers, served from an active IP in the United States returning HTTP 200.",
-      "threat_type": "phishing",
-      "tweet_id": "2109160009917759593",
-      "type": "ip",
-      "value": "132.145.223.189"
     },
     "132.243.221.136": {
       "confidence": 0.85,
@@ -18017,6 +17995,18 @@
       "tweet_id": "2118648387725906371",
       "type": "ip",
       "value": "3.39.131.123"
+    },
+    "3.74.48.121": {
+      "confidence": 0.85,
+      "date": "2026-11-09 22:43:55",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Lupovis honeypots saw PoC-aligned probing of N-able N-central SOAP interfaces (Able2Shell): information disclosure and XXE-to-RCE reconnaissance from two IPs.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2119923970237403163",
+      "type": "url",
+      "value": "http://3.74.48.121"
     },
     "301bd9f16f94feedfae7a946a14bac38cb73c43efe6117bc5586835af03d7d6f": {
       "confidence": 0.2,
@@ -30989,6 +30979,18 @@
       "type": "ip",
       "value": "5.223.42.100"
     },
+    "5.231.45.175": {
+      "confidence": 0.85,
+      "date": "2026-11-09 22:43:55",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Lupovis honeypots saw PoC-aligned probing of N-able N-central SOAP interfaces (Able2Shell): information disclosure and XXE-to-RCE reconnaissance from two IPs.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2119923970237403163",
+      "type": "url",
+      "value": "http://5.231.45.175"
+    },
     "5.252.20.248": {
       "confidence": 0.55,
       "date": "2026-11-05 07:51:01",
@@ -33257,6 +33259,22 @@
       "type": "sha256",
       "value": "73308c0cf28292fdc4653e83263e35e6451f0ff8e7f4c28b0db1e57b627841aa"
     },
+    "73c0f45d7d10d3184f0fe17dfc1c855e264bd995c771d90aea5fbeb8dddd07bd": {
+      "confidence": 0.8,
+      "date": "2026-11-09 23:18:51",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware masquerading as the Japanese Cabinet Office, distributed via a phishing site.",
+      "threat_type": "malware",
+      "tweet_id": "2119932762010644537",
+      "type": "sha256",
+      "value": "73c0f45d7d10d3184f0fe17dfc1c855e264bd995c771d90aea5fbeb8dddd07bd"
+    },
     "73e9d01712aad280a03b16a0dc38728b86cac9f0e6f4a601a6af77ea8b5d974a": {
       "confidence": 0.5,
       "date": "2026-11-08 20:52:29",
@@ -33347,6 +33365,22 @@
       "tweet_id": "2114287725998456877",
       "type": "md5",
       "value": "740eae2681c5770cd9d32694ceaf68aa"
+    },
+    "741ae54d9b48f51b8c68d5fd11e3196a3052a189d5b6dfe405ac2caad38680a4": {
+      "confidence": 0.75,
+      "date": "2026-11-10 05:06:59",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "VirusTotal result for the dropped Android APK from the fake Cabinet Office survey campaign; non-Android user agents are redirected to the legitimate survey site.",
+      "threat_type": "malware",
+      "tweet_id": "2120020373773434974",
+      "type": "sha256",
+      "value": "741ae54d9b48f51b8c68d5fd11e3196a3052a189d5b6dfe405ac2caad38680a4"
     },
     "74d4268d16116b148e6e32d9b44101d8": {
       "confidence": 0.6,
@@ -45724,6 +45758,21 @@
       "type": "domain",
       "value": "bmw-whatsapp.com"
     },
+    "bmwadvent.com": {
+      "confidence": 0.75,
+      "date": "2026-11-10 00:24:44",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "Suspicious BMW advent calendar site registered Nov 2, 2026 with hidden owner and AI-generated media; potential scam/phishing with no verified BMW affiliation.",
+      "threat_type": "scam",
+      "tweet_id": "2119949343407190145",
+      "type": "domain",
+      "value": "bmwadvent.com"
+    },
     "bmx-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -46768,6 +46817,34 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "bridge-whatsapp.com"
+    },
+    "brimembal.com": {
+      "confidence": 0.85,
+      "date": "2026-11-10 03:45:24",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing URL with a Microsoft Teams meeting theme delivering a ScreenConnect RMM payload.",
+      "threat_type": "phishing",
+      "tweet_id": "2119999842848297207",
+      "type": "domain",
+      "value": "brimembal.com"
+    },
+    "brimembal.com/schedule-microsoft-teams.meeting": {
+      "confidence": 0.85,
+      "date": "2026-11-10 03:45:24",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing URL with a Microsoft Teams meeting theme delivering a ScreenConnect RMM payload.",
+      "threat_type": "phishing",
+      "tweet_id": "2119999842848297207",
+      "type": "url",
+      "value": "https://brimembal.com/schedule-microsoft-teams.meeting"
     },
     "broadspancapital.com": {
       "confidence": 0.5,
@@ -51256,6 +51333,38 @@
       "tweet_id": "2117937339401994405",
       "type": "sha256",
       "value": "d5d1992604bf015d84b17710dc510ea6dd54c908445590e3ae5f0d35404d1790"
+    },
+    "d5wxfxf731zi7t.s3.ap-northeast-1.amazonaws.com": {
+      "confidence": 0.8,
+      "date": "2026-11-10 05:10:25",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "AWS Lambda URL triggered by an install click redirects Android users to an S3-hosted malicious APK (survey-gov.apk) in a Cabinet Office survey lure.",
+      "threat_type": "malware",
+      "tweet_id": "2120021237573574950",
+      "type": "domain",
+      "value": "d5wxfxf731zi7t.s3.ap-northeast-1.amazonaws.com"
+    },
+    "d5wxfxf731zi7t.s3.ap-northeast-1.amazonaws.com/survey-gov.apk": {
+      "confidence": 0.8,
+      "date": "2026-11-10 05:10:25",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "AWS Lambda URL triggered by an install click redirects Android users to an S3-hosted malicious APK (survey-gov.apk) in a Cabinet Office survey lure.",
+      "threat_type": "malware",
+      "tweet_id": "2120021237573574950",
+      "type": "url",
+      "value": "https://d5wxfxf731zi7t.s3.ap-northeast-1.amazonaws.com/survey-gov.apk"
     },
     "d70f5b8ec6359ad5c22acb628a7c7ec81c8d549869afa7f96a377e52879a6642": {
       "confidence": 0.75,
@@ -56472,6 +56581,22 @@
       "type": "sha256",
       "value": "f9a2590a28f9cdcc5e1757c51952c7655b3c3a8447e9e9ec404ab82d68c5a56e"
     },
+    "f9b30123402bb2e1e39c62afab75c48c520b84693c57034e8f659d8a47599eae": {
+      "confidence": 0.8,
+      "date": "2026-11-09 23:36:33",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware masquerading as Amazon, distributed via a Japanese phishing site.",
+      "threat_type": "malware",
+      "tweet_id": "2119937216738894161",
+      "type": "sha256",
+      "value": "f9b30123402bb2e1e39c62afab75c48c520b84693c57034e8f659d8a47599eae"
+    },
     "f9d24e753ba7680963414459dc0a82142e441fdb7c65f45ff126d7c6945dabef": {
       "confidence": 0.65,
       "date": "2026-10-14 07:26:22",
@@ -60300,6 +60425,22 @@
       "type": "domain",
       "value": "halonatalents.com"
     },
+    "handanyonggu-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-09 23:36:33",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware masquerading as Amazon, distributed via a Japanese phishing site.",
+      "threat_type": "malware",
+      "tweet_id": "2119937216738894161",
+      "type": "domain",
+      "value": "handanyonggu-jp.com"
+    },
     "handwrittenresults.com": {
       "confidence": 0.8,
       "date": "2026-10-29 01:56:27",
@@ -61455,6 +61596,40 @@
       "tweet_id": "2111248110081224749",
       "type": "url",
       "value": "https://iasteun.cn/Login/"
+    },
+    "icgsxf.com": {
+      "confidence": 0.8,
+      "date": "2026-11-10 05:37:27",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware",
+        "scam"
+      ],
+      "summary": "Japanese phishing/scam emails impersonating the Cabinet Office survey lure Android users to install a malware APK via icgsxf.com redirecting to xinyaojiancai-jp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2120019643608002873",
+      "type": "domain",
+      "value": "icgsxf.com"
+    },
+    "icgsxf.com/auth/wheaof/token": {
+      "confidence": 0.8,
+      "date": "2026-11-10 05:37:27",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware",
+        "scam"
+      ],
+      "summary": "Japanese phishing/scam emails impersonating the Cabinet Office survey lure Android users to install a malware APK via icgsxf.com redirecting to xinyaojiancai-jp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2120019643608002873",
+      "type": "url",
+      "value": "https://icgsxf.com/auth/wheaof/token"
     },
     "icicibankkyc.vercel.app": {
       "confidence": 0.9,
@@ -64070,6 +64245,34 @@
       "tweet_id": "2115526217537298573",
       "type": "domain",
       "value": "link-ledger.at"
+    },
+    "link24.kr": {
+      "confidence": 0.45,
+      "date": "2026-11-10 03:51:54",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "apt"
+      ],
+      "summary": "Short link lure with crypto/finance-themed Korean document names, tagged APT, likely delivering a VBS payload with password text file; probable DPRK-linked activity.",
+      "threat_type": "malware",
+      "tweet_id": "2120001475292385563",
+      "type": "domain",
+      "value": "link24.kr"
+    },
+    "link24.kr/4bkxcsc": {
+      "confidence": 0.45,
+      "date": "2026-11-10 03:51:54",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "apt"
+      ],
+      "summary": "Short link lure with crypto/finance-themed Korean document names, tagged APT, likely delivering a VBS payload with password text file; probable DPRK-linked activity.",
+      "threat_type": "malware",
+      "tweet_id": "2120001475292385563",
+      "type": "url",
+      "value": "https://link24.kr/4bkxcsc"
     },
     "linkauth-whatsapp.com": {
       "confidence": 0.7,
@@ -70092,6 +70295,20 @@
       "tweet_id": "2110212791798038759",
       "type": "url",
       "value": "https://pub-9fad4cf58ddf41d6b8a66e8621858802.r2.dev/zoom-workspace.exe"
+    },
+    "pub-ac2492e7d4454a408a96a3152f656607.r2.dev": {
+      "confidence": 0.5,
+      "date": "2026-11-10 01:10:02",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Cloudflare R2 public bucket domain flagged by a web scanner as a confirmed scam site.",
+      "threat_type": "scam",
+      "tweet_id": "2119960743323861051",
+      "type": "domain",
+      "value": "pub-ac2492e7d4454a408a96a3152f656607.r2.dev"
     },
     "pubad-gov-lk.net-src.info": {
       "confidence": 0.6,
@@ -78970,6 +79187,38 @@
       "type": "url",
       "value": "https://vemtasbobinaj.com/login.html"
     },
+    "veqgsccap42m7wyqyqcreg7haq0ugxuf.lambda-url.ap-northeast-1.on.aws": {
+      "confidence": 0.8,
+      "date": "2026-11-10 05:10:25",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "AWS Lambda URL triggered by an install click redirects Android users to an S3-hosted malicious APK (survey-gov.apk) in a Cabinet Office survey lure.",
+      "threat_type": "malware",
+      "tweet_id": "2120021237573574950",
+      "type": "domain",
+      "value": "veqgsccap42m7wyqyqcreg7haq0ugxuf.lambda-url.ap-northeast-1.on.aws"
+    },
+    "veqgsccap42m7wyqyqcreg7haq0ugxuf.lambda-url.ap-northeast-1.on.aws/survey-gov": {
+      "confidence": 0.8,
+      "date": "2026-11-10 05:10:25",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "AWS Lambda URL triggered by an install click redirects Android users to an S3-hosted malicious APK (survey-gov.apk) in a Cabinet Office survey lure.",
+      "threat_type": "malware",
+      "tweet_id": "2120021237573574950",
+      "type": "url",
+      "value": "https://veqgsccap42m7wyqyqcreg7haq0ugxuf.lambda-url.ap-northeast-1.on.aws/survey-gov"
+    },
     "verifing-server.codes": {
       "confidence": 0.8,
       "date": "2026-10-19 12:23:33",
@@ -81916,6 +82165,22 @@
       "type": "domain",
       "value": "xiksjha.cc"
     },
+    "xinyaojiancai-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-09 23:18:51",
+      "enriched_at": "2026-11-10T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware masquerading as the Japanese Cabinet Office, distributed via a phishing site.",
+      "threat_type": "malware",
+      "tweet_id": "2119932762010644537",
+      "type": "domain",
+      "value": "xinyaojiancai-jp.com"
+    },
     "xionamiconm.com": {
       "confidence": 0.7,
       "date": "2026-10-14 21:59:13",
@@ -83512,6 +83777,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-10T00:40:04Z",
+  "generated_at": "2026-11-10T06:40:05Z",
   "window_days": 30
 }

@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-10 06:30:21 (UTC)</th>
+        <th colspan=4>2026-11-10 06:45:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -189,8 +189,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 10 | 638 | 3150 | 44236 |
 | **:globe_with_meridians: Domains** | 10 | 543 | 2640 | 38065 |
-| **:triangular_flag_on_post: IPs** | 0 | 152 | 2241 | 8033 |
-| **:1234: SHA256** | 1 | 165 | 551 | 3221 |
+| **:triangular_flag_on_post: IPs** | 1 | 153 | 2242 | 8034 |
+| **:1234: SHA256** | 2 | 166 | 552 | 3222 |
 | **:1234: MD5** | 0 | 23 | 110 | 2044 |
 
 </div>
@@ -209,7 +209,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 0 | 20 | 11687 |
 | **#malware** | 2 | 183 | 1179 | 4252 |
 | **#scam** | 2 | 6 | 40 | 2824 |
-| **#C2** | 0 | 53 | 155 | 2149 |
+| **#C2** | 2 | 55 | 157 | 2151 |
 | **#APT** | 2 | 22 | 62 | 1475 |
 | **#ClickFix** | 0 | 106 | 279 | 1231 |
 | **#ransomware** | 0 | 7 | 87 | 691 |
@@ -235,7 +235,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#4** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#5** | [patialavii](https://x.com/patialavii) | 2 |
 | **#6** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 2 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
