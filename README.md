@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-10 16:15:18 (UTC)</th>
+        <th colspan=4>2026-11-10 16:30:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -189,7 +189,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 52 | 680 | 3192 | 44278 |
 | **:globe_with_meridians: Domains** | 40 | 573 | 2670 | 38095 |
-| **:triangular_flag_on_post: IPs** | 6 | 158 | 2247 | 8039 |
+| **:triangular_flag_on_post: IPs** | 7 | 159 | 2248 | 8040 |
 | **:1234: SHA256** | 18 | 182 | 568 | 3238 |
 | **:1234: MD5** | 5 | 28 | 115 | 2049 |
 
@@ -209,7 +209,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 0 | 20 | 11687 |
 | **#malware** | 33 | 214 | 1210 | 4283 |
 | **#scam** | 2 | 6 | 40 | 2824 |
-| **#C2** | 2 | 55 | 157 | 2151 |
+| **#C2** | 3 | 56 | 158 | 2152 |
 | **#APT** | 7 | 27 | 67 | 1480 |
 | **#ClickFix** | 16 | 122 | 295 | 1247 |
 | **#ransomware** | 0 | 7 | 87 | 691 |
@@ -231,9 +231,9 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [smica83](https://x.com/smica83) | 16 |
 | **#2** | [LandscapeThreat](https://x.com/LandscapeThreat) | 14 |
-| **#3** | [Malwarehunterr](https://x.com/Malwarehunterr) | 10 |
-| **#4** | [harugasumi](https://x.com/harugasumi) | 9 |
-| **#5** | [skocherhan](https://x.com/skocherhan) | 9 |
+| **#3** | [skocherhan](https://x.com/skocherhan) | 10 |
+| **#4** | [Malwarehunterr](https://x.com/Malwarehunterr) | 10 |
+| **#5** | [harugasumi](https://x.com/harugasumi) | 9 |
 | **#6** | [malwrhunterteam](https://x.com/malwrhunterteam) | 8 |
 | **#7** | [bomccss](https://x.com/bomccss) | 8 |
 | **#8** | [AaronCTI](https://x.com/AaronCTI) | 8 |
