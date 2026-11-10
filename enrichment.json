@@ -1,17 +1,17 @@
 {
-  "count": 5969,
+  "count": 5985,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
       "last_attempt": "2026-11-08T18:40:04Z"
     },
     "2114565057338343930": {
-      "attempts": 1,
-      "last_attempt": "2026-11-10T12:40:04Z"
+      "attempts": 2,
+      "last_attempt": "2026-11-10T18:40:04Z"
     },
     "2117357108056498381": {
-      "attempts": 1,
-      "last_attempt": "2026-11-10T12:40:04Z"
+      "attempts": 2,
+      "last_attempt": "2026-11-10T18:40:04Z"
     }
   },
   "entries": {
@@ -3812,42 +3812,6 @@
       "type": "ip",
       "value": "107.172.15.180"
     },
-    "107.172.249.140": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "ip",
-      "value": "107.172.249.140"
-    },
-    "107.172.249.140:443": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "url",
-      "value": "http://107.172.249.140:443"
-    },
     "107.172.32.149": {
       "confidence": 0.6,
       "date": "2026-10-30 15:47:30",
@@ -4158,6 +4122,20 @@
       "tweet_id": "2118450511234150864",
       "type": "domain",
       "value": "10today-diwalisales.info"
+    },
+    "110.173.134.16": {
+      "confidence": 0.9,
+      "date": "2026-11-10 13:01:28",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "PayPal phishing page at shopfc24h.com/paypal%20de/ hosted on 110.173.134.16 (Hostopia Australia, AS55803).",
+      "threat_type": "phishing",
+      "tweet_id": "2120139779765358672",
+      "type": "ip",
+      "value": "110.173.134.16"
     },
     "110.42.215.163": {
       "confidence": 0.7,
@@ -7853,6 +7831,23 @@
       "type": "url",
       "value": "http://145.63.130.147"
     },
+    "145.63.138.47": {
+      "confidence": 0.9,
+      "date": "2026-11-10 14:58:57",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": "XWorm",
+      "suggested_tags": [
+        "xworm",
+        "c2",
+        "rat",
+        "malware"
+      ],
+      "summary": "xWorm C2 server at 145.63.138.47 port 9019, hosted on AS211381 Podaon SIA.",
+      "threat_type": "c2",
+      "tweet_id": "2120169344147866027",
+      "type": "ip",
+      "value": "145.63.138.47"
+    },
     "146.103.100.148": {
       "confidence": 0.5,
       "date": "2026-10-23 20:32:50",
@@ -8160,6 +8155,22 @@
       "tweet_id": "2109650108887204073",
       "type": "ip",
       "value": "149.88.66.95"
+    },
+    "14c6e59422a2bf11438d82bf88d1eb8d43f6dd72a9fece20438c644792c85d33": {
+      "confidence": 0.5,
+      "date": "2026-11-10 14:12:38",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "stealer",
+        "infostealer"
+      ],
+      "summary": "RuntimeBroker.exe sample seen from India that uses a Discord webhook, likely for data exfiltration; likely stealer-type malware.",
+      "threat_type": "malware",
+      "tweet_id": "2120157687652425873",
+      "type": "sha256",
+      "value": "14c6e59422a2bf11438d82bf88d1eb8d43f6dd72a9fece20438c644792c85d33"
     },
     "15.0.245.2": {
       "confidence": 0.6,
@@ -12054,24 +12065,6 @@
       "type": "url",
       "value": "http://18.178.245.211:8041"
     },
-    "18.190.253.114": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "url",
-      "value": "http://18.190.253.114"
-    },
     "18.228.18.93": {
       "confidence": 0.6,
       "date": "2026-10-29 21:29:06",
@@ -14043,24 +14036,6 @@
       "type": "ip",
       "value": "198.44.51.43"
     },
-    "198.46.221.26": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "url",
-      "value": "http://198.46.221.26"
-    },
     "198.52.244.44": {
       "confidence": 0.5,
       "date": "2026-10-15 09:48:00",
@@ -16014,24 +15989,6 @@
       "type": "ip",
       "value": "216.23.81.132"
     },
-    "216.250.251.87": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "url",
-      "value": "http://216.250.251.87"
-    },
     "216.250.255.9": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -16273,42 +16230,6 @@
       "tweet_id": "2113541093048361334",
       "type": "url",
       "value": "http://217.60.242.76"
-    },
-    "217.60.36.94": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "ip",
-      "value": "217.60.36.94"
-    },
-    "217.60.36.94:80": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "url",
-      "value": "http://217.60.36.94:80"
     },
     "217.60.7.209": {
       "confidence": 0.5,
@@ -16778,24 +16699,6 @@
       "tweet_id": "2118033070981066799",
       "type": "url",
       "value": "http://23.248.226.250"
-    },
-    "23.27.124.228": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "url",
-      "value": "http://23.27.124.228"
     },
     "23.88.126.112": {
       "confidence": 0.9,
@@ -18098,24 +18001,6 @@
       "tweet_id": "2118450511234150864",
       "type": "domain",
       "value": "2today-diwalisales.info"
-    },
-    "3.147.84.164": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "url",
-      "value": "http://3.147.84.164"
     },
     "3.39.131.123": {
       "confidence": 0.7,
@@ -31779,6 +31664,20 @@
       "type": "md5",
       "value": "56a0d63a0b5a99d76a71e81b1a9b760c"
     },
+    "577898ede66159f93121efdb7883a25fa982a99ce690a8ab6d1aaf737eb3fb03": {
+      "confidence": 0.45,
+      "date": "2026-11-10 13:36:06",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "JavaScript sample 'meerda507312.js' seen from Brazil contacting a Cloudflare Workers URL; likely a malware downloader.",
+      "threat_type": "malware",
+      "tweet_id": "2120148494514057508",
+      "type": "sha256",
+      "value": "577898ede66159f93121efdb7883a25fa982a99ce690a8ab6d1aaf737eb3fb03"
+    },
     "58.145.185.136": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -36196,6 +36095,21 @@
       "type": "domain",
       "value": "8j536vj.cn"
     },
+    "9081f967486635a71fc9ab2418baa3b56ad21ee8bb0576e363ef89b9e23ae723": {
+      "confidence": 0.55,
+      "date": "2026-11-10 14:31:22",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malware sample 'Zoom1111 zip' fetching a payload from a PNG URL and communicating with C2 excerpthub.com on TCP port 7979; seen from the UAE.",
+      "threat_type": "malware",
+      "tweet_id": "2120162405950931347",
+      "type": "sha256",
+      "value": "9081f967486635a71fc9ab2418baa3b56ad21ee8bb0576e363ef89b9e23ae723"
+    },
     "90a4792390309c8097c54a910999864f96df9b00cdc2d5f21f14e4ef2dc0338f": {
       "confidence": 0.6,
       "date": "2026-10-29 12:26:02",
@@ -39925,6 +39839,34 @@
       "type": "domain",
       "value": "anh-whatsapp.com"
     },
+    "aniv.bpovexd.cn": {
+      "confidence": 0.9,
+      "date": "2026-11-10 10:49:15",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Amazon, targeting Japanese users, hosted at aniv.bpovexd.cn.",
+      "threat_type": "phishing",
+      "tweet_id": "2120106506867949787",
+      "type": "domain",
+      "value": "aniv.bpovexd.cn"
+    },
+    "aniv.bpovexd.cn/t10ijauryj": {
+      "confidence": 0.9,
+      "date": "2026-11-10 10:49:15",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Amazon, targeting Japanese users, hosted at aniv.bpovexd.cn.",
+      "threat_type": "phishing",
+      "tweet_id": "2120106506867949787",
+      "type": "url",
+      "value": "https://aniv.bpovexd.cn/t10ijauryj"
+    },
     "aniv.dqtjvxa.cn": {
       "confidence": 0.85,
       "date": "2026-11-09 12:20:18",
@@ -43327,6 +43269,22 @@
       "type": "domain",
       "value": "appsec-whatsapp.com"
     },
+    "apt-finder.org": {
+      "confidence": 0.7,
+      "date": "2026-11-10 14:04:14",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware"
+      ],
+      "summary": "Calendly-themed fake bot check tricks Windows users into pasting a command via File Explorer that writes C# to %TEMP%, compiles it with csc.exe and runs it.",
+      "threat_type": "malware",
+      "tweet_id": "2120155573979140344",
+      "type": "domain",
+      "value": "apt-finder.org"
+    },
     "ar-ae.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -43432,6 +43390,22 @@
       "tweet_id": "2110874670799183903",
       "type": "domain",
       "value": "aroqwxh.cn"
+    },
+    "arrivals-creative.com": {
+      "confidence": 0.7,
+      "date": "2026-11-10 14:04:14",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware"
+      ],
+      "summary": "Calendly-themed fake bot check tricks Windows users into pasting a command via File Explorer that writes C# to %TEMP%, compiles it with csc.exe and runs it.",
+      "threat_type": "malware",
+      "tweet_id": "2120155573979140344",
+      "type": "domain",
+      "value": "arrivals-creative.com"
     },
     "arvion.network": {
       "confidence": 0.25,
@@ -44194,6 +44168,20 @@
       "type": "sha256",
       "value": "b72c09f181e67e3c570e868bff79870fbac2681588b17e376fbd9d8365f9542d"
     },
+    "b75863d6b46b63a1e7c3fa435eb93c129a246c44206bf43332b7c75956763c1a": {
+      "confidence": 0.4,
+      "date": "2026-11-10 14:26:37",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious batch script 'mnm35flq.bat' sample seen from Israel and reported via MalwareBazaar; no family identified.",
+      "threat_type": "malware",
+      "tweet_id": "2120161207738925173",
+      "type": "sha256",
+      "value": "b75863d6b46b63a1e7c3fa435eb93c129a246c44206bf43332b7c75956763c1a"
+    },
     "b787551280f511c33c29286cd467dd0e352fa24260344409b0a2ab3b51afe7b8": {
       "confidence": 0.9,
       "date": "2026-11-02 10:30:52",
@@ -44258,6 +44246,24 @@
       "tweet_id": "2117956883139252716",
       "type": "sha256",
       "value": "b8ddf38d3c9137ab091b83acc99864a64e69bc140e7519dd0e489d58aaeabe3d"
+    },
+    "b91ae5e86fa601e10b2fff5e4137f70b631b46ee5618897c05feff572507ceff": {
+      "confidence": 0.6,
+      "date": "2026-11-10 16:38:42",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": "Vidar",
+      "suggested_tags": [
+        "vidar",
+        "infostealer",
+        "malware",
+        "stealer",
+        "malvertising"
+      ],
+      "summary": "Ten domains use a fake MegaUp download template to deliver a password-protected archive with a malicious Setup.exe, possibly Vidar infostealer; anti-analysis JS present.",
+      "threat_type": "malware",
+      "tweet_id": "2120194450509173098",
+      "type": "sha256",
+      "value": "b91ae5e86fa601e10b2fff5e4137f70b631b46ee5618897c05feff572507ceff"
     },
     "b91db514edd5821530ba2023b8a52e6e": {
       "confidence": 0.8,
@@ -49161,6 +49167,24 @@
       "type": "sha256",
       "value": "cd067abf727655d1d82d16506cee51fda6c200e7fe67ebac21b07e3eb9fd67f7"
     },
+    "cdfers.sbs": {
+      "confidence": 0.6,
+      "date": "2026-11-10 16:38:42",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": "Vidar",
+      "suggested_tags": [
+        "vidar",
+        "infostealer",
+        "malware",
+        "stealer",
+        "malvertising"
+      ],
+      "summary": "Ten domains use a fake MegaUp download template to deliver a password-protected archive with a malicious Setup.exe, possibly Vidar infostealer; anti-analysis JS present.",
+      "threat_type": "malware",
+      "tweet_id": "2120194450509173098",
+      "type": "domain",
+      "value": "cdfers.sbs"
+    },
     "cdn-edge-f3f85b.netlify.app": {
       "confidence": 0.6,
       "date": "2026-10-27 22:58:14",
@@ -52469,24 +52493,6 @@
       "type": "domain",
       "value": "deployment.eastus.cloudapp.azure.com"
     },
-    "desco-gov-bd.workers.dev": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "domain",
-      "value": "desco-gov-bd.workers.dev"
-    },
     "desertautoin-jp.com": {
       "confidence": 0.8,
       "date": "2026-11-07 22:46:36",
@@ -53267,6 +53273,22 @@
       "tweet_id": "2118450511234150864",
       "type": "domain",
       "value": "discodiwali.fun"
+    },
+    "discord.com/api/webhooks/1568290802583740449/xi6r8_zvisy8rov2bvnvqzlf3av-h41ksycdpxxvuplqgv8pcntg9_drdlg5ivyc2qpd": {
+      "confidence": 0.5,
+      "date": "2026-11-10 14:12:38",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "stealer",
+        "infostealer"
+      ],
+      "summary": "RuntimeBroker.exe sample seen from India that uses a Discord webhook, likely for data exfiltration; likely stealer-type malware.",
+      "threat_type": "malware",
+      "tweet_id": "2120157687652425873",
+      "type": "url",
+      "value": "https://discord.com/api/webhooks/1568290802583740449/XI6R8_zVISY8ROV2bVNVQzLF3aV-H41kSyCDpxXvuPLqGV8pCNTg9_DrDLG5iVYC2Qpd"
     },
     "discord.gg/monoxidevip": {
       "confidence": 0.8,
@@ -56450,6 +56472,36 @@
       "type": "domain",
       "value": "everstakewfma6sxdpshoq4ebtnqamsxnajrtzu2cflai77kfup5kzyd.onion"
     },
+    "excerpthub.com": {
+      "confidence": 0.55,
+      "date": "2026-11-10 14:31:22",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malware sample 'Zoom1111 zip' fetching a payload from a PNG URL and communicating with C2 excerpthub.com on TCP port 7979; seen from the UAE.",
+      "threat_type": "malware",
+      "tweet_id": "2120162405950931347",
+      "type": "domain",
+      "value": "excerpthub.com"
+    },
+    "excerpthub.com:7979": {
+      "confidence": 0.55,
+      "date": "2026-11-10 14:31:22",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malware sample 'Zoom1111 zip' fetching a payload from a PNG URL and communicating with C2 excerpthub.com on TCP port 7979; seen from the UAE.",
+      "threat_type": "malware",
+      "tweet_id": "2120162405950931347",
+      "type": "url",
+      "value": "http://excerpthub.com:7979"
+    },
     "exodusathleticclub.com": {
       "confidence": 0.9,
       "date": "2026-10-12 07:01:33",
@@ -56586,6 +56638,21 @@
       "tweet_id": "2117956883139252716",
       "type": "sha256",
       "value": "f093760de90b411a3c1da3f8d929da9f5425238214d6189af8b3a2828301ad1a"
+    },
+    "f0a045452f2a497c49e3b1ad69a0aff206acf5b04ef11cf05301af896a0e98ec": {
+      "confidence": 0.45,
+      "date": "2026-11-10 13:24:24",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "Suspicious Membership_Offer.pdf.lnk shortcut with a Traditional Chinese membership-offer lure, tagged as APT activity targeting Taiwan.",
+      "threat_type": "malware",
+      "tweet_id": "2120145551354405205",
+      "type": "sha256",
+      "value": "f0a045452f2a497c49e3b1ad69a0aff206acf5b04ef11cf05301af896a0e98ec"
     },
     "f0a1ff80146ad904ad79b1b36e394e7033e3bba92cdf79967643723be4b9e01a": {
       "confidence": 0.6,
@@ -59269,6 +59336,38 @@
       "tweet_id": "2113911636796846532",
       "type": "domain",
       "value": "forzaverification.com"
+    },
+    "fourset.digital": {
+      "confidence": 0.7,
+      "date": "2026-11-10 14:04:14",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware"
+      ],
+      "summary": "Calendly-themed fake bot check tricks Windows users into pasting a command via File Explorer that writes C# to %TEMP%, compiles it with csc.exe and runs it.",
+      "threat_type": "malware",
+      "tweet_id": "2120155573979140344",
+      "type": "domain",
+      "value": "fourset.digital"
+    },
+    "foursets.agency": {
+      "confidence": 0.7,
+      "date": "2026-11-10 14:04:14",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware"
+      ],
+      "summary": "Calendly-themed fake bot check tricks Windows users into pasting a command via File Explorer that writes C# to %TEMP%, compiles it with csc.exe and runs it.",
+      "threat_type": "malware",
+      "tweet_id": "2120155573979140344",
+      "type": "domain",
+      "value": "foursets.agency"
     },
     "foxnevs.com": {
       "confidence": 0.9,
@@ -62557,6 +62656,20 @@
       "type": "domain",
       "value": "insicdesignszu.com"
     },
+    "instagram-services.com": {
+      "confidence": 0.9,
+      "date": "2026-11-10 08:00:58",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Instagram phishing site at instagram-services.com, hosted on Amazon infrastructure (AS16509) in the United States.",
+      "threat_type": "phishing",
+      "tweet_id": "2120064154929127855",
+      "type": "domain",
+      "value": "instagram-services.com"
+    },
     "instagram-verifica.freemyip.com": {
       "confidence": 0.9,
       "date": "2026-10-25 18:01:30",
@@ -62702,24 +62815,6 @@
       "tweet_id": "2115313202644873311",
       "type": "url",
       "value": "https://interacty.me/projects/ba837d69e93b2459"
-    },
-    "interior-gov-pk.mail-govt.org": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "domain",
-      "value": "interior-gov-pk.mail-govt.org"
     },
     "inv2bullish.xyz": {
       "confidence": 0.85,
@@ -64137,6 +64232,24 @@
       "type": "domain",
       "value": "klenna.top"
     },
+    "klinhsrg.lol": {
+      "confidence": 0.6,
+      "date": "2026-11-10 16:38:42",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": "Vidar",
+      "suggested_tags": [
+        "vidar",
+        "infostealer",
+        "malware",
+        "stealer",
+        "malvertising"
+      ],
+      "summary": "Ten domains use a fake MegaUp download template to deliver a password-protected archive with a malicious Setup.exe, possibly Vidar infostealer; anti-analysis JS present.",
+      "threat_type": "malware",
+      "tweet_id": "2120194450509173098",
+      "type": "domain",
+      "value": "klinhsrg.lol"
+    },
     "knife-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -65012,6 +65125,24 @@
       "type": "domain",
       "value": "liveeee365.dothome.co.kr"
     },
+    "lkmnhy.sbs": {
+      "confidence": 0.6,
+      "date": "2026-11-10 16:38:42",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": "Vidar",
+      "suggested_tags": [
+        "vidar",
+        "infostealer",
+        "malware",
+        "stealer",
+        "malvertising"
+      ],
+      "summary": "Ten domains use a fake MegaUp download template to deliver a password-protected archive with a malicious Setup.exe, possibly Vidar infostealer; anti-analysis JS present.",
+      "threat_type": "malware",
+      "tweet_id": "2120194450509173098",
+      "type": "domain",
+      "value": "lkmnhy.sbs"
+    },
     "llsbsnls.suplayer810.workers.dev": {
       "confidence": 0.75,
       "date": "2026-10-23 20:47:00",
@@ -65741,6 +65872,22 @@
       "tweet_id": "2116515987667214598",
       "type": "domain",
       "value": "mail-googleaccounts-verification.uw.ua"
+    },
+    "mail-mof-gov-np.netlify.app": {
+      "confidence": 0.7,
+      "date": "2026-10-20 23:41:56",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "apt",
+        "cryptoscam"
+      ],
+      "summary": "Sidewinder APT-linked Netlify domain shares a JARM fingerprint with a MetaMask credential phishing kit, indicating infrastructure overlap.",
+      "threat_type": "phishing",
+      "tweet_id": "2112690811683168671",
+      "type": "domain",
+      "value": "mail-mof-gov-np.netlify.app"
     },
     "mail.intomahost2.com": {
       "confidence": 0.9,
@@ -67141,6 +67288,24 @@
       "tweet_id": "2111958975076090219",
       "type": "domain",
       "value": "mnjuvzg.cn"
+    },
+    "mnyhde.sbs": {
+      "confidence": 0.6,
+      "date": "2026-11-10 16:38:42",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": "Vidar",
+      "suggested_tags": [
+        "vidar",
+        "infostealer",
+        "malware",
+        "stealer",
+        "malvertising"
+      ],
+      "summary": "Ten domains use a fake MegaUp download template to deliver a password-protected archive with a malicious Setup.exe, possibly Vidar infostealer; anti-analysis JS present.",
+      "threat_type": "malware",
+      "tweet_id": "2120194450509173098",
+      "type": "domain",
+      "value": "mnyhde.sbs"
     },
     "mobilepro-whatsapp.com": {
       "confidence": 0.75,
@@ -70710,6 +70875,24 @@
       "type": "domain",
       "value": "pt.webhwsapp-whatsapp.com"
     },
+    "ptrdfvc.sbs": {
+      "confidence": 0.6,
+      "date": "2026-11-10 16:38:42",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": "Vidar",
+      "suggested_tags": [
+        "vidar",
+        "infostealer",
+        "malware",
+        "stealer",
+        "malvertising"
+      ],
+      "summary": "Ten domains use a fake MegaUp download template to deliver a password-protected archive with a malicious Setup.exe, possibly Vidar infostealer; anti-analysis JS present.",
+      "threat_type": "malware",
+      "tweet_id": "2120194450509173098",
+      "type": "domain",
+      "value": "ptrdfvc.sbs"
+    },
     "pub-0c3c1b636d92458081997bb1aec2f965.r2.dev": {
       "confidence": 0.5,
       "date": "2026-10-16 04:10:05",
@@ -70838,24 +71021,6 @@
       "tweet_id": "2119960743323861051",
       "type": "domain",
       "value": "pub-ac2492e7d4454a408a96a3152f656607.r2.dev"
-    },
-    "pubad-gov-lk.net-src.info": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "domain",
-      "value": "pubad-gov-lk.net-src.info"
     },
     "pumpadmin.fun": {
       "confidence": 0.5,
@@ -72365,6 +72530,34 @@
       "type": "domain",
       "value": "roundedbullets.com"
     },
+    "royal-wood-3c0d.julianosilvasantospiresrosa.workers.dev": {
+      "confidence": 0.45,
+      "date": "2026-11-10 13:36:06",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "JavaScript sample 'meerda507312.js' seen from Brazil contacting a Cloudflare Workers URL; likely a malware downloader.",
+      "threat_type": "malware",
+      "tweet_id": "2120148494514057508",
+      "type": "domain",
+      "value": "royal-wood-3c0d.julianosilvasantospiresrosa.workers.dev"
+    },
+    "royal-wood-3c0d.julianosilvasantospiresrosa.workers.dev/hhohi": {
+      "confidence": 0.45,
+      "date": "2026-11-10 13:36:06",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "JavaScript sample 'meerda507312.js' seen from Brazil contacting a Cloudflare Workers URL; likely a malware downloader.",
+      "threat_type": "malware",
+      "tweet_id": "2120148494514057508",
+      "type": "url",
+      "value": "https://royal-wood-3c0d.julianosilvasantospiresrosa.workers.dev/hhohi"
+    },
     "rqszsx.cn": {
       "confidence": 0.8,
       "date": "2026-10-11 23:47:12",
@@ -73193,6 +73386,24 @@
       "tweet_id": "2119393481462263979",
       "type": "domain",
       "value": "scrolltalents.online"
+    },
+    "sdefrsxcg.sbs": {
+      "confidence": 0.6,
+      "date": "2026-11-10 16:38:42",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": "Vidar",
+      "suggested_tags": [
+        "vidar",
+        "infostealer",
+        "malware",
+        "stealer",
+        "malvertising"
+      ],
+      "summary": "Ten domains use a fake MegaUp download template to deliver a password-protected archive with a malicious Setup.exe, possibly Vidar infostealer; anti-analysis JS present.",
+      "threat_type": "malware",
+      "tweet_id": "2120194450509173098",
+      "type": "domain",
+      "value": "sdefrsxcg.sbs"
     },
     "sdootuk.marmorariacoral.website": {
       "confidence": 0.5,
@@ -74374,6 +74585,34 @@
       "type": "domain",
       "value": "shield-whatsapp.com"
     },
+    "shopfc24h.com": {
+      "confidence": 0.9,
+      "date": "2026-11-10 13:01:28",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "PayPal phishing page at shopfc24h.com/paypal%20de/ hosted on 110.173.134.16 (Hostopia Australia, AS55803).",
+      "threat_type": "phishing",
+      "tweet_id": "2120139779765358672",
+      "type": "domain",
+      "value": "shopfc24h.com"
+    },
+    "shopfc24h.com/paypal%20de": {
+      "confidence": 0.9,
+      "date": "2026-11-10 13:01:28",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "PayPal phishing page at shopfc24h.com/paypal%20de/ hosted on 110.173.134.16 (Hostopia Australia, AS55803).",
+      "threat_type": "phishing",
+      "tweet_id": "2120139779765358672",
+      "type": "url",
+      "value": "http://shopfc24h.com/paypal%20de/"
+    },
     "shoppingbasketweekly.info": {
       "confidence": 0.85,
       "date": "2026-10-14 01:58:47",
@@ -74534,6 +74773,24 @@
       "tweet_id": "2117950517305655397",
       "type": "url",
       "value": "http://sjfa061019.s3.us-east-1.amazonaws.com/sj1.html"
+    },
+    "slkrgtq.lol": {
+      "confidence": 0.6,
+      "date": "2026-11-10 16:38:42",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": "Vidar",
+      "suggested_tags": [
+        "vidar",
+        "infostealer",
+        "malware",
+        "stealer",
+        "malvertising"
+      ],
+      "summary": "Ten domains use a fake MegaUp download template to deliver a password-protected archive with a malicious Setup.exe, possibly Vidar infostealer; anti-analysis JS present.",
+      "threat_type": "malware",
+      "tweet_id": "2120194450509173098",
+      "type": "domain",
+      "value": "slkrgtq.lol"
     },
     "slpotify.com": {
       "confidence": 0.85,
@@ -75061,24 +75318,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "ssl.webapi-whatsapp.com"
-    },
-    "ssl3.awsdns-531.com": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "domain",
-      "value": "ssl3.awsdns-531.com"
     },
     "sslcert-whatsapp.com": {
       "confidence": 0.65,
@@ -76590,24 +76829,6 @@
       "type": "domain",
       "value": "supportforpolicycompliance.vercel.app"
     },
-    "surfanny.com": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "domain",
-      "value": "surfanny.com"
-    },
     "surgebuilders.ink": {
       "confidence": 0.88,
       "date": "2026-11-08 11:29:04",
@@ -77479,24 +77700,6 @@
       "type": "domain",
       "value": "tarbounconnect66.shop"
     },
-    "task-hrec.vercel.app": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "domain",
-      "value": "task-hrec.vercel.app"
-    },
     "tchan1.anuj.workers.dev": {
       "confidence": 0.75,
       "date": "2026-10-23 20:47:00",
@@ -78024,6 +78227,24 @@
       "tweet_id": "2113733954490470752",
       "type": "domain",
       "value": "tg1.photopills.ir"
+    },
+    "tgexvgtdsa.lol": {
+      "confidence": 0.6,
+      "date": "2026-11-10 16:38:42",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": "Vidar",
+      "suggested_tags": [
+        "vidar",
+        "infostealer",
+        "malware",
+        "stealer",
+        "malvertising"
+      ],
+      "summary": "Ten domains use a fake MegaUp download template to deliver a password-protected archive with a malicious Setup.exe, possibly Vidar infostealer; anti-analysis JS present.",
+      "threat_type": "malware",
+      "tweet_id": "2120194450509173098",
+      "type": "domain",
+      "value": "tgexvgtdsa.lol"
     },
     "tgfile.aaan.eu.org": {
       "confidence": 0.75,
@@ -78874,24 +79095,6 @@
       "type": "domain",
       "value": "trendcars.be"
     },
-    "truecdnnetwork.com": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "domain",
-      "value": "truecdnnetwork.com"
-    },
     "truenorthworks.fun": {
       "confidence": 0.8,
       "date": "2026-10-13 23:04:57",
@@ -79035,6 +79238,36 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "two-step.webapi-whatsapp.com"
+    },
+    "u.pone.rs": {
+      "confidence": 0.55,
+      "date": "2026-11-10 14:31:22",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malware sample 'Zoom1111 zip' fetching a payload from a PNG URL and communicating with C2 excerpthub.com on TCP port 7979; seen from the UAE.",
+      "threat_type": "malware",
+      "tweet_id": "2120162405950931347",
+      "type": "domain",
+      "value": "u.pone.rs"
+    },
+    "u.pone.rs/iysmhikx.png": {
+      "confidence": 0.55,
+      "date": "2026-11-10 14:31:22",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malware sample 'Zoom1111 zip' fetching a payload from a PNG URL and communicating with C2 excerpthub.com on TCP port 7979; seen from the UAE.",
+      "threat_type": "malware",
+      "tweet_id": "2120162405950931347",
+      "type": "url",
+      "value": "https://u.pone.rs/iysmhikx.png"
     },
     "u0bfilhn.onlinewebshop.net": {
       "confidence": 0.75,
@@ -79902,6 +80135,24 @@
       "tweet_id": "2110514053173141544",
       "type": "domain",
       "value": "vggkofmi.cn"
+    },
+    "vgyhtdxz.bond": {
+      "confidence": 0.6,
+      "date": "2026-11-10 16:38:42",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": "Vidar",
+      "suggested_tags": [
+        "vidar",
+        "infostealer",
+        "malware",
+        "stealer",
+        "malvertising"
+      ],
+      "summary": "Ten domains use a fake MegaUp download template to deliver a password-protected archive with a malicious Setup.exe, possibly Vidar infostealer; anti-analysis JS present.",
+      "threat_type": "malware",
+      "tweet_id": "2120194450509173098",
+      "type": "domain",
+      "value": "vgyhtdxz.bond"
     },
     "vi.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
@@ -81909,24 +82160,6 @@
       "type": "domain",
       "value": "word-majority-cahoots.ngrok-free.dev"
     },
-    "wordmoss.com": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "domain",
-      "value": "wordmoss.com"
-    },
     "worker-broken-wood-ddaf.discord854832.workers.dev": {
       "confidence": 0.6,
       "date": "2026-10-20 08:11:20",
@@ -82994,6 +83227,24 @@
       "type": "domain",
       "value": "xss-whatsapp.com"
     },
+    "xsvervd.sbs": {
+      "confidence": 0.6,
+      "date": "2026-11-10 16:38:42",
+      "enriched_at": "2026-11-10T18:40:04Z",
+      "family": "Vidar",
+      "suggested_tags": [
+        "vidar",
+        "infostealer",
+        "malware",
+        "stealer",
+        "malvertising"
+      ],
+      "summary": "Ten domains use a fake MegaUp download template to deliver a password-protected archive with a malicious Setup.exe, possibly Vidar infostealer; anti-analysis JS present.",
+      "threat_type": "malware",
+      "tweet_id": "2120194450509173098",
+      "type": "domain",
+      "value": "xsvervd.sbs"
+    },
     "xtmafe.cn": {
       "confidence": 0.8,
       "date": "2026-10-11 23:47:12",
@@ -83319,24 +83570,6 @@
       "tweet_id": "2116277159350456808",
       "type": "url",
       "value": "http://youtube-right.com/js/d57a348f.js"
-    },
-    "youtubemail.club": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "domain",
-      "value": "youtubemail.club"
     },
     "youvibecoding.com": {
       "confidence": 0.8,
@@ -83971,24 +84204,6 @@
       "type": "domain",
       "value": "zkmloe.cn"
     },
-    "zmail.broadmediacloud.com": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:42:39",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "lazarus",
-        "kimsuky",
-        "dprk",
-        "c2"
-      ],
-      "summary": "FalconFeeds India brief of APT-linked IOCs: KeyBoy, Calypso, Lazarus (Contagious Interview), Kimsuky, APT33 and SideWinder government-impersonation domains and C2 IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2109263406956155061",
-      "type": "domain",
-      "value": "zmail.broadmediacloud.com"
-    },
     "zmngfjl.fun": {
       "confidence": 0.85,
       "date": "2026-10-23 13:51:39",
@@ -84384,6 +84599,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-10T12:40:04Z",
+  "generated_at": "2026-11-10T18:40:04Z",
   "window_days": 30
 }
