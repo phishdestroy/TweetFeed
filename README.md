@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-10 13:30:25 (UTC)</th>
+        <th colspan=4>2026-11-10 13:45:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,10 +187,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 42 | 670 | 3182 | 44268 |
-| **:globe_with_meridians: Domains** | 32 | 565 | 2662 | 38087 |
+| **:link: URLs** | 43 | 671 | 3183 | 44269 |
+| **:globe_with_meridians: Domains** | 33 | 566 | 2663 | 38088 |
 | **:triangular_flag_on_post: IPs** | 6 | 158 | 2247 | 8039 |
-| **:1234: SHA256** | 12 | 176 | 562 | 3232 |
+| **:1234: SHA256** | 14 | 178 | 564 | 3234 |
 | **:1234: MD5** | 5 | 28 | 115 | 2049 |
 
 </div>
@@ -210,7 +210,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#malware** | 21 | 202 | 1198 | 4271 |
 | **#scam** | 2 | 6 | 40 | 2824 |
 | **#C2** | 2 | 55 | 157 | 2151 |
-| **#APT** | 2 | 22 | 62 | 1475 |
+| **#APT** | 3 | 23 | 63 | 1476 |
 | **#ClickFix** | 16 | 122 | 295 | 1247 |
 | **#ransomware** | 0 | 7 | 87 | 691 |
 | **#opendir** | 0 | 10 | 21 | 683 |
@@ -233,11 +233,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#2** | [Malwarehunterr](https://x.com/Malwarehunterr) | 10 |
 | **#3** | [harugasumi](https://x.com/harugasumi) | 9 |
 | **#4** | [skocherhan](https://x.com/skocherhan) | 9 |
-| **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 8 |
-| **#6** | [bomccss](https://x.com/bomccss) | 8 |
-| **#7** | [masaomi346](https://x.com/masaomi346) | 5 |
-| **#8** | [phishunt_io](https://x.com/phishunt_io) | 5 |
-| **#9** | [smica83](https://x.com/smica83) | 5 |
+| **#5** | [smica83](https://x.com/smica83) | 8 |
+| **#6** | [malwrhunterteam](https://x.com/malwrhunterteam) | 8 |
+| **#7** | [bomccss](https://x.com/bomccss) | 8 |
+| **#8** | [masaomi346](https://x.com/masaomi346) | 5 |
+| **#9** | [phishunt_io](https://x.com/phishunt_io) | 5 |
 | **#10** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 <!-- TOP_REPORTERS_END -->
 
