@@ -1,9 +1,17 @@
 {
-  "count": 5929,
+  "count": 5969,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
       "last_attempt": "2026-11-08T18:40:04Z"
+    },
+    "2114565057338343930": {
+      "attempts": 1,
+      "last_attempt": "2026-11-10T12:40:04Z"
+    },
+    "2117357108056498381": {
+      "attempts": 1,
+      "last_attempt": "2026-11-10T12:40:04Z"
     }
   },
   "entries": {
@@ -7334,6 +7342,22 @@
       "type": "ip",
       "value": "138.2.16.55"
     },
+    "138.201.211.238": {
+      "confidence": 0.8,
+      "date": "2026-11-10 11:22:46",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "Formbook",
+      "suggested_tags": [
+        "formbook",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "Formbook infostealer delivering a PowerShell script from a compromised WordPress site at rush360.net (138.201.211.238).",
+      "threat_type": "malware",
+      "tweet_id": "2120114942724706758",
+      "type": "url",
+      "value": "http://138.201.211.238"
+    },
     "138.3.211.255": {
       "confidence": 0.7,
       "date": "2026-10-22 14:37:08",
@@ -8242,6 +8266,21 @@
       "type": "ip",
       "value": "150.241.68.194"
     },
+    "150.40.98.204": {
+      "confidence": 0.4,
+      "date": "2026-11-10 11:35:46",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Suspicious domain klenna.top and IP 150.40.98.204 tied to a malicious VHDX sample; likely malware infrastructure.",
+      "threat_type": "c2",
+      "tweet_id": "2120116871127355408",
+      "type": "url",
+      "value": "http://150.40.98.204"
+    },
     "151.241.99.99": {
       "confidence": 0.9,
       "date": "2026-10-29 09:00:26",
@@ -8494,6 +8533,20 @@
       "tweet_id": "2109630309792669794",
       "type": "ip",
       "value": "153.52.178.118"
+    },
+    "153.52.255.25": {
+      "confidence": 0.8,
+      "date": "2026-11-10 08:49:37",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site hubfeedback.com hosted at 153.52.255.25 on Railway (AS400940), United States.",
+      "threat_type": "phishing",
+      "tweet_id": "2120076398950040023",
+      "type": "ip",
+      "value": "153.52.255.25"
     },
     "153.56.168.27": {
       "confidence": 0.7,
@@ -11154,6 +11207,22 @@
       "type": "url",
       "value": "http://172.82.64.48"
     },
+    "172.86.118.49": {
+      "confidence": 0.8,
+      "date": "2026-11-10 06:37:43",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "WEEDStealer",
+      "suggested_tags": [
+        "c2",
+        "stealer",
+        "infostealer"
+      ],
+      "summary": "WEEDStealer C2 panel at weedstealer.xyz (172.86.118.49) with associated sample hash.",
+      "threat_type": "c2",
+      "tweet_id": "2120043207895752987",
+      "type": "ip",
+      "value": "172.86.118.49"
+    },
     "172.86.125.130": {
       "confidence": 0.85,
       "date": "2026-10-11 23:57:24",
@@ -11196,42 +11265,6 @@
       "tweet_id": "2113902149545644150",
       "type": "ip",
       "value": "172.86.91.160"
-    },
-    "172.86.93.139": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:25:11",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": "XenoRAT",
-      "suggested_tags": [
-        "kimsuky",
-        "lazarus",
-        "dprk",
-        "apt",
-        "rat"
-      ],
-      "summary": "DPRK-linked infrastructure: Kimsuky MoonPeak/XenoRAT delivery and Lazarus Contagious Interview/Wagemole lures, plus related C2 and fake recruitment domains.",
-      "threat_type": "malware",
-      "tweet_id": "2109259011052933438",
-      "type": "ip",
-      "value": "172.86.93.139"
-    },
-    "172.86.93.139:3000": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:25:11",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": "XenoRAT",
-      "suggested_tags": [
-        "kimsuky",
-        "lazarus",
-        "dprk",
-        "apt",
-        "rat"
-      ],
-      "summary": "DPRK-linked infrastructure: Kimsuky MoonPeak/XenoRAT delivery and Lazarus Contagious Interview/Wagemole lures, plus related C2 and fake recruitment domains.",
-      "threat_type": "malware",
-      "tweet_id": "2109259011052933438",
-      "type": "url",
-      "value": "http://172.86.93.139:3000"
     },
     "172.96.137.160": {
       "confidence": 0.9,
@@ -14114,6 +14147,34 @@
       "type": "ip",
       "value": "199.19.95.68"
     },
+    "199.91.221.237": {
+      "confidence": 0.65,
+      "date": "2026-11-10 10:57:03",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Panel titled 'C2' hosted at api.avonlo.com:3000 and 199.91.221.237:3000.",
+      "threat_type": "c2",
+      "tweet_id": "2120108206466925028",
+      "type": "ip",
+      "value": "199.91.221.237"
+    },
+    "199.91.221.237:3000": {
+      "confidence": 0.65,
+      "date": "2026-11-10 10:57:03",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Panel titled 'C2' hosted at api.avonlo.com:3000 and 199.91.221.237:3000.",
+      "threat_type": "c2",
+      "tweet_id": "2120108206466925028",
+      "type": "url",
+      "value": "http://199.91.221.237:3000"
+    },
     "19e11045972770ea7959f2dc520896cdefef15f805aa5a83353aee337437efdd": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -14266,6 +14327,20 @@
       "tweet_id": "2119783105468715233",
       "type": "md5",
       "value": "1dfc9bd31fb20bcf4131351817cd3314"
+    },
+    "1e98ed3662f68673de57139fad1fe7d32f75007dd20d6ba007a235395f77aa0b": {
+      "confidence": 0.4,
+      "date": "2026-11-10 11:35:46",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "VHDX lure file 'Euro50_Compact_Concept_Note' uploaded to MalwareBazaar, linked to infrastructure klenna.top and 150.40.98.204.",
+      "threat_type": "malware",
+      "tweet_id": "2120118213006565568",
+      "type": "sha256",
+      "value": "1e98ed3662f68673de57139fad1fe7d32f75007dd20d6ba007a235395f77aa0b"
     },
     "1eb336b5e39b2a5544b03fb0d08b457c": {
       "confidence": 0.85,
@@ -15088,6 +15163,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "202.86.220.30"
+    },
+    "20261110170239.zip": {
+      "confidence": 0.5,
+      "date": "2026-11-10 11:22:46",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Japanese-language malspam with a zip attachment containing a .wsf script, posing as a quote request, aimed at malware infection.",
+      "threat_type": "malware",
+      "tweet_id": "2120114940791103856",
+      "type": "domain",
+      "value": "20261110170239.zip"
     },
     "203.168.131.145": {
       "confidence": 0.5,
@@ -16875,6 +16964,21 @@
       "type": "ip",
       "value": "23.95.220.222"
     },
+    "23189bc66fc17afca7d0f8f81def27dc": {
+      "confidence": 0.7,
+      "date": "2026-11-10 08:53:44",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "RevStealer",
+      "suggested_tags": [
+        "stealer",
+        "malware"
+      ],
+      "summary": "REF2859 intrusion set using RevStealer and XMRig, with cheat-themed domains distributing malware.",
+      "threat_type": "malware",
+      "tweet_id": "2120077435005706576",
+      "type": "md5",
+      "value": "23189bc66fc17afca7d0f8f81def27dc"
+    },
     "232c3c996d14bd6e195794f7fe00d92a8cdb37765ac1543022baee399cad1818": {
       "confidence": 0.5,
       "date": "2026-11-05 13:02:02",
@@ -16888,6 +16992,21 @@
       "tweet_id": "2118327981303030132",
       "type": "sha256",
       "value": "232c3c996d14bd6e195794f7fe00d92a8cdb37765ac1543022baee399cad1818"
+    },
+    "23337b495bcb5c3635d9c89adb4e40ee": {
+      "confidence": 0.7,
+      "date": "2026-11-10 08:53:44",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "RevStealer",
+      "suggested_tags": [
+        "stealer",
+        "malware"
+      ],
+      "summary": "REF2859 intrusion set using RevStealer and XMRig, with cheat-themed domains distributing malware.",
+      "threat_type": "malware",
+      "tweet_id": "2120077435005706576",
+      "type": "md5",
+      "value": "23337b495bcb5c3635d9c89adb4e40ee"
     },
     "234bf59aa5a95c53099ccb3a618211aa": {
       "confidence": 0.4,
@@ -17056,6 +17175,22 @@
       "tweet_id": "2115092506451075479",
       "type": "sha256",
       "value": "269ad9fafbd5999483ad234a867beb4a7db0d55dea8b85bfbfe8ac163041b24d"
+    },
+    "26e363ee33b559e417cb01114857bf0d729b3d8733602fcf84405c177f2a48f6": {
+      "confidence": 0.8,
+      "date": "2026-11-10 11:22:46",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "Formbook",
+      "suggested_tags": [
+        "formbook",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "Formbook infostealer delivering a PowerShell script from a compromised WordPress site at rush360.net (138.201.211.238).",
+      "threat_type": "malware",
+      "tweet_id": "2120114942724706758",
+      "type": "sha256",
+      "value": "26e363ee33b559e417cb01114857bf0d729b3d8733602fcf84405c177f2a48f6"
     },
     "26etou1.cn": {
       "confidence": 0.7,
@@ -27968,6 +28103,21 @@
       "type": "sha256",
       "value": "3c02d7ae944d50602e816ff4c17a5f35f166719279ecfab45469c156b87f17a0"
     },
+    "3c609886f8b49ebfd7c7c279abc74cb4": {
+      "confidence": 0.7,
+      "date": "2026-11-10 08:53:44",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "RevStealer",
+      "suggested_tags": [
+        "stealer",
+        "malware"
+      ],
+      "summary": "REF2859 intrusion set using RevStealer and XMRig, with cheat-themed domains distributing malware.",
+      "threat_type": "malware",
+      "tweet_id": "2120077435005706576",
+      "type": "md5",
+      "value": "3c609886f8b49ebfd7c7c279abc74cb4"
+    },
     "3cdffc93.fase-x.com": {
       "confidence": 0.9,
       "date": "2026-10-19 03:54:01",
@@ -30702,6 +30852,21 @@
       "type": "md5",
       "value": "4d1766e6cd46d8a277bcac1baadf6bcb"
     },
+    "4d9327525c4ed90ee9e9699b073c6f56dd552935032a992ab998765435b92338": {
+      "confidence": 0.6,
+      "date": "2026-11-10 10:57:03",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "avonloaim.exe sample tied to a C2 panel at api.avonlo.com:3000 and 199.91.221.237:3000.",
+      "threat_type": "c2",
+      "tweet_id": "2120108468103229463",
+      "type": "sha256",
+      "value": "4d9327525c4ed90ee9e9699b073c6f56dd552935032a992ab998765435b92338"
+    },
     "4da2429b8cde5e987a1f5b63e85e004e": {
       "confidence": 0.3,
       "date": "2026-10-27 08:12:30",
@@ -31171,6 +31336,22 @@
       "type": "sha256",
       "value": "5051b4b91de8fbebb31884cf3be01fb381ce6e9704fa0272e8a6b1b50b78caf7"
     },
+    "507a7e54ef1c1774a29f6e9e5379754bf2491b133054a78d1984e2597b93ad5a": {
+      "confidence": 0.75,
+      "date": "2026-11-10 03:59:51",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as a Mitsui Sumitomo card app, distributed via phishing site guangchunbelt-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2120003477116252394",
+      "type": "sha256",
+      "value": "507a7e54ef1c1774a29f6e9e5379754bf2491b133054a78d1984e2597b93ad5a"
+    },
     "50f8efd52cbdcdbda8ab2995168257f02a4f72fd21935af865ed1347c11825e5": {
       "confidence": 0.55,
       "date": "2026-11-02 22:10:46",
@@ -31567,6 +31748,20 @@
       "tweet_id": "2115547494507594049",
       "type": "sha256",
       "value": "560c1b90739343ea70a38ce5ad1c37e7b8cbc99308e45a40a1560a7de63c51a1"
+    },
+    "56899c2a305d2cc4704ae5090015820de67e827374fc46ba7413411a85b05f1d": {
+      "confidence": 0.3,
+      "date": "2026-11-10 10:38:40",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Executable masquerading as 'msedge.exe' seen from India, uploaded to MalwareBazaar; family not identified.",
+      "threat_type": "malware",
+      "tweet_id": "2120103843019030636",
+      "type": "sha256",
+      "value": "56899c2a305d2cc4704ae5090015820de67e827374fc46ba7413411a85b05f1d"
     },
     "56a0d63a0b5a99d76a71e81b1a9b760c": {
       "confidence": 0.75,
@@ -33107,6 +33302,20 @@
       "type": "sha256",
       "value": "6f5519e8ec9d99082f1175e3446453bb534b4248dbc3e387f79ac5dd1b40497b"
     },
+    "6f8ad8de03283ea13b1bdd48cbcbd4b35ebe65dd9b149c27eff718c2e8628c0e": {
+      "confidence": 0.5,
+      "date": "2026-11-10 11:22:46",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Japanese-language malspam with a zip attachment containing a .wsf script, posing as a quote request, aimed at malware infection.",
+      "threat_type": "malware",
+      "tweet_id": "2120114940791103856",
+      "type": "sha256",
+      "value": "6f8ad8de03283ea13b1bdd48cbcbd4b35ebe65dd9b149c27eff718c2e8628c0e"
+    },
     "6fddd89aab92cab1eabd77f23468f07c8590890146e16daa84aea1f2a3f0ff45": {
       "confidence": 0.8,
       "date": "2026-10-13 05:26:48",
@@ -33675,6 +33884,22 @@
       "tweet_id": "2118432402015948849",
       "type": "ip",
       "value": "78.141.211.155"
+    },
+    "780fa4d52e121810b8a350fe52ba14495ea830ff71cf24d3a08f8027c3403d7e": {
+      "confidence": 0.8,
+      "date": "2026-11-10 06:37:43",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "WEEDStealer",
+      "suggested_tags": [
+        "c2",
+        "stealer",
+        "infostealer"
+      ],
+      "summary": "WEEDStealer C2 panel at weedstealer.xyz (172.86.118.49) with associated sample hash.",
+      "threat_type": "c2",
+      "tweet_id": "2120043207895752987",
+      "type": "sha256",
+      "value": "780fa4d52e121810b8a350fe52ba14495ea830ff71cf24d3a08f8027c3403d7e"
     },
     "782b519154f11ae211cae0e8c4f0c9d8ca1c078d904684bc8923b978c6813898": {
       "confidence": 0.85,
@@ -35907,6 +36132,22 @@
       "type": "sha256",
       "value": "8e8a79a84d0ac53e7b6d4a8c7f6b94417a5f7929213bff394cddd795ed3c6f17"
     },
+    "8f43091a979666dc52ecae684c792eac": {
+      "confidence": 0.8,
+      "date": "2026-11-10 10:12:52",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "Braodo Stealer",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "Braodo Stealer delivered via a RAR lure, downloading payload and Python library from attacker GitHub accounts.",
+      "threat_type": "malware",
+      "tweet_id": "2120097350622347346",
+      "type": "md5",
+      "value": "8f43091a979666dc52ecae684c792eac"
+    },
     "8f4903b8b110ec1b9580a5a27bf49c3e4793538a863100559d085b7545fcda25": {
       "confidence": 0.9,
       "date": "2026-10-12 14:18:17",
@@ -37538,6 +37779,23 @@
       "type": "sha256",
       "value": "a15b44f855f4f415ff40faecd3e5b9a16aff571a266d8d6e2764f05e0900579e"
     },
+    "a19e768f170561ac19b8b62533643185b80b4facdf387e805f8485d10da80f3d": {
+      "confidence": 0.85,
+      "date": "2026-11-10 08:55:10",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "trojan",
+        "malware"
+      ],
+      "summary": "ClickFix page impersonating Cloudflare tricks users into running PowerShell that downloads a trojan disguised as balenaEtcher_2.exe.",
+      "threat_type": "malware",
+      "tweet_id": "2120077797632905374",
+      "type": "sha256",
+      "value": "a19e768f170561ac19b8b62533643185b80b4facdf387e805f8485d10da80f3d"
+    },
     "a1bd1a3af026c176afe52c941622858227214d0aa5234b2d791a1631ea20ea0c": {
       "confidence": 0.7,
       "date": "2026-11-03 07:04:37",
@@ -38417,6 +38675,21 @@
       "tweet_id": "2118640538286985396",
       "type": "domain",
       "value": "addyourpasskey.com"
+    },
+    "adf0957559b8914b125ef263959f2882481df3b5dd0472888bf07e4e455a5d34": {
+      "confidence": 0.6,
+      "date": "2026-11-10 12:02:45",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Signed fake Windows DLL backdoor abusing BITS notify command for persistence; possible APT sample, sha256 uploaded to MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2120125002838130853",
+      "type": "sha256",
+      "value": "adf0957559b8914b125ef263959f2882481df3b5dd0472888bf07e4e455a5d34"
     },
     "admin.model-point.click": {
       "confidence": 0.2,
@@ -39900,6 +40173,49 @@
       "tweet_id": "2115730468264182255",
       "type": "domain",
       "value": "api-webvision.com"
+    },
+    "api.avonlo.com": {
+      "confidence": 0.65,
+      "date": "2026-11-10 10:57:03",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Panel titled 'C2' hosted at api.avonlo.com:3000 and 199.91.221.237:3000.",
+      "threat_type": "c2",
+      "tweet_id": "2120108206466925028",
+      "type": "domain",
+      "value": "api.avonlo.com"
+    },
+    "api.avonlo.com:3000": {
+      "confidence": 0.65,
+      "date": "2026-11-10 10:57:03",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Panel titled 'C2' hosted at api.avonlo.com:3000 and 199.91.221.237:3000.",
+      "threat_type": "c2",
+      "tweet_id": "2120108206466925028",
+      "type": "url",
+      "value": "http://api.avonlo.com:3000"
+    },
+    "api.avonlo.com:3000/v1/assets/cache.js": {
+      "confidence": 0.55,
+      "date": "2026-11-10 11:07:39",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "URL on api.avonlo.com:3000 serving cache.js, related to avonloaim.exe sample whose panel is titled 'C2'.",
+      "threat_type": "c2",
+      "tweet_id": "2120111138784395510",
+      "type": "url",
+      "value": "http://api.avonlo.com:3000/v1/assets/cache.js"
     },
     "api.brandogdigital.org": {
       "confidence": 0.9,
@@ -43695,6 +44011,21 @@
       "type": "sha256",
       "value": "b199422fe5f11a4c532f05fbca85446edd426c70fb4f330bb7f78e566f5bd66a"
     },
+    "b2e255a8054625c702abf025752dd37d": {
+      "confidence": 0.7,
+      "date": "2026-11-10 08:53:44",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "RevStealer",
+      "suggested_tags": [
+        "stealer",
+        "malware"
+      ],
+      "summary": "REF2859 intrusion set using RevStealer and XMRig, with cheat-themed domains distributing malware.",
+      "threat_type": "malware",
+      "tweet_id": "2120077435005706576",
+      "type": "md5",
+      "value": "b2e255a8054625c702abf025752dd37d"
+    },
     "b318e8af1ad0a5991c98db40a9565cbb421808b61521adaa5910d7fdc26605b9": {
       "confidence": 0.5,
       "date": "2026-11-05 13:25:23",
@@ -46772,24 +47103,6 @@
       "type": "url",
       "value": "https://branthoven.cfd/identifier/#/index"
     },
-    "brantwork.vercel.app": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:25:11",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": "XenoRAT",
-      "suggested_tags": [
-        "kimsuky",
-        "lazarus",
-        "dprk",
-        "apt",
-        "rat"
-      ],
-      "summary": "DPRK-linked infrastructure: Kimsuky MoonPeak/XenoRAT delivery and Lazarus Contagious Interview/Wagemole lures, plus related C2 and fake recruitment domains.",
-      "threat_type": "malware",
-      "tweet_id": "2109259011052933438",
-      "type": "domain",
-      "value": "brantwork.vercel.app"
-    },
     "brave-whatsapp.com": {
       "confidence": 0.7,
       "date": "2026-10-20 16:34:59",
@@ -47215,24 +47528,6 @@
       "tweet_id": "2119391752167768424",
       "type": "url",
       "value": "https://buildwithknexus.xyz/check_m"
-    },
-    "businesshire.top": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:25:11",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": "XenoRAT",
-      "suggested_tags": [
-        "kimsuky",
-        "lazarus",
-        "dprk",
-        "apt",
-        "rat"
-      ],
-      "summary": "DPRK-linked infrastructure: Kimsuky MoonPeak/XenoRAT delivery and Lazarus Contagious Interview/Wagemole lures, plus related C2 and fake recruitment domains.",
-      "threat_type": "malware",
-      "tweet_id": "2109259011052933438",
-      "type": "domain",
-      "value": "businesshire.top"
     },
     "buz-whatsapp.com": {
       "confidence": 0.65,
@@ -48773,6 +49068,23 @@
       "type": "sha256",
       "value": "cbc7daf17c4feded3d25c3116e0c27ceda94268d1eb73ba65299b4fdd9d83ef6"
     },
+    "cc012b669596aa4e5250d4a77b65a2ac52b3fc66bb01d9a45d6b1062d35e548e": {
+      "confidence": 0.85,
+      "date": "2026-11-10 09:19:17",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware",
+        "trojan"
+      ],
+      "summary": "ClickFix campaign impersonating Cloudflare verification; PowerShell via Win+R downloads Outline.zip and runs outline.exe via scheduled task.",
+      "threat_type": "malware",
+      "tweet_id": "2120083867428417712",
+      "type": "sha256",
+      "value": "cc012b669596aa4e5250d4a77b65a2ac52b3fc66bb01d9a45d6b1062d35e548e"
+    },
     "ccb014ba9a9dd62a2ace683183fbcda8b577de7239afc2bd3eb01c8dade04b9c": {
       "confidence": 0.5,
       "date": "2026-10-17 20:33:44",
@@ -49195,42 +49507,6 @@
       "type": "domain",
       "value": "cgazkyh.cn"
     },
-    "ch.10001mb.com": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:25:11",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": "XenoRAT",
-      "suggested_tags": [
-        "kimsuky",
-        "lazarus",
-        "dprk",
-        "apt",
-        "rat"
-      ],
-      "summary": "DPRK-linked infrastructure: Kimsuky MoonPeak/XenoRAT delivery and Lazarus Contagious Interview/Wagemole lures, plus related C2 and fake recruitment domains.",
-      "threat_type": "malware",
-      "tweet_id": "2109259011052933438",
-      "type": "domain",
-      "value": "ch.10001mb.com"
-    },
-    "ch.10001mb.com/mort.php": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:25:11",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": "XenoRAT",
-      "suggested_tags": [
-        "kimsuky",
-        "lazarus",
-        "dprk",
-        "apt",
-        "rat"
-      ],
-      "summary": "DPRK-linked infrastructure: Kimsuky MoonPeak/XenoRAT delivery and Lazarus Contagious Interview/Wagemole lures, plus related C2 and fake recruitment domains.",
-      "threat_type": "malware",
-      "tweet_id": "2109259011052933438",
-      "type": "url",
-      "value": "http://ch.10001mb.com/mort.php"
-    },
     "chainvex.cam": {
       "confidence": 0.7,
       "date": "2026-10-19 21:28:27",
@@ -49490,6 +49766,21 @@
       "tweet_id": "2115852085665173723",
       "type": "domain",
       "value": "cheapmovies.sbs"
+    },
+    "cheatseller.com": {
+      "confidence": 0.7,
+      "date": "2026-11-10 08:53:44",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "RevStealer",
+      "suggested_tags": [
+        "stealer",
+        "malware"
+      ],
+      "summary": "REF2859 intrusion set using RevStealer and XMRig, with cheat-themed domains distributing malware.",
+      "threat_type": "malware",
+      "tweet_id": "2120077435005706576",
+      "type": "domain",
+      "value": "cheatseller.com"
     },
     "check.neewsoo.com": {
       "confidence": 0.5,
@@ -50033,6 +50324,125 @@
       "type": "domain",
       "value": "cloudenterpriseve.com"
     },
+    "cloudfiare-verification.app": {
+      "confidence": 0.85,
+      "date": "2026-11-10 09:19:17",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware",
+        "trojan"
+      ],
+      "summary": "ClickFix campaign impersonating Cloudflare verification; PowerShell via Win+R downloads Outline.zip and runs outline.exe via scheduled task.",
+      "threat_type": "malware",
+      "tweet_id": "2120083867428417712",
+      "type": "domain",
+      "value": "cloudfiare-verification.app"
+    },
+    "cloudfiare-verification.net": {
+      "confidence": 0.85,
+      "date": "2026-11-10 09:19:17",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware",
+        "trojan"
+      ],
+      "summary": "ClickFix campaign impersonating Cloudflare verification; PowerShell via Win+R downloads Outline.zip and runs outline.exe via scheduled task.",
+      "threat_type": "malware",
+      "tweet_id": "2120083867428417712",
+      "type": "domain",
+      "value": "cloudfiare-verification.net"
+    },
+    "cloudfiare.io": {
+      "confidence": 0.85,
+      "date": "2026-11-10 09:19:17",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware",
+        "trojan"
+      ],
+      "summary": "ClickFix campaign impersonating Cloudflare verification; PowerShell via Win+R downloads Outline.zip and runs outline.exe via scheduled task.",
+      "threat_type": "malware",
+      "tweet_id": "2120083867428417712",
+      "type": "domain",
+      "value": "cloudfiare.io"
+    },
+    "cloudfiare.io/outline.zip": {
+      "confidence": 0.85,
+      "date": "2026-11-10 09:19:17",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware",
+        "trojan"
+      ],
+      "summary": "ClickFix campaign impersonating Cloudflare verification; PowerShell via Win+R downloads Outline.zip and runs outline.exe via scheduled task.",
+      "threat_type": "malware",
+      "tweet_id": "2120083867428417712",
+      "type": "url",
+      "value": "https://cloudfiare.io/Outline.zip"
+    },
+    "cloudfiare.io/u": {
+      "confidence": 0.85,
+      "date": "2026-11-10 09:19:17",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware",
+        "trojan"
+      ],
+      "summary": "ClickFix campaign impersonating Cloudflare verification; PowerShell via Win+R downloads Outline.zip and runs outline.exe via scheduled task.",
+      "threat_type": "malware",
+      "tweet_id": "2120083867428417712",
+      "type": "url",
+      "value": "https://cloudfiare.io/u/"
+    },
+    "cloudfiare.io/u/?a": {
+      "confidence": 0.85,
+      "date": "2026-11-10 09:19:17",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware",
+        "trojan"
+      ],
+      "summary": "ClickFix campaign impersonating Cloudflare verification; PowerShell via Win+R downloads Outline.zip and runs outline.exe via scheduled task.",
+      "threat_type": "malware",
+      "tweet_id": "2120083867428417712",
+      "type": "url",
+      "value": "https://cloudfiare.io/u/?a"
+    },
+    "cloudflare.life": {
+      "confidence": 0.85,
+      "date": "2026-11-10 08:55:10",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "trojan",
+        "malware"
+      ],
+      "summary": "ClickFix page impersonating Cloudflare tricks users into running PowerShell that downloads a trojan disguised as balenaEtcher_2.exe.",
+      "threat_type": "malware",
+      "tweet_id": "2120077797632905374",
+      "type": "domain",
+      "value": "cloudflare.life"
+    },
     "cloudlink-whatsapp.com": {
       "confidence": 0.7,
       "date": "2026-10-20 16:34:59",
@@ -50480,21 +50890,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "commit-whatsapp.com"
-    },
-    "comomudarsuamente.com": {
-      "confidence": 0.6,
-      "date": "2026-10-11 11:50:08",
-      "enriched_at": "2026-10-11T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "phishing"
-      ],
-      "summary": "Website comomudarsuamente[.]com flagged by an online scanner as a confirmed scam.",
-      "threat_type": "scam",
-      "tweet_id": "2109250190955655535",
-      "type": "domain",
-      "value": "comomudarsuamente.com"
     },
     "configuremysso.com": {
       "confidence": 0.8,
@@ -51288,6 +51683,20 @@
       "tweet_id": "2118323178057404438",
       "type": "md5",
       "value": "d3f4e95113d49ab3991b45e457bda75b"
+    },
+    "d4f891f349710d0b36218a6c7dd3f72d1dc554c6207c81a142cc1c2bca155ba1": {
+      "confidence": 0.3,
+      "date": "2026-11-10 10:51:06",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Executable 'bot.exe' sample seen from Spain, uploaded to MalwareBazaar; family not identified.",
+      "threat_type": "malware",
+      "tweet_id": "2120106972112445605",
+      "type": "sha256",
+      "value": "d4f891f349710d0b36218a6c7dd3f72d1dc554c6207c81a142cc1c2bca155ba1"
     },
     "d53128ca7057a8bcc362f2c8ea30fcce": {
       "confidence": 0.6,
@@ -55597,6 +56006,36 @@
       "type": "domain",
       "value": "egrweb-whatsapp.com"
     },
+    "elitecheatsx.live": {
+      "confidence": 0.7,
+      "date": "2026-11-10 08:53:44",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "RevStealer",
+      "suggested_tags": [
+        "stealer",
+        "malware"
+      ],
+      "summary": "REF2859 intrusion set using RevStealer and XMRig, with cheat-themed domains distributing malware.",
+      "threat_type": "malware",
+      "tweet_id": "2120077435005706576",
+      "type": "domain",
+      "value": "elitecheatsx.live"
+    },
+    "elitemods.shop": {
+      "confidence": 0.7,
+      "date": "2026-11-10 08:53:44",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "RevStealer",
+      "suggested_tags": [
+        "stealer",
+        "malware"
+      ],
+      "summary": "REF2859 intrusion set using RevStealer and XMRig, with cheat-themed domains distributing malware.",
+      "threat_type": "malware",
+      "tweet_id": "2120077435005706576",
+      "type": "domain",
+      "value": "elitemods.shop"
+    },
     "elitewealthdaily.com": {
       "confidence": 0.8,
       "date": "2026-11-05 02:04:22",
@@ -59625,6 +60064,22 @@
       "type": "url",
       "value": "http://github.com/mariaaefyw"
     },
+    "github.com/thaeudt-11": {
+      "confidence": 0.8,
+      "date": "2026-11-10 10:12:52",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "Braodo Stealer",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "Braodo Stealer delivered via a RAR lure, downloading payload and Python library from attacker GitHub accounts.",
+      "threat_type": "malware",
+      "tweet_id": "2120097350622347346",
+      "type": "url",
+      "value": "http://github.com/Thaeudt-11"
+    },
     "github.com/udt-101026": {
       "confidence": 0.85,
       "date": "2026-11-03 11:23:59",
@@ -59654,6 +60109,22 @@
       "tweet_id": "2115782210032705604",
       "type": "url",
       "value": "https://github.com/udt-101026/thaem/raw/main/udt.bat"
+    },
+    "github.com/xt-faca": {
+      "confidence": 0.8,
+      "date": "2026-11-10 10:12:52",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "Braodo Stealer",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "Braodo Stealer delivered via a RAR lure, downloading payload and Python library from attacker GitHub accounts.",
+      "threat_type": "malware",
+      "tweet_id": "2120097350622347346",
+      "type": "url",
+      "value": "http://github.com/XT-faca"
     },
     "gitlab.com/up-indexings/tasks/-/raw/main/config.json": {
       "confidence": 0.88,
@@ -60165,6 +60636,22 @@
       "type": "domain",
       "value": "groups.webstatici-whatsapp.com"
     },
+    "guangchunbelt-jp.com": {
+      "confidence": 0.75,
+      "date": "2026-11-10 03:59:51",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as a Mitsui Sumitomo card app, distributed via phishing site guangchunbelt-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2120003477116252394",
+      "type": "domain",
+      "value": "guangchunbelt-jp.com"
+    },
     "guanlansec.com": {
       "confidence": 0.45,
       "date": "2026-10-30 18:48:12",
@@ -60617,6 +61104,22 @@
       "type": "domain",
       "value": "healthlicensefl.vercel.app"
     },
+    "healthlys.com": {
+      "confidence": 0.6,
+      "date": "2026-11-10 12:02:45",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "apt"
+      ],
+      "summary": "Signed backdoor using BITS notify for persistence; C2 domains healthlys.com and sync-endpoint.azurewebsites.net; possibly Iranian APT, low AV detection.",
+      "threat_type": "c2",
+      "tweet_id": "2120121878245474775",
+      "type": "domain",
+      "value": "healthlys.com"
+    },
     "heightsviha-jp.com": {
       "confidence": 0.8,
       "date": "2026-11-04 00:42:01",
@@ -60807,6 +61310,40 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "hi.webhwsapp-whatsapp.com"
+    },
+    "hidread.net": {
+      "confidence": 0.85,
+      "date": "2026-11-10 08:55:10",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "trojan",
+        "malware"
+      ],
+      "summary": "ClickFix page impersonating Cloudflare tricks users into running PowerShell that downloads a trojan disguised as balenaEtcher_2.exe.",
+      "threat_type": "malware",
+      "tweet_id": "2120077797632905374",
+      "type": "domain",
+      "value": "hidread.net"
+    },
+    "hidread.net/second/645228a4851493dd": {
+      "confidence": 0.85,
+      "date": "2026-11-10 08:55:10",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "trojan",
+        "malware"
+      ],
+      "summary": "ClickFix page impersonating Cloudflare tricks users into running PowerShell that downloads a trojan disguised as balenaEtcher_2.exe.",
+      "threat_type": "malware",
+      "tweet_id": "2120077797632905374",
+      "type": "url",
+      "value": "http://hidread.net/second/645228a4851493dd"
     },
     "hik.gettingheadfromduckysmom.st": {
       "confidence": 0.8,
@@ -61423,6 +61960,20 @@
       "tweet_id": "2117638051925221815",
       "type": "domain",
       "value": "hubert-chauffage.fr"
+    },
+    "hubfeedback.com": {
+      "confidence": 0.8,
+      "date": "2026-11-10 08:49:37",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site hubfeedback.com hosted at 153.52.255.25 on Railway (AS400940), United States.",
+      "threat_type": "phishing",
+      "tweet_id": "2120076398950040023",
+      "type": "domain",
+      "value": "hubfeedback.com"
     },
     "hubkit-whatsapp.com": {
       "confidence": 0.65,
@@ -63163,24 +63714,6 @@
       "type": "domain",
       "value": "karichilevels.click"
     },
-    "kb102531x.vercel.app": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:25:11",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": "XenoRAT",
-      "suggested_tags": [
-        "kimsuky",
-        "lazarus",
-        "dprk",
-        "apt",
-        "rat"
-      ],
-      "summary": "DPRK-linked infrastructure: Kimsuky MoonPeak/XenoRAT delivery and Lazarus Contagious Interview/Wagemole lures, plus related C2 and fake recruitment domains.",
-      "threat_type": "malware",
-      "tweet_id": "2109259011052933438",
-      "type": "domain",
-      "value": "kb102531x.vercel.app"
-    },
     "kbardiwali.fun": {
       "confidence": 0.75,
       "date": "2026-11-05 21:08:55",
@@ -63588,6 +64121,21 @@
       "tweet_id": "2110320462786122062",
       "type": "domain",
       "value": "kjhg.shop"
+    },
+    "klenna.top": {
+      "confidence": 0.4,
+      "date": "2026-11-10 11:35:46",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Suspicious domain klenna.top and IP 150.40.98.204 tied to a malicious VHDX sample; likely malware infrastructure.",
+      "threat_type": "c2",
+      "tweet_id": "2120116871127355408",
+      "type": "domain",
+      "value": "klenna.top"
     },
     "knife-whatsapp.com": {
       "confidence": 0.65,
@@ -64480,6 +65028,20 @@
       "type": "domain",
       "value": "llsbsnls.suplayer810.workers.dev"
     },
+    "loaderyodclick.com": {
+      "confidence": 0.3,
+      "date": "2026-11-10 09:23:11",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Domain loaderyodclick.com flagged as likely malware loader or ClickFix-related infrastructure; little context.",
+      "threat_type": "malware",
+      "tweet_id": "2120084847607628250",
+      "type": "domain",
+      "value": "loaderyodclick.com"
+    },
     "loanfairfield.com": {
       "confidence": 0.8,
       "date": "2026-10-14 00:03:18",
@@ -65179,21 +65741,6 @@
       "tweet_id": "2116515987667214598",
       "type": "domain",
       "value": "mail-googleaccounts-verification.uw.ua"
-    },
-    "mail-mof-gov-np.netlify.app": {
-      "confidence": 0.6,
-      "date": "2026-10-11 07:41:10",
-      "enriched_at": "2026-10-11T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Netlify-hosted domain mimicking a Nepal government finance ministry mail portal, flagged as a confirmed scam by an online scanner.",
-      "threat_type": "phishing",
-      "tweet_id": "2109187538392936840",
-      "type": "domain",
-      "value": "mail-mof-gov-np.netlify.app"
     },
     "mail.intomahost2.com": {
       "confidence": 0.9,
@@ -67964,24 +68511,6 @@
       "tweet_id": "2113308058629853206",
       "type": "domain",
       "value": "ntp.reposync.to"
-    },
-    "nvidiasdk.fly.dev": {
-      "confidence": 0.6,
-      "date": "2026-10-11 12:25:11",
-      "enriched_at": "2026-10-11T18:40:03Z",
-      "family": "XenoRAT",
-      "suggested_tags": [
-        "kimsuky",
-        "lazarus",
-        "dprk",
-        "apt",
-        "rat"
-      ],
-      "summary": "DPRK-linked infrastructure: Kimsuky MoonPeak/XenoRAT delivery and Lazarus Contagious Interview/Wagemole lures, plus related C2 and fake recruitment domains.",
-      "threat_type": "malware",
-      "tweet_id": "2109259011052933438",
-      "type": "domain",
-      "value": "nvidiasdk.fly.dev"
     },
     "nxmpv.addbazaar.com": {
       "confidence": 0.9,
@@ -71344,6 +71873,21 @@
       "type": "domain",
       "value": "res65.traffer.net"
     },
+    "resight-cheats.net": {
+      "confidence": 0.7,
+      "date": "2026-11-10 08:53:44",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "RevStealer",
+      "suggested_tags": [
+        "stealer",
+        "malware"
+      ],
+      "summary": "REF2859 intrusion set using RevStealer and XMRig, with cheat-themed domains distributing malware.",
+      "threat_type": "malware",
+      "tweet_id": "2120077435005706576",
+      "type": "domain",
+      "value": "resight-cheats.net"
+    },
     "resolver-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -72025,6 +72569,38 @@
       "type": "domain",
       "value": "runuse-whatsapp.com"
     },
+    "rush360.net": {
+      "confidence": 0.8,
+      "date": "2026-11-10 11:22:46",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "Formbook",
+      "suggested_tags": [
+        "formbook",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "Formbook infostealer delivering a PowerShell script from a compromised WordPress site at rush360.net (138.201.211.238).",
+      "threat_type": "malware",
+      "tweet_id": "2120114942724706758",
+      "type": "domain",
+      "value": "rush360.net"
+    },
+    "rush360.net/wp-includes/html-api/zhjg1sy/1twqgjo/se1kvpg/pwkmk.ps1": {
+      "confidence": 0.8,
+      "date": "2026-11-10 11:22:46",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "Formbook",
+      "suggested_tags": [
+        "formbook",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "Formbook infostealer delivering a PowerShell script from a compromised WordPress site at rush360.net (138.201.211.238).",
+      "threat_type": "malware",
+      "tweet_id": "2120114942724706758",
+      "type": "url",
+      "value": "https://rush360.net/wp-includes/html-api/zhjg1sy/1twqgjo/se1kvpg/PWKMK.ps1"
+    },
     "ruyibebe.com": {
       "confidence": 0.8,
       "date": "2026-10-12 22:28:00",
@@ -72345,6 +72921,21 @@
       "tweet_id": "2117603145832353872",
       "type": "domain",
       "value": "santander.nfcobsidian.com"
+    },
+    "satano.xyz": {
+      "confidence": 0.7,
+      "date": "2026-11-10 08:53:44",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": "RevStealer",
+      "suggested_tags": [
+        "stealer",
+        "malware"
+      ],
+      "summary": "REF2859 intrusion set using RevStealer and XMRig, with cheat-themed domains distributing malware.",
+      "threat_type": "malware",
+      "tweet_id": "2120077435005706576",
+      "type": "domain",
+      "value": "satano.xyz"
     },
     "savmtapp.b-cdn.net": {
       "confidence": 0.55,
@@ -76219,6 +76810,22 @@
       "tweet_id": "2115526217537298573",
       "type": "domain",
       "value": "sync-app.at"
+    },
+    "sync-endpoint.azurewebsites.net": {
+      "confidence": 0.6,
+      "date": "2026-11-10 12:02:45",
+      "enriched_at": "2026-11-10T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "apt"
+      ],
+      "summary": "Signed backdoor using BITS notify for persistence; C2 domains healthlys.com and sync-endpoint.azurewebsites.net; possibly Iranian APT, low AV detection.",
+      "threat_type": "c2",
+      "tweet_id": "2120121878245474775",
+      "type": "domain",
+      "value": "sync-endpoint.azurewebsites.net"
     },
     "sync-user.to": {
       "confidence": 0.8,
@@ -83777,6 +84384,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-10T06:40:05Z",
+  "generated_at": "2026-11-10T12:40:04Z",
   "window_days": 30
 }
