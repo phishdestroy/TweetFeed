@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2557
-; Updated: 2026-11-10T13:45:17Z
+; Entries: 2561
+; Updated: 2026-11-10T14:15:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794318317 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794320119 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -732,6 +732,8 @@ apps.webstatici-whatsapp.com CNAME .
 *.apps.webstatici-whatsapp.com CNAME .
 appsec-whatsapp.com CNAME .
 *.appsec-whatsapp.com CNAME .
+apt-finder.org CNAME .
+*.apt-finder.org CNAME .
 ar-ae.webhwsapp-whatsapp.com CNAME .
 *.ar-ae.webhwsapp-whatsapp.com CNAME .
 ar-eg.webhwsapp-whatsapp.com CNAME .
@@ -746,6 +748,8 @@ arkgrup.com CNAME .
 *.arkgrup.com CNAME .
 aroqwxh.cn CNAME .
 *.aroqwxh.cn CNAME .
+arrivals-creative.com CNAME .
+*.arrivals-creative.com CNAME .
 arvion.network CNAME .
 *.arvion.network CNAME .
 asdkjcn30r9.mygamesonline.org CNAME .
@@ -2268,6 +2272,10 @@ forumst.co.kr CNAME .
 *.forumst.co.kr CNAME .
 forzaverification.com CNAME .
 *.forzaverification.com CNAME .
+fourset.digital CNAME .
+*.fourset.digital CNAME .
+foursets.agency CNAME .
+*.foursets.agency CNAME .
 foxnevs.com CNAME .
 *.foxnevs.com CNAME .
 fpnov4-zone.eastus.cloudapp.azure.com CNAME .
