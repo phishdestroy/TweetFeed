@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-10 03:45:19 (UTC)</th>
+        <th colspan=4>2026-11-10 04:00:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,8 +187,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 4 | 632 | 3144 | 44230 |
-| **:globe_with_meridians: Domains** | 4 | 537 | 2634 | 38059 |
+| **:link: URLs** | 5 | 633 | 3145 | 44231 |
+| **:globe_with_meridians: Domains** | 5 | 538 | 2635 | 38060 |
 | **:triangular_flag_on_post: IPs** | 0 | 152 | 2241 | 8033 |
 | **:1234: SHA256** | 0 | 164 | 550 | 3220 |
 | **:1234: MD5** | 0 | 23 | 110 | 2044 |
@@ -210,7 +210,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#malware** | 2 | 183 | 1179 | 4252 |
 | **#scam** | 2 | 6 | 40 | 2824 |
 | **#C2** | 0 | 53 | 155 | 2149 |
-| **#APT** | 0 | 20 | 60 | 1473 |
+| **#APT** | 2 | 22 | 62 | 1475 |
 | **#ClickFix** | 0 | 106 | 279 | 1231 |
 | **#ransomware** | 0 | 7 | 87 | 691 |
 | **#opendir** | 0 | 10 | 21 | 683 |
@@ -232,7 +232,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 | **#2** | [naumovax](https://x.com/naumovax) | 2 |
 | **#3** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#4** | [-](https://x.com/-) | 0 |
+| **#4** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
 | **#5** | [-](https://x.com/-) | 0 |
 | **#6** | [-](https://x.com/-) | 0 |
 | **#7** | [-](https://x.com/-) | 0 |
