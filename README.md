@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-10 12:00:27 (UTC)</th>
+        <th colspan=4>2026-11-10 12:15:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,10 +187,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 37 | 665 | 3177 | 44263 |
-| **:globe_with_meridians: Domains** | 27 | 560 | 2657 | 38082 |
+| **:link: URLs** | 39 | 667 | 3179 | 44265 |
+| **:globe_with_meridians: Domains** | 29 | 562 | 2659 | 38084 |
 | **:triangular_flag_on_post: IPs** | 5 | 157 | 2246 | 8038 |
-| **:1234: SHA256** | 11 | 175 | 561 | 3231 |
+| **:1234: SHA256** | 12 | 176 | 562 | 3232 |
 | **:1234: MD5** | 5 | 28 | 115 | 2049 |
 
 </div>
@@ -235,10 +235,10 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#4** | [skocherhan](https://x.com/skocherhan) | 9 |
 | **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 8 |
 | **#6** | [bomccss](https://x.com/bomccss) | 8 |
-| **#7** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#8** | [smica83](https://x.com/smica83) | 4 |
-| **#9** | [masaomi346](https://x.com/masaomi346) | 3 |
-| **#10** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#7** | [smica83](https://x.com/smica83) | 5 |
+| **#8** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#9** | [SquiblydooBlog](https://x.com/SquiblydooBlog) | 4 |
+| **#10** | [masaomi346](https://x.com/masaomi346) | 3 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
