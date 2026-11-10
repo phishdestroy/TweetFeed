@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2553
-; Updated: 2026-11-10T12:15:17Z
+; Entries: 2556
+; Updated: 2026-11-10T13:30:24Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794312917 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794317424 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -286,6 +286,8 @@ ang-whatsapp.com CNAME .
 *.ang-whatsapp.com CNAME .
 anh-whatsapp.com CNAME .
 *.anh-whatsapp.com CNAME .
+aniv.bpovexd.cn CNAME .
+*.aniv.bpovexd.cn CNAME .
 aniv.dqtjvxa.cn CNAME .
 *.aniv.dqtjvxa.cn CNAME .
 aniv.ergstlj.cn CNAME .
@@ -2626,6 +2628,8 @@ input-whatsapp.com CNAME .
 *.input-whatsapp.com CNAME .
 insicdesignszu.com CNAME .
 *.insicdesignszu.com CNAME .
+instagram-services.com CNAME .
+*.instagram-services.com CNAME .
 instagram-verifica.freemyip.com CNAME .
 *.instagram-verifica.freemyip.com CNAME .
 instagram.82.165.110.7.backname.io CNAME .
@@ -3974,6 +3978,8 @@ shewailvsh-jp.com CNAME .
 *.shewailvsh-jp.com CNAME .
 shield-whatsapp.com CNAME .
 *.shield-whatsapp.com CNAME .
+shopfc24h.com CNAME .
+*.shopfc24h.com CNAME .
 shoppingbasketweekly.info CNAME .
 *.shoppingbasketweekly.info CNAME .
 signal-whatsapp.com CNAME .

@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-10 13:15:20 (UTC)</th>
+        <th colspan=4>2026-11-10 13:30:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,9 +187,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 39 | 667 | 3179 | 44265 |
-| **:globe_with_meridians: Domains** | 29 | 562 | 2659 | 38084 |
-| **:triangular_flag_on_post: IPs** | 5 | 157 | 2246 | 8038 |
+| **:link: URLs** | 42 | 670 | 3182 | 44268 |
+| **:globe_with_meridians: Domains** | 32 | 565 | 2662 | 38087 |
+| **:triangular_flag_on_post: IPs** | 6 | 158 | 2247 | 8039 |
 | **:1234: SHA256** | 12 | 176 | 562 | 3232 |
 | **:1234: MD5** | 5 | 28 | 115 | 2049 |
 
@@ -204,7 +204,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 19 | 836 | 3731 | 31639 |
+| **#phishing** | 26 | 843 | 3738 | 31646 |
 | **#Kimsuky** | 0 | 10 | 48 | 13315 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
 | **#malware** | 21 | 202 | 1198 | 4271 |
@@ -235,10 +235,10 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#4** | [skocherhan](https://x.com/skocherhan) | 9 |
 | **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 8 |
 | **#6** | [bomccss](https://x.com/bomccss) | 8 |
-| **#7** | [smica83](https://x.com/smica83) | 5 |
-| **#8** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#9** | [SquiblydooBlog](https://x.com/SquiblydooBlog) | 4 |
-| **#10** | [masaomi346](https://x.com/masaomi346) | 3 |
+| **#7** | [masaomi346](https://x.com/masaomi346) | 5 |
+| **#8** | [phishunt_io](https://x.com/phishunt_io) | 5 |
+| **#9** | [smica83](https://x.com/smica83) | 5 |
+| **#10** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
