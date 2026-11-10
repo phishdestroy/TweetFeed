@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-10 01:15:18 (UTC)</th>
+        <th colspan=4>2026-11-10 14:45:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,11 +187,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 628 | 3140 | 44226 |
-| **:globe_with_meridians: Domains** | 0 | 533 | 2630 | 38055 |
-| **:triangular_flag_on_post: IPs** | 0 | 152 | 2241 | 8033 |
-| **:1234: SHA256** | 0 | 164 | 550 | 3220 |
-| **:1234: MD5** | 0 | 23 | 110 | 2044 |
+| **:link: URLs** | 48 | 676 | 3188 | 44274 |
+| **:globe_with_meridians: Domains** | 37 | 570 | 2667 | 38092 |
+| **:triangular_flag_on_post: IPs** | 6 | 158 | 2247 | 8039 |
+| **:1234: SHA256** | 16 | 180 | 566 | 3236 |
+| **:1234: MD5** | 5 | 28 | 115 | 2049 |
 
 </div>
 
@@ -204,14 +204,14 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 817 | 3712 | 31620 |
+| **#phishing** | 26 | 843 | 3738 | 31646 |
 | **#Kimsuky** | 0 | 10 | 48 | 13315 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
-| **#malware** | 0 | 181 | 1177 | 4250 |
-| **#scam** | 0 | 4 | 38 | 2822 |
-| **#C2** | 0 | 53 | 155 | 2149 |
-| **#APT** | 0 | 20 | 60 | 1473 |
-| **#ClickFix** | 0 | 106 | 279 | 1231 |
+| **#malware** | 29 | 210 | 1206 | 4279 |
+| **#scam** | 2 | 6 | 40 | 2824 |
+| **#C2** | 2 | 55 | 157 | 2151 |
+| **#APT** | 3 | 23 | 63 | 1476 |
+| **#ClickFix** | 16 | 122 | 295 | 1247 |
 | **#ransomware** | 0 | 7 | 87 | 691 |
 | **#opendir** | 0 | 10 | 21 | 683 |
 <!-- TAG_TABLE_END -->
@@ -229,16 +229,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [-](https://x.com/-) | 0 |
-| **#2** | [-](https://x.com/-) | 0 |
-| **#3** | [-](https://x.com/-) | 0 |
-| **#4** | [-](https://x.com/-) | 0 |
-| **#5** | [-](https://x.com/-) | 0 |
-| **#6** | [-](https://x.com/-) | 0 |
-| **#7** | [-](https://x.com/-) | 0 |
-| **#8** | [-](https://x.com/-) | 0 |
-| **#9** | [-](https://x.com/-) | 0 |
-| **#10** | [-](https://x.com/-) | 0 |
+| **#1** | [LandscapeThreat](https://x.com/LandscapeThreat) | 14 |
+| **#2** | [smica83](https://x.com/smica83) | 11 |
+| **#3** | [Malwarehunterr](https://x.com/Malwarehunterr) | 10 |
+| **#4** | [harugasumi](https://x.com/harugasumi) | 9 |
+| **#5** | [skocherhan](https://x.com/skocherhan) | 9 |
+| **#6** | [malwrhunterteam](https://x.com/malwrhunterteam) | 8 |
+| **#7** | [bomccss](https://x.com/bomccss) | 8 |
+| **#8** | [AaronCTI](https://x.com/AaronCTI) | 8 |
+| **#9** | [masaomi346](https://x.com/masaomi346) | 5 |
+| **#10** | [phishunt_io](https://x.com/phishunt_io) | 5 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
