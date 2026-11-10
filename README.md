@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-10 11:30:20 (UTC)</th>
+        <th colspan=4>2026-11-10 11:45:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,10 +187,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 30 | 658 | 3170 | 44256 |
-| **:globe_with_meridians: Domains** | 23 | 556 | 2653 | 38078 |
-| **:triangular_flag_on_post: IPs** | 3 | 155 | 2244 | 8036 |
-| **:1234: SHA256** | 8 | 172 | 558 | 3228 |
+| **:link: URLs** | 35 | 663 | 3175 | 44261 |
+| **:globe_with_meridians: Domains** | 26 | 559 | 2656 | 38081 |
+| **:triangular_flag_on_post: IPs** | 5 | 157 | 2246 | 8038 |
+| **:1234: SHA256** | 11 | 175 | 561 | 3231 |
 | **:1234: MD5** | 5 | 28 | 115 | 2049 |
 
 </div>
@@ -232,13 +232,13 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [LandscapeThreat](https://x.com/LandscapeThreat) | 14 |
 | **#2** | [Malwarehunterr](https://x.com/Malwarehunterr) | 10 |
 | **#3** | [harugasumi](https://x.com/harugasumi) | 9 |
-| **#4** | [skocherhan](https://x.com/skocherhan) | 6 |
-| **#5** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#6** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
-| **#7** | [masaomi346](https://x.com/masaomi346) | 3 |
-| **#8** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#9** | [suyog41](https://x.com/suyog41) | 3 |
-| **#10** | [smica83](https://x.com/smica83) | 3 |
+| **#4** | [malwrhunterteam](https://x.com/malwrhunterteam) | 8 |
+| **#5** | [bomccss](https://x.com/bomccss) | 8 |
+| **#6** | [skocherhan](https://x.com/skocherhan) | 6 |
+| **#7** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#8** | [smica83](https://x.com/smica83) | 4 |
+| **#9** | [masaomi346](https://x.com/masaomi346) | 3 |
+| **#10** | [PhishStats](https://x.com/PhishStats) | 3 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
