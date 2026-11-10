@@ -1,5 +1,5 @@
 {
-  "count": 5897,
+  "count": 5911,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -9724,6 +9724,22 @@
       "type": "url",
       "value": "http://159.112.188.117"
     },
+    "159.195.215.68": {
+      "confidence": 0.9,
+      "date": "2026-11-09 17:32:26",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Sliver C2 server IPs identified via Shodan, with 17 IPs in total; four are listed in the tweet and the rest are in a linked GitHub list.",
+      "threat_type": "c2",
+      "tweet_id": "2119845581166457185",
+      "type": "url",
+      "value": "http://159.195.215.68"
+    },
     "159.203.10.105": {
       "confidence": 0.55,
       "date": "2026-10-15 09:24:00",
@@ -10098,6 +10114,24 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "162.251.93.121"
+    },
+    "162.35.123.185": {
+      "confidence": 0.8,
+      "date": "2026-11-09 13:52:21",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": "Remcos",
+      "suggested_tags": [
+        "remcos",
+        "remcosrat",
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "'cveil loader' v4 hosted in GitHub repos, delivering Remcos among its payloads; Remcos C2 at 162.35.123.185.",
+      "threat_type": "malware",
+      "tweet_id": "2119790196032258336",
+      "type": "ip",
+      "value": "162.35.123.185"
     },
     "162.35.28.121": {
       "confidence": 0.5,
@@ -10626,6 +10660,22 @@
       "tweet_id": "2112273864499548582",
       "type": "url",
       "value": "http://167.88.172.3"
+    },
+    "167.99.146.146": {
+      "confidence": 0.9,
+      "date": "2026-11-09 17:32:26",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Sliver C2 server IPs identified via Shodan, with 17 IPs in total; four are listed in the tweet and the rest are in a linked GitHub list.",
+      "threat_type": "c2",
+      "tweet_id": "2119845581166457185",
+      "type": "url",
+      "value": "http://167.99.146.146"
     },
     "167.99.165.191": {
       "confidence": 0.45,
@@ -13121,6 +13171,22 @@
       "type": "ip",
       "value": "193.111.117.98"
     },
+    "193.124.46.95": {
+      "confidence": 0.9,
+      "date": "2026-11-09 17:32:26",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Sliver C2 server IPs identified via Shodan, with 17 IPs in total; four are listed in the tweet and the rest are in a linked GitHub list.",
+      "threat_type": "c2",
+      "tweet_id": "2119845581166457185",
+      "type": "url",
+      "value": "http://193.124.46.95"
+    },
     "193.143.1.142": {
       "confidence": 0.55,
       "date": "2026-10-19 06:19:13",
@@ -13531,62 +13597,6 @@
       "tweet_id": "2112066017660944691",
       "type": "ip",
       "value": "194.87.31.69"
-    },
-    "194.9.6.117": {
-      "confidence": 0.55,
-      "date": "2026-10-10 17:41:26",
-      "enriched_at": "2026-10-10T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Exposed 'Beacon Panel' login with window-watcher monitoring at an IP and port, likely a C2 or monitoring implant management interface.",
-      "threat_type": "c2",
-      "tweet_id": "2108976213209600497",
-      "type": "ip",
-      "value": "194.9.6.117"
-    },
-    "194.9.6.117:8090/login?next=": {
-      "confidence": 0.55,
-      "date": "2026-10-10 17:41:26",
-      "enriched_at": "2026-10-10T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Exposed 'Beacon Panel' login with window-watcher monitoring at an IP and port, likely a C2 or monitoring implant management interface.",
-      "threat_type": "c2",
-      "tweet_id": "2108976213209600497",
-      "type": "url",
-      "value": "http://194.9.6.117:8090/login?next=/"
-    },
-    "194.9.6.5": {
-      "confidence": 0.7,
-      "date": "2026-10-10 17:44:58",
-      "enriched_at": "2026-11-09T06:40:04Z",
-      "family": "ONYX C2",
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Login panel titled 'ONYX C2' (Command & Control) exposed on an IP address and port.",
-      "threat_type": "c2",
-      "tweet_id": "2108977101168578939",
-      "type": "ip",
-      "value": "194.9.6.5"
-    },
-    "194.9.6.5:1115/login": {
-      "confidence": 0.7,
-      "date": "2026-10-10 17:44:58",
-      "enriched_at": "2026-10-10T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Exposed web login panel titled 'ONYX C2' at an IP and port, appearing to be a command-and-control management interface.",
-      "threat_type": "c2",
-      "tweet_id": "2108977101168578939",
-      "type": "url",
-      "value": "http://194.9.6.5:1115/login"
     },
     "195.162.69.212": {
       "confidence": 0.9,
@@ -14262,6 +14272,22 @@
       "tweet_id": "2113695797900677444",
       "type": "sha256",
       "value": "1dde732a31cb35f825cf8134fe483993ee9e691d60bac6cba9677dd038cefff9"
+    },
+    "1dfc9bd31fb20bcf4131351817cd3314": {
+      "confidence": 0.6,
+      "date": "2026-11-09 13:24:10",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "macOS stealer distributed as a DMG installer named SkyLawsInstaller.dmg, labeled 'Sonoma Mac Stealer'.",
+      "threat_type": "malware",
+      "tweet_id": "2119783105468715233",
+      "type": "md5",
+      "value": "1dfc9bd31fb20bcf4131351817cd3314"
     },
     "1eb336b5e39b2a5544b03fb0d08b457c": {
       "confidence": 0.85,
@@ -15437,6 +15463,38 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "207.148.75.75"
+    },
+    "207.148.8.12": {
+      "confidence": 0.9,
+      "date": "2026-11-09 20:56:17",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake BNB Smart Chain wallet verification page abusing WalletConnect/Trust Wallet to trick users into approving a 1,000,000 USDT spending allowance (wallet drainer).",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119896883133088133",
+      "type": "url",
+      "value": "http://207.148.8.12"
+    },
+    "207.148.8.12:5000": {
+      "confidence": 0.9,
+      "date": "2026-11-09 20:56:17",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake BNB Smart Chain wallet verification page abusing WalletConnect/Trust Wallet to trick users into approving a 1,000,000 USDT spending allowance (wallet drainer).",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119896883133088133",
+      "type": "url",
+      "value": "http://207.148.8.12:5000"
     },
     "207.175.25.248": {
       "confidence": 0.5,
@@ -16671,6 +16729,22 @@
       "tweet_id": "2109263406956155061",
       "type": "url",
       "value": "http://23.27.124.228"
+    },
+    "23.88.126.112": {
+      "confidence": 0.9,
+      "date": "2026-11-09 17:32:26",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Sliver C2 server IPs identified via Shodan, with 17 IPs in total; four are listed in the tweet and the rest are in a linked GitHub list.",
+      "threat_type": "c2",
+      "tweet_id": "2119845581166457185",
+      "type": "url",
+      "value": "http://23.88.126.112"
     },
     "23.94.144.9": {
       "confidence": 0.5,
@@ -27753,6 +27827,23 @@
       "type": "sha256",
       "value": "3949d7908ee8a448ab0091a24533e1224c071fd54b7da06d1ea2d0ff5085e112"
     },
+    "399cc61557f427e3e2712b5a2207dd4aadba90914f56563edc6dec61248cb15b": {
+      "confidence": 0.6,
+      "date": "2026-11-09 23:44:58",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "dprk",
+        "c2",
+        "malware",
+        "apt"
+      ],
+      "summary": "Korean-named LNK sample ('\uac74\uac15\uac80\uc9c4.lnk') attributed to a likely DPRK actor; it contacts a C2 at bnmjko07ygbn.getenjoyment.net/setting.php.",
+      "threat_type": "c2",
+      "tweet_id": "2119939335462269385",
+      "type": "sha256",
+      "value": "399cc61557f427e3e2712b5a2207dd4aadba90914f56563edc6dec61248cb15b"
+    },
     "39d76b97f4b74e65a8285a3b273926dff27af56a42408e5f4d98c202a6f35514": {
       "confidence": 0.45,
       "date": "2026-10-14 11:20:12",
@@ -32955,6 +33046,22 @@
       "type": "sha256",
       "value": "6d43bcc5d29a1aa8ed6014d28fe72dbe26a3a8d4359db78fbaa87a130ff9994e"
     },
+    "6ed54de0bac8cf1f2d3ba4250213779730e4b0402ff1d480d124657e5b24e459": {
+      "confidence": 0.75,
+      "date": "2026-11-09 12:38:11",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as an adult TikTok app, distributed via tik-tok-18-app-5.top, with an APK hash on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2119771532444725375",
+      "type": "sha256",
+      "value": "6ed54de0bac8cf1f2d3ba4250213779730e4b0402ff1d480d124657e5b24e459"
+    },
     "6ee17554545ebe2c31f1462e2758e1e16b0b5aacef1274ff6c57345b79eab1e2": {
       "confidence": 0.5,
       "date": "2026-11-05 19:58:18",
@@ -33550,22 +33657,6 @@
       "type": "sha256",
       "value": "782b519154f11ae211cae0e8c4f0c9d8ca1c078d904684bc8923b978c6813898"
     },
-    "7858c59e16f13aa313282b409596faf4d141493bbe9d79adcf92117f4dab2ebd": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:58:16",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware posing as the Japanese e-Tax app, distributed through four lookalike -jp.com domains; phishing-based delivery of an APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055946949578753",
-      "type": "sha256",
-      "value": "7858c59e16f13aa313282b409596faf4d141493bbe9d79adcf92117f4dab2ebd"
-    },
     "78b61346111e80eef8f06bd674b52cec5ced17a43b46b317865a83c8ee579a44": {
       "confidence": 0.85,
       "date": "2026-11-06 20:58:37",
@@ -33667,22 +33758,6 @@
       "tweet_id": "2114818723265835051",
       "type": "sha256",
       "value": "7997f060b20c6e84a31552af0ca63fe29f4cbd5815decf48a5218175abb5dcd9"
-    },
-    "79dba35f06d557a20d0ea100f4926da22aa9733513422addd7b4217246da3393": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:55:52",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055341908607403",
-      "type": "sha256",
-      "value": "79dba35f06d557a20d0ea100f4926da22aa9733513422addd7b4217246da3393"
     },
     "79f121fced18f5d1d425024842ed79dc": {
       "confidence": 0.7,
@@ -33845,22 +33920,6 @@
       "tweet_id": "2109876492050293230",
       "type": "sha256",
       "value": "7eca6ff78c9a067293de9ac651b8f1292acc5f098e8e97dcafa1bdef9b8a61c2"
-    },
-    "7efde99b7571680389d6dcd8a807986355d8db3eed13227f5fee0028f9ffd12d": {
-      "confidence": 0.7,
-      "date": "2026-10-10 23:05:16",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as a 'Recycle' app, distributed via recycle.startmultimedia.com; Japanese-language phishing/fraud lure with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109057708926374341",
-      "type": "sha256",
-      "value": "7efde99b7571680389d6dcd8a807986355d8db3eed13227f5fee0028f9ffd12d"
     },
     "7fcafe.wwvip88.site": {
       "confidence": 0.88,
@@ -36898,20 +36957,6 @@
       "type": "ip",
       "value": "99.91.221.237"
     },
-    "994becb3008d8dacd064bf699bd2acb55b59e213143451f67b808edc261c4511": {
-      "confidence": 0.4,
-      "date": "2026-10-10 20:50:40",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious Windows command script 'HARMAN_TRANSPORT_USA_SETUP.cmd' seen from Pakistan and shared on MalwareBazaar; family not identified.",
-      "threat_type": "malware",
-      "tweet_id": "2109023836041552217",
-      "type": "sha256",
-      "value": "994becb3008d8dacd064bf699bd2acb55b59e213143451f67b808edc261c4511"
-    },
     "99708308b299112e76ffc2e856e76443cad324da3a14f0755c44c136266b4256": {
       "confidence": 0.8,
       "date": "2026-10-31 09:01:20",
@@ -38467,6 +38512,36 @@
       "type": "domain",
       "value": "aep.login-options.com"
     },
+    "aepc.in": {
+      "confidence": 0.8,
+      "date": "2026-11-09 15:25:00",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": "SideCopy",
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "SideCopy APT downloader: HTA file hosted on aepc.in used for cyber-espionage, with an associated SHA256 hash.",
+      "threat_type": "malware",
+      "tweet_id": "2119813512331497664",
+      "type": "domain",
+      "value": "aepc.in"
+    },
+    "aepc.in/lib/files/db/emp/01.hta": {
+      "confidence": 0.8,
+      "date": "2026-11-09 15:25:00",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": "SideCopy",
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "SideCopy APT downloader: HTA file hosted on aepc.in used for cyber-espionage, with an associated SHA256 hash.",
+      "threat_type": "malware",
+      "tweet_id": "2119813512331497664",
+      "type": "url",
+      "value": "https://aepc.in/lib/files/db/emp/01.hta"
+    },
     "aes-pdf.com": {
       "confidence": 0.75,
       "date": "2026-11-05 17:02:03",
@@ -39542,6 +39617,49 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "anh-whatsapp.com"
+    },
+    "aniv.dqtjvxa.cn": {
+      "confidence": 0.85,
+      "date": "2026-11-09 12:20:18",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Amazon Japan phishing at aniv.dqtjvxa.cn hosted on 43.165.128.22 (AS132203), reported by Team NA4Sec.",
+      "threat_type": "phishing",
+      "tweet_id": "2119767032212439079",
+      "type": "domain",
+      "value": "aniv.dqtjvxa.cn"
+    },
+    "aniv.dqtjvxa.cn/ap": {
+      "confidence": 0.85,
+      "date": "2026-11-09 12:20:18",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Amazon Japan phishing at aniv.dqtjvxa.cn hosted on 43.165.128.22 (AS132203), reported by Team NA4Sec.",
+      "threat_type": "phishing",
+      "tweet_id": "2119767032212439079",
+      "type": "url",
+      "value": "https://aniv.dqtjvxa.cn/ap/"
+    },
+    "aniv.dqtjvxa.cn/api/captcha/page?site_key=amazon&redirect=/ap": {
+      "confidence": 0.85,
+      "date": "2026-11-09 17:04:00",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Amazon-themed phishing page on aniv.dqtjvxa.cn using a fake captcha page, hosted on Tencent infrastructure (AS132203).",
+      "threat_type": "phishing",
+      "tweet_id": "2119838426371420495",
+      "type": "url",
+      "value": "https://aniv.dqtjvxa.cn/api/captcha/page?site_key=amazon&redirect=/ap/"
     },
     "aniv.ergstlj.cn": {
       "confidence": 0.9,
@@ -45927,6 +46045,40 @@
       "type": "domain",
       "value": "bnm-whatsapp.com"
     },
+    "bnmjko07ygbn.getenjoyment.net": {
+      "confidence": 0.6,
+      "date": "2026-11-09 23:44:58",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "dprk",
+        "c2",
+        "malware",
+        "apt"
+      ],
+      "summary": "Korean-named LNK sample ('\uac74\uac15\uac80\uc9c4.lnk') attributed to a likely DPRK actor; it contacts a C2 at bnmjko07ygbn.getenjoyment.net/setting.php.",
+      "threat_type": "c2",
+      "tweet_id": "2119939335462269385",
+      "type": "domain",
+      "value": "bnmjko07ygbn.getenjoyment.net"
+    },
+    "bnmjko07ygbn.getenjoyment.net/setting.php": {
+      "confidence": 0.6,
+      "date": "2026-11-09 23:44:58",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "dprk",
+        "c2",
+        "malware",
+        "apt"
+      ],
+      "summary": "Korean-named LNK sample ('\uac74\uac15\uac80\uc9c4.lnk') attributed to a likely DPRK actor; it contacts a C2 at bnmjko07ygbn.getenjoyment.net/setting.php.",
+      "threat_type": "c2",
+      "tweet_id": "2119939335462269385",
+      "type": "url",
+      "value": "http://bnmjko07ygbn.getenjoyment.net/setting.php"
+    },
     "bnn-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -47472,20 +47624,6 @@
       "type": "sha256",
       "value": "c03150e6e7c181d2413f1797cbf7be7710785166901dd3e07e7ee94ead9027a2"
     },
-    "c072088e15403a22e335dbe7c5daa837693e7853e9033caa4a4e9ae86510501b": {
-      "confidence": 0.45,
-      "date": "2026-10-10 17:29:55",
-      "enriched_at": "2026-10-10T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malware sample 'WindowsHealthSvc.exe' seen from Uzbekistan on MalwareBazaar, using the Telegram API for communication.",
-      "threat_type": "malware",
-      "tweet_id": "2108973313401688344",
-      "type": "sha256",
-      "value": "c072088e15403a22e335dbe7c5daa837693e7853e9033caa4a4e9ae86510501b"
-    },
     "c0779cd926dcaeaeb470db56e008cdc4813f6d226a7d9d72e8db361e3249481a": {
       "confidence": 0.6,
       "date": "2026-10-29 12:48:13",
@@ -48034,21 +48172,50 @@
       "type": "sha256",
       "value": "caff702bfd474f09f695e2e43deb006e14d2894ee62668fb036bbd619f588ac7"
     },
-    "caihongzhixia-jp.com": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:58:16",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
+    "calendly.com/d/d4jf-gpc-ddy": {
+      "confidence": 0.85,
+      "date": "2026-11-09 14:50:04",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": "ScreenConnect",
       "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
+        "phishing",
+        "malware"
       ],
-      "summary": "Android malware posing as the Japanese e-Tax app, distributed through four lookalike -jp.com domains; phishing-based delivery of an APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055946949578753",
-      "type": "domain",
-      "value": "caihongzhixia-jp.com"
+      "summary": "HireRight-themed phishing abusing Calendly forms to redirect victims to a ScreenConnect MSI installer, giving attackers remote access to the device.",
+      "threat_type": "phishing",
+      "tweet_id": "2119804721833615822",
+      "type": "url",
+      "value": "https://calendly.com/d/d4jf-gpc-ddy"
+    },
+    "calendly.com/d/dt89-7hh-5ww": {
+      "confidence": 0.85,
+      "date": "2026-11-09 14:50:04",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "HireRight-themed phishing abusing Calendly forms to redirect victims to a ScreenConnect MSI installer, giving attackers remote access to the device.",
+      "threat_type": "phishing",
+      "tweet_id": "2119804721833615822",
+      "type": "url",
+      "value": "https://calendly.com/d/dt89-7hh-5ww"
+    },
+    "calendly.com/d/dvcz-23t-bf6": {
+      "confidence": 0.85,
+      "date": "2026-11-09 14:50:04",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "HireRight-themed phishing abusing Calendly forms to redirect victims to a ScreenConnect MSI installer, giving attackers remote access to the device.",
+      "threat_type": "phishing",
+      "tweet_id": "2119804721833615822",
+      "type": "url",
+      "value": "https://calendly.com/d/dvcz-23t-bf6"
     },
     "calernix.cfd": {
       "confidence": 0.9,
@@ -48589,6 +48756,21 @@
       "tweet_id": "2114099418043646041",
       "type": "domain",
       "value": "ccloudbeds.com"
+    },
+    "cd067abf727655d1d82d16506cee51fda6c200e7fe67ebac21b07e3eb9fd67f7": {
+      "confidence": 0.8,
+      "date": "2026-11-09 15:25:00",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": "SideCopy",
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "SideCopy APT downloader: HTA file hosted on aepc.in used for cyber-espionage, with an associated SHA256 hash.",
+      "threat_type": "malware",
+      "tweet_id": "2119813512331497664",
+      "type": "sha256",
+      "value": "cd067abf727655d1d82d16506cee51fda6c200e7fe67ebac21b07e3eb9fd67f7"
     },
     "cdn-edge-f3f85b.netlify.app": {
       "confidence": 0.6,
@@ -50632,6 +50814,22 @@
       "type": "domain",
       "value": "cruisemacauu-jp.com"
     },
+    "cryptocommerceohpmigration.online": {
+      "confidence": 0.85,
+      "date": "2026-11-09 20:03:56",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Newly registered site impersonating the Mahoni (MHI) token trading platform, suspected Solana wallet-draining page.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119883708656480532",
+      "type": "domain",
+      "value": "cryptocommerceohpmigration.online"
+    },
     "csg-soft.com": {
       "confidence": 0.8,
       "date": "2026-10-14 17:53:20",
@@ -51885,6 +52083,18 @@
       "type": "domain",
       "value": "deskpro-whatsapp.com"
     },
+    "deskslink.com": {
+      "confidence": 0.3,
+      "date": "2026-11-09 02:28:46",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Domain deskslink.com reported as related to another domain in a reply to a malware researcher; the threat type is not stated.",
+      "threat_type": "other",
+      "tweet_id": "2119618168255828155",
+      "type": "domain",
+      "value": "deskslink.com"
+    },
     "desktop-telergram.org": {
       "confidence": 0.75,
       "date": "2026-10-23 20:47:00",
@@ -52806,6 +53016,21 @@
       "type": "domain",
       "value": "diwali.pics"
     },
+    "diwali20.shop": {
+      "confidence": 0.85,
+      "date": "2026-11-09 16:46:05",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake Flipkart Diwali shopping site on diwali20.shop collecting UPI payments and OTPs via send_otp.php and verify_otp.php.",
+      "threat_type": "scam",
+      "tweet_id": "2119833919315124270",
+      "type": "domain",
+      "value": "diwali20.shop"
+    },
     "diwali2026.website": {
       "confidence": 0.75,
       "date": "2026-11-05 21:08:55",
@@ -53031,6 +53256,22 @@
       "type": "domain",
       "value": "diwaling.store"
     },
+    "diwaliofer.com": {
+      "confidence": 0.85,
+      "date": "2026-11-09 16:20:34",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "opendir",
+        "phishing"
+      ],
+      "summary": "Diwali UPI scam on diwaliofer.com with an open directory; fake scratch-card rewards trigger PhonePe payment requests, with a desktop redirect to festive.info/tm.",
+      "threat_type": "scam",
+      "tweet_id": "2119827498552926706",
+      "type": "domain",
+      "value": "diwaliofer.com"
+    },
     "diwalioff.shop": {
       "confidence": 0.75,
       "date": "2026-11-05 21:08:55",
@@ -53060,6 +53301,22 @@
       "tweet_id": "2118450511234150864",
       "type": "domain",
       "value": "diwalioffers.shop"
+    },
+    "diwalioffers2026.shop": {
+      "confidence": 0.85,
+      "date": "2026-11-09 15:06:35",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing",
+        "opendir"
+      ],
+      "summary": "Fake Flipkart shopping site on diwalioffers2026.shop with an open directory, collecting UPI payments via a hardcoded UPI ID.",
+      "threat_type": "scam",
+      "tweet_id": "2119808880150724797",
+      "type": "domain",
+      "value": "diwalioffers2026.shop"
     },
     "diwalirchrg.info": {
       "confidence": 0.75,
@@ -55514,22 +55771,6 @@
       "type": "domain",
       "value": "eroimijv.cn"
     },
-    "erqdooey.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:55:52",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055341908607403",
-      "type": "domain",
-      "value": "erqdooey.cn"
-    },
     "es-ar.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -55689,30 +55930,6 @@
       "type": "url",
       "value": "http://exodusathleticclub.com/wp-content/themes/wordpress/wordpress/WELLSFARGO%20OTP/Download%20File.html"
     },
-    "expirience.click": {
-      "confidence": 0.25,
-      "date": "2026-10-10 19:50:55",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Suspicious login panel titled 'Expirience \u00b7 Login' hosted at expirience.click; purpose unclear, possibly a malicious panel or phishing page.",
-      "threat_type": "other",
-      "tweet_id": "2109008798786716087",
-      "type": "domain",
-      "value": "expirience.click"
-    },
-    "expirience.click/login": {
-      "confidence": 0.25,
-      "date": "2026-10-10 19:50:55",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Suspicious login panel titled 'Expirience \u00b7 Login' hosted at expirience.click; purpose unclear, possibly a malicious panel or phishing page.",
-      "threat_type": "other",
-      "tweet_id": "2109008798786716087",
-      "type": "url",
-      "value": "https://expirience.click/login"
-    },
     "eyeearhospital.com": {
       "confidence": 0.85,
       "date": "2026-10-28 04:09:30",
@@ -55870,6 +56087,20 @@
       "tweet_id": "2115514259966701740",
       "type": "md5",
       "value": "f12f8237feb7bdfb066162d72ff3eec3"
+    },
+    "f156a7b27a367a54d8adedb7fd7675faab13d6d39de4f2c8c638bd049bd588d0": {
+      "confidence": 0.55,
+      "date": "2026-11-09 20:23:21",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious MSI installer masquerading as 'zoom_sdk-3.2.msi', hosted on a b-cdn.net domain and seen in Taiwan, Spain and the Dominican Republic; source URL now 404.",
+      "threat_type": "malware",
+      "tweet_id": "2119888594412212479",
+      "type": "sha256",
+      "value": "f156a7b27a367a54d8adedb7fd7675faab13d6d39de4f2c8c638bd049bd588d0"
     },
     "f1ea2976418ce14ffd5ef6cbfcb6fa48": {
       "confidence": 0.8,
@@ -56695,6 +56926,38 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "fenxiang-whatsapp.com"
+    },
+    "festive.info": {
+      "confidence": 0.85,
+      "date": "2026-11-09 16:20:34",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "opendir",
+        "phishing"
+      ],
+      "summary": "Diwali UPI scam on diwaliofer.com with an open directory; fake scratch-card rewards trigger PhonePe payment requests, with a desktop redirect to festive.info/tm.",
+      "threat_type": "scam",
+      "tweet_id": "2119827498552926706",
+      "type": "domain",
+      "value": "festive.info"
+    },
+    "festive.info/tm": {
+      "confidence": 0.85,
+      "date": "2026-11-09 16:20:34",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "opendir",
+        "phishing"
+      ],
+      "summary": "Diwali UPI scam on diwaliofer.com with an open directory; fake scratch-card rewards trigger PhonePe payment requests, with a desktop redirect to festive.info/tm.",
+      "threat_type": "scam",
+      "tweet_id": "2119827498552926706",
+      "type": "url",
+      "value": "http://festive.info/tm"
     },
     "ff.ibig-tech.com": {
       "confidence": 0.55,
@@ -59065,22 +59328,6 @@
       "type": "domain",
       "value": "ggdxorxunolcknocbnfc.supabase.co"
     },
-    "ghqbpkkz.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:55:52",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055341908607403",
-      "type": "domain",
-      "value": "ghqbpkkz.cn"
-    },
     "giant-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -59202,6 +59449,42 @@
       "tweet_id": "2110001630062022989",
       "type": "url",
       "value": "https://github.com/f3-917/u-g/raw/main/udg.bat"
+    },
+    "github.com/i25968627-ui/crispy-spoon": {
+      "confidence": 0.8,
+      "date": "2026-11-09 13:52:21",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": "Remcos",
+      "suggested_tags": [
+        "remcos",
+        "remcosrat",
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "'cveil loader' v4 hosted in GitHub repos, delivering Remcos among its payloads; Remcos C2 at 162.35.123.185.",
+      "threat_type": "malware",
+      "tweet_id": "2119790196032258336",
+      "type": "url",
+      "value": "https://github.com/i25968627-ui/crispy-spoon"
+    },
+    "github.com/i25968627-ui/psychic-engine": {
+      "confidence": 0.8,
+      "date": "2026-11-09 13:52:21",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": "Remcos",
+      "suggested_tags": [
+        "remcos",
+        "remcosrat",
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "'cveil loader' v4 hosted in GitHub repos, delivering Remcos among its payloads; Remcos C2 at 162.35.123.185.",
+      "threat_type": "malware",
+      "tweet_id": "2119790196032258336",
+      "type": "url",
+      "value": "https://github.com/i25968627-ui/psychic-engine/"
     },
     "github.com/mariaaefyw": {
       "confidence": 0.45,
@@ -59756,22 +60039,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "groups.webstatici-whatsapp.com"
-    },
-    "guangrongsuiy-jp.com": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:58:16",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware posing as the Japanese e-Tax app, distributed through four lookalike -jp.com domains; phishing-based delivery of an APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055946949578753",
-      "type": "domain",
-      "value": "guangrongsuiy-jp.com"
     },
     "guanlansec.com": {
       "confidence": 0.45,
@@ -61832,6 +62099,21 @@
       "tweet_id": "2112285228337344897",
       "type": "domain",
       "value": "ipv6.meet-google.live"
+    },
+    "irmaosrodriguesparafusos.com": {
+      "confidence": 0.75,
+      "date": "2026-11-09 17:56:51",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing/scam domain irmaosrodriguesparafusos.com reported as a golpe (scam), likely targeting Portuguese-speaking users.",
+      "threat_type": "phishing",
+      "tweet_id": "2119851726752850300",
+      "type": "domain",
+      "value": "irmaosrodriguesparafusos.com"
     },
     "ironphantomcore.top": {
       "confidence": 0.9,
@@ -67883,22 +68165,6 @@
       "type": "domain",
       "value": "ooni.cslt168.com"
     },
-    "opantaz.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:55:52",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055341908607403",
-      "type": "domain",
-      "value": "opantaz.cn"
-    },
     "open.spotify.mint.89237892.com": {
       "confidence": 0.9,
       "date": "2026-11-07 13:01:18",
@@ -68133,22 +68399,6 @@
       "tweet_id": "2113629425917141478",
       "type": "domain",
       "value": "oreshnik.top"
-    },
-    "ornqzbd.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:55:52",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055341908607403",
-      "type": "domain",
-      "value": "ornqzbd.cn"
     },
     "oslhires.ink": {
       "confidence": 0.85,
@@ -69297,6 +69547,22 @@
       "type": "domain",
       "value": "pride-whatsapp.com"
     },
+    "primary-link.net": {
+      "confidence": 0.9,
+      "date": "2026-11-09 20:56:17",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake BNB Smart Chain wallet verification page abusing WalletConnect/Trust Wallet to trick users into approving a 1,000,000 USDT spending allowance (wallet drainer).",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119896883133088133",
+      "type": "domain",
+      "value": "primary-link.net"
+    },
     "primeseriesservice.com": {
       "confidence": 0.8,
       "date": "2026-10-30 21:21:09",
@@ -70100,22 +70366,6 @@
       "type": "url",
       "value": "https://qihangweiye.com/R6XsVjCbji.in.jp"
     },
-    "qnsonz.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:55:52",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055341908607403",
-      "type": "domain",
-      "value": "qnsonz.cn"
-    },
     "qooglo.com": {
       "confidence": 0.8,
       "date": "2026-10-19 20:50:17",
@@ -70599,22 +70849,6 @@
       "tweet_id": "2106293721159582168",
       "type": "domain",
       "value": "recipebistro.com"
-    },
-    "recycle.startmultimedia.com": {
-      "confidence": 0.7,
-      "date": "2026-10-10 23:05:16",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as a 'Recycle' app, distributed via recycle.startmultimedia.com; Japanese-language phishing/fraud lure with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109057708926374341",
-      "type": "domain",
-      "value": "recycle.startmultimedia.com"
     },
     "redjaxfire.com": {
       "confidence": 0.55,
@@ -71895,6 +72129,34 @@
       "type": "domain",
       "value": "santander.nfcobsidian.com"
     },
+    "savmtapp.b-cdn.net": {
+      "confidence": 0.55,
+      "date": "2026-11-09 20:23:21",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious MSI installer masquerading as 'zoom_sdk-3.2.msi', hosted on a b-cdn.net domain and seen in Taiwan, Spain and the Dominican Republic; source URL now 404.",
+      "threat_type": "malware",
+      "tweet_id": "2119888594412212479",
+      "type": "domain",
+      "value": "savmtapp.b-cdn.net"
+    },
+    "savmtapp.b-cdn.net/zoom_sdk-3.2.msi": {
+      "confidence": 0.55,
+      "date": "2026-11-09 20:23:21",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious MSI installer masquerading as 'zoom_sdk-3.2.msi', hosted on a b-cdn.net domain and seen in Taiwan, Spain and the Dominican Republic; source URL now 404.",
+      "threat_type": "malware",
+      "tweet_id": "2119888594412212479",
+      "type": "url",
+      "value": "https://savmtapp.b-cdn.net/zoom_sdk-3.2.msi"
+    },
     "saw-strops-tedy.top": {
       "confidence": 0.4,
       "date": "2026-11-03 16:10:38",
@@ -73104,22 +73366,6 @@
       "type": "domain",
       "value": "sexygal.top"
     },
-    "sghua.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:55:52",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055341908607403",
-      "type": "domain",
-      "value": "sghua.cn"
-    },
     "shadowemberstrike.top": {
       "confidence": 0.9,
       "date": "2026-10-12 14:18:17",
@@ -73347,22 +73593,6 @@
       "tweet_id": "2116051503471620426",
       "type": "url",
       "value": "https://short.do/AwygVX#aaaa@example.jp"
-    },
-    "shunyishengh-jp.com": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:58:16",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware posing as the Japanese e-Tax app, distributed through four lookalike -jp.com domains; phishing-based delivery of an APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055946949578753",
-      "type": "domain",
-      "value": "shunyishengh-jp.com"
     },
     "signal-whatsapp.com": {
       "confidence": 0.65,
@@ -77064,20 +77294,6 @@
       "type": "domain",
       "value": "thecanniballazu.com"
     },
-    "thedentalsuite.com.au": {
-      "confidence": 0.7,
-      "date": "2026-10-10 18:59:28",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site reported at thedentalsuite.com.au, hosted behind Cloudflare (AS13335), per PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2108995850575958428",
-      "type": "domain",
-      "value": "thedentalsuite.com.au"
-    },
     "thedragonson-jp.com": {
       "confidence": 0.8,
       "date": "2026-10-27 23:54:22",
@@ -77365,6 +77581,22 @@
       "tweet_id": "2118327183232160139",
       "type": "domain",
       "value": "tik-tok-18-4.cc"
+    },
+    "tik-tok-18-app-5.top": {
+      "confidence": 0.75,
+      "date": "2026-11-09 12:38:11",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as an adult TikTok app, distributed via tik-tok-18-app-5.top, with an APK hash on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2119771532444725375",
+      "type": "domain",
+      "value": "tik-tok-18-app-5.top"
     },
     "tik-tok-18.com": {
       "confidence": 0.75,
@@ -77773,6 +78005,36 @@
       "tweet_id": "2118078249809162597",
       "type": "url",
       "value": "http://trastwallet.cam/wallet-integration.js"
+    },
+    "treffert.screenconnect.com": {
+      "confidence": 0.85,
+      "date": "2026-11-09 14:50:04",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "HireRight-themed phishing abusing Calendly forms to redirect victims to a ScreenConnect MSI installer, giving attackers remote access to the device.",
+      "threat_type": "phishing",
+      "tweet_id": "2119804721833615822",
+      "type": "domain",
+      "value": "treffert.screenconnect.com"
+    },
+    "treffert.screenconnect.com/bin/screenconnect.clientsetup.msi?e=access&y=guest": {
+      "confidence": 0.85,
+      "date": "2026-11-09 14:50:04",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "HireRight-themed phishing abusing Calendly forms to redirect victims to a ScreenConnect MSI installer, giving attackers remote access to the device.",
+      "threat_type": "phishing",
+      "tweet_id": "2119804721833615822",
+      "type": "url",
+      "value": "https://treffert.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
     },
     "trendcars.be": {
       "confidence": 0.85,
@@ -78447,20 +78709,6 @@
       "type": "domain",
       "value": "usedev-whatsapp.com"
     },
-    "userhub-coinbase.com": {
-      "confidence": 0.85,
-      "date": "2026-10-10 22:12:43",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Gated phishing campaign targeting Coinbase users with fake support ticket/case ID lures via SMS/email; Next.js kit with fingerprinting and bot gating on userhub-coinbase.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2109044483228893413",
-      "type": "domain",
-      "value": "userhub-coinbase.com"
-    },
     "userswordpress-signin-customer.aromadiroma.org": {
       "confidence": 0.9,
       "date": "2026-10-28 19:22:47",
@@ -78560,22 +78808,6 @@
       "tweet_id": "2113196949859967338",
       "type": "domain",
       "value": "uzeglvlb7gfekr3.icu"
-    },
-    "v0-exodus-wallet-app.vercel.app": {
-      "confidence": 0.8,
-      "date": "2026-10-10 14:02:13",
-      "enriched_at": "2026-10-10T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "scam",
-        "phishing"
-      ],
-      "summary": "Fake Exodus wallet app hosted on vercel.app, flagged as a confirmed scam by a web malware scanner.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2108921045289680898",
-      "type": "domain",
-      "value": "v0-exodus-wallet-app.vercel.app"
     },
     "v1techdomainsec.shop": {
       "confidence": 0.85,
@@ -80630,6 +80862,20 @@
       "type": "domain",
       "value": "werefilledwit.org"
     },
+    "whatsappr.cc": {
+      "confidence": 0.85,
+      "date": "2026-11-09 13:01:34",
+      "enriched_at": "2026-11-09T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "WhatsApp-impersonating phishing domain whatsappr.cc, registered 2026-11-08 and fronted by Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2119777417963208953",
+      "type": "domain",
+      "value": "whatsappr.cc"
+    },
     "wheat-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -80790,6 +81036,22 @@
       "tweet_id": "2114336974291267924",
       "type": "domain",
       "value": "wizardexpensive.com"
+    },
+    "word-majority-cahoots.ngrok-free.dev": {
+      "confidence": 0.9,
+      "date": "2026-11-09 20:56:17",
+      "enriched_at": "2026-11-10T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake BNB Smart Chain wallet verification page abusing WalletConnect/Trust Wallet to trick users into approving a 1,000,000 USDT spending allowance (wallet drainer).",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2119896883133088133",
+      "type": "domain",
+      "value": "word-majority-cahoots.ngrok-free.dev"
     },
     "wordmoss.com": {
       "confidence": 0.6,
@@ -81639,22 +81901,6 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "xgqosq.geblic.xyz"
-    },
-    "xiaoxiangliu-jp.com": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:58:16",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware posing as the Japanese e-Tax app, distributed through four lookalike -jp.com domains; phishing-based delivery of an APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055946949578753",
-      "type": "domain",
-      "value": "xiaoxiangliu-jp.com"
     },
     "xiksjha.cc": {
       "confidence": 0.6,
@@ -82794,22 +83040,6 @@
       "type": "domain",
       "value": "zhushou-whatsapp.com"
     },
-    "zilqkr.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-10 22:55:52",
-      "enriched_at": "2026-10-11T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2109055341908607403",
-      "type": "domain",
-      "value": "zilqkr.cn"
-    },
     "zinhoooo.workers.dev": {
       "confidence": 0.15,
       "date": "2026-10-27 12:46:13",
@@ -83282,6 +83512,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-09T12:40:05Z",
+  "generated_at": "2026-11-10T00:40:04Z",
   "window_days": 30
 }
