@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-10 16:45:17 (UTC)</th>
+        <th colspan=4>2026-11-10 17:00:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,10 +187,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 52 | 680 | 3192 | 44278 |
-| **:globe_with_meridians: Domains** | 40 | 573 | 2670 | 38095 |
+| **:link: URLs** | 62 | 690 | 3202 | 44288 |
+| **:globe_with_meridians: Domains** | 50 | 583 | 2680 | 38105 |
 | **:triangular_flag_on_post: IPs** | 7 | 159 | 2248 | 8040 |
-| **:1234: SHA256** | 18 | 182 | 568 | 3238 |
+| **:1234: SHA256** | 19 | 183 | 569 | 3239 |
 | **:1234: MD5** | 5 | 28 | 115 | 2049 |
 
 </div>
@@ -207,7 +207,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#phishing** | 26 | 843 | 3738 | 31646 |
 | **#Kimsuky** | 0 | 10 | 48 | 13315 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
-| **#malware** | 33 | 214 | 1210 | 4283 |
+| **#malware** | 54 | 235 | 1231 | 4304 |
 | **#scam** | 2 | 6 | 40 | 2824 |
 | **#C2** | 3 | 56 | 158 | 2152 |
 | **#APT** | 7 | 27 | 67 | 1480 |
@@ -229,10 +229,10 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [smica83](https://x.com/smica83) | 16 |
-| **#2** | [LandscapeThreat](https://x.com/LandscapeThreat) | 14 |
-| **#3** | [skocherhan](https://x.com/skocherhan) | 10 |
-| **#4** | [Malwarehunterr](https://x.com/Malwarehunterr) | 10 |
+| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 31 |
+| **#2** | [smica83](https://x.com/smica83) | 16 |
+| **#3** | [LandscapeThreat](https://x.com/LandscapeThreat) | 14 |
+| **#4** | [skocherhan](https://x.com/skocherhan) | 10 |
 | **#5** | [harugasumi](https://x.com/harugasumi) | 9 |
 | **#6** | [malwrhunterteam](https://x.com/malwrhunterteam) | 8 |
 | **#7** | [bomccss](https://x.com/bomccss) | 8 |
