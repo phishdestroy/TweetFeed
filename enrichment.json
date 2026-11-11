@@ -1,5 +1,5 @@
 {
-  "count": 6000,
+  "count": 6046,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -238,6 +238,23 @@
       "tweet_id": "2112984658157723965",
       "type": "sha256",
       "value": "0329c3dcb71f6ed5eed1d17f1e945612aeba5d67cc80699d734a2df64bba1cdf"
+    },
+    "03461464e27ec1ef067a3085399b2e2930b4c500f296e5b9385630ceae6b2e28": {
+      "confidence": 0.7,
+      "date": "2026-11-11 11:22:17",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2",
+        "malware"
+      ],
+      "summary": "Stealer samples (10 SHA256) communicating with C2 hosted on a railway.app subdomain.",
+      "threat_type": "c2",
+      "tweet_id": "2120477206077972762",
+      "type": "sha256",
+      "value": "03461464e27ec1ef067a3085399b2e2930b4c500f296e5b9385630ceae6b2e28"
     },
     "0371b2265206832e350a730a3a9da5519e0a7483b94a2602df539a91791a2ec8": {
       "confidence": 0.5,
@@ -3418,30 +3435,6 @@
       "type": "ip",
       "value": "104.207.150.173"
     },
-    "104.219.237.146": {
-      "confidence": 0.4,
-      "date": "2026-10-12 07:49:58",
-      "enriched_at": "2026-10-29T00:40:03Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "IP addresses and relay domain associated with ShinyHunters activity.",
-      "threat_type": "other",
-      "tweet_id": "2109552142344409504",
-      "type": "ip",
-      "value": "104.219.237.146"
-    },
-    "104.219.238.66": {
-      "confidence": 0.4,
-      "date": "2026-10-12 07:49:58",
-      "enriched_at": "2026-10-29T00:40:03Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "IP addresses and relay domain associated with ShinyHunters activity.",
-      "threat_type": "other",
-      "tweet_id": "2109552142344409504",
-      "type": "ip",
-      "value": "104.219.238.66"
-    },
     "104.223.41.172": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -4932,22 +4925,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "124.158.13.141"
-    },
-    "124.198.128.74": {
-      "confidence": 0.5,
-      "date": "2026-10-12 07:33:16",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "IP 124.198.128.74 on port 8080 reported as a 'Satan' stealer panel.",
-      "threat_type": "malware",
-      "tweet_id": "2109547937416249598",
-      "type": "ip",
-      "value": "124.198.128.74"
     },
     "124.220.102.76": {
       "confidence": 0.5,
@@ -7278,21 +7255,6 @@
       "tweet_id": "2113897547299226095",
       "type": "url",
       "value": "http://137.220.140.19:15443"
-    },
-    "137.220.156.231": {
-      "confidence": 0.6,
-      "date": "2026-10-12 11:36:19",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "RAR sample from Uzbekistan linked to a reported C2 domain (aobaby31.com) resolving to 137.220.156.231.",
-      "threat_type": "c2",
-      "tweet_id": "2109609102460481918",
-      "type": "url",
-      "value": "http://137.220.156.231"
     },
     "137.23.10.39": {
       "confidence": 0.7,
@@ -10058,20 +10020,6 @@
       "type": "ip",
       "value": "161.132.49.125"
     },
-    "161.248.14.20": {
-      "confidence": 0.4,
-      "date": "2026-10-12 10:15:36",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Executable 'backgroundTaskHost.exe' from China dropped from an app zip, associated with IP 161.248.14.20.",
-      "threat_type": "malware",
-      "tweet_id": "2109588791853814065",
-      "type": "url",
-      "value": "http://161.248.14.20"
-    },
     "161.248.244.7": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -12008,6 +11956,21 @@
       "type": "url",
       "value": "http://18.177.252.41:8040/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
     },
+    "18.177.252.41:8041": {
+      "confidence": 0.6,
+      "date": "2026-11-11 06:28:06",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Server at 18.177.252.41 hosting a ScreenConnect client installer, used as C2 in a Japanese-language malware campaign.",
+      "threat_type": "c2",
+      "tweet_id": "2120403175228531131",
+      "type": "url",
+      "value": "http://18.177.252.41:8041"
+    },
     "18.178.245.211": {
       "confidence": 0.7,
       "date": "2026-11-02 08:45:47",
@@ -13233,6 +13196,54 @@
       "type": "ip",
       "value": "193.178.159.129"
     },
+    "193.180.209.78": {
+      "confidence": 0.85,
+      "date": "2026-11-11 10:21:49",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": "SENCILLO RMM",
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "opendir"
+      ],
+      "summary": "Exposed RMM C2 panel and open directory with Go agent, loaders, DLL sideloading packages and ScreenConnect deployment; C2 at 193.180.209.78:7443.",
+      "threat_type": "c2",
+      "tweet_id": "2120461992528118153",
+      "type": "ip",
+      "value": "193.180.209.78"
+    },
+    "193.180.209.78:7443": {
+      "confidence": 0.85,
+      "date": "2026-11-11 10:21:49",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": "SENCILLO RMM",
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "opendir"
+      ],
+      "summary": "Exposed RMM C2 panel and open directory with Go agent, loaders, DLL sideloading packages and ScreenConnect deployment; C2 at 193.180.209.78:7443.",
+      "threat_type": "c2",
+      "tweet_id": "2120461992528118153",
+      "type": "url",
+      "value": "http://193.180.209.78:7443"
+    },
+    "193.180.209.78:7443/tools": {
+      "confidence": 0.85,
+      "date": "2026-11-11 10:21:49",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": "SENCILLO RMM",
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "opendir"
+      ],
+      "summary": "Exposed RMM C2 panel and open directory with Go agent, loaders, DLL sideloading packages and ScreenConnect deployment; C2 at 193.180.209.78:7443.",
+      "threat_type": "c2",
+      "tweet_id": "2120461992528118153",
+      "type": "url",
+      "value": "https://193.180.209.78:7443/tools/"
+    },
     "193.187.110.10": {
       "confidence": 0.9,
       "date": "2026-11-03 03:12:37",
@@ -14150,6 +14161,20 @@
       "tweet_id": "2117956883139252716",
       "type": "sha256",
       "value": "19e11045972770ea7959f2dc520896cdefef15f805aa5a83353aee337437efdd"
+    },
+    "1a42f539f5c522ebf01371c025da2c71": {
+      "confidence": 0.4,
+      "date": "2026-11-11 06:28:06",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Japanese-targeted malware samples: an executable disguised as an invoice PDF and a DLL named g2m.dll, hashes shared with VirusTotal links.",
+      "threat_type": "malware",
+      "tweet_id": "2120403173164884353",
+      "type": "md5",
+      "value": "1a42f539f5c522ebf01371c025da2c71"
     },
     "1aa47ce02867f847227839b60d396ca96dac60372b0cd26b78b71a34473bb079": {
       "confidence": 0.4,
@@ -16291,6 +16316,21 @@
       "type": "url",
       "value": "http://219.68.139.37:46712/Mozi.m"
     },
+    "21fbfdbd1ffd9626032dd6193dd3077d0ec88a6cea2dab0b2e12c8470db5916b": {
+      "confidence": 0.45,
+      "date": "2026-11-11 10:57:26",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Related WlanSvc_Helper.exe sample uploaded to MalwareBazaar; associated domains show unusual DNS TXT records.",
+      "threat_type": "malware",
+      "tweet_id": "2120470954946048385",
+      "type": "sha256",
+      "value": "21fbfdbd1ffd9626032dd6193dd3077d0ec88a6cea2dab0b2e12c8470db5916b"
+    },
     "220.247.130.43": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -17336,36 +17376,6 @@
       "type": "ip",
       "value": "27.123.254.27"
     },
-    "27.124.17.6": {
-      "confidence": 0.5,
-      "date": "2026-10-12 12:27:02",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malware sample from India submitted to MalwareBazaar that connects to a C2 at 27.124.17.6 on port 7858; family not identified.",
-      "threat_type": "malware",
-      "tweet_id": "2109621865782149405",
-      "type": "ip",
-      "value": "27.124.17.6"
-    },
-    "27.124.17.6:7858": {
-      "confidence": 0.5,
-      "date": "2026-10-12 12:27:02",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malware sample from India submitted to MalwareBazaar that connects to a C2 at 27.124.17.6 on port 7858; family not identified.",
-      "threat_type": "malware",
-      "tweet_id": "2109621865782149405",
-      "type": "url",
-      "value": "http://27.124.17.6:7858"
-    },
     "27.124.36.17": {
       "confidence": 0.5,
       "date": "2026-10-16 06:50:37",
@@ -17655,20 +17665,6 @@
       "type": "md5",
       "value": "28affd3d72889a2c15d33d3eebc320ff"
     },
-    "28d38655d3e9baaafaa097dd327773d58e428820e245f5acef130ec5047d04f6": {
-      "confidence": 0.4,
-      "date": "2026-10-12 07:09:24",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Another ScanDocument-themed RAR sample from Ukraine reported via MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2109541930094797278",
-      "type": "sha256",
-      "value": "28d38655d3e9baaafaa097dd327773d58e428820e245f5acef130ec5047d04f6"
-    },
     "29056221228ad4ab2e458378010e7c04": {
       "confidence": 0.8,
       "date": "2026-10-13 05:26:48",
@@ -17848,6 +17844,23 @@
       "tweet_id": "2112599949745729767",
       "type": "md5",
       "value": "2d47ff06e786c6f6660f1db6ab342af2"
+    },
+    "2db438066fd384cb44628885b702bc7065d91f42d2a51517362bd678b6393393": {
+      "confidence": 0.7,
+      "date": "2026-11-11 11:36:21",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": "DeceptiveDevelopment",
+      "suggested_tags": [
+        "malware",
+        "trojan",
+        "dprk",
+        "lazarus"
+      ],
+      "summary": "ZIP archive for macOS from freemeetly[.]com fake meeting app, detected by ESET as Python/DeceptiveDevelopment.S trojan, suspected North Korean origin.",
+      "threat_type": "malware",
+      "tweet_id": "2120480747534344364",
+      "type": "sha256",
+      "value": "2db438066fd384cb44628885b702bc7065d91f42d2a51517362bd678b6393393"
     },
     "2e2612d964aaf92e7b57bccab58349518bcdfd3a3f07e1c70a71f4f6f6fef16c": {
       "confidence": 0.5,
@@ -27394,6 +27407,23 @@
       "type": "url",
       "value": "http://37.77.150.214"
     },
+    "376fca0f1195a47e5bd959ceaa59adbab571356028402128a0ef58cccaa8cf62": {
+      "confidence": 0.7,
+      "date": "2026-11-11 11:22:17",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2",
+        "malware"
+      ],
+      "summary": "Stealer samples (10 SHA256) communicating with C2 hosted on a railway.app subdomain.",
+      "threat_type": "c2",
+      "tweet_id": "2120477206077972762",
+      "type": "sha256",
+      "value": "376fca0f1195a47e5bd959ceaa59adbab571356028402128a0ef58cccaa8cf62"
+    },
     "378c6b738bd55218c48b380835a8f09ef3597f94ec5142a31ed01d2974756941": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -27467,18 +27497,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "38.126.46.110"
-    },
-    "38.135.122.175": {
-      "confidence": 0.2,
-      "date": "2026-10-12 10:49:06",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Bare IP address 38.135.122.175 shared with no context; nature of the threat unknown.",
-      "threat_type": "other",
-      "tweet_id": "2109597221272305678",
-      "type": "url",
-      "value": "http://38.135.122.175"
     },
     "38.148.20.75": {
       "confidence": 0.5,
@@ -28247,6 +28265,21 @@
       "tweet_id": "2112738029064589398",
       "type": "md5",
       "value": "408f36738f10d2ac47fed558f2820682"
+    },
+    "40a3413fd799d0172027cf49598a9e0eaae20e8640bb261befb0a8400212d463": {
+      "confidence": 0.45,
+      "date": "2026-11-11 08:37:49",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "dprk",
+        "malware"
+      ],
+      "summary": "IconCache.dll sample resembling a DPRK-related malware from last year, first submitted from South Korea.",
+      "threat_type": "malware",
+      "tweet_id": "2120435817088696486",
+      "type": "sha256",
+      "value": "40a3413fd799d0172027cf49598a9e0eaae20e8640bb261befb0a8400212d463"
     },
     "40e4abaa2e5d66df74886cba7620e8ce": {
       "confidence": 0.8,
@@ -29445,21 +29478,6 @@
       "type": "ip",
       "value": "45.153.34.122"
     },
-    "45.153.34.146": {
-      "confidence": 0.6,
-      "date": "2026-10-12 10:21:11",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": "Tsundere",
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Analyst disputes the MuddyWater C2 attribution of 45.153.34.146, suggesting it is shared criminal Tsundere botnet infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2109590194949361731",
-      "type": "url",
-      "value": "http://45.153.34.146"
-    },
     "45.153.34.149": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -30143,6 +30161,23 @@
       "tweet_id": "2115774232999153723",
       "type": "sha256",
       "value": "461f8ab06a9bd0a09ec335b81ac676e1b868c295592abe44edf5c5e1f693639e"
+    },
+    "465203658d68d0f2c4aeafd39bd4d0397add533a2d981cbe73c3e05d9c9bdc42": {
+      "confidence": 0.7,
+      "date": "2026-11-11 11:22:17",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2",
+        "malware"
+      ],
+      "summary": "Stealer samples (10 SHA256) communicating with C2 hosted on a railway.app subdomain.",
+      "threat_type": "c2",
+      "tweet_id": "2120477206077972762",
+      "type": "sha256",
+      "value": "465203658d68d0f2c4aeafd39bd4d0397add533a2d981cbe73c3e05d9c9bdc42"
     },
     "46752a9b3d4ad33bde3817085cefd5e77011499efcd25dec22110233171530e6": {
       "confidence": 0.5,
@@ -31918,6 +31953,23 @@
       "type": "sha256",
       "value": "58eb890b612938867237c3fa1715b8742d9b25a8fe136cd75ea659882b7b7a10"
     },
+    "58f39e5a0c3952be8a8371c8bcb83448c33ad0bf44a5f6dbc43e4cbabb0a4bfb": {
+      "confidence": 0.7,
+      "date": "2026-11-11 11:22:17",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2",
+        "malware"
+      ],
+      "summary": "Stealer samples (10 SHA256) communicating with C2 hosted on a railway.app subdomain.",
+      "threat_type": "c2",
+      "tweet_id": "2120477206077972762",
+      "type": "sha256",
+      "value": "58f39e5a0c3952be8a8371c8bcb83448c33ad0bf44a5f6dbc43e4cbabb0a4bfb"
+    },
     "59.153.202.112": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -31984,6 +32036,20 @@
       "tweet_id": "2112989918314082709",
       "type": "sha256",
       "value": "5a15f996dd4157ea7e88ed80d6a77dfcdd81f54305f4414fee99bd609d01f1b4"
+    },
+    "5a556f114dbd10030c30f454c0e793b1f2788617ce444d60914d5ee970e90544": {
+      "confidence": 0.4,
+      "date": "2026-11-11 06:28:06",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Japanese-targeted malware samples: an executable disguised as an invoice PDF and a DLL named g2m.dll, hashes shared with VirusTotal links.",
+      "threat_type": "malware",
+      "tweet_id": "2120403173164884353",
+      "type": "sha256",
+      "value": "5a556f114dbd10030c30f454c0e793b1f2788617ce444d60914d5ee970e90544"
     },
     "5a593ccc99de8aae9e4bbb7f6da40eb31f769e0f857de39a351b6ed193049b8a": {
       "confidence": 0.6,
@@ -32904,6 +32970,22 @@
       "type": "sha256",
       "value": "67c10a4f7db7fe55953b9b57492d4e6aa9cf0e20f492d193328def2662840c97"
     },
+    "6869377a2ad2416910cca2d38a2efd19": {
+      "confidence": 0.45,
+      "date": "2026-11-11 06:18:12",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": "FormBook",
+      "suggested_tags": [
+        "formbook",
+        "malware",
+        "infostealer"
+      ],
+      "summary": "Japanese malware email with quote-request lure and zip containing a WSF script; possibly VIPKeyLogger or FormBook.",
+      "threat_type": "malware",
+      "tweet_id": "2120400682780090851",
+      "type": "md5",
+      "value": "6869377a2ad2416910cca2d38a2efd19"
+    },
     "6872db8913a00527f90a16c3441051ca88feb8388fe05f0b9f5880edff94e10f": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -33459,6 +33541,23 @@
       "type": "sha256",
       "value": "72a599df6566ab8b9a056ee2b01056cc8198e5be34f4d3f3da1f5af915997748"
     },
+    "72c1a18bae6a90e533e940ce55315cf7422d0eb2f3531550e24202ec9f41eb93": {
+      "confidence": 0.7,
+      "date": "2026-11-11 11:22:17",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2",
+        "malware"
+      ],
+      "summary": "Stealer samples (10 SHA256) communicating with C2 hosted on a railway.app subdomain.",
+      "threat_type": "c2",
+      "tweet_id": "2120477206077972762",
+      "type": "sha256",
+      "value": "72c1a18bae6a90e533e940ce55315cf7422d0eb2f3531550e24202ec9f41eb93"
+    },
     "73308c0cf28292fdc4653e83263e35e6451f0ff8e7f4c28b0db1e57b627841aa": {
       "confidence": 0.8,
       "date": "2026-10-21 06:37:02",
@@ -33728,20 +33827,6 @@
       "type": "sha256",
       "value": "7652186493b52ce42aacc57c9864925935a73aea07938fd7351e23d10a9307cb"
     },
-    "76813f218da40285358e43a39a17d2e2bde45953106fced074fc6a1c3ccb4727": {
-      "confidence": 0.4,
-      "date": "2026-10-12 10:15:36",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Executable 'backgroundTaskHost.exe' from China dropped from an app zip, associated with IP 161.248.14.20.",
-      "threat_type": "malware",
-      "tweet_id": "2109588791853814065",
-      "type": "sha256",
-      "value": "76813f218da40285358e43a39a17d2e2bde45953106fced074fc6a1c3ccb4727"
-    },
     "769f9c2902faed7069eb3deb804774b74a6940aacb95a8561d4fb02b029a6340": {
       "confidence": 0.8,
       "date": "2026-10-18 23:13:52",
@@ -33936,6 +34021,36 @@
       "tweet_id": "2113713009600451023",
       "type": "sha256",
       "value": "782b519154f11ae211cae0e8c4f0c9d8ca1c078d904684bc8923b978c6813898"
+    },
+    "78882.my": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Japanese malware campaign C2 and payload list including a PowerShell script on a compromised WordPress site and multiple domains.",
+      "threat_type": "c2",
+      "tweet_id": "2120400685598683202",
+      "type": "domain",
+      "value": "78882.my"
+    },
+    "78882.my/x44u": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Japanese malware campaign C2 and payload list including a PowerShell script on a compromised WordPress site and multiple domains.",
+      "threat_type": "c2",
+      "tweet_id": "2120400685598683202",
+      "type": "url",
+      "value": "http://78882.my/x44u"
     },
     "78b61346111e80eef8f06bd674b52cec5ced17a43b46b317865a83c8ee579a44": {
       "confidence": 0.85,
@@ -34214,21 +34329,6 @@
       "tweet_id": "2118721448491782265",
       "type": "domain",
       "value": "7fcafe.wwvip88.site"
-    },
-    "7fec388a861ecd2cef7850cb45efdb90a21e7dcedac99ab9f2360361a8667765": {
-      "confidence": 0.6,
-      "date": "2026-10-12 11:36:19",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "RAR sample from Uzbekistan linked to a reported C2 domain (aobaby31.com) resolving to 137.220.156.231.",
-      "threat_type": "c2",
-      "tweet_id": "2109609102460481918",
-      "type": "sha256",
-      "value": "7fec388a861ecd2cef7850cb45efdb90a21e7dcedac99ab9f2360361a8667765"
     },
     "7k.iakmialor.web.id": {
       "confidence": 0.85,
@@ -36277,36 +36377,6 @@
       "type": "url",
       "value": "http://91.210.146.50"
     },
-    "91.215.85.103": {
-      "confidence": 0.6,
-      "date": "2026-10-12 09:50:18",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "ransomware",
-        "malware"
-      ],
-      "summary": "HTTPS URL on 91.215.85.103 with a 'pay_or_leak' path, tagged as ransomware, likely a leak or extortion endpoint.",
-      "threat_type": "ransomware",
-      "tweet_id": "2109582421662552303",
-      "type": "ip",
-      "value": "91.215.85.103"
-    },
-    "91.215.85.103/pay_or_leak/khy3hia7t7mffeyqmz7o5fng": {
-      "confidence": 0.6,
-      "date": "2026-10-12 09:50:18",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "ransomware",
-        "malware"
-      ],
-      "summary": "HTTPS URL on 91.215.85.103 with a 'pay_or_leak' path, tagged as ransomware, likely a leak or extortion endpoint.",
-      "threat_type": "ransomware",
-      "tweet_id": "2109582421662552303",
-      "type": "url",
-      "value": "https://91.215.85.103/pay_or_leak/KHY3HIA7T7MFFEYQMZ7O5FNG"
-    },
     "91.217.249.188": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -36621,22 +36691,6 @@
       "tweet_id": "2115730468264182255",
       "type": "url",
       "value": "http://92.112.53.209:8000"
-    },
-    "92.118.230.55": {
-      "confidence": 0.55,
-      "date": "2026-10-12 08:18:00",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "IP 92.118.230.55 (with sslip.io hostname) reported as a stealer panel, tagged Qatar.",
-      "threat_type": "malware",
-      "tweet_id": "2109559193846050931",
-      "type": "ip",
-      "value": "92.118.230.55"
     },
     "92.242.187.214": {
       "confidence": 0.45,
@@ -37517,6 +37571,23 @@
       "type": "sha256",
       "value": "9cf627efefa6927886783915026a92b9ece78aff4952b111f5dcda424be118a0"
     },
+    "9d18e04b0a38a14bc96fa59e5683167bc0231da977e7d7d4b8bbfaf8ed8537e8": {
+      "confidence": 0.7,
+      "date": "2026-11-11 11:22:17",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2",
+        "malware"
+      ],
+      "summary": "Stealer samples (10 SHA256) communicating with C2 hosted on a railway.app subdomain.",
+      "threat_type": "c2",
+      "tweet_id": "2120477206077972762",
+      "type": "sha256",
+      "value": "9d18e04b0a38a14bc96fa59e5683167bc0231da977e7d7d4b8bbfaf8ed8537e8"
+    },
     "9d7606c319111ba5dce0265a07f64257b2198d1db33722f5dc4738f6d3930b88": {
       "confidence": 0.5,
       "date": "2026-10-28 20:53:22",
@@ -37559,18 +37630,6 @@
       "tweet_id": "2109631186444149222",
       "type": "sha256",
       "value": "9e3400d4ee64bde5506d9b8ddc07f014cb313528b82d7a157486263dafcf2639"
-    },
-    "9eb39bfa5c5ba5493aa9ee3cfd63048d": {
-      "confidence": 0.1,
-      "date": "2026-10-12 07:22:19",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Bare MD5 hash with no context; nature of the threat unknown.",
-      "threat_type": "other",
-      "tweet_id": "2109545181624086969",
-      "type": "md5",
-      "value": "9eb39bfa5c5ba5493aa9ee3cfd63048d"
     },
     "9f34ec35fc57b33ee6118fb608abc46c1e7b9ff89955a158b6c8812b48ed2963": {
       "confidence": 0.85,
@@ -38782,6 +38841,36 @@
       "type": "domain",
       "value": "adobeacrobatupdate.xyz"
     },
+    "advans-okna.ru": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Japanese malware campaign C2 and payload list including a PowerShell script on a compromised WordPress site and multiple domains.",
+      "threat_type": "c2",
+      "tweet_id": "2120400685598683202",
+      "type": "domain",
+      "value": "advans-okna.ru"
+    },
+    "advans-okna.ru/g4zl": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Japanese malware campaign C2 and payload list including a PowerShell script on a compromised WordPress site and multiple domains.",
+      "threat_type": "c2",
+      "tweet_id": "2120400685598683202",
+      "type": "url",
+      "value": "http://advans-okna.ru/g4zl"
+    },
     "ae603fc7d6efe371f583531d0f8e4f3782189f1819c940d087c0447d1bd35e4f": {
       "confidence": 0.8,
       "date": "2026-10-23 20:30:09",
@@ -38797,20 +38886,6 @@
       "tweet_id": "2113729711889346677",
       "type": "sha256",
       "value": "ae603fc7d6efe371f583531d0f8e4f3782189f1819c940d087c0447d1bd35e4f"
-    },
-    "ae77ca969d8da72838100e387e4813d51265375937ad4245f1fce2fd4473493e": {
-      "confidence": 0.4,
-      "date": "2026-10-12 10:05:48",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "ISO file named 'Tax_Notice_75903.iso' seen from Vietnam, likely a tax-themed malware lure.",
-      "threat_type": "malware",
-      "tweet_id": "2109586324252418259",
-      "type": "sha256",
-      "value": "ae77ca969d8da72838100e387e4813d51265375937ad4245f1fce2fd4473493e"
     },
     "ae7cdef673ba700dfd12d96a3b7b22d8f089b0fecbbcf65861c0635718c93581": {
       "confidence": 0.6,
@@ -40190,21 +40265,6 @@
       "tweet_id": "2117379593745350675",
       "type": "domain",
       "value": "anubisclient.cc"
-    },
-    "aobaby31.com": {
-      "confidence": 0.6,
-      "date": "2026-10-12 11:36:19",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "RAR sample from Uzbekistan linked to a reported C2 domain (aobaby31.com) resolving to 137.220.156.231.",
-      "threat_type": "c2",
-      "tweet_id": "2109609102460481918",
-      "type": "domain",
-      "value": "aobaby31.com"
     },
     "aoqinwwrizxbrwm3qb6l4jzgujgmcetp4jaug7fqylbf3xcwqwzvbuid.onion": {
       "confidence": 0.8,
@@ -44034,20 +44094,6 @@
       "type": "url",
       "value": "https://aztrona18.shop/panksea/?tid="
     },
-    "a\u0440\u0440\u04cf\u04e9.com": {
-      "confidence": 0.7,
-      "date": "2026-10-12 07:00:01",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Cyrillic homoglyph typosquatting domains impersonating well-known brands, reported in a news article on Chromium-browser lookalikes.",
-      "threat_type": "phishing",
-      "tweet_id": "2109539568072483256",
-      "type": "domain",
-      "value": "a\u0440\u0440\u04cf\u04e9.com"
-    },
     "b0d8467f2f2ed6a104e45b828b8f3c9637f8cd73a66166c3441aefb336906e95": {
       "confidence": 0.75,
       "date": "2026-10-21 09:43:13",
@@ -44841,6 +44887,66 @@
       "tweet_id": "2117929524948038089",
       "type": "domain",
       "value": "beers.ath.cx"
+    },
+    "beguin.info": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Japanese malware campaign C2 and payload list including a PowerShell script on a compromised WordPress site and multiple domains.",
+      "threat_type": "c2",
+      "tweet_id": "2120400685598683202",
+      "type": "domain",
+      "value": "beguin.info"
+    },
+    "beguin.info/uhi6": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Japanese malware campaign C2 and payload list including a PowerShell script on a compromised WordPress site and multiple domains.",
+      "threat_type": "c2",
+      "tweet_id": "2120400685598683202",
+      "type": "url",
+      "value": "http://beguin.info/uhi6"
+    },
+    "bempons.xyz": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Japanese malware campaign C2 and payload list including a PowerShell script on a compromised WordPress site and multiple domains.",
+      "threat_type": "c2",
+      "tweet_id": "2120400685598683202",
+      "type": "domain",
+      "value": "bempons.xyz"
+    },
+    "bempons.xyz/xhxj": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Japanese malware campaign C2 and payload list including a PowerShell script on a compromised WordPress site and multiple domains.",
+      "threat_type": "c2",
+      "tweet_id": "2120400685598683202",
+      "type": "url",
+      "value": "http://bempons.xyz/xhxj"
     },
     "bepnet.in": {
       "confidence": 0.9,
@@ -47316,6 +47422,38 @@
       "type": "domain",
       "value": "broadspancapital.com"
     },
+    "browser-architecture-sync.com": {
+      "confidence": 0.85,
+      "date": "2026-11-11 09:00:30",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware"
+      ],
+      "summary": "ClickFix campaign at browser-architecture-sync[.]com delivering first-stage PowerShell from remote-helpdesk[.]com; second-stage host is down.",
+      "threat_type": "malware",
+      "tweet_id": "2120441526329438225",
+      "type": "domain",
+      "value": "browser-architecture-sync.com"
+    },
+    "browser-architecture-sync.com/?step=verify": {
+      "confidence": 0.85,
+      "date": "2026-11-11 09:00:30",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware"
+      ],
+      "summary": "ClickFix campaign at browser-architecture-sync[.]com delivering first-stage PowerShell from remote-helpdesk[.]com; second-stage host is down.",
+      "threat_type": "malware",
+      "tweet_id": "2120441526329438225",
+      "type": "url",
+      "value": "https://browser-architecture-sync.com/?step=verify"
+    },
     "browser-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -48441,6 +48579,23 @@
       "tweet_id": "2118580871766978652",
       "type": "domain",
       "value": "c5ldzz07.onlinewebshop.net"
+    },
+    "c6c7c9bb6ad0574a70c8df36d2fea15f0f0a476303c2f2402288c79ae296ca44": {
+      "confidence": 0.7,
+      "date": "2026-11-11 11:22:17",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2",
+        "malware"
+      ],
+      "summary": "Stealer samples (10 SHA256) communicating with C2 hosted on a railway.app subdomain.",
+      "threat_type": "c2",
+      "tweet_id": "2120477206077972762",
+      "type": "sha256",
+      "value": "c6c7c9bb6ad0574a70c8df36d2fea15f0f0a476303c2f2402288c79ae296ca44"
     },
     "c741006e8d1c2f09e35fc4d71590aa21b5fbe7fe2b90cd9a701ae855b2745918": {
       "confidence": 0.5,
@@ -50936,6 +51091,22 @@
       "type": "domain",
       "value": "cocuktekstil.com"
     },
+    "codebase.zip": {
+      "confidence": 0.85,
+      "date": "2026-11-11 10:21:49",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": "SENCILLO RMM",
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "opendir"
+      ],
+      "summary": "Exposed RMM C2 panel and open directory with Go agent, loaders, DLL sideloading packages and ScreenConnect deployment; C2 at 193.180.209.78:7443.",
+      "threat_type": "c2",
+      "tweet_id": "2120461992528118153",
+      "type": "domain",
+      "value": "codebase.zip"
+    },
     "codehub-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -51711,21 +51882,6 @@
       "type": "md5",
       "value": "d16c1d8e862e15d1bdf7594c98e98335"
     },
-    "d1921b648c42486709b70b6fa8dab237faef47719940b4bbfae81e446540bc11": {
-      "confidence": 0.5,
-      "date": "2026-10-12 12:27:02",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malware sample from India submitted to MalwareBazaar that connects to a C2 at 27.124.17.6 on port 7858; family not identified.",
-      "threat_type": "malware",
-      "tweet_id": "2109621865782149405",
-      "type": "sha256",
-      "value": "d1921b648c42486709b70b6fa8dab237faef47719940b4bbfae81e446540bc11"
-    },
     "d1g9mpv1gr3wxx.cloudfront.net": {
       "confidence": 0.8,
       "date": "2026-11-01 04:24:42",
@@ -51993,6 +52149,23 @@
       "type": "sha256",
       "value": "d91922934056bc0894d968a31eb95e9990b90fe50757ab6a7dbf817c210c3e9c"
     },
+    "d91cf57a744517e10f09e569ccea291cfd43d97b6950440f8ccc04bb0c232a83": {
+      "confidence": 0.7,
+      "date": "2026-11-11 11:22:17",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2",
+        "malware"
+      ],
+      "summary": "Stealer samples (10 SHA256) communicating with C2 hosted on a railway.app subdomain.",
+      "threat_type": "c2",
+      "tweet_id": "2120477206077972762",
+      "type": "sha256",
+      "value": "d91cf57a744517e10f09e569ccea291cfd43d97b6950440f8ccc04bb0c232a83"
+    },
     "d931c39f4326d7661be2441f1dc20a62dc75c6966d7b7a25e2f8de52ef51c551": {
       "confidence": 0.4,
       "date": "2026-11-06 14:21:28",
@@ -52069,6 +52242,36 @@
       "tweet_id": "2106293721159582168",
       "type": "domain",
       "value": "dailychefrecipe.com"
+    },
+    "danielleloraellen.com": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Japanese malware campaign C2 and payload list including a PowerShell script on a compromised WordPress site and multiple domains.",
+      "threat_type": "c2",
+      "tweet_id": "2120400685598683202",
+      "type": "domain",
+      "value": "danielleloraellen.com"
+    },
+    "danielleloraellen.com/be9a": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Japanese malware campaign C2 and payload list including a PowerShell script on a compromised WordPress site and multiple domains.",
+      "threat_type": "c2",
+      "tweet_id": "2120400685598683202",
+      "type": "url",
+      "value": "http://danielleloraellen.com/be9a"
     },
     "daohang-whatsapp.com": {
       "confidence": 0.75,
@@ -55267,6 +55470,38 @@
       "type": "sha256",
       "value": "e23507e03916279372baa4f0c314fb3df5d78d741eeb7df25f43fe33ae50d9c5"
     },
+    "e30c0b35ba69eb044347ac21941d809affedcab9eed5b975753f0948c366bb1e": {
+      "confidence": 0.45,
+      "date": "2026-11-11 06:18:12",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": "FormBook",
+      "suggested_tags": [
+        "formbook",
+        "malware",
+        "infostealer"
+      ],
+      "summary": "Japanese malware email with quote-request lure and zip containing a WSF script; possibly VIPKeyLogger or FormBook.",
+      "threat_type": "malware",
+      "tweet_id": "2120400682780090851",
+      "type": "sha256",
+      "value": "e30c0b35ba69eb044347ac21941d809affedcab9eed5b975753f0948c366bb1e"
+    },
+    "e3504423607acfd2e1d0862fe960d8889d82b0c69d5ceac63f4abbe2c8b40a06": {
+      "confidence": 0.85,
+      "date": "2026-11-11 10:21:49",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": "SENCILLO RMM",
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "opendir"
+      ],
+      "summary": "Exposed RMM C2 panel and open directory with Go agent, loaders, DLL sideloading packages and ScreenConnect deployment; C2 at 193.180.209.78:7443.",
+      "threat_type": "c2",
+      "tweet_id": "2120461992528118153",
+      "type": "sha256",
+      "value": "e3504423607acfd2e1d0862fe960d8889d82b0c69d5ceac63f4abbe2c8b40a06"
+    },
     "e385b876ea7c56610564c5edaf3b034e": {
       "confidence": 0.6,
       "date": "2026-10-21 09:35:43",
@@ -55449,6 +55684,22 @@
       "type": "sha256",
       "value": "e64a70a65df16327c7f4b4fe4b2442e480ca0b83d7738b155a4b64c3f84f5be1"
     },
+    "e65c173764610d6c48950e1a1a686ba4c63612ce0a17dc2d9aebb78b1d0ee66e": {
+      "confidence": 0.85,
+      "date": "2026-11-11 10:21:49",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": "SENCILLO RMM",
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "opendir"
+      ],
+      "summary": "Exposed RMM C2 panel and open directory with Go agent, loaders, DLL sideloading packages and ScreenConnect deployment; C2 at 193.180.209.78:7443.",
+      "threat_type": "c2",
+      "tweet_id": "2120461992528118153",
+      "type": "sha256",
+      "value": "e65c173764610d6c48950e1a1a686ba4c63612ce0a17dc2d9aebb78b1d0ee66e"
+    },
     "e6eca876f1e4423eadde8298c879774118f094d0b714a9dd202883b50ddc02dc": {
       "confidence": 0.35,
       "date": "2026-10-22 19:21:53",
@@ -55537,6 +55788,23 @@
       "tweet_id": "2115891975912095764",
       "type": "sha256",
       "value": "e952886ff2c74ead54a7ab09263fcd24bb75d7bc73ad1eceef82f530a2872f87"
+    },
+    "e95b5fdfeed51620ae5ded7e4bf4ad5c19d49c10cb1b9e6f963482afbc62ac3b": {
+      "confidence": 0.7,
+      "date": "2026-11-11 11:22:17",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2",
+        "malware"
+      ],
+      "summary": "Stealer samples (10 SHA256) communicating with C2 hosted on a railway.app subdomain.",
+      "threat_type": "c2",
+      "tweet_id": "2120477206077972762",
+      "type": "sha256",
+      "value": "e95b5fdfeed51620ae5ded7e4bf4ad5c19d49c10cb1b9e6f963482afbc62ac3b"
     },
     "e96c3abaa3185534f1f6c5765b391ba017b75f9d2955a68fdd9b44d2c1f93fd7": {
       "confidence": 0.5,
@@ -55748,6 +56016,23 @@
       "tweet_id": "2117635368405131759",
       "type": "sha256",
       "value": "ec69264f4a445875a94feb2e0a20de4b4d83b92f4fcca31a33fb7de3b387f265"
+    },
+    "ec72c8d491fefaa794640e4ae0e67a5f765d54c84cf2c33606ca5e2505decfe9": {
+      "confidence": 0.7,
+      "date": "2026-11-11 11:22:17",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2",
+        "malware"
+      ],
+      "summary": "Stealer samples (10 SHA256) communicating with C2 hosted on a railway.app subdomain.",
+      "threat_type": "c2",
+      "tweet_id": "2120477206077972762",
+      "type": "sha256",
+      "value": "ec72c8d491fefaa794640e4ae0e67a5f765d54c84cf2c33606ca5e2505decfe9"
     },
     "ecd10815b84885333dd99b56c0e5c58c653373ede83b243947d1c4a8c64dcb12": {
       "confidence": 0.55,
@@ -56082,20 +56367,6 @@
       "tweet_id": "2118711403674501451",
       "type": "sha256",
       "value": "ee3e768983ac1090ee49278575dabea12723527ab9442e7b603ad9b2d7d8f74e"
-    },
-    "ee710c2430567c7740026a3b4772c1c22516196285a58f976b91e2f6ae5dfab3": {
-      "confidence": 0.4,
-      "date": "2026-10-12 10:15:36",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Executable 'backgroundTaskHost.exe' from China dropped from an app zip, associated with IP 161.248.14.20.",
-      "threat_type": "malware",
-      "tweet_id": "2109588791853814065",
-      "type": "sha256",
-      "value": "ee710c2430567c7740026a3b4772c1c22516196285a58f976b91e2f6ae5dfab3"
     },
     "ef32609097b1739fb3353c5d65661ccae670e30be1d9b0ace889284276df5f80": {
       "confidence": 0.8,
@@ -56677,34 +56948,6 @@
       "tweet_id": "2120162405950931347",
       "type": "url",
       "value": "http://excerpthub.com:7979"
-    },
-    "exodusathleticclub.com": {
-      "confidence": 0.9,
-      "date": "2026-10-12 07:01:33",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Wells Fargo phishing page at exodusathleticclub.com mimicking an OTP file download, behind Fastly.",
-      "threat_type": "phishing",
-      "tweet_id": "2109539956251107793",
-      "type": "domain",
-      "value": "exodusathleticclub.com"
-    },
-    "exodusathleticclub.com/wp-content/themes/wordpress/wordpress/wellsfargo%20otp/download%20file.html": {
-      "confidence": 0.9,
-      "date": "2026-10-12 07:01:33",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Wells Fargo phishing page at exodusathleticclub.com mimicking an OTP file download, behind Fastly.",
-      "threat_type": "phishing",
-      "tweet_id": "2109539956251107793",
-      "type": "url",
-      "value": "http://exodusathleticclub.com/wp-content/themes/wordpress/wordpress/WELLSFARGO%20OTP/Download%20File.html"
     },
     "eyeearhospital.com": {
       "confidence": 0.85,
@@ -57843,6 +58086,22 @@
       "type": "sha256",
       "value": "ff3b834c54b4aa387838edca5d2da58133409363c119d5b7ea2a54b20f244128"
     },
+    "ff3e79944e1a572bd57d1fbf9cbc3e58984aad13d4f052842760a1bdbcb19373": {
+      "confidence": 0.85,
+      "date": "2026-11-11 10:21:49",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": "SENCILLO RMM",
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "opendir"
+      ],
+      "summary": "Exposed RMM C2 panel and open directory with Go agent, loaders, DLL sideloading packages and ScreenConnect deployment; C2 at 193.180.209.78:7443.",
+      "threat_type": "c2",
+      "tweet_id": "2120461992528118153",
+      "type": "sha256",
+      "value": "ff3e79944e1a572bd57d1fbf9cbc3e58984aad13d4f052842760a1bdbcb19373"
+    },
     "ff7ce91bedff6d7aa923b3a0b84e81b42acf41468768d1ddd4aa01af250b7635": {
       "confidence": 0.55,
       "date": "2026-10-30 21:13:11",
@@ -57856,22 +58115,6 @@
       "tweet_id": "2116277258025595339",
       "type": "sha256",
       "value": "ff7ce91bedff6d7aa923b3a0b84e81b42acf41468768d1ddd4aa01af250b7635"
-    },
-    "ff9f9d0627906c451b9dc43169a8ad8e8e75673a57465ed1353d1bcfcec40f8c": {
-      "confidence": 0.55,
-      "date": "2026-10-12 09:55:55",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Executable named 'UwU-Stealer.exe' seen from Ukraine, likely an information stealer.",
-      "threat_type": "malware",
-      "tweet_id": "2109583837306945852",
-      "type": "sha256",
-      "value": "ff9f9d0627906c451b9dc43169a8ad8e8e75673a57465ed1353d1bcfcec40f8c"
     },
     "fhnweb-whatsapp.com": {
       "confidence": 0.65,
@@ -59680,6 +59923,38 @@
       "type": "domain",
       "value": "fr.yxdnsy.com"
     },
+    "freemeetly.com": {
+      "confidence": 0.7,
+      "date": "2026-11-11 11:36:21",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": "DeceptiveDevelopment",
+      "suggested_tags": [
+        "malware",
+        "trojan",
+        "dprk"
+      ],
+      "summary": "Fake meeting software download freemeetly[.]com serving macOS zip detected by ESET as Python/DeceptiveDevelopment.S trojan, possibly North Korean.",
+      "threat_type": "malware",
+      "tweet_id": "2120478855630918125",
+      "type": "domain",
+      "value": "freemeetly.com"
+    },
+    "freemeetly.com/download/v1.0.3/mac-x86_64.zip": {
+      "confidence": 0.7,
+      "date": "2026-11-11 11:36:21",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": "DeceptiveDevelopment",
+      "suggested_tags": [
+        "malware",
+        "trojan",
+        "dprk"
+      ],
+      "summary": "Fake meeting software download freemeetly[.]com serving macOS zip detected by ESET as Python/DeceptiveDevelopment.S trojan, possibly North Korean.",
+      "threat_type": "malware",
+      "tweet_id": "2120478855630918125",
+      "type": "url",
+      "value": "https://freemeetly.com/download/v1.0.3/mac-x86_64.zip"
+    },
     "freshmenuideas.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -60167,6 +60442,96 @@
       "type": "domain",
       "value": "get-googlemeet.com"
     },
+    "get.api-mall.vip": {
+      "confidence": 0.45,
+      "date": "2026-11-11 10:57:26",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Domains (get.xiner[.]top, get.yabgo[.]top, get.xabatay[.]top, get.api-mall[.]vip) with strange DNS TXT records, linked to a malware sample.",
+      "threat_type": "c2",
+      "tweet_id": "2120453050481467416",
+      "type": "domain",
+      "value": "get.api-mall.vip"
+    },
+    "get.xabatay.top": {
+      "confidence": 0.45,
+      "date": "2026-11-11 10:57:26",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Domains (get.xiner[.]top, get.yabgo[.]top, get.xabatay[.]top, get.api-mall[.]vip) with strange DNS TXT records, linked to a malware sample.",
+      "threat_type": "c2",
+      "tweet_id": "2120453050481467416",
+      "type": "domain",
+      "value": "get.xabatay.top"
+    },
+    "get.xiner.top": {
+      "confidence": 0.45,
+      "date": "2026-11-11 10:57:26",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Domains (get.xiner[.]top, get.yabgo[.]top, get.xabatay[.]top, get.api-mall[.]vip) with strange DNS TXT records, linked to a malware sample.",
+      "threat_type": "c2",
+      "tweet_id": "2120453050481467416",
+      "type": "domain",
+      "value": "get.xiner.top"
+    },
+    "get.yabgo.top": {
+      "confidence": 0.45,
+      "date": "2026-11-11 10:57:26",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Domains (get.xiner[.]top, get.yabgo[.]top, get.xabatay[.]top, get.api-mall[.]vip) with strange DNS TXT records, linked to a malware sample.",
+      "threat_type": "c2",
+      "tweet_id": "2120453050481467416",
+      "type": "domain",
+      "value": "get.yabgo.top"
+    },
+    "getfamawell.online": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Japanese malware campaign C2 and payload list including a PowerShell script on a compromised WordPress site and multiple domains.",
+      "threat_type": "c2",
+      "tweet_id": "2120400685598683202",
+      "type": "domain",
+      "value": "getfamawell.online"
+    },
+    "getfamawell.online/0mm0": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Japanese malware campaign C2 and payload list including a PowerShell script on a compromised WordPress site and multiple domains.",
+      "threat_type": "c2",
+      "tweet_id": "2120400685598683202",
+      "type": "url",
+      "value": "http://getfamawell.online/0mm0"
+    },
     "getfile.centreomega.ca": {
       "confidence": 0.6,
       "date": "2026-10-28 05:56:35",
@@ -60400,6 +60765,22 @@
       "tweet_id": "2120097350622347346",
       "type": "url",
       "value": "http://github.com/Thaeudt-11"
+    },
+    "github.com/tommymusserlandscaping-sudo/tools-repo/releases/download/fh1793721373/screenconnect.clientsetup.msi": {
+      "confidence": 0.85,
+      "date": "2026-11-11 10:21:49",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": "SENCILLO RMM",
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "opendir"
+      ],
+      "summary": "Exposed RMM C2 panel and open directory with Go agent, loaders, DLL sideloading packages and ScreenConnect deployment; C2 at 193.180.209.78:7443.",
+      "threat_type": "c2",
+      "tweet_id": "2120461992528118153",
+      "type": "url",
+      "value": "http://github.com/tommymusserlandscaping-sudo/tools-repo/releases/download/fh1793721373/ScreenConnect.ClientSetup.msi"
     },
     "github.com/udt-101026": {
       "confidence": 0.85,
@@ -61069,6 +61450,36 @@
       "tweet_id": "2110827129860768135",
       "type": "domain",
       "value": "gumruk.info"
+    },
+    "gunhub.life": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Japanese malware campaign C2 and payload list including a PowerShell script on a compromised WordPress site and multiple domains.",
+      "threat_type": "c2",
+      "tweet_id": "2120400685598683202",
+      "type": "domain",
+      "value": "gunhub.life"
+    },
+    "gunhub.life/dcec": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Japanese malware campaign C2 and payload list including a PowerShell script on a compromised WordPress site and multiple domains.",
+      "threat_type": "c2",
+      "tweet_id": "2120400685598683202",
+      "type": "url",
+      "value": "http://gunhub.life/dcec"
     },
     "gvagsb.cn": {
       "confidence": 0.8,
@@ -62501,6 +62912,21 @@
       "type": "url",
       "value": "https://icgsxf.com/auth/wheaof/token"
     },
+    "icici-lombardrenewal.com": {
+      "confidence": 0.85,
+      "date": "2026-11-11 08:31:38",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Website impersonating ICICI Lombard insurance renewal portal collecting policyholder data with UPI payment; potential phishing and payment fraud.",
+      "threat_type": "phishing",
+      "tweet_id": "2120434261035737488",
+      "type": "domain",
+      "value": "icici-lombardrenewal.com"
+    },
     "icicibankkyc.vercel.app": {
       "confidence": 0.9,
       "date": "2026-11-03 06:23:40",
@@ -62514,6 +62940,81 @@
       "tweet_id": "2117502955314409620",
       "type": "domain",
       "value": "icicibankkyc.vercel.app"
+    },
+    "icicilombardsrenewal.com": {
+      "confidence": 0.85,
+      "date": "2026-11-11 08:31:38",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Website impersonating ICICI Lombard insurance renewal portal collecting policyholder data with UPI payment; potential phishing and payment fraud.",
+      "threat_type": "phishing",
+      "tweet_id": "2120434261035737488",
+      "type": "domain",
+      "value": "icicilombardsrenewal.com"
+    },
+    "icicilombardsrenewal.com/assets/index-br_mew_x.js": {
+      "confidence": 0.85,
+      "date": "2026-11-11 08:31:38",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Website impersonating ICICI Lombard insurance renewal portal collecting policyholder data with UPI payment; potential phishing and payment fraud.",
+      "threat_type": "phishing",
+      "tweet_id": "2120434261035737488",
+      "type": "url",
+      "value": "http://icicilombardsrenewal.com/assets/index-Br_Mew_x.js"
+    },
+    "icicilombardsrenewal.com/assets/vendor-jspdf-bqjpyt4f.js": {
+      "confidence": 0.85,
+      "date": "2026-11-11 08:31:38",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Website impersonating ICICI Lombard insurance renewal portal collecting policyholder data with UPI payment; potential phishing and payment fraud.",
+      "threat_type": "phishing",
+      "tweet_id": "2120434261035737488",
+      "type": "url",
+      "value": "http://icicilombardsrenewal.com/assets/vendor-jspdf-BqJPyT4F.js"
+    },
+    "icicilombardsrenewal.com/assets/vendor-lucide-xezal_wt.js": {
+      "confidence": 0.85,
+      "date": "2026-11-11 08:31:38",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Website impersonating ICICI Lombard insurance renewal portal collecting policyholder data with UPI payment; potential phishing and payment fraud.",
+      "threat_type": "phishing",
+      "tweet_id": "2120434261035737488",
+      "type": "url",
+      "value": "http://icicilombardsrenewal.com/assets/vendor-lucide-xEzAL_Wt.js"
+    },
+    "icicilombardsrenewal.com/assets/vendor-react-bq1fuaax.js": {
+      "confidence": 0.85,
+      "date": "2026-11-11 08:31:38",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Website impersonating ICICI Lombard insurance renewal portal collecting policyholder data with UPI payment; potential phishing and payment fraud.",
+      "threat_type": "phishing",
+      "tweet_id": "2120434261035737488",
+      "type": "url",
+      "value": "http://icicilombardsrenewal.com/assets/vendor-react-BQ1FuAAx.js"
     },
     "icollections.github.io": {
       "confidence": 0.6,
@@ -62614,6 +63115,36 @@
       "tweet_id": "2116077970708107460",
       "type": "domain",
       "value": "identidade-itau.com"
+    },
+    "idmlock.com": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Continuation of C2 list from a Japanese malware email campaign, with multiple domains and URL paths.",
+      "threat_type": "c2",
+      "tweet_id": "2120400687830040996",
+      "type": "domain",
+      "value": "idmlock.com"
+    },
+    "idmlock.com/i5qt": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Continuation of C2 list from a Japanese malware email campaign, with multiple domains and URL paths.",
+      "threat_type": "c2",
+      "tweet_id": "2120400687830040996",
+      "type": "url",
+      "value": "http://idmlock.com/i5qt"
     },
     "ids-whatsapp.com": {
       "confidence": 0.65,
@@ -63982,6 +64513,36 @@
       "type": "domain",
       "value": "kbardiwali.fun"
     },
+    "kddplatform.com": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Continuation of C2 list from a Japanese malware email campaign, with multiple domains and URL paths.",
+      "threat_type": "c2",
+      "tweet_id": "2120400687830040996",
+      "type": "domain",
+      "value": "kddplatform.com"
+    },
+    "kddplatform.com/pgl7": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Continuation of C2 list from a Japanese malware email campaign, with multiple domains and URL paths.",
+      "threat_type": "c2",
+      "tweet_id": "2120400687830040996",
+      "type": "url",
+      "value": "http://kddplatform.com/pgl7"
+    },
     "kdyweb-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -64817,6 +65378,36 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "layout-whatsapp.com"
+    },
+    "leadscorepro.com.br": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Continuation of C2 list from a Japanese malware email campaign, with multiple domains and URL paths.",
+      "threat_type": "c2",
+      "tweet_id": "2120400687830040996",
+      "type": "domain",
+      "value": "leadscorepro.com.br"
+    },
+    "leadscorepro.com.br/zcu3": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Continuation of C2 list from a Japanese malware email campaign, with multiple domains and URL paths.",
+      "threat_type": "c2",
+      "tweet_id": "2120400687830040996",
+      "type": "url",
+      "value": "http://leadscorepro.com.br/zcu3"
     },
     "leanviainc.top": {
       "confidence": 0.75,
@@ -68572,20 +69163,6 @@
       "type": "url",
       "value": "https://nintendo-co.jp.sdfgef.com/RfTAjdvd/"
     },
-    "ni\u0199e.com": {
-      "confidence": 0.7,
-      "date": "2026-10-12 07:00:01",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Cyrillic homoglyph typosquatting domains impersonating well-known brands, reported in a news article on Chromium-browser lookalikes.",
-      "threat_type": "phishing",
-      "tweet_id": "2109539568072483256",
-      "type": "domain",
-      "value": "ni\u0199e.com"
-    },
     "nl-be.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -68952,6 +69529,21 @@
       "tweet_id": "2115875870560694464",
       "type": "url",
       "value": "https://octoberfp.eastus.cloudapp.azure.com/files/KB59985"
+    },
+    "octopuscambodia.com": {
+      "confidence": 0.75,
+      "date": "2026-11-11 06:28:05",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "phishing"
+      ],
+      "summary": "Japanese malware email impersonating an organization's representative with an invoice lure linking to octopuscambodia[.]com, delivering a ScreenConnect zip.",
+      "threat_type": "malware",
+      "tweet_id": "2120403170644173235",
+      "type": "domain",
+      "value": "octopuscambodia.com"
     },
     "offer-diwali-sale2026.space": {
       "confidence": 0.75,
@@ -69485,20 +70077,6 @@
       "type": "domain",
       "value": "outlook365livee.dothome.co.kr"
     },
-    "outlookportal.framer.ai": {
-      "confidence": 0.9,
-      "date": "2026-10-12 12:02:26",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Microsoft Outlook portal phishing hosted on a framer.ai subdomain, impersonating Microsoft login.",
-      "threat_type": "phishing",
-      "tweet_id": "2109615677350748196",
-      "type": "domain",
-      "value": "outlookportal.framer.ai"
-    },
     "output-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -69573,20 +70151,6 @@
       "tweet_id": "2110739233795408142",
       "type": "domain",
       "value": "oxooxmnl67z5t5cctt3uw7ukqoy6k7kr6x5vn2yyhcfpbuj5ddq2hjid.onion"
-    },
-    "o\u0199ta.com": {
-      "confidence": 0.7,
-      "date": "2026-10-12 07:00:01",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Cyrillic homoglyph typosquatting domains impersonating well-known brands, reported in a news article on Chromium-browser lookalikes.",
-      "threat_type": "phishing",
-      "tweet_id": "2109539568072483256",
-      "type": "domain",
-      "value": "o\u0199ta.com"
     },
     "p581488.pro": {
       "confidence": 0.85,
@@ -70628,6 +71192,36 @@
       "type": "domain",
       "value": "primary-link.net"
     },
+    "primelife.si": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Continuation of C2 list from a Japanese malware email campaign, with multiple domains and URL paths.",
+      "threat_type": "c2",
+      "tweet_id": "2120400687830040996",
+      "type": "domain",
+      "value": "primelife.si"
+    },
+    "primelife.si/3ojy": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Continuation of C2 list from a Japanese malware email campaign, with multiple domains and URL paths.",
+      "threat_type": "c2",
+      "tweet_id": "2120400687830040996",
+      "type": "url",
+      "value": "http://primelife.si/3ojy"
+    },
     "primeseriesservice.com": {
       "confidence": 0.8,
       "date": "2026-10-30 21:21:09",
@@ -70711,6 +71305,21 @@
       "tweet_id": "2119124978620830000",
       "type": "domain",
       "value": "privatealps.net"
+    },
+    "pro26.emailserver.vn": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Japanese malware campaign C2 and payload list including a PowerShell script on a compromised WordPress site and multiple domains.",
+      "threat_type": "c2",
+      "tweet_id": "2120400685598683202",
+      "type": "domain",
+      "value": "pro26.emailserver.vn"
     },
     "profile.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -72119,6 +72728,38 @@
       "type": "domain",
       "value": "reload-whatsapp.com"
     },
+    "remote-helpdesk.com": {
+      "confidence": 0.85,
+      "date": "2026-11-11 09:00:30",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware"
+      ],
+      "summary": "ClickFix campaign at browser-architecture-sync[.]com delivering first-stage PowerShell from remote-helpdesk[.]com; second-stage host is down.",
+      "threat_type": "malware",
+      "tweet_id": "2120441526329438225",
+      "type": "domain",
+      "value": "remote-helpdesk.com"
+    },
+    "remote-helpdesk.com/sc.ps1": {
+      "confidence": 0.85,
+      "date": "2026-11-11 09:00:30",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware"
+      ],
+      "summary": "ClickFix campaign at browser-architecture-sync[.]com delivering first-stage PowerShell from remote-helpdesk[.]com; second-stage host is down.",
+      "threat_type": "malware",
+      "tweet_id": "2120441526329438225",
+      "type": "url",
+      "value": "https://remote-helpdesk.com/sc.ps1"
+    },
     "remote.5tr.org": {
       "confidence": 0.92,
       "date": "2026-10-13 15:43:35",
@@ -72350,6 +72991,22 @@
       "tweet_id": "2115796495786242168",
       "type": "url",
       "value": "https://reviewshared.s3.us-east-005.backblazeb2.com/ScreenConnect.ClientSetup.exe"
+    },
+    "rigercloud-network.com": {
+      "confidence": 0.85,
+      "date": "2026-11-11 09:00:30",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware"
+      ],
+      "summary": "ClickFix campaign at browser-architecture-sync[.]com delivering first-stage PowerShell from remote-helpdesk[.]com; second-stage host is down.",
+      "threat_type": "malware",
+      "tweet_id": "2120441526329438225",
+      "type": "domain",
+      "value": "rigercloud-network.com"
     },
     "river-whatsapp.com": {
       "confidence": 0.65,
@@ -77572,20 +78229,6 @@
       "type": "url",
       "value": "https://szghrl.com/site/hpggh.shtml"
     },
-    "s\u0440\u0430\u0441\u04e9\u0445.com": {
-      "confidence": 0.7,
-      "date": "2026-10-12 07:00:01",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Cyrillic homoglyph typosquatting domains impersonating well-known brands, reported in a news article on Chromium-browser lookalikes.",
-      "threat_type": "phishing",
-      "tweet_id": "2109539568072483256",
-      "type": "domain",
-      "value": "s\u0440\u0430\u0441\u04e9\u0445.com"
-    },
     "t-me.fluffydaddy.dev": {
       "confidence": 0.75,
       "date": "2026-10-23 20:47:00",
@@ -79141,6 +79784,36 @@
       "tweet_id": "2112728179232358793",
       "type": "url",
       "value": "https://torvenix.cfd/LOGIN/#/index"
+    },
+    "touriwant.com": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Continuation of C2 list from a Japanese malware email campaign, with multiple domains and URL paths.",
+      "threat_type": "c2",
+      "tweet_id": "2120400687830040996",
+      "type": "domain",
+      "value": "touriwant.com"
+    },
+    "touriwant.com/hrf9": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Continuation of C2 list from a Japanese malware email campaign, with multiple domains and URL paths.",
+      "threat_type": "c2",
+      "tweet_id": "2120400687830040996",
+      "type": "url",
+      "value": "http://touriwant.com/hrf9"
     },
     "tpab7.com": {
       "confidence": 0.9,
@@ -81022,6 +81695,36 @@
       "type": "domain",
       "value": "wazirxr.com"
     },
+    "wdbyyyg.net.cn": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Continuation of C2 list from a Japanese malware email campaign, with multiple domains and URL paths.",
+      "threat_type": "c2",
+      "tweet_id": "2120400687830040996",
+      "type": "domain",
+      "value": "wdbyyyg.net.cn"
+    },
+    "wdbyyyg.net.cn/cs9n": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Continuation of C2 list from a Japanese malware email campaign, with multiple domains and URL paths.",
+      "threat_type": "c2",
+      "tweet_id": "2120400687830040996",
+      "type": "url",
+      "value": "http://wdbyyyg.net.cn/cs9n"
+    },
     "wealthstepguide.com": {
       "confidence": 0.8,
       "date": "2026-11-08 01:01:55",
@@ -81064,6 +81767,23 @@
       "tweet_id": "2118386261312348243",
       "type": "domain",
       "value": "web-keplr.com"
+    },
+    "web-production-ea392.up.railway.app": {
+      "confidence": 0.7,
+      "date": "2026-11-11 11:22:17",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "c2",
+        "malware"
+      ],
+      "summary": "Stealer samples (10 SHA256) communicating with C2 hosted on a railway.app subdomain.",
+      "threat_type": "c2",
+      "tweet_id": "2120477206077972762",
+      "type": "domain",
+      "value": "web-production-ea392.up.railway.app"
     },
     "web-static-cdn.od-files-repo.workers.dev": {
       "confidence": 0.3,
@@ -82674,20 +83394,6 @@
       "type": "url",
       "value": "https://www.dropbox.com/scl/fi/1744i84tld8w95cphyxop/Rabo-Bank_TXN-SEB13.zip?rlkey=21nzaofbihw84yl5gj4gex2bt&dl=1"
     },
-    "www.exodusathleticclub.com/wp-content/themes/wordpress/wordpress/wellsfargo%20otp/download%20file.html": {
-      "confidence": 0.9,
-      "date": "2026-10-12 12:03:24",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Wells Fargo-themed phishing page on a compromised WordPress site (exodusathleticclub.com) posing as an OTP file download, behind Fastly.",
-      "threat_type": "phishing",
-      "tweet_id": "2109615918150045954",
-      "type": "url",
-      "value": "https://www.exodusathleticclub.com/wp-content/themes/wordpress/wordpress/WELLSFARGO%20OTP/Download%20File.html"
-    },
     "www.eyeearhospital.com/bnd": {
       "confidence": 0.85,
       "date": "2026-10-28 04:09:30",
@@ -82777,6 +83483,21 @@
       "tweet_id": "2117638051925221815",
       "type": "url",
       "value": "https://www.hubert-chauffage.fr"
+    },
+    "www.icici-lombardrenewal.com": {
+      "confidence": 0.85,
+      "date": "2026-11-11 08:31:38",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Website impersonating ICICI Lombard insurance renewal portal collecting policyholder data with UPI payment; potential phishing and payment fraud.",
+      "threat_type": "phishing",
+      "tweet_id": "2120434261035737488",
+      "type": "url",
+      "value": "http://www.icici-lombardrenewal.com"
     },
     "www.isgraphicsport.net/cloud/index.php": {
       "confidence": 0.45,
@@ -83327,6 +84048,36 @@
       "tweet_id": "2112240587009106370",
       "type": "url",
       "value": "https://xml-v4.pushub.net/click?i=oZLtssJ2Czc_0"
+    },
+    "xn--c1akgojhh.xn--p1ai": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Continuation of C2 list from a Japanese malware email campaign, with multiple domains and URL paths.",
+      "threat_type": "c2",
+      "tweet_id": "2120400687830040996",
+      "type": "domain",
+      "value": "xn--c1akgojhh.xn--p1ai"
+    },
+    "xn--c1akgojhh.xn--p1ai/t19m": {
+      "confidence": 0.55,
+      "date": "2026-11-11 06:18:13",
+      "enriched_at": "2026-11-11T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Continuation of C2 list from a Japanese malware email campaign, with multiple domains and URL paths.",
+      "threat_type": "c2",
+      "tweet_id": "2120400687830040996",
+      "type": "url",
+      "value": "http://xn--c1akgojhh.xn--p1ai/t19m"
     },
     "xn--ehqqgw46acy5a.top": {
       "confidence": 0.5,
@@ -84797,6 +85548,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-11T06:40:05Z",
+  "generated_at": "2026-11-11T12:40:04Z",
   "window_days": 30
 }
