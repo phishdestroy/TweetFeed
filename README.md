@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-11 10:15:19 (UTC)</th>
+        <th colspan=4>2026-11-11 10:30:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,10 +187,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 41 | 675 | 3217 | 44226 |
-| **:globe_with_meridians: Domains** | 33 | 577 | 2693 | 38059 |
-| **:triangular_flag_on_post: IPs** | 1 | 124 | 2241 | 8016 |
-| **:1234: SHA256** | 4 | 114 | 585 | 3255 |
+| **:link: URLs** | 45 | 679 | 3221 | 44230 |
+| **:globe_with_meridians: Domains** | 34 | 578 | 2694 | 38060 |
+| **:triangular_flag_on_post: IPs** | 2 | 125 | 2242 | 8017 |
+| **:1234: SHA256** | 7 | 117 | 588 | 3258 |
 | **:1234: MD5** | 4 | 30 | 119 | 2043 |
 
 </div>
@@ -207,9 +207,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#phishing** | 24 | 837 | 3734 | 31510 |
 | **#Kimsuky** | 0 | 10 | 48 | 13315 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
-| **#malware** | 10 | 234 | 1224 | 4316 |
+| **#malware** | 19 | 243 | 1233 | 4325 |
 | **#scam** | 0 | 4 | 40 | 2780 |
-| **#C2** | 0 | 45 | 158 | 2112 |
+| **#C2** | 9 | 54 | 167 | 2121 |
 | **#APT** | 0 | 24 | 67 | 1478 |
 | **#ClickFix** | 8 | 70 | 303 | 1255 |
 | **#ransomware** | 0 | 5 | 84 | 687 |
@@ -231,12 +231,12 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [tdatwja](https://x.com/tdatwja) | 47 |
 | **#2** | [Malwarehunterr](https://x.com/Malwarehunterr) | 16 |
-| **#3** | [masaomi346](https://x.com/masaomi346) | 8 |
-| **#4** | [TKemmerling](https://x.com/TKemmerling) | 6 |
-| **#5** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#6** | [suyog41](https://x.com/suyog41) | 1 |
-| **#7** | [smica83](https://x.com/smica83) | 1 |
-| **#8** | [-](https://x.com/-) | 0 |
+| **#3** | [skocherhan](https://x.com/skocherhan) | 9 |
+| **#4** | [masaomi346](https://x.com/masaomi346) | 8 |
+| **#5** | [TKemmerling](https://x.com/TKemmerling) | 6 |
+| **#6** | [scanmalware](https://x.com/scanmalware) | 4 |
+| **#7** | [suyog41](https://x.com/suyog41) | 1 |
+| **#8** | [smica83](https://x.com/smica83) | 1 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
 <!-- TOP_REPORTERS_END -->
