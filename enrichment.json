@@ -1,5 +1,5 @@
 {
-  "count": 5985,
+  "count": 5990,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -347,23 +347,6 @@
       "type": "md5",
       "value": "06ec7e87c2762746dc7157dfbad7aa68"
     },
-    "078ca0e41957369c39c5d3d249ed5821b33726b3e09403b301704b2c02b46cc9": {
-      "confidence": 0.8,
-      "date": "2026-10-11 23:58:30",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax service, distributed via fake domains huarendiche-jp.com and shanxinsawe-jp.com, with an associated APK hash.",
-      "threat_type": "malware",
-      "tweet_id": "2109433491083632867",
-      "type": "sha256",
-      "value": "078ca0e41957369c39c5d3d249ed5821b33726b3e09403b301704b2c02b46cc9"
-    },
     "07a6ff4d6df9c05201319ca04e4d52bae8fe8d5e6b226907e81431da73c0f7c9": {
       "confidence": 0.2,
       "date": "2026-11-02 13:50:59",
@@ -658,6 +641,22 @@
       "tweet_id": "2119200763557917071",
       "type": "sha256",
       "value": "0d42cc34c2eefed99a65f9a979adad55e2927be14cc94b26a657b5808fa39614"
+    },
+    "0d82d27c1d60b8855d933ef7b247804d2926c26e61f3c1edc8b89a9bf86a57a1": {
+      "confidence": 0.4,
+      "date": "2026-11-10 18:38:15",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "dprk",
+        "apt"
+      ],
+      "summary": "Sample related to ubuntulivepatch.com, a domain that may be used by North Korean actors.",
+      "threat_type": "malware",
+      "tweet_id": "2120224532770201989",
+      "type": "sha256",
+      "value": "0d82d27c1d60b8855d933ef7b247804d2926c26e61f3c1edc8b89a9bf86a57a1"
     },
     "0dc5538bf5593b37f59893629161b7aed3e965218b7dd83296f6ad51b6cae046": {
       "confidence": 0.6,
@@ -5040,6 +5039,21 @@
       "type": "md5",
       "value": "125425ec2534d4607ff21632000ef8f4"
     },
+    "128188511e53252b7018c180ac8e95173ab70258f42f08f1c4e9e922c466dcaf": {
+      "confidence": 0.5,
+      "date": "2026-11-10 21:21:41",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake 'Zoom.exe' sample advertised as FUD (fully undetectable), tied to domain satantools.xyz; likely a malicious loader or tool disguised as Zoom.",
+      "threat_type": "malware",
+      "tweet_id": "2120265662782152890",
+      "type": "sha256",
+      "value": "128188511e53252b7018c180ac8e95173ab70258f42f08f1c4e9e922c466dcaf"
+    },
     "129.121.62.230": {
       "confidence": 0.9,
       "date": "2026-10-16 14:03:21",
@@ -7693,20 +7707,6 @@
       "tweet_id": "2111358888125878426",
       "type": "url",
       "value": "http://144.172.64.128"
-    },
-    "144.172.86.173": {
-      "confidence": 0.6,
-      "date": "2026-10-11 21:00:46",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": "Pawns proxyjacking",
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Threat actor compromised an exposed Linux server, dropped a JSP webshell and installed Pawns.app proxyware (proxyjacking), fetched from two IPs, persisting via cron.",
-      "threat_type": "other",
-      "tweet_id": "2109388761943417181",
-      "type": "url",
-      "value": "http://144.172.86.173"
     },
     "144.202.75.159": {
       "confidence": 0.5,
@@ -11233,20 +11233,6 @@
       "tweet_id": "2120043207895752987",
       "type": "ip",
       "value": "172.86.118.49"
-    },
-    "172.86.125.130": {
-      "confidence": 0.85,
-      "date": "2026-10-11 23:57:24",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site areadocliente.shop hosted on 172.86.125.130 (RouterHosting LLC, AS14956, US), reported by PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2109433213764452787",
-      "type": "ip",
-      "value": "172.86.125.130"
     },
     "172.86.86.60": {
       "confidence": 0.5,
@@ -15736,20 +15722,6 @@
       "type": "url",
       "value": "http://209.74.83.47"
     },
-    "209.99.190.80": {
-      "confidence": 0.6,
-      "date": "2026-10-11 21:00:46",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": "Pawns proxyjacking",
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Threat actor compromised an exposed Linux server, dropped a JSP webshell and installed Pawns.app proxyware (proxyjacking), fetched from two IPs, persisting via cron.",
-      "threat_type": "other",
-      "tweet_id": "2109388761943417181",
-      "type": "url",
-      "value": "http://209.99.190.80"
-    },
     "210.121.44.147": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -15974,6 +15946,35 @@
       "tweet_id": "2119701847304794253",
       "type": "ip",
       "value": "216.150.1.129"
+    },
+    "216.203.20.126": {
+      "confidence": 0.45,
+      "date": "2026-11-10 22:53:11",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP address 216.203.20.126 shared as an indicator; linked to a related malware sample using it as a C2 server.",
+      "threat_type": "c2",
+      "tweet_id": "2120286008549990620",
+      "type": "url",
+      "value": "http://216.203.20.126"
+    },
+    "216.203.20.126:10443": {
+      "confidence": 0.6,
+      "date": "2026-11-10 22:53:11",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malware sample 'zra091jn.exe' downloaded from a Backblaze B2 URL disguised as .jpg; communicates with C2 at 216.203.20.126:10443 over TCP.",
+      "threat_type": "c2",
+      "tweet_id": "2120288690178306511",
+      "type": "url",
+      "value": "http://216.203.20.126:10443"
     },
     "216.23.81.132": {
       "confidence": 0.5,
@@ -27072,6 +27073,20 @@
       "type": "ip",
       "value": "36.50.250.37"
     },
+    "361338428320c8243e1f9a0bc0625c553a133b3495bd8b4452251ab5feb95810": {
+      "confidence": 0.45,
+      "date": "2026-11-10 18:59:23",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious ZIP archive hosted on a MediaFire download URL, uploaded to MalwareBazaar; family not identified.",
+      "threat_type": "malware",
+      "tweet_id": "2120229854515806406",
+      "type": "sha256",
+      "value": "361338428320c8243e1f9a0bc0625c553a133b3495bd8b4452251ab5feb95810"
+    },
     "362e3bafe3a2a78800b995167e841b149de7bc89fbcb567851034f6b4be73b9b": {
       "confidence": 0.9,
       "date": "2026-11-08 12:51:31",
@@ -27274,6 +27289,21 @@
       "tweet_id": "2113720731897119108",
       "type": "url",
       "value": "http://37.128.206.215"
+    },
+    "37.200.253.254": {
+      "confidence": 0.5,
+      "date": "2026-11-10 21:11:22",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malware sample masquerading as 'explorer.exe' seen from Kuwait, communicating with domain mootoo.ccwu.cc and IP 37.200.253.254.",
+      "threat_type": "malware",
+      "tweet_id": "2120263066633773388",
+      "type": "url",
+      "value": "http://37.200.253.254"
     },
     "37.27.4.20": {
       "confidence": 0.85,
@@ -31921,6 +31951,21 @@
       "type": "sha256",
       "value": "5ab77d640643354800ac7a4a31eb407bcc2b56d70d0e9c4853bba07b1d58cb4d"
     },
+    "5b41395812a4af51feed44ee3b987d68b288ddb978a33e3d299bb238bcd03a20": {
+      "confidence": 0.55,
+      "date": "2026-11-10 20:56:45",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Fake invoice 'Invoice_2026-11-08.pdf.exe' seen from Spain using a trycloudflare.com tunnel domain, likely as a malware delivery or C2 channel.",
+      "threat_type": "malware",
+      "tweet_id": "2120259390964207771",
+      "type": "sha256",
+      "value": "5b41395812a4af51feed44ee3b987d68b288ddb978a33e3d299bb238bcd03a20"
+    },
     "5b9e3dd417961cc21ebd0d146796a64622a840cfd035e5ee0a68535d6b463a43": {
       "confidence": 0.45,
       "date": "2026-11-02 18:45:19",
@@ -33366,6 +33411,20 @@
       "tweet_id": "2112795276310425915",
       "type": "sha256",
       "value": "73308c0cf28292fdc4653e83263e35e6451f0ff8e7f4c28b0db1e57b627841aa"
+    },
+    "73b2767f8bc6a714e7882645a355d8f85dedebc55e0efc9b8b1187ab26449614": {
+      "confidence": 0.5,
+      "date": "2026-11-10 22:38:53",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "ISO file posing as an 'OpenBullet2 AI Full Config' seen from Romania, associated with domain masterkbn.lol; likely malware lure targeting credential-stuffing users.",
+      "threat_type": "malware",
+      "tweet_id": "2120285093247979535",
+      "type": "sha256",
+      "value": "73b2767f8bc6a714e7882645a355d8f85dedebc55e0efc9b8b1187ab26449614"
     },
     "73c0f45d7d10d3184f0fe17dfc1c855e264bd995c771d90aea5fbeb8dddd07bd": {
       "confidence": 0.8,
@@ -35953,6 +36012,21 @@
       "tweet_id": "2116549344379998235",
       "type": "sha256",
       "value": "8bc90c20c7a1b23920d979ea6e416024d92220ac1853d52d9a6bf47e958cf83f"
+    },
+    "8c56e2e69fc805ce2a13c7a4708c934c6f697184e15489e6f56d0b51352c77a9": {
+      "confidence": 0.5,
+      "date": "2026-11-10 21:11:22",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malware sample masquerading as 'explorer.exe' seen from Kuwait, communicating with domain mootoo.ccwu.cc and IP 37.200.253.254.",
+      "threat_type": "malware",
+      "tweet_id": "2120263066633773388",
+      "type": "sha256",
+      "value": "8c56e2e69fc805ce2a13c7a4708c934c6f697184e15489e6f56d0b51352c77a9"
     },
     "8c9254a4c2123e1483e5c4dd7ae9e1878fbfeaad06c095d5d61fa437fd194a08": {
       "confidence": 0.6,
@@ -43345,20 +43419,6 @@
       "type": "domain",
       "value": "ar.webhwsapp-whatsapp.com"
     },
-    "areadocliente.shop": {
-      "confidence": 0.85,
-      "date": "2026-10-11 23:57:24",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site areadocliente.shop hosted on 172.86.125.130 (RouterHosting LLC, AS14956, US), reported by PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2109433213764452787",
-      "type": "domain",
-      "value": "areadocliente.shop"
-    },
     "arkgrup.com": {
       "confidence": 0.85,
       "date": "2026-10-14 22:24:14",
@@ -44120,6 +44180,34 @@
       "tweet_id": "2111022610280550553",
       "type": "sha256",
       "value": "b5e640b7676e3ef1741d902dfb183e6129aa997d4b99a9626af9bb7c022e796f"
+    },
+    "b62220191f940c681ae090deae9ba3c53fff593b2202464dd8dcecc567c1c5e9": {
+      "confidence": 0.3,
+      "date": "2026-11-10 21:25:07",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Sample 'runtime.dll' uploaded to MalwareBazaar; no further context on family or behavior provided.",
+      "threat_type": "malware",
+      "tweet_id": "2120266528541315493",
+      "type": "sha256",
+      "value": "b62220191f940c681ae090deae9ba3c53fff593b2202464dd8dcecc567c1c5e9"
+    },
+    "b64099e8ec95f26c545f6bda9ff451de2b28e337636b7c91cbf07cc0f9268558": {
+      "confidence": 0.5,
+      "date": "2026-11-10 21:44:24",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Executable 'WinUpdateManager.exe' seen from Uzbekistan that uses the Telegram API (api.telegram.org), likely for command-and-control or exfiltration.",
+      "threat_type": "malware",
+      "tweet_id": "2120271379840778654",
+      "type": "sha256",
+      "value": "b64099e8ec95f26c545f6bda9ff451de2b28e337636b7c91cbf07cc0f9268558"
     },
     "b64a03b41ad609ecb9dff0dc4630e548f50f154e231d43c64019b4db5e7d3727": {
       "confidence": 0.6,
@@ -53231,20 +53319,6 @@
       "type": "domain",
       "value": "digilocker.services"
     },
-    "dillardindustrial.com": {
-      "confidence": 0.8,
-      "date": "2026-10-11 23:57:21",
-      "enriched_at": "2026-11-08T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing alert: a QuoteWizard-themed offer originating from the unrelated domain dillardindustrial[.]com.",
-      "threat_type": "phishing",
-      "tweet_id": "2109433203681542559",
-      "type": "domain",
-      "value": "dillardindustrial.com"
-    },
     "disable-own-nest-response.trycloudflare.com": {
       "confidence": 0.5,
       "date": "2026-10-17 17:20:22",
@@ -54611,6 +54685,34 @@
       "type": "domain",
       "value": "download.youlovemybiba.com"
     },
+    "download1078.mediafire.com": {
+      "confidence": 0.45,
+      "date": "2026-11-10 18:59:23",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious ZIP archive hosted on a MediaFire download URL, uploaded to MalwareBazaar; family not identified.",
+      "threat_type": "malware",
+      "tweet_id": "2120229854515806406",
+      "type": "domain",
+      "value": "download1078.mediafire.com"
+    },
+    "download1078.mediafire.com/q7dbmzhwi2ggshfriqtc29mmlc43a44-ym45l6rb1rgxxlaryvok58ah-zmvhfdj9vnjasohjxbb_dljpgkih9lldzh8ngcfknheqpyvykiyzzyo1dz5xojtosjo1_yylrhl-qnvrs67mpjutdu0_hzzreqnaw4ufjn-vmwspk_ks8q/rpyqej595l7sjfj/20250627752690121_bikm3d_135112_actgmkzqn_vig.zip": {
+      "confidence": 0.45,
+      "date": "2026-11-10 18:59:23",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious ZIP archive hosted on a MediaFire download URL, uploaded to MalwareBazaar; family not identified.",
+      "threat_type": "malware",
+      "tweet_id": "2120229854515806406",
+      "type": "url",
+      "value": "https://download1078.mediafire.com/q7dbmzhwi2ggShFRiqtc29MmLc43a44-Ym45L6RB1rGXxLaRyVOK58aH-ZMvHfDj9vnjaSoHjxBB_DljpgKIH9llDzH8nGCFkNHeqpyvYKiYZZYO1dz5xOJToSJO1_YYLRhl-QnVrS67MpjUtDU0_HZZrEqnaw4UfJN-vMwSpK_Ks8Q/rpyqej595l7sjfj/20250627752690121_BIKM3D_135112_ActGMKZQN_Vig.zip"
+    },
     "downloadessays.net": {
       "confidence": 0.85,
       "date": "2026-11-02 12:34:05",
@@ -54995,23 +55097,6 @@
       "type": "sha256",
       "value": "e006d6bd7f00bb25d86951b370c5c19ed7adc0ba65a8fbff281e050e55925941"
     },
-    "e03cf54b42138aa85560a5d6d6697d931b2d84896045debb0285a6e864856089": {
-      "confidence": 0.8,
-      "date": "2026-10-11 23:47:12",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware impersonating the Mercari marketplace app, distributed through nine .cn domains, with an associated APK hash.",
-      "threat_type": "malware",
-      "tweet_id": "2109430647815323920",
-      "type": "sha256",
-      "value": "e03cf54b42138aa85560a5d6d6697d931b2d84896045debb0285a6e864856089"
-    },
     "e050ddccbdac97dfc8eb41760a76b1ae7f0c9e22a44034304462ea20c3ed51f5": {
       "confidence": 0.6,
       "date": "2026-10-16 22:09:34",
@@ -55241,6 +55326,20 @@
       "type": "md5",
       "value": "e5cc0827446e1b664d47e452b0390ce2"
     },
+    "e6115c16ea2b759c42bccf62e8f9e766481bbcdcbb16189bf95a7443608fe213": {
+      "confidence": 0.55,
+      "date": "2026-11-10 20:23:55",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious JavaScript file posing as an Adobe document, fetched from a Pixeldrain download URL; likely a malware downloader.",
+      "threat_type": "malware",
+      "tweet_id": "2120251127639822467",
+      "type": "sha256",
+      "value": "e6115c16ea2b759c42bccf62e8f9e766481bbcdcbb16189bf95a7443608fe213"
+    },
     "e6240ab3c91c4059a84c0415db1d68d0": {
       "confidence": 0.8,
       "date": "2026-10-21 02:49:33",
@@ -55273,6 +55372,21 @@
       "tweet_id": "2112738024262181174",
       "type": "md5",
       "value": "e6363b8ec386338ce08f159a739f0e97"
+    },
+    "e64a70a65df16327c7f4b4fe4b2442e480ca0b83d7738b155a4b64c3f84f5be1": {
+      "confidence": 0.5,
+      "date": "2026-11-10 21:01:22",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Executable 'sys_update.exe' seen from Ukraine using an ngrok-free.dev tunnel domain, likely as C2 infrastructure.",
+      "threat_type": "c2",
+      "tweet_id": "2120260551343251836",
+      "type": "sha256",
+      "value": "e64a70a65df16327c7f4b4fe4b2442e480ca0b83d7738b155a4b64c3f84f5be1"
     },
     "e6eca876f1e4423eadde8298c879774118f094d0b714a9dd202883b50ddc02dc": {
       "confidence": 0.35,
@@ -55750,6 +55864,21 @@
       "tweet_id": "2110303690368102734",
       "type": "sha256",
       "value": "ed492e44430151b8a8ad23bb5f5cb097b629fc16455b85ab55383dc5fcf9d813"
+    },
+    "eddbb7f87f6c3fd788f5aa002bf8ff5bf75cbdef2cced815cd412807a655168d": {
+      "confidence": 0.6,
+      "date": "2026-11-10 22:53:11",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malware sample 'zra091jn.exe' downloaded from a Backblaze B2 URL disguised as .jpg; communicates with C2 at 216.203.20.126:10443 over TCP.",
+      "threat_type": "c2",
+      "tweet_id": "2120288690178306511",
+      "type": "sha256",
+      "value": "eddbb7f87f6c3fd788f5aa002bf8ff5bf75cbdef2cced815cd412807a655168d"
     },
     "edgeapi-whatsapp.com": {
       "confidence": 0.7,
@@ -56416,20 +56545,6 @@
       "type": "domain",
       "value": "es.webhwsapp-whatsapp.com"
     },
-    "esdev.my.id": {
-      "confidence": 0.6,
-      "date": "2026-10-11 22:10:05",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Website esdev.my.id flagged as a confirmed scam by a web malware scanner; the tweet's Ransomware hashtag looks unrelated to the verdict.",
-      "threat_type": "scam",
-      "tweet_id": "2109406207223955641",
-      "type": "domain",
-      "value": "esdev.my.id"
-    },
     "essentialkneadsforhealth.com": {
       "confidence": 0.9,
       "date": "2026-10-15 07:13:22",
@@ -56572,6 +56687,36 @@
       "tweet_id": "2111427256992034933",
       "type": "url",
       "value": "http://f005.backblazeb2.com/file/yttyytg/xfinityyyy.comcky.html"
+    },
+    "f006.backblazeb2.com": {
+      "confidence": 0.6,
+      "date": "2026-11-10 22:53:11",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malware sample 'zra091jn.exe' downloaded from a Backblaze B2 URL disguised as .jpg; communicates with C2 at 216.203.20.126:10443 over TCP.",
+      "threat_type": "c2",
+      "tweet_id": "2120288690178306511",
+      "type": "domain",
+      "value": "f006.backblazeb2.com"
+    },
+    "f006.backblazeb2.com/file/nlptntpx/zra091jn.jpg": {
+      "confidence": 0.6,
+      "date": "2026-11-10 22:53:11",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malware sample 'zra091jn.exe' downloaded from a Backblaze B2 URL disguised as .jpg; communicates with C2 at 216.203.20.126:10443 over TCP.",
+      "threat_type": "c2",
+      "tweet_id": "2120288690178306511",
+      "type": "url",
+      "value": "https://f006.backblazeb2.com/file/nlptntpx/zra091jn.jpg"
     },
     "f01a48c8331ab1b0f6be762e172d5469887190e526b87a90defff0c4d14f0365": {
       "confidence": 0.85,
@@ -61219,6 +61364,21 @@
       "type": "domain",
       "value": "healthlys.com"
     },
+    "heaven-ads.com": {
+      "confidence": 0.5,
+      "date": "2026-11-10 18:49:32",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "opendir"
+      ],
+      "summary": "Password-protected nested ZIP (SETUP.zip) with rotating PIN; origin server's default site is a pay-per-install network, heaven-ads.com, suggesting PPI malware distribution.",
+      "threat_type": "malware",
+      "tweet_id": "2120227374222733684",
+      "type": "domain",
+      "value": "heaven-ads.com"
+    },
     "heightsviha-jp.com": {
       "confidence": 0.8,
       "date": "2026-11-04 00:42:01",
@@ -61958,23 +62118,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "httpsrv-whatsapp.com"
-    },
-    "huarendiche-jp.com": {
-      "confidence": 0.8,
-      "date": "2026-10-11 23:58:30",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax service, distributed via fake domains huarendiche-jp.com and shanxinsawe-jp.com, with an associated APK hash.",
-      "threat_type": "malware",
-      "tweet_id": "2109433491083632867",
-      "type": "domain",
-      "value": "huarendiche-jp.com"
     },
     "hub2-whatsapp.com": {
       "confidence": 0.75,
@@ -63288,23 +63431,6 @@
       "type": "domain",
       "value": "jasperbalcony.live"
     },
-    "jbivjg.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-11 23:47:12",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware impersonating the Mercari marketplace app, distributed through nine .cn domains, with an associated APK hash.",
-      "threat_type": "malware",
-      "tweet_id": "2109430647815323920",
-      "type": "domain",
-      "value": "jbivjg.cn"
-    },
     "jbm-attrezzi.com": {
       "confidence": 0.75,
       "date": "2026-11-01 23:06:11",
@@ -63438,23 +63564,6 @@
       "tweet_id": "2110986754362581153",
       "type": "domain",
       "value": "jksdjkjs.cc"
-    },
-    "jlysss.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-11 23:47:12",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware impersonating the Mercari marketplace app, distributed through nine .cn domains, with an associated APK hash.",
-      "threat_type": "malware",
-      "tweet_id": "2109430647815323920",
-      "type": "domain",
-      "value": "jlysss.cn"
     },
     "jmblxd.cn": {
       "confidence": 0.8,
@@ -63925,6 +64034,21 @@
       "tweet_id": "2118386394217541738",
       "type": "domain",
       "value": "keplr.to"
+    },
+    "kerchief-barbecue-lullaby.ngrok-free.dev": {
+      "confidence": 0.5,
+      "date": "2026-11-10 21:01:22",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Executable 'sys_update.exe' seen from Ukraine using an ngrok-free.dev tunnel domain, likely as C2 infrastructure.",
+      "threat_type": "c2",
+      "tweet_id": "2120260551343251836",
+      "type": "domain",
+      "value": "kerchief-barbecue-lullaby.ngrok-free.dev"
     },
     "kethvion.cfd": {
       "confidence": 0.9,
@@ -66211,6 +66335,20 @@
       "type": "domain",
       "value": "mastergrillrecipes.com"
     },
+    "masterkbn.lol": {
+      "confidence": 0.5,
+      "date": "2026-11-10 22:38:53",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "ISO file posing as an 'OpenBullet2 AI Full Config' seen from Romania, associated with domain masterkbn.lol; likely malware lure targeting credential-stuffing users.",
+      "threat_type": "malware",
+      "tweet_id": "2120285093247979535",
+      "type": "domain",
+      "value": "masterkbn.lol"
+    },
     "mastermyrecipe.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -66256,6 +66394,21 @@
       "tweet_id": "2111585106725122268",
       "type": "domain",
       "value": "materialdeconstrucaoalves.com"
+    },
+    "maternity-jazz-spread-opposite.trycloudflare.com": {
+      "confidence": 0.55,
+      "date": "2026-11-10 20:56:45",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Fake invoice 'Invoice_2026-11-08.pdf.exe' seen from Spain using a trycloudflare.com tunnel domain, likely as a malware delivery or C2 channel.",
+      "threat_type": "malware",
+      "tweet_id": "2120259390964207771",
+      "type": "domain",
+      "value": "maternity-jazz-spread-opposite.trycloudflare.com"
     },
     "matizu.com": {
       "confidence": 0.65,
@@ -66653,23 +66806,6 @@
       "tweet_id": "2110315930588942648",
       "type": "domain",
       "value": "mgfdeutschland.com"
-    },
-    "mggesq.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-11 23:47:12",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware impersonating the Mercari marketplace app, distributed through nine .cn domains, with an associated APK hash.",
-      "threat_type": "malware",
-      "tweet_id": "2109430647815323920",
-      "type": "domain",
-      "value": "mggesq.cn"
     },
     "mgmylc.cc": {
       "confidence": 0.85,
@@ -67259,20 +67395,6 @@
       "type": "domain",
       "value": "mmarketplaces.com"
     },
-    "mmmonroy.com": {
-      "confidence": 0.75,
-      "date": "2026-10-11 23:00:03",
-      "enriched_at": "2026-11-09T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing alert: fake Empire Today estimate offers originating from an unrelated domain flagged by threat intelligence providers.",
-      "threat_type": "phishing",
-      "tweet_id": "2109418783647715826",
-      "type": "domain",
-      "value": "mmmonroy.com"
-    },
     "mnjuvzg.cn": {
       "confidence": 0.8,
       "date": "2026-10-18 23:13:52",
@@ -67377,6 +67499,21 @@
       "tweet_id": "2110315829606687172",
       "type": "domain",
       "value": "monoxide.vip"
+    },
+    "mootoo.ccwu.cc": {
+      "confidence": 0.5,
+      "date": "2026-11-10 21:11:22",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malware sample masquerading as 'explorer.exe' seen from Kuwait, communicating with domain mootoo.ccwu.cc and IP 37.200.253.254.",
+      "threat_type": "malware",
+      "tweet_id": "2120263066633773388",
+      "type": "domain",
+      "value": "mootoo.ccwu.cc"
     },
     "morojames1789900170014.0690011.misitiohostgator.com": {
       "confidence": 0.85,
@@ -67514,23 +67651,6 @@
       "tweet_id": "2109770913336156252",
       "type": "domain",
       "value": "mqpml.cn"
-    },
-    "mrssfq.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-11 23:47:12",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware impersonating the Mercari marketplace app, distributed through nine .cn domains, with an associated APK hash.",
-      "threat_type": "malware",
-      "tweet_id": "2109430647815323920",
-      "type": "domain",
-      "value": "mrssfq.cn"
     },
     "ms.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
@@ -68723,21 +68843,6 @@
       "tweet_id": "2115793239034749397",
       "type": "domain",
       "value": "nzctjvr.com"
-    },
-    "obracertaatacado.com": {
-      "confidence": 0.85,
-      "date": "2026-10-12 00:18:34",
-      "enriched_at": "2026-11-01T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fraudulent Brazilian wholesale website obracertaatacado[.]com, impersonating a company registered recently, reported as a phishing scam.",
-      "threat_type": "scam",
-      "tweet_id": "2109438543701389527",
-      "type": "domain",
-      "value": "obracertaatacado.com"
     },
     "oceanvw.click": {
       "confidence": 0.9,
@@ -69969,6 +70074,20 @@
       "type": "domain",
       "value": "pitmasterrecipes.com"
     },
+    "pixeldrain.com/api/file/egycgme2?download": {
+      "confidence": 0.55,
+      "date": "2026-11-10 20:23:55",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious JavaScript file posing as an Adobe document, fetched from a Pixeldrain download URL; likely a malware downloader.",
+      "threat_type": "malware",
+      "tweet_id": "2120251127639822467",
+      "type": "url",
+      "value": "https://pixeldrain.com/api/file/EGYcgme2?download"
+    },
     "pixeldrain.com/api/file/lefvj7fg?download": {
       "confidence": 0.4,
       "date": "2026-10-22 18:53:12",
@@ -71037,6 +71156,21 @@
       "tweet_id": "2117875241930437108",
       "type": "domain",
       "value": "pumpadmin.fun"
+    },
+    "pumpfunlivesession.live": {
+      "confidence": 0.5,
+      "date": "2026-11-10 22:34:26",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir",
+        "cryptoscam"
+      ],
+      "summary": "Open directory found on pumpfunlivesession.live, a domain themed around Pump.fun live sessions, possibly tied to crypto scam activity.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2120283973062394347",
+      "type": "domain",
+      "value": "pumpfunlivesession.live"
     },
     "purvoyage.com": {
       "confidence": 0.85,
@@ -72558,23 +72692,6 @@
       "type": "url",
       "value": "https://royal-wood-3c0d.julianosilvasantospiresrosa.workers.dev/hhohi"
     },
-    "rqszsx.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-11 23:47:12",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware impersonating the Mercari marketplace app, distributed through nine .cn domains, with an associated APK hash.",
-      "threat_type": "malware",
-      "tweet_id": "2109430647815323920",
-      "type": "domain",
-      "value": "rqszsx.cn"
-    },
     "rsg63gpp.s3.us-east-2.amazonaws.com": {
       "confidence": 0.85,
       "date": "2026-11-06 14:20:00",
@@ -73129,6 +73246,21 @@
       "tweet_id": "2120077435005706576",
       "type": "domain",
       "value": "satano.xyz"
+    },
+    "satantools.xyz": {
+      "confidence": 0.5,
+      "date": "2026-11-10 21:21:41",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake 'Zoom.exe' sample advertised as FUD (fully undetectable), tied to domain satantools.xyz; likely a malicious loader or tool disguised as Zoom.",
+      "threat_type": "malware",
+      "tweet_id": "2120265662782152890",
+      "type": "domain",
+      "value": "satantools.xyz"
     },
     "savmtapp.b-cdn.net": {
       "confidence": 0.55,
@@ -74416,23 +74548,6 @@
       "tweet_id": "2119499428566548799",
       "type": "domain",
       "value": "shamcash-mu.vercel.app"
-    },
-    "shanxinsawe-jp.com": {
-      "confidence": 0.8,
-      "date": "2026-10-11 23:58:30",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax service, distributed via fake domains huarendiche-jp.com and shanxinsawe-jp.com, with an associated APK hash.",
-      "threat_type": "malware",
-      "tweet_id": "2109433491083632867",
-      "type": "domain",
-      "value": "shanxinsawe-jp.com"
     },
     "share-adminsimple.s3.eu-west-2.amazonaws.com": {
       "confidence": 0.45,
@@ -77629,20 +77744,6 @@
       "type": "domain",
       "value": "tag-whatsapp.com"
     },
-    "tahoemedspa.com": {
-      "confidence": 0.7,
-      "date": "2026-10-11 22:04:34",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing alert: LifeMD-themed offers originating from tahoemedspa.com; the domain appears to be a compromised or abused site.",
-      "threat_type": "phishing",
-      "tweet_id": "2109404820465656094",
-      "type": "domain",
-      "value": "tahoemedspa.com"
-    },
     "taikakuu.com": {
       "confidence": 0.6,
       "date": "2026-10-14 10:43:00",
@@ -78718,23 +78819,6 @@
       "type": "domain",
       "value": "tme.telelauncher.com"
     },
-    "tmmkxi.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-11 23:47:12",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware impersonating the Mercari marketplace app, distributed through nine .cn domains, with an associated APK hash.",
-      "threat_type": "malware",
-      "tweet_id": "2109430647815323920",
-      "type": "domain",
-      "value": "tmmkxi.cn"
-    },
     "today-biggesst-diwalisale.icu": {
       "confidence": 0.75,
       "date": "2026-11-05 21:08:55",
@@ -79373,6 +79457,21 @@
       "tweet_id": "2119762664838541786",
       "type": "domain",
       "value": "ubbrobccheck20.cc"
+    },
+    "ubuntulivepatch.com": {
+      "confidence": 0.4,
+      "date": "2026-11-10 18:38:15",
+      "enriched_at": "2026-11-11T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "dprk",
+        "apt"
+      ],
+      "summary": "Domain ubuntulivepatch.com, impersonating Ubuntu live patching, possibly used by North Korean actors.",
+      "threat_type": "other",
+      "tweet_id": "2120221436875100374",
+      "type": "domain",
+      "value": "ubuntulivepatch.com"
     },
     "udp-whatsapp.com": {
       "confidence": 0.65,
@@ -83245,23 +83344,6 @@
       "type": "domain",
       "value": "xsvervd.sbs"
     },
-    "xtmafe.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-11 23:47:12",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware impersonating the Mercari marketplace app, distributed through nine .cn domains, with an associated APK hash.",
-      "threat_type": "malware",
-      "tweet_id": "2109430647815323920",
-      "type": "domain",
-      "value": "xtmafe.cn"
-    },
     "xtweixiu.com": {
       "confidence": 0.9,
       "date": "2026-10-22 06:25:14",
@@ -83750,23 +83832,6 @@
       "type": "url",
       "value": "https://yuutyoubannku.myship-711-com-tw-re34s.shop/OYmAvdRJ"
     },
-    "yxqexr.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-11 23:47:12",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware impersonating the Mercari marketplace app, distributed through nine .cn domains, with an associated APK hash.",
-      "threat_type": "malware",
-      "tweet_id": "2109430647815323920",
-      "type": "domain",
-      "value": "yxqexr.cn"
-    },
     "yzhw666.com": {
       "confidence": 0.85,
       "date": "2026-10-31 00:23:52",
@@ -83808,23 +83873,6 @@
       "tweet_id": "2110298078712381682",
       "type": "url",
       "value": "https://zaptechhelp.com/rockylab/ScreenConnect.ClientSetup(1)_20261009_051448.txt"
-    },
-    "zciipt.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-11 23:47:12",
-      "enriched_at": "2026-10-12T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware impersonating the Mercari marketplace app, distributed through nine .cn domains, with an associated APK hash.",
-      "threat_type": "malware",
-      "tweet_id": "2109430647815323920",
-      "type": "domain",
-      "value": "zciipt.cn"
     },
     "zdhweb-whatsapp.com": {
       "confidence": 0.65,
@@ -84599,6 +84647,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-10T18:40:04Z",
+  "generated_at": "2026-11-11T00:40:05Z",
   "window_days": 30
 }
