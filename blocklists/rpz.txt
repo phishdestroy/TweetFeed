@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2559
-; Updated: 2026-11-11T04:30:17Z
+; Entries: 2574
+; Updated: 2026-11-11T06:30:23Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794371417 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794378623 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -88,6 +88,8 @@ $TTL 300
 *.5today-diwalisales.info CNAME .
 6today-diwalisales.icu CNAME .
 *.6today-diwalisales.icu CNAME .
+78882.my CNAME .
+*.78882.my CNAME .
 7fcafe.wwvip88.site CNAME .
 *.7fcafe.wwvip88.site CNAME .
 7k.iakmialor.web.id CNAME .
@@ -158,6 +160,8 @@ adobe.parterro.com CNAME .
 *.adobe.parterro.com CNAME .
 adobeacrobatupdate.xyz CNAME .
 *.adobeacrobatupdate.xyz CNAME .
+advans-okna.ru CNAME .
+*.advans-okna.ru CNAME .
 aep.login-options.com CNAME .
 *.aep.login-options.com CNAME .
 aepc.in CNAME .
@@ -822,6 +826,10 @@ beaconpromotions.com.na CNAME .
 *.beaconpromotions.com.na CNAME .
 beers.ath.cx CNAME .
 *.beers.ath.cx CNAME .
+beguin.info CNAME .
+*.beguin.info CNAME .
+bempons.xyz CNAME .
+*.bempons.xyz CNAME .
 bepnet.in CNAME .
 *.bepnet.in CNAME .
 bepxt.com CNAME .
@@ -1572,6 +1580,8 @@ d5wxfxf731zi7t.s3.ap-northeast-1.amazonaws.com CNAME .
 *.d5wxfxf731zi7t.s3.ap-northeast-1.amazonaws.com CNAME .
 dailychefrecipe.com CNAME .
 *.dailychefrecipe.com CNAME .
+danielleloraellen.com CNAME .
+*.danielleloraellen.com CNAME .
 daohang-whatsapp.com CNAME .
 *.daohang-whatsapp.com CNAME .
 data.5tr.org CNAME .
@@ -2340,6 +2350,8 @@ geratronic.com.br CNAME .
 *.geratronic.com.br CNAME .
 get-googlemeet.com CNAME .
 *.get-googlemeet.com CNAME .
+getfamawell.online CNAME .
+*.getfamawell.online CNAME .
 getfile.centreomega.ca CNAME .
 *.getfile.centreomega.ca CNAME .
 ggdxorxunolcknocbnfc.supabase.co CNAME .
@@ -2424,6 +2436,8 @@ gulas-kaccha-tronk.space CNAME .
 *.gulas-kaccha-tronk.space CNAME .
 gumruk.info CNAME .
 *.gumruk.info CNAME .
+gunhub.life CNAME .
+*.gunhub.life CNAME .
 gvagsb.cn CNAME .
 *.gvagsb.cn CNAME .
 gw162.online CNAME .
@@ -2604,6 +2618,8 @@ id.webhwsapp-whatsapp.com CNAME .
 *.id.webhwsapp-whatsapp.com CNAME .
 identidade-itau.com CNAME .
 *.identidade-itau.com CNAME .
+idmlock.com CNAME .
+*.idmlock.com CNAME .
 ids-whatsapp.com CNAME .
 *.ids-whatsapp.com CNAME .
 illustrationi-jp.com CNAME .
@@ -2758,6 +2774,8 @@ karichilevels.click CNAME .
 *.karichilevels.click CNAME .
 kbardiwali.fun CNAME .
 *.kbardiwali.fun CNAME .
+kddplatform.com CNAME .
+*.kddplatform.com CNAME .
 kdyweb-whatsapp.com CNAME .
 *.kdyweb-whatsapp.com CNAME .
 keisigr.top CNAME .
@@ -2860,6 +2878,8 @@ layer-whatsapp.com CNAME .
 *.layer-whatsapp.com CNAME .
 layout-whatsapp.com CNAME .
 *.layout-whatsapp.com CNAME .
+leadscorepro.com.br CNAME .
+*.leadscorepro.com.br CNAME .
 leanviainc.top CNAME .
 *.leanviainc.top CNAME .
 leebin101.com CNAME .
@@ -3520,6 +3540,8 @@ pride-whatsapp.com CNAME .
 *.pride-whatsapp.com CNAME .
 primary-link.net CNAME .
 *.primary-link.net CNAME .
+primelife.si CNAME .
+*.primelife.si CNAME .
 primeseriesservice.com CNAME .
 *.primeseriesservice.com CNAME .
 primeslll.com CNAME .
@@ -3530,6 +3552,8 @@ privacy.webstatici-whatsapp.com CNAME .
 *.privacy.webstatici-whatsapp.com CNAME .
 privatealps.net CNAME .
 *.privatealps.net CNAME .
+pro26.emailserver.vn CNAME .
+*.pro26.emailserver.vn CNAME .
 profile.webapi-whatsapp.com CNAME .
 *.profile.webapi-whatsapp.com CNAME .
 profile.webstatici-whatsapp.com CNAME .
@@ -4504,6 +4528,8 @@ topic-whatsapp.com CNAME .
 *.topic-whatsapp.com CNAME .
 torvenix.cfd CNAME .
 *.torvenix.cfd CNAME .
+touriwant.com CNAME .
+*.touriwant.com CNAME .
 tpab7.com CNAME .
 *.tpab7.com CNAME .
 tr.webhwsapp-whatsapp.com CNAME .
@@ -4718,6 +4744,8 @@ wazirxkyc.com CNAME .
 *.wazirxkyc.com CNAME .
 wazirxr.com CNAME .
 *.wazirxr.com CNAME .
+wdbyyyg.net.cn CNAME .
+*.wdbyyyg.net.cn CNAME .
 wealthstepguide.com CNAME .
 *.wealthstepguide.com CNAME .
 web-cn-whatsapp.com CNAME .
@@ -4970,6 +4998,8 @@ xn--38j8b560qz6d6qa93nq89c.zip CNAME .
 *.xn--38j8b560qz6d6qa93nq89c.zip CNAME .
 xn--a-5tba68c8d.com CNAME .
 *.xn--a-5tba68c8d.com CNAME .
+xn--c1akgojhh.xn--p1ai CNAME .
+*.xn--c1akgojhh.xn--p1ai CNAME .
 xn--ehqqgw46acy5a.top CNAME .
 *.xn--ehqqgw46acy5a.top CNAME .
 xn--goog-yva5t.com CNAME .
