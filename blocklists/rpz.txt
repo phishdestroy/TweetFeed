@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2577
-; Updated: 2026-11-11T08:45:18Z
+; Entries: 2580
+; Updated: 2026-11-11T09:15:16Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794386718 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794388516 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1144,6 +1144,8 @@ brimembal.com CNAME .
 *.brimembal.com CNAME .
 broadspancapital.com CNAME .
 *.broadspancapital.com CNAME .
+browser-architecture-sync.com CNAME .
+*.browser-architecture-sync.com CNAME .
 browser-whatsapp.com CNAME .
 *.browser-whatsapp.com CNAME .
 browseruphelp.com CNAME .
@@ -3710,6 +3712,8 @@ release-whatsapp.com CNAME .
 *.release-whatsapp.com CNAME .
 reload-whatsapp.com CNAME .
 *.reload-whatsapp.com CNAME .
+remote-helpdesk.com CNAME .
+*.remote-helpdesk.com CNAME .
 remote.5tr.org CNAME .
 *.remote.5tr.org CNAME .
 renovar365.dothome.co.kr CNAME .
@@ -3740,6 +3744,8 @@ restsetestes.com CNAME .
 *.restsetestes.com CNAME .
 reviewshared.s3.us-east-005.backblazeb2.com CNAME .
 *.reviewshared.s3.us-east-005.backblazeb2.com CNAME .
+rigercloud-network.com CNAME .
+*.rigercloud-network.com CNAME .
 river-whatsapp.com CNAME .
 *.river-whatsapp.com CNAME .
 riverpartner.org CNAME .
