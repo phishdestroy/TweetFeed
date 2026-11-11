@@ -1,5 +1,5 @@
 {
-  "count": 5990,
+  "count": 6000,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -17080,6 +17080,21 @@
       "type": "sha256",
       "value": "269ad9fafbd5999483ad234a867beb4a7db0d55dea8b85bfbfe8ac163041b24d"
     },
+    "26b4699a7b9eeb16e76305d843d4ab05e94d43f3201436927e13b3ebafa90739": {
+      "confidence": 0.85,
+      "date": "2026-11-10 23:39:21",
+      "enriched_at": "2026-11-11T06:40:05Z",
+      "family": "Petya",
+      "suggested_tags": [
+        "ransomware",
+        "malware"
+      ],
+      "summary": "Updated analysis and sample hash for Petya ransomware.",
+      "threat_type": "ransomware",
+      "tweet_id": "2120300309780353078",
+      "type": "sha256",
+      "value": "26b4699a7b9eeb16e76305d843d4ab05e94d43f3201436927e13b3ebafa90739"
+    },
     "26e363ee33b559e417cb01114857bf0d729b3d8733602fcf84405c177f2a48f6": {
       "confidence": 0.8,
       "date": "2026-11-10 11:22:46",
@@ -17591,6 +17606,22 @@
       "tweet_id": "2115568321944756621",
       "type": "sha256",
       "value": "279010a4ffffc75756377e1e5b6bff8aaf3a736cce53b643150d08280062e24d"
+    },
+    "28540eeb5699a192b011cd5804f8ec848db3b3822312c74cd80ccf9d169701e8": {
+      "confidence": 0.75,
+      "date": "2026-11-10 23:22:29",
+      "enriched_at": "2026-11-11T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating Mitsui Sumitomo Card, distributed via a phishing site with an associated APK hash.",
+      "threat_type": "malware",
+      "tweet_id": "2120296065786413373",
+      "type": "sha256",
+      "value": "28540eeb5699a192b011cd5804f8ec848db3b3822312c74cd80ccf9d169701e8"
     },
     "2863aff28573c241781108f0447555a90c526b1ac588c942122c6eaa7f09ba45": {
       "confidence": 0.75,
@@ -30630,6 +30661,22 @@
       "type": "ip",
       "value": "49.51.38.193"
     },
+    "4926a347a8de6a58310df67a858c41bc": {
+      "confidence": 0.8,
+      "date": "2026-11-11 05:47:26",
+      "enriched_at": "2026-11-11T06:40:05Z",
+      "family": "Veera Stealer",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "Hash associated with Veera Stealer, an information-stealing malware.",
+      "threat_type": "malware",
+      "tweet_id": "2120392939595600062",
+      "type": "md5",
+      "value": "4926a347a8de6a58310df67a858c41bc"
+    },
     "4a1a63cff7f1407dc34f25ffdaacd1a6c92bfbba1de1e9d6f015253855ca6361": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -31587,6 +31634,22 @@
       "tweet_id": "2111629488304136633",
       "type": "sha256",
       "value": "54c6472d99530cca4523378b109d176ec3684d47a32771adaa0eef40df55d2b5"
+    },
+    "54dc0777f404e69712daf7d57f6db8ce11a9cf7651af210cc3249a6d7575db74": {
+      "confidence": 0.75,
+      "date": "2026-11-10 23:32:02",
+      "enriched_at": "2026-11-11T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as ErregtTV, distributed via a phishing site with an associated APK hash.",
+      "threat_type": "malware",
+      "tweet_id": "2120298468891918778",
+      "type": "sha256",
+      "value": "54dc0777f404e69712daf7d57f6db8ce11a9cf7651af210cc3249a6d7575db74"
     },
     "554c27175cc2b455b641863c55031497feaf4e4e9779576c7e1129504b3ed5c4": {
       "confidence": 0.75,
@@ -44506,22 +44569,6 @@
       "type": "sha256",
       "value": "baf42fcd4eb96c00f3393ebc6239e1ce8b07bc165786f1aa6469fd2899f43cc0"
     },
-    "balladcompass11.com": {
-      "confidence": 0.75,
-      "date": "2026-10-12 06:19:51",
-      "enriched_at": "2026-10-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malvertising",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Malvertising leads to a fake Apple site delivering an infostealer; malicious domain balladcompass11.com.",
-      "threat_type": "malware",
-      "tweet_id": "2109529460114670018",
-      "type": "domain",
-      "value": "balladcompass11.com"
-    },
     "bandasomelouvor.com.br": {
       "confidence": 0.85,
       "date": "2026-10-30 19:19:20",
@@ -48945,6 +48992,20 @@
       "tweet_id": "2115841369264787860",
       "type": "domain",
       "value": "caunchriva.click"
+    },
+    "cazar.cc": {
+      "confidence": 0.7,
+      "date": "2026-11-11 03:01:45",
+      "enriched_at": "2026-11-11T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Website cazar[.]cc flagged as a confirmed scam by an automated web malware scanner.",
+      "threat_type": "scam",
+      "tweet_id": "2120351245579719063",
+      "type": "domain",
+      "value": "cazar.cc"
     },
     "cb-customa.com": {
       "confidence": 0.7,
@@ -59971,6 +60032,22 @@
       "type": "url",
       "value": "https://gbjeifr.cn/Login/"
     },
+    "geils.eu.cc": {
+      "confidence": 0.75,
+      "date": "2026-11-10 23:32:02",
+      "enriched_at": "2026-11-11T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as ErregtTV, distributed via a phishing site with an associated APK hash.",
+      "threat_type": "malware",
+      "tweet_id": "2120298468891918778",
+      "type": "domain",
+      "value": "geils.eu.cc"
+    },
     "gemini-alarmes.com": {
       "confidence": 0.85,
       "date": "2026-10-31 09:05:29",
@@ -63507,34 +63584,6 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "jgsbdrd.cc"
-    },
-    "jidianzz.com": {
-      "confidence": 0.9,
-      "date": "2026-10-12 06:05:16",
-      "enriched_at": "2026-10-12T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating a Sumitomo Mitsui (SMBC) card, hosted at jidianzz.com, targeting Japanese users.",
-      "threat_type": "phishing",
-      "tweet_id": "2109525791960940648",
-      "type": "domain",
-      "value": "jidianzz.com"
-    },
-    "jidianzz.com/sqwlmszy": {
-      "confidence": 0.9,
-      "date": "2026-10-12 06:05:16",
-      "enriched_at": "2026-10-12T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating a Sumitomo Mitsui (SMBC) card, hosted at jidianzz.com, targeting Japanese users.",
-      "threat_type": "phishing",
-      "tweet_id": "2109525791960940648",
-      "type": "url",
-      "value": "https://jidianzz.com/sQwlMszY/"
     },
     "jimcooks211.github.io": {
       "confidence": 0.6,
@@ -71716,6 +71765,21 @@
       "type": "domain",
       "value": "rappellingaart.com"
     },
+    "rascalsnft.web.app": {
+      "confidence": 0.6,
+      "date": "2026-11-11 00:40:02",
+      "enriched_at": "2026-11-11T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "cryptoscam"
+      ],
+      "summary": "Website rascalsnft[.]web[.]app flagged as a confirmed scam by an automated scanner, likely NFT-themed.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2120315580896997413",
+      "type": "domain",
+      "value": "rascalsnft.web.app"
+    },
     "raw.githubusercontent.com/amaa29/yankis29/refs/heads/main/update.dat": {
       "confidence": 0.85,
       "date": "2026-10-21 09:12:42",
@@ -74052,6 +74116,34 @@
       "type": "domain",
       "value": "secure-xserver-25394.kurasoo.com"
     },
+    "secure-xserver-32041-paymentlink.horschamp.info": {
+      "confidence": 0.9,
+      "date": "2026-11-11 01:49:03",
+      "enriched_at": "2026-11-11T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing sites impersonating XServer payment links, hosted on subdomains of horschamp.info.",
+      "threat_type": "phishing",
+      "tweet_id": "2120332948339880242",
+      "type": "domain",
+      "value": "secure-xserver-32041-paymentlink.horschamp.info"
+    },
+    "secure-xserver-35170-paymentlink.horschamp.info": {
+      "confidence": 0.9,
+      "date": "2026-11-11 01:49:03",
+      "enriched_at": "2026-11-11T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing sites impersonating XServer payment links, hosted on subdomains of horschamp.info.",
+      "threat_type": "phishing",
+      "tweet_id": "2120332948339880242",
+      "type": "domain",
+      "value": "secure-xserver-35170-paymentlink.horschamp.info"
+    },
     "secure-xserver-36862.kurasoo.com": {
       "confidence": 0.88,
       "date": "2026-10-23 00:41:55",
@@ -74079,6 +74171,20 @@
       "tweet_id": "2113430686107619559",
       "type": "domain",
       "value": "secure-xserver-46955.kurasoo.com"
+    },
+    "secure-xserver-74130-paymentlink.horschamp.info": {
+      "confidence": 0.9,
+      "date": "2026-11-11 01:49:03",
+      "enriched_at": "2026-11-11T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing sites impersonating XServer payment links, hosted on subdomains of horschamp.info.",
+      "threat_type": "phishing",
+      "tweet_id": "2120332948339880242",
+      "type": "domain",
+      "value": "secure-xserver-74130-paymentlink.horschamp.info"
     },
     "secure-xserver-89123.kurasoo.com": {
       "confidence": 0.88,
@@ -74699,6 +74805,22 @@
       "tweet_id": "2112583368479318236",
       "type": "domain",
       "value": "shield-whatsapp.com"
+    },
+    "shishangyanyi-jp.com": {
+      "confidence": 0.75,
+      "date": "2026-11-10 23:22:29",
+      "enriched_at": "2026-11-11T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating Mitsui Sumitomo Card, distributed via a phishing site with an associated APK hash.",
+      "threat_type": "malware",
+      "tweet_id": "2120296065786413373",
+      "type": "domain",
+      "value": "shishangyanyi-jp.com"
     },
     "shopfc24h.com": {
       "confidence": 0.9,
@@ -80218,6 +80340,34 @@
       "type": "domain",
       "value": "version-whatsapp.com"
     },
+    "vexolunara.cfd": {
+      "confidence": 0.9,
+      "date": "2026-11-11 01:42:13",
+      "enriched_at": "2026-11-11T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Matsui Securities, a Japanese brokerage.",
+      "threat_type": "phishing",
+      "tweet_id": "2120331228159349046",
+      "type": "domain",
+      "value": "vexolunara.cfd"
+    },
+    "vexolunara.cfd/drgsdfbdr/#/index": {
+      "confidence": 0.9,
+      "date": "2026-11-11 01:42:13",
+      "enriched_at": "2026-11-11T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Matsui Securities, a Japanese brokerage.",
+      "threat_type": "phishing",
+      "tweet_id": "2120331228159349046",
+      "type": "url",
+      "value": "https://vexolunara.cfd/drgsdfbdr/#/index"
+    },
     "vggkofmi.cn": {
       "confidence": 0.75,
       "date": "2026-10-14 23:32:16",
@@ -84647,6 +84797,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-11T00:40:05Z",
+  "generated_at": "2026-11-11T06:40:05Z",
   "window_days": 30
 }
