@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2553
-; Updated: 2026-11-11T01:15:16Z
+; Entries: 2558
+; Updated: 2026-11-11T02:45:17Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794359716 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794365117 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3648,6 +3648,8 @@ range-whatsapp.com CNAME .
 *.range-whatsapp.com CNAME .
 rappellingaart.com CNAME .
 *.rappellingaart.com CNAME .
+rascalsnft.web.app CNAME .
+*.rascalsnft.web.app CNAME .
 rdtds.net CNAME .
 *.rdtds.net CNAME .
 rdwv03.cc CNAME .
@@ -3912,10 +3914,16 @@ secure-xserver-11523.kurasoo.com CNAME .
 *.secure-xserver-11523.kurasoo.com CNAME .
 secure-xserver-25394.kurasoo.com CNAME .
 *.secure-xserver-25394.kurasoo.com CNAME .
+secure-xserver-32041-paymentlink.horschamp.info CNAME .
+*.secure-xserver-32041-paymentlink.horschamp.info CNAME .
+secure-xserver-35170-paymentlink.horschamp.info CNAME .
+*.secure-xserver-35170-paymentlink.horschamp.info CNAME .
 secure-xserver-36862.kurasoo.com CNAME .
 *.secure-xserver-36862.kurasoo.com CNAME .
 secure-xserver-46955.kurasoo.com CNAME .
 *.secure-xserver-46955.kurasoo.com CNAME .
+secure-xserver-74130-paymentlink.horschamp.info CNAME .
+*.secure-xserver-74130-paymentlink.horschamp.info CNAME .
 secure-xserver-89123.kurasoo.com CNAME .
 *.secure-xserver-89123.kurasoo.com CNAME .
 secure.cornebrdjubf.top CNAME .
@@ -4632,6 +4640,8 @@ verifyidentrob01.cc CNAME .
 *.verifyidentrob01.cc CNAME .
 version-whatsapp.com CNAME .
 *.version-whatsapp.com CNAME .
+vexolunara.cfd CNAME .
+*.vexolunara.cfd CNAME .
 vggkofmi.cn CNAME .
 *.vggkofmi.cn CNAME .
 vgyhtdxz.bond CNAME .
