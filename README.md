@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-11 08:30:20 (UTC)</th>
+        <th colspan=4>2026-11-11 08:45:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,10 +187,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 30 | 664 | 3206 | 44215 |
-| **:globe_with_meridians: Domains** | 28 | 572 | 2688 | 38054 |
+| **:link: URLs** | 36 | 670 | 3212 | 44221 |
+| **:globe_with_meridians: Domains** | 30 | 574 | 2690 | 38056 |
 | **:triangular_flag_on_post: IPs** | 1 | 124 | 2241 | 8016 |
-| **:1234: SHA256** | 3 | 113 | 584 | 3254 |
+| **:1234: SHA256** | 4 | 114 | 585 | 3255 |
 | **:1234: MD5** | 4 | 30 | 119 | 2043 |
 
 </div>
@@ -204,7 +204,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 16 | 829 | 3726 | 31502 |
+| **#phishing** | 24 | 837 | 3734 | 31510 |
 | **#Kimsuky** | 0 | 10 | 48 | 13315 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
 | **#malware** | 2 | 226 | 1216 | 4308 |
@@ -231,11 +231,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [tdatwja](https://x.com/tdatwja) | 47 |
 | **#2** | [masaomi346](https://x.com/masaomi346) | 8 |
-| **#3** | [TKemmerling](https://x.com/TKemmerling) | 6 |
-| **#4** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#5** | [suyog41](https://x.com/suyog41) | 1 |
-| **#6** | [-](https://x.com/-) | 0 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#3** | [Malwarehunterr](https://x.com/Malwarehunterr) | 8 |
+| **#4** | [TKemmerling](https://x.com/TKemmerling) | 6 |
+| **#5** | [scanmalware](https://x.com/scanmalware) | 4 |
+| **#6** | [suyog41](https://x.com/suyog41) | 1 |
+| **#7** | [smica83](https://x.com/smica83) | 1 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
