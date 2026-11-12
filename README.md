@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-12 16:45:17 (UTC)</th>
+        <th colspan=4>2026-11-12 17:00:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -189,7 +189,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 17 | 551 | 3206 | 44172 |
 | **:globe_with_meridians: Domains** | 9 | 453 | 2677 | 38015 |
-| **:triangular_flag_on_post: IPs** | 6 | 98 | 2215 | 8001 |
+| **:triangular_flag_on_post: IPs** | 8 | 100 | 2217 | 8003 |
 | **:1234: SHA256** | 4 | 123 | 595 | 3288 |
 | **:1234: MD5** | 1 | 16 | 119 | 2034 |
 
@@ -209,7 +209,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 0 | 20 | 11687 |
 | **#malware** | 7 | 234 | 1215 | 4331 |
 | **#scam** | 0 | 4 | 38 | 2740 |
-| **#C2** | 4 | 50 | 172 | 2095 |
+| **#C2** | 6 | 52 | 174 | 2097 |
 | **#APT** | 7 | 30 | 77 | 1484 |
 | **#ClickFix** | 0 | 70 | 272 | 1255 |
 | **#ransomware** | 0 | 1 | 82 | 685 |
@@ -232,13 +232,13 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [smica83](https://x.com/smica83) | 8 |
 | **#2** | [KesaGataMe0](https://x.com/KesaGataMe0) | 6 |
 | **#3** | [phatomcandle](https://x.com/phatomcandle) | 5 |
-| **#4** | [suyog41](https://x.com/suyog41) | 3 |
-| **#5** | [TheKn0ck0ut](https://x.com/TheKn0ck0ut) | 2 |
-| **#6** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
-| **#7** | [joe4security](https://x.com/joe4security) | 2 |
-| **#8** | [etugenio](https://x.com/etugenio) | 2 |
-| **#9** | [webamon_search](https://x.com/webamon_search) | 2 |
-| **#10** | [500mk500](https://x.com/500mk500) | 2 |
+| **#4** | [Fact_Finder03](https://x.com/Fact_Finder03) | 4 |
+| **#5** | [suyog41](https://x.com/suyog41) | 3 |
+| **#6** | [TheKn0ck0ut](https://x.com/TheKn0ck0ut) | 2 |
+| **#7** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
+| **#8** | [joe4security](https://x.com/joe4security) | 2 |
+| **#9** | [etugenio](https://x.com/etugenio) | 2 |
+| **#10** | [webamon_search](https://x.com/webamon_search) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
