@@ -1,5 +1,5 @@
 {
-  "count": 5972,
+  "count": 5965,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -284,20 +284,6 @@
       "tweet_id": "2116907842125132115",
       "type": "sha256",
       "value": "04395a955f57f772cfb4d0d6161bf085c48e6d55ed6fc7cbbf522867099957d7"
-    },
-    "057c005a45f399f49f6be2aa59033df67f3cdd74c47c293400dbb8e3c63b2cef": {
-      "confidence": 0.5,
-      "date": "2026-10-13 12:50:37",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Undetected (FUD) Windows command script 'update_hab9r1i2iu.cmd' with four Nextron VT comments, shared on MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2109990190403994075",
-      "type": "sha256",
-      "value": "057c005a45f399f49f6be2aa59033df67f3cdd74c47c293400dbb8e3c63b2cef"
     },
     "05880d390a0ec8e221b0b8f3eb2f2f0172e192c8dd0a2f409806bc24e98a182c": {
       "confidence": 0.6,
@@ -8601,6 +8587,21 @@
       "type": "url",
       "value": "http://154.6.145.213"
     },
+    "154.62.226.92": {
+      "confidence": 0.65,
+      "date": "2026-11-12 11:37:50",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Fake invoice PDF is a Windows shortcut running PowerShell that tries to inject into RuntimeBroker or explorer; C2 at 154.62.226.92, payload missing.",
+      "threat_type": "malware",
+      "tweet_id": "2120843509489914080",
+      "type": "url",
+      "value": "http://154.62.226.92"
+    },
     "154.64.252.77": {
       "confidence": 0.35,
       "date": "2026-11-07 15:50:44",
@@ -11135,6 +11136,20 @@
       "type": "ip",
       "value": "173.239.53.32"
     },
+    "173.249.12.36": {
+      "confidence": 0.7,
+      "date": "2026-11-12 16:44:48",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": "Shark",
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP 173.249.12.36 on port 9443 reported as a Shark C2 panel.",
+      "threat_type": "c2",
+      "tweet_id": "2120920760974028812",
+      "type": "ip",
+      "value": "173.249.12.36"
+    },
     "173.249.221.138": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -11214,6 +11229,23 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "175.41.25.250"
+    },
+    "176.12.71.122": {
+      "confidence": 0.9,
+      "date": "2026-10-17 12:12:18",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": "SalatStealer",
+      "suggested_tags": [
+        "salatstealer",
+        "infostealer",
+        "stealer",
+        "c2"
+      ],
+      "summary": "SalatStealer panel bootstrap config.json on 176.12.71.122; TLS certs tie it to rotating C2 domains.",
+      "threat_type": "malware",
+      "tweet_id": "2111430099538948116",
+      "type": "url",
+      "value": "http://176.12.71.122"
     },
     "176.123.18.20": {
       "confidence": 0.6,
@@ -12024,20 +12056,6 @@
       "type": "ip",
       "value": "185.139.214.156"
     },
-    "185.148.144.99": {
-      "confidence": 0.4,
-      "date": "2026-10-13 15:12:36",
-      "enriched_at": "2026-11-12T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "IP address 185.148.144.99 shared for threat hunting and tagged as an open directory.",
-      "threat_type": "other",
-      "tweet_id": "2110025921306775769",
-      "type": "ip",
-      "value": "185.148.144.99"
-    },
     "185.161.209.61": {
       "confidence": 0.75,
       "date": "2026-11-06 13:07:10",
@@ -12439,6 +12457,18 @@
       "type": "ip",
       "value": "187.40.109.135"
     },
+    "188.137.247.26": {
+      "confidence": 0.2,
+      "date": "2026-11-12 13:56:21",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Bare IP 188.137.247.26 shared with a VirusTotal relations link; no threat context given.",
+      "threat_type": "other",
+      "tweet_id": "2120878367629005293",
+      "type": "ip",
+      "value": "188.137.247.26"
+    },
     "188.227.197.143": {
       "confidence": 0.6,
       "date": "2026-10-14 15:00:01",
@@ -12455,20 +12485,6 @@
       "tweet_id": "2110385140631265690",
       "type": "url",
       "value": "http://188.227.197.143"
-    },
-    "188.246.224.242": {
-      "confidence": 0.85,
-      "date": "2026-10-13 18:17:07",
-      "enriched_at": "2026-10-14T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page hosted at hmelef.ru/fits.html on IP 188.246.224.242 (Selectel, Russia), reported via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2110072357716943050",
-      "type": "ip",
-      "value": "188.246.224.242"
     },
     "188.253.24.154": {
       "confidence": 0.5,
@@ -12894,6 +12910,22 @@
       "type": "ip",
       "value": "193.178.159.129"
     },
+    "193.178.159.143": {
+      "confidence": 0.75,
+      "date": "2026-11-12 15:45:19",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": "Odyssey Stealer",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "IP 193.178.159.143 linked to Odyssey stealer infrastructure, a macOS infostealer.",
+      "threat_type": "malware",
+      "tweet_id": "2120905787975553123",
+      "type": "url",
+      "value": "http://193.178.159.143"
+    },
     "193.180.209.78": {
       "confidence": 0.85,
       "date": "2026-11-11 10:21:49",
@@ -13280,6 +13312,20 @@
       "tweet_id": "2112066017660944691",
       "type": "ip",
       "value": "194.87.31.69"
+    },
+    "194.9.6.5": {
+      "confidence": 0.65,
+      "date": "2026-11-12 16:32:35",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP 194.9.6.5 on port 1115 reported as a C2 panel; family not identified.",
+      "threat_type": "c2",
+      "tweet_id": "2120917686888935820",
+      "type": "ip",
+      "value": "194.9.6.5"
     },
     "195.162.69.212": {
       "confidence": 0.9,
@@ -15381,6 +15427,81 @@
       "type": "url",
       "value": "http://209.74.83.47"
     },
+    "209.99.190.93": {
+      "confidence": 0.5,
+      "date": "2026-11-12 15:52:52",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "opendir"
+      ],
+      "summary": "Malicious LNK 'ADEEM Terms for funding' with a funding-themed lure; payloads (AES.exe, NisSrv.exe, funding.pdf) served from 209.99.190.93.",
+      "threat_type": "malware",
+      "tweet_id": "2120907690037719110",
+      "type": "ip",
+      "value": "209.99.190.93"
+    },
+    "209.99.190.93/aes.exe": {
+      "confidence": 0.5,
+      "date": "2026-11-12 15:52:52",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "opendir"
+      ],
+      "summary": "Malicious LNK 'ADEEM Terms for funding' with a funding-themed lure; payloads (AES.exe, NisSrv.exe, funding.pdf) served from 209.99.190.93.",
+      "threat_type": "malware",
+      "tweet_id": "2120907690037719110",
+      "type": "url",
+      "value": "http://209.99.190.93/AES.exe"
+    },
+    "209.99.190.93/funding.pdf": {
+      "confidence": 0.5,
+      "date": "2026-11-12 15:52:52",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "opendir"
+      ],
+      "summary": "Malicious LNK 'ADEEM Terms for funding' with a funding-themed lure; payloads (AES.exe, NisSrv.exe, funding.pdf) served from 209.99.190.93.",
+      "threat_type": "malware",
+      "tweet_id": "2120907690037719110",
+      "type": "url",
+      "value": "http://209.99.190.93/funding.pdf"
+    },
+    "209.99.190.93/nissrv.exe": {
+      "confidence": 0.5,
+      "date": "2026-11-12 15:52:52",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "opendir"
+      ],
+      "summary": "Malicious LNK 'ADEEM Terms for funding' with a funding-themed lure; payloads (AES.exe, NisSrv.exe, funding.pdf) served from 209.99.190.93.",
+      "threat_type": "malware",
+      "tweet_id": "2120907690037719110",
+      "type": "url",
+      "value": "http://209.99.190.93/NisSrv.exe"
+    },
+    "209.99.190.93/windowslive.jpg": {
+      "confidence": 0.5,
+      "date": "2026-11-12 15:52:52",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "opendir"
+      ],
+      "summary": "Malicious LNK 'ADEEM Terms for funding' with a funding-themed lure; payloads (AES.exe, NisSrv.exe, funding.pdf) served from 209.99.190.93.",
+      "threat_type": "malware",
+      "tweet_id": "2120907690037719110",
+      "type": "url",
+      "value": "http://209.99.190.93/windowslive.jpg"
+    },
     "210.121.44.147": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -15577,6 +15698,21 @@
       "tweet_id": "2114731726119268751",
       "type": "url",
       "value": "http://213.145.86.42"
+    },
+    "213.176.93.17": {
+      "confidence": 0.7,
+      "date": "2026-11-12 15:26:00",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": "SideCopy",
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "SideCopy APT activity: IP 213.176.93.17 and domain store2.shop shared as indicators with a file hash.",
+      "threat_type": "malware",
+      "tweet_id": "2120900927733256399",
+      "type": "url",
+      "value": "http://213.176.93.17"
     },
     "213.186.33.19": {
       "confidence": 0.85,
@@ -17189,21 +17325,6 @@
       "tweet_id": "2115514262575841732",
       "type": "md5",
       "value": "292db63dc6cde2712cecc0b4b9c96573"
-    },
-    "29691c07a3c3ae54fb12fd96ba26a49daef0b73c023c66e4fcb45bb38a8c8efa": {
-      "confidence": 0.5,
-      "date": "2026-10-13 12:47:02",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Undetected (FUD) executable 'ChromeSetup.exe' masquerading as the Chrome installer, seen from Brazil on MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2109989288502816935",
-      "type": "sha256",
-      "value": "29691c07a3c3ae54fb12fd96ba26a49daef0b73c023c66e4fcb45bb38a8c8efa"
     },
     "29bf740f291858f01f7c0c915b5e7137eb29ef25da8b7870f017f0d5abdeac00": {
       "confidence": 0.6,
@@ -27651,6 +27772,20 @@
       "type": "sha256",
       "value": "3f9ff88a084df0a5d38f0b54ee915a693b3c94d11f26b9ba39a52641d78cb64a"
     },
+    "3fffe7d909dbf890ec3ae65480788e0c9e95a287ddfae97db52e970eaf378996": {
+      "confidence": 0.5,
+      "date": "2026-11-12 15:56:08",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Low-detection next-stage sample linked to a malicious LNK 'ADEEM Terms for funding' and payload URLs hosted on 209.99.190.93.",
+      "threat_type": "malware",
+      "tweet_id": "2120908510699397429",
+      "type": "sha256",
+      "value": "3fffe7d909dbf890ec3ae65480788e0c9e95a287ddfae97db52e970eaf378996"
+    },
     "3today-diwalisales.icu": {
       "confidence": 0.75,
       "date": "2026-11-05 21:08:55",
@@ -31999,6 +32134,20 @@
       "type": "sha256",
       "value": "6306c8a115cd2684edf0da53a926739072bcf6afedd048a969a7ac691a93c046"
     },
+    "6309699f79675c708db6cfae8c7a699983c9016fc23beaa53ce31e5d91328aa6": {
+      "confidence": 0.35,
+      "date": "2026-11-12 13:39:08",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Low-detection EXE sample seen from France and listed on MalwareBazaar; family not stated.",
+      "threat_type": "malware",
+      "tweet_id": "2120874032857837828",
+      "type": "sha256",
+      "value": "6309699f79675c708db6cfae8c7a699983c9016fc23beaa53ce31e5d91328aa6"
+    },
     "64.118.151.226": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -35758,22 +35907,6 @@
       "tweet_id": "2115782210032705604",
       "type": "sha256",
       "value": "90a4792390309c8097c54a910999864f96df9b00cdc2d5f21f14e4ef2dc0338f"
-    },
-    "91.210.146.50": {
-      "confidence": 0.7,
-      "date": "2026-10-13 12:55:06",
-      "enriched_at": "2026-10-27T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Stealer delivered in a Russian-language RAR archive ('Notification from 13.10.2026'), associated with IP 91.210.146[.]50.",
-      "threat_type": "malware",
-      "tweet_id": "2109991315698032826",
-      "type": "url",
-      "value": "http://91.210.146.50"
     },
     "91.217.249.188": {
       "confidence": 0.5,
@@ -40248,23 +40381,6 @@
       "type": "domain",
       "value": "app-web-diwali.shop"
     },
-    "app.5tr.org": {
-      "confidence": 0.92,
-      "date": "2026-10-13 15:43:35",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": "Vidar",
-      "suggested_tags": [
-        "vidar",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Vidar infostealer infrastructure domains on 5tr.org (app, data, remote, webconnect subdomains), reported high confidence with about 31 domains total.",
-      "threat_type": "malware",
-      "tweet_id": "2110033718345863417",
-      "type": "domain",
-      "value": "app.5tr.org"
-    },
     "app.aes-pdf.com": {
       "confidence": 0.75,
       "date": "2026-11-05 17:02:03",
@@ -42962,21 +43078,6 @@
       "type": "url",
       "value": "https://ashland-energy.com/aa/"
     },
-    "asiioasdjasiojasodijasa.eastus.cloudapp.azure.com": {
-      "confidence": 0.8,
-      "date": "2026-10-13 17:07:29",
-      "enriched_at": "2026-11-05T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Certificate-signed malware sample using an Azure-hosted domain for C2 and spoofing CrowdStrike CsAgent user-agent traffic to blend in.",
-      "threat_type": "c2",
-      "tweet_id": "2110054829842219012",
-      "type": "domain",
-      "value": "asiioasdjasiojasodijasa.eastus.cloudapp.azure.com"
-    },
     "askthedocto-jp.com": {
       "confidence": 0.85,
       "date": "2026-11-06 23:53:05",
@@ -43915,36 +44016,6 @@
       "type": "domain",
       "value": "bankcheckdata-card.jp"
     },
-    "basiviro.z1.web.core.windows.net": {
-      "confidence": 0.85,
-      "date": "2026-10-13 16:23:44",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Japanese tech-support scam phishing page hosted on Azure static web storage, displaying a fake international phone number to lure victims into calling.",
-      "threat_type": "scam",
-      "tweet_id": "2110043823128838179",
-      "type": "domain",
-      "value": "basiviro.z1.web.core.windows.net"
-    },
-    "basiviro.z1.web.core.windows.net/3mbq5r2z": {
-      "confidence": 0.85,
-      "date": "2026-10-13 16:23:44",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Japanese tech-support scam phishing page hosted on Azure static web storage, displaying a fake international phone number to lure victims into calling.",
-      "threat_type": "scam",
-      "tweet_id": "2110043823128838179",
-      "type": "url",
-      "value": "https://basiviro.z1.web.core.windows.net/3mbq5r2z/"
-    },
     "battledansuli.com": {
       "confidence": 0.85,
       "date": "2026-10-21 17:08:26",
@@ -44003,6 +44074,21 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "bc.ailingk.xyz"
+    },
+    "bc596c984dc699cf0e19798932cdf5b4d2cf995e01dd330584961896881f7993": {
+      "confidence": 0.5,
+      "date": "2026-11-12 15:52:52",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "opendir"
+      ],
+      "summary": "Malicious LNK 'ADEEM Terms for funding' with a funding-themed lure; payloads (AES.exe, NisSrv.exe, funding.pdf) served from 209.99.190.93.",
+      "threat_type": "malware",
+      "tweet_id": "2120907690037719110",
+      "type": "sha256",
+      "value": "bc596c984dc699cf0e19798932cdf5b4d2cf995e01dd330584961896881f7993"
     },
     "bd56374469374a6b144c684aa44b8692423a6749574dba2c99d49b76b8ac8bc2": {
       "confidence": 0.5,
@@ -48973,20 +49059,6 @@
       "type": "sha256",
       "value": "ce832350c165522db03db040ca07917976d1a91f97e7016ea36dcc6b53e0eb13"
     },
-    "cea6f95af040ab7020bde9cb5f25a95a12436617c11cf3acefd26964c9b91e2a": {
-      "confidence": 0.6,
-      "date": "2026-10-13 13:36:05",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious batch file 'Medical_Chart_Roentgenogram1.bat' seen from Thailand, fetched from a GitHub raw URL and a TinyURL redirect.",
-      "threat_type": "malware",
-      "tweet_id": "2110001630062022989",
-      "type": "sha256",
-      "value": "cea6f95af040ab7020bde9cb5f25a95a12436617c11cf3acefd26964c9b91e2a"
-    },
     "certificazi.one": {
       "confidence": 0.85,
       "date": "2026-10-23 05:29:37",
@@ -51356,22 +51428,6 @@
       "type": "sha256",
       "value": "d8baecd3c6fc470d0bbb3fb32c36e6dd0971fabffc5a1eaf20e2e8c53a931f2c"
     },
-    "d91922934056bc0894d968a31eb95e9990b90fe50757ab6a7dbf817c210c3e9c": {
-      "confidence": 0.6,
-      "date": "2026-10-13 12:55:06",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Stealer delivered as a RAR archive named as a Russian-language notification dated 13.10.2026, seen from Russia, with an associated IP.",
-      "threat_type": "malware",
-      "tweet_id": "2109991315698032826",
-      "type": "sha256",
-      "value": "d91922934056bc0894d968a31eb95e9990b90fe50757ab6a7dbf817c210c3e9c"
-    },
     "d91cf57a744517e10f09e569ccea291cfd43d97b6950440f8ccc04bb0c232a83": {
       "confidence": 0.7,
       "date": "2026-11-11 11:22:17",
@@ -51509,23 +51565,6 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "daohang-whatsapp.com"
-    },
-    "data.5tr.org": {
-      "confidence": 0.92,
-      "date": "2026-10-13 15:43:35",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": "Vidar",
-      "suggested_tags": [
-        "vidar",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Vidar infostealer infrastructure domains on 5tr.org (app, data, remote, webconnect subdomains), reported high confidence with about 31 domains total.",
-      "threat_type": "malware",
-      "tweet_id": "2110033718345863417",
-      "type": "domain",
-      "value": "data.5tr.org"
     },
     "dataauth-whatsapp.com": {
       "confidence": 0.7,
@@ -59697,20 +59736,6 @@
       "type": "url",
       "value": "http://github.com/e303x"
     },
-    "github.com/f3-917/u-g/raw/main/udg.bat": {
-      "confidence": 0.6,
-      "date": "2026-10-13 13:36:05",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious batch file 'Medical_Chart_Roentgenogram1.bat' seen from Thailand, fetched from a GitHub raw URL and a TinyURL redirect.",
-      "threat_type": "malware",
-      "tweet_id": "2110001630062022989",
-      "type": "url",
-      "value": "https://github.com/f3-917/u-g/raw/main/udg.bat"
-    },
     "github.com/i25968627-ui/crispy-spoon": {
       "confidence": 0.8,
       "date": "2026-11-09 13:52:21",
@@ -61174,34 +61199,6 @@
       "tweet_id": "2113601611503120436",
       "type": "domain",
       "value": "hlushkova.top"
-    },
-    "hmelef.ru": {
-      "confidence": 0.85,
-      "date": "2026-10-13 18:17:07",
-      "enriched_at": "2026-10-14T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page hosted at hmelef.ru/fits.html on IP 188.246.224.242 (Selectel, Russia), reported via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2110072357716943050",
-      "type": "domain",
-      "value": "hmelef.ru"
-    },
-    "hmelef.ru/fits.html": {
-      "confidence": 0.85,
-      "date": "2026-10-13 18:17:07",
-      "enriched_at": "2026-10-14T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page hosted at hmelef.ru/fits.html on IP 188.246.224.242 (Selectel, Russia), reported via PhishStats.",
-      "threat_type": "phishing",
-      "tweet_id": "2110072357716943050",
-      "type": "url",
-      "value": "https://hmelef.ru/fits.html"
     },
     "hnrtqbsfwxm.cfd": {
       "confidence": 0.85,
@@ -66660,36 +66657,6 @@
       "type": "domain",
       "value": "mineproper.org"
     },
-    "minha-maga-online.com": {
-      "confidence": 0.93,
-      "date": "2026-10-13 14:26:28",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Brazilian phishing/fake store site cloning Magazine Luiza (Magalu), with a fake product page for an aluminum ladder.",
-      "threat_type": "phishing",
-      "tweet_id": "2110014309342523513",
-      "type": "domain",
-      "value": "minha-maga-online.com"
-    },
-    "minha-maga-online.com/produto/escada-articulada-de-aluminio-12-degraus-350-metros-de-altura": {
-      "confidence": 0.93,
-      "date": "2026-10-13 14:26:28",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Brazilian phishing/fake store site cloning Magazine Luiza (Magalu), with a fake product page for an aluminum ladder.",
-      "threat_type": "phishing",
-      "tweet_id": "2110014309342523513",
-      "type": "url",
-      "value": "https://minha-maga-online.com/produto/escada-articulada-de-aluminio-12-degraus-350-metros-de-altura"
-    },
     "misuwh.com": {
       "confidence": 0.85,
       "date": "2026-10-23 23:52:47",
@@ -68008,21 +67975,6 @@
       "type": "url",
       "value": "https://niceph.asia/hbsraitb/"
     },
-    "nildex.com": {
-      "confidence": 0.85,
-      "date": "2026-10-13 16:35:39",
-      "enriched_at": "2026-10-31T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "cryptoscam"
-      ],
-      "summary": "Nildex.com flagged as high-risk crypto scam with withdrawal issues and extra requirements to move funds.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2110046818688192537",
-      "type": "domain",
-      "value": "nildex.com"
-    },
     "nintendo-co.jp.sdfgef.com": {
       "confidence": 0.9,
       "date": "2026-11-04 06:45:52",
@@ -69136,36 +69088,6 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "pageweb-whatsapp.com"
-    },
-    "pagina-clientes-havan.com": {
-      "confidence": 0.93,
-      "date": "2026-10-13 14:33:42",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Brazilian phishing site cloning Havan retailer, using a fake product page to defraud customers.",
-      "threat_type": "phishing",
-      "tweet_id": "2110016132048363843",
-      "type": "domain",
-      "value": "pagina-clientes-havan.com"
-    },
-    "pagina-clientes-havan.com/produto/32812": {
-      "confidence": 0.93,
-      "date": "2026-10-13 14:33:42",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Brazilian phishing site cloning Havan retailer, using a fake product page to defraud customers.",
-      "threat_type": "phishing",
-      "tweet_id": "2110016132048363843",
-      "type": "url",
-      "value": "https://pagina-clientes-havan.com/produto/32812"
     },
     "pagina-clientes-havan.com/produto/33051": {
       "confidence": 0.9,
@@ -70742,6 +70664,20 @@
       "type": "domain",
       "value": "pub-ac2492e7d4454a408a96a3152f656607.r2.dev"
     },
+    "public.mexc.co.com": {
+      "confidence": 0.55,
+      "date": "2026-11-12 16:29:51",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": "ShadowExt",
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Domain public.mexc.co.com, a MEXC lookalike, tagged ShadowExt and reported as a C2 panel.",
+      "threat_type": "c2",
+      "tweet_id": "2120916998226079842",
+      "type": "domain",
+      "value": "public.mexc.co.com"
+    },
     "pumpadmin.fun": {
       "confidence": 0.5,
       "date": "2026-11-04 07:03:00",
@@ -71719,23 +71655,6 @@
       "tweet_id": "2120441526329438225",
       "type": "url",
       "value": "https://remote-helpdesk.com/sc.ps1"
-    },
-    "remote.5tr.org": {
-      "confidence": 0.92,
-      "date": "2026-10-13 15:43:35",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": "Vidar",
-      "suggested_tags": [
-        "vidar",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Vidar infostealer infrastructure domains on 5tr.org (app, data, remote, webconnect subdomains), reported high confidence with about 31 domains total.",
-      "threat_type": "malware",
-      "tweet_id": "2110033718345863417",
-      "type": "domain",
-      "value": "remote.5tr.org"
     },
     "renovar365.dothome.co.kr": {
       "confidence": 0.8,
@@ -78381,20 +78300,6 @@
       "type": "domain",
       "value": "tik-tok-18.com"
     },
-    "tinyurl.com/g1-1trdovip": {
-      "confidence": 0.6,
-      "date": "2026-10-13 13:36:05",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious batch file 'Medical_Chart_Roentgenogram1.bat' seen from Thailand, fetched from a GitHub raw URL and a TinyURL redirect.",
-      "threat_type": "malware",
-      "tweet_id": "2110001630062022989",
-      "type": "url",
-      "value": "https://tinyurl.com/g1-1trdovip"
-    },
     "tinyurl.com/s3-2310": {
       "confidence": 0.6,
       "date": "2026-10-29 12:26:02",
@@ -78554,6 +78459,21 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "tokennode-whatsapp.com"
+    },
+    "tolfex.com": {
+      "confidence": 0.85,
+      "date": "2026-11-12 14:53:52",
+      "enriched_at": "2026-11-12T18:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam"
+      ],
+      "summary": "AI-driven investment fraud kit: about 90 localized fake trading brand sites share backend host tolfex.com behind Cloudflare.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2120892844017647685",
+      "type": "domain",
+      "value": "tolfex.com"
     },
     "tongbu-whatsapp.com": {
       "confidence": 0.75,
@@ -81040,23 +80960,6 @@
       "type": "domain",
       "value": "webcompiler-whatsapp.com"
     },
-    "webconnect.5tr.org": {
-      "confidence": 0.92,
-      "date": "2026-10-13 15:43:35",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": "Vidar",
-      "suggested_tags": [
-        "vidar",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Vidar infostealer infrastructure domains on 5tr.org (app, data, remote, webconnect subdomains), reported high confidence with about 31 domains total.",
-      "threat_type": "malware",
-      "tweet_id": "2110033718345863417",
-      "type": "domain",
-      "value": "webconnect.5tr.org"
-    },
     "webcorepro-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -83170,20 +83073,6 @@
       "type": "url",
       "value": "https://yepemumi.z22.web.core.windows.net/tx06xof/"
     },
-    "yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion": {
-      "confidence": 0.9,
-      "date": "2026-10-13 14:54:28",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": "HYFLOCK",
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "HYFLOCK ransomware group leak blog on a Tor onion address, listing 8 victims.",
-      "threat_type": "ransomware",
-      "tweet_id": "2110021356809240703",
-      "type": "domain",
-      "value": "yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion"
-    },
     "yjgift.com": {
       "confidence": 0.9,
       "date": "2026-10-21 01:57:21",
@@ -84335,6 +84224,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-12T12:40:04Z",
+  "generated_at": "2026-11-12T18:40:05Z",
   "window_days": 30
 }
