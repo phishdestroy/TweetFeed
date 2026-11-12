@@ -1,5 +1,5 @@
 {
-  "count": 5984,
+  "count": 5972,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -43,22 +43,6 @@
       "tweet_id": "2117222345706213637",
       "type": "sha256",
       "value": "006f0ba963a63d9b2822b139ac806dee71eb6a3382b1b1db74b5cf2e60b57a51"
-    },
-    "00a805c4fa27abcb216a3932a2566ead": {
-      "confidence": 0.75,
-      "date": "2026-10-13 10:04:37",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": "Sonoma Mac Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Sonoma Mac stealer distributed as a fake DocSendInstaller.dmg disk image.",
-      "threat_type": "malware",
-      "tweet_id": "2109948415752745036",
-      "type": "md5",
-      "value": "00a805c4fa27abcb216a3932a2566ead"
     },
     "00aac4cab3138dc2f4903d1dcd0e575f4446b45680d2e2db2b34708e5a6177f8": {
       "confidence": 0.8,
@@ -609,21 +593,21 @@
       "type": "domain",
       "value": "0c7057.wjpeso-ph.net"
     },
-    "0d0cf937953e7bdc87d29f093f3667e618314b312a9bd70345b84e25be57fab7": {
-      "confidence": 0.85,
-      "date": "2026-10-13 11:22:36",
-      "enriched_at": "2026-10-13T12:40:04Z",
+    "0cc8e383efcb290a5678a3337519e5ec": {
+      "confidence": 0.8,
+      "date": "2026-11-12 10:05:15",
+      "enriched_at": "2026-11-12T12:40:04Z",
       "family": null,
       "suggested_tags": [
-        "infostealer",
-        "stealer",
+        "apt",
+        "c2",
         "malware"
       ],
-      "summary": "Python info stealer posing as an NVIDIA driver update from easydriverhub.com; collects browser data, uploads to 198.37.111.206 and keeps a TCP 8008 socket channel.",
-      "threat_type": "malware",
-      "tweet_id": "2109968038900466012",
-      "type": "sha256",
-      "value": "0d0cf937953e7bdc87d29f093f3667e618314b312a9bd70345b84e25be57fab7"
+      "summary": "Sidewinder APT C2 domain mofa-gov-np[.]donwloaad-file[.]org, tied to a malicious Word document lure titled 'Travel Advisory-Iran'.",
+      "threat_type": "c2",
+      "tweet_id": "2120820210064146566",
+      "type": "md5",
+      "value": "0cc8e383efcb290a5678a3337519e5ec"
     },
     "0d42cc34c2eefed99a65f9a979adad55e2927be14cc94b26a657b5808fa39614": {
       "confidence": 0.8,
@@ -3086,36 +3070,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "103.96.69.78"
-    },
-    "103.99.36.146": {
-      "confidence": 0.6,
-      "date": "2026-10-13 12:34:45",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Batch script 'syn.bat' seen from India communicating with an undetected C2 at 103.99.36.146:8080 over TCP.",
-      "threat_type": "malware",
-      "tweet_id": "2109986195669238247",
-      "type": "ip",
-      "value": "103.99.36.146"
-    },
-    "103.99.36.146:8080": {
-      "confidence": 0.6,
-      "date": "2026-10-13 12:34:45",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Batch script 'syn.bat' seen from India communicating with an undetected C2 at 103.99.36.146:8080 over TCP.",
-      "threat_type": "malware",
-      "tweet_id": "2109986195669238247",
-      "type": "url",
-      "value": "http://103.99.36.146:8080"
     },
     "104.143.42.209": {
       "confidence": 0.6,
@@ -7286,6 +7240,36 @@
       "type": "ip",
       "value": "139.5.202.182"
     },
+    "139.84.216.27": {
+      "confidence": 0.5,
+      "date": "2026-11-11 22:28:38",
+      "enriched_at": "2026-11-12T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir",
+        "malware"
+      ],
+      "summary": "Open directories on three IPs hosting suspected malicious tooling, possibly threat actor staging infrastructure.",
+      "threat_type": "other",
+      "tweet_id": "2120644899519467935",
+      "type": "ip",
+      "value": "139.84.216.27"
+    },
+    "139.84.216.27:443": {
+      "confidence": 0.5,
+      "date": "2026-11-11 22:28:38",
+      "enriched_at": "2026-11-12T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir",
+        "malware"
+      ],
+      "summary": "Open directories on three IPs hosting suspected malicious tooling, possibly threat actor staging infrastructure.",
+      "threat_type": "other",
+      "tweet_id": "2120644899519467935",
+      "type": "url",
+      "value": "http://139.84.216.27:443"
+    },
     "13cee49212b02538acec3887804d62cd696f29cbe37e5231809f16f384619be9": {
       "confidence": 0.8,
       "date": "2026-10-21 11:51:07",
@@ -11231,51 +11215,6 @@
       "type": "ip",
       "value": "175.41.25.250"
     },
-    "176.12.71.122": {
-      "confidence": 0.85,
-      "date": "2026-10-13 10:16:57",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": "SalatStealer",
-      "suggested_tags": [
-        "salatstealer",
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "SalatStealer sample uploaded to MalwareBazaar, associated with IP 176.12.71.122 (RU).",
-      "threat_type": "malware",
-      "tweet_id": "2109951516878549366",
-      "type": "url",
-      "value": "http://176.12.71.122"
-    },
-    "176.123.11.84": {
-      "confidence": 0.55,
-      "date": "2026-10-13 10:32:00",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Web panel titled 'AVM PRO | Secure Login' at 176.123.11.84:3000 claiming secured C2 infrastructure; likely a malware control panel.",
-      "threat_type": "c2",
-      "tweet_id": "2109955303991357564",
-      "type": "ip",
-      "value": "176.123.11.84"
-    },
-    "176.123.11.84:3000": {
-      "confidence": 0.55,
-      "date": "2026-10-13 10:32:00",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Web panel titled 'AVM PRO | Secure Login' at 176.123.11.84:3000 claiming secured C2 infrastructure; likely a malware control panel.",
-      "threat_type": "c2",
-      "tweet_id": "2109955303991357564",
-      "type": "url",
-      "value": "http://176.123.11.84:3000"
-    },
     "176.123.18.20": {
       "confidence": 0.6,
       "date": "2026-10-27 09:40:07",
@@ -11660,22 +11599,6 @@
       "tweet_id": "2110592071627415986",
       "type": "ip",
       "value": "179.61.227.82"
-    },
-    "17c25f66c5c62160524b2c6991f21be8": {
-      "confidence": 0.85,
-      "date": "2026-10-13 10:07:01",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": "Braodo Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Braodo Stealer delivered via a .bat file that downloads payload and Python libraries from attacker GitHub accounts f1-917 and f3-917.",
-      "threat_type": "malware",
-      "tweet_id": "2109949018134724771",
-      "type": "md5",
-      "value": "17c25f66c5c62160524b2c6991f21be8"
     },
     "17cf22f3fd0f5189856bb2f5ba91bb4b05838f3a19f5d25f81ee3bccccb8c19e": {
       "confidence": 0.5,
@@ -12325,6 +12248,51 @@
       "tweet_id": "2118432402015948849",
       "type": "ip",
       "value": "185.254.198.90"
+    },
+    "185.34.144.140": {
+      "confidence": 0.5,
+      "date": "2026-11-11 22:28:38",
+      "enriched_at": "2026-11-12T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir",
+        "malware"
+      ],
+      "summary": "Open directories on three IPs hosting suspected malicious tooling, possibly threat actor staging infrastructure.",
+      "threat_type": "other",
+      "tweet_id": "2120644899519467935",
+      "type": "ip",
+      "value": "185.34.144.140"
+    },
+    "185.34.144.140:8080": {
+      "confidence": 0.5,
+      "date": "2026-11-11 22:28:38",
+      "enriched_at": "2026-11-12T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir",
+        "malware"
+      ],
+      "summary": "Open directories on three IPs hosting suspected malicious tooling, possibly threat actor staging infrastructure.",
+      "threat_type": "other",
+      "tweet_id": "2120644899519467935",
+      "type": "url",
+      "value": "http://185.34.144.140:8080"
+    },
+    "185.34.144.140:8888": {
+      "confidence": 0.5,
+      "date": "2026-11-11 22:28:38",
+      "enriched_at": "2026-11-12T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir",
+        "malware"
+      ],
+      "summary": "Open directories on three IPs hosting suspected malicious tooling, possibly threat actor staging infrastructure.",
+      "threat_type": "other",
+      "tweet_id": "2120644899519467935",
+      "type": "url",
+      "value": "http://185.34.144.140:8888"
     },
     "185.46.70.230": {
       "confidence": 0.85,
@@ -13297,22 +13265,6 @@
       "type": "ip",
       "value": "194.5.82.4"
     },
-    "194.62.166.171": {
-      "confidence": 0.85,
-      "date": "2026-10-13 11:22:36",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Python info stealer posing as an NVIDIA driver update from easydriverhub.com; collects browser data, uploads to 198.37.111.206 and keeps a TCP 8008 socket channel.",
-      "threat_type": "malware",
-      "tweet_id": "2109968038900466012",
-      "type": "url",
-      "value": "http://194.62.166.171"
-    },
     "194.87.31.69": {
       "confidence": 0.55,
       "date": "2026-10-19 06:19:13",
@@ -13668,54 +13620,6 @@
       "tweet_id": "2112541478232993859",
       "type": "url",
       "value": "http://198.37.105.52"
-    },
-    "198.37.111.206": {
-      "confidence": 0.85,
-      "date": "2026-10-13 11:22:36",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Python info stealer posing as an NVIDIA driver update from easydriverhub.com; collects browser data, uploads to 198.37.111.206 and keeps a TCP 8008 socket channel.",
-      "threat_type": "malware",
-      "tweet_id": "2109968038900466012",
-      "type": "url",
-      "value": "http://198.37.111.206"
-    },
-    "198.37.111.206/upload": {
-      "confidence": 0.85,
-      "date": "2026-10-13 11:22:36",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Python info stealer posing as an NVIDIA driver update from easydriverhub.com; collects browser data, uploads to 198.37.111.206 and keeps a TCP 8008 socket channel.",
-      "threat_type": "malware",
-      "tweet_id": "2109968038900466012",
-      "type": "url",
-      "value": "http://198.37.111.206/upload/"
-    },
-    "198.37.111.206:8008": {
-      "confidence": 0.85,
-      "date": "2026-10-13 11:22:36",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Python info stealer posing as an NVIDIA driver update from easydriverhub.com; collects browser data, uploads to 198.37.111.206 and keeps a TCP 8008 socket channel.",
-      "threat_type": "malware",
-      "tweet_id": "2109968038900466012",
-      "type": "url",
-      "value": "http://198.37.111.206:8008"
     },
     "198.37.119.56": {
       "confidence": 0.6,
@@ -24394,21 +24298,6 @@
       "type": "md5",
       "value": "34535b896c9898f2d3af394dd43f4150"
     },
-    "3461b395a20846cefef84d6f7ddcbd7aff2209423eaaf74925ab70b0038e160a": {
-      "confidence": 0.6,
-      "date": "2026-10-13 12:34:45",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Batch script 'syn.bat' seen from India communicating with an undetected C2 at 103.99.36.146:8080 over TCP.",
-      "threat_type": "malware",
-      "tweet_id": "2109986195669238247",
-      "type": "sha256",
-      "value": "3461b395a20846cefef84d6f7ddcbd7aff2209423eaaf74925ab70b0038e160a"
-    },
     "35.185.111.215": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -28665,6 +28554,36 @@
       "type": "ip",
       "value": "45.11.59.99"
     },
+    "45.117.179.48": {
+      "confidence": 0.5,
+      "date": "2026-11-11 22:28:38",
+      "enriched_at": "2026-11-12T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir",
+        "malware"
+      ],
+      "summary": "Open directories on three IPs hosting suspected malicious tooling, possibly threat actor staging infrastructure.",
+      "threat_type": "other",
+      "tweet_id": "2120644899519467935",
+      "type": "ip",
+      "value": "45.117.179.48"
+    },
+    "45.117.179.48:18080": {
+      "confidence": 0.5,
+      "date": "2026-11-11 22:28:38",
+      "enriched_at": "2026-11-12T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir",
+        "malware"
+      ],
+      "summary": "Open directories on three IPs hosting suspected malicious tooling, possibly threat actor staging infrastructure.",
+      "threat_type": "other",
+      "tweet_id": "2120644899519467935",
+      "type": "url",
+      "value": "http://45.117.179.48:18080"
+    },
     "45.118.68.56": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -32265,22 +32184,6 @@
       "type": "sha256",
       "value": "6416f6c353c7e687190fab84c8e8802b0139fb98f44b8e6ae79099fd27884b9b"
     },
-    "6449cd0137becee602b0b9360803484e27d7a912a1ab6dbb7b4ecd8cf7970617": {
-      "confidence": 0.75,
-      "date": "2026-10-13 08:59:31",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as a Sumitomo Mitsui card app, lured via a Google Docs drawing link; phishing and fraud campaign targeting Japanese users.",
-      "threat_type": "phishing",
-      "tweet_id": "2109932029144187317",
-      "type": "sha256",
-      "value": "6449cd0137becee602b0b9360803484e27d7a912a1ab6dbb7b4ecd8cf7970617"
-    },
     "645c24927c1ad42aa8c43ddc15d981b8589d4e02c92b9822bf456fa76f6f2c0d": {
       "confidence": 0.5,
       "date": "2026-11-06 14:22:38",
@@ -33976,6 +33879,21 @@
       "tweet_id": "2112414023237185714",
       "type": "ip",
       "value": "8.216.43.137"
+    },
+    "8.216.50.3": {
+      "confidence": 0.6,
+      "date": "2026-11-12 09:18:33",
+      "enriched_at": "2026-11-12T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Phishing/malware site nzxaxcj[.]cn impersonating Japanese card brands SMBC/SMCC/Mitsui Sumitomo, hosted on Alibaba IP, redirecting /verify/ to update.html.",
+      "threat_type": "phishing",
+      "tweet_id": "2120808458018820466",
+      "type": "ip",
+      "value": "8.216.50.3"
     },
     "8.217.226.218": {
       "confidence": 0.5,
@@ -43492,22 +43410,6 @@
       "type": "sha256",
       "value": "b1022d3e58a0318b52feb8aa8048376113ca7596830cb0da750c08f2c8ece583"
     },
-    "b1871fbbcb58fb660e574096bd9c3886cf9254178d99a96e1b0047e717ce12eb": {
-      "confidence": 0.93,
-      "date": "2026-10-13 12:12:13",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "valleyrat",
-        "rat",
-        "malware"
-      ],
-      "summary": "Japanese-language malicious email posing as an electronic tax filing system, with an IMG attachment dropping a DLL and delivering ValleyRAT.",
-      "threat_type": "malware",
-      "tweet_id": "2109980523649176027",
-      "type": "sha256",
-      "value": "b1871fbbcb58fb660e574096bd9c3886cf9254178d99a96e1b0047e717ce12eb"
-    },
     "b199422fe5f11a4c532f05fbca85446edd426c70fb4f330bb7f78e566f5bd66a": {
       "confidence": 0.4,
       "date": "2026-10-22 19:25:33",
@@ -43610,20 +43512,6 @@
       "tweet_id": "2112568660963610876",
       "type": "sha256",
       "value": "b4ee9ccd3db4836ccce2bfd5822d65c541a488ddf84fa9569070fa724c172296"
-    },
-    "b5c877fbcc1028c046c944c45fad884dc4900bcdd78c4590a42e9c559ae8ac1b": {
-      "confidence": 0.4,
-      "date": "2026-10-13 10:10:21",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malware sample named 'pulsevisuals zip' seen from Ukraine and Belarus, uploaded to MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2109949858450661568",
-      "type": "sha256",
-      "value": "b5c877fbcc1028c046c944c45fad884dc4900bcdd78c4590a42e9c559ae8ac1b"
     },
     "b5dce6d9e9972b441daa1f39fbabcf89d52de4b91535b289efed1268c6101791": {
       "confidence": 0.7,
@@ -53845,22 +53733,6 @@
       "type": "domain",
       "value": "docs-portal.top"
     },
-    "docs.google.com/drawings/d/1lxz7ir19letzywis66uexxopvuo2cny3rikdblkqy4w/preview": {
-      "confidence": 0.75,
-      "date": "2026-10-13 08:59:31",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as a Sumitomo Mitsui card app, lured via a Google Docs drawing link; phishing and fraud campaign targeting Japanese users.",
-      "threat_type": "phishing",
-      "tweet_id": "2109932029144187317",
-      "type": "url",
-      "value": "https://docs.google.com/drawings/d/1lxz7iR19LEtZYWIs66UexxOpvUO2Cny3riKdBlKqy4w/preview"
-    },
     "docs.webapi-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -54081,20 +53953,6 @@
       "tweet_id": "2112834452321632688",
       "type": "domain",
       "value": "domain-privacy.group"
-    },
-    "dont-lose-ur-shit.whitelist.run": {
-      "confidence": 0.6,
-      "date": "2026-10-13 12:17:06",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Domain on the whitelist.run dynamic DNS service reported as a C2 domain; no malware family given.",
-      "threat_type": "c2",
-      "tweet_id": "2109981755138867658",
-      "type": "domain",
-      "value": "dont-lose-ur-shit.whitelist.run"
     },
     "download-6zk.pages.dev": {
       "confidence": 0.8,
@@ -55145,38 +55003,6 @@
       "tweet_id": "2118450511234150864",
       "type": "domain",
       "value": "easydiwali.shop"
-    },
-    "easydriverhub.com": {
-      "confidence": 0.85,
-      "date": "2026-10-13 11:22:36",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Python info stealer posing as an NVIDIA driver update from easydriverhub.com; collects browser data, uploads to 198.37.111.206 and keeps a TCP 8008 socket channel.",
-      "threat_type": "malware",
-      "tweet_id": "2109968038900466012",
-      "type": "domain",
-      "value": "easydriverhub.com"
-    },
-    "easydriverhub.com/downloads/intel-multi-drv.fix": {
-      "confidence": 0.85,
-      "date": "2026-10-13 11:22:36",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Python info stealer posing as an NVIDIA driver update from easydriverhub.com; collects browser data, uploads to 198.37.111.206 and keeps a TCP 8008 socket channel.",
-      "threat_type": "malware",
-      "tweet_id": "2109968038900466012",
-      "type": "url",
-      "value": "https://easydriverhub.com/downloads/intel-multi-drv.fix"
     },
     "ebd865e5901bd5881f6a932d5f7a58e69ef54d25a58df50547e1b1fc8612789d": {
       "confidence": 0.6,
@@ -56274,23 +56100,6 @@
       "tweet_id": "2118854211526177175",
       "type": "sha256",
       "value": "f01a48c8331ab1b0f6be762e172d5469887190e526b87a90defff0c4d14f0365"
-    },
-    "f07ebd2b3b30f1325026af3ff8bd523f0a6833796ef11e3380f2090864e9c1b2": {
-      "confidence": 0.85,
-      "date": "2026-10-13 10:16:57",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": "SalatStealer",
-      "suggested_tags": [
-        "salatstealer",
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "SalatStealer sample uploaded to MalwareBazaar, associated with IP 176.12.71.122 (RU).",
-      "threat_type": "malware",
-      "tweet_id": "2109951516878549366",
-      "type": "sha256",
-      "value": "f07ebd2b3b30f1325026af3ff8bd523f0a6833796ef11e3380f2090864e9c1b2"
     },
     "f093760de90b411a3c1da3f8d929da9f5425238214d6189af8b3a2828301ad1a": {
       "confidence": 0.6,
@@ -59887,38 +59696,6 @@
       "tweet_id": "2112947038946254975",
       "type": "url",
       "value": "http://github.com/e303x"
-    },
-    "github.com/f1-917": {
-      "confidence": 0.85,
-      "date": "2026-10-13 10:07:01",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": "Braodo Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Braodo Stealer delivered via a .bat file that downloads payload and Python libraries from attacker GitHub accounts f1-917 and f3-917.",
-      "threat_type": "malware",
-      "tweet_id": "2109949018134724771",
-      "type": "url",
-      "value": "http://github.com/f1-917"
-    },
-    "github.com/f3-917": {
-      "confidence": 0.85,
-      "date": "2026-10-13 10:07:01",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": "Braodo Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Braodo Stealer delivered via a .bat file that downloads payload and Python libraries from attacker GitHub accounts f1-917 and f3-917.",
-      "threat_type": "malware",
-      "tweet_id": "2109949018134724771",
-      "type": "url",
-      "value": "http://github.com/f3-917"
     },
     "github.com/f3-917/u-g/raw/main/udg.bat": {
       "confidence": 0.6,
@@ -66296,21 +66073,6 @@
       "type": "domain",
       "value": "mbhhrx.sitmarks.xyz"
     },
-    "mcwlogin.club": {
-      "confidence": 0.6,
-      "date": "2026-10-13 11:46:30",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Domains ommartbd.com and mcwlogin.club flagged as ClickFix/terminal-fix lure infrastructure used to trick users into running malicious commands.",
-      "threat_type": "malware",
-      "tweet_id": "2109974053591323091",
-      "type": "domain",
-      "value": "mcwlogin.club"
-    },
     "mdmtxhdb.cn": {
       "confidence": 0.75,
       "date": "2026-10-14 23:32:16",
@@ -67269,6 +67031,22 @@
       "type": "domain",
       "value": "model-whatsapp.com"
     },
+    "mofa-gov-np.donwloaad-file.org": {
+      "confidence": 0.8,
+      "date": "2026-11-12 10:05:15",
+      "enriched_at": "2026-11-12T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "c2",
+        "malware"
+      ],
+      "summary": "Sidewinder APT C2 domain mofa-gov-np[.]donwloaad-file[.]org, tied to a malicious Word document lure titled 'Travel Advisory-Iran'.",
+      "threat_type": "c2",
+      "tweet_id": "2120820210064146566",
+      "type": "domain",
+      "value": "mofa-gov-np.donwloaad-file.org"
+    },
     "mojtelekom.help": {
       "confidence": 0.8,
       "date": "2026-11-02 17:29:09",
@@ -67854,34 +67632,6 @@
       "tweet_id": "2110514053173141544",
       "type": "domain",
       "value": "ncivhyvu.cn"
-    },
-    "nebuladialogue.top": {
-      "confidence": 0.9,
-      "date": "2026-10-13 12:22:32",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating a Sumitomo Mitsui card (Mitsui Sumitomo Card) targeting Japanese users.",
-      "threat_type": "phishing",
-      "tweet_id": "2109983123794690470",
-      "type": "domain",
-      "value": "nebuladialogue.top"
-    },
-    "nebuladialogue.top/sqwlmszy": {
-      "confidence": 0.9,
-      "date": "2026-10-13 12:22:32",
-      "enriched_at": "2026-10-13T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating a Sumitomo Mitsui card (Mitsui Sumitomo Card) targeting Japanese users.",
-      "threat_type": "phishing",
-      "tweet_id": "2109983123794690470",
-      "type": "url",
-      "value": "https://nebuladialogue.top/sQwlMszY/"
     },
     "negana.cc": {
       "confidence": 0.7,
@@ -68651,6 +68401,51 @@
       "type": "domain",
       "value": "nzctjvr.com"
     },
+    "nzxaxcj.cn": {
+      "confidence": 0.6,
+      "date": "2026-11-12 09:18:33",
+      "enriched_at": "2026-11-12T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Phishing/malware site nzxaxcj[.]cn impersonating Japanese card brands SMBC/SMCC/Mitsui Sumitomo, hosted on Alibaba IP, redirecting /verify/ to update.html.",
+      "threat_type": "phishing",
+      "tweet_id": "2120808458018820466",
+      "type": "domain",
+      "value": "nzxaxcj.cn"
+    },
+    "nzxaxcj.cn/verify": {
+      "confidence": 0.6,
+      "date": "2026-11-12 09:18:33",
+      "enriched_at": "2026-11-12T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Phishing/malware site nzxaxcj[.]cn impersonating Japanese card brands SMBC/SMCC/Mitsui Sumitomo, hosted on Alibaba IP, redirecting /verify/ to update.html.",
+      "threat_type": "phishing",
+      "tweet_id": "2120808458018820466",
+      "type": "url",
+      "value": "https://nzxaxcj.cn/verify/"
+    },
+    "nzxaxcj.cn/verify/update.html": {
+      "confidence": 0.6,
+      "date": "2026-11-12 09:18:33",
+      "enriched_at": "2026-11-12T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Phishing/malware site nzxaxcj[.]cn impersonating Japanese card brands SMBC/SMCC/Mitsui Sumitomo, hosted on Alibaba IP, redirecting /verify/ to update.html.",
+      "threat_type": "phishing",
+      "tweet_id": "2120808458018820466",
+      "type": "url",
+      "value": "https://nzxaxcj.cn/verify/update.html"
+    },
     "octoberfp.eastus.cloudapp.azure.com": {
       "confidence": 0.4,
       "date": "2026-10-29 18:39:05",
@@ -68835,21 +68630,6 @@
       "tweet_id": "2112996403551105223",
       "type": "url",
       "value": "https://olympushorse.com.br/dolo/ar24/"
-    },
-    "ommartbd.com": {
-      "confidence": 0.6,
-      "date": "2026-10-13 11:46:30",
-      "enriched_at": "2026-10-13T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Domains ommartbd.com and mcwlogin.club flagged as ClickFix/terminal-fix lure infrastructure used to trick users into running malicious commands.",
-      "threat_type": "malware",
-      "tweet_id": "2109974053591323091",
-      "type": "domain",
-      "value": "ommartbd.com"
     },
     "onfact5-production.web.app": {
       "confidence": 0.6,
@@ -71701,6 +71481,23 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "readme-whatsapp.com"
+    },
+    "realmadridistats.org": {
+      "confidence": 0.8,
+      "date": "2026-11-12 10:39:01",
+      "enriched_at": "2026-11-12T12:40:04Z",
+      "family": "Akira Stealer",
+      "suggested_tags": [
+        "infostealer",
+        "stealer",
+        "malware",
+        "akira"
+      ],
+      "summary": "Fake VS Code installer (vscode-bootstrap.cmd) abuses Node.js to fetch an obfuscated .mjs from realmadridistats[.]org, delivering an Akira Stealer-like Go infostealer.",
+      "threat_type": "malware",
+      "tweet_id": "2120828707296145426",
+      "type": "domain",
+      "value": "realmadridistats.org"
     },
     "reaycats.com": {
       "confidence": 0.2,
@@ -83295,6 +83092,21 @@
       "type": "domain",
       "value": "yahoologin6700.blogspot.com"
     },
+    "yamagatasilk.com": {
+      "confidence": 0.7,
+      "date": "2026-10-14 21:58:42",
+      "enriched_at": "2026-11-12T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing email promoting a debt consolidation offer linking to yamagatasilk[.]com; sender flagged by threat intelligence providers.",
+      "threat_type": "phishing",
+      "tweet_id": "2110490506530808246",
+      "type": "domain",
+      "value": "yamagatasilk.com"
+    },
     "ycfhfm.com": {
       "confidence": 0.8,
       "date": "2026-11-01 01:21:43",
@@ -84523,6 +84335,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-12T06:40:05Z",
+  "generated_at": "2026-11-12T12:40:04Z",
   "window_days": 30
 }
