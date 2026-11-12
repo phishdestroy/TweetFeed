@@ -1,5 +1,5 @@
 {
-  "count": 6046,
+  "count": 6011,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -300,24 +300,6 @@
       "tweet_id": "2116907842125132115",
       "type": "sha256",
       "value": "04395a955f57f772cfb4d0d6161bf085c48e6d55ed6fc7cbbf522867099957d7"
-    },
-    "05629f35dfe1409ea963c135581c228e3b71869b0707974244f6938af635a70e": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "sha256",
-      "value": "05629f35dfe1409ea963c135581c228e3b71869b0707974244f6938af635a70e"
     },
     "057c005a45f399f49f6be2aa59033df67f3cdd74c47c293400dbb8e3c63b2cef": {
       "confidence": 0.5,
@@ -841,22 +823,6 @@
       "tweet_id": "2112023801735299102",
       "type": "ip",
       "value": "101.32.103.87"
-    },
-    "101.42.255.92": {
-      "confidence": 0.6,
-      "date": "2026-10-12 14:19:16",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Java Chains",
-      "suggested_tags": [
-        "c2",
-        "adaptixc2",
-        "opendir"
-      ],
-      "summary": "Team Cymru report of Java Chains exploitation toolkit on malicious IPs, often stacked with AI attack frameworks, AdaptixC2 and other offensive tooling.",
-      "threat_type": "c2",
-      "tweet_id": "2109650108887204073",
-      "type": "ip",
-      "value": "101.42.255.92"
     },
     "101.96.235.184": {
       "confidence": 0.5,
@@ -4512,22 +4478,6 @@
       "type": "url",
       "value": "http://116.202.232.184"
     },
-    "116.204.169.70": {
-      "confidence": 0.85,
-      "date": "2026-10-12 14:53:38",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "AtlasRAT",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "New AtlasRAT loader check-in using 'BFuck' string, with C2 protocol now switched to TLS across eight IPs on port 443.",
-      "threat_type": "c2",
-      "tweet_id": "2109658757680726154",
-      "type": "ip",
-      "value": "116.204.169.70"
-    },
     "116.204.231.21": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -4834,20 +4784,6 @@
       "type": "ip",
       "value": "122.155.166.90"
     },
-    "122.201.118.132": {
-      "confidence": 0.9,
-      "date": "2026-10-12 17:01:20",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "PayPal credential phishing page on a compromised mail subdomain hosted in Australia (Dreamscape Networks).",
-      "threat_type": "phishing",
-      "tweet_id": "2109690898074214748",
-      "type": "ip",
-      "value": "122.201.118.132"
-    },
     "122.51.223.168": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -4939,22 +4875,6 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "124.220.102.76"
-    },
-    "124.220.216.115": {
-      "confidence": 0.6,
-      "date": "2026-10-12 14:19:16",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Java Chains",
-      "suggested_tags": [
-        "c2",
-        "adaptixc2",
-        "opendir"
-      ],
-      "summary": "Team Cymru report of Java Chains exploitation toolkit on malicious IPs, often stacked with AI attack frameworks, AdaptixC2 and other offensive tooling.",
-      "threat_type": "c2",
-      "tweet_id": "2109650108887204073",
-      "type": "ip",
-      "value": "124.220.216.115"
     },
     "124.221.133.13": {
       "confidence": 0.9,
@@ -8075,6 +7995,22 @@
       "type": "url",
       "value": "http://149.28.78.54"
     },
+    "149.3.170.195": {
+      "confidence": 0.8,
+      "date": "2026-11-11 15:26:00",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": "SideCopy",
+      "suggested_tags": [
+        "c2",
+        "apt",
+        "malware"
+      ],
+      "summary": "SideCopy APT C2 server IP reported alongside a malware sample hash, tied to cyber-espionage activity.",
+      "threat_type": "c2",
+      "tweet_id": "2120538539687608784",
+      "type": "url",
+      "value": "http://149.3.170.195"
+    },
     "149.33.8.214": {
       "confidence": 0.65,
       "date": "2026-10-24 09:01:00",
@@ -8101,22 +8037,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "149.78.186.49"
-    },
-    "149.88.66.95": {
-      "confidence": 0.6,
-      "date": "2026-10-12 14:19:16",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Java Chains",
-      "suggested_tags": [
-        "c2",
-        "adaptixc2",
-        "opendir"
-      ],
-      "summary": "Team Cymru report of Java Chains exploitation toolkit on malicious IPs, often stacked with AI attack frameworks, AdaptixC2 and other offensive tooling.",
-      "threat_type": "c2",
-      "tweet_id": "2109650108887204073",
-      "type": "ip",
-      "value": "149.88.66.95"
     },
     "14c6e59422a2bf11438d82bf88d1eb8d43f6dd72a9fece20438c644792c85d33": {
       "confidence": 0.5,
@@ -8191,22 +8111,6 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "150.158.46.75"
-    },
-    "150.158.50.175": {
-      "confidence": 0.85,
-      "date": "2026-10-12 14:53:38",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "AtlasRAT",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "New AtlasRAT loader check-in using 'BFuck' string, with C2 protocol now switched to TLS across eight IPs on port 443.",
-      "threat_type": "c2",
-      "tweet_id": "2109658757680726154",
-      "type": "ip",
-      "value": "150.158.50.175"
     },
     "150.241.66.223": {
       "confidence": 0.85,
@@ -8490,22 +8394,6 @@
       "tweet_id": "2111873443398287762",
       "type": "ip",
       "value": "153.52.111.73"
-    },
-    "153.52.178.118": {
-      "confidence": 0.85,
-      "date": "2026-10-12 13:00:35",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "ScreenConnect",
-      "suggested_tags": [
-        "phishing",
-        "rat",
-        "malware"
-      ],
-      "summary": "Fake DocuSign emails lead to a fake Adobe Reader update delivering a malicious ConnectWise ScreenConnect MSI that connects to rogue ScreenConnect servers.",
-      "threat_type": "malware",
-      "tweet_id": "2109630309792669794",
-      "type": "ip",
-      "value": "153.52.178.118"
     },
     "153.52.255.25": {
       "confidence": 0.8,
@@ -9025,22 +8913,6 @@
       "tweet_id": "2112583368479318236",
       "type": "url",
       "value": "http://156.234.58.242"
-    },
-    "156.234.7.48": {
-      "confidence": 0.85,
-      "date": "2026-10-12 14:53:38",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "AtlasRAT",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "New AtlasRAT loader check-in using 'BFuck' string, with C2 protocol now switched to TLS across eight IPs on port 443.",
-      "threat_type": "c2",
-      "tweet_id": "2109658757680726154",
-      "type": "ip",
-      "value": "156.234.7.48"
     },
     "156.238.249.23": {
       "confidence": 0.5,
@@ -9600,21 +9472,6 @@
       "type": "ip",
       "value": "158.173.36.91"
     },
-    "158.173.51.29": {
-      "confidence": 0.7,
-      "date": "2026-10-12 16:34:35",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat"
-      ],
-      "summary": "IP with port 5000 identified as an HVNC panel (hidden VNC remote-access malware control panel).",
-      "threat_type": "c2",
-      "tweet_id": "2109684164824055831",
-      "type": "ip",
-      "value": "158.173.51.29"
-    },
     "158.179.191.73": {
       "confidence": 0.7,
       "date": "2026-10-22 14:37:08",
@@ -9773,22 +9630,6 @@
       "tweet_id": "2111095657465516235",
       "type": "url",
       "value": "http://159.223.238.117"
-    },
-    "159.75.238.164": {
-      "confidence": 0.6,
-      "date": "2026-10-12 14:19:16",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Java Chains",
-      "suggested_tags": [
-        "c2",
-        "adaptixc2",
-        "opendir"
-      ],
-      "summary": "Team Cymru report of Java Chains exploitation toolkit on malicious IPs, often stacked with AI attack frameworks, AdaptixC2 and other offensive tooling.",
-      "threat_type": "c2",
-      "tweet_id": "2109650108887204073",
-      "type": "ip",
-      "value": "159.75.238.164"
     },
     "16.16.63.239": {
       "confidence": 0.6,
@@ -12322,21 +12163,6 @@
       "type": "ip",
       "value": "185.139.214.156"
     },
-    "185.148.144.99": {
-      "confidence": 0.5,
-      "date": "2026-10-12 17:58:03",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "apt"
-      ],
-      "summary": "Open directory on an attacker server in Bulgaria exposed logs of intrusions into a European franchise/logistics network via Keycloak token leak, SOCKS5 pivoting and a TYPO3 webshell.",
-      "threat_type": "other",
-      "tweet_id": "2109705171466912180",
-      "type": "ip",
-      "value": "185.148.144.99"
-    },
     "185.161.209.61": {
       "confidence": 0.75,
       "date": "2026-11-06 13:07:10",
@@ -12601,22 +12427,6 @@
       "tweet_id": "2115201384043688308",
       "type": "url",
       "value": "http://186.240.201.181"
-    },
-    "186.241.104.59": {
-      "confidence": 0.6,
-      "date": "2026-10-12 14:19:16",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Java Chains",
-      "suggested_tags": [
-        "c2",
-        "adaptixc2",
-        "opendir"
-      ],
-      "summary": "Team Cymru report of Java Chains exploitation toolkit on malicious IPs, often stacked with AI attack frameworks, AdaptixC2 and other offensive tooling.",
-      "threat_type": "c2",
-      "tweet_id": "2109650108887204073",
-      "type": "ip",
-      "value": "186.241.104.59"
     },
     "186.241.116.38": {
       "confidence": 0.55,
@@ -12938,22 +12748,6 @@
       "type": "ip",
       "value": "192.185.142.84"
     },
-    "192.210.174.155": {
-      "confidence": 0.6,
-      "date": "2026-10-12 14:19:16",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Java Chains",
-      "suggested_tags": [
-        "c2",
-        "adaptixc2",
-        "opendir"
-      ],
-      "summary": "Team Cymru report of Java Chains exploitation toolkit on malicious IPs, often stacked with AI attack frameworks, AdaptixC2 and other offensive tooling.",
-      "threat_type": "c2",
-      "tweet_id": "2109650108887204073",
-      "type": "ip",
-      "value": "192.210.174.155"
-    },
     "192.236.151.249": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -13009,22 +12803,6 @@
       "tweet_id": "2114657401773400431",
       "type": "ip",
       "value": "192.248.150.180"
-    },
-    "192.252.180.45": {
-      "confidence": 0.85,
-      "date": "2026-10-12 14:53:38",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "AtlasRAT",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "New AtlasRAT loader check-in using 'BFuck' string, with C2 protocol now switched to TLS across eight IPs on port 443.",
-      "threat_type": "c2",
-      "tweet_id": "2109658757680726154",
-      "type": "ip",
-      "value": "192.252.180.45"
     },
     "192.252.183.158": {
       "confidence": 0.75,
@@ -14313,6 +14091,21 @@
       "tweet_id": "2119783105468715233",
       "type": "md5",
       "value": "1dfc9bd31fb20bcf4131351817cd3314"
+    },
+    "1drv.ms/u/c/f400180846e79b3b/iqak_0buc3ijqbtg5elbfpyhaax9ukmd1jhlqgrzpv3gs5c?e=qsjwob": {
+      "confidence": 0.65,
+      "date": "2026-11-11 14:26:24",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "phishing"
+      ],
+      "summary": "OneDrive abused to host a fake invoice ZIP containing g2m.dll and a PDF-masquerading EXE, used in a Japanese-language malware campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2120523542081200591",
+      "type": "url",
+      "value": "https://1drv.ms/u/c/f400180846e79b3b/IQAK_0buc3iJQbtG5ElBFPyHAax9ukmd1jhlqGRZPV3gs5c?e=QSJWoB"
     },
     "1e98ed3662f68673de57139fad1fe7d32f75007dd20d6ba007a235395f77aa0b": {
       "confidence": 0.4,
@@ -16286,36 +16079,6 @@
       "type": "ip",
       "value": "218.244.142.4"
     },
-    "219.68.139.37": {
-      "confidence": 0.8,
-      "date": "2026-10-12 15:39:56",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Mirai",
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "RCE attempt against GPON routers via /GponForm/diag_Form to download a Mozi/Mirai-style payload from a Taiwan-based source IP.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2109670410639839566",
-      "type": "ip",
-      "value": "219.68.139.37"
-    },
-    "219.68.139.37:46712/mozi.m": {
-      "confidence": 0.8,
-      "date": "2026-10-12 15:39:56",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Mirai",
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "RCE attempt against GPON routers via /GponForm/diag_Form to download a Mozi/Mirai-style payload from a Taiwan-based source IP.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2109670410639839566",
-      "type": "url",
-      "value": "http://219.68.139.37:46712/Mozi.m"
-    },
     "21fbfdbd1ffd9626032dd6193dd3077d0ec88a6cea2dab0b2e12c8470db5916b": {
       "confidence": 0.45,
       "date": "2026-11-11 10:57:26",
@@ -16370,22 +16133,6 @@
       "tweet_id": "2114265972353778027",
       "type": "ip",
       "value": "222.255.137.82"
-    },
-    "223.113.41.56": {
-      "confidence": 0.6,
-      "date": "2026-10-12 14:19:16",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Java Chains",
-      "suggested_tags": [
-        "c2",
-        "adaptixc2",
-        "opendir"
-      ],
-      "summary": "Team Cymru report of Java Chains exploitation toolkit on malicious IPs, often stacked with AI attack frameworks, AdaptixC2 and other offensive tooling.",
-      "threat_type": "c2",
-      "tweet_id": "2109650108887204073",
-      "type": "ip",
-      "value": "223.113.41.56"
     },
     "223.123.65.54": {
       "confidence": 0.5,
@@ -16530,24 +16277,6 @@
       "type": "md5",
       "value": "2298ff8f7a52be186cf16a4ac3e19e5b"
     },
-    "22b0fc350b5e5c557344267b3c44323ac117d3fbeb5cf1bcb8b027352155fa11": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "sha256",
-      "value": "22b0fc350b5e5c557344267b3c44323ac117d3fbeb5cf1bcb8b027352155fa11"
-    },
     "22e1db2b877cc70be55246ef1661d4e5": {
       "confidence": 0.85,
       "date": "2026-11-05 12:02:02",
@@ -16680,22 +16409,6 @@
       "tweet_id": "2115434453342544293",
       "type": "ip",
       "value": "23.165.56.186"
-    },
-    "23.226.57.50": {
-      "confidence": 0.85,
-      "date": "2026-10-12 14:53:38",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "AtlasRAT",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "New AtlasRAT loader check-in using 'BFuck' string, with C2 protocol now switched to TLS across eight IPs on port 443.",
-      "threat_type": "c2",
-      "tweet_id": "2109658757680726154",
-      "type": "ip",
-      "value": "23.226.57.50"
     },
     "23.227.202.3": {
       "confidence": 0.6,
@@ -17828,6 +17541,21 @@
       "tweet_id": "2116869438725067114",
       "type": "sha256",
       "value": "2c421ece8d566da75ef3473f5b19c8fa3e64b7e53e30efa2c2d91693c3d8c7a9"
+    },
+    "2c95be179f9b6a52043cbab4ba2524d66e05e0e1e762697f969474510ca79ac1": {
+      "confidence": 0.7,
+      "date": "2026-11-11 13:15:22",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Operator infrastructure serving ScreenConnect MSI and droppers (svc.exe, dropper.exe, WinDefCtl.exe, stage1.hta) enrolling in a ScreenConnect relay instance.",
+      "threat_type": "malware",
+      "tweet_id": "2120505664845832433",
+      "type": "sha256",
+      "value": "2c95be179f9b6a52043cbab4ba2524d66e05e0e1e762697f969474510ca79ac1"
     },
     "2d47ff06e786c6f6660f1db6ab342af2": {
       "confidence": 0.9,
@@ -27726,22 +27454,6 @@
       "type": "ip",
       "value": "38.76.172.196"
     },
-    "38.76.177.46": {
-      "confidence": 0.85,
-      "date": "2026-10-12 14:53:38",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "AtlasRAT",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "New AtlasRAT loader check-in using 'BFuck' string, with C2 protocol now switched to TLS across eight IPs on port 443.",
-      "threat_type": "c2",
-      "tweet_id": "2109658757680726154",
-      "type": "ip",
-      "value": "38.76.177.46"
-    },
     "38.76.183.195": {
       "confidence": 0.7,
       "date": "2026-10-15 08:25:29",
@@ -28141,6 +27853,21 @@
       "tweet_id": "2116019203992093042",
       "type": "sha256",
       "value": "3df306ee35b8abd426d2231dd10c987aec8499b8339aff39725bc925eae20c48"
+    },
+    "3eb6f62926824c302a46dda0528a401c43a4617bb4c05fd8ef8d723bde5ef3b4": {
+      "confidence": 0.7,
+      "date": "2026-11-11 13:15:22",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Operator infrastructure serving ScreenConnect MSI and droppers (svc.exe, dropper.exe, WinDefCtl.exe, stage1.hta) enrolling in a ScreenConnect relay instance.",
+      "threat_type": "malware",
+      "tweet_id": "2120505664845832433",
+      "type": "sha256",
+      "value": "3eb6f62926824c302a46dda0528a401c43a4617bb4c05fd8ef8d723bde5ef3b4"
     },
     "3f3a445e0138a0c0f375fcf4ee608c9cb61660fa08533704ca5113f712179133": {
       "confidence": 0.8,
@@ -28886,6 +28613,21 @@
       "type": "ip",
       "value": "43.173.38.56"
     },
+    "43.198.103.139": {
+      "confidence": 0.7,
+      "date": "2026-11-11 14:26:24",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Japanese-language phishing email with fake invoice lure linking to octopuscambodia[.]com, delivering a ZIP that leads to ScreenConnect abuse.",
+      "threat_type": "malware",
+      "tweet_id": "2120523540286119950",
+      "type": "url",
+      "value": "http://43.198.103.139"
+    },
     "43.213.75.63": {
       "confidence": 0.7,
       "date": "2026-10-29 13:09:52",
@@ -28993,22 +28735,6 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "43.254.166.250"
-    },
-    "43.99.101.175": {
-      "confidence": 0.85,
-      "date": "2026-10-12 14:53:38",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "AtlasRAT",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "New AtlasRAT loader check-in using 'BFuck' string, with C2 protocol now switched to TLS across eight IPs on port 443.",
-      "threat_type": "c2",
-      "tweet_id": "2109658757680726154",
-      "type": "ip",
-      "value": "43.99.101.175"
     },
     "44.220.188.120": {
       "confidence": 0.8,
@@ -29317,22 +29043,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "45.141.26.3"
-    },
-    "45.142.152.180": {
-      "confidence": 0.85,
-      "date": "2026-10-12 14:53:38",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "AtlasRAT",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "New AtlasRAT loader check-in using 'BFuck' string, with C2 protocol now switched to TLS across eight IPs on port 443.",
-      "threat_type": "c2",
-      "tweet_id": "2109658757680726154",
-      "type": "ip",
-      "value": "45.142.152.180"
     },
     "45.146.81.109": {
       "confidence": 0.6,
@@ -29723,21 +29433,6 @@
       "tweet_id": "2119450872896012346",
       "type": "url",
       "value": "http://45.61.157.22"
-    },
-    "45.63.108.122": {
-      "confidence": 0.7,
-      "date": "2026-10-12 16:36:42",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat"
-      ],
-      "summary": "IP with port 8080 identified as an HVNC panel (hidden VNC remote-access malware control panel).",
-      "threat_type": "c2",
-      "tweet_id": "2109684696556945823",
-      "type": "ip",
-      "value": "45.63.108.122"
     },
     "45.63.5.163": {
       "confidence": 0.7,
@@ -30894,6 +30589,21 @@
       "type": "sha256",
       "value": "4da4c4881e3a7eb3cb3571e1caf0f2c27a0f4e67cc7ccd638fa5381aa5d14d89"
     },
+    "4db6807e79e0992495f7a049ecfca581fa87439cb3ecc9e139e8a3e00d356654": {
+      "confidence": 0.7,
+      "date": "2026-11-11 13:15:22",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Operator infrastructure serving ScreenConnect MSI and droppers (svc.exe, dropper.exe, WinDefCtl.exe, stage1.hta) enrolling in a ScreenConnect relay instance.",
+      "threat_type": "malware",
+      "tweet_id": "2120505664845832433",
+      "type": "sha256",
+      "value": "4db6807e79e0992495f7a049ecfca581fa87439cb3ecc9e139e8a3e00d356654"
+    },
     "4dc4c0bdce7d711bd4160beebbfe67d64a65a5c083429cb222926d7bd095b353": {
       "confidence": 0.65,
       "date": "2026-10-27 08:21:23",
@@ -31574,24 +31284,6 @@
       "tweet_id": "2118266129768427598",
       "type": "sha256",
       "value": "532606ab597ee4f7cd0b0c76ea90e139e601a116bfa355ec1bdbd77566d53e5b"
-    },
-    "5363bc92bac44aa2ba87b46c59fd3f78d5cdd32839efa854e97380a55fdacabb": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "sha256",
-      "value": "5363bc92bac44aa2ba87b46c59fd3f78d5cdd32839efa854e97380a55fdacabb"
     },
     "54.168.18.248": {
       "confidence": 0.7,
@@ -32369,24 +32061,6 @@
       "type": "sha256",
       "value": "61a10a01cb3ef6db810baa7d3b98c2f0fd8c0618d5ea48643a15484f4ca73587"
     },
-    "61def8b242913b520ec110458a416b02a6a38dc8765bc76bd571ee7ae8350aae": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "sha256",
-      "value": "61def8b242913b520ec110458a416b02a6a38dc8765bc76bd571ee7ae8350aae"
-    },
     "61fcf11e431a34c80d90e8af7f1d6b11eed82397ad21cc986648af0ffeb7e4d3": {
       "confidence": 0.6,
       "date": "2026-10-19 20:50:14",
@@ -32684,22 +32358,6 @@
       "tweet_id": "2117384511520457088",
       "type": "url",
       "value": "http://64.81.30.42:3042"
-    },
-    "64.83.18.174": {
-      "confidence": 0.6,
-      "date": "2026-10-12 14:19:16",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Java Chains",
-      "suggested_tags": [
-        "c2",
-        "adaptixc2",
-        "opendir"
-      ],
-      "summary": "Team Cymru report of Java Chains exploitation toolkit on malicious IPs, often stacked with AI attack frameworks, AdaptixC2 and other offensive tooling.",
-      "threat_type": "c2",
-      "tweet_id": "2109650108887204073",
-      "type": "ip",
-      "value": "64.83.18.174"
     },
     "64.89.160.210": {
       "confidence": 0.65,
@@ -33132,6 +32790,20 @@
       "tweet_id": "2118710360152711333",
       "type": "sha256",
       "value": "6a8441872566565d8f81932b49ed762f0fc427579225332dda4a5ab20814325d"
+    },
+    "6aa2108ca3f8235b0eefbfdb11384ada5eb0b944ed9196578099617c804fbf11": {
+      "confidence": 0.55,
+      "date": "2026-11-11 14:16:27",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "VHDX file related to a Romanian-language lure campaign using a LNK file about reporting non-compliance, uploaded to MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2120521036646998108",
+      "type": "sha256",
+      "value": "6aa2108ca3f8235b0eefbfdb11384ada5eb0b944ed9196578099617c804fbf11"
     },
     "6b0584efdcbb2eddf56cb9c2638ec4e0": {
       "confidence": 0.5,
@@ -33710,6 +33382,21 @@
       "tweet_id": "2120020373773434974",
       "type": "sha256",
       "value": "741ae54d9b48f51b8c68d5fd11e3196a3052a189d5b6dfe405ac2caad38680a4"
+    },
+    "745a1f2636c375d797e76567a90ced811c1f433304c8f8a65fb23a5b9be1bddf": {
+      "confidence": 0.65,
+      "date": "2026-11-11 14:26:24",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "phishing"
+      ],
+      "summary": "OneDrive abused to host a fake invoice ZIP containing g2m.dll and a PDF-masquerading EXE, used in a Japanese-language malware campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2120523542081200591",
+      "type": "sha256",
+      "value": "745a1f2636c375d797e76567a90ced811c1f433304c8f8a65fb23a5b9be1bddf"
     },
     "74d4268d16116b148e6e32d9b44101d8": {
       "confidence": 0.6,
@@ -34374,22 +34061,6 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "8.135.30.162"
-    },
-    "8.135.58.72": {
-      "confidence": 0.6,
-      "date": "2026-10-12 14:19:16",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Java Chains",
-      "suggested_tags": [
-        "c2",
-        "adaptixc2",
-        "opendir"
-      ],
-      "summary": "Team Cymru report of Java Chains exploitation toolkit on malicious IPs, often stacked with AI attack frameworks, AdaptixC2 and other offensive tooling.",
-      "threat_type": "c2",
-      "tweet_id": "2109650108887204073",
-      "type": "ip",
-      "value": "8.135.58.72"
     },
     "8.136.28.108": {
       "confidence": 0.5,
@@ -35176,22 +34847,6 @@
       "tweet_id": "2111786774242758835",
       "type": "ip",
       "value": "83.228.226.169"
-    },
-    "83.229.121.39": {
-      "confidence": 0.6,
-      "date": "2026-10-12 14:19:16",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Java Chains",
-      "suggested_tags": [
-        "c2",
-        "adaptixc2",
-        "opendir"
-      ],
-      "summary": "Team Cymru report of Java Chains exploitation toolkit on malicious IPs, often stacked with AI attack frameworks, AdaptixC2 and other offensive tooling.",
-      "threat_type": "c2",
-      "tweet_id": "2109650108887204073",
-      "type": "ip",
-      "value": "83.229.121.39"
     },
     "838f3f24867b7ec93a6ad13c225b50f34959e7ed558175f9bc1be2a62337e7b7": {
       "confidence": 0.6,
@@ -36268,6 +35923,20 @@
       "type": "sha256",
       "value": "8e8a79a84d0ac53e7b6d4a8c7f6b94417a5f7929213bff394cddd795ed3c6f17"
     },
+    "8f2e3739fc59a37623ea8ac1782f773ab6668e9108789fcb7cca9b3504a4e00a": {
+      "confidence": 0.5,
+      "date": "2026-11-11 17:07:36",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "MSI sample uploaded to MalwareBazaar, linked to a file hosted on Azure infrastructure that evades AV detection on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2120564110047760887",
+      "type": "sha256",
+      "value": "8f2e3739fc59a37623ea8ac1782f773ab6668e9108789fcb7cca9b3504a4e00a"
+    },
     "8f43091a979666dc52ecae684c792eac": {
       "confidence": 0.8,
       "date": "2026-11-10 10:12:52",
@@ -36283,24 +35952,6 @@
       "tweet_id": "2120097350622347346",
       "type": "md5",
       "value": "8f43091a979666dc52ecae684c792eac"
-    },
-    "8f4903b8b110ec1b9580a5a27bf49c3e4793538a863100559d085b7545fcda25": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "sha256",
-      "value": "8f4903b8b110ec1b9580a5a27bf49c3e4793538a863100559d085b7545fcda25"
     },
     "8f689b12b178ebf4a523ccecd600da8406abd1c9101542ed9fa7dd9dc667d13b": {
       "confidence": 0.7,
@@ -36890,38 +36541,6 @@
       "type": "url",
       "value": "http://93.152.220.124"
     },
-    "93.152.220.219": {
-      "confidence": 0.9,
-      "date": "2026-10-12 15:45:26",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "SectopRAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "DLL sideloading chains abusing signed SonicWall, IBM, Blue Iris and ON1 executables to deploy SectopRAT, which fetches its C2 config from a BNB Smart Chain contract.",
-      "threat_type": "malware",
-      "tweet_id": "2109671796068716861",
-      "type": "ip",
-      "value": "93.152.220.219"
-    },
-    "93.152.220.219:443": {
-      "confidence": 0.9,
-      "date": "2026-10-12 15:45:26",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "SectopRAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "DLL sideloading chains abusing signed SonicWall, IBM, Blue Iris and ON1 executables to deploy SectopRAT, which fetches its C2 config from a BNB Smart Chain contract.",
-      "threat_type": "malware",
-      "tweet_id": "2109671796068716861",
-      "type": "url",
-      "value": "http://93.152.220.219:443"
-    },
     "93.152.221.150": {
       "confidence": 0.85,
       "date": "2026-11-04 14:53:43",
@@ -37219,38 +36838,6 @@
       "tweet_id": "2114611000897048632",
       "type": "ip",
       "value": "96.126.130.81"
-    },
-    "96.62.218.59": {
-      "confidence": 0.9,
-      "date": "2026-10-12 15:45:26",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "SectopRAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "DLL sideloading chains abusing signed SonicWall, IBM, Blue Iris and ON1 executables to deploy SectopRAT, which fetches its C2 config from a BNB Smart Chain contract.",
-      "threat_type": "malware",
-      "tweet_id": "2109671796068716861",
-      "type": "ip",
-      "value": "96.62.218.59"
-    },
-    "96.62.218.59:443": {
-      "confidence": 0.9,
-      "date": "2026-10-12 15:45:26",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "SectopRAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "DLL sideloading chains abusing signed SonicWall, IBM, Blue Iris and ON1 executables to deploy SectopRAT, which fetches its C2 config from a BNB Smart Chain contract.",
-      "threat_type": "malware",
-      "tweet_id": "2109671796068716861",
-      "type": "url",
-      "value": "http://96.62.218.59:443"
     },
     "96.62.224.138": {
       "confidence": 0.7,
@@ -37617,36 +37204,6 @@
       "type": "sha256",
       "value": "9dc8574843fdb8f0834bcf2c4d3f5b0c122368b925e0d3a5eec07b8f2d9e8db0"
     },
-    "9e3400d4ee64bde5506d9b8ddc07f014cb313528b82d7a157486263dafcf2639": {
-      "confidence": 0.5,
-      "date": "2026-10-12 13:04:04",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious ISO file named 'Penalty Order' with Hindi text, submitted to MalwareBazaar; payload family not stated.",
-      "threat_type": "malware",
-      "tweet_id": "2109631186444149222",
-      "type": "sha256",
-      "value": "9e3400d4ee64bde5506d9b8ddc07f014cb313528b82d7a157486263dafcf2639"
-    },
-    "9f34ec35fc57b33ee6118fb608abc46c1e7b9ff89955a158b6c8812b48ed2963": {
-      "confidence": 0.85,
-      "date": "2026-10-12 13:00:35",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "ScreenConnect",
-      "suggested_tags": [
-        "phishing",
-        "rat",
-        "malware"
-      ],
-      "summary": "Fake DocuSign emails lead to a fake Adobe Reader update delivering a malicious ConnectWise ScreenConnect MSI that connects to rogue ScreenConnect servers.",
-      "threat_type": "malware",
-      "tweet_id": "2109630309792669794",
-      "type": "sha256",
-      "value": "9f34ec35fc57b33ee6118fb608abc46c1e7b9ff89955a158b6c8812b48ed2963"
-    },
     "9oogle.app": {
       "confidence": 0.8,
       "date": "2026-10-22 16:33:07",
@@ -37752,24 +37309,6 @@
       "tweet_id": "2116138601591267643",
       "type": "sha256",
       "value": "a05f4ff652ead595faf098299f14c279f84873268ffca159ff8a3e1e6a713943"
-    },
-    "a0923188fbd52277e1711ae312f3c6fb841f3cdebe1a95d5c89fe2455f8ace32": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "sha256",
-      "value": "a0923188fbd52277e1711ae312f3c6fb841f3cdebe1a95d5c89fe2455f8ace32"
     },
     "a0be120b.fase-x.com": {
       "confidence": 0.9,
@@ -37975,24 +37514,6 @@
       "tweet_id": "2113009224414327007",
       "type": "sha256",
       "value": "a355496c47d79ab9ad373d34192e1d47580668642436912caf5b215d27db02be"
-    },
-    "a38e6f54efe342b4a2ca9ac4428a5268faed96cd602baa1886efb09f72435abb": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "sha256",
-      "value": "a38e6f54efe342b4a2ca9ac4428a5268faed96cd602baa1886efb09f72435abb"
     },
     "a3c64998a58595b7a6c2d16db68a767a87c9f3c3eb89784870ce51667a09d15b": {
       "confidence": 0.4,
@@ -38726,6 +38247,36 @@
       "tweet_id": "2110434672446779465",
       "type": "sha256",
       "value": "ad0d08d54c9bbe2309bb7a8ae92def8a04297d0238f2799764d93929b57cbd5f"
+    },
+    "adb-viewersv.com": {
+      "confidence": 0.7,
+      "date": "2026-11-11 12:27:00",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Fake Adobe package ZIP delivered from adb-viewersv[.]com, with a C2 at support.rogmafia[.]top on port 8041.",
+      "threat_type": "c2",
+      "tweet_id": "2120493492724015308",
+      "type": "domain",
+      "value": "adb-viewersv.com"
+    },
+    "adb-viewersv.com/invite/adobepackage-v3.5.1.zip": {
+      "confidence": 0.7,
+      "date": "2026-11-11 12:27:00",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Fake Adobe package ZIP delivered from adb-viewersv[.]com, with a C2 at support.rogmafia[.]top on port 8041.",
+      "threat_type": "c2",
+      "tweet_id": "2120493492724015308",
+      "type": "url",
+      "value": "https://adb-viewersv.com/invite/adobepackage-v3.5.1.zip"
     },
     "add-mfa.com": {
       "confidence": 0.85,
@@ -39783,6 +39334,21 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "amc-whatsapp.com"
+    },
+    "amd-country-prince-episode.trycloudflare.com": {
+      "confidence": 0.6,
+      "date": "2026-11-11 14:04:00",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": "Sencillo",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Operator's stage1.hta pulls an agent from a trycloudflare.com domain in a campaign using the Sencillo panel and a ScreenConnect MSI.",
+      "threat_type": "malware",
+      "tweet_id": "2120517903753572634",
+      "type": "domain",
+      "value": "amd-country-prince-episode.trycloudflare.com"
     },
     "amd-whatsapp.com": {
       "confidence": 0.65,
@@ -45132,6 +44698,21 @@
       "type": "md5",
       "value": "bf939084d319bf84e6979ce2e95aea7c"
     },
+    "bf9edde10f676f68c9aaba87f943dcb7525a3c2a60f7fa5b702e01cb3ffb8f59": {
+      "confidence": 0.7,
+      "date": "2026-11-11 13:15:22",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Operator infrastructure serving ScreenConnect MSI and droppers (svc.exe, dropper.exe, WinDefCtl.exe, stage1.hta) enrolling in a ScreenConnect relay instance.",
+      "threat_type": "malware",
+      "tweet_id": "2120505664845832433",
+      "type": "sha256",
+      "value": "bf9edde10f676f68c9aaba87f943dcb7525a3c2a60f7fa5b702e01cb3ffb8f59"
+    },
     "bfa1f3075cf4353fe18a07a5e6772df5d505149a7ff40629816dde69945cc7e4": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -48642,20 +48223,6 @@
       "type": "sha256",
       "value": "c7522282e3cd0da4b9e1f1fd056361ed9b4ee40c695aa4148542016d2b0c04ba"
     },
-    "c7c19812efc4ea911da10fb8603a338bb8d8ca15e6eb1a58913cf5a509d5fe50": {
-      "confidence": 0.45,
-      "date": "2026-10-12 18:05:09",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Russian-language zip lure posing as a construction company specification request for September 2026, tied to the domain dataprime.today.",
-      "threat_type": "malware",
-      "tweet_id": "2109706955413414100",
-      "type": "sha256",
-      "value": "c7c19812efc4ea911da10fb8603a338bb8d8ca15e6eb1a58913cf5a509d5fe50"
-    },
     "c80ff80822680c238962ee1e0bd293a36e739d6cbddee65545c3556476889ed1": {
       "confidence": 0.8,
       "date": "2026-11-08 23:49:08",
@@ -49470,6 +49037,21 @@
       "tweet_id": "2119813512331497664",
       "type": "sha256",
       "value": "cd067abf727655d1d82d16506cee51fda6c200e7fe67ebac21b07e3eb9fd67f7"
+    },
+    "cd74f1cc6c46ca7c0485f79aa274dfeac9dced70a3ca41db309a4453c91545d5": {
+      "confidence": 0.7,
+      "date": "2026-11-11 13:15:22",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Operator infrastructure serving ScreenConnect MSI and droppers (svc.exe, dropper.exe, WinDefCtl.exe, stage1.hta) enrolling in a ScreenConnect relay instance.",
+      "threat_type": "malware",
+      "tweet_id": "2120505664845832433",
+      "type": "sha256",
+      "value": "cd74f1cc6c46ca7c0485f79aa274dfeac9dced70a3ca41db309a4453c91545d5"
     },
     "cdfers.sbs": {
       "confidence": 0.6,
@@ -51596,24 +51178,6 @@
       "type": "domain",
       "value": "crepiehumru.lol"
     },
-    "cruahop.shop": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "domain",
-      "value": "cruahop.shop"
-    },
     "cruisemacauu-jp.com": {
       "confidence": 0.8,
       "date": "2026-11-04 22:38:40",
@@ -52332,20 +51896,6 @@
       "type": "domain",
       "value": "datahost-whatsapp.com"
     },
-    "dataprime.today": {
-      "confidence": 0.45,
-      "date": "2026-10-12 18:05:09",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Russian-language zip lure posing as a construction company specification request for September 2026, tied to the domain dataprime.today.",
-      "threat_type": "malware",
-      "tweet_id": "2109706955413414100",
-      "type": "domain",
-      "value": "dataprime.today"
-    },
     "datapush-whatsapp.com": {
       "confidence": 0.7,
       "date": "2026-10-20 16:34:59",
@@ -52446,24 +51996,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "dbcache-whatsapp.com"
-    },
-    "dc0a864f441f0237853b40217eda577defb7c1dd15af407c7241688b1b3a3b46": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "sha256",
-      "value": "dc0a864f441f0237853b40217eda577defb7c1dd15af407c7241688b1b3a3b46"
     },
     "dc27bb3c16f98f11a2cdb88be7c4d3edf8348ce5b1a9334f5bd2e569f3cbf050": {
       "confidence": 0.6,
@@ -52628,6 +52160,20 @@
       "tweet_id": "2112738024262181174",
       "type": "sha256",
       "value": "de0b9b6656c9e9fc9db4271610a09c2ae27d07c5a4757e94b2e0314a9dda6ee4"
+    },
+    "de309b02a0f6c5777b248fbfd09343d6b1707fd9fa59397316999e706ab42db9": {
+      "confidence": 0.5,
+      "date": "2026-11-11 14:31:40",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "ELF sample 'svc_de13a3' uploaded to MalwareBazaar, associated with a trycloudflare.com tunnel domain.",
+      "threat_type": "malware",
+      "tweet_id": "2120524866130485482",
+      "type": "sha256",
+      "value": "de309b02a0f6c5777b248fbfd09343d6b1707fd9fa59397316999e706ab42db9"
     },
     "de578e29c96f49bdc72756fce941b5c6c6814748a0cc9395e47a7d2aec354380": {
       "confidence": 0.8,
@@ -53522,38 +53068,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "dhcpnode-whatsapp.com"
-    },
-    "dicechecker.app": {
-      "confidence": 0.7,
-      "date": "2026-10-12 17:31:09",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "PowerShell script hosted on dicechecker.app acting as a Discord-based C2 RAT agent, with config strings split to evade static scanning.",
-      "threat_type": "malware",
-      "tweet_id": "2109698401327624409",
-      "type": "domain",
-      "value": "dicechecker.app"
-    },
-    "dicechecker.app/0b05d2aea7.ps1": {
-      "confidence": 0.7,
-      "date": "2026-10-12 17:31:09",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "PowerShell script hosted on dicechecker.app acting as a Discord-based C2 RAT agent, with config strings split to evade static scanning.",
-      "threat_type": "malware",
-      "tweet_id": "2109698401327624409",
-      "type": "url",
-      "value": "https://dicechecker.app/0b05d2aea7.ps1"
     },
     "digilocker.governement.info": {
       "confidence": 0.7,
@@ -55057,24 +54571,6 @@
       "type": "domain",
       "value": "drcourtneyjones.com"
     },
-    "drepace.click": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "domain",
-      "value": "drepace.click"
-    },
     "dresiadkmhuta25.pages.dev": {
       "confidence": 0.6,
       "date": "2026-10-17 22:41:36",
@@ -55360,6 +54856,20 @@
       "tweet_id": "2113695797900677444",
       "type": "sha256",
       "value": "e006d6bd7f00bb25d86951b370c5c19ed7adc0ba65a8fbff281e050e55925941"
+    },
+    "e010d8471b3a836670625ecefcb0a18a743edbe795783d0fdb8fa8ec0ce515f1": {
+      "confidence": 0.55,
+      "date": "2026-11-11 14:10:45",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Related VHDX 'Reguli_documentatie_financiara.vhdx' containing a LNK file with an unusual MachineID, uploaded to MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2120519605449904136",
+      "type": "sha256",
+      "value": "e010d8471b3a836670625ecefcb0a18a743edbe795783d0fdb8fa8ec0ce515f1"
     },
     "e050ddccbdac97dfc8eb41760a76b1ae7f0c9e22a44034304462ea20c3ed51f5": {
       "confidence": 0.6,
@@ -57038,24 +56548,6 @@
       "type": "sha256",
       "value": "f01a48c8331ab1b0f6be762e172d5469887190e526b87a90defff0c4d14f0365"
     },
-    "f02e2fefd74c7268e3aced61017173fff92e2a1d0e7eaf7807189f371fbfcc1f": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "sha256",
-      "value": "f02e2fefd74c7268e3aced61017173fff92e2a1d0e7eaf7807189f371fbfcc1f"
-    },
     "f07ebd2b3b30f1325026af3ff8bd523f0a6833796ef11e3380f2090864e9c1b2": {
       "confidence": 0.85,
       "date": "2026-10-13 10:16:57",
@@ -57211,6 +56703,21 @@
       "tweet_id": "2115802682296340935",
       "type": "md5",
       "value": "f2ae44b6f070273d53f79ef73646f880"
+    },
+    "f317c0c816f267a1fc60ba45dfbb9f57443957605cb7a5b0cb52f5c02e7765fc": {
+      "confidence": 0.7,
+      "date": "2026-11-11 12:27:00",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Fake Adobe package ZIP delivered from adb-viewersv[.]com, with a C2 at support.rogmafia[.]top on port 8041.",
+      "threat_type": "c2",
+      "tweet_id": "2120493492724015308",
+      "type": "sha256",
+      "value": "f317c0c816f267a1fc60ba45dfbb9f57443957605cb7a5b0cb52f5c02e7765fc"
     },
     "f452b1a06c86c4ffa7ae32359cd2c03e58f6f20c7f892c4819c85836085804ae": {
       "confidence": 0.4,
@@ -63491,6 +62998,21 @@
       "type": "url",
       "value": "https://installgarphenos.ink/GrapheneOS.zip"
     },
+    "instance-hsiwi5-relay.screenconnect.com": {
+      "confidence": 0.7,
+      "date": "2026-11-11 13:15:22",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Operator infrastructure serving ScreenConnect MSI and droppers (svc.exe, dropper.exe, WinDefCtl.exe, stage1.hta) enrolling in a ScreenConnect relay instance.",
+      "threat_type": "malware",
+      "tweet_id": "2120505664845832433",
+      "type": "domain",
+      "value": "instance-hsiwi5-relay.screenconnect.com"
+    },
     "instantposupdate.com": {
       "confidence": 0.6,
       "date": "2026-10-13 19:46:48",
@@ -63686,24 +63208,6 @@
       "tweet_id": "2119851726752850300",
       "type": "domain",
       "value": "irmaosrodriguesparafusos.com"
-    },
-    "ironphantomcore.top": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "domain",
-      "value": "ironphantomcore.top"
     },
     "irvombeth.cfd": {
       "confidence": 0.9,
@@ -66653,34 +66157,6 @@
       "type": "domain",
       "value": "mail-mof-gov-np.netlify.app"
     },
-    "mail.intomahost2.com": {
-      "confidence": 0.9,
-      "date": "2026-10-12 17:01:20",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "PayPal credential phishing page on a compromised mail subdomain hosted in Australia (Dreamscape Networks).",
-      "threat_type": "phishing",
-      "tweet_id": "2109690898074214748",
-      "type": "domain",
-      "value": "mail.intomahost2.com"
-    },
-    "mail.intomahost2.com/port/paypal/auth/login.php": {
-      "confidence": 0.9,
-      "date": "2026-10-12 17:01:20",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "PayPal credential phishing page on a compromised mail subdomain hosted in Australia (Dreamscape Networks).",
-      "threat_type": "phishing",
-      "tweet_id": "2109690898074214748",
-      "type": "url",
-      "value": "http://mail.intomahost2.com/port/paypal/auth/login.php"
-    },
     "mail.meet-google.live": {
       "confidence": 0.8,
       "date": "2026-10-19 20:50:17",
@@ -69102,24 +68578,6 @@
       "type": "url",
       "value": "https://niceph.asia/hbsraitb/"
     },
-    "nightflamevortex.top": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "domain",
-      "value": "nightflamevortex.top"
-    },
     "nildex.com": {
       "confidence": 0.85,
       "date": "2026-10-13 16:35:39",
@@ -69305,6 +68763,34 @@
       "type": "domain",
       "value": "nosqldb-whatsapp.com"
     },
+    "nov6fp-zone-1488-reg.westus2.cloudapp.azure.com": {
+      "confidence": 0.45,
+      "date": "2026-11-11 17:07:36",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious file hosted on an Azure cloudapp domain, with no AV detections on VirusTotal at the time of the report.",
+      "threat_type": "malware",
+      "tweet_id": "2120563068187111819",
+      "type": "domain",
+      "value": "nov6fp-zone-1488-reg.westus2.cloudapp.azure.com"
+    },
+    "nov6fp-zone-1488-reg.westus2.cloudapp.azure.com/files/u11": {
+      "confidence": 0.45,
+      "date": "2026-11-11 17:07:36",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious file hosted on an Azure cloudapp domain, with no AV detections on VirusTotal at the time of the report.",
+      "threat_type": "malware",
+      "tweet_id": "2120563068187111819",
+      "type": "url",
+      "value": "https://nov6fp-zone-1488-reg.westus2.cloudapp.azure.com/files/U11"
+    },
     "novametalinc.com": {
       "confidence": 0.92,
       "date": "2026-10-18 23:01:03",
@@ -69469,24 +68955,6 @@
       "tweet_id": "2115793239034749397",
       "type": "domain",
       "value": "nzctjvr.com"
-    },
-    "oceanvw.click": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "domain",
-      "value": "oceanvw.click"
     },
     "octoberfp.eastus.cloudapp.azure.com": {
       "confidence": 0.4,
@@ -75280,24 +74748,6 @@
       "type": "domain",
       "value": "sexygal.top"
     },
-    "shadowemberstrike.top": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "domain",
-      "value": "shadowemberstrike.top"
-    },
     "shamcash-mu.vercel.app": {
       "confidence": 0.85,
       "date": "2026-11-08 18:36:56",
@@ -76136,24 +75586,6 @@
       "type": "domain",
       "value": "spnetflx.com"
     },
-    "spogear.click": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "domain",
-      "value": "spogear.click"
-    },
     "sqhwlbkpyax.cfd": {
       "confidence": 0.85,
       "date": "2026-11-06 05:22:37",
@@ -76484,24 +75916,6 @@
       "tweet_id": "2118001069729157151",
       "type": "domain",
       "value": "store2.shop"
-    },
-    "stormvenomforge.top": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "domain",
-      "value": "stormvenomforge.top"
     },
     "strand-output-firefox-laptop.trycloudflare.com": {
       "confidence": 0.4,
@@ -77677,6 +77091,36 @@
       "tweet_id": "2112532836871782885",
       "type": "domain",
       "value": "support-apple.top"
+    },
+    "support.rogmafia.top": {
+      "confidence": 0.7,
+      "date": "2026-11-11 12:27:00",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Fake Adobe package ZIP delivered from adb-viewersv[.]com, with a C2 at support.rogmafia[.]top on port 8041.",
+      "threat_type": "c2",
+      "tweet_id": "2120493492724015308",
+      "type": "domain",
+      "value": "support.rogmafia.top"
+    },
+    "support.rogmafia.top:8041": {
+      "confidence": 0.7,
+      "date": "2026-11-11 12:27:00",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Fake Adobe package ZIP delivered from adb-viewersv[.]com, with a C2 at support.rogmafia[.]top on port 8041.",
+      "threat_type": "c2",
+      "tweet_id": "2120493492724015308",
+      "type": "url",
+      "value": "http://support.rogmafia.top:8041"
     },
     "support.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -80326,20 +79770,6 @@
       "type": "domain",
       "value": "uk.webhwsapp-whatsapp.com"
     },
-    "ukembassyparagraph.enn.kr": {
-      "confidence": 0.3,
-      "date": "2026-10-12 17:45:32",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Suspicious domain mimicking a UK embassy shared without context; likely lure or phishing infrastructure.",
-      "threat_type": "phishing",
-      "tweet_id": "2109702020701573331",
-      "type": "domain",
-      "value": "ukembassyparagraph.enn.kr"
-    },
     "ultimategrillhub.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -80875,24 +80305,6 @@
       "type": "domain",
       "value": "vcnweb-whatsapp.com"
     },
-    "velnoderic.com": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "domain",
-      "value": "velnoderic.com"
-    },
     "vemtasbobinaj.com": {
       "confidence": 0.85,
       "date": "2026-11-02 19:27:35",
@@ -81210,24 +80622,6 @@
       "type": "domain",
       "value": "vivid-whatsapp.com"
     },
-    "voderlence.com": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "domain",
-      "value": "voderlence.com"
-    },
     "voice.webstatici-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -81242,24 +80636,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "voice.webstatici-whatsapp.com"
-    },
-    "voidravenstorm.top": {
-      "confidence": 0.9,
-      "date": "2026-10-12 14:18:17",
-      "enriched_at": "2026-10-12T18:40:04Z",
-      "family": "Remus Stealer",
-      "suggested_tags": [
-        "clickfix",
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "PhantomPolia campaign using ClickFix to deliver Remus Stealer via Donut shellcode, with Sepolia smart contracts, staging domains, C2 domains and sample hashes.",
-      "threat_type": "malware",
-      "tweet_id": "2109649861385609321",
-      "type": "domain",
-      "value": "voidravenstorm.top"
     },
     "voltpay.cfd": {
       "confidence": 0.5,
@@ -81561,6 +80937,20 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "walkingpad.cslt168.com"
+    },
+    "walks-remained-aruba-scuba.trycloudflare.com": {
+      "confidence": 0.5,
+      "date": "2026-11-11 14:31:40",
+      "enriched_at": "2026-11-11T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "ELF sample 'svc_de13a3' uploaded to MalwareBazaar, associated with a trycloudflare.com tunnel domain.",
+      "threat_type": "malware",
+      "tweet_id": "2120524866130485482",
+      "type": "domain",
+      "value": "walks-remained-aruba-scuba.trycloudflare.com"
     },
     "wallet-update.at": {
       "confidence": 0.8,
@@ -85548,6 +84938,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-11T12:40:04Z",
+  "generated_at": "2026-11-11T18:40:04Z",
   "window_days": 30
 }
