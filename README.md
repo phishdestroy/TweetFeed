@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-12 15:00:22 (UTC)</th>
+        <th colspan=4>2026-11-12 23:30:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,10 +187,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 8 | 542 | 3197 | 44163 |
-| **:globe_with_meridians: Domains** | 6 | 450 | 2674 | 38012 |
-| **:triangular_flag_on_post: IPs** | 2 | 94 | 2211 | 7997 |
-| **:1234: SHA256** | 1 | 120 | 592 | 3285 |
+| **:link: URLs** | 17 | 551 | 3206 | 44172 |
+| **:globe_with_meridians: Domains** | 9 | 453 | 2677 | 38015 |
+| **:triangular_flag_on_post: IPs** | 8 | 100 | 2217 | 8003 |
+| **:1234: SHA256** | 4 | 123 | 595 | 3288 |
 | **:1234: MD5** | 1 | 16 | 119 | 2034 |
 
 </div>
@@ -207,10 +207,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#phishing** | 0 | 572 | 3686 | 31446 |
 | **#Kimsuky** | 0 | 10 | 48 | 13315 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
-| **#malware** | 2 | 229 | 1210 | 4326 |
+| **#malware** | 7 | 234 | 1215 | 4331 |
 | **#scam** | 0 | 4 | 38 | 2740 |
-| **#C2** | 2 | 48 | 170 | 2093 |
-| **#APT** | 2 | 25 | 72 | 1479 |
+| **#C2** | 6 | 52 | 174 | 2097 |
+| **#APT** | 7 | 30 | 77 | 1484 |
 | **#ClickFix** | 0 | 70 | 272 | 1255 |
 | **#ransomware** | 0 | 1 | 82 | 685 |
 | **#opendir** | 0 | 11 | 27 | 679 |
@@ -229,16 +229,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [KesaGataMe0](https://x.com/KesaGataMe0) | 6 |
-| **#2** | [suyog41](https://x.com/suyog41) | 3 |
-| **#3** | [TheKn0ck0ut](https://x.com/TheKn0ck0ut) | 2 |
-| **#4** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
-| **#5** | [joe4security](https://x.com/joe4security) | 2 |
-| **#6** | [etugenio](https://x.com/etugenio) | 2 |
-| **#7** | [smica83](https://x.com/smica83) | 1 |
-| **#8** | [-](https://x.com/-) | 0 |
-| **#9** | [-](https://x.com/-) | 0 |
-| **#10** | [-](https://x.com/-) | 0 |
+| **#1** | [smica83](https://x.com/smica83) | 8 |
+| **#2** | [KesaGataMe0](https://x.com/KesaGataMe0) | 6 |
+| **#3** | [phatomcandle](https://x.com/phatomcandle) | 5 |
+| **#4** | [Fact_Finder03](https://x.com/Fact_Finder03) | 4 |
+| **#5** | [suyog41](https://x.com/suyog41) | 3 |
+| **#6** | [TheKn0ck0ut](https://x.com/TheKn0ck0ut) | 2 |
+| **#7** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
+| **#8** | [joe4security](https://x.com/joe4security) | 2 |
+| **#9** | [etugenio](https://x.com/etugenio) | 2 |
+| **#10** | [webamon_search](https://x.com/webamon_search) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
