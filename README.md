@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-12 00:30:20 (UTC)</th>
+        <th colspan=4>2026-11-12 15:00:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,11 +187,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 530 | 3185 | 44151 |
-| **:globe_with_meridians: Domains** | 0 | 444 | 2668 | 38006 |
-| **:triangular_flag_on_post: IPs** | 0 | 89 | 2206 | 7992 |
-| **:1234: SHA256** | 0 | 119 | 591 | 3284 |
-| **:1234: MD5** | 0 | 15 | 118 | 2033 |
+| **:link: URLs** | 8 | 542 | 3197 | 44163 |
+| **:globe_with_meridians: Domains** | 6 | 450 | 2674 | 38012 |
+| **:triangular_flag_on_post: IPs** | 2 | 94 | 2211 | 7997 |
+| **:1234: SHA256** | 1 | 120 | 592 | 3285 |
+| **:1234: MD5** | 1 | 16 | 119 | 2034 |
 
 </div>
 
@@ -207,13 +207,13 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#phishing** | 0 | 572 | 3686 | 31446 |
 | **#Kimsuky** | 0 | 10 | 48 | 13315 |
 | **#DPRK** | 0 | 0 | 20 | 11687 |
-| **#malware** | 0 | 227 | 1208 | 4324 |
+| **#malware** | 2 | 229 | 1210 | 4326 |
 | **#scam** | 0 | 4 | 38 | 2740 |
-| **#C2** | 0 | 46 | 168 | 2091 |
-| **#APT** | 0 | 23 | 70 | 1477 |
+| **#C2** | 2 | 48 | 170 | 2093 |
+| **#APT** | 2 | 25 | 72 | 1479 |
 | **#ClickFix** | 0 | 70 | 272 | 1255 |
 | **#ransomware** | 0 | 1 | 82 | 685 |
-| **#opendir** | 0 | 4 | 20 | 672 |
+| **#opendir** | 0 | 11 | 27 | 679 |
 <!-- TAG_TABLE_END -->
 
 These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tags being matched. Every one of them is queryable through the [API](#gear-programmatic-access) and has its own [RSS feed](https://tweetfeed.live/rss/tag/phishing.xml); the highest-volume ones also get a curated landing page at [tweetfeed.live/tags/](https://tweetfeed.live/tags/).
@@ -229,13 +229,13 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [-](https://x.com/-) | 0 |
-| **#2** | [-](https://x.com/-) | 0 |
-| **#3** | [-](https://x.com/-) | 0 |
-| **#4** | [-](https://x.com/-) | 0 |
-| **#5** | [-](https://x.com/-) | 0 |
-| **#6** | [-](https://x.com/-) | 0 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#1** | [KesaGataMe0](https://x.com/KesaGataMe0) | 6 |
+| **#2** | [suyog41](https://x.com/suyog41) | 3 |
+| **#3** | [TheKn0ck0ut](https://x.com/TheKn0ck0ut) | 2 |
+| **#4** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
+| **#5** | [joe4security](https://x.com/joe4security) | 2 |
+| **#6** | [etugenio](https://x.com/etugenio) | 2 |
+| **#7** | [smica83](https://x.com/smica83) | 1 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |

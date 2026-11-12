@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2557
-; Updated: 2026-11-12T00:00:28Z
+; Entries: 2563
+; Updated: 2026-11-12T11:45:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794441628 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794483918 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2876,6 +2876,8 @@ layer-whatsapp.com CNAME .
 *.layer-whatsapp.com CNAME .
 layout-whatsapp.com CNAME .
 *.layout-whatsapp.com CNAME .
+lc5o45m.medianewsonline.com CNAME .
+*.lc5o45m.medianewsonline.com CNAME .
 leadscorepro.com.br CNAME .
 *.leadscorepro.com.br CNAME .
 leanviainc.top CNAME .
@@ -3178,6 +3180,8 @@ mobilepro-whatsapp.com CNAME .
 *.mobilepro-whatsapp.com CNAME .
 model-whatsapp.com CNAME .
 *.model-whatsapp.com CNAME .
+mofa-gov-np.donwloaad-file.org CNAME .
+*.mofa-gov-np.donwloaad-file.org CNAME .
 mojtelekom.help CNAME .
 *.mojtelekom.help CNAME .
 mono-whatsapp.com CNAME .
@@ -3324,6 +3328,8 @@ npparchive.z1.web.core.windows.net CNAME .
 *.npparchive.z1.web.core.windows.net CNAME .
 nqxweb-whatsapp.com CNAME .
 *.nqxweb-whatsapp.com CNAME .
+ns.mo7sen.dev CNAME .
+*.ns.mo7sen.dev CNAME .
 ns2.monstadns.com CNAME .
 *.ns2.monstadns.com CNAME .
 nsjhkttv.cn CNAME .
@@ -3336,6 +3342,8 @@ nxsugrsw.cn CNAME .
 *.nxsugrsw.cn CNAME .
 nzctjvr.com CNAME .
 *.nzctjvr.com CNAME .
+nzxaxcj.cn CNAME .
+*.nzxaxcj.cn CNAME .
 octoberfp.eastus.cloudapp.azure.com CNAME .
 *.octoberfp.eastus.cloudapp.azure.com CNAME .
 octopuscambodia.com CNAME .
@@ -3668,6 +3676,8 @@ rdwv03.cc CNAME .
 *.rdwv03.cc CNAME .
 readme-whatsapp.com CNAME .
 *.readme-whatsapp.com CNAME .
+realmadridistats.org CNAME .
+*.realmadridistats.org CNAME .
 reaycats.com CNAME .
 *.reaycats.com CNAME .
 recipebistro.com CNAME .
@@ -4630,6 +4640,8 @@ v7-whatsapp.com CNAME .
 *.v7-whatsapp.com CNAME .
 vahuebivaet.cc CNAME .
 *.vahuebivaet.cc CNAME .
+valuesmbc.tailieuctu.com CNAME .
+*.valuesmbc.tailieuctu.com CNAME .
 vcnweb-whatsapp.com CNAME .
 *.vcnweb-whatsapp.com CNAME .
 vemtasbobinaj.com CNAME .
