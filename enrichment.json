@@ -1,5 +1,5 @@
 {
-  "count": 6011,
+  "count": 5990,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -5412,34 +5412,6 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "134.122.169.32"
-    },
-    "134.122.189.138": {
-      "confidence": 0.45,
-      "date": "2026-10-12 20:47:55",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious VHDX file ('PD461$DFAD58731.vhdx') seen from India on MalwareBazaar, with network connection to 134.122.189.138:8151.",
-      "threat_type": "malware",
-      "tweet_id": "2109747919494488251",
-      "type": "ip",
-      "value": "134.122.189.138"
-    },
-    "134.122.189.138:8151": {
-      "confidence": 0.45,
-      "date": "2026-10-12 20:47:55",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious VHDX file ('PD461$DFAD58731.vhdx') seen from India on MalwareBazaar, with network connection to 134.122.189.138:8151.",
-      "threat_type": "malware",
-      "tweet_id": "2109747919494488251",
-      "type": "url",
-      "value": "http://134.122.189.138:8151"
     },
     "134.122.73.184": {
       "confidence": 0.8,
@@ -12163,6 +12135,20 @@
       "type": "ip",
       "value": "185.139.214.156"
     },
+    "185.148.144.99": {
+      "confidence": 0.4,
+      "date": "2026-10-13 15:12:36",
+      "enriched_at": "2026-11-12T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir"
+      ],
+      "summary": "IP address 185.148.144.99 shared for threat hunting and tagged as an open directory.",
+      "threat_type": "other",
+      "tweet_id": "2110025921306775769",
+      "type": "ip",
+      "value": "185.148.144.99"
+    },
     "185.161.209.61": {
       "confidence": 0.75,
       "date": "2026-11-06 13:07:10",
@@ -14348,21 +14334,6 @@
       "tweet_id": "2113267309032698298",
       "type": "url",
       "value": "http://2.27.248.209"
-    },
-    "2.27.249.100": {
-      "confidence": 0.6,
-      "date": "2026-10-12 21:38:57",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": "Elusium",
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "UPX-packed dropper labeled Elusium malware, associated with IP 2.27.249.100 and tagged as C2 infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2109760760838795325",
-      "type": "url",
-      "value": "http://2.27.249.100"
     },
     "2.27.61.138": {
       "confidence": 0.6,
@@ -16563,34 +16534,6 @@
       "type": "url",
       "value": "http://23.94.145.93"
     },
-    "23.94.252.89": {
-      "confidence": 0.45,
-      "date": "2026-10-12 20:43:03",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious MSI installer ('31919.msi') on MalwareBazaar, downloaded from a bare-IP URL at 23.94.252.89.",
-      "threat_type": "malware",
-      "tweet_id": "2109746693679800413",
-      "type": "ip",
-      "value": "23.94.252.89"
-    },
-    "23.94.252.89/31919": {
-      "confidence": 0.45,
-      "date": "2026-10-12 20:43:03",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious MSI installer ('31919.msi') on MalwareBazaar, downloaded from a bare-IP URL at 23.94.252.89.",
-      "threat_type": "malware",
-      "tweet_id": "2109746693679800413",
-      "type": "url",
-      "value": "http://23.94.252.89/31919"
-    },
     "23.95.217.154": {
       "confidence": 0.6,
       "date": "2026-11-04 07:44:59",
@@ -16800,22 +16743,6 @@
       "tweet_id": "2118426806063681830",
       "type": "sha256",
       "value": "2521ef6304b5d9f5d8e14f24841a5e732f4eab52f27836d93702d9e59be6b988"
-    },
-    "25df974eeb09369bd4aec55e940ceb7d6f53e396f2a652718f0266524224cfb5": {
-      "confidence": 0.8,
-      "date": "2026-10-12 22:28:00",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax service, distributed via ruyibebe.com as a phishing lure; APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2109773103492690042",
-      "type": "sha256",
-      "value": "25df974eeb09369bd4aec55e940ceb7d6f53e396f2a652718f0266524224cfb5"
     },
     "269ad9fafbd5999483ad234a867beb4a7db0d55dea8b85bfbfe8ac163041b24d": {
       "confidence": 0.8,
@@ -18122,6 +18049,21 @@
       "tweet_id": "2118061732492894462",
       "type": "sha256",
       "value": "3224697e7b2ef43ceb1dc1a1d494cd646136662c1baeb6186d8d336a36ce86f4"
+    },
+    "32682585d83110f82c852559f04ad0d65897c503aa2ce56db4702182a0fa2012": {
+      "confidence": 0.35,
+      "date": "2026-11-11 20:51:08",
+      "enriched_at": "2026-11-12T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Researcher links setup.exe samples bundled with a dropper and outbound traffic to IP 93.152.223.79, hosted under the sinoworldwide-mnt network.",
+      "threat_type": "malware",
+      "tweet_id": "2120620364321505515",
+      "type": "sha256",
+      "value": "32682585d83110f82c852559f04ad0d65897c503aa2ce56db4702182a0fa2012"
     },
     "32dcaf5c4f41dbdaddeee5fd64dacb290f81655a37ea10beaeca1a369a80c7f0": {
       "confidence": 0.6,
@@ -26906,21 +26848,6 @@
       "type": "md5",
       "value": "366464d1eab72fa04b3b7caa62166f1e"
     },
-    "36ee3c08ba015e06d74feb1fba658212b842ec09116e37724b90c3abb39b6629": {
-      "confidence": 0.5,
-      "date": "2026-10-12 19:16:59",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "cryptoscam"
-      ],
-      "summary": "Malicious LNK ('12 word key.lnk') using a crypto seed-phrase lure, fetching payload text files from farea.jp and bvmatqnam.com.vn.",
-      "threat_type": "malware",
-      "tweet_id": "2109725032570028430",
-      "type": "sha256",
-      "value": "36ee3c08ba015e06d74feb1fba658212b842ec09116e37724b90c3abb39b6629"
-    },
     "37.111.215.95": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -27733,22 +27660,6 @@
       "tweet_id": "2119451613513351577",
       "type": "sha256",
       "value": "3b71d721c39fad92a44ddd764bbb34afeae44a5db886d0a4827a399a5fbd367f"
-    },
-    "3bfbfaf0940a34c46348372d84e8e1ab58456a0fcf99e5e5d9615074c2aa27ca": {
-      "confidence": 0.8,
-      "date": "2026-10-12 22:19:18",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Mercari marketplace app, distributed via nine .cn phishing domains; APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2109770913336156252",
-      "type": "sha256",
-      "value": "3bfbfaf0940a34c46348372d84e8e1ab58456a0fcf99e5e5d9615074c2aa27ca"
     },
     "3bfd8028003777a433daeeda3885ec099c79c23342083db67309ec7876bc9aa2": {
       "confidence": 0.5,
@@ -35602,6 +35513,21 @@
       "type": "sha256",
       "value": "879f278b3ecf8341c63e338ff1c91c5eab7dd25d8c6f1dd54f24151b3b71fa51"
     },
+    "87e834b4cd393eccf0ad13565f4aef879c22314571f8d2653a3a96d1e81fb948": {
+      "confidence": 0.5,
+      "date": "2026-11-11 18:59:18",
+      "enriched_at": "2026-11-12T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "DLL 'NonElevatedDll.dll' uploaded from Taiwan abusing ASUS WebStorage; reportedly an advanced, possibly APT-linked sample with rising VT detections.",
+      "threat_type": "malware",
+      "tweet_id": "2120592219321286941",
+      "type": "sha256",
+      "value": "87e834b4cd393eccf0ad13565f4aef879c22314571f8d2653a3a96d1e81fb948"
+    },
     "87ea100452c68e9b7472c69932fee90721bc362bf49a96106bd526b7ac384572": {
       "confidence": 0.55,
       "date": "2026-10-21 11:43:30",
@@ -36541,6 +36467,36 @@
       "type": "url",
       "value": "http://93.152.220.124"
     },
+    "93.152.220.219": {
+      "confidence": 0.6,
+      "date": "2026-11-05 11:14:42",
+      "enriched_at": "2026-11-12T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 infrastructure on two IP addresses (port 443) and two domains, associated with a malware sample hash.",
+      "threat_type": "c2",
+      "tweet_id": "2118300972925763870",
+      "type": "ip",
+      "value": "93.152.220.219"
+    },
+    "93.152.220.219:443": {
+      "confidence": 0.6,
+      "date": "2026-11-05 11:14:42",
+      "enriched_at": "2026-11-12T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 infrastructure on two IP addresses (port 443) and two domains, associated with a malware sample hash.",
+      "threat_type": "c2",
+      "tweet_id": "2118300972925763870",
+      "type": "url",
+      "value": "http://93.152.220.219:443"
+    },
     "93.152.221.150": {
       "confidence": 0.85,
       "date": "2026-11-04 14:53:43",
@@ -36595,6 +36551,21 @@
       "tweet_id": "2114657401773400431",
       "type": "ip",
       "value": "93.152.223.44"
+    },
+    "93.152.223.79": {
+      "confidence": 0.35,
+      "date": "2026-11-11 20:51:08",
+      "enriched_at": "2026-11-12T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Researcher links setup.exe samples bundled with a dropper and outbound traffic to IP 93.152.223.79, hosted under the sinoworldwide-mnt network.",
+      "threat_type": "malware",
+      "tweet_id": "2120620364321505515",
+      "type": "ip",
+      "value": "93.152.223.79"
     },
     "93.177.77.101": {
       "confidence": 0.55,
@@ -36839,6 +36810,37 @@
       "type": "ip",
       "value": "96.126.130.81"
     },
+    "96.62.218.59": {
+      "confidence": 0.8,
+      "date": "2026-10-25 12:43:11",
+      "enriched_at": "2026-11-12T00:40:04Z",
+      "family": "BabaDeda",
+      "suggested_tags": [
+        "c2",
+        "rat",
+        "malware"
+      ],
+      "summary": "Signed fake Microsoft Teams installer delivers the BabaDeda loader, which drops the CNCMachineRMS RAT; C2 at wizardexpensive[.]com on 96.62.218.59.",
+      "threat_type": "c2",
+      "tweet_id": "2114336974291267924",
+      "type": "url",
+      "value": "http://96.62.218.59"
+    },
+    "96.62.218.59:443": {
+      "confidence": 0.6,
+      "date": "2026-11-05 11:14:42",
+      "enriched_at": "2026-11-12T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 infrastructure on two IP addresses (port 443) and two domains, associated with a malware sample hash.",
+      "threat_type": "c2",
+      "tweet_id": "2118300972925763870",
+      "type": "url",
+      "value": "http://96.62.218.59:443"
+    },
     "96.62.224.138": {
       "confidence": 0.7,
       "date": "2026-10-26 09:37:00",
@@ -36998,20 +37000,6 @@
       "type": "sha256",
       "value": "9b0efba16de053c58e1d79d0b51c7331b74da729bd7913b9c9dfa95381398fb8"
     },
-    "9b3dca0664de057a9e56eb68bd00d5b0250496bba64a8f398351b243cb4a340f": {
-      "confidence": 0.45,
-      "date": "2026-10-12 20:43:03",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious MSI installer ('31919.msi') on MalwareBazaar, downloaded from a bare-IP URL at 23.94.252.89.",
-      "threat_type": "malware",
-      "tweet_id": "2109746693679800413",
-      "type": "sha256",
-      "value": "9b3dca0664de057a9e56eb68bd00d5b0250496bba64a8f398351b243cb4a340f"
-    },
     "9b7765be492dc4ad1078afacd049029e23cca214988bc25904f17178b8ee3764": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -37129,20 +37117,6 @@
       "tweet_id": "2117151126327820588",
       "type": "sha256",
       "value": "9cbe9bce950d008ab85a673967e922bb94552e50ada6f4eeabc6105b3665a9c1"
-    },
-    "9cdf9119881608c365d9bec3356b06d9ee5bb0ece48376c415a8d14c0070dc55": {
-      "confidence": 0.35,
-      "date": "2026-10-12 20:10:30",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious LNK file ('Official_Invitation_Final_202406.lnk') seen from Morocco on MalwareBazaar; no further details given.",
-      "threat_type": "malware",
-      "tweet_id": "2109738500354633886",
-      "type": "sha256",
-      "value": "9cdf9119881608c365d9bec3356b06d9ee5bb0ece48376c415a8d14c0070dc55"
     },
     "9cf627efefa6927886783915026a92b9ece78aff4952b111f5dcda424be118a0": {
       "confidence": 0.6,
@@ -37353,20 +37327,6 @@
       "tweet_id": "2112326062575333635",
       "type": "sha256",
       "value": "a0d290d1fc5cc6348318d4303a62d5f773220b5ae9ca8946fb62072093bffe12"
-    },
-    "a11ef5f0f05586bc4798a035cba17d252c94f2f36c5322cd15235c3fc51b6c4c": {
-      "confidence": 0.35,
-      "date": "2026-10-12 19:09:50",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Zipped file disguised as 'Meeting Arrangement.pdf' seen from Ghana on MalwareBazaar; likely malicious lure archive.",
-      "threat_type": "malware",
-      "tweet_id": "2109723235285880949",
-      "type": "sha256",
-      "value": "a11ef5f0f05586bc4798a035cba17d252c94f2f36c5322cd15235c3fc51b6c4c"
     },
     "a1375e0f82ae86df528876c049b5a23c": {
       "confidence": 0.8,
@@ -38653,20 +38613,6 @@
       "type": "md5",
       "value": "afcd40cbdca11cf2c64b43d895584ffd"
     },
-    "afromantic.com": {
-      "confidence": 0.85,
-      "date": "2026-10-12 23:04:38",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing lure posing as cloud payment/renewal warnings, linking to afromantic.com and wickerlookoutdoorfurniture.com instead of an official service.",
-      "threat_type": "phishing",
-      "tweet_id": "2109782324149952795",
-      "type": "domain",
-      "value": "afromantic.com"
-    },
     "agahamlwbxqqgnrcczph.supabase.co": {
       "confidence": 0.9,
       "date": "2026-10-20 08:10:34",
@@ -38681,36 +38627,6 @@
       "tweet_id": "2112456426862076164",
       "type": "domain",
       "value": "agahamlwbxqqgnrcczph.supabase.co"
-    },
-    "agent.x90.dev": {
-      "confidence": 0.7,
-      "date": "2026-10-12 20:36:01",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": "C2Agent",
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "C2Agent, an LLM-operated Windows malware using MCP and skills to abuse the victim's AI coding tools; payload hosted at agent.x90.dev.",
-      "threat_type": "malware",
-      "tweet_id": "2109744924530737622",
-      "type": "domain",
-      "value": "agent.x90.dev"
-    },
-    "agent.x90.dev/data/copilot.txt": {
-      "confidence": 0.7,
-      "date": "2026-10-12 20:36:01",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": "C2Agent",
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "C2Agent, an LLM-operated Windows malware using MCP and skills to abuse the victim's AI coding tools; payload hosted at agent.x90.dev.",
-      "threat_type": "malware",
-      "tweet_id": "2109744924530737622",
-      "type": "url",
-      "value": "http://agent.x90.dev/data/copilot.txt"
     },
     "aggregator-whatsapp.com": {
       "confidence": 0.65,
@@ -47555,36 +47471,6 @@
       "type": "domain",
       "value": "bvkaka.com"
     },
-    "bvmatqnam.com.vn": {
-      "confidence": 0.5,
-      "date": "2026-10-12 19:16:59",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "cryptoscam"
-      ],
-      "summary": "Malicious LNK ('12 word key.lnk') using a crypto seed-phrase lure, fetching payload text files from farea.jp and bvmatqnam.com.vn.",
-      "threat_type": "malware",
-      "tweet_id": "2109725032570028430",
-      "type": "domain",
-      "value": "bvmatqnam.com.vn"
-    },
-    "bvmatqnam.com.vn/js/tt3.txt": {
-      "confidence": 0.5,
-      "date": "2026-10-12 19:16:59",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "cryptoscam"
-      ],
-      "summary": "Malicious LNK ('12 word key.lnk') using a crypto seed-phrase lure, fetching payload text files from farea.jp and bvmatqnam.com.vn.",
-      "threat_type": "malware",
-      "tweet_id": "2109725032570028430",
-      "type": "url",
-      "value": "https://bvmatqnam.com.vn/js/tt3.txt"
-    },
     "bwf-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -50477,22 +50363,6 @@
       "type": "url",
       "value": "https://cmail-geogle.com/login_acc.js"
     },
-    "cmfbi.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-12 22:19:18",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Mercari marketplace app, distributed via nine .cn phishing domains; APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2109770913336156252",
-      "type": "domain",
-      "value": "cmfbi.cn"
-    },
     "cmp1.s3.filebase.io": {
       "confidence": 0.7,
       "date": "2026-10-26 20:37:29",
@@ -51621,6 +51491,21 @@
       "type": "sha256",
       "value": "d5534936dcb8913c250b9e0bc14ee438feaf9ce3b5e076ba771b4211645acc81"
     },
+    "d5898cbe1a48b3e992f088311eb5eceb7ec453ec82e7536a0bb9053c4a21ad47": {
+      "confidence": 0.4,
+      "date": "2026-11-11 23:24:06",
+      "enriched_at": "2026-11-12T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "stealer"
+      ],
+      "summary": "Malware sample 'updater.exe' seen from Uzbekistan; it communicates with api.telegram.org, which suggests Telegram-based exfiltration or C2.",
+      "threat_type": "malware",
+      "tweet_id": "2120658860000071914",
+      "type": "sha256",
+      "value": "d5898cbe1a48b3e992f088311eb5eceb7ec453ec82e7536a0bb9053c4a21ad47"
+    },
     "d5d1992604bf015d84b17710dc510ea6dd54c908445590e3ae5f0d35404d1790": {
       "confidence": 0.55,
       "date": "2026-11-04 11:09:45",
@@ -52024,21 +51909,6 @@
       "tweet_id": "2110806052983713871",
       "type": "sha256",
       "value": "dc43888143966d230f80a565839c62f22049f5ea80ab2a36610a0425f72972c2"
-    },
-    "dc5021a0e1d00fb1da9eef2b5d5ac3f9a5906e5c3c17470807c3845083ac5a6d": {
-      "confidence": 0.95,
-      "date": "2026-10-12 19:04:16",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": "GuLoader",
-      "suggested_tags": [
-        "guloader",
-        "malware"
-      ],
-      "summary": "ThreatLabz analysis of an x64 GuLoader variant with new anti-analysis features, delivering via a malicious Google Drive download URL.",
-      "threat_type": "malware",
-      "tweet_id": "2109721833050411286",
-      "type": "sha256",
-      "value": "dc5021a0e1d00fb1da9eef2b5d5ac3f9a5906e5c3c17470807c3845083ac5a6d"
     },
     "dc7295a605c3486350682d7bbb4dc391d5c30c047f02748bb2d914ecd8879749": {
       "confidence": 0.8,
@@ -52969,20 +52839,6 @@
       "tweet_id": "2118317396503175671",
       "type": "sha256",
       "value": "dfa875ce0f779a6252c263ef8e96a7e1c25bafd9ecaa20df49342ec5ab5a073e"
-    },
-    "dfd703d9a6904ab1e10441bfaa14428d36893e4109485302422b259b5d087e30": {
-      "confidence": 0.45,
-      "date": "2026-10-12 20:47:55",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious VHDX file ('PD461$DFAD58731.vhdx') seen from India on MalwareBazaar, with network connection to 134.122.189.138:8151.",
-      "threat_type": "malware",
-      "tweet_id": "2109747919494488251",
-      "type": "sha256",
-      "value": "dfd703d9a6904ab1e10441bfaa14428d36893e4109485302422b259b5d087e30"
     },
     "dfskk2.oss-cn-hongkong.aliyuncs.com": {
       "confidence": 0.5,
@@ -54631,21 +54487,6 @@
       "tweet_id": "2112424811960119364",
       "type": "domain",
       "value": "drive-sharing.work.gd"
-    },
-    "drive.google.com/uc?export=download&id=1zynj-cztxaypqr5anirge5guqs26k-t5": {
-      "confidence": 0.95,
-      "date": "2026-10-12 19:04:16",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": "GuLoader",
-      "suggested_tags": [
-        "guloader",
-        "malware"
-      ],
-      "summary": "ThreatLabz analysis of an x64 GuLoader variant with new anti-analysis features, delivering via a malicious Google Drive download URL.",
-      "threat_type": "malware",
-      "tweet_id": "2109721833050411286",
-      "type": "url",
-      "value": "https://drive.google.com/uc?export=download&id=1Zynj-CzTxaYpQr5aniRGE5gUqs26k-t5"
     },
     "driverdocu.cloudaccess.host": {
       "confidence": 0.85,
@@ -56823,6 +56664,21 @@
       "type": "domain",
       "value": "f7-whatsapp.com"
     },
+    "f769b1e7f9b3bff809147f05fa6f1d08032fa9a4a64f0ed2c8ead97d1d72d2b8": {
+      "confidence": 0.4,
+      "date": "2026-11-11 21:50:56",
+      "enriched_at": "2026-11-12T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Malicious JavaScript file 'Adobe-Document-63010064032.js' seen from Norway, posing as an Adobe document lure; likely a malware downloader.",
+      "threat_type": "malware",
+      "tweet_id": "2120635414088208490",
+      "type": "sha256",
+      "value": "f769b1e7f9b3bff809147f05fa6f1d08032fa9a4a64f0ed2c8ead97d1d72d2b8"
+    },
     "f780877110f17ab0a41e6c837a203b4a7b4cf0d9cb9ce60face9c376d7d8bf1d": {
       "confidence": 0.5,
       "date": "2026-11-03 15:13:53",
@@ -57088,6 +56944,21 @@
       "type": "sha256",
       "value": "f9f8bb03427562dc0948d90c0324465ef9ba2d5bc63317ae650b10422bc9e0b4"
     },
+    "fa8578201bc4633d696071062144c8002cdd153b70cc63256243c5f95101c4bf": {
+      "confidence": 0.35,
+      "date": "2026-11-11 20:51:08",
+      "enriched_at": "2026-11-12T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Researcher links setup.exe samples bundled with a dropper and outbound traffic to IP 93.152.223.79, hosted under the sinoworldwide-mnt network.",
+      "threat_type": "malware",
+      "tweet_id": "2120620364321505515",
+      "type": "sha256",
+      "value": "fa8578201bc4633d696071062144c8002cdd153b70cc63256243c5f95101c4bf"
+    },
     "facebook.recovery.jisandev.com": {
       "confidence": 0.9,
       "date": "2026-10-24 12:01:11",
@@ -57194,36 +57065,6 @@
       "tweet_id": "2118615428851458416",
       "type": "domain",
       "value": "farbetv.eu.cc"
-    },
-    "farea.jp": {
-      "confidence": 0.5,
-      "date": "2026-10-12 19:16:59",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "cryptoscam"
-      ],
-      "summary": "Malicious LNK ('12 word key.lnk') using a crypto seed-phrase lure, fetching payload text files from farea.jp and bvmatqnam.com.vn.",
-      "threat_type": "malware",
-      "tweet_id": "2109725032570028430",
-      "type": "domain",
-      "value": "farea.jp"
-    },
-    "farea.jp/wp/.well-known/acme-challenge/1.txt": {
-      "confidence": 0.5,
-      "date": "2026-10-12 19:16:59",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "cryptoscam"
-      ],
-      "summary": "Malicious LNK ('12 word key.lnk') using a crypto seed-phrase lure, fetching payload text files from farea.jp and bvmatqnam.com.vn.",
-      "threat_type": "malware",
-      "tweet_id": "2109725032570028430",
-      "type": "url",
-      "value": "https://farea.jp/wp/.well-known/acme-challenge/1.txt"
     },
     "fastfilebackup.com": {
       "confidence": 0.85,
@@ -60988,22 +60829,6 @@
       "type": "url",
       "value": "http://gunhub.life/dcec"
     },
-    "gvagsb.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-12 22:19:18",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Mercari marketplace app, distributed via nine .cn phishing domains; APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2109770913336156252",
-      "type": "domain",
-      "value": "gvagsb.cn"
-    },
     "gw162.online": {
       "confidence": 0.7,
       "date": "2026-10-19 21:28:27",
@@ -61743,22 +61568,6 @@
       "type": "url",
       "value": "https://hnrtqbsfwxm.cfd/drgsdfbdr/?__eat=d902583e17a9b55c#/index"
     },
-    "hoexq.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-12 22:19:18",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Mercari marketplace app, distributed via nine .cn phishing domains; APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2109770913336156252",
-      "type": "domain",
-      "value": "hoexq.cn"
-    },
     "homegardenfocus.com": {
       "confidence": 0.9,
       "date": "2026-11-07 04:29:30",
@@ -62447,6 +62256,51 @@
       "tweet_id": "2117502955314409620",
       "type": "domain",
       "value": "icicibankkyc.vercel.app"
+    },
+    "icicilombardonlinerenewal.com": {
+      "confidence": 0.9,
+      "date": "2026-11-11 20:39:57",
+      "enriched_at": "2026-11-12T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing kit impersonating ICICI Lombard insurance renewal on several lookalike domains; card, OTP and UPI payments are held for live operator approval.",
+      "threat_type": "phishing",
+      "tweet_id": "2120617548547072051",
+      "type": "domain",
+      "value": "icicilombardonlinerenewal.com"
+    },
+    "icicilombardrenew.com": {
+      "confidence": 0.9,
+      "date": "2026-11-11 20:39:57",
+      "enriched_at": "2026-11-12T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing kit impersonating ICICI Lombard insurance renewal on several lookalike domains; card, OTP and UPI payments are held for live operator approval.",
+      "threat_type": "phishing",
+      "tweet_id": "2120617548547072051",
+      "type": "domain",
+      "value": "icicilombardrenew.com"
+    },
+    "icicilombardrenewal.com": {
+      "confidence": 0.9,
+      "date": "2026-11-11 20:39:57",
+      "enriched_at": "2026-11-12T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing kit impersonating ICICI Lombard insurance renewal on several lookalike domains; card, OTP and UPI payments are held for live operator approval.",
+      "threat_type": "phishing",
+      "tweet_id": "2120617548547072051",
+      "type": "domain",
+      "value": "icicilombardrenewal.com"
     },
     "icicilombardsrenewal.com": {
       "confidence": 0.85,
@@ -63664,22 +63518,6 @@
       "tweet_id": "2112326062575333635",
       "type": "domain",
       "value": "jmblxd.cn"
-    },
-    "johmy.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-12 22:19:18",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Mercari marketplace app, distributed via nine .cn phishing domains; APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2109770913336156252",
-      "type": "domain",
-      "value": "johmy.cn"
     },
     "johnhaywoodphotography.com": {
       "confidence": 0.9,
@@ -66951,22 +66789,6 @@
       "type": "url",
       "value": "https://mgmylc.cc/jp"
     },
-    "mhtqk.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-12 22:19:18",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Mercari marketplace app, distributed via nine .cn phishing domains; APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2109770913336156252",
-      "type": "domain",
-      "value": "mhtqk.cn"
-    },
     "microservice6533.com": {
       "confidence": 0.85,
       "date": "2026-11-05 18:03:26",
@@ -67217,20 +67039,6 @@
       "tweet_id": "2110014309342523513",
       "type": "url",
       "value": "https://minha-maga-online.com/produto/escada-articulada-de-aluminio-12-degraus-350-metros-de-altura"
-    },
-    "missvalledeladrome.info": {
-      "confidence": 0.85,
-      "date": "2026-10-12 21:56:45",
-      "enriched_at": "2026-11-08T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing emails impersonating Empire Today estimates, with buttons redirecting to missvalledeladrome.info from an unrelated sender.",
-      "threat_type": "phishing",
-      "tweet_id": "2109765240535838915",
-      "type": "domain",
-      "value": "missvalledeladrome.info"
     },
     "misuwh.com": {
       "confidence": 0.85,
@@ -67751,22 +67559,6 @@
       "tweet_id": "2118999843771425078",
       "type": "url",
       "value": "https://moyora.live/downcb"
-    },
-    "mqpml.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-12 22:19:18",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Mercari marketplace app, distributed via nine .cn phishing domains; APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2109770913336156252",
-      "type": "domain",
-      "value": "mqpml.cn"
     },
     "ms.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
@@ -72706,22 +72498,6 @@
       "type": "domain",
       "value": "rockermoviezu.com"
     },
-    "romcu.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-12 22:19:18",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Mercari marketplace app, distributed via nine .cn phishing domains; APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2109770913336156252",
-      "type": "domain",
-      "value": "romcu.cn"
-    },
     "rongjuekeji.com": {
       "confidence": 0.85,
       "date": "2026-11-03 11:06:54",
@@ -73099,22 +72875,6 @@
       "tweet_id": "2120114942724706758",
       "type": "url",
       "value": "https://rush360.net/wp-includes/html-api/zhjg1sy/1twqgjo/se1kvpg/PWKMK.ps1"
-    },
-    "ruyibebe.com": {
-      "confidence": 0.8,
-      "date": "2026-10-12 22:28:00",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax service, distributed via ruyibebe.com as a phishing lure; APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2109773103492690042",
-      "type": "domain",
-      "value": "ruyibebe.com"
     },
     "ryfotukhjiohfhgkfg.xyz": {
       "confidence": 0.55,
@@ -75378,22 +75138,6 @@
       "type": "domain",
       "value": "soj.s4kyn.com"
     },
-    "solflare-extension.pages.dev": {
-      "confidence": 0.7,
-      "date": "2026-10-13 00:20:03",
-      "enriched_at": "2026-10-13T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "scam",
-        "phishing"
-      ],
-      "summary": "Scanner verdict flags solflare-extension.pages.dev as a scam site, likely impersonating the Solflare crypto wallet extension.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2109801302033154230",
-      "type": "domain",
-      "value": "solflare-extension.pages.dev"
-    },
     "sonichires.site": {
       "confidence": 0.85,
       "date": "2026-11-08 11:35:57",
@@ -77338,22 +77082,6 @@
       "tweet_id": "2113186736990003622",
       "type": "url",
       "value": "https://swoavada.top/YSfKSnYT/"
-    },
-    "sxgfy.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-12 22:19:18",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Mercari marketplace app, distributed via nine .cn phishing domains; APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2109770913336156252",
-      "type": "domain",
-      "value": "sxgfy.cn"
     },
     "sync-app.at": {
       "confidence": 0.8,
@@ -80997,20 +80725,6 @@
       "type": "domain",
       "value": "walletsecuritypro.cam"
     },
-    "watermarkatgatewayplace.info": {
-      "confidence": 0.85,
-      "date": "2026-10-13 00:00:11",
-      "enriched_at": "2026-10-30T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing endurance quote offer using the unrelated domains afromantic.com and watermarkatgatewayplace.info.",
-      "threat_type": "phishing",
-      "tweet_id": "2109796302926266536",
-      "type": "domain",
-      "value": "watermarkatgatewayplace.info"
-    },
     "watts-macos.github.io": {
       "confidence": 0.7,
       "date": "2026-10-20 18:12:06",
@@ -82369,20 +82083,6 @@
       "tweet_id": "2110857397929714119",
       "type": "domain",
       "value": "wi20a-1kkan-llam2.xo.je"
-    },
-    "wickerlookoutdoorfurniture.com": {
-      "confidence": 0.85,
-      "date": "2026-10-12 23:04:38",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing lure posing as cloud payment/renewal warnings, linking to afromantic.com and wickerlookoutdoorfurniture.com instead of an official service.",
-      "threat_type": "phishing",
-      "tweet_id": "2109782324149952795",
-      "type": "domain",
-      "value": "wickerlookoutdoorfurniture.com"
     },
     "willkie.myssologin.com": {
       "confidence": 0.7,
@@ -83813,22 +83513,6 @@
       "type": "domain",
       "value": "ykbweb-whatsapp.com"
     },
-    "ymlrr.cn": {
-      "confidence": 0.8,
-      "date": "2026-10-12 22:19:18",
-      "enriched_at": "2026-10-13T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Mercari marketplace app, distributed via nine .cn phishing domains; APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2109770913336156252",
-      "type": "domain",
-      "value": "ymlrr.cn"
-    },
     "yorkshiredatacentre.com": {
       "confidence": 0.7,
       "date": "2026-10-15 01:59:59",
@@ -84938,6 +84622,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-11T18:40:04Z",
+  "generated_at": "2026-11-12T00:40:04Z",
   "window_days": 30
 }
