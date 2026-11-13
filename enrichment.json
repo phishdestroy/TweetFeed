@@ -1,5 +1,5 @@
 {
-  "count": 5936,
+  "count": 5884,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -151,20 +151,6 @@
       "tweet_id": "2113897547299226095",
       "type": "sha256",
       "value": "01c204a2a9f0989e3abee0f237f6080f2f072467a4d83dd4a4921443a60d09fe"
-    },
-    "01ccf4139d0cfc0f2c58c00a8a517bac81f7d39d0841de52fb92e479ba7c0734": {
-      "confidence": 0.4,
-      "date": "2026-10-14 10:14:47",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Executable 'WindowsAudioService.exe' seen from Belarus that communicates via the Telegram API.",
-      "threat_type": "malware",
-      "tweet_id": "2110313360927453591",
-      "type": "sha256",
-      "value": "01ccf4139d0cfc0f2c58c00a8a517bac81f7d39d0841de52fb92e479ba7c0734"
     },
     "01fd0f502b2596795db72060add55e0a6f101cc1e85c33c98ddae9b6b043b9f1": {
       "confidence": 0.55,
@@ -2122,6 +2108,24 @@
       "tweet_id": "2118256775195717933",
       "type": "ip",
       "value": "103.214.71.68"
+    },
+    "103.215.222.13": {
+      "confidence": 0.9,
+      "date": "2026-11-13 06:42:18",
+      "enriched_at": "2026-11-13T12:40:04Z",
+      "family": "Remcos",
+      "suggested_tags": [
+        "remcos",
+        "remcosrat",
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "Remcos RAT infrastructure: Cloudflare workers staging URL, payload hosted on ii-sen.ir, and C2 at winne.mynetav.net.",
+      "threat_type": "c2",
+      "tweet_id": "2121131525156827291",
+      "type": "url",
+      "value": "http://103.215.222.13"
     },
     "103.216.57.154": {
       "confidence": 0.5,
@@ -5244,20 +5248,6 @@
       "tweet_id": "2112834452321632688",
       "type": "url",
       "value": "http://132.243.221.136"
-    },
-    "134.122.130.202": {
-      "confidence": 0.55,
-      "date": "2026-10-14 09:23:33",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Chinese Douyin-themed LNK file downloading a zip from 82.23.246.75, with an additional IP 134.122.130.202.",
-      "threat_type": "malware",
-      "tweet_id": "2110300468928729479",
-      "type": "url",
-      "value": "http://134.122.130.202"
     },
     "134.122.140.63": {
       "confidence": 0.7,
@@ -12028,6 +12018,24 @@
       "type": "ip",
       "value": "185.139.214.156"
     },
+    "185.149.24.166": {
+      "confidence": 0.9,
+      "date": "2026-11-13 06:42:18",
+      "enriched_at": "2026-11-13T12:40:04Z",
+      "family": "Remcos",
+      "suggested_tags": [
+        "remcos",
+        "remcosrat",
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "Remcos RAT infrastructure: Cloudflare workers staging URL, payload hosted on ii-sen.ir, and C2 at winne.mynetav.net.",
+      "threat_type": "c2",
+      "tweet_id": "2121131525156827291",
+      "type": "url",
+      "value": "http://185.149.24.166"
+    },
     "185.161.209.61": {
       "confidence": 0.75,
       "date": "2026-11-06 13:07:10",
@@ -14563,21 +14571,6 @@
       "type": "url",
       "value": "http://202.61.73.177"
     },
-    "202.61.85.170": {
-      "confidence": 0.6,
-      "date": "2026-10-14 10:32:30",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Tax invoice list zip sample from abuse.ch Bazaar communicating with a C2 at 202.61.85.170.",
-      "threat_type": "c2",
-      "tweet_id": "2110317820143702469",
-      "type": "url",
-      "value": "http://202.61.85.170"
-    },
     "202.61.85.173": {
       "confidence": 0.55,
       "date": "2026-10-19 10:38:13",
@@ -16951,36 +16944,6 @@
       "type": "url",
       "value": "http://27.124.36.17:8383"
     },
-    "27.124.4.64": {
-      "confidence": 0.5,
-      "date": "2026-10-14 10:19:11",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "VHDX file posing as a statement of account, connecting to 27.124.4.64:8383 over TCP.",
-      "threat_type": "malware",
-      "tweet_id": "2110314468907401335",
-      "type": "ip",
-      "value": "27.124.4.64"
-    },
-    "27.124.4.64:8383": {
-      "confidence": 0.5,
-      "date": "2026-10-14 10:19:11",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "VHDX file posing as a statement of account, connecting to 27.124.4.64:8383 over TCP.",
-      "threat_type": "malware",
-      "tweet_id": "2110314468907401335",
-      "type": "url",
-      "value": "http://27.124.4.64:8383"
-    },
     "27.124.41.111": {
       "confidence": 0.6,
       "date": "2026-10-30 20:53:47",
@@ -17224,6 +17187,21 @@
       "tweet_id": "2115514262575841732",
       "type": "md5",
       "value": "292db63dc6cde2712cecc0b4b9c96573"
+    },
+    "2937a4eaa81dbe77e0334b806e06bf65dde68eaea23849bb5da6370c67994266": {
+      "confidence": 0.85,
+      "date": "2026-11-13 08:16:38",
+      "enriched_at": "2026-11-13T12:40:04Z",
+      "family": "CWPdoor",
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "CWPdoor: Linux backdoor stager replaces the Control Web Panel cwpsrv daemon with a trojanized ELF implant that passively waits for crafted HTTP(S) requests.",
+      "threat_type": "malware",
+      "tweet_id": "2121155262774157819",
+      "type": "sha256",
+      "value": "2937a4eaa81dbe77e0334b806e06bf65dde68eaea23849bb5da6370c67994266"
     },
     "29bf740f291858f01f7c0c915b5e7137eb29ef25da8b7870f017f0d5abdeac00": {
       "confidence": 0.6,
@@ -26676,21 +26654,6 @@
       "type": "sha256",
       "value": "362e3bafe3a2a78800b995167e841b149de7bc89fbcb567851034f6b4be73b9b"
     },
-    "363582d900bfb1188ad417488392dc47193eea1d84b4f55e996509c27177194a": {
-      "confidence": 0.6,
-      "date": "2026-10-14 10:25:33",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Brazilian NF-e themed JavaScript sample using a DuckDNS domain and IP 45.146.81.180 for C2.",
-      "threat_type": "c2",
-      "tweet_id": "2110316071718678714",
-      "type": "sha256",
-      "value": "363582d900bfb1188ad417488392dc47193eea1d84b4f55e996509c27177194a"
-    },
     "366464d1eab72fa04b3b7caa62166f1e": {
       "confidence": 0.6,
       "date": "2026-10-28 18:41:18",
@@ -27430,20 +27393,6 @@
       "tweet_id": "2119939335462269385",
       "type": "sha256",
       "value": "399cc61557f427e3e2712b5a2207dd4aadba90914f56563edc6dec61248cb15b"
-    },
-    "39d76b97f4b74e65a8285a3b273926dff27af56a42408e5f4d98c202a6f35514": {
-      "confidence": 0.45,
-      "date": "2026-10-14 11:20:12",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious ISO file 'Taxdocuments1.iso' submitted to abuse.ch Bazaar, tax-themed lure seen from the Philippines.",
-      "threat_type": "malware",
-      "tweet_id": "2110329823398670689",
-      "type": "sha256",
-      "value": "39d76b97f4b74e65a8285a3b273926dff27af56a42408e5f4d98c202a6f35514"
     },
     "3a55c86804e304c7117a753d04370ab3": {
       "confidence": 0.6,
@@ -28267,20 +28216,6 @@
       "type": "url",
       "value": "http://43.165.128.22"
     },
-    "43.165.129.163": {
-      "confidence": 0.9,
-      "date": "2026-10-14 07:22:36",
-      "enriched_at": "2026-11-08T19:22:39Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing campaign impersonating the Japanese brand AEON, hosted on IP 43.165.129.163 (AS132203), reported via Team NA4Sec.",
-      "threat_type": "phishing",
-      "tweet_id": "2110270029673697630",
-      "type": "url",
-      "value": "http://43.165.129.163"
-    },
     "43.165.135.154": {
       "confidence": 0.9,
       "date": "2026-10-19 02:45:19",
@@ -28888,21 +28823,6 @@
       "type": "ip",
       "value": "45.146.81.123"
     },
-    "45.146.81.180": {
-      "confidence": 0.6,
-      "date": "2026-10-14 10:25:33",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Brazilian NF-e themed JavaScript sample using a DuckDNS domain and IP 45.146.81.180 for C2.",
-      "threat_type": "c2",
-      "tweet_id": "2110316071718678714",
-      "type": "url",
-      "value": "http://45.146.81.180"
-    },
     "45.148.10.15": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -29500,20 +29420,6 @@
       "tweet_id": "2114712505029124503",
       "type": "ip",
       "value": "45.91.202.47"
-    },
-    "45.91.226.53": {
-      "confidence": 0.9,
-      "date": "2026-10-14 08:46:30",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating ANA (Japan) hosted at painternc.com, IP 45.91.226.53.",
-      "threat_type": "phishing",
-      "tweet_id": "2110291142042615854",
-      "type": "url",
-      "value": "http://45.91.226.53"
     },
     "45.91.248.5": {
       "confidence": 0.85,
@@ -30692,22 +30598,6 @@
       "type": "ip",
       "value": "5.252.20.248"
     },
-    "5.39.10.246": {
-      "confidence": 0.55,
-      "date": "2026-10-14 09:08:50",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": "Warlock Portal",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "IP and domains tied to a 'Warlock Portal' stealer panel with a related Telegram channel.",
-      "threat_type": "malware",
-      "tweet_id": "2110296764930814090",
-      "type": "ip",
-      "value": "5.39.10.246"
-    },
     "5.75.168.252": {
       "confidence": 0.4,
       "date": "2026-10-21 20:18:17",
@@ -31572,20 +31462,6 @@
       "type": "sha256",
       "value": "5a593ccc99de8aae9e4bbb7f6da40eb31f769e0f857de39a351b6ed193049b8a"
     },
-    "5ab77d640643354800ac7a4a31eb407bcc2b56d70d0e9c4853bba07b1d58cb4d": {
-      "confidence": 0.55,
-      "date": "2026-10-14 09:23:33",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Chinese Douyin-themed LNK file downloading a zip from 82.23.246.75, with an additional IP 134.122.130.202.",
-      "threat_type": "malware",
-      "tweet_id": "2110300468928729479",
-      "type": "sha256",
-      "value": "5ab77d640643354800ac7a4a31eb407bcc2b56d70d0e9c4853bba07b1d58cb4d"
-    },
     "5b41395812a4af51feed44ee3b987d68b288ddb978a33e3d299bb238bcd03a20": {
       "confidence": 0.55,
       "date": "2026-11-10 20:56:45",
@@ -32057,21 +31933,6 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "64.176.34.176"
-    },
-    "64.188.66.51": {
-      "confidence": 0.8,
-      "date": "2026-10-14 08:09:02",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": "HttpRAT",
-      "suggested_tags": [
-        "rat",
-        "c2"
-      ],
-      "summary": "HttpRAT panel infrastructure at 64.188.66.51:8080 with associated httprat.xyz and subtg.ru domains.",
-      "threat_type": "c2",
-      "tweet_id": "2110281715377913976",
-      "type": "ip",
-      "value": "64.188.66.51"
     },
     "64.20.61.134": {
       "confidence": 0.5,
@@ -33251,6 +33112,21 @@
       "tweet_id": "2111554761376047207",
       "type": "sha256",
       "value": "75ad088c172a0c1bd54753547a25115b93edd93c520594d1a35cfc945136297e"
+    },
+    "75be2dbd8104e792ed67cb722a7bce19bb1bd53bac68d5b8d01395a7c59b4602": {
+      "confidence": 0.85,
+      "date": "2026-11-13 08:16:38",
+      "enriched_at": "2026-11-13T12:40:04Z",
+      "family": "CWPdoor",
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "CWPdoor: Linux backdoor stager replaces the Control Web Panel cwpsrv daemon with a trojanized ELF implant that passively waits for crafted HTTP(S) requests.",
+      "threat_type": "malware",
+      "tweet_id": "2121155262774157819",
+      "type": "sha256",
+      "value": "75be2dbd8104e792ed67cb722a7bce19bb1bd53bac68d5b8d01395a7c59b4602"
     },
     "75f95037c962b4c4ccde50de6d0ac908714441c4da0296c1e89f4abb2a1468ed": {
       "confidence": 0.2,
@@ -34523,34 +34399,6 @@
       "type": "ip",
       "value": "82.165.110.7"
     },
-    "82.23.246.75": {
-      "confidence": 0.55,
-      "date": "2026-10-14 09:23:33",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Chinese Douyin-themed LNK file downloading a zip from 82.23.246.75, with an additional IP 134.122.130.202.",
-      "threat_type": "malware",
-      "tweet_id": "2110300468928729479",
-      "type": "url",
-      "value": "http://82.23.246.75"
-    },
-    "82.23.246.75/zljll.zip": {
-      "confidence": 0.55,
-      "date": "2026-10-14 09:23:33",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Chinese Douyin-themed LNK file downloading a zip from 82.23.246.75, with an additional IP 134.122.130.202.",
-      "threat_type": "malware",
-      "tweet_id": "2110300468928729479",
-      "type": "url",
-      "value": "http://82.23.246.75/zljll.zip"
-    },
     "82.25.63.33": {
       "confidence": 0.7,
       "date": "2026-10-21 19:00:22",
@@ -35506,21 +35354,6 @@
       "type": "url",
       "value": "http://89.36.231.178:8080"
     },
-    "8942aa707ffd3865febf6b7ecea1ab200fdabdc9d7032a34cd6b8ce3b48b1165": {
-      "confidence": 0.5,
-      "date": "2026-10-14 10:19:11",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "VHDX file posing as a statement of account, connecting to 27.124.4.64:8383 over TCP.",
-      "threat_type": "malware",
-      "tweet_id": "2110314468907401335",
-      "type": "sha256",
-      "value": "8942aa707ffd3865febf6b7ecea1ab200fdabdc9d7032a34cd6b8ce3b48b1165"
-    },
     "89e551929d1f6101d1fc9ae10f3af4c442323e2c83428bcb90211acd9415449c": {
       "confidence": 0.35,
       "date": "2026-10-21 09:57:42",
@@ -35534,20 +35367,6 @@
       "tweet_id": "2112845778360181235",
       "type": "sha256",
       "value": "89e551929d1f6101d1fc9ae10f3af4c442323e2c83428bcb90211acd9415449c"
-    },
-    "89e678216458a0775c0da332a0f94a4a6908899c2c33b4c720f206bab47b08e1": {
-      "confidence": 0.5,
-      "date": "2026-10-14 11:31:09",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip sample from abuse.ch Bazaar hosted on Alibaba Cloud OSS (Hong Kong), with a connection to vsdhjjt.club:5312.",
-      "threat_type": "malware",
-      "tweet_id": "2110332578850918854",
-      "type": "sha256",
-      "value": "89e678216458a0775c0da332a0f94a4a6908899c2c33b4c720f206bab47b08e1"
     },
     "8a1db253cf95e71e091e9808743e594e7bca6ba3d45adb319f6307c52b50eed5": {
       "confidence": 0.6,
@@ -36706,6 +36525,23 @@
       "type": "sha256",
       "value": "9683514cc99c80e7021849da4e9bd65d00c6d477f478589ea9aef522daed3c72"
     },
+    "968b7458e1bce943c34bdedb25046a233b62ece869eecc8160f618ea98aea892": {
+      "confidence": 0.85,
+      "date": "2026-11-13 06:42:18",
+      "enriched_at": "2026-11-13T12:40:04Z",
+      "family": "Remcos",
+      "suggested_tags": [
+        "remcos",
+        "remcosrat",
+        "rat",
+        "malware"
+      ],
+      "summary": "Japanese-language malspam with a zip containing a JS file posing as a salary increase notice, linked to Remcos RAT delivery.",
+      "threat_type": "malware",
+      "tweet_id": "2121131522594099200",
+      "type": "sha256",
+      "value": "968b7458e1bce943c34bdedb25046a233b62ece869eecc8160f618ea98aea892"
+    },
     "977e7f13d2135fff14aaaf04a9ca1905329646a1ec87330eb1c66e1f1ad9dca3": {
       "confidence": 0.5,
       "date": "2026-11-04 16:34:26",
@@ -37476,20 +37312,6 @@
       "type": "sha256",
       "value": "a75ff95e30207fd4cfc325be1b10a7e2a775fe0b061a151a2072eaf0070d041d"
     },
-    "a79d0313100fd2416a45894447311f3c2dd909791cf72a86af735f03afb82e84": {
-      "confidence": 0.6,
-      "date": "2026-10-14 09:14:04",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Performance-review themed LNK dropping a VBS and a ScreenConnect installer from remote URLs.",
-      "threat_type": "malware",
-      "tweet_id": "2110298078712381682",
-      "type": "sha256",
-      "value": "a79d0313100fd2416a45894447311f3c2dd909791cf72a86af735f03afb82e84"
-    },
     "a7a3c7b8287208f96fe451482db6cbff4e0af2bd839a16eda5aba1ac45c29774": {
       "confidence": 0.85,
       "date": "2026-10-21 09:12:42",
@@ -37826,34 +37648,6 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "access-whatsapp.com"
-    },
-    "accoun.omnwpws.cn": {
-      "confidence": 0.9,
-      "date": "2026-10-14 07:22:36",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating AEON (Japan) at accoun.omnwpws.cn.",
-      "threat_type": "phishing",
-      "tweet_id": "2110270029673697630",
-      "type": "domain",
-      "value": "accoun.omnwpws.cn"
-    },
-    "accoun.omnwpws.cn/1fnw71x4ty": {
-      "confidence": 0.9,
-      "date": "2026-10-14 07:22:36",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating AEON (Japan) at accoun.omnwpws.cn.",
-      "threat_type": "phishing",
-      "tweet_id": "2110270029673697630",
-      "type": "url",
-      "value": "https://accoun.omnwpws.cn/1fnw71x4ty"
     },
     "account-booking.vercel.app": {
       "confidence": 0.65,
@@ -38246,20 +38040,6 @@
       "tweet_id": "2116136122015182994",
       "type": "sha256",
       "value": "aeedaf9aa756a43eb066e6ccc43d28c6cfdaf8a19512ea696864127bc8743713"
-    },
-    "aep.login-options.com": {
-      "confidence": 0.7,
-      "date": "2026-10-14 08:09:45",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New UNC6671 brand-impersonation subdomains under login-options.com targeting investment management and US energy themes.",
-      "threat_type": "phishing",
-      "tweet_id": "2110281894382411984",
-      "type": "domain",
-      "value": "aep.login-options.com"
     },
     "aepc.in": {
       "confidence": 0.8,
@@ -43719,21 +43499,6 @@
       "type": "sha256",
       "value": "b9472cc080b4fef1cbc38bad1f1981380a7d71fc74138c7f4c41f18d8e6dacb1"
     },
-    "b97980c046ff56cd4393bc37bfea4db5": {
-      "confidence": 0.8,
-      "date": "2026-10-14 10:24:36",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": "Monoxide RAT",
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "Monoxide RAT sample with user-agent MonoxideClient/1.0 and promotion via Telegram, Discord and monoxide.vip.",
-      "threat_type": "malware",
-      "tweet_id": "2110315829606687172",
-      "type": "md5",
-      "value": "b97980c046ff56cd4393bc37bfea4db5"
-    },
     "b9ca63d025ff38a9e148b389565c034ba8768a5e01018e1f110f87a046b231e7": {
       "confidence": 0.4,
       "date": "2026-10-21 06:24:53",
@@ -48241,20 +48006,6 @@
       "type": "domain",
       "value": "carloxmextos.org"
     },
-    "carlyle.login-options.com": {
-      "confidence": 0.7,
-      "date": "2026-10-14 08:09:45",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New UNC6671 brand-impersonation subdomains under login-options.com targeting investment management and US energy themes.",
-      "threat_type": "phishing",
-      "tweet_id": "2110281894382411984",
-      "type": "domain",
-      "value": "carlyle.login-options.com"
-    },
     "cartwaretech.click": {
       "confidence": 0.6,
       "date": "2026-10-29 16:21:07",
@@ -51927,34 +51678,6 @@
       "type": "domain",
       "value": "desertautoin-jp.com"
     },
-    "designedglass.com.lb": {
-      "confidence": 0.6,
-      "date": "2026-10-14 09:14:04",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Performance-review themed LNK dropping a VBS and a ScreenConnect installer from remote URLs.",
-      "threat_type": "malware",
-      "tweet_id": "2110298078712381682",
-      "type": "domain",
-      "value": "designedglass.com.lb"
-    },
-    "designedglass.com.lb/mat/drop.vbs": {
-      "confidence": 0.6,
-      "date": "2026-10-14 09:14:04",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Performance-review themed LNK dropping a VBS and a ScreenConnect installer from remote URLs.",
-      "threat_type": "malware",
-      "tweet_id": "2110298078712381682",
-      "type": "url",
-      "value": "https://designedglass.com.lb/mat/drop.vbs"
-    },
     "desk2-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -52081,23 +51804,6 @@
       "tweet_id": "2119631069527900496",
       "type": "domain",
       "value": "detan2go.web.app"
-    },
-    "dev.5tr.org": {
-      "confidence": 0.85,
-      "date": "2026-10-14 09:55:30",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": "Vidar",
-      "suggested_tags": [
-        "vidar",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Three 5tr.org subdomains attributed to Vidar infostealer infrastructure with high confidence.",
-      "threat_type": "malware",
-      "tweet_id": "2110308506255417764",
-      "type": "domain",
-      "value": "dev.5tr.org"
     },
     "dev.sbphototours.com": {
       "confidence": 0.85,
@@ -52490,34 +52196,6 @@
       "type": "sha256",
       "value": "dfa875ce0f779a6252c263ef8e96a7e1c25bafd9ecaa20df49342ec5ab5a073e"
     },
-    "dfskk2.oss-cn-hongkong.aliyuncs.com": {
-      "confidence": 0.5,
-      "date": "2026-10-14 11:31:09",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip sample from abuse.ch Bazaar hosted on Alibaba Cloud OSS (Hong Kong), with a connection to vsdhjjt.club:5312.",
-      "threat_type": "malware",
-      "tweet_id": "2110332578850918854",
-      "type": "domain",
-      "value": "dfskk2.oss-cn-hongkong.aliyuncs.com"
-    },
-    "dfskk2.oss-cn-hongkong.aliyuncs.com/20261014116646.8ab68bbddc.zip": {
-      "confidence": 0.5,
-      "date": "2026-10-14 11:31:09",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip sample from abuse.ch Bazaar hosted on Alibaba Cloud OSS (Hong Kong), with a connection to vsdhjjt.club:5312.",
-      "threat_type": "malware",
-      "tweet_id": "2110332578850918854",
-      "type": "url",
-      "value": "https://dfskk2.oss-cn-hongkong.aliyuncs.com/20261014116646.8AB68BBDDC.zip"
-    },
     "dhamaka-diwali-offer.shop": {
       "confidence": 0.75,
       "date": "2026-11-05 21:08:55",
@@ -52647,21 +52325,6 @@
       "tweet_id": "2120157687652425873",
       "type": "url",
       "value": "https://discord.com/api/webhooks/1568290802583740449/XI6R8_zVISY8ROV2bVNVQzLF3aV-H41kSyCDpxXvuPLqGV8pCNTg9_DrDLG5iVYC2Qpd"
-    },
-    "discord.gg/monoxidevip": {
-      "confidence": 0.8,
-      "date": "2026-10-14 10:24:36",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": "Monoxide RAT",
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "Monoxide RAT sample with user-agent MonoxideClient/1.0 and promotion via Telegram, Discord and monoxide.vip.",
-      "threat_type": "malware",
-      "tweet_id": "2110315829606687172",
-      "type": "url",
-      "value": "http://discord.gg/monoxidevip"
     },
     "discovery-whatsapp.com": {
       "confidence": 0.65,
@@ -55108,20 +54771,6 @@
       "type": "url",
       "value": "http://echallan.party/install"
     },
-    "ed492e44430151b8a8ad23bb5f5cb097b629fc16455b85ab55383dc5fcf9d813": {
-      "confidence": 0.45,
-      "date": "2026-10-14 09:36:21",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious LNK file disguised as a PDF 'Registerauszug' (German register extract) submitted to Bazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2110303690368102734",
-      "type": "sha256",
-      "value": "ed492e44430151b8a8ad23bb5f5cb097b629fc16455b85ab55383dc5fcf9d813"
-    },
     "eddbb7f87f6c3fd788f5aa002bf8ff5bf75cbdef2cced815cd412807a655168d": {
       "confidence": 0.6,
       "date": "2026-11-10 22:53:11",
@@ -56441,20 +56090,6 @@
       "type": "sha256",
       "value": "f9b30123402bb2e1e39c62afab75c48c520b84693c57034e8f659d8a47599eae"
     },
-    "f9d24e753ba7680963414459dc0a82142e441fdb7c65f45ff126d7c6945dabef": {
-      "confidence": 0.65,
-      "date": "2026-10-14 07:26:22",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malware spam mail posing as electronic invoice issuance, linked to zhiledi.com (Japan).",
-      "threat_type": "malware",
-      "tweet_id": "2110270978223980917",
-      "type": "sha256",
-      "value": "f9d24e753ba7680963414459dc0a82142e441fdb7c65f45ff126d7c6945dabef"
-    },
     "f9f8bb03427562dc0948d90c0324465ef9ba2d5bc63317ae650b10422bc9e0b4": {
       "confidence": 0.5,
       "date": "2026-10-26 21:16:16",
@@ -56740,21 +56375,6 @@
       "tweet_id": "2118621862615818548",
       "type": "sha256",
       "value": "fc12e1cebcb8c4e154a3cf2ab38e6056cac4eb9d93eb2044bbfeffb714596b27"
-    },
-    "fc3f22e3e93c426501b5efb7831ae7c8e7dfd749653b792d1601199b6e39f380": {
-      "confidence": 0.6,
-      "date": "2026-10-14 10:32:30",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Tax invoice list zip sample from abuse.ch Bazaar communicating with a C2 at 202.61.85.170.",
-      "threat_type": "c2",
-      "tweet_id": "2110317820143702469",
-      "type": "sha256",
-      "value": "fc3f22e3e93c426501b5efb7831ae7c8e7dfd749653b792d1601199b6e39f380"
     },
     "fcdnbovres.cc": {
       "confidence": 0.85,
@@ -58571,21 +58191,6 @@
       "tweet_id": "2111248110081224749",
       "type": "url",
       "value": "https://fmcoyko.cn/Login/"
-    },
-    "fol9.com": {
-      "confidence": 0.6,
-      "date": "2026-10-14 10:43:00",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Infrastructure domains associated with a ClickFix campaign, including some legitimate Tenderly gateway hosts.",
-      "threat_type": "malware",
-      "tweet_id": "2110320462786122062",
-      "type": "domain",
-      "value": "fol9.com"
     },
     "format-whatsapp.com": {
       "confidence": 0.65,
@@ -60545,6 +60150,20 @@
       "type": "domain",
       "value": "happydiwali.tech"
     },
+    "harborstonegroup.shop": {
+      "confidence": 0.8,
+      "date": "2026-10-16 21:58:08",
+      "enriched_at": "2026-11-13T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Refills offer lure linking to unrelated domain harborstonegroup.shop.",
+      "threat_type": "phishing",
+      "tweet_id": "2111215138552574004",
+      "type": "domain",
+      "value": "harborstonegroup.shop"
+    },
     "havelbeenpwned.net": {
       "confidence": 0.7,
       "date": "2026-10-20 13:59:03",
@@ -61945,6 +61564,42 @@
       "type": "domain",
       "value": "ids-whatsapp.com"
     },
+    "ii-sen.ir": {
+      "confidence": 0.9,
+      "date": "2026-11-13 06:42:18",
+      "enriched_at": "2026-11-13T12:40:04Z",
+      "family": "Remcos",
+      "suggested_tags": [
+        "remcos",
+        "remcosrat",
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "Remcos RAT infrastructure: Cloudflare workers staging URL, payload hosted on ii-sen.ir, and C2 at winne.mynetav.net.",
+      "threat_type": "c2",
+      "tweet_id": "2121131525156827291",
+      "type": "domain",
+      "value": "ii-sen.ir"
+    },
+    "ii-sen.ir/nv/payload_113212.png": {
+      "confidence": 0.9,
+      "date": "2026-11-13 06:42:18",
+      "enriched_at": "2026-11-13T12:40:04Z",
+      "family": "Remcos",
+      "suggested_tags": [
+        "remcos",
+        "remcosrat",
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "Remcos RAT infrastructure: Cloudflare workers staging URL, payload hosted on ii-sen.ir, and C2 at winne.mynetav.net.",
+      "threat_type": "c2",
+      "tweet_id": "2121131525156827291",
+      "type": "url",
+      "value": "https://ii-sen.ir/nv/payload_113212.png"
+    },
     "illustrationi-jp.com": {
       "confidence": 0.75,
       "date": "2026-10-16 23:01:04",
@@ -63064,34 +62719,6 @@
       "type": "url",
       "value": "https://jorvlen.cfd/LoginID/#/index"
     },
-    "journallepoint.com": {
-      "confidence": 0.9,
-      "date": "2026-10-14 07:04:31",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Amazon (Japan) at journallepoint.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2110265479201980804",
-      "type": "domain",
-      "value": "journallepoint.com"
-    },
-    "journallepoint.com/rzbhairl": {
-      "confidence": 0.9,
-      "date": "2026-10-14 07:04:31",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Amazon (Japan) at journallepoint.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2110265479201980804",
-      "type": "url",
-      "value": "https://journallepoint.com/rZBhairl/"
-    },
     "joymspcb.cn": {
       "confidence": 0.7,
       "date": "2026-10-21 23:22:01",
@@ -63643,36 +63270,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "kitweb-whatsapp.com"
-    },
-    "kjhg.lol": {
-      "confidence": 0.6,
-      "date": "2026-10-14 10:43:00",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Infrastructure domains associated with a ClickFix campaign, including some legitimate Tenderly gateway hosts.",
-      "threat_type": "malware",
-      "tweet_id": "2110320462786122062",
-      "type": "domain",
-      "value": "kjhg.lol"
-    },
-    "kjhg.shop": {
-      "confidence": 0.6,
-      "date": "2026-10-14 10:43:00",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Infrastructure domains associated with a ClickFix campaign, including some legitimate Tenderly gateway hosts.",
-      "threat_type": "malware",
-      "tweet_id": "2110320462786122062",
-      "type": "domain",
-      "value": "kjhg.shop"
     },
     "klenna.top": {
       "confidence": 0.4,
@@ -64732,20 +64329,6 @@
       "type": "url",
       "value": "https://login-msftportal.com/captcha.html?email=phishing@live.com"
     },
-    "login-options.com": {
-      "confidence": 0.7,
-      "date": "2026-10-14 08:09:45",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New UNC6671 brand-impersonation subdomains under login-options.com targeting investment management and US energy themes.",
-      "threat_type": "phishing",
-      "tweet_id": "2110281894382411984",
-      "type": "domain",
-      "value": "login-options.com"
-    },
     "login.caimanying.com": {
       "confidence": 0.8,
       "date": "2026-10-18 09:37:56",
@@ -65034,23 +64617,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "lpfweb-whatsapp.com"
-    },
-    "lryjfreporting.5tr.org": {
-      "confidence": 0.85,
-      "date": "2026-10-14 09:55:30",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": "Vidar",
-      "suggested_tags": [
-        "vidar",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Three 5tr.org subdomains attributed to Vidar infostealer infrastructure with high confidence.",
-      "threat_type": "malware",
-      "tweet_id": "2110308506255417764",
-      "type": "domain",
-      "value": "lryjfreporting.5tr.org"
     },
     "luck.dpmz.top": {
       "confidence": 0.2,
@@ -66126,20 +65692,6 @@
       "type": "domain",
       "value": "mfa-passkey.com"
     },
-    "mgfdeutschland.com": {
-      "confidence": 0.85,
-      "date": "2026-10-14 10:25:00",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Website flagged by BaFin as likely scam: suspected unlicensed banking and financial services plus identity theft.",
-      "threat_type": "scam",
-      "tweet_id": "2110315930588942648",
-      "type": "domain",
-      "value": "mgfdeutschland.com"
-    },
     "mgmylc.cc": {
       "confidence": 0.85,
       "date": "2026-10-20 05:01:19",
@@ -66774,21 +66326,6 @@
       "type": "domain",
       "value": "mono-whatsapp.com"
     },
-    "monoxide.vip": {
-      "confidence": 0.8,
-      "date": "2026-10-14 10:24:36",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": "Monoxide RAT",
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "Monoxide RAT sample with user-agent MonoxideClient/1.0 and promotion via Telegram, Discord and monoxide.vip.",
-      "threat_type": "malware",
-      "tweet_id": "2110315829606687172",
-      "type": "domain",
-      "value": "monoxide.vip"
-    },
     "mootoo.ccwu.cc": {
       "confidence": 0.5,
       "date": "2026-11-10 21:11:22",
@@ -67053,20 +66590,6 @@
       "tweet_id": "2119579864319889738",
       "type": "domain",
       "value": "muchautomation-jp.com"
-    },
-    "my-document-101607.proposal-union-9173673.workers.dev": {
-      "confidence": 0.85,
-      "date": "2026-10-14 09:53:36",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Microsoft-hosted PDF on Azure Blob redirecting to a Microsoft services phishing site on Cloudflare Workers.",
-      "threat_type": "phishing",
-      "tweet_id": "2110308027530412318",
-      "type": "domain",
-      "value": "my-document-101607.proposal-union-9173673.workers.dev"
     },
     "my-settings-google.com": {
       "confidence": 0.95,
@@ -68189,34 +67712,6 @@
       "type": "domain",
       "value": "offers-fkarrts-diwali.space"
     },
-    "ojsdocument.blob.core.windows.net": {
-      "confidence": 0.85,
-      "date": "2026-10-14 09:53:36",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Microsoft-hosted PDF on Azure Blob redirecting to a Microsoft services phishing site on Cloudflare Workers.",
-      "threat_type": "phishing",
-      "tweet_id": "2110308027530412318",
-      "type": "domain",
-      "value": "ojsdocument.blob.core.windows.net"
-    },
-    "ojsdocument.blob.core.windows.net/scanfile/officejimdosedja.pdf": {
-      "confidence": 0.85,
-      "date": "2026-10-14 09:53:36",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Microsoft-hosted PDF on Azure Blob redirecting to a Microsoft services phishing site on Cloudflare Workers.",
-      "threat_type": "phishing",
-      "tweet_id": "2110308027530412318",
-      "type": "url",
-      "value": "https://ojsdocument.blob.core.windows.net/scanfile/officejimdosedja.pdf"
-    },
     "okx-whatsaop.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -68230,34 +67725,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "okx-whatsaop.com"
-    },
-    "ollama-for-macos.github.io": {
-      "confidence": 0.7,
-      "date": "2026-10-14 11:13:17",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Fake 'Ollama 0.23.1 for macOS' GitHub Pages site distributing a suspicious DMG file likely to be malware.",
-      "threat_type": "malware",
-      "tweet_id": "2110328081516998964",
-      "type": "domain",
-      "value": "ollama-for-macos.github.io"
-    },
-    "ollama-for-macos.github.io/ollama_0.23.1.dmg": {
-      "confidence": 0.7,
-      "date": "2026-10-14 11:13:17",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Fake 'Ollama 0.23.1 for macOS' GitHub Pages site distributing a suspicious DMG file likely to be malware.",
-      "threat_type": "malware",
-      "tweet_id": "2110328081516998964",
-      "type": "url",
-      "value": "https://ollama-for-macos.github.io/Ollama_0.23.1.dmg"
     },
     "olympushorse.com.br": {
       "confidence": 0.85,
@@ -68822,20 +68289,6 @@
       "tweet_id": "2112185513381703717",
       "type": "url",
       "value": "https://pagina-clientes-havan.com/produto/33051"
-    },
-    "painternc.com": {
-      "confidence": 0.9,
-      "date": "2026-10-14 08:46:30",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating ANA (Japan) hosted at painternc.com, IP 45.91.226.53.",
-      "threat_type": "phishing",
-      "tweet_id": "2110291142042615854",
-      "type": "domain",
-      "value": "painternc.com"
     },
     "pairing.webstatici-whatsapp.com": {
       "confidence": 0.85,
@@ -70023,21 +69476,6 @@
       "type": "domain",
       "value": "prompt-whatsapp.com"
     },
-    "propertytaxloan.com": {
-      "confidence": 0.6,
-      "date": "2026-10-14 10:43:00",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Infrastructure domains associated with a ClickFix campaign, including some legitimate Tenderly gateway hosts.",
-      "threat_type": "malware",
-      "tweet_id": "2110320462786122062",
-      "type": "domain",
-      "value": "propertytaxloan.com"
-    },
     "proset-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -70447,21 +69885,6 @@
       "type": "domain",
       "value": "pvnweb-whatsapp.com"
     },
-    "pyhajarvi-instituutti.fi": {
-      "confidence": 0.6,
-      "date": "2026-10-14 10:43:00",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Infrastructure domains associated with a ClickFix campaign, including some legitimate Tenderly gateway hosts.",
-      "threat_type": "malware",
-      "tweet_id": "2110320462786122062",
-      "type": "domain",
-      "value": "pyhajarvi-instituutti.fi"
-    },
     "qa3u8erl.online": {
       "confidence": 0.9,
       "date": "2026-10-19 10:06:51",
@@ -70476,21 +69899,6 @@
       "tweet_id": "2112123303242686946",
       "type": "domain",
       "value": "qa3u8erl.online"
-    },
-    "qaz4.com": {
-      "confidence": 0.6,
-      "date": "2026-10-14 10:43:00",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Infrastructure domains associated with a ClickFix campaign, including some legitimate Tenderly gateway hosts.",
-      "threat_type": "malware",
-      "tweet_id": "2110320462786122062",
-      "type": "domain",
-      "value": "qaz4.com"
     },
     "qbqxgnbsnb.a.pinggy.link": {
       "confidence": 0.65,
@@ -71952,6 +71360,24 @@
       "type": "url",
       "value": "https://royal-wood-3c0d.julianosilvasantospiresrosa.workers.dev/hhohi"
     },
+    "royal-wood-3c0d.julianosilvasantospiresrosa.workers.dev/prxyb": {
+      "confidence": 0.9,
+      "date": "2026-11-13 06:42:18",
+      "enriched_at": "2026-11-13T12:40:04Z",
+      "family": "Remcos",
+      "suggested_tags": [
+        "remcos",
+        "remcosrat",
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "Remcos RAT infrastructure: Cloudflare workers staging URL, payload hosted on ii-sen.ir, and C2 at winne.mynetav.net.",
+      "threat_type": "c2",
+      "tweet_id": "2121131525156827291",
+      "type": "url",
+      "value": "https://royal-wood-3c0d.julianosilvasantospiresrosa.workers.dev/prxyb"
+    },
     "rsg63gpp.s3.us-east-2.amazonaws.com": {
       "confidence": 0.85,
       "date": "2026-11-06 14:20:00",
@@ -72261,21 +71687,6 @@
       "tweet_id": "2117950517305655397",
       "type": "url",
       "value": "http://s3051017.s3.us-east-2.amazonaws.com/ds.html"
-    },
-    "sahko-team.fi": {
-      "confidence": 0.6,
-      "date": "2026-10-14 10:43:00",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Infrastructure domains associated with a ClickFix campaign, including some legitimate Tenderly gateway hosts.",
-      "threat_type": "malware",
-      "tweet_id": "2110320462786122062",
-      "type": "domain",
-      "value": "sahko-team.fi"
     },
     "saissodbn202607oint.u0fnd.info": {
       "confidence": 0.9,
@@ -74235,20 +73646,21 @@
       "type": "domain",
       "value": "smbweb-whatsapp.com"
     },
-    "smokingstationhub.com": {
-      "confidence": 0.6,
-      "date": "2026-10-14 10:43:00",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
+    "smokingpussy.store": {
+      "confidence": 0.75,
+      "date": "2026-11-13 06:52:06",
+      "enriched_at": "2026-11-13T12:40:04Z",
+      "family": "Evilginx",
       "suggested_tags": [
-        "clickfix",
-        "malware"
+        "evilginx",
+        "aitm",
+        "phishing"
       ],
-      "summary": "Infrastructure domains associated with a ClickFix campaign, including some legitimate Tenderly gateway hosts.",
-      "threat_type": "malware",
-      "tweet_id": "2110320462786122062",
+      "summary": "Domain smokingpussy.store reported as an Evilginx adversary-in-the-middle phishing panel.",
+      "threat_type": "phishing",
+      "tweet_id": "2121133987980800376",
       "type": "domain",
-      "value": "smokingstationhub.com"
+      "value": "smokingpussy.store"
     },
     "smulaf.net": {
       "confidence": 0.5,
@@ -76946,21 +76358,6 @@
       "type": "domain",
       "value": "tag-whatsapp.com"
     },
-    "taikakuu.com": {
-      "confidence": 0.6,
-      "date": "2026-10-14 10:43:00",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Infrastructure domains associated with a ClickFix campaign, including some legitimate Tenderly gateway hosts.",
-      "threat_type": "malware",
-      "tweet_id": "2110320462786122062",
-      "type": "domain",
-      "value": "taikakuu.com"
-    },
     "tap-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -77776,21 +77173,6 @@
       "tweet_id": "2112879577307447551",
       "type": "domain",
       "value": "theworkshop-sign.skin"
-    },
-    "thmaiaas.duckdns.org": {
-      "confidence": 0.6,
-      "date": "2026-10-14 10:25:33",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Brazilian NF-e themed JavaScript sample using a DuckDNS domain and IP 45.146.81.180 for C2.",
-      "threat_type": "c2",
-      "tweet_id": "2110316071718678714",
-      "type": "domain",
-      "value": "thmaiaas.duckdns.org"
     },
     "thread-whatsapp.com": {
       "confidence": 0.7,
@@ -79711,23 +79093,6 @@
       "type": "domain",
       "value": "vpcnode-whatsapp.com"
     },
-    "vpn.5tr.org": {
-      "confidence": 0.85,
-      "date": "2026-10-14 09:55:30",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": "Vidar",
-      "suggested_tags": [
-        "vidar",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Three 5tr.org subdomains attributed to Vidar infostealer infrastructure with high confidence.",
-      "threat_type": "malware",
-      "tweet_id": "2110308506255417764",
-      "type": "domain",
-      "value": "vpn.5tr.org"
-    },
     "vpnaegis2.site": {
       "confidence": 0.92,
       "date": "2026-10-31 16:19:12",
@@ -79741,34 +79106,6 @@
       "tweet_id": "2116565662500036784",
       "type": "domain",
       "value": "vpnaegis2.site"
-    },
-    "vsdhjjt.club": {
-      "confidence": 0.5,
-      "date": "2026-10-14 11:31:09",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip sample from abuse.ch Bazaar hosted on Alibaba Cloud OSS (Hong Kong), with a connection to vsdhjjt.club:5312.",
-      "threat_type": "malware",
-      "tweet_id": "2110332578850918854",
-      "type": "domain",
-      "value": "vsdhjjt.club"
-    },
-    "vsdhjjt.club:5312": {
-      "confidence": 0.5,
-      "date": "2026-10-14 11:31:09",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip sample from abuse.ch Bazaar hosted on Alibaba Cloud OSS (Hong Kong), with a connection to vsdhjjt.club:5312.",
-      "threat_type": "malware",
-      "tweet_id": "2110332578850918854",
-      "type": "url",
-      "value": "http://vsdhjjt.club:5312"
     },
     "vt3.eu": {
       "confidence": 0.75,
@@ -81385,6 +80722,24 @@
       "type": "domain",
       "value": "windows.webapi-whatsapp.com"
     },
+    "winne.mynetav.net": {
+      "confidence": 0.9,
+      "date": "2026-11-13 06:42:18",
+      "enriched_at": "2026-11-13T12:40:04Z",
+      "family": "Remcos",
+      "suggested_tags": [
+        "remcos",
+        "remcosrat",
+        "rat",
+        "c2",
+        "malware"
+      ],
+      "summary": "Remcos RAT infrastructure: Cloudflare workers staging URL, payload hosted on ii-sen.ir, and C2 at winne.mynetav.net.",
+      "threat_type": "c2",
+      "tweet_id": "2121131525156827291",
+      "type": "domain",
+      "value": "winne.mynetav.net"
+    },
     "winrarsdwee.top": {
       "confidence": 0.6,
       "date": "2026-11-02 06:06:14",
@@ -81948,20 +81303,6 @@
       "type": "url",
       "value": "https://www.ovenwisdom.com"
     },
-    "www.painternc.com/styles/inspirations/points/up/#/index": {
-      "confidence": 0.9,
-      "date": "2026-10-14 08:46:30",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating ANA (Japan) hosted at painternc.com, IP 45.91.226.53.",
-      "threat_type": "phishing",
-      "tweet_id": "2110291142042615854",
-      "type": "url",
-      "value": "https://www.painternc.com/Styles/Inspirations/Points/UP/#/index"
-    },
     "www.searedrecipes.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -82193,21 +81534,6 @@
       "tweet_id": "2112982551166120281",
       "type": "url",
       "value": "http://x3pf5mva2liano2rmgnkf5ktbe0efzvv.lambda-url.ap-south-1.on.aws/e-Challal"
-    },
-    "xaz2.com": {
-      "confidence": 0.6,
-      "date": "2026-10-14 10:43:00",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Infrastructure domains associated with a ClickFix campaign, including some legitimate Tenderly gateway hosts.",
-      "threat_type": "malware",
-      "tweet_id": "2110320462786122062",
-      "type": "domain",
-      "value": "xaz2.com"
     },
     "xboxtelemetry-defender.cc": {
       "confidence": 0.35,
@@ -83052,34 +82378,6 @@
       "type": "domain",
       "value": "yzhw666.com"
     },
-    "zaptechhelp.com": {
-      "confidence": 0.6,
-      "date": "2026-10-14 09:14:04",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Performance-review themed LNK dropping a VBS and a ScreenConnect installer from remote URLs.",
-      "threat_type": "malware",
-      "tweet_id": "2110298078712381682",
-      "type": "domain",
-      "value": "zaptechhelp.com"
-    },
-    "zaptechhelp.com/rockylab/screenconnect.clientsetup(1)_20261009_051448.txt": {
-      "confidence": 0.6,
-      "date": "2026-10-14 09:14:04",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Performance-review themed LNK dropping a VBS and a ScreenConnect installer from remote URLs.",
-      "threat_type": "malware",
-      "tweet_id": "2110298078712381682",
-      "type": "url",
-      "value": "https://zaptechhelp.com/rockylab/ScreenConnect.ClientSetup(1)_20261009_051448.txt"
-    },
     "zdhweb-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -83339,20 +82637,6 @@
       "tweet_id": "2112023801735299102",
       "type": "url",
       "value": "https://zhenxiongdibj.com/eQbSMKmtnb.suita.jp"
-    },
-    "zhiledi.com": {
-      "confidence": 0.65,
-      "date": "2026-10-14 07:26:22",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malware spam mail posing as electronic invoice issuance, linked to zhiledi.com (Japan).",
-      "threat_type": "malware",
-      "tweet_id": "2110270978223980917",
-      "type": "domain",
-      "value": "zhiledi.com"
     },
     "zhongjuxian-jp.com": {
       "confidence": 0.75,
@@ -83690,21 +82974,6 @@
       "type": "domain",
       "value": "zttrych.icu"
     },
-    "zvh4.com": {
-      "confidence": 0.6,
-      "date": "2026-10-14 10:43:00",
-      "enriched_at": "2026-10-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Infrastructure domains associated with a ClickFix campaign, including some legitimate Tenderly gateway hosts.",
-      "threat_type": "malware",
-      "tweet_id": "2110320462786122062",
-      "type": "domain",
-      "value": "zvh4.com"
-    },
     "zxc.pidanokbj.xyz": {
       "confidence": 0.5,
       "date": "2026-11-04 10:47:22",
@@ -83794,6 +83063,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-13T06:40:04Z",
+  "generated_at": "2026-11-13T12:40:04Z",
   "window_days": 30
 }
