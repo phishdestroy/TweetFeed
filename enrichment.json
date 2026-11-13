@@ -1,5 +1,5 @@
 {
-  "count": 5884,
+  "count": 5845,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -905,20 +905,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "102.244.97.185"
-    },
-    "102.67.136.82": {
-      "confidence": 0.9,
-      "date": "2026-10-14 18:19:20",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site at beaconpromotions.com.na hosted on 102.67.136.82 (South Africa, DataKeepers, AS328170).",
-      "threat_type": "phishing",
-      "tweet_id": "2110435300283683112",
-      "type": "ip",
-      "value": "102.67.136.82"
     },
     "102bb74d066de4113cb88016f50e43b8": {
       "confidence": 0.85,
@@ -1829,20 +1815,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "103.169.158.44"
-    },
-    "103.170.217.170": {
-      "confidence": 0.75,
-      "date": "2026-10-14 14:52:56",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "RCE attempt exploiting a PHP-CGI vulnerability from a Netherlands source IP, pulling payload from a Singapore-hosted server.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2110383358719021320",
-      "type": "url",
-      "value": "http://103.170.217.170"
     },
     "103.172.186.175": {
       "confidence": 0.7,
@@ -3648,24 +3620,6 @@
       "type": "ip",
       "value": "107.170.13.163"
     },
-    "107.172.132.240": {
-      "confidence": 0.8,
-      "date": "2026-10-14 17:59:48",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "c2",
-        "cobaltstrike",
-        "adaptixc2",
-        "sliver"
-      ],
-      "summary": "Team Cymru sample of open-directory hosts serving C2 and malware staging, including Cobalt Strike, AdaptixC2, Sliver, PureRAT and Mirai infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2110430385960034775",
-      "type": "ip",
-      "value": "107.172.132.240"
-    },
     "107.172.15.180": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -3842,24 +3796,6 @@
       "tweet_id": "2115561603856810313",
       "type": "url",
       "value": "http://107.175.85.215"
-    },
-    "108.165.147.226": {
-      "confidence": 0.8,
-      "date": "2026-10-14 17:59:48",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "c2",
-        "cobaltstrike",
-        "adaptixc2",
-        "sliver"
-      ],
-      "summary": "Team Cymru sample of open-directory hosts serving C2 and malware staging, including Cobalt Strike, AdaptixC2, Sliver, PureRAT and Mirai infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2110430385960034775",
-      "type": "ip",
-      "value": "108.165.147.226"
     },
     "108.174.155.202": {
       "confidence": 0.8,
@@ -5069,20 +5005,6 @@
       "tweet_id": "2111055796700364831",
       "type": "ip",
       "value": "13.250.128.77"
-    },
-    "130.12.180.32": {
-      "confidence": 0.75,
-      "date": "2026-10-14 14:52:56",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "RCE attempt exploiting a PHP-CGI vulnerability from a Netherlands source IP, pulling payload from a Singapore-hosted server.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2110383358719021320",
-      "type": "ip",
-      "value": "130.12.180.32"
     },
     "130.211.106.14": {
       "confidence": 0.5,
@@ -8411,23 +8333,6 @@
       "tweet_id": "2116011833954103304",
       "type": "ip",
       "value": "153.75.86.243"
-    },
-    "1534e8091708e13a24698de848faccac0ccbf82cc625f990bed0c7ec5388c345": {
-      "confidence": 0.85,
-      "date": "2026-10-14 18:16:50",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": "Zalmoxis",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "Low-detection stealer named Zalmoxis with a signed binary; C2 at 45.152.149.66:6969, panel on port 3000, payload served from cdn.simplynetworking.eu.",
-      "threat_type": "malware",
-      "tweet_id": "2110434672446779465",
-      "type": "sha256",
-      "value": "1534e8091708e13a24698de848faccac0ccbf82cc625f990bed0c7ec5388c345"
     },
     "154.12.28.225": {
       "confidence": 0.7,
@@ -12018,6 +11923,20 @@
       "type": "ip",
       "value": "185.139.214.156"
     },
+    "185.139.215.221": {
+      "confidence": 0.6,
+      "date": "2026-11-13 16:00:31",
+      "enriched_at": "2026-11-13T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Two IP:port endpoints (185.139.215.221:1443 and 47.236.66.74:8080) reported as C2 panel infrastructure.",
+      "threat_type": "c2",
+      "tweet_id": "2121272002921250845",
+      "type": "ip",
+      "value": "185.139.215.221"
+    },
     "185.149.24.166": {
       "confidence": 0.9,
       "date": "2026-11-13 06:42:18",
@@ -12419,24 +12338,6 @@
       "type": "md5",
       "value": "1864eff97643dd63af698a12151521ad"
     },
-    "187.40.109.135": {
-      "confidence": 0.8,
-      "date": "2026-10-14 17:59:48",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "c2",
-        "cobaltstrike",
-        "adaptixc2",
-        "sliver"
-      ],
-      "summary": "Team Cymru sample of open-directory hosts serving C2 and malware staging, including Cobalt Strike, AdaptixC2, Sliver, PureRAT and Mirai infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2110430385960034775",
-      "type": "ip",
-      "value": "187.40.109.135"
-    },
     "188.137.247.26": {
       "confidence": 0.2,
       "date": "2026-11-12 13:56:21",
@@ -12448,23 +12349,6 @@
       "tweet_id": "2120878367629005293",
       "type": "ip",
       "value": "188.137.247.26"
-    },
-    "188.227.197.143": {
-      "confidence": 0.6,
-      "date": "2026-10-14 15:00:01",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": "BlueNoroff",
-      "suggested_tags": [
-        "bluenoroff",
-        "apt",
-        "dprk",
-        "malware"
-      ],
-      "summary": "IP address attributed to BlueNoroff APT activity, with minimal context provided.",
-      "threat_type": "malware",
-      "tweet_id": "2110385140631265690",
-      "type": "url",
-      "value": "http://188.227.197.143"
     },
     "188.253.24.154": {
       "confidence": 0.5,
@@ -12999,24 +12883,6 @@
       "type": "ip",
       "value": "193.228.128.2"
     },
-    "193.233.220.65": {
-      "confidence": 0.8,
-      "date": "2026-10-14 17:59:48",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "c2",
-        "cobaltstrike",
-        "adaptixc2",
-        "sliver"
-      ],
-      "summary": "Team Cymru sample of open-directory hosts serving C2 and malware staging, including Cobalt Strike, AdaptixC2, Sliver, PureRAT and Mirai infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2110430385960034775",
-      "type": "ip",
-      "value": "193.233.220.65"
-    },
     "193.233.75.208": {
       "confidence": 0.9,
       "date": "2026-10-31 21:08:20",
@@ -13091,24 +12957,6 @@
       "type": "url",
       "value": "http://193.70.100.109"
     },
-    "194.11.226.153": {
-      "confidence": 0.8,
-      "date": "2026-10-14 17:53:20",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": "StealC",
-      "suggested_tags": [
-        "stealc",
-        "stealer",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "Signed EtherRAT sample dropping signed StealC; C2 and download infrastructure on presanis.com, csg-soft.com and glamour-studio.com.",
-      "threat_type": "malware",
-      "tweet_id": "2110428757622448500",
-      "type": "url",
-      "value": "http://194.11.226.153"
-    },
     "194.156.79.152": {
       "confidence": 0.55,
       "date": "2026-10-26 21:21:33",
@@ -13138,23 +12986,6 @@
       "tweet_id": "2114829810539040809",
       "type": "url",
       "value": "http://194.156.79.152:55615"
-    },
-    "194.163.148.133": {
-      "confidence": 0.85,
-      "date": "2026-10-14 16:36:01",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": "Nyxar Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "Nyxar Stealer, a likely Turkish-origin MaaS with browser, messaging, crypto wallet and gaming credential theft modules; C2 panel infrastructure listed.",
-      "threat_type": "malware",
-      "tweet_id": "2110409299113689563",
-      "type": "ip",
-      "value": "194.163.148.133"
     },
     "194.163.173.251": {
       "confidence": 0.5,
@@ -13848,24 +13679,6 @@
       "tweet_id": "2112991811169841325",
       "type": "sha256",
       "value": "1b519c70fe1f04dfed8e09bbbd7deb376b9c7bc6ce828fc62eba326fe71a26f2"
-    },
-    "1b61b95a61996b44322e9841af2fa2b63fcdd18a569f16fa8acd30eb8d8ac854": {
-      "confidence": 0.8,
-      "date": "2026-10-14 17:53:20",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": "StealC",
-      "suggested_tags": [
-        "stealc",
-        "stealer",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "Signed EtherRAT sample dropping signed StealC; C2 and download infrastructure on presanis.com, csg-soft.com and glamour-studio.com.",
-      "threat_type": "malware",
-      "tweet_id": "2110428757622448500",
-      "type": "sha256",
-      "value": "1b61b95a61996b44322e9841af2fa2b63fcdd18a569f16fa8acd30eb8d8ac854"
     },
     "1d617f5fda401b5bed0a63550f9de05d": {
       "confidence": 0.8,
@@ -15334,6 +15147,21 @@
       "type": "url",
       "value": "http://209.74.83.47"
     },
+    "209.99.184.242": {
+      "confidence": 0.6,
+      "date": "2026-11-13 15:59:04",
+      "enriched_at": "2026-11-13T18:40:04Z",
+      "family": "NEXUS",
+      "suggested_tags": [
+        "c2",
+        "ransomware"
+      ],
+      "summary": "IP:port 209.99.184.242:8080 reported as a C2 panel associated with the NEXUS ransomware-as-a-service operation.",
+      "threat_type": "c2",
+      "tweet_id": "2121271636997656908",
+      "type": "ip",
+      "value": "209.99.184.242"
+    },
     "209.99.190.93": {
       "confidence": 0.5,
       "date": "2026-11-12 15:52:52",
@@ -15852,24 +15680,6 @@
       "type": "url",
       "value": "http://217.16.25.99"
     },
-    "217.6.46.91": {
-      "confidence": 0.8,
-      "date": "2026-10-14 17:59:48",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "c2",
-        "cobaltstrike",
-        "adaptixc2",
-        "sliver"
-      ],
-      "summary": "Team Cymru sample of open-directory hosts serving C2 and malware staging, including Cobalt Strike, AdaptixC2, Sliver, PureRAT and Mirai infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2110430385960034775",
-      "type": "ip",
-      "value": "217.6.46.91"
-    },
     "217.60.102.5": {
       "confidence": 0.85,
       "date": "2026-10-23 08:00:38",
@@ -15900,24 +15710,6 @@
       "tweet_id": "2113541093048361334",
       "type": "url",
       "value": "http://217.60.102.5/sh"
-    },
-    "217.60.102.74": {
-      "confidence": 0.8,
-      "date": "2026-10-14 17:59:48",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "c2",
-        "cobaltstrike",
-        "adaptixc2",
-        "sliver"
-      ],
-      "summary": "Team Cymru sample of open-directory hosts serving C2 and malware staging, including Cobalt Strike, AdaptixC2, Sliver, PureRAT and Mirai infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2110430385960034775",
-      "type": "ip",
-      "value": "217.60.102.74"
     },
     "217.60.242.76": {
       "confidence": 0.85,
@@ -16234,21 +16026,6 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "23.140.244.52"
-    },
-    "23.148.212.237": {
-      "confidence": 0.6,
-      "date": "2026-10-14 17:02:41",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "apt"
-      ],
-      "summary": "Open directories on two IPs tied to the DarkSword/Coruna iOS exploit chain, exposing attacker source code, exploit tools and documentation.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2110416010331222141",
-      "type": "url",
-      "value": "http://23.148.212.237"
     },
     "23.149.28.46": {
       "confidence": 0.8,
@@ -26754,24 +26531,6 @@
       "type": "ip",
       "value": "37.111.222.57"
     },
-    "37.114.41.131": {
-      "confidence": 0.8,
-      "date": "2026-10-14 17:59:48",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "c2",
-        "cobaltstrike",
-        "adaptixc2",
-        "sliver"
-      ],
-      "summary": "Team Cymru sample of open-directory hosts serving C2 and malware staging, including Cobalt Strike, AdaptixC2, Sliver, PureRAT and Mirai infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2110430385960034775",
-      "type": "ip",
-      "value": "37.114.41.131"
-    },
     "37.120.186.231": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -26931,24 +26690,6 @@
       "type": "sha256",
       "value": "37cb1002a8da805299594243dfb668015f589feb117e3410854cb2b5e858579d"
     },
-    "37d7a8c504227f9c1986619fd8148f1737cf94e56ac91687f8ba33be7e945f5e": {
-      "confidence": 0.8,
-      "date": "2026-10-14 17:53:20",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": "StealC",
-      "suggested_tags": [
-        "stealc",
-        "stealer",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "Signed EtherRAT sample dropping signed StealC; C2 and download infrastructure on presanis.com, csg-soft.com and glamour-studio.com.",
-      "threat_type": "malware",
-      "tweet_id": "2110428757622448500",
-      "type": "sha256",
-      "value": "37d7a8c504227f9c1986619fd8148f1737cf94e56ac91687f8ba33be7e945f5e"
-    },
     "38.11.56.65": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -27072,24 +26813,6 @@
       "tweet_id": "2114833281589870791",
       "type": "url",
       "value": "http://38.54.56.66"
-    },
-    "38.54.88.188": {
-      "confidence": 0.8,
-      "date": "2026-10-14 17:59:48",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "c2",
-        "cobaltstrike",
-        "adaptixc2",
-        "sliver"
-      ],
-      "summary": "Team Cymru sample of open-directory hosts serving C2 and malware staging, including Cobalt Strike, AdaptixC2, Sliver, PureRAT and Mirai infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2110430385960034775",
-      "type": "ip",
-      "value": "38.54.88.188"
     },
     "38.55.131.186": {
       "confidence": 0.5,
@@ -27540,22 +27263,6 @@
       "tweet_id": "2112029478574780667",
       "type": "url",
       "value": "https://3cdffc93.fase-x.com/7a7e36d3"
-    },
-    "3d7hz1zm.onlinewebshop.net": {
-      "confidence": 0.75,
-      "date": "2026-10-14 13:06:47",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "kimsuky",
-        "apt",
-        "c2"
-      ],
-      "summary": "Kimsuky-attributed infrastructure on onlinewebshop.net subdomains, found via GitHub commit search.",
-      "threat_type": "c2",
-      "tweet_id": "2110356647654969441",
-      "type": "domain",
-      "value": "3d7hz1zm.onlinewebshop.net"
     },
     "3df306ee35b8abd426d2231dd10c987aec8499b8339aff39725bc925eae20c48": {
       "confidence": 0.8,
@@ -28288,24 +27995,6 @@
       "type": "ip",
       "value": "43.167.177.178"
     },
-    "43.167.192.67": {
-      "confidence": 0.8,
-      "date": "2026-10-14 17:59:48",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "c2",
-        "cobaltstrike",
-        "adaptixc2",
-        "sliver"
-      ],
-      "summary": "Team Cymru sample of open-directory hosts serving C2 and malware staging, including Cobalt Strike, AdaptixC2, Sliver, PureRAT and Mirai infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2110430385960034775",
-      "type": "ip",
-      "value": "43.167.192.67"
-    },
     "43.167.27.31": {
       "confidence": 0.5,
       "date": "2026-10-31 15:14:21",
@@ -28669,24 +28358,6 @@
       "type": "url",
       "value": "http://45.133.200.14"
     },
-    "45.135.180.185": {
-      "confidence": 0.8,
-      "date": "2026-10-14 17:53:20",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": "StealC",
-      "suggested_tags": [
-        "stealc",
-        "stealer",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "Signed EtherRAT sample dropping signed StealC; C2 and download infrastructure on presanis.com, csg-soft.com and glamour-studio.com.",
-      "threat_type": "malware",
-      "tweet_id": "2110428757622448500",
-      "type": "url",
-      "value": "http://45.135.180.185"
-    },
     "45.137.194.154": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -28875,40 +28546,6 @@
       "tweet_id": "2118646689401835683",
       "type": "ip",
       "value": "45.151.74.183"
-    },
-    "45.152.149.66": {
-      "confidence": 0.85,
-      "date": "2026-10-14 18:16:50",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": "Zalmoxis",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "Low-detection stealer named Zalmoxis with a signed binary; C2 at 45.152.149.66:6969, panel on port 3000, payload served from cdn.simplynetworking.eu.",
-      "threat_type": "malware",
-      "tweet_id": "2110434672446779465",
-      "type": "ip",
-      "value": "45.152.149.66"
-    },
-    "45.152.149.66:6969": {
-      "confidence": 0.85,
-      "date": "2026-10-14 18:16:50",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": "Zalmoxis",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "Low-detection stealer named Zalmoxis with a signed binary; C2 at 45.152.149.66:6969, panel on port 3000, payload served from cdn.simplynetworking.eu.",
-      "threat_type": "malware",
-      "tweet_id": "2110434672446779465",
-      "type": "url",
-      "value": "http://45.152.149.66:6969"
     },
     "45.153.34.122": {
       "confidence": 0.5,
@@ -29623,21 +29260,6 @@
       "type": "sha256",
       "value": "46be2733e9bd19dc0c10233dcc5345898f2528cbd9a69b3aded00fa12ac3acbe"
     },
-    "47.102.192.23": {
-      "confidence": 0.6,
-      "date": "2026-10-14 17:02:41",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "apt"
-      ],
-      "summary": "Open directories on two IPs tied to the DarkSword/Coruna iOS exploit chain, exposing attacker source code, exploit tools and documentation.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2110416010331222141",
-      "type": "url",
-      "value": "http://47.102.192.23"
-    },
     "47.109.179.46": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -29699,6 +29321,20 @@
       "tweet_id": "2111814806756057553",
       "type": "ip",
       "value": "47.236.21.193"
+    },
+    "47.236.66.74": {
+      "confidence": 0.6,
+      "date": "2026-11-13 16:00:31",
+      "enriched_at": "2026-11-13T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Two IP:port endpoints (185.139.215.221:1443 and 47.236.66.74:8080) reported as C2 panel infrastructure.",
+      "threat_type": "c2",
+      "tweet_id": "2121272002921250845",
+      "type": "ip",
+      "value": "47.236.66.74"
     },
     "47.237.103.236": {
       "confidence": 0.6,
@@ -37790,23 +37426,6 @@
       "type": "domain",
       "value": "acxjixsd.ltd"
     },
-    "ad0d08d54c9bbe2309bb7a8ae92def8a04297d0238f2799764d93929b57cbd5f": {
-      "confidence": 0.85,
-      "date": "2026-10-14 18:16:50",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": "Zalmoxis",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "Low-detection stealer named Zalmoxis with a signed binary; C2 at 45.152.149.66:6969, panel on port 3000, payload served from cdn.simplynetworking.eu.",
-      "threat_type": "malware",
-      "tweet_id": "2110434672446779465",
-      "type": "sha256",
-      "value": "ad0d08d54c9bbe2309bb7a8ae92def8a04297d0238f2799764d93929b57cbd5f"
-    },
     "adb-viewersv.com": {
       "confidence": 0.7,
       "date": "2026-11-11 12:27:00",
@@ -43499,6 +43118,21 @@
       "type": "sha256",
       "value": "b9472cc080b4fef1cbc38bad1f1981380a7d71fc74138c7f4c41f18d8e6dacb1"
     },
+    "b97980c046ff56cd4393bc37bfea4db5": {
+      "confidence": 0.8,
+      "date": "2026-10-22 06:29:10",
+      "enriched_at": "2026-11-13T18:40:04Z",
+      "family": "Monoxide RAT",
+      "suggested_tags": [
+        "rat",
+        "malware"
+      ],
+      "summary": "Monoxide RAT sample (MD5) with User-Agent MonoxideClient/1.0, tied to the monoxide.vip site plus Telegram and Discord channels used for distribution.",
+      "threat_type": "malware",
+      "tweet_id": "2110315829606687172",
+      "type": "md5",
+      "value": "b97980c046ff56cd4393bc37bfea4db5"
+    },
     "b9ca63d025ff38a9e148b389565c034ba8768a5e01018e1f110f87a046b231e7": {
       "confidence": 0.4,
       "date": "2026-10-21 06:24:53",
@@ -43770,20 +43404,6 @@
       "tweet_id": "2114714596565004440",
       "type": "sha256",
       "value": "be24b9eb3fcfb9671aeaacbb24a4f413daf9abd24b41a9ee390caeec74200af6"
-    },
-    "beaconpromotions.com.na": {
-      "confidence": 0.9,
-      "date": "2026-10-14 18:19:20",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site at beaconpromotions.com.na hosted on 102.67.136.82 (South Africa, DataKeepers, AS328170).",
-      "threat_type": "phishing",
-      "tweet_id": "2110435300283683112",
-      "type": "domain",
-      "value": "beaconpromotions.com.na"
     },
     "beb7e7589979a43a2f763081d8eba2b84419a68c0e5a42b4cf6dc4fafce56733": {
       "confidence": 0.6,
@@ -47650,22 +47270,6 @@
       "type": "md5",
       "value": "c92240b958521596a99126e27b707962"
     },
-    "c97xx6lx.onlinewebshop.net": {
-      "confidence": 0.75,
-      "date": "2026-10-14 13:06:47",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "kimsuky",
-        "apt",
-        "c2"
-      ],
-      "summary": "Kimsuky-attributed infrastructure on onlinewebshop.net subdomains, found via GitHub commit search.",
-      "threat_type": "c2",
-      "tweet_id": "2110356647654969441",
-      "type": "domain",
-      "value": "c97xx6lx.onlinewebshop.net"
-    },
     "ca298d49d3fc924b481e1a32ad659edc": {
       "confidence": 0.15,
       "date": "2026-10-24 08:44:25",
@@ -48513,23 +48117,6 @@
       "tweet_id": "2113751077426249995",
       "type": "domain",
       "value": "cdn.sakenlogistics.com"
-    },
-    "cdn.simplynetworking.eu": {
-      "confidence": 0.85,
-      "date": "2026-10-14 18:16:50",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": "Zalmoxis",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2",
-        "malware"
-      ],
-      "summary": "Low-detection stealer named Zalmoxis with a signed binary; C2 at 45.152.149.66:6969, panel on port 3000, payload served from cdn.simplynetworking.eu.",
-      "threat_type": "malware",
-      "tweet_id": "2110434672446779465",
-      "type": "domain",
-      "value": "cdn.simplynetworking.eu"
     },
     "cdn.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -50514,24 +50101,6 @@
       "type": "domain",
       "value": "cryptocommerceohpmigration.online"
     },
-    "csg-soft.com": {
-      "confidence": 0.8,
-      "date": "2026-10-14 17:53:20",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": "StealC",
-      "suggested_tags": [
-        "stealc",
-        "stealer",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "Signed EtherRAT sample dropping signed StealC; C2 and download infrastructure on presanis.com, csg-soft.com and glamour-studio.com.",
-      "threat_type": "malware",
-      "tweet_id": "2110428757622448500",
-      "type": "domain",
-      "value": "csg-soft.com"
-    },
     "csrf-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -52326,6 +51895,21 @@
       "type": "url",
       "value": "https://discord.com/api/webhooks/1568290802583740449/XI6R8_zVISY8ROV2bVNVQzLF3aV-H41kSyCDpxXvuPLqGV8pCNTg9_DrDLG5iVYC2Qpd"
     },
+    "discord.gg/monoxidevip": {
+      "confidence": 0.8,
+      "date": "2026-10-22 06:29:10",
+      "enriched_at": "2026-11-13T18:40:04Z",
+      "family": "Monoxide RAT",
+      "suggested_tags": [
+        "rat",
+        "malware"
+      ],
+      "summary": "Monoxide RAT sample (MD5) with User-Agent MonoxideClient/1.0, tied to the monoxide.vip site plus Telegram and Discord channels used for distribution.",
+      "threat_type": "malware",
+      "tweet_id": "2110315829606687172",
+      "type": "url",
+      "value": "http://discord.gg/monoxidevip"
+    },
     "discovery-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -54026,23 +53610,6 @@
       "tweet_id": "2115780561226604912",
       "type": "sha256",
       "value": "e169bd066b4532515844045497fe9d42ed26a15bf236d1f1a2b64573f5717b7d"
-    },
-    "e1b67c126982238429dfa7ac475ec5f859c5cd25a2c64d46463f4926f0b403c6": {
-      "confidence": 0.85,
-      "date": "2026-10-14 13:14:19",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": "NixScare Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "NixScare Stealer (StalkCraft.exe) Telegram-capable stealer based on Poulight Stealer, with a C2 panel on xsph.ru.",
-      "threat_type": "malware",
-      "tweet_id": "1302584919592501248",
-      "type": "sha256",
-      "value": "e1b67c126982238429dfa7ac475ec5f859c5cd25a2c64d46463f4926f0b403c6"
     },
     "e1vfaomn3.onlinewebshop.net": {
       "confidence": 0.7,
@@ -58653,23 +58220,6 @@
       "type": "domain",
       "value": "g7-whatsapp.com"
     },
-    "g7wq4gvc17.onlinewebshop.net": {
-      "confidence": 0.7,
-      "date": "2026-10-14 13:06:47",
-      "enriched_at": "2026-11-08T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "kimsuky",
-        "apt",
-        "dprk",
-        "c2"
-      ],
-      "summary": "Kimsuky-attributed infrastructure: multiple onlinewebshop.net subdomains linked to GitHub commit searches for 'Upload attachments' zip lures.",
-      "threat_type": "malware",
-      "tweet_id": "2110356647654969441",
-      "type": "domain",
-      "value": "g7wq4gvc17.onlinewebshop.net"
-    },
     "g8-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -59292,24 +58842,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "gitnode-whatsapp.com"
-    },
-    "glamour-studio.com": {
-      "confidence": 0.8,
-      "date": "2026-10-14 17:53:20",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": "StealC",
-      "suggested_tags": [
-        "stealc",
-        "stealer",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "Signed EtherRAT sample dropping signed StealC; C2 and download infrastructure on presanis.com, csg-soft.com and glamour-studio.com.",
-      "threat_type": "malware",
-      "tweet_id": "2110428757622448500",
-      "type": "domain",
-      "value": "glamour-studio.com"
     },
     "globalweb-whatsapp.com": {
       "confidence": 0.75,
@@ -60566,22 +60098,6 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "hk9-whatsapp.com"
-    },
-    "hl0ghsi9.onlinewebshop.net": {
-      "confidence": 0.75,
-      "date": "2026-10-14 13:06:47",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "kimsuky",
-        "apt",
-        "c2"
-      ],
-      "summary": "Kimsuky-attributed infrastructure on onlinewebshop.net subdomains, found via GitHub commit search.",
-      "threat_type": "c2",
-      "tweet_id": "2110356647654969441",
-      "type": "domain",
-      "value": "hl0ghsi9.onlinewebshop.net"
     },
     "hlushkova.top": {
       "confidence": 0.4,
@@ -62227,38 +61743,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "ivory-whatsapp.com"
-    },
-    "iwnw-1knwni-21siw.xo.je": {
-      "confidence": 0.85,
-      "date": "2026-10-14 14:35:57",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": "KONNI",
-      "suggested_tags": [
-        "c2",
-        "dprk",
-        "apt"
-      ],
-      "summary": "DPRK-linked KONNI C2 URL on a free hosting domain.",
-      "threat_type": "c2",
-      "tweet_id": "2110379084371067079",
-      "type": "domain",
-      "value": "iwnw-1knwni-21siw.xo.je"
-    },
-    "iwnw-1knwni-21siw.xo.je/ye97bw999zb87t1u8i.php": {
-      "confidence": 0.85,
-      "date": "2026-10-14 14:35:57",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": "KONNI",
-      "suggested_tags": [
-        "c2",
-        "dprk",
-        "apt"
-      ],
-      "summary": "DPRK-linked KONNI C2 URL on a free hosting domain.",
-      "threat_type": "c2",
-      "tweet_id": "2110379084371067079",
-      "type": "url",
-      "value": "https://iwnw-1knwni-21siw.xo.je/YE97Bw999zB87t1U8i.php"
     },
     "ixyjb.com": {
       "confidence": 0.9,
@@ -66326,6 +65810,21 @@
       "type": "domain",
       "value": "mono-whatsapp.com"
     },
+    "monoxide.vip": {
+      "confidence": 0.8,
+      "date": "2026-10-22 06:29:10",
+      "enriched_at": "2026-11-13T18:40:04Z",
+      "family": "Monoxide RAT",
+      "suggested_tags": [
+        "rat",
+        "malware"
+      ],
+      "summary": "Monoxide RAT sample (MD5) with User-Agent MonoxideClient/1.0, tied to the monoxide.vip site plus Telegram and Discord channels used for distribution.",
+      "threat_type": "malware",
+      "tweet_id": "2110315829606687172",
+      "type": "domain",
+      "value": "monoxide.vip"
+    },
     "mootoo.ccwu.cc": {
       "confidence": 0.5,
       "date": "2026-11-10 21:11:22",
@@ -69138,24 +68637,6 @@
       "type": "domain",
       "value": "pregnantkha-jp.com"
     },
-    "presanis.com": {
-      "confidence": 0.8,
-      "date": "2026-10-14 17:53:20",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": "StealC",
-      "suggested_tags": [
-        "stealc",
-        "stealer",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "Signed EtherRAT sample dropping signed StealC; C2 and download infrastructure on presanis.com, csg-soft.com and glamour-studio.com.",
-      "threat_type": "malware",
-      "tweet_id": "2110428757622448500",
-      "type": "domain",
-      "value": "presanis.com"
-    },
     "prev-whatsapp.com": {
       "confidence": 0.6,
       "date": "2026-10-20 16:42:53",
@@ -71641,22 +71122,6 @@
       "tweet_id": "2117950517305655397",
       "type": "domain",
       "value": "s.aimi-aijia.com"
-    },
-    "s1z0j88g.onlinewebshop.net": {
-      "confidence": 0.75,
-      "date": "2026-10-14 13:06:47",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "kimsuky",
-        "apt",
-        "c2"
-      ],
-      "summary": "Kimsuky-attributed infrastructure on onlinewebshop.net subdomains, found via GitHub commit search.",
-      "threat_type": "c2",
-      "tweet_id": "2110356647654969441",
-      "type": "domain",
-      "value": "s1z0j88g.onlinewebshop.net"
     },
     "s3051017.s3.us-east-2.amazonaws.com": {
       "confidence": 0.55,
@@ -74297,34 +73762,6 @@
       "type": "domain",
       "value": "status.webstatici-whatsapp.com"
     },
-    "stellasallaku.com": {
-      "confidence": 0.85,
-      "date": "2026-10-14 13:39:43",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating the Japanese e-Plus service.",
-      "threat_type": "phishing",
-      "tweet_id": "2110364935297589439",
-      "type": "domain",
-      "value": "stellasallaku.com"
-    },
-    "stellasallaku.com/snnlubjh": {
-      "confidence": 0.85,
-      "date": "2026-10-14 13:39:43",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating the Japanese e-Plus service.",
-      "threat_type": "phishing",
-      "tweet_id": "2110364935297589439",
-      "type": "url",
-      "value": "https://stellasallaku.com/SnNluBjH/"
-    },
     "stinson.myssologin.com": {
       "confidence": 0.65,
       "date": "2026-10-16 20:01:26",
@@ -75396,36 +74833,6 @@
       "tweet_id": "2114511697109299233",
       "type": "url",
       "value": "https://styvlor.cfd/LOGIN/#/index"
-    },
-    "stzaeyv.click": {
-      "confidence": 0.9,
-      "date": "2026-10-14 14:55:23",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Smishing campaign targeting Italian taxpayers with a fake tax refund (730) lure leading to a phishing page.",
-      "threat_type": "phishing",
-      "tweet_id": "2110383976624083322",
-      "type": "domain",
-      "value": "stzaeyv.click"
-    },
-    "stzaeyv.click/check": {
-      "confidence": 0.9,
-      "date": "2026-10-14 14:55:23",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Smishing campaign targeting Italian taxpayers with a fake tax refund (730) lure leading to a phishing page.",
-      "threat_type": "phishing",
-      "tweet_id": "2110383976624083322",
-      "type": "url",
-      "value": "https://stzaeyv.click/check"
     },
     "subject-whatsapp.com": {
       "confidence": 0.65,
@@ -77951,22 +77358,6 @@
       "tweet_id": "2120162405950931347",
       "type": "url",
       "value": "https://u.pone.rs/iysmhikx.png"
-    },
-    "u0bfilhn.onlinewebshop.net": {
-      "confidence": 0.75,
-      "date": "2026-10-14 13:06:47",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "kimsuky",
-        "apt",
-        "c2"
-      ],
-      "summary": "Kimsuky-attributed infrastructure on onlinewebshop.net subdomains, found via GitHub commit search.",
-      "threat_type": "c2",
-      "tweet_id": "2110356647654969441",
-      "type": "domain",
-      "value": "u0bfilhn.onlinewebshop.net"
     },
     "ualf53oo.xyz": {
       "confidence": 0.85,
@@ -82014,20 +81405,6 @@
       "type": "url",
       "value": "https://yepemumi.z22.web.core.windows.net/tx06xof/"
     },
-    "yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion": {
-      "confidence": 0.9,
-      "date": "2026-10-14 14:02:59",
-      "enriched_at": "2026-11-13T00:40:04Z",
-      "family": "hyflock",
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "Leak site on Tor for a newly observed ransomware group named 'hyflock', reported by Barricade Cyber Solutions along with a contact email.",
-      "threat_type": "ransomware",
-      "tweet_id": "2110370790592168033",
-      "type": "domain",
-      "value": "yhgphvfgaecacgtlbn67u7yfhafe6evnj4gs4s2oyb3hzjnlhq45azqd.onion"
-    },
     "yjgift.com": {
       "confidence": 0.9,
       "date": "2026-10-21 01:57:21",
@@ -82462,36 +81839,6 @@
       "tweet_id": "2117488092571648420",
       "type": "url",
       "value": "https://zenithal.cfd/dsfdsgad/#/index"
-    },
-    "zewalegin.z43.web.core.windows.net": {
-      "confidence": 0.85,
-      "date": "2026-10-14 17:27:24",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Japanese-language report of tech-support scam phishing site hosted on Azure web.core.windows.net, advising not to call the listed phone number.",
-      "threat_type": "scam",
-      "tweet_id": "2110422231998403010",
-      "type": "domain",
-      "value": "zewalegin.z43.web.core.windows.net"
-    },
-    "zewalegin.z43.web.core.windows.net/riirrnn": {
-      "confidence": 0.85,
-      "date": "2026-10-14 17:27:24",
-      "enriched_at": "2026-10-14T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Japanese-language report of tech-support scam phishing site hosted on Azure web.core.windows.net, advising not to call the listed phone number.",
-      "threat_type": "scam",
-      "tweet_id": "2110422231998403010",
-      "type": "url",
-      "value": "https://zewalegin.z43.web.core.windows.net/riirrnn/"
     },
     "zgynkj.top": {
       "confidence": 0.9,
@@ -83063,6 +82410,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-13T12:40:04Z",
+  "generated_at": "2026-11-13T18:40:04Z",
   "window_days": 30
 }
