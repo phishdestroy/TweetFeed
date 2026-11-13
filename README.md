@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-13 06:45:17 (UTC)</th>
+        <th colspan=4>2026-11-13 07:00:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,10 +187,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 338 | 3154 | 43917 |
-| **:globe_with_meridians: Domains** | 0 | 253 | 2643 | 37788 |
-| **:triangular_flag_on_post: IPs** | 0 | 73 | 2204 | 7977 |
-| **:1234: SHA256** | 0 | 100 | 580 | 3283 |
+| **:link: URLs** | 5 | 343 | 3159 | 43922 |
+| **:globe_with_meridians: Domains** | 3 | 256 | 2646 | 37791 |
+| **:triangular_flag_on_post: IPs** | 2 | 75 | 2206 | 7979 |
+| **:1234: SHA256** | 1 | 101 | 581 | 3284 |
 | **:1234: MD5** | 0 | 14 | 115 | 2030 |
 
 </div>
@@ -229,7 +229,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [-](https://x.com/-) | 0 |
+| **#1** | [bomccss](https://x.com/bomccss) | 11 |
 | **#2** | [-](https://x.com/-) | 0 |
 | **#3** | [-](https://x.com/-) | 0 |
 | **#4** | [-](https://x.com/-) | 0 |
