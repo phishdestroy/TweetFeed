@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-14 21:00:26 (UTC)</th>
+        <th colspan=4>2026-11-14 21:15:28 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,8 +187,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 27 | 494 | 3250 | 44005 |
-| **:globe_with_meridians: Domains** | 22 | 346 | 2695 | 37833 |
+| **:link: URLs** | 28 | 495 | 3251 | 44006 |
+| **:globe_with_meridians: Domains** | 23 | 347 | 2696 | 37834 |
 | **:triangular_flag_on_post: IPs** | 23 | 299 | 2415 | 8196 |
 | **:1234: SHA256** | 4 | 131 | 597 | 3315 |
 | **:1234: MD5** | 5 | 26 | 126 | 2029 |
@@ -238,7 +238,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#7** | [PhishStats](https://x.com/PhishStats) | 5 |
 | **#8** | [patialavii](https://x.com/patialavii) | 4 |
 | **#9** | [chris_uk2026](https://x.com/chris_uk2026) | 4 |
-| **#10** | [oroshi0064](https://x.com/oroshi0064) | 2 |
+| **#10** | [skocherhan](https://x.com/skocherhan) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>

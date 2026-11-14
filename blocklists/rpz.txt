@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2586
-; Updated: 2026-11-14T21:00:25Z
+; Entries: 2587
+; Updated: 2026-11-14T21:15:28Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794690025 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794690928 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3458,6 +3458,8 @@ pageweb-whatsapp.com CNAME .
 *.pageweb-whatsapp.com CNAME .
 pagina-clientes-havan.com CNAME .
 *.pagina-clientes-havan.com CNAME .
+pah.com.my CNAME .
+*.pah.com.my CNAME .
 pairing.webstatici-whatsapp.com CNAME .
 *.pairing.webstatici-whatsapp.com CNAME .
 paiwdlasd.com CNAME .
