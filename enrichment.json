@@ -1,5 +1,5 @@
 {
-  "count": 5800,
+  "count": 5793,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -864,6 +864,20 @@
       "tweet_id": "2117654568360099853",
       "type": "ip",
       "value": "102.220.161.143"
+    },
+    "102.220.163.152": {
+      "confidence": 0.9,
+      "date": "2026-10-22 06:01:09",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing campaign impersonating Orico, hosted on IP 102.220.163.152.",
+      "threat_type": "phishing",
+      "tweet_id": "2113148635198505200",
+      "type": "url",
+      "value": "http://102.220.163.152"
     },
     "102.220.163.36": {
       "confidence": 0.8,
@@ -4241,18 +4255,6 @@
       "type": "ip",
       "value": "115.191.32.57"
     },
-    "115.227.62.135": {
-      "confidence": 0.6,
-      "date": "2026-10-15 13:00:22",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Eight IPs flagged on behavior only: active exploitation, command injection, path traversal, WordPress enumeration and credential-file probing.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2110717418427289602",
-      "type": "ip",
-      "value": "115.227.62.135"
-    },
     "115.28.131.73": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -5093,6 +5095,21 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "130.94.59.214"
+    },
+    "130.94.62.21": {
+      "confidence": 0.7,
+      "date": "2026-11-14 13:44:20",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "rat"
+      ],
+      "summary": "RAT C2 panel exposed on 130.94.62.21 port 8080.",
+      "threat_type": "c2",
+      "tweet_id": "2121600121033175232",
+      "type": "ip",
+      "value": "130.94.62.21"
     },
     "1300762.us8.myftpupload.com": {
       "confidence": 0.8,
@@ -8169,22 +8186,6 @@
       "type": "ip",
       "value": "152.53.53.142"
     },
-    "153.52.111.134": {
-      "confidence": 0.7,
-      "date": "2026-10-15 14:29:12",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware",
-        "rat"
-      ],
-      "summary": "HVNC C2 panel infrastructure: two IPs on port 8080 and a domain, plus an associated sample hash.",
-      "threat_type": "c2",
-      "tweet_id": "2110739774449602637",
-      "type": "ip",
-      "value": "153.52.111.134"
-    },
     "153.52.111.244": {
       "confidence": 0.7,
       "date": "2026-10-18 18:30:00",
@@ -8213,20 +8214,6 @@
       "tweet_id": "2111873443398287762",
       "type": "ip",
       "value": "153.52.111.73"
-    },
-    "153.52.255.25": {
-      "confidence": 0.8,
-      "date": "2026-11-10 08:49:37",
-      "enriched_at": "2026-11-10T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site hubfeedback.com hosted at 153.52.255.25 on Railway (AS400940), United States.",
-      "threat_type": "phishing",
-      "tweet_id": "2120076398950040023",
-      "type": "ip",
-      "value": "153.52.255.25"
     },
     "153.56.168.27": {
       "confidence": 0.7,
@@ -8615,18 +8602,6 @@
       "tweet_id": "2112877068421898549",
       "type": "url",
       "value": "http://155.117.98.165:8888"
-    },
-    "155.254.105.7": {
-      "confidence": 0.6,
-      "date": "2026-10-15 13:00:22",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Eight IPs flagged on behavior only: active exploitation, command injection, path traversal, WordPress enumeration and credential-file probing.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2110717418427289602",
-      "type": "ip",
-      "value": "155.254.105.7"
     },
     "156.225.64.112": {
       "confidence": 0.9,
@@ -9980,30 +9955,6 @@
       "type": "ip",
       "value": "165.154.253.72"
     },
-    "165.154.40.79": {
-      "confidence": 0.6,
-      "date": "2026-10-15 13:00:22",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Eight IPs flagged on behavior only: active exploitation, command injection, path traversal, WordPress enumeration and credential-file probing.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2110717418427289602",
-      "type": "ip",
-      "value": "165.154.40.79"
-    },
-    "165.154.72.56": {
-      "confidence": 0.6,
-      "date": "2026-10-15 13:00:22",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Eight IPs flagged on behavior only: active exploitation, command injection, path traversal, WordPress enumeration and credential-file probing.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2110717418427289602",
-      "type": "ip",
-      "value": "165.154.72.56"
-    },
     "165.227.188.167": {
       "confidence": 0.8,
       "date": "2026-10-26 09:56:27",
@@ -10911,22 +10862,6 @@
       "type": "ip",
       "value": "173.211.81.11"
     },
-    "173.230.135.57": {
-      "confidence": 0.7,
-      "date": "2026-10-15 14:18:10",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware",
-        "rat"
-      ],
-      "summary": "HVNC C2 panel hosted at one IP with sslip.io subdomains for hvnc2 and relay services.",
-      "threat_type": "c2",
-      "tweet_id": "2110736998592024754",
-      "type": "ip",
-      "value": "173.230.135.57"
-    },
     "173.231.228.246": {
       "confidence": 0.85,
       "date": "2026-10-22 13:46:19",
@@ -11407,22 +11342,6 @@
       "type": "sha256",
       "value": "17cf22f3fd0f5189856bb2f5ba91bb4b05838f3a19f5d25f81ee3bccccb8c19e"
     },
-    "18.166.30.239": {
-      "confidence": 0.7,
-      "date": "2026-10-15 14:29:12",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware",
-        "rat"
-      ],
-      "summary": "HVNC C2 panel infrastructure: two IPs on port 8080 and a domain, plus an associated sample hash.",
-      "threat_type": "c2",
-      "tweet_id": "2110739774449602637",
-      "type": "ip",
-      "value": "18.166.30.239"
-    },
     "18.177.252.41": {
       "confidence": 0.7,
       "date": "2026-11-02 08:45:47",
@@ -11737,20 +11656,6 @@
       "type": "ip",
       "value": "184.174.97.127"
     },
-    "185.100.85.146": {
-      "confidence": 0.9,
-      "date": "2026-10-15 14:23:52",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": "The Seven Deadly Sins",
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "Leak site of The Seven Deadly Sins ransomware group on Tor with an associated IP, listing seven victims.",
-      "threat_type": "ransomware",
-      "tweet_id": "2110738432918237247",
-      "type": "url",
-      "value": "http://185.100.85.146"
-    },
     "185.122.171.146": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -11916,18 +11821,6 @@
       "type": "ip",
       "value": "185.177.72.51"
     },
-    "185.177.72.81": {
-      "confidence": 0.6,
-      "date": "2026-10-15 13:00:22",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Eight IPs flagged on behavior only: active exploitation, command injection, path traversal, WordPress enumeration and credential-file probing.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2110717418427289602",
-      "type": "ip",
-      "value": "185.177.72.81"
-    },
     "185.18.215.184": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -11969,18 +11862,6 @@
       "tweet_id": "2114040446808736010",
       "type": "url",
       "value": "http://185.193.125.201"
-    },
-    "185.194.178.73": {
-      "confidence": 0.6,
-      "date": "2026-10-15 13:00:22",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Eight IPs flagged on behavior only: active exploitation, command injection, path traversal, WordPress enumeration and credential-file probing.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2110717418427289602",
-      "type": "ip",
-      "value": "185.194.178.73"
     },
     "185.194.178.92": {
       "confidence": 0.5,
@@ -12045,6 +11926,20 @@
       "tweet_id": "2114635140609577151",
       "type": "ip",
       "value": "185.239.48.112"
+    },
+    "185.247.118.172": {
+      "confidence": 0.65,
+      "date": "2026-11-14 13:25:22",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "C2 panel infrastructure on two IPs, one with a cprapid.com hostname; malware family not specified.",
+      "threat_type": "c2",
+      "tweet_id": "2121595345633432052",
+      "type": "ip",
+      "value": "185.247.118.172"
     },
     "185.254.198.90": {
       "confidence": 0.45,
@@ -12118,18 +12013,6 @@
       "tweet_id": "2118432402015948849",
       "type": "ip",
       "value": "185.66.91.112"
-    },
-    "185.66.91.5": {
-      "confidence": 0.6,
-      "date": "2026-10-15 13:00:22",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Eight IPs flagged on behavior only: active exploitation, command injection, path traversal, WordPress enumeration and credential-file probing.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2110717418427289602",
-      "type": "ip",
-      "value": "185.66.91.5"
     },
     "186.240.201.181": {
       "confidence": 0.4,
@@ -13085,6 +12968,20 @@
       "tweet_id": "2114657401773400431",
       "type": "ip",
       "value": "195.182.16.23"
+    },
+    "195.20.115.80": {
+      "confidence": 0.8,
+      "date": "2026-11-14 13:54:24",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": "Naymus",
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Naymus C2 panel exposed on 195.20.115.80 port 8000.",
+      "threat_type": "c2",
+      "tweet_id": "2121602654317199513",
+      "type": "ip",
+      "value": "195.20.115.80"
     },
     "195.66.213.5": {
       "confidence": 0.45,
@@ -14085,6 +13982,20 @@
       "tweet_id": "2118810305870655976",
       "type": "url",
       "value": "http://201.3.225.56"
+    },
+    "202.10.35.251": {
+      "confidence": 0.65,
+      "date": "2026-11-14 13:25:22",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "C2 panel infrastructure on two IPs, one with a cprapid.com hostname; malware family not specified.",
+      "threat_type": "c2",
+      "tweet_id": "2121595345633432052",
+      "type": "ip",
+      "value": "202.10.35.251"
     },
     "202.125.66.58": {
       "confidence": 0.5,
@@ -15355,20 +15266,6 @@
       "tweet_id": "2116036561741533449",
       "type": "ip",
       "value": "213.186.33.19"
-    },
-    "216.150.1.129": {
-      "confidence": 0.9,
-      "date": "2026-11-09 08:01:17",
-      "enriched_at": "2026-11-09T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Google-themed phishing site my-settings-google.com registered 2026-11-02, hosted at 216.150.1.129 on AWS.",
-      "threat_type": "phishing",
-      "tweet_id": "2119701847304794253",
-      "type": "ip",
-      "value": "216.150.1.129"
     },
     "216.203.20.126": {
       "confidence": 0.45,
@@ -28244,18 +28141,6 @@
       "type": "ip",
       "value": "45.138.12.24"
     },
-    "45.138.12.34": {
-      "confidence": 0.6,
-      "date": "2026-10-15 13:00:22",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Eight IPs flagged on behavior only: active exploitation, command injection, path traversal, WordPress enumeration and credential-file probing.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2110717418427289602",
-      "type": "ip",
-      "value": "45.138.12.34"
-    },
     "45.140.193.140": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -29328,6 +29213,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "47.77.204.57"
+    },
+    "47.79.33.3": {
+      "confidence": 0.9,
+      "date": "2026-10-16 06:49:21",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese Amazon phishing site hosted on IP 47.79.33.3.",
+      "threat_type": "phishing",
+      "tweet_id": "2110986438565388744",
+      "type": "url",
+      "value": "http://47.79.33.3"
     },
     "47.79.90.89": {
       "confidence": 0.85,
@@ -31475,20 +31374,6 @@
       "type": "ip",
       "value": "64.226.84.77"
     },
-    "64.29.17.195": {
-      "confidence": 0.85,
-      "date": "2026-11-08 18:36:56",
-      "enriched_at": "2026-11-09T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "WhatsApp phishing: shamcash-mu.vercel.app and web-cn-whatsapp.com, hosted on 64.29.17.195 and 45.207.194.93 respectively.",
-      "threat_type": "phishing",
-      "tweet_id": "2119499428566548799",
-      "type": "url",
-      "value": "http://64.29.17.195"
-    },
     "64.64.255.170": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -32927,6 +32812,20 @@
       "tweet_id": "2111518134377250829",
       "type": "url",
       "value": "http://79.110.49.17"
+    },
+    "79.112.153.148": {
+      "confidence": 0.9,
+      "date": "2026-11-14 16:01:48",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page on compromised WordPress site lapaca.webdirecto.com impersonating Adobe, hosted on a Spanish IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2121634712963907929",
+      "type": "ip",
+      "value": "79.112.153.148"
     },
     "79.124.58.82": {
       "confidence": 0.5,
@@ -35824,6 +35723,20 @@
       "type": "ip",
       "value": "94.154.172.98"
     },
+    "94.156.114.17": {
+      "confidence": 0.8,
+      "date": "2026-11-14 13:52:56",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": "Gland",
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Gland C2 panel exposed on 94.156.114.17 port 8888.",
+      "threat_type": "c2",
+      "tweet_id": "2121602283410760132",
+      "type": "ip",
+      "value": "94.156.114.17"
+    },
     "94.183.151.83": {
       "confidence": 0.8,
       "date": "2026-10-30 10:29:51",
@@ -35867,6 +35780,21 @@
       "tweet_id": "2116133593344831805",
       "type": "url",
       "value": "http://94.183.188.14"
+    },
+    "94.72.107.12": {
+      "confidence": 0.7,
+      "date": "2026-11-14 13:45:19",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "rat"
+      ],
+      "summary": "RAT C2 panel exposed on 94.72.107.12 port 5000.",
+      "threat_type": "c2",
+      "tweet_id": "2121600367184187557",
+      "type": "ip",
+      "value": "94.72.107.12"
     },
     "95.130.227.78": {
       "confidence": 0.5,
@@ -36722,6 +36650,22 @@
       "tweet_id": "2112166797357064511",
       "type": "sha256",
       "value": "a692fb942dd967e142e1b47e49b5d1a0216e0f5ee1cb387b8567117875705a75"
+    },
+    "a69452e56c7ec55b99e5b5ea24a35b299689c959ea4db02a435f304373b1c34e": {
+      "confidence": 0.8,
+      "date": "2026-11-14 00:22:10",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "android"
+      ],
+      "summary": "Phishing site impersonating Sumitomo Mitsui Card (Japan) distributing an Android malware app from rawchocolate-jp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2121398249370313052",
+      "type": "sha256",
+      "value": "a69452e56c7ec55b99e5b5ea24a35b299689c959ea4db02a435f304373b1c34e"
     },
     "a6daef4e405c885be6cc171bd5273786": {
       "confidence": 0.7,
@@ -38457,6 +38401,22 @@
       "type": "url",
       "value": "http://anaconadministradora.com.br/yueud/hhhh.php"
     },
+    "analhos.com": {
+      "confidence": 0.8,
+      "date": "2026-11-14 00:12:27",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "android"
+      ],
+      "summary": "Phishing site impersonating Rakuten (Japan) distributing an Android malware app from analhos.com.",
+      "threat_type": "malware",
+      "tweet_id": "2121395803336089900",
+      "type": "domain",
+      "value": "analhos.com"
+    },
     "anc-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -39481,6 +39441,22 @@
       "tweet_id": "2118388695711817735",
       "type": "domain",
       "value": "app.aespdf.com"
+    },
+    "app.freelance-levtech.info": {
+      "confidence": 0.8,
+      "date": "2026-11-14 16:08:32",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "android"
+      ],
+      "summary": "Phishing site impersonating Levtech Freelance distributing an Android malware app; domain app.freelance-levtech.info.",
+      "threat_type": "malware",
+      "tweet_id": "2121636410235158985",
+      "type": "domain",
+      "value": "app.freelance-levtech.info"
     },
     "app.keplr.to": {
       "confidence": 0.8,
@@ -42776,22 +42752,6 @@
       "tweet_id": "2117956883139252716",
       "type": "sha256",
       "value": "b64a03b41ad609ecb9dff0dc4630e548f50f154e231d43c64019b4db5e7d3727"
-    },
-    "b72621a39f52e37076f3444683caf62e6c9e9b78bbd0d51be469f100d37f475d": {
-      "confidence": 0.7,
-      "date": "2026-10-15 14:29:12",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware",
-        "rat"
-      ],
-      "summary": "HVNC C2 panel infrastructure: two IPs on port 8080 and a domain, plus an associated sample hash.",
-      "threat_type": "c2",
-      "tweet_id": "2110739774449602637",
-      "type": "sha256",
-      "value": "b72621a39f52e37076f3444683caf62e6c9e9b78bbd0d51be469f100d37f475d"
     },
     "b72c09f181e67e3c570e868bff79870fbac2681588b17e376fbd9d8365f9542d": {
       "confidence": 0.8,
@@ -46974,6 +46934,22 @@
       "type": "sha256",
       "value": "c7522282e3cd0da4b9e1f1fd056361ed9b4ee40c695aa4148542016d2b0c04ba"
     },
+    "c7f9ed3d6cda7e15a4a532e7eff76318bd3efea75bb823cf2d14ef1b68c6f232": {
+      "confidence": 0.8,
+      "date": "2026-11-14 00:12:27",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "android"
+      ],
+      "summary": "Phishing site impersonating Rakuten (Japan) distributing an Android malware app from analhos.com.",
+      "threat_type": "malware",
+      "tweet_id": "2121395803336089900",
+      "type": "sha256",
+      "value": "c7f9ed3d6cda7e15a4a532e7eff76318bd3efea75bb823cf2d14ef1b68c6f232"
+    },
     "c80ff80822680c238962ee1e0bd293a36e739d6cbddee65545c3556476889ed1": {
       "confidence": 0.8,
       "date": "2026-11-08 23:49:08",
@@ -47637,20 +47613,6 @@
       "tweet_id": "2118996705429635435",
       "type": "url",
       "value": "https://cb-woiuuasd.com/downcb"
-    },
-    "cb1ae1ed0a7b6fd0ed47301c1738bd7233b7142c88e632ec64f0fa92f376b4f5": {
-      "confidence": 0.55,
-      "date": "2026-10-15 18:17:18",
-      "enriched_at": "2026-10-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malware sample 'svchost.exe' seen from Germany on MalwareBazaar, using api.telegram.org for communication.",
-      "threat_type": "malware",
-      "tweet_id": "2110797179413557586",
-      "type": "sha256",
-      "value": "cb1ae1ed0a7b6fd0ed47301c1738bd7233b7142c88e632ec64f0fa92f376b4f5"
     },
     "cbc7daf17c4feded3d25c3116e0c27ceda94268d1eb73ba65299b4fdd9d83ef6": {
       "confidence": 0.5,
@@ -52707,20 +52669,6 @@
       "type": "domain",
       "value": "docusignappinstalle.help"
     },
-    "docusignappinstallers.help": {
-      "confidence": 0.8,
-      "date": "2026-10-15 13:50:23",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": "FleetDeck",
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Newly registered DocuSign-themed domain delivering the FleetDeck RMM tool as a payload.",
-      "threat_type": "phishing",
-      "tweet_id": "2110730004028170459",
-      "type": "domain",
-      "value": "docusignappinstallers.help"
-    },
     "docuxsign.com": {
       "confidence": 0.8,
       "date": "2026-11-08 20:52:20",
@@ -52863,20 +52811,6 @@
       "tweet_id": "2113751077426249995",
       "type": "domain",
       "value": "download.youlovemybiba.com"
-    },
-    "download1078.mediafire.com": {
-      "confidence": 0.45,
-      "date": "2026-11-10 18:59:23",
-      "enriched_at": "2026-11-11T00:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious ZIP archive hosted on a MediaFire download URL, uploaded to MalwareBazaar; family not identified.",
-      "threat_type": "malware",
-      "tweet_id": "2120229854515806406",
-      "type": "domain",
-      "value": "download1078.mediafire.com"
     },
     "download1078.mediafire.com/q7dbmzhwi2ggshfriqtc29mmlc43a44-ym45l6rb1rgxxlaryvok58ah-zmvhfdj9vnjasohjxbb_dljpgkih9lldzh8ngcfknheqpyvykiyzzyo1dz5xojtosjo1_yylrhl-qnvrs67mpjutdu0_hzzreqnaw4ufjn-vmwspk_ks8q/rpyqej595l7sjfj/20250627752690121_bikm3d_135112_actgmkzqn_vig.zip": {
       "confidence": 0.45,
@@ -54779,21 +54713,6 @@
       "tweet_id": "2111427256992034933",
       "type": "url",
       "value": "http://f005.backblazeb2.com/file/yttyytg/xfinityyyy.comcky.html"
-    },
-    "f006.backblazeb2.com": {
-      "confidence": 0.6,
-      "date": "2026-11-10 22:53:11",
-      "enriched_at": "2026-11-11T00:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malware sample 'zra091jn.exe' downloaded from a Backblaze B2 URL disguised as .jpg; communicates with C2 at 216.203.20.126:10443 over TCP.",
-      "threat_type": "c2",
-      "tweet_id": "2120288690178306511",
-      "type": "domain",
-      "value": "f006.backblazeb2.com"
     },
     "f006.backblazeb2.com/file/nlptntpx/zra091jn.jpg": {
       "confidence": 0.6,
@@ -60087,34 +60006,6 @@
       "type": "domain",
       "value": "httpcdn-whatsapp.com"
     },
-    "https--www--roblox.com": {
-      "confidence": 0.9,
-      "date": "2026-10-15 17:01:27",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Roblox credential phishing page on a lookalike hostname behind Cloudflare, with a login path and returnUrl parameter.",
-      "threat_type": "phishing",
-      "tweet_id": "2110778091257696295",
-      "type": "domain",
-      "value": "https--www--roblox.com"
-    },
-    "https--www--roblox.com/login?returnurl=1717572407": {
-      "confidence": 0.9,
-      "date": "2026-10-15 17:01:27",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Roblox credential phishing page on a lookalike hostname behind Cloudflare, with a login path and returnUrl parameter.",
-      "threat_type": "phishing",
-      "tweet_id": "2110778091257696295",
-      "type": "url",
-      "value": "http://https--www--roblox.com/login?returnUrl=1717572407"
-    },
     "httpsrv-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -62729,6 +62620,34 @@
       "type": "url",
       "value": "https://ladygirl-series.com/downcb"
     },
+    "lapaca.webdirecto.com": {
+      "confidence": 0.9,
+      "date": "2026-11-14 16:01:48",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page on compromised WordPress site lapaca.webdirecto.com impersonating Adobe, hosted on a Spanish IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2121634712963907929",
+      "type": "domain",
+      "value": "lapaca.webdirecto.com"
+    },
+    "lapaca.webdirecto.com/wp-includes/text/tdweain/yogsqwj/gmehpir/ggg/adobe/adobe.html": {
+      "confidence": 0.9,
+      "date": "2026-11-14 16:01:48",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page on compromised WordPress site lapaca.webdirecto.com impersonating Adobe, hosted on a Spanish IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2121634712963907929",
+      "type": "url",
+      "value": "https://lapaca.webdirecto.com/wp-includes/Text/tdweain/yogsqwj/gmehpir/ggg/adobe/adobe.html"
+    },
     "latest-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -63123,20 +63042,6 @@
       "tweet_id": "2115526217537298573",
       "type": "domain",
       "value": "link-ledger.at"
-    },
-    "link24.kr": {
-      "confidence": 0.45,
-      "date": "2026-11-10 03:51:54",
-      "enriched_at": "2026-11-10T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "apt"
-      ],
-      "summary": "Short link lure with crypto/finance-themed Korean document names, tagged APT, likely delivering a VBS payload with password text file; probable DPRK-linked activity.",
-      "threat_type": "malware",
-      "tweet_id": "2120001475292385563",
-      "type": "domain",
-      "value": "link24.kr"
     },
     "link24.kr/4bkxcsc": {
       "confidence": 0.45,
@@ -67211,48 +67116,6 @@
       "type": "domain",
       "value": "owyweb-whatsapp.com"
     },
-    "oxooxmnl67z5t5cctt3uw7ukqoy6k7kr6x5vn2yyhcfpbuj5ddq2hjid.onion": {
-      "confidence": 0.9,
-      "date": "2026-10-15 14:27:03",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": "0x00",
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "New leak site for the 0x00 ransomware group on a Tor onion address, listing one victim.",
-      "threat_type": "ransomware",
-      "tweet_id": "2110739233795408142",
-      "type": "domain",
-      "value": "oxooxmnl67z5t5cctt3uw7ukqoy6k7kr6x5vn2yyhcfpbuj5ddq2hjid.onion"
-    },
-    "p581488.pro": {
-      "confidence": 0.85,
-      "date": "2026-10-15 14:07:05",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "French-language parcel delivery (suivi/livraison) phishing page behind Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2110734210080063575",
-      "type": "domain",
-      "value": "p581488.pro"
-    },
-    "p581488.pro/suivi/32288768/livraison": {
-      "confidence": 0.85,
-      "date": "2026-10-15 14:07:05",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "French-language parcel delivery (suivi/livraison) phishing page behind Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2110734210080063575",
-      "type": "url",
-      "value": "https://p581488.pro/suivi/32288768/livraison"
-    },
     "pageweb-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -67614,6 +67477,24 @@
       "tweet_id": "2115628711609606596",
       "type": "domain",
       "value": "pew9862l.onlinewebshop.net"
+    },
+    "pharaohkit.cloud": {
+      "confidence": 0.85,
+      "date": "2026-11-13 21:34:39",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": "SeifzxRAT",
+      "suggested_tags": [
+        "c2",
+        "rat",
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "SeifzxRAT, a new macOS stealer/RAT targeting wallets, browser credentials and keychain; C2 panel at pharaohkit.cloud.",
+      "threat_type": "c2",
+      "tweet_id": "2121351820308271290",
+      "type": "domain",
+      "value": "pharaohkit.cloud"
     },
     "pharmalog-api-f7hvbrcfdgfjgrcg.z01.azurefd.net": {
       "confidence": 0.35,
@@ -69435,6 +69316,22 @@
       "type": "url",
       "value": "https://raw.githubusercontent.com/LirindAdams/bigfoxtrot999/refs/heads/main/update-bs.dbf"
     },
+    "rawchocolate-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-14 00:22:10",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "android"
+      ],
+      "summary": "Phishing site impersonating Sumitomo Mitsui Card (Japan) distributing an Android malware app from rawchocolate-jp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2121398249370313052",
+      "type": "domain",
+      "value": "rawchocolate-jp.com"
+    },
     "rdtds.net": {
       "confidence": 0.8,
       "date": "2026-10-18 19:30:46",
@@ -70963,6 +70860,34 @@
       "type": "domain",
       "value": "scan.webstatici-whatsapp.com"
     },
+    "scanned.page": {
+      "confidence": 0.85,
+      "date": "2026-11-14 00:47:18",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page hosted on scanned.page behind Cloudflare; no brand identified.",
+      "threat_type": "phishing",
+      "tweet_id": "2121404572862452064",
+      "type": "domain",
+      "value": "scanned.page"
+    },
+    "scanned.page/p/3ohzcy?id=nkuyv79qj7": {
+      "confidence": 0.85,
+      "date": "2026-11-14 00:47:18",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page hosted on scanned.page behind Cloudflare; no brand identified.",
+      "threat_type": "phishing",
+      "tweet_id": "2121404572862452064",
+      "type": "url",
+      "value": "https://scanned.page/p/3OhzCy?id=nkuyv79qJ7"
+    },
     "scarlettgugldabhgz3uertpnxglxytddxbd5vnoma5pihfk6k5q2sid.onion": {
       "confidence": 0.85,
       "date": "2026-10-16 15:03:22",
@@ -72398,6 +72323,34 @@
       "type": "url",
       "value": "https://short.do/AwygVX#aaaa@example.jp"
     },
+    "sidflow.cfd": {
+      "confidence": 0.9,
+      "date": "2026-11-14 07:48:43",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating SBI Securities (Japan) at sidflow.cfd.",
+      "threat_type": "phishing",
+      "tweet_id": "2121510626992517438",
+      "type": "domain",
+      "value": "sidflow.cfd"
+    },
+    "sidflow.cfd/ljni/#/index": {
+      "confidence": 0.9,
+      "date": "2026-11-14 07:48:43",
+      "enriched_at": "2026-11-14T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating SBI Securities (Japan) at sidflow.cfd.",
+      "threat_type": "phishing",
+      "tweet_id": "2121510626992517438",
+      "type": "url",
+      "value": "https://sidflow.cfd/LJNI/#/index"
+    },
     "signal-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -72458,20 +72411,6 @@
       "tweet_id": "2106293721159582168",
       "type": "domain",
       "value": "simplegastronomy.com"
-    },
-    "sinsp6ibw32abbcoagbjwetgm2w56u7tr4izy3xzp7ehqoenxvdd3qyd.onion": {
-      "confidence": 0.9,
-      "date": "2026-10-15 14:23:52",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": "The Seven Deadly Sins",
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "Leak site of The Seven Deadly Sins ransomware group on Tor with an associated IP, listing seven victims.",
-      "threat_type": "ransomware",
-      "tweet_id": "2110738432918237247",
-      "type": "domain",
-      "value": "sinsp6ibw32abbcoagbjwetgm2w56u7tr4izy3xzp7ehqoenxvdd3qyd.onion"
     },
     "sivthara.cfd": {
       "confidence": 0.9,
@@ -76795,21 +76734,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "two-step.webapi-whatsapp.com"
-    },
-    "u.pone.rs": {
-      "confidence": 0.55,
-      "date": "2026-11-10 14:31:22",
-      "enriched_at": "2026-11-10T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malware sample 'Zoom1111 zip' fetching a payload from a PNG URL and communicating with C2 excerpthub.com on TCP port 7979; seen from the UAE.",
-      "threat_type": "malware",
-      "tweet_id": "2120162405950931347",
-      "type": "domain",
-      "value": "u.pone.rs"
     },
     "u.pone.rs/iysmhikx.png": {
       "confidence": 0.55,
@@ -81736,6 +81660,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-14T12:40:04Z",
+  "generated_at": "2026-11-14T18:40:04Z",
   "window_days": 30
 }
