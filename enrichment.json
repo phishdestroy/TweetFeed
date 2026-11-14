@@ -1,5 +1,5 @@
 {
-  "count": 5845,
+  "count": 5800,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -864,20 +864,6 @@
       "tweet_id": "2117654568360099853",
       "type": "ip",
       "value": "102.220.161.143"
-    },
-    "102.220.163.152": {
-      "confidence": 0.9,
-      "date": "2026-10-15 07:13:22",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "SMBC-branded phishing targeting Japanese users on essentialkneadsforhealth.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2110630094586945639",
-      "type": "url",
-      "value": "http://102.220.163.152"
     },
     "102.220.163.36": {
       "confidence": 0.8,
@@ -3868,21 +3854,6 @@
       "type": "url",
       "value": "http://109.107.170.185"
     },
-    "109.110.184.230": {
-      "confidence": 0.7,
-      "date": "2026-10-15 08:25:29",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": "WEBSPY",
-      "suggested_tags": [
-        "rat",
-        "c2"
-      ],
-      "summary": "Multiple IPs on port 3000 reported as WEBSPY RAT panel infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2110648242555998566",
-      "type": "ip",
-      "value": "109.110.184.230"
-    },
     "109.120.139.126": {
       "confidence": 0.5,
       "date": "2026-10-29 11:54:20",
@@ -5005,6 +4976,20 @@
       "tweet_id": "2111055796700364831",
       "type": "ip",
       "value": "13.250.128.77"
+    },
+    "130.12.180.32": {
+      "confidence": 0.7,
+      "date": "2026-10-21 13:37:23",
+      "enriched_at": "2026-11-14T00:40:05Z",
+      "family": "PHP2SHELL",
+      "suggested_tags": [
+        "php2shell"
+      ],
+      "summary": "IP flagged as actively attempting opportunistic exploitation tied to PHP2SHELL, shared from a list of exploitation IPs in a threat detection feed.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2112901061375656068",
+      "type": "ip",
+      "value": "130.12.180.32"
     },
     "130.211.106.14": {
       "confidence": 0.5,
@@ -7578,6 +7563,20 @@
       "type": "url",
       "value": "http://146.103.100.148:7777/login"
     },
+    "146.103.126.75": {
+      "confidence": 0.6,
+      "date": "2026-11-14 11:22:18",
+      "enriched_at": "2026-11-14T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "List of IPs and a domain tagged as C2 panel infrastructure by a community researcher; malware family not identified.",
+      "threat_type": "c2",
+      "tweet_id": "2121564375391879286",
+      "type": "ip",
+      "value": "146.103.126.75"
+    },
     "146.148.122.37": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -8258,38 +8257,6 @@
       "type": "url",
       "value": "http://153.56.168.27/xatli/login.php"
     },
-    "153.75.247.94": {
-      "confidence": 0.7,
-      "date": "2026-10-14 21:59:13",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "c2",
-        "malware"
-      ],
-      "summary": "New WebSockets backdoor likely targeting Iraq, with a staging server at 153.75.247.94:80 and a C2 at www.xionamiconm.com:8050/ws/.",
-      "threat_type": "c2",
-      "tweet_id": "2110490637070111188",
-      "type": "ip",
-      "value": "153.75.247.94"
-    },
-    "153.75.247.94:80": {
-      "confidence": 0.7,
-      "date": "2026-10-14 21:59:13",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "c2",
-        "malware"
-      ],
-      "summary": "New WebSockets backdoor likely targeting Iraq, with a staging server at 153.75.247.94:80 and a C2 at www.xionamiconm.com:8050/ws/.",
-      "threat_type": "c2",
-      "tweet_id": "2110490637070111188",
-      "type": "url",
-      "value": "http://153.75.247.94:80"
-    },
     "153.75.82.143": {
       "confidence": 0.75,
       "date": "2026-10-19 20:05:08",
@@ -8333,21 +8300,6 @@
       "tweet_id": "2116011833954103304",
       "type": "ip",
       "value": "153.75.86.243"
-    },
-    "154.12.28.225": {
-      "confidence": 0.7,
-      "date": "2026-10-15 08:25:29",
-      "enriched_at": "2026-10-24T00:40:04Z",
-      "family": "WEBSPY",
-      "suggested_tags": [
-        "rat",
-        "c2"
-      ],
-      "summary": "WEBSPY RAT panel hosted on 154.12.28.225:3000 among several similar panel IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2110648242555998566",
-      "type": "ip",
-      "value": "154.12.28.225"
     },
     "154.12.63.32": {
       "confidence": 0.5,
@@ -9418,20 +9370,6 @@
       "tweet_id": "2119845581166457185",
       "type": "url",
       "value": "http://159.195.215.68"
-    },
-    "159.203.10.105": {
-      "confidence": 0.55,
-      "date": "2026-10-15 09:24:00",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Two IPs reported as C2 panel infrastructure; no malware family identified.",
-      "threat_type": "c2",
-      "tweet_id": "2110662967138161060",
-      "type": "ip",
-      "value": "159.203.10.105"
     },
     "159.223.238.117": {
       "confidence": 0.9,
@@ -10733,20 +10671,6 @@
       "type": "ip",
       "value": "172.105.109.85"
     },
-    "172.232.183.23": {
-      "confidence": 0.55,
-      "date": "2026-10-15 09:24:00",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Two IPs reported as C2 panel infrastructure; no malware family identified.",
-      "threat_type": "c2",
-      "tweet_id": "2110662967138161060",
-      "type": "ip",
-      "value": "172.232.183.23"
-    },
     "172.232.203.210": {
       "confidence": 0.6,
       "date": "2026-10-26 08:45:00",
@@ -11303,21 +11227,6 @@
       "type": "url",
       "value": "http://177.201.232.163:2580"
     },
-    "177.3.217.250": {
-      "confidence": 0.7,
-      "date": "2026-10-15 08:35:00",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": "EuroRAT",
-      "suggested_tags": [
-        "rat",
-        "c2"
-      ],
-      "summary": "IP address reported as EuroRAT panel infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2110650635863335380",
-      "type": "ip",
-      "value": "177.3.217.250"
-    },
     "177.3.43.43": {
       "confidence": 0.9,
       "date": "2026-10-31 17:07:45",
@@ -11347,6 +11256,20 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "178.107.169.115"
+    },
+    "178.128.147.5": {
+      "confidence": 0.6,
+      "date": "2026-11-14 11:22:18",
+      "enriched_at": "2026-11-14T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "List of IPs and a domain tagged as C2 panel infrastructure by a community researcher; malware family not identified.",
+      "threat_type": "c2",
+      "tweet_id": "2121564375391879286",
+      "type": "ip",
+      "value": "178.128.147.5"
     },
     "178.128.97.205": {
       "confidence": 0.5,
@@ -11469,35 +11392,6 @@
       "tweet_id": "2116076005043646558",
       "type": "ip",
       "value": "178.95.25.104"
-    },
-    "179.0.179.195": {
-      "confidence": 0.7,
-      "date": "2026-10-15 08:25:29",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": "WEBSPY",
-      "suggested_tags": [
-        "rat",
-        "c2"
-      ],
-      "summary": "Multiple IPs on port 3000 reported as WEBSPY RAT panel infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2110648242555998566",
-      "type": "ip",
-      "value": "179.0.179.195"
-    },
-    "179.61.227.82": {
-      "confidence": 0.85,
-      "date": "2026-10-15 04:42:17",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Email phishing site reported by a Japanese university; the dev.sbphototours.com URL redirects to a fake document-sharing page, received from IP 179.61.227.82.",
-      "threat_type": "phishing",
-      "tweet_id": "2110592071627415986",
-      "type": "ip",
-      "value": "179.61.227.82"
     },
     "17cf22f3fd0f5189856bb2f5ba91bb4b05838f3a19f5d25f81ee3bccccb8c19e": {
       "confidence": 0.5,
@@ -12211,22 +12105,6 @@
       "type": "url",
       "value": "http://185.34.144.140:8888"
     },
-    "185.46.70.230": {
-      "confidence": 0.85,
-      "date": "2026-10-15 07:40:52",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": "CobraStealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "CobraStealer infrastructure: panel domain, IP, onion address and claimed sample hash, with Telegram contact.",
-      "threat_type": "malware",
-      "tweet_id": "2110637011925373149",
-      "type": "ip",
-      "value": "185.46.70.230"
-    },
     "185.66.91.112": {
       "confidence": 0.45,
       "date": "2026-11-05 19:56:57",
@@ -12472,6 +12350,21 @@
       "tweet_id": "2111633497538658611",
       "type": "sha256",
       "value": "1906e04d0bf4b18c9a72a512586b89b80b226f057e411ff68a53f3d29796b1ed"
+    },
+    "191.217.250.102": {
+      "confidence": 0.65,
+      "date": "2026-11-14 11:01:51",
+      "enriched_at": "2026-11-14T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "rat",
+        "c2"
+      ],
+      "summary": "Two IPs on port 8080 and a domain reported as a RAT C2 panel; specific family not named.",
+      "threat_type": "c2",
+      "tweet_id": "2121559228846641181",
+      "type": "ip",
+      "value": "191.217.250.102"
     },
     "191.217.250.30": {
       "confidence": 0.7,
@@ -13494,20 +13387,6 @@
       "type": "ip",
       "value": "198.44.51.43"
     },
-    "198.52.244.44": {
-      "confidence": 0.5,
-      "date": "2026-10-15 09:48:00",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": "Rave",
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "IP and domains linked to a Rave panel infrastructure, shared as C2/panel indicators.",
-      "threat_type": "c2",
-      "tweet_id": "2110669006885515370",
-      "type": "ip",
-      "value": "198.52.244.44"
-    },
     "199.19.77.18": {
       "confidence": 0.5,
       "date": "2026-11-06 07:38:51",
@@ -14027,6 +13906,20 @@
       "tweet_id": "2113747624935473579",
       "type": "url",
       "value": "http://2.27.63.78"
+    },
+    "2.27.71.134": {
+      "confidence": 0.7,
+      "date": "2026-11-14 11:06:32",
+      "enriched_at": "2026-11-14T12:40:04Z",
+      "family": "XOREK",
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP and port 5000 reported as a XOREK C2 panel.",
+      "threat_type": "c2",
+      "tweet_id": "2121560409014751442",
+      "type": "ip",
+      "value": "2.27.71.134"
     },
     "2.29.2.248": {
       "confidence": 0.6,
@@ -15636,20 +15529,6 @@
       "type": "ip",
       "value": "217.149.13.187"
     },
-    "217.15.163.7": {
-      "confidence": 0.7,
-      "date": "2026-10-15 08:09:00",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": "NAKAMURA",
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "IP and domain reported as NAKAMURA C2 infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2110644092547846348",
-      "type": "ip",
-      "value": "217.15.163.7"
-    },
     "217.154.47.115": {
       "confidence": 0.75,
       "date": "2026-11-06 13:15:03",
@@ -16918,23 +16797,6 @@
       "type": "sha256",
       "value": "28540eeb5699a192b011cd5804f8ec848db3b3822312c74cd80ccf9d169701e8"
     },
-    "2863aff28573c241781108f0447555a90c526b1ac588c942122c6eaa7f09ba45": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "sha256",
-      "value": "2863aff28573c241781108f0447555a90c526b1ac588c942122c6eaa7f09ba45"
-    },
     "28affd3d72889a2c15d33d3eebc320ff": {
       "confidence": 0.8,
       "date": "2026-10-30 10:29:51",
@@ -17633,22 +17495,6 @@
       "tweet_id": "2113324699287724457",
       "type": "sha256",
       "value": "312ccddffce813529d27c0962b140c031e6d7e8aa8eec3f4c6ada40d16d775d0"
-    },
-    "3133a4f2002b5ab69668774ad511eb41447259247ffac30fb1d861416ef070df": {
-      "confidence": 0.85,
-      "date": "2026-10-15 07:40:52",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": "CobraStealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "CobraStealer infrastructure: panel domain, IP, onion address and claimed sample hash, with Telegram contact.",
-      "threat_type": "malware",
-      "tweet_id": "2110637011925373149",
-      "type": "sha256",
-      "value": "3133a4f2002b5ab69668774ad511eb41447259247ffac30fb1d861416ef070df"
     },
     "3196034ef1196c9151395859019674e14e3c06e3fdbf230c7e0d0c5f6211824a": {
       "confidence": 0.75,
@@ -24833,6 +24679,21 @@
       "type": "ip",
       "value": "35.200.5.54"
     },
+    "35.200.59.251": {
+      "confidence": 0.65,
+      "date": "2026-11-14 11:01:51",
+      "enriched_at": "2026-11-14T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "rat",
+        "c2"
+      ],
+      "summary": "Two IPs on port 8080 and a domain reported as a RAT C2 panel; specific family not named.",
+      "threat_type": "c2",
+      "tweet_id": "2121559228846641181",
+      "type": "ip",
+      "value": "35.200.59.251"
+    },
     "35.200.66.99": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -26926,21 +26787,6 @@
       "type": "ip",
       "value": "38.76.172.196"
     },
-    "38.76.183.195": {
-      "confidence": 0.7,
-      "date": "2026-10-15 08:25:29",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": "WEBSPY",
-      "suggested_tags": [
-        "rat",
-        "c2"
-      ],
-      "summary": "Multiple IPs on port 3000 reported as WEBSPY RAT panel infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2110648242555998566",
-      "type": "ip",
-      "value": "38.76.183.195"
-    },
     "38.76.186.166": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -27852,20 +27698,6 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "43.160.223.250"
-    },
-    "43.160.238.232": {
-      "confidence": 0.9,
-      "date": "2026-10-15 07:40:11",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Rakuten-branded phishing targeting Japanese users, hosted on a compromised photography site.",
-      "threat_type": "phishing",
-      "tweet_id": "2110636840671920200",
-      "type": "url",
-      "value": "http://43.160.238.232"
     },
     "43.162.83.183": {
       "confidence": 0.5,
@@ -29497,20 +29329,6 @@
       "type": "ip",
       "value": "47.77.204.57"
     },
-    "47.79.33.3": {
-      "confidence": 0.9,
-      "date": "2026-10-15 07:27:20",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Amazon Japan-branded phishing site hosted at nxmpv.addbazaar.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2110633607232684124",
-      "type": "url",
-      "value": "http://47.79.33.3"
-    },
     "47.79.90.89": {
       "confidence": 0.85,
       "date": "2026-11-06 05:35:03",
@@ -29975,6 +29793,22 @@
       "type": "sha256",
       "value": "4dc4c0bdce7d711bd4160beebbfe67d64a65a5c083429cb222926d7bd095b353"
     },
+    "4dd303a1b61fe75e8edd2a3d85cb8af6": {
+      "confidence": 0.8,
+      "date": "2026-11-14 11:48:12",
+      "enriched_at": "2026-11-14T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware",
+        "c2"
+      ],
+      "summary": "Dropping Elephant (Patchwork) campaign against Pakistan Karachi Port Trust: email with password-protected RAR, LNK, EXE/DLL sideloading, decoy PDF, then C2.",
+      "threat_type": "malware",
+      "tweet_id": "2121570892920533375",
+      "type": "md5",
+      "value": "4dd303a1b61fe75e8edd2a3d85cb8af6"
+    },
     "4e472f1a5d14cf690e18943c0fede03185b0faf82429b7ac1ee81e5b7639139c": {
       "confidence": 0.8,
       "date": "2026-11-04 10:34:27",
@@ -30425,6 +30259,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "51.159.4.12"
+    },
+    "51.250.112.153": {
+      "confidence": 0.6,
+      "date": "2026-11-14 11:22:18",
+      "enriched_at": "2026-11-14T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "List of IPs and a domain tagged as C2 panel infrastructure by a community researcher; malware family not identified.",
+      "threat_type": "c2",
+      "tweet_id": "2121564375391879286",
+      "type": "ip",
+      "value": "51.250.112.153"
     },
     "51.68.132.244": {
       "confidence": 0.85,
@@ -31542,6 +31390,22 @@
       "type": "sha256",
       "value": "6309699f79675c708db6cfae8c7a699983c9016fc23beaa53ce31e5d91328aa6"
     },
+    "6380c82fc853f44c4437acb8dbff76c3": {
+      "confidence": 0.8,
+      "date": "2026-11-14 11:48:12",
+      "enriched_at": "2026-11-14T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware",
+        "c2"
+      ],
+      "summary": "Dropping Elephant (Patchwork) campaign against Pakistan Karachi Port Trust: email with password-protected RAR, LNK, EXE/DLL sideloading, decoy PDF, then C2.",
+      "threat_type": "malware",
+      "tweet_id": "2121570892920533375",
+      "type": "md5",
+      "value": "6380c82fc853f44c4437acb8dbff76c3"
+    },
     "64.118.151.226": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -31784,6 +31648,20 @@
       "tweet_id": "2119393481462263979",
       "type": "url",
       "value": "http://65.110.40.18"
+    },
+    "65.21.208.193": {
+      "confidence": 0.6,
+      "date": "2026-11-14 11:22:18",
+      "enriched_at": "2026-11-14T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "List of IPs and a domain tagged as C2 panel infrastructure by a community researcher; malware family not identified.",
+      "threat_type": "c2",
+      "tweet_id": "2121564375391879286",
+      "type": "ip",
+      "value": "65.21.208.193"
     },
     "65.52.163.23": {
       "confidence": 0.8,
@@ -32792,18 +32670,6 @@
       "tweet_id": "2111053772210266345",
       "type": "sha256",
       "value": "7621cb4157d936d44a46f7a089ef86c4e9961c1a75712122bc1be4d547343da9"
-    },
-    "7652186493b52ce42aacc57c9864925935a73aea07938fd7351e23d10a9307cb": {
-      "confidence": 0.7,
-      "date": "2026-10-15 08:37:56",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Sample reported as a CVE-2026-96951 exploit, uploaded to MalwareBazaar; CVE referenced in a CISA KEV addition.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2110651376732610848",
-      "type": "sha256",
-      "value": "7652186493b52ce42aacc57c9864925935a73aea07938fd7351e23d10a9307cb"
     },
     "769f9c2902faed7069eb3deb804774b74a6940aacb95a8561d4fb02b029a6340": {
       "confidence": 0.8,
@@ -34893,21 +34759,6 @@
       "type": "url",
       "value": "http://89.124.99.187:6001"
     },
-    "89.125.214.211": {
-      "confidence": 0.7,
-      "date": "2026-10-15 08:25:29",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": "WEBSPY",
-      "suggested_tags": [
-        "rat",
-        "c2"
-      ],
-      "summary": "Multiple IPs on port 3000 reported as WEBSPY RAT panel infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2110648242555998566",
-      "type": "ip",
-      "value": "89.125.214.211"
-    },
     "89.126.211.166": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -35079,23 +34930,6 @@
       "tweet_id": "2117956883139252716",
       "type": "sha256",
       "value": "8c9254a4c2123e1483e5c4dd7ae9e1878fbfeaad06c095d5d61fa437fd194a08"
-    },
-    "8c9c6d49b8792a1cc709d131bb3e18a48d87d410931c1dbb1532c0d47a4deaa7": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:41:59",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as e-Tax (Japan), distributed via phishing domains zhongjuxian-jp.com and huipiaoxia-jp.com; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110516499861680460",
-      "type": "sha256",
-      "value": "8c9c6d49b8792a1cc709d131bb3e18a48d87d410931c1dbb1532c0d47a4deaa7"
     },
     "8d99f383de370fb1f25ccb701d3cccb055582fea03e9eef9684a642e822fd349": {
       "confidence": 0.6,
@@ -42182,22 +42016,6 @@
       "type": "domain",
       "value": "ar.webhwsapp-whatsapp.com"
     },
-    "arkgrup.com": {
-      "confidence": 0.85,
-      "date": "2026-10-14 22:24:14",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "fakecaptcha",
-        "malware"
-      ],
-      "summary": "Compromised site arkgrup.com shows a fake Cloudflare verification prompt (ClickFix) delivering a multi-stage malware routine.",
-      "threat_type": "malware",
-      "tweet_id": "2110496931231178853",
-      "type": "domain",
-      "value": "arkgrup.com"
-    },
     "aroqwxh.cn": {
       "confidence": 0.85,
       "date": "2026-10-15 23:25:14",
@@ -42315,6 +42133,22 @@
       "tweet_id": "2113857159842934992",
       "type": "url",
       "value": "https://ashland-energy.com/aa/"
+    },
+    "asiannetmark.org": {
+      "confidence": 0.8,
+      "date": "2026-11-14 11:48:12",
+      "enriched_at": "2026-11-14T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware",
+        "c2"
+      ],
+      "summary": "Dropping Elephant (Patchwork) campaign against Pakistan Karachi Port Trust: email with password-protected RAR, LNK, EXE/DLL sideloading, decoy PDF, then C2.",
+      "threat_type": "malware",
+      "tweet_id": "2121570892920533375",
+      "type": "domain",
+      "value": "asiannetmark.org"
     },
     "asiioasdjasiojasodijasa.eastus.cloudapp.azure.com": {
       "confidence": 0.85,
@@ -43342,6 +43176,22 @@
       "tweet_id": "2120907690037719110",
       "type": "sha256",
       "value": "bc596c984dc699cf0e19798932cdf5b4d2cf995e01dd330584961896881f7993"
+    },
+    "bcfae64d6b014dcabd0cb53a410c3251": {
+      "confidence": 0.8,
+      "date": "2026-11-14 11:48:12",
+      "enriched_at": "2026-11-14T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware",
+        "c2"
+      ],
+      "summary": "Dropping Elephant (Patchwork) campaign against Pakistan Karachi Port Trust: email with password-protected RAR, LNK, EXE/DLL sideloading, decoy PDF, then C2.",
+      "threat_type": "malware",
+      "tweet_id": "2121570892920533375",
+      "type": "md5",
+      "value": "bcfae64d6b014dcabd0cb53a410c3251"
     },
     "bd56374469374a6b144c684aa44b8692423a6749574dba2c99d49b76b8ac8bc2": {
       "confidence": 0.5,
@@ -44609,34 +44459,6 @@
       "type": "domain",
       "value": "bluerocksfinance.live"
     },
-    "bluesoftsdocrks.com": {
-      "confidence": 0.9,
-      "date": "2026-10-15 12:01:11",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "DocuSign-themed phishing page hosted on bluesoftsdocrks.com behind Cloudflare, reported via phishunt.",
-      "threat_type": "phishing",
-      "tweet_id": "2110702523837186229",
-      "type": "domain",
-      "value": "bluesoftsdocrks.com"
-    },
-    "bluesoftsdocrks.com/docusign/page": {
-      "confidence": 0.9,
-      "date": "2026-10-15 12:01:11",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "DocuSign-themed phishing page hosted on bluesoftsdocrks.com behind Cloudflare, reported via phishunt.",
-      "threat_type": "phishing",
-      "tweet_id": "2110702523837186229",
-      "type": "url",
-      "value": "http://bluesoftsdocrks.com/Docusign/page/"
-    },
     "blv-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -45722,34 +45544,6 @@
       "type": "domain",
       "value": "bor-whatsapp.com"
     },
-    "borshynel.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-14 23:37:26",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Mitsubishi UFJ eSmart Securities, hosted on borshynel.cfd to steal login credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2110515355068314085",
-      "type": "domain",
-      "value": "borshynel.cfd"
-    },
-    "borshynel.cfd/identifier/#/index": {
-      "confidence": 0.9,
-      "date": "2026-10-14 23:37:26",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Mitsubishi UFJ eSmart Securities, hosted on borshynel.cfd to steal login credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2110515355068314085",
-      "type": "url",
-      "value": "https://borshynel.cfd/identifier/#/index"
-    },
     "botchat-whatsapp.com": {
       "confidence": 0.7,
       "date": "2026-10-20 16:34:59",
@@ -45917,34 +45711,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "branch-whatsapp.com"
-    },
-    "branthoven.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-15 00:35:33",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Mitsubishi UFJ eSmart Securities, hosted at branthoven.cfd.",
-      "threat_type": "phishing",
-      "tweet_id": "2110529977871638930",
-      "type": "domain",
-      "value": "branthoven.cfd"
-    },
-    "branthoven.cfd/identifier/#/index": {
-      "confidence": 0.9,
-      "date": "2026-10-15 00:35:33",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Mitsubishi UFJ eSmart Securities, hosted at branthoven.cfd.",
-      "threat_type": "phishing",
-      "tweet_id": "2110529977871638930",
-      "type": "url",
-      "value": "https://branthoven.cfd/identifier/#/index"
     },
     "brave-whatsapp.com": {
       "confidence": 0.7,
@@ -49489,38 +49255,6 @@
       "type": "domain",
       "value": "cn6-whatsapp.com"
     },
-    "cobrastealer.cool": {
-      "confidence": 0.85,
-      "date": "2026-10-15 07:40:52",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": "CobraStealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "CobraStealer infrastructure: panel domain, IP, onion address and claimed sample hash, with Telegram contact.",
-      "threat_type": "malware",
-      "tweet_id": "2110637011925373149",
-      "type": "domain",
-      "value": "cobrastealer.cool"
-    },
-    "cobrastealer.cool:2096": {
-      "confidence": 0.85,
-      "date": "2026-10-15 07:40:52",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": "CobraStealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "CobraStealer infrastructure: panel domain, IP, onion address and claimed sample hash, with Telegram contact.",
-      "threat_type": "malware",
-      "tweet_id": "2110637011925373149",
-      "type": "url",
-      "value": "https://cobrastealer.cool:2096"
-    },
     "coclelabs.click": {
       "confidence": 0.85,
       "date": "2026-10-28 08:23:18",
@@ -49550,17 +49284,17 @@
       "value": "coctionbit.click"
     },
     "cocuktekstil.com": {
-      "confidence": 0.7,
-      "date": "2026-10-15 01:41:24",
-      "enriched_at": "2026-10-15T06:40:04Z",
+      "confidence": 0.4,
+      "date": "2026-11-04 07:03:00",
+      "enriched_at": "2026-11-14T12:40:04Z",
       "family": null,
       "suggested_tags": [
         "scam",
         "phishing"
       ],
-      "summary": "Website cocuktekstil.com flagged by a web malware scanner as a confirmed scam, tagged as phishing.",
+      "summary": "Infrastructure list tied to fake AI early-access lures (Claude/Gemini themed), including historical domains and later variants; cocuktekstil.com extracted.",
       "threat_type": "scam",
-      "tweet_id": "2110546552963858589",
+      "tweet_id": "2117875241930437108",
       "type": "domain",
       "value": "cocuktekstil.com"
     },
@@ -50290,22 +50024,6 @@
       "tweet_id": "2118060524944384161",
       "type": "sha256",
       "value": "d08569427291a4ec1842a5d04833365fe537f82ebe603d496444693fa25fd365"
-    },
-    "d135dfc2ab8127e30cb6d13d0c176fe1": {
-      "confidence": 0.8,
-      "date": "2026-10-15 08:56:13",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": "COBRA Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "MD5 hash associated with COBRA Stealer, an information-stealing malware.",
-      "threat_type": "malware",
-      "tweet_id": "2110655977544732809",
-      "type": "md5",
-      "value": "d135dfc2ab8127e30cb6d13d0c176fe1"
     },
     "d16c1d8e862e15d1bdf7594c98e98335": {
       "confidence": 0.1,
@@ -51374,34 +51092,6 @@
       "type": "domain",
       "value": "detan2go.web.app"
     },
-    "dev.sbphototours.com": {
-      "confidence": 0.85,
-      "date": "2026-10-15 04:42:17",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Email phishing site reported by a Japanese university; the dev.sbphototours.com URL redirects to a fake document-sharing page, received from IP 179.61.227.82.",
-      "threat_type": "phishing",
-      "tweet_id": "2110592071627415986",
-      "type": "domain",
-      "value": "dev.sbphototours.com"
-    },
-    "dev.sbphototours.com/includes/companylogo.php?url=hxxps%3a%2f%2fdocumentonline.us/doc/fixed/?uid=aaaa@ex": {
-      "confidence": 0.85,
-      "date": "2026-10-15 04:42:17",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Email phishing site reported by a Japanese university; the dev.sbphototours.com URL redirects to a fake document-sharing page, received from IP 179.61.227.82.",
-      "threat_type": "phishing",
-      "tweet_id": "2110592071627415986",
-      "type": "url",
-      "value": "https://dev.sbphototours.com/includes/companyLogo.php?url=hxxps%3A%2F%2Fdocumentonline.us/doc/Fixed/?uid=aaaa@ex"
-    },
     "devapi-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -51764,6 +51454,22 @@
       "tweet_id": "2118317396503175671",
       "type": "sha256",
       "value": "dfa875ce0f779a6252c263ef8e96a7e1c25bafd9ecaa20df49342ec5ab5a073e"
+    },
+    "dfc65926f00fb876145e76e8b1151255": {
+      "confidence": 0.8,
+      "date": "2026-11-14 11:48:12",
+      "enriched_at": "2026-11-14T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware",
+        "c2"
+      ],
+      "summary": "Dropping Elephant (Patchwork) campaign against Pakistan Karachi Port Trust: email with password-protected RAR, LNK, EXE/DLL sideloading, decoy PDF, then C2.",
+      "threat_type": "malware",
+      "tweet_id": "2121570892920533375",
+      "type": "md5",
+      "value": "dfc65926f00fb876145e76e8b1151255"
     },
     "dhamaka-diwali-offer.shop": {
       "confidence": 0.75,
@@ -54912,23 +54618,6 @@
       "type": "url",
       "value": "http://eqvpn.space:2083"
     },
-    "eroimijv.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "domain",
-      "value": "eroimijv.cn"
-    },
     "es-ar.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -55003,34 +54692,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "es.webhwsapp-whatsapp.com"
-    },
-    "essentialkneadsforhealth.com": {
-      "confidence": 0.9,
-      "date": "2026-10-15 07:13:22",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "SMBC-branded phishing targeting Japanese users on essentialkneadsforhealth.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2110630094586945639",
-      "type": "domain",
-      "value": "essentialkneadsforhealth.com"
-    },
-    "essentialkneadsforhealth.com/chxqbgge": {
-      "confidence": 0.9,
-      "date": "2026-10-15 07:13:22",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "SMBC-branded phishing targeting Japanese users on essentialkneadsforhealth.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2110630094586945639",
-      "type": "url",
-      "value": "https://essentialkneadsforhealth.com/chxqbgge/"
     },
     "everstakewfma6sxdpshoq4ebtnqamsxnajrtzu2cflai77kfup5kzyd.onion": {
       "confidence": 0.8,
@@ -55272,6 +54933,22 @@
       "tweet_id": "2116115359438971032",
       "type": "md5",
       "value": "f1ea2976418ce14ffd5ef6cbfcb6fa48"
+    },
+    "f255d6750f7010118f77fb0d709af73d": {
+      "confidence": 0.8,
+      "date": "2026-11-14 11:48:12",
+      "enriched_at": "2026-11-14T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware",
+        "c2"
+      ],
+      "summary": "Dropping Elephant (Patchwork) campaign against Pakistan Karachi Port Trust: email with password-protected RAR, LNK, EXE/DLL sideloading, decoy PDF, then C2.",
+      "threat_type": "malware",
+      "tweet_id": "2121570892920533375",
+      "type": "md5",
+      "value": "f255d6750f7010118f77fb0d709af73d"
     },
     "f26c05cff852f4e021e9c30b3b3bef60bdbcb6fee48401a8761c1519793f85c2": {
       "confidence": 0.6,
@@ -57687,20 +57364,6 @@
       "type": "domain",
       "value": "flixzoom.cyou"
     },
-    "fllicensehealthpdf-viewer.vercel.app": {
-      "confidence": 0.85,
-      "date": "2026-10-15 03:51:06",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page on Vercel with an Adobe theme delivering a ScreenConnect RMM client installer from a ScreenConnect cloud instance.",
-      "threat_type": "phishing",
-      "tweet_id": "2110579189250433531",
-      "type": "domain",
-      "value": "fllicensehealthpdf-viewer.vercel.app"
-    },
     "flpoised.net": {
       "confidence": 0.7,
       "date": "2026-11-02 15:22:00",
@@ -58291,22 +57954,6 @@
       "tweet_id": "2112002920686518471",
       "type": "url",
       "value": "https://gakik.cn/?pkrynnjy"
-    },
-    "gambah.com": {
-      "confidence": 0.9,
-      "date": "2026-10-15 09:05:36",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "scam",
-        "phishing"
-      ],
-      "summary": "Fake Gamba clone gambah.com running an advance-fee scam requiring a $100 deposit to withdraw, with fake partner logos.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2110658336354124017",
-      "type": "domain",
-      "value": "gambah.com"
     },
     "gbjeifr.cn": {
       "confidence": 0.9,
@@ -60666,9 +60313,9 @@
       "value": "huechura.firebaseapp.com"
     },
     "huipiaoxia-jp.com": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:41:59",
-      "enriched_at": "2026-10-15T00:40:04Z",
+      "confidence": 0.8,
+      "date": "2026-10-27 23:49:40",
+      "enriched_at": "2026-11-14T06:40:04Z",
       "family": null,
       "suggested_tags": [
         "android",
@@ -60676,9 +60323,9 @@
         "malware",
         "trojan"
       ],
-      "summary": "Android malware disguised as e-Tax (Japan), distributed via phishing domains zhongjuxian-jp.com and huipiaoxia-jp.com; linked APK sample hash shared.",
+      "summary": "Android malware disguised as Japan's e-Tax service, distributed via phishing domain huipiaoxia-jp.com; a second lookalike domain is also mentioned.",
       "threat_type": "malware",
-      "tweet_id": "2110516499861680460",
+      "tweet_id": "2115229475822809290",
       "type": "domain",
       "value": "huipiaoxia-jp.com"
     },
@@ -62038,34 +61685,6 @@
       "tweet_id": "2112326062575333635",
       "type": "domain",
       "value": "jmblxd.cn"
-    },
-    "johnhaywoodphotography.com": {
-      "confidence": 0.9,
-      "date": "2026-10-15 07:40:11",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Rakuten-branded phishing targeting Japanese users, hosted on a compromised photography site.",
-      "threat_type": "phishing",
-      "tweet_id": "2110636840671920200",
-      "type": "domain",
-      "value": "johnhaywoodphotography.com"
-    },
-    "johnhaywoodphotography.com/o974vajh": {
-      "confidence": 0.9,
-      "date": "2026-10-15 07:40:11",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Rakuten-branded phishing targeting Japanese users, hosted on a compromised photography site.",
-      "threat_type": "phishing",
-      "tweet_id": "2110636840671920200",
-      "type": "url",
-      "value": "https://johnhaywoodphotography.com/o974VAJH/"
     },
     "joi-user-res.oss-us-west-1.aliyuncs.com": {
       "confidence": 0.5,
@@ -64587,34 +64206,6 @@
       "type": "domain",
       "value": "mamatambiensr-jp.com"
     },
-    "manuelitellc.screenconnect.com": {
-      "confidence": 0.8,
-      "date": "2026-10-15 03:51:06",
-      "enriched_at": "2026-11-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page on Vercel delivering a ScreenConnect RMM client installer.",
-      "threat_type": "phishing",
-      "tweet_id": "2110579189250433531",
-      "type": "domain",
-      "value": "manuelitellc.screenconnect.com"
-    },
-    "manuelitellc.screenconnect.com/bin/screenconnect.clientsetup.exe": {
-      "confidence": 0.8,
-      "date": "2026-10-15 03:51:06",
-      "enriched_at": "2026-11-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page on Vercel delivering a ScreenConnect RMM client installer.",
-      "threat_type": "phishing",
-      "tweet_id": "2110579189250433531",
-      "type": "url",
-      "value": "https://manuelitellc.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
-    },
     "manw-2ansn-smanqjk.xo.je": {
       "confidence": 0.5,
       "date": "2026-11-08 10:32:07",
@@ -64851,23 +64442,6 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "mbhhrx.sitmarks.xyz"
-    },
-    "mdmtxhdb.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "domain",
-      "value": "mdmtxhdb.cn"
     },
     "media.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -65146,6 +64720,22 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "messenger.webstatici-whatsapp.com"
+    },
+    "metaslate.org": {
+      "confidence": 0.8,
+      "date": "2026-11-14 11:48:12",
+      "enriched_at": "2026-11-14T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware",
+        "c2"
+      ],
+      "summary": "Dropping Elephant (Patchwork) campaign against Pakistan Karachi Port Trust: email with password-protected RAR, LNK, EXE/DLL sideloading, decoy PDF, then C2.",
+      "threat_type": "malware",
+      "tweet_id": "2121570892920533375",
+      "type": "domain",
+      "value": "metaslate.org"
     },
     "metrics-whatsapp.com": {
       "confidence": 0.7,
@@ -65655,23 +65245,6 @@
       "tweet_id": "2117950517305655397",
       "type": "domain",
       "value": "ml.qcqfzx.com"
-    },
-    "mlbysalw.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "domain",
-      "value": "mlbysalw.cn"
     },
     "mlroweb.com": {
       "confidence": 0.85,
@@ -66308,23 +65881,6 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "nav-whatsapp.com"
-    },
-    "ncivhyvu.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "domain",
-      "value": "ncivhyvu.cn"
     },
     "negana.cc": {
       "confidence": 0.7,
@@ -67000,23 +66556,6 @@
       "type": "domain",
       "value": "ns2.monstadns.com"
     },
-    "nsjhkttv.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "domain",
-      "value": "nsjhkttv.cn"
-    },
     "ntp.reposync.to": {
       "confidence": 0.9,
       "date": "2026-10-22 16:34:39",
@@ -67031,37 +66570,6 @@
       "tweet_id": "2113308058629853206",
       "type": "domain",
       "value": "ntp.reposync.to"
-    },
-    "nxmpv.addbazaar.com": {
-      "confidence": 0.9,
-      "date": "2026-10-15 07:27:20",
-      "enriched_at": "2026-10-15T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Amazon Japan-branded phishing site hosted at nxmpv.addbazaar.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2110633607232684124",
-      "type": "domain",
-      "value": "nxmpv.addbazaar.com"
-    },
-    "nxsugrsw.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "domain",
-      "value": "nxsugrsw.cn"
     },
     "nzctjvr.com": {
       "confidence": 0.7,
@@ -67833,6 +67341,22 @@
       "tweet_id": "2118999843771425078",
       "type": "url",
       "value": "https://paiwdlasd.com/downcb"
+    },
+    "pakdigital.org": {
+      "confidence": 0.8,
+      "date": "2026-11-14 11:48:12",
+      "enriched_at": "2026-11-14T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware",
+        "c2"
+      ],
+      "summary": "Dropping Elephant (Patchwork) campaign against Pakistan Karachi Port Trust: email with password-protected RAR, LNK, EXE/DLL sideloading, decoy PDF, then C2.",
+      "threat_type": "malware",
+      "tweet_id": "2121570892920533375",
+      "type": "domain",
+      "value": "pakdigital.org"
     },
     "parse-whatsapp.com": {
       "confidence": 0.65,
@@ -72256,34 +71780,6 @@
       "type": "domain",
       "value": "secure-xserver-89123.kurasoo.com"
     },
-    "secure.cornebrdjubf.top": {
-      "confidence": 0.85,
-      "date": "2026-10-15 03:34:31",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page on a compromised site delivering a ScreenConnect RMM MSI installer from secure.cornebrdjubf.top.",
-      "threat_type": "phishing",
-      "tweet_id": "2110575016995897595",
-      "type": "domain",
-      "value": "secure.cornebrdjubf.top"
-    },
-    "secure.cornebrdjubf.top/bin/screenconnect.clientsetup.msi": {
-      "confidence": 0.85,
-      "date": "2026-10-15 03:34:31",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page on a compromised site delivering a ScreenConnect RMM MSI installer from secure.cornebrdjubf.top.",
-      "threat_type": "phishing",
-      "tweet_id": "2110575016995897595",
-      "type": "url",
-      "value": "https://secure.cornebrdjubf.top/Bin/ScreenConnect.ClientSetup.msi"
-    },
     "secure.webapi-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -76463,34 +75959,6 @@
       "type": "domain",
       "value": "thedragonson-jp.com"
     },
-    "thegouldings.co.uk": {
-      "confidence": 0.85,
-      "date": "2026-10-15 03:34:31",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page on a compromised site delivering a ScreenConnect RMM MSI installer from secure.cornebrdjubf.top.",
-      "threat_type": "phishing",
-      "tweet_id": "2110575016995897595",
-      "type": "domain",
-      "value": "thegouldings.co.uk"
-    },
-    "thegouldings.co.uk/m": {
-      "confidence": 0.85,
-      "date": "2026-10-15 03:34:31",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page on a compromised site delivering a ScreenConnect RMM MSI installer from secure.cornebrdjubf.top.",
-      "threat_type": "phishing",
-      "tweet_id": "2110575016995897595",
-      "type": "url",
-      "value": "https://thegouldings.co.uk/m/"
-    },
     "thegrillbible.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -77186,16 +76654,15 @@
     },
     "truenorthworks.fun": {
       "confidence": 0.85,
-      "date": "2026-10-15 00:56:41",
-      "enriched_at": "2026-11-13T06:40:04Z",
+      "date": "2026-10-17 21:59:52",
+      "enriched_at": "2026-11-14T12:40:04Z",
       "family": null,
       "suggested_tags": [
-        "phishing",
-        "scam"
+        "phishing"
       ],
-      "summary": "Phishing lure posing as a loan confirmation links to unrelated domain truenorthworks.fun, flagged by threat intelligence providers.",
+      "summary": "Phishing alert: Saatva offer lure links to unrelated host truenorthworks.fun, flagged by public threat intelligence providers.",
       "threat_type": "phishing",
-      "tweet_id": "2110535297499037806",
+      "tweet_id": "2111577962156007931",
       "type": "domain",
       "value": "truenorthworks.fun"
     },
@@ -78201,23 +77668,6 @@
       "type": "url",
       "value": "https://vexolunara.cfd/drgsdfbdr/#/index"
     },
-    "vggkofmi.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "domain",
-      "value": "vggkofmi.cn"
-    },
     "vgyhtdxz.bond": {
       "confidence": 0.6,
       "date": "2026-11-10 16:38:42",
@@ -78340,21 +77790,6 @@
       "tweet_id": "2115655245049037096",
       "type": "domain",
       "value": "viuonicoiscienic.web.app"
-    },
-    "vivid-flicker-anvil-creoen.pro": {
-      "confidence": 0.8,
-      "date": "2026-10-15 12:33:05",
-      "enriched_at": "2026-10-15T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Compromised site leading to a ClickFix lure on a malicious domain.",
-      "threat_type": "malware",
-      "tweet_id": "2110710553278869803",
-      "type": "domain",
-      "value": "vivid-flicker-anvil-creoen.pro"
     },
     "vivid-whatsapp.com": {
       "confidence": 0.65,
@@ -80042,20 +79477,6 @@
       "type": "domain",
       "value": "wi20a-1kkan-llam2.xo.je"
     },
-    "wickerlookoutdoorfurniture.com": {
-      "confidence": 0.8,
-      "date": "2026-10-15 00:00:45",
-      "enriched_at": "2026-11-12T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing email promoting a canvas-print discount from an unrelated furniture domain; sender flagged by public threat intelligence providers.",
-      "threat_type": "phishing",
-      "tweet_id": "2110521220877942805",
-      "type": "domain",
-      "value": "wickerlookoutdoorfurniture.com"
-    },
     "willkie.myssologin.com": {
       "confidence": 0.7,
       "date": "2026-10-16 07:53:32",
@@ -80815,22 +80236,6 @@
       "type": "url",
       "value": "http://www.webapi-whatsapp.com"
     },
-    "www.xionamiconm.com:8050/ws": {
-      "confidence": 0.7,
-      "date": "2026-10-14 21:59:13",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "c2",
-        "malware"
-      ],
-      "summary": "New WebSockets backdoor likely targeting Iraq, with a staging server at 153.75.247.94:80 and a C2 at www.xionamiconm.com:8050/ws/.",
-      "threat_type": "c2",
-      "tweet_id": "2110490637070111188",
-      "type": "url",
-      "value": "http://www.xionamiconm.com:8050/ws/"
-    },
     "www.youlovemybiba.com": {
       "confidence": 0.85,
       "date": "2026-10-23 21:55:03",
@@ -81027,22 +80432,6 @@
       "tweet_id": "2119932762010644537",
       "type": "domain",
       "value": "xinyaojiancai-jp.com"
-    },
-    "xionamiconm.com": {
-      "confidence": 0.7,
-      "date": "2026-10-14 21:59:13",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "c2",
-        "malware"
-      ],
-      "summary": "New WebSockets backdoor likely targeting Iraq, with a staging server at 153.75.247.94:80 and a C2 at www.xionamiconm.com:8050/ws/.",
-      "threat_type": "c2",
-      "tweet_id": "2110490637070111188",
-      "type": "domain",
-      "value": "xionamiconm.com"
     },
     "xl.goja.click": {
       "confidence": 0.9,
@@ -81327,21 +80716,6 @@
       "type": "domain",
       "value": "yahoologin6700.blogspot.com"
     },
-    "yamagatasilk.com": {
-      "confidence": 0.7,
-      "date": "2026-10-14 21:58:42",
-      "enriched_at": "2026-11-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing email promoting a debt consolidation offer linking to yamagatasilk[.]com; sender flagged by threat intelligence providers.",
-      "threat_type": "phishing",
-      "tweet_id": "2110490506530808246",
-      "type": "domain",
-      "value": "yamagatasilk.com"
-    },
     "ycfhfm.com": {
       "confidence": 0.8,
       "date": "2026-11-01 01:21:43",
@@ -81446,20 +80820,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "ykbweb-whatsapp.com"
-    },
-    "yorkshiredatacentre.com": {
-      "confidence": 0.7,
-      "date": "2026-10-15 01:59:59",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Cloud-warning phishing lure from yorkshiredatacentre.com using a short link whose final destination host could not be verified.",
-      "threat_type": "phishing",
-      "tweet_id": "2110551226110919153",
-      "type": "domain",
-      "value": "yorkshiredatacentre.com"
     },
     "you-whatsapp.com": {
       "confidence": 0.75,
@@ -81985,23 +81345,6 @@
       "type": "url",
       "value": "https://zhenxiongdibj.com/eQbSMKmtnb.suita.jp"
     },
-    "zhongjuxian-jp.com": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:41:59",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as e-Tax (Japan), distributed via phishing domains zhongjuxian-jp.com and huipiaoxia-jp.com; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110516499861680460",
-      "type": "domain",
-      "value": "zhongjuxian-jp.com"
-    },
     "zhuomian-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -82363,23 +81706,6 @@
       "type": "domain",
       "value": "zz.aiapi2025.top"
     },
-    "zzpwttke.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "domain",
-      "value": "zzpwttke.cn"
-    },
     "\u7d50\u5a5a\u5f0f\u306e\u3054\u62db\u5f85.zip": {
       "confidence": 0.65,
       "date": "2026-10-28 08:14:21",
@@ -82410,6 +81736,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-13T18:40:04Z",
+  "generated_at": "2026-11-14T12:40:04Z",
   "window_days": 30
 }

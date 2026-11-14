@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-13 23:15:18 (UTC)</th>
+        <th colspan=4>2026-11-14 13:15:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,11 +187,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 7 | 345 | 3161 | 43924 |
-| **:globe_with_meridians: Domains** | 4 | 257 | 2647 | 37792 |
-| **:triangular_flag_on_post: IPs** | 6 | 79 | 2210 | 7983 |
-| **:1234: SHA256** | 3 | 103 | 583 | 3286 |
-| **:1234: MD5** | 0 | 14 | 115 | 2030 |
+| **:link: URLs** | 3 | 317 | 3073 | 43828 |
+| **:globe_with_meridians: Domains** | 3 | 230 | 2579 | 37724 |
+| **:triangular_flag_on_post: IPs** | 7 | 71 | 2187 | 7971 |
+| **:1234: SHA256** | 0 | 100 | 566 | 3284 |
+| **:1234: MD5** | 5 | 19 | 119 | 2022 |
 
 </div>
 
@@ -204,15 +204,15 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 235 | 3647 | 31090 |
-| **#Kimsuky** | 0 | 0 | 48 | 13315 |
-| **#DPRK** | 0 | 0 | 20 | 11687 |
-| **#malware** | 0 | 210 | 1187 | 4327 |
-| **#scam** | 0 | 4 | 32 | 2674 |
-| **#C2** | 5 | 36 | 179 | 2065 |
-| **#APT** | 0 | 30 | 77 | 1473 |
-| **#ClickFix** | 0 | 70 | 266 | 1255 |
-| **#ransomware** | 0 | 1 | 78 | 683 |
+| **#phishing** | 0 | 178 | 3580 | 30978 |
+| **#Kimsuky** | 0 | 0 | 36 | 13315 |
+| **#DPRK** | 0 | 0 | 18 | 11687 |
+| **#malware** | 0 | 169 | 1153 | 4305 |
+| **#scam** | 0 | 4 | 30 | 2642 |
+| **#C2** | 7 | 42 | 184 | 2043 |
+| **#APT** | 11 | 39 | 81 | 1469 |
+| **#ClickFix** | 0 | 70 | 242 | 1255 |
+| **#ransomware** | 0 | 1 | 76 | 678 |
 | **#opendir** | 0 | 7 | 26 | 675 |
 <!-- TAG_TABLE_END -->
 
@@ -229,9 +229,9 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [bomccss](https://x.com/bomccss) | 11 |
-| **#2** | [Fact_Finder03](https://x.com/Fact_Finder03) | 5 |
-| **#3** | [TheM3gatr0n](https://x.com/TheM3gatr0n) | 4 |
+| **#1** | [SinghSoodeep](https://x.com/SinghSoodeep) | 11 |
+| **#2** | [Fact_Finder03](https://x.com/Fact_Finder03) | 7 |
+| **#3** | [-](https://x.com/-) | 0 |
 | **#4** | [-](https://x.com/-) | 0 |
 | **#5** | [-](https://x.com/-) | 0 |
 | **#6** | [-](https://x.com/-) | 0 |
