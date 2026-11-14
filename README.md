@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-14 19:30:25 (UTC)</th>
+        <th colspan=4>2026-11-14 19:45:43 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,9 +187,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 12 | 327 | 3083 | 43838 |
-| **:globe_with_meridians: Domains** | 12 | 237 | 2586 | 37724 |
-| **:triangular_flag_on_post: IPs** | 16 | 77 | 2193 | 7974 |
+| **:link: URLs** | 17 | 333 | 3089 | 43844 |
+| **:globe_with_meridians: Domains** | 16 | 241 | 2590 | 37728 |
+| **:triangular_flag_on_post: IPs** | 17 | 79 | 2195 | 7976 |
 | **:1234: SHA256** | 3 | 103 | 569 | 3287 |
 | **:1234: MD5** | 5 | 19 | 119 | 2022 |
 
@@ -204,7 +204,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 22 | 198 | 3600 | 30996 |
+| **#phishing** | 30 | 206 | 3608 | 31004 |
 | **#Kimsuky** | 0 | 0 | 36 | 13315 |
 | **#DPRK** | 0 | 0 | 18 | 11687 |
 | **#malware** | 9 | 178 | 1162 | 4314 |
@@ -232,12 +232,12 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [Fact_Finder03](https://x.com/Fact_Finder03) | 13 |
 | **#2** | [masaomi346](https://x.com/masaomi346) | 11 |
 | **#3** | [SinghSoodeep](https://x.com/SinghSoodeep) | 11 |
-| **#4** | [TKemmerling](https://x.com/TKemmerling) | 6 |
-| **#5** | [PhishStats](https://x.com/PhishStats) | 5 |
-| **#6** | [sicehice](https://x.com/sicehice) | 1 |
-| **#7** | [mylesndav](https://x.com/mylesndav) | 1 |
-| **#8** | [-](https://x.com/-) | 0 |
-| **#9** | [-](https://x.com/-) | 0 |
+| **#4** | [MsftSecIntel](https://x.com/MsftSecIntel) | 8 |
+| **#5** | [TKemmerling](https://x.com/TKemmerling) | 6 |
+| **#6** | [PhishStats](https://x.com/PhishStats) | 5 |
+| **#7** | [navneetr4j](https://x.com/navneetr4j) | 2 |
+| **#8** | [sicehice](https://x.com/sicehice) | 1 |
+| **#9** | [mylesndav](https://x.com/mylesndav) | 1 |
 | **#10** | [-](https://x.com/-) | 0 |
 <!-- TOP_REPORTERS_END -->
 

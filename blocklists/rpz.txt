@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2480
-; Updated: 2026-11-14T17:15:20Z
+; Entries: 2484
+; Updated: 2026-11-14T19:45:42Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794676520 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794685542 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3100,6 +3100,8 @@ mofa-gov-np.donwloaad-file.org CNAME .
 *.mofa-gov-np.donwloaad-file.org CNAME .
 mojtelekom.help CNAME .
 *.mojtelekom.help CNAME .
+moments-notice.com CNAME .
+*.moments-notice.com CNAME .
 mono-whatsapp.com CNAME .
 *.mono-whatsapp.com CNAME .
 monoxide.vip CNAME .
@@ -3192,6 +3194,8 @@ netuse-whatsapp.com CNAME .
 *.netuse-whatsapp.com CNAME .
 newbiesember.duckdns.org CNAME .
 *.newbiesember.duckdns.org CNAME .
+newbooker.com CNAME .
+*.newbooker.com CNAME .
 news.webapi-whatsapp.com CNAME .
 *.news.webapi-whatsapp.com CNAME .
 next-whatsapp.com CNAME .
@@ -3388,6 +3392,8 @@ placewingarage.com CNAME .
 *.placewingarage.com CNAME .
 plain-whatsapp.com CNAME .
 *.plain-whatsapp.com CNAME .
+planetmaison.com CNAME .
+*.planetmaison.com CNAME .
 play-googlese.app CNAME .
 *.play-googlese.app CNAME .
 plesk.swissrdp.com CNAME .
@@ -3566,6 +3572,8 @@ rdwv03.cc CNAME .
 *.rdwv03.cc CNAME .
 readme-whatsapp.com CNAME .
 *.readme-whatsapp.com CNAME .
+reallifeaccounting.com CNAME .
+*.reallifeaccounting.com CNAME .
 realmadridistats.org CNAME .
 *.realmadridistats.org CNAME .
 reaycats.com CNAME .
