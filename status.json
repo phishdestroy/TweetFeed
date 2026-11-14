@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-14T17:00:27Z",
+ "generated_at": "2026-11-14T17:15:56Z",
  "pipeline": {
   "interval_seconds": 900,
   "stale_after_seconds": 1800
@@ -14,10 +14,10 @@
   "data_repo": "https://github.com/0xDanielLopez/TweetFeed"
  },
  "sources": {
-  "total": 57,
+  "total": 61,
   "hashtag": 33,
-  "account": 24,
-  "rows_last_24h": 24,
+  "account": 28,
+  "rows_last_24h": 50,
   "dead_after_seconds": {
    "account": 2592000,
    "hashtag": null
@@ -101,6 +101,20 @@
     "dead_after_seconds": 2592000
    },
    {
+    "id": "malwrhunterteam",
+    "kind": "account",
+    "newest_item_at": "2026-11-14T09:05:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "masaomi346",
+    "kind": "account",
+    "newest_item_at": "2026-11-14T16:08:00Z",
+    "rows_last_24h": 11,
+    "dead_after_seconds": 2592000
+   },
+   {
     "id": "nextronresearch",
     "kind": "account",
     "newest_item_at": "2026-11-12T09:11:00Z",
@@ -112,6 +126,13 @@
     "kind": "account",
     "newest_item_at": "2026-11-12T15:26:00Z",
     "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "PhishStats",
+    "kind": "account",
+    "newest_item_at": "2026-11-14T16:01:00Z",
+    "rows_last_24h": 5,
     "dead_after_seconds": 2592000
    },
    {
@@ -168,6 +189,13 @@
     "kind": "account",
     "newest_item_at": "2026-10-23T14:50:00Z",
     "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "TKemmerling",
+    "kind": "account",
+    "newest_item_at": "2026-11-14T03:00:00Z",
+    "rows_last_24h": 8,
     "dead_after_seconds": 2592000
    },
    {
@@ -300,7 +328,7 @@
     "id": "malware",
     "kind": "hashtag",
     "newest_item_at": "2026-11-11T03:10:00Z",
-    "rows_last_24h": 0,
+    "rows_last_24h": 9,
     "dead_after_seconds": null
    },
    {
@@ -342,7 +370,7 @@
     "id": "phishing",
     "kind": "hashtag",
     "newest_item_at": "2026-11-11T04:00:00Z",
-    "rows_last_24h": 0,
+    "rows_last_24h": 24,
     "dead_after_seconds": null
    },
    {
@@ -428,97 +456,97 @@
   "today.csv": {
    "kind": "tick",
    "path": "today.csv",
-   "updated_at": "2026-11-14T17:00:27Z",
+   "updated_at": "2026-11-14T17:15:56Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "today",
-   "rows": 24,
-   "first_row": "2026-11-14 11:01:51",
-   "last_row": "2026-11-14 13:54:24",
+   "rows": 46,
+   "first_row": "2026-11-14 00:12:27",
+   "last_row": "2026-11-14 16:08:32",
    "data_stale_after_seconds": 28800
   },
   "week.csv": {
    "kind": "tick",
    "path": "week.csv",
-   "updated_at": "2026-11-14T17:00:27Z",
+   "updated_at": "2026-11-14T17:15:56Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "week",
-   "rows": 735,
+   "rows": 761,
    "first_row": "2026-11-08 00:03:40",
-   "last_row": "2026-11-14 13:54:24",
+   "last_row": "2026-11-14 16:08:32",
    "data_stale_after_seconds": 28800
   },
   "month.csv": {
    "kind": "tick",
    "path": "month.csv",
-   "updated_at": "2026-11-14T17:00:27Z",
+   "updated_at": "2026-11-14T17:15:56Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "month",
-   "rows": 8522,
+   "rows": 8548,
    "first_row": "2026-10-15 00:00:45",
-   "last_row": "2026-11-14 13:54:24",
+   "last_row": "2026-11-14 16:08:32",
    "data_stale_after_seconds": 28800
   },
   "year.csv": {
    "kind": "tick",
    "path": "year.csv",
-   "updated_at": "2026-11-14T17:00:27Z",
+   "updated_at": "2026-11-14T17:15:56Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "year",
-   "rows": 94819,
+   "rows": 94843,
    "first_row": "2025-11-15 00:16:13",
-   "last_row": "2026-11-14 13:54:24",
+   "last_row": "2026-11-14 16:08:32",
    "data_stale_after_seconds": 28800
   },
   "rss.xml": {
    "kind": "tick",
    "path": "rss.xml",
-   "updated_at": "2026-11-14T17:00:27Z",
+   "updated_at": "2026-11-14T17:15:56Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "counts.json": {
    "kind": "tick",
    "path": "counts.json",
-   "updated_at": "2026-11-14T17:00:27Z",
+   "updated_at": "2026-11-14T17:15:56Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "contributors.json": {
    "kind": "tick",
    "path": "contributors.json",
-   "updated_at": "2026-11-14T17:00:27Z",
+   "updated_at": "2026-11-14T17:15:56Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "misp": {
    "kind": "tick",
    "path": "misp/",
-   "updated_at": "2026-11-14T17:00:27Z",
+   "updated_at": "2026-11-14T17:15:56Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "stix": {
    "kind": "tick",
    "path": "stix/",
-   "updated_at": "2026-11-14T17:00:27Z",
+   "updated_at": "2026-11-14T17:15:56Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "blocklists": {
    "kind": "tick",
    "path": "blocklists/",
-   "updated_at": "2026-11-14T17:00:27Z",
+   "updated_at": "2026-11-14T17:15:56Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "exclusive.csv": {
    "kind": "tick",
    "path": "exclusive.csv",
-   "updated_at": "2026-11-14T17:00:27Z",
+   "updated_at": "2026-11-14T17:15:56Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "note": "30-day rows not listed by URLhaus, ThreatFox, MalwareBazaar, USOM or IPsum as of the last cross-check"
@@ -526,7 +554,7 @@
   "lookup": {
    "kind": "own-clock",
    "path": "lookup/",
-   "updated_at": "2026-11-14T17:00:18Z",
+   "updated_at": "2026-11-14T17:15:19Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700,
    "shards": 256
@@ -534,14 +562,14 @@
   "trends.json": {
    "kind": "own-clock",
    "path": "trends.json",
-   "updated_at": "2026-11-14T17:00:20Z",
+   "updated_at": "2026-11-14T17:15:21Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700
   },
   "archive": {
    "kind": "change-driven",
    "path": "archive/",
-   "updated_at": "2026-11-14T13:45:48Z",
+   "updated_at": "2026-11-14T17:15:54Z",
    "interval_seconds": 900,
    "stale_after_seconds": null,
    "note": "generated_at moves only when the archive corpus changes (at most daily); pipeline freshness is the signal"

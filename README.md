@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-14 17:00:20 (UTC)</th>
+        <th colspan=4>2026-11-14 17:15:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,10 +187,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 3 | 316 | 3072 | 43827 |
-| **:globe_with_meridians: Domains** | 3 | 226 | 2575 | 37713 |
-| **:triangular_flag_on_post: IPs** | 13 | 74 | 2190 | 7973 |
-| **:1234: SHA256** | 0 | 100 | 566 | 3284 |
+| **:link: URLs** | 12 | 327 | 3083 | 43838 |
+| **:globe_with_meridians: Domains** | 12 | 237 | 2586 | 37724 |
+| **:triangular_flag_on_post: IPs** | 14 | 75 | 2191 | 7972 |
+| **:1234: SHA256** | 3 | 103 | 569 | 3287 |
 | **:1234: MD5** | 5 | 19 | 119 | 2022 |
 
 </div>
@@ -204,10 +204,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 174 | 3576 | 30972 |
+| **#phishing** | 22 | 198 | 3600 | 30996 |
 | **#Kimsuky** | 0 | 0 | 36 | 13315 |
 | **#DPRK** | 0 | 0 | 18 | 11687 |
-| **#malware** | 0 | 169 | 1153 | 4305 |
+| **#malware** | 9 | 178 | 1162 | 4314 |
 | **#scam** | 0 | 4 | 30 | 2642 |
 | **#C2** | 13 | 48 | 190 | 2049 |
 | **#APT** | 11 | 38 | 80 | 1466 |
@@ -230,10 +230,10 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [Fact_Finder03](https://x.com/Fact_Finder03) | 13 |
-| **#2** | [SinghSoodeep](https://x.com/SinghSoodeep) | 11 |
-| **#3** | [-](https://x.com/-) | 0 |
-| **#4** | [-](https://x.com/-) | 0 |
-| **#5** | [-](https://x.com/-) | 0 |
+| **#2** | [masaomi346](https://x.com/masaomi346) | 11 |
+| **#3** | [SinghSoodeep](https://x.com/SinghSoodeep) | 11 |
+| **#4** | [TKemmerling](https://x.com/TKemmerling) | 6 |
+| **#5** | [PhishStats](https://x.com/PhishStats) | 5 |
 | **#6** | [-](https://x.com/-) | 0 |
 | **#7** | [-](https://x.com/-) | 0 |
 | **#8** | [-](https://x.com/-) | 0 |

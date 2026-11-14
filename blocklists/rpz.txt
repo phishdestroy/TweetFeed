@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2473
-; Updated: 2026-11-14T13:45:16Z
+; Entries: 2480
+; Updated: 2026-11-14T17:15:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794663916 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794676520 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -266,6 +266,8 @@ amh-whatsapp.com CNAME .
 *.amh-whatsapp.com CNAME .
 anaconadministradora.com.br CNAME .
 *.anaconadministradora.com.br CNAME .
+analhos.com CNAME .
+*.analhos.com CNAME .
 anc-whatsapp.com CNAME .
 *.anc-whatsapp.com CNAME .
 android.webapi-whatsapp.com CNAME .
@@ -372,6 +374,8 @@ app.aes-pdf.com CNAME .
 *.app.aes-pdf.com CNAME .
 app.aespdf.com CNAME .
 *.app.aespdf.com CNAME .
+app.freelance-levtech.info CNAME .
+*.app.freelance-levtech.info CNAME .
 app.keplr.to CNAME .
 *.app.keplr.to CNAME .
 app.slidy.ai CNAME .
@@ -2792,6 +2796,8 @@ labweb-whatsapp.com CNAME .
 *.labweb-whatsapp.com CNAME .
 ladygirl-series.com CNAME .
 *.ladygirl-series.com CNAME .
+lapaca.webdirecto.com CNAME .
+*.lapaca.webdirecto.com CNAME .
 latest-whatsapp.com CNAME .
 *.latest-whatsapp.com CNAME .
 lawresearch-jp.com CNAME .
@@ -3354,6 +3360,8 @@ perlyperlygi-jp.com CNAME .
 *.perlyperlygi-jp.com CNAME .
 pew9862l.onlinewebshop.net CNAME .
 *.pew9862l.onlinewebshop.net CNAME .
+pharaohkit.cloud CNAME .
+*.pharaohkit.cloud CNAME .
 pharmalog-api-f7hvbrcfdgfjgrcg.z01.azurefd.net CNAME .
 *.pharmalog-api-f7hvbrcfdgfjgrcg.z01.azurefd.net CNAME .
 phase-whatsapp.com CNAME .
@@ -3550,6 +3558,8 @@ rappellingaart.com CNAME .
 *.rappellingaart.com CNAME .
 rascalsnft.web.app CNAME .
 *.rascalsnft.web.app CNAME .
+rawchocolate-jp.com CNAME .
+*.rawchocolate-jp.com CNAME .
 rdtds.net CNAME .
 *.rdtds.net CNAME .
 rdwv03.cc CNAME .
@@ -3714,6 +3724,8 @@ saw-strops-tedy.top CNAME .
 *.saw-strops-tedy.top CNAME .
 scan.webstatici-whatsapp.com CNAME .
 *.scan.webstatici-whatsapp.com CNAME .
+scanned.page CNAME .
+*.scanned.page CNAME .
 scarlettgugldabhgz3uertpnxglxytddxbd5vnoma5pihfk6k5q2sid.onion CNAME .
 *.scarlettgugldabhgz3uertpnxglxytddxbd5vnoma5pihfk6k5q2sid.onion CNAME .
 schema-whatsapp.com CNAME .
@@ -3888,6 +3900,8 @@ shishangyanyi-jp.com CNAME .
 *.shishangyanyi-jp.com CNAME .
 shopfc24h.com CNAME .
 *.shopfc24h.com CNAME .
+sidflow.cfd CNAME .
+*.sidflow.cfd CNAME .
 signal-whatsapp.com CNAME .
 *.signal-whatsapp.com CNAME .
 signin.webapi-whatsapp.com CNAME .
