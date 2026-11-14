@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-14 20:45:27 (UTC)</th>
+        <th colspan=4>2026-11-14 21:00:26 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,11 +187,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 21 | 337 | 3093 | 43848 |
-| **:globe_with_meridians: Domains** | 16 | 241 | 2590 | 37728 |
-| **:triangular_flag_on_post: IPs** | 21 | 83 | 2199 | 7980 |
-| **:1234: SHA256** | 3 | 103 | 569 | 3287 |
-| **:1234: MD5** | 5 | 19 | 119 | 2022 |
+| **:link: URLs** | 27 | 494 | 3250 | 44005 |
+| **:globe_with_meridians: Domains** | 22 | 346 | 2695 | 37833 |
+| **:triangular_flag_on_post: IPs** | 23 | 299 | 2415 | 8196 |
+| **:1234: SHA256** | 4 | 131 | 597 | 3315 |
+| **:1234: MD5** | 5 | 26 | 126 | 2029 |
 
 </div>
 
@@ -204,15 +204,15 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 30 | 206 | 3608 | 31004 |
+| **#phishing** | 36 | 357 | 3759 | 31155 |
 | **#Kimsuky** | 0 | 0 | 36 | 13315 |
 | **#DPRK** | 0 | 0 | 18 | 11687 |
-| **#malware** | 9 | 178 | 1162 | 4314 |
-| **#scam** | 0 | 4 | 30 | 2642 |
-| **#C2** | 13 | 48 | 190 | 2049 |
-| **#APT** | 11 | 38 | 80 | 1466 |
-| **#ClickFix** | 0 | 70 | 242 | 1255 |
-| **#ransomware** | 0 | 1 | 76 | 678 |
+| **#malware** | 10 | 293 | 1277 | 4429 |
+| **#scam** | 6 | 10 | 36 | 2648 |
+| **#C2** | 13 | 54 | 196 | 2055 |
+| **#APT** | 11 | 45 | 87 | 1473 |
+| **#ClickFix** | 0 | 72 | 244 | 1257 |
+| **#ransomware** | 1 | 24 | 99 | 701 |
 | **#opendir** | 0 | 7 | 26 | 675 |
 <!-- TAG_TABLE_END -->
 
@@ -236,9 +236,9 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#5** | [TKemmerling](https://x.com/TKemmerling) | 6 |
 | **#6** | [scanmalware](https://x.com/scanmalware) | 6 |
 | **#7** | [PhishStats](https://x.com/PhishStats) | 5 |
-| **#8** | [navneetr4j](https://x.com/navneetr4j) | 2 |
-| **#9** | [skocherhan](https://x.com/skocherhan) | 2 |
-| **#10** | [sicehice](https://x.com/sicehice) | 1 |
+| **#8** | [patialavii](https://x.com/patialavii) | 4 |
+| **#9** | [chris_uk2026](https://x.com/chris_uk2026) | 4 |
+| **#10** | [oroshi0064](https://x.com/oroshi0064) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
