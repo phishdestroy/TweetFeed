@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-15 02:15:23 (UTC)</th>
+        <th colspan=4>2026-11-15 02:30:33 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,9 +187,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 4 | 429 | 3211 | 43888 |
-| **:globe_with_meridians: Domains** | 4 | 299 | 2668 | 37720 |
-| **:triangular_flag_on_post: IPs** | 0 | 292 | 2383 | 8197 |
+| **:link: URLs** | 6 | 431 | 3213 | 43890 |
+| **:globe_with_meridians: Domains** | 5 | 300 | 2669 | 37721 |
+| **:triangular_flag_on_post: IPs** | 1 | 293 | 2384 | 8198 |
 | **:1234: SHA256** | 2 | 120 | 591 | 3314 |
 | **:1234: MD5** | 0 | 25 | 125 | 2029 |
 
@@ -231,7 +231,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [masaomi346](https://x.com/masaomi346) | 6 |
 | **#2** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#3** | [-](https://x.com/-) | 0 |
+| **#3** | [Tuxxin](https://x.com/Tuxxin) | 4 |
 | **#4** | [-](https://x.com/-) | 0 |
 | **#5** | [-](https://x.com/-) | 0 |
 | **#6** | [-](https://x.com/-) | 0 |
