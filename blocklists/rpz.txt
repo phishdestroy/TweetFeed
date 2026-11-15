@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2563
-; Updated: 2026-11-15T06:45:22Z
+; Entries: 2565
+; Updated: 2026-11-15T09:00:30Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794725122 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794733230 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1458,6 +1458,8 @@ clouddesk.cc CNAME .
 *.clouddesk.cc CNAME .
 clouddns-whatsapp.com CNAME .
 *.clouddns-whatsapp.com CNAME .
+cloude.ai CNAME .
+*.cloude.ai CNAME .
 cloudeliverenterprise.com CNAME .
 *.cloudeliverenterprise.com CNAME .
 cloudeliverrs.com CNAME .
@@ -3532,6 +3534,8 @@ pradoferramentas.shop CNAME .
 *.pradoferramentas.shop CNAME .
 pregnantkha-jp.com CNAME .
 *.pregnantkha-jp.com CNAME .
+preplexity.ai CNAME .
+*.preplexity.ai CNAME .
 prev-whatsapp.com CNAME .
 *.prev-whatsapp.com CNAME .
 preview-whatsapp.com CNAME .
