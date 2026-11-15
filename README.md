@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-15 09:45:27 (UTC)</th>
+        <th colspan=4>2026-11-15 10:00:29 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,10 +187,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 15 | 440 | 3222 | 43899 |
-| **:globe_with_meridians: Domains** | 14 | 309 | 2678 | 37730 |
+| **:link: URLs** | 17 | 442 | 3224 | 43901 |
+| **:globe_with_meridians: Domains** | 16 | 311 | 2680 | 37732 |
 | **:triangular_flag_on_post: IPs** | 7 | 300 | 2391 | 8205 |
-| **:1234: SHA256** | 3 | 121 | 592 | 3315 |
+| **:1234: SHA256** | 4 | 122 | 593 | 3316 |
 | **:1234: MD5** | 0 | 25 | 125 | 2029 |
 
 </div>
@@ -204,7 +204,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 16 | 299 | 3713 | 30940 |
+| **#phishing** | 21 | 304 | 3718 | 30945 |
 | **#Kimsuky** | 0 | 0 | 36 | 13315 |
 | **#DPRK** | 0 | 0 | 18 | 11687 |
 | **#malware** | 11 | 250 | 1261 | 4438 |
@@ -231,14 +231,14 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [masaomi346](https://x.com/masaomi346) | 8 |
 | **#2** | [TKemmerling](https://x.com/TKemmerling) | 6 |
-| **#3** | [Tuxxin](https://x.com/Tuxxin) | 4 |
-| **#4** | [skocherhan](https://x.com/skocherhan) | 4 |
-| **#5** | [chris_uk2026](https://x.com/chris_uk2026) | 4 |
-| **#6** | [banthisguy9349](https://x.com/banthisguy9349) | 4 |
-| **#7** | [MalwareBibleJP](https://x.com/MalwareBibleJP) | 3 |
-| **#8** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#9** | [harugasumi](https://x.com/harugasumi) | 2 |
-| **#10** | [Fact_Finder03](https://x.com/Fact_Finder03) | 1 |
+| **#3** | [Malwarehunterr](https://x.com/Malwarehunterr) | 5 |
+| **#4** | [Tuxxin](https://x.com/Tuxxin) | 4 |
+| **#5** | [skocherhan](https://x.com/skocherhan) | 4 |
+| **#6** | [chris_uk2026](https://x.com/chris_uk2026) | 4 |
+| **#7** | [banthisguy9349](https://x.com/banthisguy9349) | 4 |
+| **#8** | [MalwareBibleJP](https://x.com/MalwareBibleJP) | 3 |
+| **#9** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#10** | [harugasumi](https://x.com/harugasumi) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
