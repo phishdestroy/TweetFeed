@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-15 20:45:27 (UTC)</th>
+        <th colspan=4>2026-11-15 21:00:32 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,8 +187,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 109 | 534 | 3316 | 43993 |
-| **:globe_with_meridians: Domains** | 67 | 362 | 2731 | 37783 |
+| **:link: URLs** | 117 | 542 | 3324 | 44001 |
+| **:globe_with_meridians: Domains** | 75 | 370 | 2739 | 37791 |
 | **:triangular_flag_on_post: IPs** | 20 | 313 | 2404 | 8218 |
 | **:1234: SHA256** | 12 | 130 | 601 | 3324 |
 | **:1234: MD5** | 28 | 53 | 153 | 2057 |
@@ -229,8 +229,8 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 81 |
-| **#2** | [skocherhan](https://x.com/skocherhan) | 72 |
+| **#1** | [skocherhan](https://x.com/skocherhan) | 88 |
+| **#2** | [Malwarehunterr](https://x.com/Malwarehunterr) | 81 |
 | **#3** | [chris_uk2026](https://x.com/chris_uk2026) | 12 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 10 |
 | **#5** | [PhishStats](https://x.com/PhishStats) | 9 |

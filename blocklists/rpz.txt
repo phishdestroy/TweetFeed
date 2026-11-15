@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2610
-; Updated: 2026-11-15T20:45:26Z
+; Entries: 2618
+; Updated: 2026-11-15T21:00:31Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794775526 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794776431 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -4092,6 +4092,22 @@ setuse-whatsapp.com CNAME .
 *.setuse-whatsapp.com CNAME .
 setweb-whatsapp.com CNAME .
 *.setweb-whatsapp.com CNAME .
+sever.cx CNAME .
+*.sever.cx CNAME .
+sever.st CNAME .
+*.sever.st CNAME .
+sever.to CNAME .
+*.sever.to CNAME .
+sever.ws CNAME .
+*.sever.ws CNAME .
+sever4apt73wclanpzgoelsscbj274xupr4npybhyr4vyvxl7jlarrqd.onion CNAME .
+*.sever4apt73wclanpzgoelsscbj274xupr4npybhyr4vyvxl7jlarrqd.onion CNAME .
+severgoodb3kdzmdnrnx3gb4jbw4gxe43mhvnxaacfq7oowb2ttsh7id.onion CNAME .
+*.severgoodb3kdzmdnrnx3gb4jbw4gxe43mhvnxaacfq7oowb2ttsh7id.onion CNAME .
+severown5xd6ojimw7qij32dvgeav5ath7fei4w7rbui5zo2rutk3yad.onion CNAME .
+*.severown5xd6ojimw7qij32dvgeav5ath7fei4w7rbui5zo2rutk3yad.onion CNAME .
+severxpppwio5sku5ffx2ddlbqszqous3wr7hph52dlcbdr3henfibid.onion CNAME .
+*.severxpppwio5sku5ffx2ddlbqszqous3wr7hph52dlcbdr3henfibid.onion CNAME .
 sexgirltiktok.cam CNAME .
 *.sexgirltiktok.cam CNAME .
 sexygal.top CNAME .
