@@ -1,5 +1,5 @@
 {
-  "count": 6167,
+  "count": 6162,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -10572,21 +10572,6 @@
       "type": "ip",
       "value": "163.7.14.164"
     },
-    "164.68.116.243": {
-      "confidence": 0.6,
-      "date": "2026-10-16 04:52:20",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "c2"
-      ],
-      "summary": "IP address 164.68.116.243 reported as a RAT command-and-control panel on port 5000.",
-      "threat_type": "c2",
-      "tweet_id": "2110956990654775583",
-      "type": "ip",
-      "value": "164.68.116.243"
-    },
     "165.101.222.104": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -13646,6 +13631,21 @@
       "type": "ip",
       "value": "193.233.75.208"
     },
+    "193.24.123.177": {
+      "confidence": 0.7,
+      "date": "2026-10-16 11:04:35",
+      "enriched_at": "2026-11-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "ransomware",
+        "malware"
+      ],
+      "summary": "Clearnet IP addresses attributed to The Seven Deadly Sins ransomware group infrastructure.",
+      "threat_type": "ransomware",
+      "tweet_id": "2111050667578233081",
+      "type": "ip",
+      "value": "193.24.123.177"
+    },
     "193.29.104.84": {
       "confidence": 0.75,
       "date": "2026-11-01 14:31:46",
@@ -14797,6 +14797,20 @@
       "tweet_id": "2111786774242758835",
       "type": "ip",
       "value": "2.27.12.169"
+    },
+    "2.27.12.60": {
+      "confidence": 0.6,
+      "date": "2026-11-15 06:07:41",
+      "enriched_at": "2026-11-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP address with port 3000 shared as a suspected C2 panel, tagged NIK and C2 by the poster.",
+      "threat_type": "c2",
+      "tweet_id": "2121847586281906464",
+      "type": "ip",
+      "value": "2.27.12.60"
     },
     "2.27.120.130": {
       "confidence": 0.85,
@@ -17000,36 +17014,6 @@
       "type": "md5",
       "value": "22e1db2b877cc70be55246ef1661d4e5"
     },
-    "23.132.164.3": {
-      "confidence": 0.6,
-      "date": "2026-10-16 06:12:58",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Japanese-targeted malspam with RAR attachment containing a JavaScript dropper (RE-PURCHASE ORDER.js); the sample communicates with C2 at 23.132.164.3:2404.",
-      "threat_type": "malware",
-      "tweet_id": "2110977280424227148",
-      "type": "ip",
-      "value": "23.132.164.3"
-    },
-    "23.132.164.3:2404": {
-      "confidence": 0.6,
-      "date": "2026-10-16 06:12:58",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Japanese-targeted malspam with RAR attachment containing a JavaScript dropper (RE-PURCHASE ORDER.js); the sample communicates with C2 at 23.132.164.3:2404.",
-      "threat_type": "malware",
-      "tweet_id": "2110977280424227148",
-      "type": "url",
-      "value": "http://23.132.164.3:2404"
-    },
     "23.136.172.163": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -18354,6 +18338,18 @@
       "tweet_id": "2118450511234150864",
       "type": "domain",
       "value": "2today-diwalisales.info"
+    },
+    "3.3.1.0": {
+      "confidence": 0.7,
+      "date": "2026-11-15 03:27:03",
+      "enriched_at": "2026-11-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Claimed unauthenticated remote root CA installation flaw in eMudhra emBridge 3.3.1.0 enabling TLS MITM on RHEL-family Linux; the version string was parsed as an IP.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2121807161558741260",
+      "type": "ip",
+      "value": "3.3.1.0"
     },
     "3.39.131.123": {
       "confidence": 0.7,
@@ -27696,6 +27692,21 @@
       "type": "url",
       "value": "http://37.27.4.20"
     },
+    "37.72.140.179": {
+      "confidence": 0.7,
+      "date": "2026-10-16 11:04:35",
+      "enriched_at": "2026-11-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "ransomware",
+        "malware"
+      ],
+      "summary": "Clearnet IP addresses attributed to The Seven Deadly Sins ransomware group infrastructure.",
+      "threat_type": "ransomware",
+      "tweet_id": "2111050667578233081",
+      "type": "ip",
+      "value": "37.72.140.179"
+    },
     "37.77.150.214": {
       "confidence": 0.5,
       "date": "2026-10-16 09:58:06",
@@ -29970,6 +29981,22 @@
       "type": "ip",
       "value": "45.43.37.254"
     },
+    "45.56.162.130": {
+      "confidence": 0.7,
+      "date": "2026-11-14 23:51:18",
+      "enriched_at": "2026-11-15T06:40:04Z",
+      "family": "AridGopher",
+      "suggested_tags": [
+        "apt",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Arabic-language espionage campaigns using survey lures, macro Word docs and a Go backdoor; staging IP linked to Arid Viper activity (AridGopher), attribution partly uncertain.",
+      "threat_type": "malware",
+      "tweet_id": "2121752866192802145",
+      "type": "ip",
+      "value": "45.56.162.130"
+    },
     "45.61.136.104": {
       "confidence": 0.2,
       "date": "2026-11-11 16:55:17",
@@ -30880,20 +30907,6 @@
       "tweet_id": "2121241291514159580",
       "type": "ip",
       "value": "47.74.42.176"
-    },
-    "47.74.7.119": {
-      "confidence": 0.9,
-      "date": "2026-10-16 06:33:22",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating JCB (MyJCB) at rnbwjd.cfd, hosted on the listed IP.",
-      "threat_type": "phishing",
-      "tweet_id": "2110982415246324049",
-      "type": "url",
-      "value": "http://47.74.7.119"
     },
     "47.74.9.184": {
       "confidence": 0.85,
@@ -32637,6 +32650,22 @@
       "type": "ip",
       "value": "51.91.236.255"
     },
+    "511901794c3770642c45782c8ad6dd02a0ba9df2670ef0c8cebe8b7a0f50cce6": {
+      "confidence": 0.75,
+      "date": "2026-11-15 01:48:27",
+      "enriched_at": "2026-11-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware and phishing site impersonating Mitsui Sumitomo Card, with an associated malicious APK sample hash.",
+      "threat_type": "malware",
+      "tweet_id": "2121782349432254752",
+      "type": "sha256",
+      "value": "511901794c3770642c45782c8ad6dd02a0ba9df2670ef0c8cebe8b7a0f50cce6"
+    },
     "51d3b946b03d9d6d53ee18e16e9892afbce396ce28f4f5600365cf441f379991": {
       "confidence": 0.2,
       "date": "2026-11-02 17:22:54",
@@ -33486,20 +33515,6 @@
       "tweet_id": "2111215067245011403",
       "type": "domain",
       "value": "5kiwqdzvhip5yjx5u6ms2hsv3yozpslxocjhyf4cyimrg33fcb7devid.onion"
-    },
-    "5p8w1j6f9y3h0t7bg.live": {
-      "confidence": 0.85,
-      "date": "2026-10-16 03:39:05",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating the SaxoTraderGO trading platform, hosted at 5p8w1j6f9y3h0t7bg.live.",
-      "threat_type": "phishing",
-      "tweet_id": "2110938554058822042",
-      "type": "domain",
-      "value": "5p8w1j6f9y3h0t7bg.live"
     },
     "5today-diwalisales.icu": {
       "confidence": 0.75,
@@ -34742,6 +34757,22 @@
       "type": "sha256",
       "value": "7108d2c7b985267bec554335b4a91b8f756b4d1eca463d04051b4d65b065d587"
     },
+    "711sahwd.eu.cc": {
+      "confidence": 0.75,
+      "date": "2026-11-15 02:09:41",
+      "enriched_at": "2026-11-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware and phishing site impersonating 7-Eleven, with an associated malicious APK sample hash.",
+      "threat_type": "malware",
+      "tweet_id": "2121787694078713997",
+      "type": "domain",
+      "value": "711sahwd.eu.cc"
+    },
     "717ce10ab324d01bc51602cf360ce03854ec607a360548bb764b623293a4de45": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -34833,6 +34864,22 @@
       "tweet_id": "2120477206077972762",
       "type": "sha256",
       "value": "72c1a18bae6a90e533e940ce55315cf7422d0eb2f3531550e24202ec9f41eb93"
+    },
+    "72e1967eef9eba003777703e1dfe067622eec460f4db0be01b4517423540c4bd": {
+      "confidence": 0.75,
+      "date": "2026-11-15 02:09:41",
+      "enriched_at": "2026-11-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware and phishing site impersonating 7-Eleven, with an associated malicious APK sample hash.",
+      "threat_type": "malware",
+      "tweet_id": "2121787694078713997",
+      "type": "sha256",
+      "value": "72e1967eef9eba003777703e1dfe067622eec460f4db0be01b4517423540c4bd"
     },
     "73308c0cf28292fdc4653e83263e35e6451f0ff8e7f4c28b0db1e57b627841aa": {
       "confidence": 0.8,
@@ -39471,6 +39518,18 @@
       "tweet_id": "2115115324085596651",
       "type": "sha256",
       "value": "9a30421a755d23c6df57dd0d4af6d3526fc6dbb9f34638f82cd1bfeefefa296c"
+    },
+    "9b0efba16de053c58e1d79d0b51c7331b74da729bd7913b9c9dfa95381398fb8": {
+      "confidence": 0.2,
+      "date": "2026-10-27 16:16:04",
+      "enriched_at": "2026-11-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Bare list of SHA256 file hashes shared without context; no family or threat details identifiable.",
+      "threat_type": "other",
+      "tweet_id": "2115115324085596651",
+      "type": "sha256",
+      "value": "9b0efba16de053c58e1d79d0b51c7331b74da729bd7913b9c9dfa95381398fb8"
     },
     "9b7765be492dc4ad1078afacd049029e23cca214988bc25904f17178b8ee3764": {
       "confidence": 0.6,
@@ -53890,21 +53949,6 @@
       "type": "md5",
       "value": "d284a2c78b1717620b9c7f99d9512aba"
     },
-    "d2ba2b7c61b060f644f46add729c4006": {
-      "confidence": 0.6,
-      "date": "2026-10-16 06:12:58",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Japanese-targeted malspam with RAR attachment containing a JavaScript dropper (RE-PURCHASE ORDER.js); the sample communicates with C2 at 23.132.164.3:2404.",
-      "threat_type": "malware",
-      "tweet_id": "2110977280424227148",
-      "type": "md5",
-      "value": "d2ba2b7c61b060f644f46add729c4006"
-    },
     "d2d95c5534efcea6c63843cde59b617ac5b97e057d908298191468d5e3b7635a": {
       "confidence": 0.55,
       "date": "2026-10-23 20:30:49",
@@ -56402,34 +56446,6 @@
       "type": "domain",
       "value": "docs.webapi-whatsapp.com"
     },
-    "docsewallet.com": {
-      "confidence": 0.85,
-      "date": "2026-10-16 05:14:57",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": "ScreenConnect",
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page docsewallet.com delivering a ScreenConnect RMM client installer hosted on a screenconnect.com instance.",
-      "threat_type": "phishing",
-      "tweet_id": "2110962680358175038",
-      "type": "domain",
-      "value": "docsewallet.com"
-    },
-    "docsewallet.com/adobe_installer.html": {
-      "confidence": 0.85,
-      "date": "2026-10-16 05:14:57",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": "ScreenConnect",
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page docsewallet.com delivering a ScreenConnect RMM client installer hosted on a screenconnect.com instance.",
-      "threat_type": "phishing",
-      "tweet_id": "2110962680358175038",
-      "type": "url",
-      "value": "https://docsewallet.com/Adobe_Installer.html"
-    },
     "docsportal.in": {
       "confidence": 0.8,
       "date": "2026-11-05 15:24:00",
@@ -56979,6 +56995,34 @@
       "tweet_id": "2119474435170476347",
       "type": "url",
       "value": "https://dunlop-ya.top/login/index"
+    },
+    "duo-you.com": {
+      "confidence": 0.9,
+      "date": "2026-11-15 04:24:16",
+      "enriched_at": "2026-11-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating a Rakuten credit card login page to harvest credentials.",
+      "threat_type": "phishing",
+      "tweet_id": "2121821560227172423",
+      "type": "domain",
+      "value": "duo-you.com"
+    },
+    "duo-you.com/logininfo": {
+      "confidence": 0.9,
+      "date": "2026-11-15 04:24:16",
+      "enriched_at": "2026-11-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating a Rakuten credit card login page to harvest credentials.",
+      "threat_type": "phishing",
+      "tweet_id": "2121821560227172423",
+      "type": "url",
+      "value": "https://duo-you.com/logininfo"
     },
     "dzwwftf.cn": {
       "confidence": 0.9,
@@ -57660,6 +57704,50 @@
       "tweet_id": "2118450511234150864",
       "type": "domain",
       "value": "easydiwali.shop"
+    },
+    "eaucool.com": {
+      "confidence": 0.6,
+      "date": "2026-11-15 04:01:53",
+      "enriched_at": "2026-11-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Website eaucool[.]com flagged as a confirmed scam by an automated web malware scanner.",
+      "threat_type": "scam",
+      "tweet_id": "2121815929864527916",
+      "type": "domain",
+      "value": "eaucool.com"
+    },
+    "ebae9qsf.s3.us-east-1.amazonaws.com": {
+      "confidence": 0.85,
+      "date": "2026-11-15 04:40:12",
+      "enriched_at": "2026-11-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing site impersonating Japan Post, hosted on an S3 bucket, tied to a tech-support scam urging victims to call an international phone number.",
+      "threat_type": "phishing",
+      "tweet_id": "2121825572032790679",
+      "type": "domain",
+      "value": "ebae9qsf.s3.us-east-1.amazonaws.com"
+    },
+    "ebae9qsf.s3.us-east-1.amazonaws.com/index.html": {
+      "confidence": 0.85,
+      "date": "2026-11-15 04:40:12",
+      "enriched_at": "2026-11-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing site impersonating Japan Post, hosted on an S3 bucket, tied to a tech-support scam urging victims to call an international phone number.",
+      "threat_type": "phishing",
+      "tweet_id": "2121825572032790679",
+      "type": "url",
+      "value": "https://ebae9qsf.s3.us-east-1.amazonaws.com/index.html"
     },
     "ebd865e5901bd5881f6a932d5f7a58e69ef54d25a58df50547e1b1fc8612789d": {
       "confidence": 0.6,
@@ -58827,21 +58915,6 @@
       "type": "sha256",
       "value": "f0a045452f2a497c49e3b1ad69a0aff206acf5b04ef11cf05301af896a0e98ec"
     },
-    "f0a1ff80146ad904ad79b1b36e394e7033e3bba92cdf79967643723be4b9e01a": {
-      "confidence": 0.6,
-      "date": "2026-10-16 06:12:58",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Japanese-targeted malspam with RAR attachment containing a JavaScript dropper (RE-PURCHASE ORDER.js); the sample communicates with C2 at 23.132.164.3:2404.",
-      "threat_type": "malware",
-      "tweet_id": "2110977280424227148",
-      "type": "sha256",
-      "value": "f0a1ff80146ad904ad79b1b36e394e7033e3bba92cdf79967643723be4b9e01a"
-    },
     "f1060a81c9f68d6f3d23e28f2a1af50fa18ecb9b0a763ca5dcd4b294b6a3593c": {
       "confidence": 0.8,
       "date": "2026-11-03 17:11:10",
@@ -59838,34 +59911,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "fhnweb-whatsapp.com"
-    },
-    "fiberhost.net": {
-      "confidence": 0.85,
-      "date": "2026-10-16 04:22:03",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": "ScreenConnect",
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Google Meet-themed phishing page at fiberhost.net delivering a ScreenConnect RMM payload.",
-      "threat_type": "phishing",
-      "tweet_id": "2110949368727736449",
-      "type": "domain",
-      "value": "fiberhost.net"
-    },
-    "fiberhost.net/gleview": {
-      "confidence": 0.85,
-      "date": "2026-10-16 04:22:03",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": "ScreenConnect",
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Google Meet-themed phishing page at fiberhost.net delivering a ScreenConnect RMM payload.",
-      "threat_type": "phishing",
-      "tweet_id": "2110949368727736449",
-      "type": "url",
-      "value": "https://fiberhost.net/gleview/"
     },
     "fiklghytart-diwali-sale.space": {
       "confidence": 0.75,
@@ -66114,6 +66159,22 @@
       "type": "domain",
       "value": "ka376.online"
     },
+    "kaizensolutions-jp.com": {
+      "confidence": 0.75,
+      "date": "2026-11-15 01:48:27",
+      "enriched_at": "2026-11-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware and phishing site impersonating Mitsui Sumitomo Card, with an associated malicious APK sample hash.",
+      "threat_type": "malware",
+      "tweet_id": "2121782349432254752",
+      "type": "domain",
+      "value": "kaizensolutions-jp.com"
+    },
     "kakisafedecrypt.com": {
       "confidence": 0.8,
       "date": "2026-10-27 07:09:59",
@@ -67783,34 +67844,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "login.zh.webhwsapp-whatsapp.com"
-    },
-    "login.zhongshengsuoju.com": {
-      "confidence": 0.75,
-      "date": "2026-10-16 01:53:52",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page on login.zhongshengsuoju.com behind Cloudflare, with a Chinese-language path and tracking token in the URL.",
-      "threat_type": "phishing",
-      "tweet_id": "2110912077938225655",
-      "type": "domain",
-      "value": "login.zhongshengsuoju.com"
-    },
-    "login.zhongshengsuoju.com/cn/?dygd1dkxz7xjdvrukpmswlnw": {
-      "confidence": 0.75,
-      "date": "2026-10-16 01:53:52",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page on login.zhongshengsuoju.com behind Cloudflare, with a Chinese-language path and tracking token in the URL.",
-      "threat_type": "phishing",
-      "tweet_id": "2110912077938225655",
-      "type": "url",
-      "value": "https://login.zhongshengsuoju.com/cn/?dygD1DKxz7xJdVrUkpMSWlNW"
     },
     "logs.uvexio.com": {
       "confidence": 0.6,
@@ -73234,20 +73267,6 @@
       "type": "domain",
       "value": "ptrdfvc.sbs"
     },
-    "pub-0c3c1b636d92458081997bb1aec2f965.r2.dev": {
-      "confidence": 0.5,
-      "date": "2026-10-16 04:10:05",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Cloudflare R2 public bucket subdomain flagged by an automated web scanner as a confirmed scam site.",
-      "threat_type": "scam",
-      "tweet_id": "2110946355111702888",
-      "type": "domain",
-      "value": "pub-0c3c1b636d92458081997bb1aec2f965.r2.dev"
-    },
     "pub-3f84de9aa4f04824a3cf79d4adea59cb.r2.dev": {
       "confidence": 0.6,
       "date": "2026-10-28 02:31:18",
@@ -74778,34 +74797,6 @@
       "type": "domain",
       "value": "rn-a-g-a-z-i-n-promocoes.com"
     },
-    "rnbwjd.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-16 06:33:22",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating JCB (MyJCB) at rnbwjd.cfd, hosted on the listed IP.",
-      "threat_type": "phishing",
-      "tweet_id": "2110982415246324049",
-      "type": "domain",
-      "value": "rnbwjd.cfd"
-    },
-    "rnbwjd.cfd/gndflhbz": {
-      "confidence": 0.9,
-      "date": "2026-10-16 06:33:22",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating JCB (MyJCB) at rnbwjd.cfd, hosted on the listed IP.",
-      "threat_type": "phishing",
-      "tweet_id": "2110982415246324049",
-      "type": "url",
-      "value": "https://rnbwjd.cfd/gndflhbz/"
-    },
     "rne1sf2u.onlinewebshop.net": {
       "confidence": 0.6,
       "date": "2026-10-24 15:16:42",
@@ -75349,6 +75340,20 @@
       "tweet_id": "2117950517305655397",
       "type": "url",
       "value": "http://s3051017.s3.us-east-2.amazonaws.com/ds.html"
+    },
+    "safeguard-online-peach.vercel.app": {
+      "confidence": 0.6,
+      "date": "2026-11-15 03:55:59",
+      "enriched_at": "2026-11-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Vercel-hosted website flagged as a confirmed scam by an automated web malware scanner.",
+      "threat_type": "scam",
+      "tweet_id": "2121814443822576107",
+      "type": "domain",
+      "value": "safeguard-online-peach.vercel.app"
     },
     "saissodbn202607oint.u0fnd.info": {
       "confidence": 0.9,
@@ -77013,34 +77018,6 @@
       "tweet_id": "2110999292425216435",
       "type": "url",
       "value": "http://share.google/QHaVAHYezQEEkXXab"
-    },
-    "share.google/vvt7bypzbskotfylv": {
-      "confidence": 0.7,
-      "date": "2026-10-16 06:05:21",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese-language phishing email about a damaged-product refund request, using a Google share link redirect to the malicious domain tea.vexexo.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2110975364407439829",
-      "type": "url",
-      "value": "http://share.google/VVT7ByPZBsKoTFyLV"
-    },
-    "share.google/vvt7bypzbskotfylv&source=gmail&ust=1792020319700000&usg=aovvaw3icxkby-9wnaschkxprzjh": {
-      "confidence": 0.7,
-      "date": "2026-10-16 06:05:21",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese-language phishing email about a damaged-product refund request, using a Google share link redirect to the malicious domain tea.vexexo.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2110975364407439829",
-      "type": "url",
-      "value": "http://share.google/VVT7ByPZBsKoTFyLV&source=gmail&ust=1792020319700000&usg=AOvVaw3ICXKBy-9wnasCHkxpRzJh"
     },
     "share.google/xpdwuy4wr618gbijq": {
       "confidence": 0.5,
@@ -80297,20 +80274,6 @@
       "type": "domain",
       "value": "te1egram.lol"
     },
-    "tea.vexexo.com": {
-      "confidence": 0.7,
-      "date": "2026-10-16 06:05:21",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese-language phishing email about a damaged-product refund request, using a Google share link redirect to the malicious domain tea.vexexo.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2110975364407439829",
-      "type": "domain",
-      "value": "tea.vexexo.com"
-    },
     "teamsmeeting.site": {
       "confidence": 0.8,
       "date": "2026-10-24 05:16:18",
@@ -80941,34 +80904,6 @@
       "tweet_id": "2115594061877023225",
       "type": "domain",
       "value": "themoviemindzu.com"
-    },
-    "theocbuildinggroup.screenconnect.com": {
-      "confidence": 0.85,
-      "date": "2026-10-16 05:14:57",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": "ScreenConnect",
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page docsewallet.com delivering a ScreenConnect RMM client installer hosted on a screenconnect.com instance.",
-      "threat_type": "phishing",
-      "tweet_id": "2110962680358175038",
-      "type": "domain",
-      "value": "theocbuildinggroup.screenconnect.com"
-    },
-    "theocbuildinggroup.screenconnect.com/bin/screenconnect.clientsetup.exe": {
-      "confidence": 0.85,
-      "date": "2026-10-16 05:14:57",
-      "enriched_at": "2026-10-16T06:40:04Z",
-      "family": "ScreenConnect",
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page docsewallet.com delivering a ScreenConnect RMM client installer hosted on a screenconnect.com instance.",
-      "threat_type": "phishing",
-      "tweet_id": "2110962680358175038",
-      "type": "url",
-      "value": "https://theocbuildinggroup.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
     },
     "theworkshop-sign.skin": {
       "confidence": 0.6,
@@ -86947,6 +86882,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-15T00:40:05Z",
+  "generated_at": "2026-11-15T06:40:04Z",
   "window_days": 30
 }
