@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2582
-; Updated: 2026-11-15T18:30:30Z
+; Entries: 2599
+; Updated: 2026-11-15T18:45:27Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794767430 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794768327 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1966,8 +1966,42 @@ echalla.shop CNAME .
 *.echalla.shop CNAME .
 echalla.xyz CNAME .
 *.echalla.xyz CNAME .
+echallaa.cam CNAME .
+*.echallaa.cam CNAME .
+echallae.shop CNAME .
+*.echallae.shop CNAME .
+echallal.cam CNAME .
+*.echallal.cam CNAME .
 echallan.party CNAME .
 *.echallan.party CNAME .
+echallao.icu CNAME .
+*.echallao.icu CNAME .
+echallax.shop CNAME .
+*.echallax.shop CNAME .
+echallin.cam CNAME .
+*.echallin.cam CNAME .
+echallin.click CNAME .
+*.echallin.click CNAME .
+echallin.cyou CNAME .
+*.echallin.cyou CNAME .
+echallin.shop CNAME .
+*.echallin.shop CNAME .
+echallin.xyz CNAME .
+*.echallin.xyz CNAME .
+echallln.bar CNAME .
+*.echallln.bar CNAME .
+echallln.cfd CNAME .
+*.echallln.cfd CNAME .
+echalln.cam CNAME .
+*.echalln.cam CNAME .
+echalln.cyou CNAME .
+*.echalln.cyou CNAME .
+echalln.icu CNAME .
+*.echalln.icu CNAME .
+echalln.top CNAME .
+*.echalln.top CNAME .
+echallna.icu CNAME .
+*.echallna.icu CNAME .
 ecoformacao.com CNAME .
 *.ecoformacao.com CNAME .
 edgeapi-whatsapp.com CNAME .

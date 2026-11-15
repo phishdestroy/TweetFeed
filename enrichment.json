@@ -1,10 +1,6 @@
 {
-  "count": 6110,
+  "count": 6141,
   "dead_tweets": {
-    "2111212930066706900": {
-      "attempts": 2,
-      "last_attempt": "2026-11-08T18:40:04Z"
-    },
     "2114565057338343930": {
       "attempts": 2,
       "last_attempt": "2026-11-10T18:40:04Z"
@@ -270,6 +266,21 @@
       "tweet_id": "2116907842125132115",
       "type": "sha256",
       "value": "04395a955f57f772cfb4d0d6161bf085c48e6d55ed6fc7cbbf522867099957d7"
+    },
+    "04ec3f1c19c90a91085aaa44802b3fe0a2a93285dd87f7bae6cf8f33b5ab52d4": {
+      "confidence": 0.6,
+      "date": "2026-11-15 14:17:12",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 panel on 89.127.234.171:8081 with associated domain 9kod.lol and two file hashes; malware family not identified.",
+      "threat_type": "c2",
+      "tweet_id": "2121970777247682812",
+      "type": "sha256",
+      "value": "04ec3f1c19c90a91085aaa44802b3fe0a2a93285dd87f7bae6cf8f33b5ab52d4"
     },
     "05880d390a0ec8e221b0b8f3eb2f2f0172e192c8dd0a2f409806bc24e98a182c": {
       "confidence": 0.6,
@@ -685,6 +696,20 @@
       "tweet_id": "2117605840337191002",
       "type": "md5",
       "value": "0e807a485125b699a83d923eea9e128a"
+    },
+    "0e85f8776c68237fe42e85901b16a05de595cde5f4b3faa77307925dc0405d0b": {
+      "confidence": 0.5,
+      "date": "2026-11-15 14:31:15",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious document sample hosted on Pixeldrain and analyzed with the MaldocTrace tool; sample listed on MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2121974312844337642",
+      "type": "sha256",
+      "value": "0e85f8776c68237fe42e85901b16a05de595cde5f4b3faa77307925dc0405d0b"
     },
     "1.14.104.208": {
       "confidence": 0.75,
@@ -1962,22 +1987,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "103.182.213.192"
-    },
-    "103.185.249.13": {
-      "confidence": 0.9,
-      "date": "2026-10-16 14:03:21",
-      "enriched_at": "2026-10-16T18:40:03Z",
-      "family": "Sliver",
-      "suggested_tags": [
-        "sliver",
-        "c2",
-        "malware"
-      ],
-      "summary": "Sliver C2 server IPs identified via Shodan, with additional IPs listed in an external GitHub indicator list.",
-      "threat_type": "c2",
-      "tweet_id": "2111095657465516235",
-      "type": "url",
-      "value": "http://103.185.249.13"
     },
     "103.185.25.41": {
       "confidence": 0.5,
@@ -3483,6 +3492,21 @@
       "type": "ip",
       "value": "104.250.149.212"
     },
+    "104.250.165.186": {
+      "confidence": 0.9,
+      "date": "2026-11-15 13:01:28",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Binance phishing domain binance-verif.com, registered 2026-11-13, hosted on 104.250.165.186 (AS399979, Germany).",
+      "threat_type": "phishing",
+      "tweet_id": "2121951717231063191",
+      "type": "ip",
+      "value": "104.250.165.186"
+    },
     "104.36.83.136": {
       "confidence": 0.25,
       "date": "2026-11-05 20:05:44",
@@ -4967,22 +4991,6 @@
       "tweet_id": "2120265662782152890",
       "type": "sha256",
       "value": "128188511e53252b7018c180ac8e95173ab70258f42f08f1c4e9e922c466dcaf"
-    },
-    "129.121.62.230": {
-      "confidence": 0.9,
-      "date": "2026-10-16 14:03:21",
-      "enriched_at": "2026-10-16T18:40:03Z",
-      "family": "Sliver",
-      "suggested_tags": [
-        "sliver",
-        "c2",
-        "malware"
-      ],
-      "summary": "Sliver C2 server IPs identified via Shodan, with additional IPs listed in an external GitHub indicator list.",
-      "threat_type": "c2",
-      "tweet_id": "2111095657465516235",
-      "type": "url",
-      "value": "http://129.121.62.230"
     },
     "129.146.23.7": {
       "confidence": 0.5,
@@ -9861,22 +9869,6 @@
       "type": "url",
       "value": "http://159.195.215.68"
     },
-    "159.223.238.117": {
-      "confidence": 0.9,
-      "date": "2026-10-16 14:03:21",
-      "enriched_at": "2026-10-16T18:40:03Z",
-      "family": "Sliver",
-      "suggested_tags": [
-        "sliver",
-        "c2",
-        "malware"
-      ],
-      "summary": "Sliver C2 server IPs identified via Shodan, with additional IPs listed in an external GitHub indicator list.",
-      "threat_type": "c2",
-      "tweet_id": "2111095657465516235",
-      "type": "url",
-      "value": "http://159.223.238.117"
-    },
     "16.16.63.239": {
       "confidence": 0.6,
       "date": "2026-10-26 08:28:00",
@@ -10574,6 +10566,62 @@
       "type": "url",
       "value": "http://166.88.4.144"
     },
+    "167.148.195.53": {
+      "confidence": 0.3,
+      "date": "2026-11-15 17:15:06",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "IP 167.148.195.53 reported with listening ports 443, 5555 and 7777, submitted to the Trails threat list; likely malicious infrastructure, nature unspecified.",
+      "threat_type": "other",
+      "tweet_id": "2122015550251421920",
+      "type": "ip",
+      "value": "167.148.195.53"
+    },
+    "167.148.195.53:443": {
+      "confidence": 0.3,
+      "date": "2026-11-15 17:15:06",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "IP 167.148.195.53 reported with listening ports 443, 5555 and 7777, submitted to the Trails threat list; likely malicious infrastructure, nature unspecified.",
+      "threat_type": "other",
+      "tweet_id": "2122015550251421920",
+      "type": "url",
+      "value": "http://167.148.195.53:443"
+    },
+    "167.148.195.53:5555": {
+      "confidence": 0.3,
+      "date": "2026-11-15 17:15:06",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "IP 167.148.195.53 reported with listening ports 443, 5555 and 7777, submitted to the Trails threat list; likely malicious infrastructure, nature unspecified.",
+      "threat_type": "other",
+      "tweet_id": "2122015550251421920",
+      "type": "url",
+      "value": "http://167.148.195.53:5555"
+    },
+    "167.148.195.53:7777": {
+      "confidence": 0.3,
+      "date": "2026-11-15 17:15:06",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "IP 167.148.195.53 reported with listening ports 443, 5555 and 7777, submitted to the Trails threat list; likely malicious infrastructure, nature unspecified.",
+      "threat_type": "other",
+      "tweet_id": "2122015550251421920",
+      "type": "url",
+      "value": "http://167.148.195.53:7777"
+    },
     "167.148.201.149": {
       "confidence": 0.6,
       "date": "2026-11-05 19:00:43",
@@ -10654,22 +10702,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "167.254.79.1"
-    },
-    "167.71.16.171": {
-      "confidence": 0.9,
-      "date": "2026-10-16 14:03:21",
-      "enriched_at": "2026-10-16T18:40:03Z",
-      "family": "Sliver",
-      "suggested_tags": [
-        "sliver",
-        "c2",
-        "malware"
-      ],
-      "summary": "Sliver C2 server IPs identified via Shodan, with additional IPs listed in an external GitHub indicator list.",
-      "threat_type": "c2",
-      "tweet_id": "2111095657465516235",
-      "type": "url",
-      "value": "http://167.71.16.171"
     },
     "167.71.233.141": {
       "confidence": 0.5,
@@ -12624,6 +12656,20 @@
       "tweet_id": "2118432402015948849",
       "type": "ip",
       "value": "185.254.198.90"
+    },
+    "185.27.134.113": {
+      "confidence": 0.85,
+      "date": "2026-11-15 12:19:41",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "New phishing page at catlogue.page.gd/doublem/1.php hosted on 185.27.134.113 (Wildcard UK, AS34119).",
+      "threat_type": "phishing",
+      "tweet_id": "2121941203113398431",
+      "type": "ip",
+      "value": "185.27.134.113"
     },
     "185.34.144.140": {
       "confidence": 0.5,
@@ -14702,6 +14748,18 @@
       "tweet_id": "2111786774242758835",
       "type": "ip",
       "value": "2.29.2.248"
+    },
+    "2.31.188.197": {
+      "confidence": 0.5,
+      "date": "2026-11-15 15:08:20",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "IP 2.31.188.197 hosted at Hetzner with SSL for swissrdp.com, reported as infrastructure of a bulletproof hosting provider.",
+      "threat_type": "other",
+      "tweet_id": "2121983645322014891",
+      "type": "url",
+      "value": "http://2.31.188.197"
     },
     "2.59.152.21": {
       "confidence": 0.6,
@@ -30716,6 +30774,20 @@
       "type": "ip",
       "value": "47.79.32.9"
     },
+    "47.79.33.3": {
+      "confidence": 0.85,
+      "date": "2026-10-19 03:54:01",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Amazon-themed phishing reported by a Japanese university: lure at fase-x.com redirects to vn-open888.com hosted on 47.79.33.3.",
+      "threat_type": "phishing",
+      "tweet_id": "2112029478574780667",
+      "type": "ip",
+      "value": "47.79.33.3"
+    },
     "47.79.34.143": {
       "confidence": 0.6,
       "date": "2026-11-13 13:58:29",
@@ -33500,6 +33572,108 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "64.20.61.134"
+    },
+    "64.204.80.251": {
+      "confidence": 0.8,
+      "date": "2026-11-15 17:10:19",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "cryptoscam",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site uses ClickFix to run PowerShell, fetch Node.js and obfuscated parser.js; uses TRON/BSC blockchain to retrieve a hidden payload. Mobile URLs return 404.",
+      "threat_type": "malware",
+      "tweet_id": "2122014343495864483",
+      "type": "url",
+      "value": "http://64.204.80.251"
+    },
+    "64.204.80.251/815/815l": {
+      "confidence": 0.8,
+      "date": "2026-11-15 17:10:19",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "cryptoscam",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site uses ClickFix to run PowerShell, fetch Node.js and obfuscated parser.js; uses TRON/BSC blockchain to retrieve a hidden payload. Mobile URLs return 404.",
+      "threat_type": "malware",
+      "tweet_id": "2122014343495864483",
+      "type": "url",
+      "value": "http://64.204.80.251/815/815l"
+    },
+    "64.204.80.251/815/815w": {
+      "confidence": 0.8,
+      "date": "2026-11-15 17:10:19",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "cryptoscam",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site uses ClickFix to run PowerShell, fetch Node.js and obfuscated parser.js; uses TRON/BSC blockchain to retrieve a hidden payload. Mobile URLs return 404.",
+      "threat_type": "malware",
+      "tweet_id": "2122014343495864483",
+      "type": "url",
+      "value": "http://64.204.80.251/815/815w"
+    },
+    "64.204.80.251/815/apple-verify": {
+      "confidence": 0.8,
+      "date": "2026-11-15 17:10:19",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "cryptoscam",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site uses ClickFix to run PowerShell, fetch Node.js and obfuscated parser.js; uses TRON/BSC blockchain to retrieve a hidden payload. Mobile URLs return 404.",
+      "threat_type": "malware",
+      "tweet_id": "2122014343495864483",
+      "type": "url",
+      "value": "http://64.204.80.251/815/apple-verify"
+    },
+    "64.204.80.251/815/parser.js": {
+      "confidence": 0.8,
+      "date": "2026-11-15 17:10:19",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "cryptoscam",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site uses ClickFix to run PowerShell, fetch Node.js and obfuscated parser.js; uses TRON/BSC blockchain to retrieve a hidden payload. Mobile URLs return 404.",
+      "threat_type": "malware",
+      "tweet_id": "2122014343495864483",
+      "type": "url",
+      "value": "http://64.204.80.251/815/parser.js"
+    },
+    "64.204.80.251/815/security-patch.apk": {
+      "confidence": 0.8,
+      "date": "2026-11-15 17:10:19",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "cryptoscam",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site uses ClickFix to run PowerShell, fetch Node.js and obfuscated parser.js; uses TRON/BSC blockchain to retrieve a hidden payload. Mobile URLs return 404.",
+      "threat_type": "malware",
+      "tweet_id": "2122014343495864483",
+      "type": "url",
+      "value": "http://64.204.80.251/815/security-patch.apk"
     },
     "64.224.17.108": {
       "confidence": 0.65,
@@ -37606,6 +37780,21 @@
       "type": "ip",
       "value": "89.126.211.166"
     },
+    "89.127.234.171": {
+      "confidence": 0.6,
+      "date": "2026-11-15 14:17:12",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 panel on 89.127.234.171:8081 with associated domain 9kod.lol and two file hashes; malware family not identified.",
+      "threat_type": "c2",
+      "tweet_id": "2121970777247682812",
+      "type": "ip",
+      "value": "89.127.234.171"
+    },
     "89.185.80.134": {
       "confidence": 0.55,
       "date": "2026-10-19 06:19:13",
@@ -39293,6 +39482,21 @@
       "type": "sha256",
       "value": "9dc8574843fdb8f0834bcf2c4d3f5b0c122368b925e0d3a5eec07b8f2d9e8db0"
     },
+    "9fb62ab9072f8b320c5b4170ac054def36effbc457f9560410ee1de16cc642aa": {
+      "confidence": 0.6,
+      "date": "2026-11-15 14:17:12",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 panel on 89.127.234.171:8081 with associated domain 9kod.lol and two file hashes; malware family not identified.",
+      "threat_type": "c2",
+      "tweet_id": "2121970777247682812",
+      "type": "sha256",
+      "value": "9fb62ab9072f8b320c5b4170ac054def36effbc457f9560410ee1de16cc642aa"
+    },
     "9oogle.app": {
       "confidence": 0.8,
       "date": "2026-10-22 16:33:07",
@@ -40588,6 +40792,23 @@
       "type": "sha256",
       "value": "aea291ecbfc916acb6cd8b1d1f9a3671c8782c5bc051098c7ab9d94c786d5dcc"
     },
+    "aeded16494d74590f5fce1fe58b6b0d0195d50dbe94e9c8cf75581c0f7703188": {
+      "confidence": 0.8,
+      "date": "2026-11-15 17:10:19",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "cryptoscam",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site uses ClickFix to run PowerShell, fetch Node.js and obfuscated parser.js; uses TRON/BSC blockchain to retrieve a hidden payload. Mobile URLs return 404.",
+      "threat_type": "malware",
+      "tweet_id": "2122014343495864483",
+      "type": "sha256",
+      "value": "aeded16494d74590f5fce1fe58b6b0d0195d50dbe94e9c8cf75581c0f7703188"
+    },
     "aeedaf9aa756a43eb066e6ccc43d28c6cfdaf8a19512ea696864127bc8743713": {
       "confidence": 0.5,
       "date": "2026-10-30 11:52:22",
@@ -40688,6 +40909,34 @@
       "tweet_id": "2118388695711817735",
       "type": "domain",
       "value": "aespdf.com"
+    },
+    "aexpresstrysive.a48qkso6.asia": {
+      "confidence": 0.9,
+      "date": "2026-11-15 13:28:44",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating American Express (Amex), reported in Japanese, hosted on aexpresstrysive.a48qkso6.asia.",
+      "threat_type": "phishing",
+      "tweet_id": "2121958583193764206",
+      "type": "domain",
+      "value": "aexpresstrysive.a48qkso6.asia"
+    },
+    "aexpresstrysive.a48qkso6.asia/2ymmlo/hepe": {
+      "confidence": 0.9,
+      "date": "2026-11-15 13:28:44",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating American Express (Amex), reported in Japanese, hosted on aexpresstrysive.a48qkso6.asia.",
+      "threat_type": "phishing",
+      "tweet_id": "2121958583193764206",
+      "type": "url",
+      "value": "https://aexpresstrysive.a48qkso6.asia/2ymmlo/hepe"
     },
     "aexshorthoo26d.9zy6p8.info": {
       "confidence": 0.9,
@@ -42264,6 +42513,23 @@
       "tweet_id": "2120630185452249463",
       "type": "url",
       "value": "https://api.telegram.org/file/bot8750592563:AAH2VF4DS5cP_t1LAGpx5ipNQ1ouB01vV5c/documents/file_3"
+    },
+    "api.trongrid.io": {
+      "confidence": 0.8,
+      "date": "2026-11-15 17:10:19",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "cryptoscam",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site uses ClickFix to run PowerShell, fetch Node.js and obfuscated parser.js; uses TRON/BSC blockchain to retrieve a hidden payload. Mobile URLs return 404.",
+      "threat_type": "malware",
+      "tweet_id": "2122014343495864483",
+      "type": "domain",
+      "value": "api.trongrid.io"
     },
     "api.v1techdomainsec.sbs": {
       "confidence": 0.85,
@@ -45522,6 +45788,20 @@
       "type": "domain",
       "value": "atendimentobradescosaude.com"
     },
+    "au88-vn.biz": {
+      "confidence": 0.7,
+      "date": "2026-11-15 15:29:39",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Redirect chain from fcsskoolapps.co.in to hindibuddy.co.in to au88-vn.biz, an illegal gambling portal targeting Vietnamese users and harvesting credentials and phone numbers.",
+      "threat_type": "scam",
+      "tweet_id": "2121989012256657767",
+      "type": "domain",
+      "value": "au88-vn.biz"
+    },
     "audio-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -47129,6 +47409,21 @@
       "tweet_id": "2118228707706118227",
       "type": "domain",
       "value": "binance-kplaw.top"
+    },
+    "binance-verif.com": {
+      "confidence": 0.9,
+      "date": "2026-11-15 13:01:28",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Binance phishing domain binance-verif.com, registered 2026-11-13, hosted on 104.250.165.186 (AS399979, Germany).",
+      "threat_type": "phishing",
+      "tweet_id": "2121951717231063191",
+      "type": "domain",
+      "value": "binance-verif.com"
     },
     "binanceai.fun": {
       "confidence": 0.35,
@@ -49138,6 +49433,23 @@
       "type": "domain",
       "value": "bryweb-whatsapp.com"
     },
+    "bsc-rpc.publicnode.com": {
+      "confidence": 0.8,
+      "date": "2026-11-15 17:10:19",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "cryptoscam",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site uses ClickFix to run PowerShell, fetch Node.js and obfuscated parser.js; uses TRON/BSC blockchain to retrieve a hidden payload. Mobile URLs return 404.",
+      "threat_type": "malware",
+      "tweet_id": "2122014343495864483",
+      "type": "domain",
+      "value": "bsc-rpc.publicnode.com"
+    },
     "bscactive.net": {
       "confidence": 0.9,
       "date": "2026-11-02 10:30:52",
@@ -50681,6 +50993,34 @@
       "tweet_id": "2115841369264787860",
       "type": "domain",
       "value": "casteismaxo.click"
+    },
+    "catlogue.page.gd": {
+      "confidence": 0.85,
+      "date": "2026-11-15 12:19:41",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "New phishing page at catlogue.page.gd/doublem/1.php hosted on 185.27.134.113 (Wildcard UK, AS34119).",
+      "threat_type": "phishing",
+      "tweet_id": "2121941203113398431",
+      "type": "domain",
+      "value": "catlogue.page.gd"
+    },
+    "catlogue.page.gd/doublem/1.php": {
+      "confidence": 0.85,
+      "date": "2026-11-15 12:19:41",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "New phishing page at catlogue.page.gd/doublem/1.php hosted on 185.27.134.113 (Wildcard UK, AS34119).",
+      "threat_type": "phishing",
+      "tweet_id": "2121941203113398431",
+      "type": "url",
+      "value": "https://catlogue.page.gd/doublem/1.php"
     },
     "caunchriva.click": {
       "confidence": 0.6,
@@ -59116,6 +59456,20 @@
       "type": "domain",
       "value": "fcdnbovres.cc"
     },
+    "fcsskoolapps.co.in": {
+      "confidence": 0.7,
+      "date": "2026-11-15 15:29:39",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Redirect chain from fcsskoolapps.co.in to hindibuddy.co.in to au88-vn.biz, an illegal gambling portal targeting Vietnamese users and harvesting credentials and phone numbers.",
+      "threat_type": "scam",
+      "tweet_id": "2121989012256657767",
+      "type": "domain",
+      "value": "fcsskoolapps.co.in"
+    },
     "fdd409e01786eade6cee10856876742ed9e3f8f80193db8d2e5598f43a0ae35e": {
       "confidence": 0.9,
       "date": "2026-10-29 09:00:26",
@@ -62327,6 +62681,57 @@
       "type": "domain",
       "value": "googlemeeeeet.live"
     },
+    "googlemeet-join.com": {
+      "confidence": 0.8,
+      "date": "2026-11-15 17:10:19",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "cryptoscam",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site uses ClickFix to run PowerShell, fetch Node.js and obfuscated parser.js; uses TRON/BSC blockchain to retrieve a hidden payload. Mobile URLs return 404.",
+      "threat_type": "malware",
+      "tweet_id": "2122014343495864483",
+      "type": "domain",
+      "value": "googlemeet-join.com"
+    },
+    "googlemeet-join.com/assets/index-t_-ix6d0.js": {
+      "confidence": 0.8,
+      "date": "2026-11-15 17:10:19",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "cryptoscam",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site uses ClickFix to run PowerShell, fetch Node.js and obfuscated parser.js; uses TRON/BSC blockchain to retrieve a hidden payload. Mobile URLs return 404.",
+      "threat_type": "malware",
+      "tweet_id": "2122014343495864483",
+      "type": "url",
+      "value": "http://googlemeet-join.com/assets/index-T_-iX6d0.js"
+    },
+    "googlemeet-join.com/wdd-fsvi-dmx": {
+      "confidence": 0.8,
+      "date": "2026-11-15 17:10:19",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "malware",
+        "cryptoscam",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site uses ClickFix to run PowerShell, fetch Node.js and obfuscated parser.js; uses TRON/BSC blockchain to retrieve a hidden payload. Mobile URLs return 404.",
+      "threat_type": "malware",
+      "tweet_id": "2122014343495864483",
+      "type": "url",
+      "value": "http://googlemeet-join.com/wdd-fsvi-dmx"
+    },
     "gosidefastandpure.com": {
       "confidence": 0.8,
       "date": "2026-10-24 08:33:03",
@@ -63347,6 +63752,20 @@
       "tweet_id": "2113392662908969075",
       "type": "domain",
       "value": "hik.gettingheadfromduckysmom.st"
+    },
+    "hindibuddy.co.in": {
+      "confidence": 0.7,
+      "date": "2026-11-15 15:29:39",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Redirect chain from fcsskoolapps.co.in to hindibuddy.co.in to au88-vn.biz, an illegal gambling portal targeting Vietnamese users and harvesting credentials and phone numbers.",
+      "threat_type": "scam",
+      "tweet_id": "2121989012256657767",
+      "type": "domain",
+      "value": "hindibuddy.co.in"
     },
     "history.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -69473,6 +69892,20 @@
       "type": "url",
       "value": "https://mysmbc.iojdao.com/bplbfldb/"
     },
+    "myssologin.com": {
+      "confidence": 0.65,
+      "date": "2026-10-18 08:09:10",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "UNC6671 infrastructure update: nine law-firm references under myssologin.com; group uses IT-helpdesk vishing and SSO phishing for data theft and extortion.",
+      "threat_type": "phishing",
+      "tweet_id": "2111731298897465601",
+      "type": "domain",
+      "value": "myssologin.com"
+    },
     "myssosetup.com": {
       "confidence": 0.85,
       "date": "2026-11-06 09:44:01",
@@ -70134,6 +70567,21 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "nosqldb-whatsapp.com"
+    },
+    "noticeofreassessmentfromcnadarevenueagency.cfd": {
+      "confidence": 0.7,
+      "date": "2026-11-15 15:09:49",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Lookalike Canada Revenue Agency page ('cnada') delivers a password-protected ZIP 'Notice of Reassessment' with the password shown on page; bot checkpoint hides it from scanners.",
+      "threat_type": "malware",
+      "tweet_id": "2121984020695458206",
+      "type": "domain",
+      "value": "noticeofreassessmentfromcnadarevenueagency.cfd"
     },
     "nov6fp-zone-1488-reg.westus2.cloudapp.azure.com": {
       "confidence": 0.45,
@@ -71600,6 +72048,20 @@
       "tweet_id": "2113342928957415879",
       "type": "url",
       "value": "https://pixeldrain.com/api/file/LEfVj7fg?download"
+    },
+    "pixeldrain.com/api/file/tjwykl3i": {
+      "confidence": 0.5,
+      "date": "2026-11-15 14:31:15",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious document sample hosted on Pixeldrain and analyzed with the MaldocTrace tool; sample listed on MalwareBazaar.",
+      "threat_type": "malware",
+      "tweet_id": "2121974312844337642",
+      "type": "url",
+      "value": "https://pixeldrain.com/api/file/TjWyKL3i"
     },
     "pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion": {
       "confidence": 0.85,
@@ -75053,20 +75515,6 @@
       "tweet_id": "2121404572862452064",
       "type": "url",
       "value": "https://scanned.page/p/3OhzCy?id=nkuyv79qJ7"
-    },
-    "scarlettgugldabhgz3uertpnxglxytddxbd5vnoma5pihfk6k5q2sid.onion": {
-      "confidence": 0.85,
-      "date": "2026-10-16 15:03:22",
-      "enriched_at": "2026-10-16T18:40:03Z",
-      "family": "SCARLETTGROUP",
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "Ransomware leak site (.onion) attributed to a new group named 'SCARLETTGROUP', reported by Barricade Cyber Solutions.",
-      "threat_type": "ransomware",
-      "tweet_id": "2111110762391626052",
-      "type": "domain",
-      "value": "scarlettgugldabhgz3uertpnxglxytddxbd5vnoma5pihfk6k5q2sid.onion"
     },
     "schema-whatsapp.com": {
       "confidence": 0.65,
@@ -78791,6 +79239,18 @@
       "tweet_id": "2118328047602454683",
       "type": "url",
       "value": "http://swiftpoint.cyou/facebook/login"
+    },
+    "swissrdp.com": {
+      "confidence": 0.5,
+      "date": "2026-11-15 15:08:20",
+      "enriched_at": "2026-11-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "IP 2.31.188.197 hosted at Hetzner with SSL for swissrdp.com, reported as infrastructure of a bulletproof hosting provider.",
+      "threat_type": "other",
+      "tweet_id": "2121983645322014891",
+      "type": "domain",
+      "value": "swissrdp.com"
     },
     "switchpumpkin.com": {
       "confidence": 0.6,
@@ -86144,6 +86604,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-15T12:40:05Z",
+  "generated_at": "2026-11-15T18:40:04Z",
   "window_days": 30
 }
