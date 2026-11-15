@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-15 10:45:24 (UTC)</th>
+        <th colspan=4>2026-11-15 11:00:29 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,8 +187,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 17 | 442 | 3224 | 43901 |
-| **:globe_with_meridians: Domains** | 16 | 311 | 2680 | 37732 |
+| **:link: URLs** | 19 | 444 | 3226 | 43903 |
+| **:globe_with_meridians: Domains** | 18 | 313 | 2682 | 37734 |
 | **:triangular_flag_on_post: IPs** | 7 | 300 | 2391 | 8205 |
 | **:1234: SHA256** | 4 | 122 | 593 | 3316 |
 | **:1234: MD5** | 0 | 25 | 125 | 2029 |
@@ -208,7 +208,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#Kimsuky** | 0 | 0 | 36 | 13315 |
 | **#DPRK** | 0 | 0 | 18 | 11687 |
 | **#malware** | 11 | 250 | 1261 | 4438 |
-| **#scam** | 4 | 14 | 40 | 2613 |
+| **#scam** | 8 | 18 | 44 | 2617 |
 | **#C2** | 1 | 50 | 190 | 2050 |
 | **#APT** | 0 | 38 | 85 | 1473 |
 | **#ClickFix** | 0 | 38 | 242 | 1257 |
@@ -230,11 +230,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [masaomi346](https://x.com/masaomi346) | 8 |
-| **#2** | [TKemmerling](https://x.com/TKemmerling) | 6 |
-| **#3** | [Malwarehunterr](https://x.com/Malwarehunterr) | 5 |
-| **#4** | [Tuxxin](https://x.com/Tuxxin) | 4 |
-| **#5** | [skocherhan](https://x.com/skocherhan) | 4 |
-| **#6** | [chris_uk2026](https://x.com/chris_uk2026) | 4 |
+| **#2** | [chris_uk2026](https://x.com/chris_uk2026) | 8 |
+| **#3** | [TKemmerling](https://x.com/TKemmerling) | 6 |
+| **#4** | [Malwarehunterr](https://x.com/Malwarehunterr) | 5 |
+| **#5** | [Tuxxin](https://x.com/Tuxxin) | 4 |
+| **#6** | [skocherhan](https://x.com/skocherhan) | 4 |
 | **#7** | [banthisguy9349](https://x.com/banthisguy9349) | 4 |
 | **#8** | [MalwareBibleJP](https://x.com/MalwareBibleJP) | 3 |
 | **#9** | [scanmalware](https://x.com/scanmalware) | 2 |

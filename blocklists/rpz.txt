@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2566
-; Updated: 2026-11-15T10:00:28Z
+; Entries: 2568
+; Updated: 2026-11-15T11:00:28Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794736828 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794740428 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3606,6 +3606,8 @@ ptrdfvc.sbs CNAME .
 *.ptrdfvc.sbs CNAME .
 pub-0c3c1b636d92458081997bb1aec2f965.r2.dev CNAME .
 *.pub-0c3c1b636d92458081997bb1aec2f965.r2.dev CNAME .
+pub-0d275574d47649ed9944322d102ec15d.r2.dev CNAME .
+*.pub-0d275574d47649ed9944322d102ec15d.r2.dev CNAME .
 pub-3f84de9aa4f04824a3cf79d4adea59cb.r2.dev CNAME .
 *.pub-3f84de9aa4f04824a3cf79d4adea59cb.r2.dev CNAME .
 pub-493f78e882da461f9f7b36234703f59b.r2.dev CNAME .
@@ -4650,6 +4652,8 @@ useweb-whatsapp.com CNAME .
 *.useweb-whatsapp.com CNAME .
 uspsfund.online CNAME .
 *.uspsfund.online CNAME .
+uzafeho.top CNAME .
+*.uzafeho.top CNAME .
 uzeglvlb7gfekr3.icu CNAME .
 *.uzeglvlb7gfekr3.icu CNAME .
 v1techdomainsec.shop CNAME .
