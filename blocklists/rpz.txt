@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2604
-; Updated: 2026-11-15T20:15:25Z
+; Entries: 2609
+; Updated: 2026-11-15T20:30:34Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794773725 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794774634 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -334,6 +334,8 @@ api.avonlo.com CNAME .
 *.api.avonlo.com CNAME .
 api.brandogdigital.org CNAME .
 *.api.brandogdigital.org CNAME .
+api.certificate.rest CNAME .
+*.api.certificate.rest CNAME .
 api.cerysoi.ink CNAME .
 *.api.cerysoi.ink CNAME .
 api.fallgamsterb.ink CNAME .
@@ -818,6 +820,8 @@ authpush-whatsapp.com CNAME .
 *.authpush-whatsapp.com CNAME .
 authy-ledger.at CNAME .
 *.authy-ledger.at CNAME .
+autosseba.be CNAME .
+*.autosseba.be CNAME .
 avinfra.in CNAME .
 *.avinfra.in CNAME .
 aw.ktonemail.com CNAME .
@@ -2962,6 +2966,8 @@ leebin101.com CNAME .
 *.leebin101.com CNAME .
 legacy-whatsapp.com CNAME .
 *.legacy-whatsapp.com CNAME .
+legendsofvelora.cc CNAME .
+*.legendsofvelora.cc CNAME .
 lehd01.hkg.bcebos.com CNAME .
 *.lehd01.hkg.bcebos.com CNAME .
 lemon-whatsapp.com CNAME .
@@ -2974,6 +2980,8 @@ lexer-whatsapp.com CNAME .
 *.lexer-whatsapp.com CNAME .
 lhdn.tos-cn-hongkong.volces.com CNAME .
 *.lhdn.tos-cn-hongkong.volces.com CNAME .
+lifeinsurancecoimbatore.com CNAME .
+*.lifeinsurancecoimbatore.com CNAME .
 lifemanagement-jp.com CNAME .
 *.lifemanagement-jp.com CNAME .
 lightdiwali.online CNAME .
@@ -4156,6 +4164,8 @@ soj.s4kyn.com CNAME .
 *.soj.s4kyn.com CNAME .
 solar-glide-moss-flaeo.pro CNAME .
 *.solar-glide-moss-flaeo.pro CNAME .
+somnitomonito.xyz CNAME .
+*.somnitomonito.xyz CNAME .
 sonichires.site CNAME .
 *.sonichires.site CNAME .
 sort-whatsapp.com CNAME .
