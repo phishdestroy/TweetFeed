@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-15 04:00:29 (UTC)</th>
+        <th colspan=4>2026-11-15 04:15:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,8 +187,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 8 | 433 | 3215 | 43892 |
-| **:globe_with_meridians: Domains** | 7 | 302 | 2671 | 37723 |
+| **:link: URLs** | 9 | 434 | 3216 | 43893 |
+| **:globe_with_meridians: Domains** | 8 | 303 | 2672 | 37724 |
 | **:triangular_flag_on_post: IPs** | 5 | 298 | 2389 | 8203 |
 | **:1234: SHA256** | 2 | 120 | 591 | 3314 |
 | **:1234: MD5** | 0 | 25 | 125 | 2029 |
@@ -207,7 +207,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#phishing** | 12 | 295 | 3709 | 30936 |
 | **#Kimsuky** | 0 | 0 | 36 | 13315 |
 | **#DPRK** | 0 | 0 | 18 | 11687 |
-| **#malware** | 8 | 247 | 1258 | 4435 |
+| **#malware** | 10 | 249 | 1260 | 4437 |
 | **#scam** | 2 | 12 | 38 | 2611 |
 | **#C2** | 0 | 49 | 189 | 2049 |
 | **#APT** | 0 | 38 | 85 | 1473 |
@@ -234,7 +234,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#3** | [Tuxxin](https://x.com/Tuxxin) | 4 |
 | **#4** | [skocherhan](https://x.com/skocherhan) | 4 |
 | **#5** | [chris_uk2026](https://x.com/chris_uk2026) | 2 |
-| **#6** | [-](https://x.com/-) | 0 |
+| **#6** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#7** | [-](https://x.com/-) | 0 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
