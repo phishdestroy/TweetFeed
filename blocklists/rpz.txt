@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2568
-; Updated: 2026-11-15T11:00:28Z
+; Entries: 2569
+; Updated: 2026-11-15T12:00:25Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794740428 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794744025 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3620,6 +3620,8 @@ pub-8bb2af2b13cd4e2d90a81254aea0d169.r2.dev CNAME .
 *.pub-8bb2af2b13cd4e2d90a81254aea0d169.r2.dev CNAME .
 pub-ac2492e7d4454a408a96a3152f656607.r2.dev CNAME .
 *.pub-ac2492e7d4454a408a96a3152f656607.r2.dev CNAME .
+pub-dfa5dc9b1b264e89b08343cf0a26450b.r2.dev CNAME .
+*.pub-dfa5dc9b1b264e89b08343cf0a26450b.r2.dev CNAME .
 public.mexc.co.com CNAME .
 *.public.mexc.co.com CNAME .
 pumpadmin.fun CNAME .
