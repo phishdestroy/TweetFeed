@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-15 20:30:35 (UTC)</th>
+        <th colspan=4>2026-11-15 20:45:27 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,9 +187,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 96 | 521 | 3303 | 43980 |
-| **:globe_with_meridians: Domains** | 66 | 361 | 2730 | 37782 |
-| **:triangular_flag_on_post: IPs** | 16 | 309 | 2400 | 8214 |
+| **:link: URLs** | 109 | 534 | 3316 | 43993 |
+| **:globe_with_meridians: Domains** | 67 | 362 | 2731 | 37783 |
+| **:triangular_flag_on_post: IPs** | 20 | 313 | 2404 | 8218 |
 | **:1234: SHA256** | 12 | 130 | 601 | 3324 |
 | **:1234: MD5** | 28 | 53 | 153 | 2057 |
 
@@ -204,14 +204,14 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 111 | 394 | 3808 | 31035 |
+| **#phishing** | 121 | 404 | 3818 | 31045 |
 | **#Kimsuky** | 0 | 0 | 36 | 13315 |
 | **#DPRK** | 0 | 0 | 18 | 11687 |
-| **#malware** | 43 | 282 | 1293 | 4470 |
+| **#malware** | 51 | 290 | 1301 | 4478 |
 | **#scam** | 10 | 20 | 46 | 2619 |
 | **#C2** | 4 | 53 | 193 | 2053 |
 | **#APT** | 0 | 38 | 85 | 1473 |
-| **#ClickFix** | 15 | 53 | 257 | 1272 |
+| **#ClickFix** | 25 | 63 | 267 | 1282 |
 | **#ransomware** | 2 | 26 | 87 | 703 |
 | **#opendir** | 0 | 7 | 26 | 675 |
 <!-- TAG_TABLE_END -->
@@ -229,16 +229,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [skocherhan](https://x.com/skocherhan) | 72 |
-| **#2** | [Malwarehunterr](https://x.com/Malwarehunterr) | 71 |
+| **#1** | [Malwarehunterr](https://x.com/Malwarehunterr) | 81 |
+| **#2** | [skocherhan](https://x.com/skocherhan) | 72 |
 | **#3** | [chris_uk2026](https://x.com/chris_uk2026) | 12 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 10 |
 | **#5** | [PhishStats](https://x.com/PhishStats) | 9 |
 | **#6** | [k3yp0d](https://x.com/k3yp0d) | 9 |
 | **#7** | [banthisguy9349](https://x.com/banthisguy9349) | 8 |
-| **#8** | [TKemmerling](https://x.com/TKemmerling) | 6 |
-| **#9** | [Tuxxin](https://x.com/Tuxxin) | 4 |
-| **#10** | [Fact_Finder03](https://x.com/Fact_Finder03) | 4 |
+| **#8** | [orlof_v](https://x.com/orlof_v) | 8 |
+| **#9** | [TKemmerling](https://x.com/TKemmerling) | 6 |
+| **#10** | [Tuxxin](https://x.com/Tuxxin) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
