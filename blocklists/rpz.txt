@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2578
-; Updated: 2026-11-15T15:45:26Z
+; Entries: 2581
+; Updated: 2026-11-15T17:15:23Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794757526 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794762923 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -350,6 +350,8 @@ api.mitsui.syzing.com CNAME .
 *.api.mitsui.syzing.com CNAME .
 api.newenterpr1se.lat CNAME .
 *.api.newenterpr1se.lat CNAME .
+api.trongrid.io CNAME .
+*.api.trongrid.io CNAME .
 api.v1techdomainsec.sbs CNAME .
 *.api.v1techdomainsec.sbs CNAME .
 api.webapi-whatsapp.com CNAME .
@@ -1166,6 +1168,8 @@ browseruphelp.com CNAME .
 *.browseruphelp.com CNAME .
 bryweb-whatsapp.com CNAME .
 *.bryweb-whatsapp.com CNAME .
+bsc-rpc.publicnode.com CNAME .
+*.bsc-rpc.publicnode.com CNAME .
 bscactive.net CNAME .
 *.bscactive.net CNAME .
 btrf36.cc CNAME .
@@ -2424,6 +2428,8 @@ googlegemini-earlyaccess.com CNAME .
 *.googlegemini-earlyaccess.com CNAME .
 googlemeeeeet.live CNAME .
 *.googlemeeeeet.live CNAME .
+googlemeet-join.com CNAME .
+*.googlemeet-join.com CNAME .
 gosidefastandpure.com CNAME .
 *.gosidefastandpure.com CNAME .
 govrobczxc.cc CNAME .
