@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-15 03:45:27 (UTC)</th>
+        <th colspan=4>2026-11-15 04:00:29 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,8 +187,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 7 | 432 | 3214 | 43891 |
-| **:globe_with_meridians: Domains** | 6 | 301 | 2670 | 37722 |
+| **:link: URLs** | 8 | 433 | 3215 | 43892 |
+| **:globe_with_meridians: Domains** | 7 | 302 | 2671 | 37723 |
 | **:triangular_flag_on_post: IPs** | 5 | 298 | 2389 | 8203 |
 | **:1234: SHA256** | 2 | 120 | 591 | 3314 |
 | **:1234: MD5** | 0 | 25 | 125 | 2029 |
@@ -208,7 +208,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#Kimsuky** | 0 | 0 | 36 | 13315 |
 | **#DPRK** | 0 | 0 | 18 | 11687 |
 | **#malware** | 8 | 247 | 1258 | 4435 |
-| **#scam** | 0 | 10 | 36 | 2609 |
+| **#scam** | 2 | 12 | 38 | 2611 |
 | **#C2** | 0 | 49 | 189 | 2049 |
 | **#APT** | 0 | 38 | 85 | 1473 |
 | **#ClickFix** | 0 | 38 | 242 | 1257 |
@@ -233,7 +233,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#2** | [masaomi346](https://x.com/masaomi346) | 6 |
 | **#3** | [Tuxxin](https://x.com/Tuxxin) | 4 |
 | **#4** | [skocherhan](https://x.com/skocherhan) | 4 |
-| **#5** | [-](https://x.com/-) | 0 |
+| **#5** | [chris_uk2026](https://x.com/chris_uk2026) | 2 |
 | **#6** | [-](https://x.com/-) | 0 |
 | **#7** | [-](https://x.com/-) | 0 |
 | **#8** | [-](https://x.com/-) | 0 |
