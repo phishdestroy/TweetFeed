@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2575
-; Updated: 2026-11-15T15:30:29Z
+; Entries: 2578
+; Updated: 2026-11-15T15:45:26Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794756629 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794757526 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -794,6 +794,8 @@ atdku.cn CNAME .
 *.atdku.cn CNAME .
 atendimentobradescosaude.com CNAME .
 *.atendimentobradescosaude.com CNAME .
+au88-vn.biz CNAME .
+*.au88-vn.biz CNAME .
 audio-whatsapp.com CNAME .
 *.audio-whatsapp.com CNAME .
 auditormadrid.es CNAME .
@@ -2072,6 +2074,8 @@ faturapro.net CNAME .
 *.faturapro.net CNAME .
 fcdnbovres.cc CNAME .
 *.fcdnbovres.cc CNAME .
+fcsskoolapps.co.in CNAME .
+*.fcsskoolapps.co.in CNAME .
 fdhau3428957hfa.com CNAME .
 *.fdhau3428957hfa.com CNAME .
 fdsdgrixj.uk.cc CNAME .
@@ -2540,6 +2544,8 @@ hidread.net CNAME .
 *.hidread.net CNAME .
 hik.gettingheadfromduckysmom.st CNAME .
 *.hik.gettingheadfromduckysmom.st CNAME .
+hindibuddy.co.in CNAME .
+*.hindibuddy.co.in CNAME .
 history.webapi-whatsapp.com CNAME .
 *.history.webapi-whatsapp.com CNAME .
 hk2-whatsapp.com CNAME .
