@@ -1,5 +1,5 @@
 {
-  "count": 6162,
+  "count": 6110,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -701,22 +701,6 @@
       "tweet_id": "2115747211887989207",
       "type": "url",
       "value": "http://1.14.104.208"
-    },
-    "1.14.146.76": {
-      "confidence": 0.7,
-      "date": "2026-10-16 11:59:56",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": "RdViewer",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "RdViewer RMM tool that deletes itself, signed by a Chinese entity, installed as a backdoor and communicating with a C2 at the listed IP.",
-      "threat_type": "c2",
-      "tweet_id": "2111064598904283221",
-      "type": "url",
-      "value": "http://1.14.146.76"
     },
     "1.92.135.168": {
       "confidence": 0.7,
@@ -2905,54 +2889,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "103.81.105.186"
-    },
-    "103.82.53.214": {
-      "confidence": 0.8,
-      "date": "2026-10-16 11:51:14",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": "Gh0stRat",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Gh0stRat variant signed by Zhengzhou Xiaoye Network Co., Ltd., with primary C2 on port 7661 and backup on port 80 at the same IP.",
-      "threat_type": "c2",
-      "tweet_id": "2111062410417094839",
-      "type": "ip",
-      "value": "103.82.53.214"
-    },
-    "103.82.53.214:7661": {
-      "confidence": 0.8,
-      "date": "2026-10-16 11:51:14",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": "Gh0stRat",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Gh0stRat variant signed by Zhengzhou Xiaoye Network Co., Ltd., with primary C2 on port 7661 and backup on port 80 at the same IP.",
-      "threat_type": "c2",
-      "tweet_id": "2111062410417094839",
-      "type": "url",
-      "value": "http://103.82.53.214:7661"
-    },
-    "103.82.53.214:80": {
-      "confidence": 0.8,
-      "date": "2026-10-16 11:51:14",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": "Gh0stRat",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Gh0stRat variant signed by Zhengzhou Xiaoye Network Co., Ltd., with primary C2 on port 7661 and backup on port 80 at the same IP.",
-      "threat_type": "c2",
-      "tweet_id": "2111062410417094839",
-      "type": "url",
-      "value": "http://103.82.53.214:80"
     },
     "103.83.86.254": {
       "confidence": 0.6,
@@ -5198,22 +5134,6 @@
       "tweet_id": "2116491566420467941",
       "type": "url",
       "value": "http://13.143.234.166"
-    },
-    "13.250.128.77": {
-      "confidence": 0.75,
-      "date": "2026-10-16 11:24:58",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": "Hirudo",
-      "suggested_tags": [
-        "banker",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Control panel for the Hirudo banking trojan hosted at the listed IP.",
-      "threat_type": "c2",
-      "tweet_id": "2111055796700364831",
-      "type": "ip",
-      "value": "13.250.128.77"
     },
     "130.12.180.32": {
       "confidence": 0.7,
@@ -7568,20 +7488,6 @@
       "type": "ip",
       "value": "140.210.9.243"
     },
-    "140.233.190.56": {
-      "confidence": 0.9,
-      "date": "2026-10-16 06:59:07",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing page impersonating ANA at staganddoenc.com, hosted on the listed IP.",
-      "threat_type": "phishing",
-      "tweet_id": "2110988894280020440",
-      "type": "url",
-      "value": "http://140.233.190.56"
-    },
     "140.245.33.214": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -7720,40 +7626,6 @@
       "tweet_id": "2117342311814426965",
       "type": "ip",
       "value": "143.198.221.211"
-    },
-    "143.92.38.167": {
-      "confidence": 0.85,
-      "date": "2026-10-16 09:13:05",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "valleyrat",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "VHDX file assessed as ValleyRAT, seen from India, communicating with the listed IP on port 8383.",
-      "threat_type": "malware",
-      "tweet_id": "2111022610280550553",
-      "type": "ip",
-      "value": "143.92.38.167"
-    },
-    "143.92.38.167:8383": {
-      "confidence": 0.85,
-      "date": "2026-10-16 09:13:05",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "valleyrat",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "VHDX file assessed as ValleyRAT, seen from India, communicating with the listed IP on port 8383.",
-      "threat_type": "malware",
-      "tweet_id": "2111022610280550553",
-      "type": "url",
-      "value": "http://143.92.38.167:8383"
     },
     "144.172.103.87": {
       "confidence": 0.75,
@@ -9062,20 +8934,6 @@
       "type": "ip",
       "value": "154.36.188.133"
     },
-    "154.6.145.213": {
-      "confidence": 0.5,
-      "date": "2026-10-16 12:15:42",
-      "enriched_at": "2026-10-16T18:40:03Z",
-      "family": "Skynet",
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "IP address labeled as a 'SKYNET C2' server.",
-      "threat_type": "c2",
-      "tweet_id": "2111068565256261634",
-      "type": "url",
-      "value": "http://154.6.145.213"
-    },
     "154.62.226.92": {
       "confidence": 0.65,
       "date": "2026-11-12 11:37:50",
@@ -9285,20 +9143,6 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "156.233.230.173"
-    },
-    "156.234.225.71": {
-      "confidence": 0.85,
-      "date": "2026-10-16 09:48:04",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site hosted at login.rrrxxw.com on a Hong Kong IP (Yancy Limited, AS138415).",
-      "threat_type": "phishing",
-      "tweet_id": "2111031412245799005",
-      "type": "ip",
-      "value": "156.234.225.71"
     },
     "156.234.58.242": {
       "confidence": 0.7,
@@ -9969,18 +9813,6 @@
       "tweet_id": "2118016679766540468",
       "type": "url",
       "value": "http://158.255.209.85:443"
-    },
-    "158.94.210.145": {
-      "confidence": 0.4,
-      "date": "2026-10-16 08:51:21",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Multiple recently registered, suspicious domains all resolving to the same IP, possibly shared malicious infrastructure.",
-      "threat_type": "other",
-      "tweet_id": "2111017138790056108",
-      "type": "url",
-      "value": "http://158.94.210.145"
     },
     "158632455cb5165778c2a7dc0499ece1bf9e6129c455e4833129f04f77e76b21": {
       "confidence": 0.7,
@@ -12437,20 +12269,6 @@
       "type": "ip",
       "value": "184.174.97.127"
     },
-    "185.100.85.146": {
-      "confidence": 0.8,
-      "date": "2026-10-16 11:04:35",
-      "enriched_at": "2026-11-15T00:40:05Z",
-      "family": "Seven Deadly Sins",
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "Clearnet IP addresses attributed to The Seven Deadly Sins ransomware group.",
-      "threat_type": "ransomware",
-      "tweet_id": "2111050667578233081",
-      "type": "ip",
-      "value": "185.100.85.146"
-    },
     "185.122.171.146": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -13631,21 +13449,6 @@
       "type": "ip",
       "value": "193.233.75.208"
     },
-    "193.24.123.177": {
-      "confidence": 0.7,
-      "date": "2026-10-16 11:04:35",
-      "enriched_at": "2026-11-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "ransomware",
-        "malware"
-      ],
-      "summary": "Clearnet IP addresses attributed to The Seven Deadly Sins ransomware group infrastructure.",
-      "threat_type": "ransomware",
-      "tweet_id": "2111050667578233081",
-      "type": "ip",
-      "value": "193.24.123.177"
-    },
     "193.29.104.84": {
       "confidence": 0.75,
       "date": "2026-11-01 14:31:46",
@@ -14125,36 +13928,6 @@
       "type": "url",
       "value": "http://196.251.107.48/m2/V8nXLnS27bEAjKTG.exe"
     },
-    "196.251.121.216": {
-      "confidence": 0.6,
-      "date": "2026-10-16 12:26:03",
-      "enriched_at": "2026-10-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "opendir"
-      ],
-      "summary": "Malicious VBS script 'NDA.vbs' hosted on an open IP address and submitted to MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2111071172200706420",
-      "type": "ip",
-      "value": "196.251.121.216"
-    },
-    "196.251.121.216/downloads/nda.vbs": {
-      "confidence": 0.6,
-      "date": "2026-10-16 12:26:03",
-      "enriched_at": "2026-10-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "opendir"
-      ],
-      "summary": "Malicious VBS script 'NDA.vbs' hosted on an open IP address and submitted to MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2111071172200706420",
-      "type": "url",
-      "value": "http://196.251.121.216/Downloads/NDA.vbs"
-    },
     "1960.ef4x.com": {
       "confidence": 0.6,
       "date": "2026-10-28 18:41:18",
@@ -14527,20 +14300,6 @@
       "type": "sha256",
       "value": "1da2d3c8caa8ed7d7260494e2314c8671a9e6a689d87dd6338966baa6286eb66"
     },
-    "1db09b3ecd24ee54c1c03932f4c2f71c6868b871bd3a709c42522ce1c974a1c9": {
-      "confidence": 0.45,
-      "date": "2026-10-16 11:12:08",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Suspicious MSI sample seen from Israel, associated with the domain 0xrpc.io, submitted to MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2111052568411398539",
-      "type": "sha256",
-      "value": "1db09b3ecd24ee54c1c03932f4c2f71c6868b871bd3a709c42522ce1c974a1c9"
-    },
     "1dde732a31cb35f825cf8134fe483993ee9e691d60bac6cba9677dd038cefff9": {
       "confidence": 0.85,
       "date": "2026-10-23 18:15:23",
@@ -14695,6 +14454,21 @@
       "tweet_id": "2119292818321809666",
       "type": "sha256",
       "value": "1f78dab72cbdca3319e59794bd9ab37b2228f317500083703f763a403defdac9"
+    },
+    "1inch-extension.vercel.app": {
+      "confidence": 0.65,
+      "date": "2026-11-15 06:32:29",
+      "enriched_at": "2026-11-15T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "cryptoscam"
+      ],
+      "summary": "Vercel-hosted site impersonating a 1inch extension, flagged by an automated scanner as a confirmed scam, likely crypto-related.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2121853828043833622",
+      "type": "domain",
+      "value": "1inch-extension.vercel.app"
     },
     "1nvcjkz.asia": {
       "confidence": 0.92,
@@ -17704,36 +17478,6 @@
       "type": "ip",
       "value": "27.123.254.27"
     },
-    "27.124.36.17": {
-      "confidence": 0.5,
-      "date": "2026-10-16 06:50:37",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "ISO sample seen from India connecting to the listed IP on port 8383 and the domain jksdjkjs.cc; likely ValleyRAT-style loader.",
-      "threat_type": "malware",
-      "tweet_id": "2110986754362581153",
-      "type": "ip",
-      "value": "27.124.36.17"
-    },
-    "27.124.36.17:8383": {
-      "confidence": 0.5,
-      "date": "2026-10-16 06:50:37",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "ISO sample seen from India connecting to the listed IP on port 8383 and the domain jksdjkjs.cc; likely ValleyRAT-style loader.",
-      "threat_type": "malware",
-      "tweet_id": "2110986754362581153",
-      "type": "url",
-      "value": "http://27.124.36.17:8383"
-    },
     "27.124.41.111": {
       "confidence": 0.6,
       "date": "2026-10-30 20:53:47",
@@ -17870,36 +17614,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "27.220.190.221"
-    },
-    "27.50.59.62": {
-      "confidence": 0.5,
-      "date": "2026-10-16 11:16:55",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "opendir"
-      ],
-      "summary": "Malicious MSI installer 'New.msi' downloaded from an IP-hosted URL and submitted to MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2111053772210266345",
-      "type": "ip",
-      "value": "27.50.59.62"
-    },
-    "27.50.59.62/new.msi": {
-      "confidence": 0.5,
-      "date": "2026-10-16 11:16:55",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "opendir"
-      ],
-      "summary": "Malicious MSI installer 'New.msi' downloaded from an IP-hosted URL and submitted to MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2111053772210266345",
-      "type": "url",
-      "value": "http://27.50.59.62/New.msi"
     },
     "279010a4ffffc75756377e1e5b6bff8aaf3a736cce53b643150d08280062e24d": {
       "confidence": 0.6,
@@ -18727,21 +18441,6 @@
       "tweet_id": "2121122516555227510",
       "type": "sha256",
       "value": "32c77d8dd7b64f8cf26ebda293e0809c062dd57d81d853bb56b8aa69cbb24156"
-    },
-    "32dcaf5c4f41dbdaddeee5fd64dacb290f81655a37ea10beaeca1a369a80c7f0": {
-      "confidence": 0.6,
-      "date": "2026-10-16 12:26:03",
-      "enriched_at": "2026-10-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "opendir"
-      ],
-      "summary": "Malicious VBS script 'NDA.vbs' hosted on an open IP address and submitted to MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2111071172200706420",
-      "type": "sha256",
-      "value": "32dcaf5c4f41dbdaddeee5fd64dacb290f81655a37ea10beaeca1a369a80c7f0"
     },
     "33e61a1c7cbc0a48d1e0fcd79a2f632c10c66427a50559b9ec02b87297caa2db": {
       "confidence": 0.6,
@@ -27692,35 +27391,6 @@
       "type": "url",
       "value": "http://37.27.4.20"
     },
-    "37.72.140.179": {
-      "confidence": 0.7,
-      "date": "2026-10-16 11:04:35",
-      "enriched_at": "2026-11-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "ransomware",
-        "malware"
-      ],
-      "summary": "Clearnet IP addresses attributed to The Seven Deadly Sins ransomware group infrastructure.",
-      "threat_type": "ransomware",
-      "tweet_id": "2111050667578233081",
-      "type": "ip",
-      "value": "37.72.140.179"
-    },
-    "37.77.150.214": {
-      "confidence": 0.5,
-      "date": "2026-10-16 09:58:06",
-      "enriched_at": "2026-10-26T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "MSI installer update.msi seen from the Netherlands; it fetches an executable from a WebDAV path on check.neewsoo[.]com and uses IP 37.77.150[.]214.",
-      "threat_type": "malware",
-      "tweet_id": "2111033937589862588",
-      "type": "url",
-      "value": "http://37.77.150.214"
-    },
     "376fca0f1195a47e5bd959ceaa59adbab571356028402128a0ef58cccaa8cf62": {
       "confidence": 0.7,
       "date": "2026-11-11 11:22:17",
@@ -30358,21 +30028,6 @@
       "type": "sha256",
       "value": "455dd16af1b9096a0c39b4ada0359633c6a07fa08e639a0a4e2178ebd0ac3fc2"
     },
-    "457574b398a56d96c0427bed59bf2606aec1766e4613d2dc2b838a198e72ded4": {
-      "confidence": 0.5,
-      "date": "2026-10-16 06:50:37",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "ISO sample seen from India connecting to the listed IP on port 8383 and the domain jksdjkjs.cc; likely ValleyRAT-style loader.",
-      "threat_type": "malware",
-      "tweet_id": "2110986754362581153",
-      "type": "sha256",
-      "value": "457574b398a56d96c0427bed59bf2606aec1766e4613d2dc2b838a198e72ded4"
-    },
     "46.166.162.7": {
       "confidence": 0.2,
       "date": "2026-11-12 00:57:34",
@@ -31060,20 +30715,6 @@
       "tweet_id": "2121241291514159580",
       "type": "ip",
       "value": "47.79.32.9"
-    },
-    "47.79.33.3": {
-      "confidence": 0.9,
-      "date": "2026-10-16 06:49:21",
-      "enriched_at": "2026-11-14T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese Amazon phishing site hosted on IP 47.79.33.3.",
-      "threat_type": "phishing",
-      "tweet_id": "2110986438565388744",
-      "type": "url",
-      "value": "http://47.79.33.3"
     },
     "47.79.34.143": {
       "confidence": 0.6,
@@ -34471,20 +34112,6 @@
       "type": "md5",
       "value": "6b330c5de267e3aed1e1f169ec8db1bc"
     },
-    "6b60ce23cbbed02a320059c89bd4ad87125f9fd1cced5d9ad6dcc54d14121c2f": {
-      "confidence": 0.4,
-      "date": "2026-10-16 09:52:26",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Suspicious executable 'CombinedService.exe' seen from Lithuania, submitted to MalwareBazaar with no family given.",
-      "threat_type": "malware",
-      "tweet_id": "2111032512344412479",
-      "type": "sha256",
-      "value": "6b60ce23cbbed02a320059c89bd4ad87125f9fd1cced5d9ad6dcc54d14121c2f"
-    },
     "6bb0f5a098315d26841481f8a57a03fca150c02afe70a8a4b173249e2245dd97": {
       "confidence": 0.9,
       "date": "2026-10-29 09:00:26",
@@ -34683,6 +34310,22 @@
       "tweet_id": "2115926663825703292",
       "type": "sha256",
       "value": "6f0d6718fff59b26130d7ee64b050d8b558e691d1515e7dc02c442feac660683"
+    },
+    "6f4ccc1718eddb12fab554f0c19e908f0486fd734bb02c706534ad92860d5df2": {
+      "confidence": 0.85,
+      "date": "2026-11-15 09:19:10",
+      "enriched_at": "2026-11-15T12:40:05Z",
+      "family": "WARDENStealer",
+      "suggested_tags": [
+        "malware",
+        "infostealer",
+        "stealer"
+      ],
+      "summary": "WARDENStealer, an infostealer sample identified by SHA-256 with analysis published on GitHub.",
+      "threat_type": "malware",
+      "tweet_id": "2121895776230019383",
+      "type": "sha256",
+      "value": "6f4ccc1718eddb12fab554f0c19e908f0486fd734bb02c706534ad92860d5df2"
     },
     "6f5519e8ec9d99082f1175e3446453bb534b4248dbc3e387f79ac5dd1b40497b": {
       "confidence": 0.55,
@@ -35190,21 +34833,6 @@
       "tweet_id": "2119539907328651628",
       "type": "sha256",
       "value": "75f95037c962b4c4ccde50de6d0ac908714441c4da0296c1e89f4abb2a1468ed"
-    },
-    "7621cb4157d936d44a46f7a089ef86c4e9961c1a75712122bc1be4d547343da9": {
-      "confidence": 0.5,
-      "date": "2026-10-16 11:16:55",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "opendir"
-      ],
-      "summary": "Malicious MSI installer 'New.msi' downloaded from an IP-hosted URL and submitted to MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2111053772210266345",
-      "type": "sha256",
-      "value": "7621cb4157d936d44a46f7a089ef86c4e9961c1a75712122bc1be4d547343da9"
     },
     "769f9c2902faed7069eb3deb804774b74a6940aacb95a8561d4fb02b029a6340": {
       "confidence": 0.8,
@@ -36856,20 +36484,6 @@
       "type": "sha256",
       "value": "806d430c036e3bcb5b05b14eaf7423fdad2fcea67dae7a4beef545ffd864da52"
     },
-    "80a684f580a5b42dab7e3329b66706a765a8c08f04879e58ae734072786a3bc2": {
-      "confidence": 0.45,
-      "date": "2026-10-16 06:54:11",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious JavaScript file disguised as an SSA statement, seen from Canada and submitted to MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2110987655517241474",
-      "type": "sha256",
-      "value": "80a684f580a5b42dab7e3329b66706a765a8c08f04879e58ae734072786a3bc2"
-    },
     "81.161.239.50": {
       "confidence": 0.6,
       "date": "2026-10-29 12:19:29",
@@ -37107,22 +36721,6 @@
       "tweet_id": "2112982341731910035",
       "type": "url",
       "value": "http://82.25.63.33"
-    },
-    "82.47.180.159": {
-      "confidence": 0.85,
-      "date": "2026-10-16 07:40:26",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": "PureRAT",
-      "suggested_tags": [
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "Japanese-language malspam delivering PureRAT via a share.google link, with communication to the listed IP.",
-      "threat_type": "malware",
-      "tweet_id": "2110999292425216435",
-      "type": "url",
-      "value": "http://82.47.180.159"
     },
     "82ad640cd9ed8709766babc77413baa9": {
       "confidence": 0.6,
@@ -37830,21 +37428,6 @@
       "tweet_id": "2117513261260153072",
       "type": "sha256",
       "value": "85249f8bdd5a1b2d63a424c71c17d317981e9e514b5da4c04a4fcfdc7f949844"
-    },
-    "8579b1ac0699f2c05bf21bafc0bf1b30700f38c5b0e2f03e85ba39b6a3fdb924": {
-      "confidence": 0.5,
-      "date": "2026-10-16 09:58:06",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "wsgidav"
-      ],
-      "summary": "Malicious update.msi sample seen from the Netherlands, fetching an executable from a WebDAV path on check.neewsoo.com.",
-      "threat_type": "malware",
-      "tweet_id": "2111033937589862588",
-      "type": "sha256",
-      "value": "8579b1ac0699f2c05bf21bafc0bf1b30700f38c5b0e2f03e85ba39b6a3fdb924"
     },
     "85acf873df0ca54c75ca7b80402c0ea0ce988adf79f4fa55b1b210f95cb078b1": {
       "confidence": 0.6,
@@ -38856,20 +38439,6 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "93.152.214.134"
-    },
-    "93.152.220.124": {
-      "confidence": 0.5,
-      "date": "2026-10-16 09:19:39",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious PowerShell script posing as a Windows update (KB), tied to an IP and the domain megeve.beer.",
-      "threat_type": "malware",
-      "tweet_id": "2111024260227481678",
-      "type": "url",
-      "value": "http://93.152.220.124"
     },
     "93.152.220.219": {
       "confidence": 0.6,
@@ -46418,23 +45987,6 @@
       "type": "sha256",
       "value": "b5dce6d9e9972b441daa1f39fbabcf89d52de4b91535b289efed1268c6101791"
     },
-    "b5e640b7676e3ef1741d902dfb183e6129aa997d4b99a9626af9bb7c022e796f": {
-      "confidence": 0.85,
-      "date": "2026-10-16 09:13:05",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "valleyrat",
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "VHDX file assessed as ValleyRAT, seen from India, communicating with the listed IP on port 8383.",
-      "threat_type": "malware",
-      "tweet_id": "2111022610280550553",
-      "type": "sha256",
-      "value": "b5e640b7676e3ef1741d902dfb183e6129aa997d4b99a9626af9bb7c022e796f"
-    },
     "b62220191f940c681ae090deae9ba3c53fff593b2202464dd8dcecc567c1c5e9": {
       "confidence": 0.3,
       "date": "2026-11-10 21:25:07",
@@ -50774,22 +50326,6 @@
       "type": "md5",
       "value": "ca3e2e824c48017fc81b0a5614e1453e"
     },
-    "ca47e13a2980817e7849ddfef70312542ed11efaeba7b1b583161c06a440baf2": {
-      "confidence": 0.8,
-      "date": "2026-10-16 11:51:14",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": "Gh0stRat",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Gh0stRat variant signed by Zhengzhou Xiaoye Network Co., Ltd., with primary C2 on port 7661 and backup on port 80 at the same IP.",
-      "threat_type": "c2",
-      "tweet_id": "2111062410417094839",
-      "type": "sha256",
-      "value": "ca47e13a2980817e7849ddfef70312542ed11efaeba7b1b583161c06a440baf2"
-    },
     "ca9a5a5b5c7e12abf723f61db77ac54bf0f477db1f60bbc527157e62f94f637d": {
       "confidence": 0.9,
       "date": "2026-10-29 09:00:26",
@@ -52105,36 +51641,6 @@
       "type": "domain",
       "value": "cheatseller.com"
     },
-    "check.neewsoo.com": {
-      "confidence": 0.5,
-      "date": "2026-10-16 09:58:06",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "wsgidav"
-      ],
-      "summary": "Malicious update.msi sample seen from the Netherlands, fetching an executable from a WebDAV path on check.neewsoo.com.",
-      "threat_type": "malware",
-      "tweet_id": "2111033937589862588",
-      "type": "domain",
-      "value": "check.neewsoo.com"
-    },
-    "check.neewsoo.com/webdav/kb3810638.exe": {
-      "confidence": 0.5,
-      "date": "2026-10-16 09:58:06",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "wsgidav"
-      ],
-      "summary": "Malicious update.msi sample seen from the Netherlands, fetching an executable from a WebDAV path on check.neewsoo.com.",
-      "threat_type": "malware",
-      "tweet_id": "2111033937589862588",
-      "type": "url",
-      "value": "https://check.neewsoo.com/webdav/kb3810638.exe"
-    },
     "check.petyamamkinjuk.workers.dev": {
       "confidence": 0.75,
       "date": "2026-10-23 20:47:00",
@@ -52723,41 +52229,21 @@
       "type": "domain",
       "value": "clouddns-whatsapp.com"
     },
-    "cloudeliverenterprise.com": {
-      "confidence": 0.4,
-      "date": "2026-10-16 08:51:21",
-      "enriched_at": "2026-10-16T12:40:04Z",
+    "cloude.ai": {
+      "confidence": 0.75,
+      "date": "2026-11-15 04:56:02",
+      "enriched_at": "2026-11-15T12:40:05Z",
       "family": null,
-      "suggested_tags": [],
-      "summary": "Multiple recently registered, suspicious domains all resolving to the same IP, possibly shared malicious infrastructure.",
-      "threat_type": "other",
-      "tweet_id": "2111017138790056108",
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware"
+      ],
+      "summary": "Typosquat domains of AI services (e.g. Claude, Perplexity) lead to fake ClickFix verification pages and signed browser-hijacking apps, dubbed TypoPrompting.",
+      "threat_type": "malware",
+      "tweet_id": "2121829554465787929",
       "type": "domain",
-      "value": "cloudeliverenterprise.com"
-    },
-    "cloudeliverrs.com": {
-      "confidence": 0.4,
-      "date": "2026-10-16 08:51:21",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Multiple recently registered, suspicious domains all resolving to the same IP, possibly shared malicious infrastructure.",
-      "threat_type": "other",
-      "tweet_id": "2111017138790056108",
-      "type": "domain",
-      "value": "cloudeliverrs.com"
-    },
-    "cloudenterpriseve.com": {
-      "confidence": 0.4,
-      "date": "2026-10-16 08:51:21",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Multiple recently registered, suspicious domains all resolving to the same IP, possibly shared malicious infrastructure.",
-      "threat_type": "other",
-      "tweet_id": "2111017138790056108",
-      "type": "domain",
-      "value": "cloudenterpriseve.com"
+      "value": "cloude.ai"
     },
     "cloudfiare-verification.app": {
       "confidence": 0.85,
@@ -52919,18 +52405,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "cloudsec-whatsapp.com"
-    },
-    "clouzenterpr.com": {
-      "confidence": 0.4,
-      "date": "2026-10-16 08:51:21",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Multiple recently registered, suspicious domains all resolving to the same IP, possibly shared malicious infrastructure.",
-      "threat_type": "other",
-      "tweet_id": "2111017138790056108",
-      "type": "domain",
-      "value": "clouzenterpr.com"
     },
     "cluniacvexazai.click": {
       "confidence": 0.85,
@@ -54704,18 +54178,6 @@
       "type": "domain",
       "value": "dealdiwali.shop"
     },
-    "debiandelivr.com": {
-      "confidence": 0.4,
-      "date": "2026-10-16 08:51:21",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Multiple recently registered, suspicious domains all resolving to the same IP, possibly shared malicious infrastructure.",
-      "threat_type": "other",
-      "tweet_id": "2111017138790056108",
-      "type": "domain",
-      "value": "debiandelivr.com"
-    },
     "dechert.myssologin.com": {
       "confidence": 0.65,
       "date": "2026-10-16 20:01:26",
@@ -54817,18 +54279,6 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "defimoxx.top"
-    },
-    "deliversenterprise.com": {
-      "confidence": 0.4,
-      "date": "2026-10-16 08:51:21",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Multiple recently registered, suspicious domains all resolving to the same IP, possibly shared malicious infrastructure.",
-      "threat_type": "other",
-      "tweet_id": "2111017138790056108",
-      "type": "domain",
-      "value": "deliversenterprise.com"
     },
     "deploy-whatsapp.com": {
       "confidence": 0.7,
@@ -56534,6 +55984,34 @@
       "type": "url",
       "value": "http://docusign.alt3-doc3ea7-v2.sbs/word/verify.workspace.php"
     },
+    "docusign.nets2u.com": {
+      "confidence": 0.9,
+      "date": "2026-11-15 09:51:53",
+      "enriched_at": "2026-11-15T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing email impersonating Burns & McDonnell with a password-protected RFQ PDF; Microsoft OAuth link redirects to a DocuSign-themed credential harvesting page.",
+      "threat_type": "phishing",
+      "tweet_id": "2121904010890240204",
+      "type": "domain",
+      "value": "docusign.nets2u.com"
+    },
+    "docusign.nets2u.com/word/verify.workspace.php": {
+      "confidence": 0.9,
+      "date": "2026-11-15 09:51:53",
+      "enriched_at": "2026-11-15T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing email impersonating Burns & McDonnell with a password-protected RFQ PDF; Microsoft OAuth link redirects to a DocuSign-themed credential harvesting page.",
+      "threat_type": "phishing",
+      "tweet_id": "2121904010890240204",
+      "type": "url",
+      "value": "http://docusign.nets2u.com/word/verify.workspace.php"
+    },
     "docusignaccessportal.com": {
       "confidence": 0.85,
       "date": "2026-10-30 03:27:55",
@@ -57171,22 +56649,6 @@
       "type": "sha256",
       "value": "e118a4e9d48fcf7af31fa73e2b805ab1c8f5005b11b19a95ad68e4957df1a0b8"
     },
-    "e1671e3fbb0e4e97577b42253ef622b2": {
-      "confidence": 0.75,
-      "date": "2026-10-16 11:23:31",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": "PamStealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "PamStealer macOS disk image disguised as Okta.dmg, identified by MD5 hash.",
-      "threat_type": "malware",
-      "tweet_id": "2111055435503698058",
-      "type": "md5",
-      "value": "e1671e3fbb0e4e97577b42253ef622b2"
-    },
     "e169bd066b4532515844045497fe9d42ed26a15bf236d1f1a2b64573f5717b7d": {
       "confidence": 0.6,
       "date": "2026-10-29 12:19:29",
@@ -57601,20 +57063,6 @@
       "tweet_id": "2120477206077972762",
       "type": "sha256",
       "value": "e95b5fdfeed51620ae5ded7e4bf4ad5c19d49c10cb1b9e6f963482afbc62ac3b"
-    },
-    "e96c3abaa3185534f1f6c5765b391ba017b75f9d2955a68fdd9b44d2c1f93fd7": {
-      "confidence": 0.5,
-      "date": "2026-10-16 09:19:39",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious PowerShell script posing as a Windows update (KB), tied to an IP and the domain megeve.beer.",
-      "threat_type": "malware",
-      "tweet_id": "2111024260227481678",
-      "type": "sha256",
-      "value": "e96c3abaa3185534f1f6c5765b391ba017b75f9d2955a68fdd9b44d2c1f93fd7"
     },
     "e98ccba43420707b73c6d738b21af9d995a12677987ca5db0be40805aecff495": {
       "confidence": 0.4,
@@ -58575,18 +58023,6 @@
       "tweet_id": "2118040500892565879",
       "type": "domain",
       "value": "engrdist.site"
-    },
-    "enterprisedeliv.com": {
-      "confidence": 0.4,
-      "date": "2026-10-16 08:51:21",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Multiple recently registered, suspicious domains all resolving to the same IP, possibly shared malicious infrastructure.",
-      "threat_type": "other",
-      "tweet_id": "2111017138790056108",
-      "type": "domain",
-      "value": "enterprisedeliv.com"
     },
     "enterprisedigitalcampaign-managemen.vercel.app": {
       "confidence": 0.8,
@@ -61830,6 +61266,21 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "future-whatsapp.com"
+    },
+    "fuzzy-giggle-eta.vercel.app": {
+      "confidence": 0.6,
+      "date": "2026-11-15 12:00:48",
+      "enriched_at": "2026-11-15T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "malware"
+      ],
+      "summary": "Vercel-hosted site flagged by an automated scanner (scanmalware) as a confirmed scam and potentially malicious.",
+      "threat_type": "scam",
+      "tweet_id": "2121936450908459155",
+      "type": "domain",
+      "value": "fuzzy-giggle-eta.vercel.app"
     },
     "fwd.privatemail.com": {
       "confidence": 0.6,
@@ -65863,21 +65314,6 @@
       "type": "domain",
       "value": "jimcooks211.github.io"
     },
-    "jksdjkjs.cc": {
-      "confidence": 0.5,
-      "date": "2026-10-16 06:50:37",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "ISO sample seen from India connecting to the listed IP on port 8383 and the domain jksdjkjs.cc; likely ValleyRAT-style loader.",
-      "threat_type": "malware",
-      "tweet_id": "2110986754362581153",
-      "type": "domain",
-      "value": "jksdjkjs.cc"
-    },
     "jmblxd.cn": {
       "confidence": 0.8,
       "date": "2026-10-19 23:32:33",
@@ -66116,34 +65552,6 @@
       "type": "url",
       "value": "https://jreast-ekinet-mypage.help/_account_login"
     },
-    "jugsedp.info": {
-      "confidence": 0.85,
-      "date": "2026-10-16 09:09:20",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating the Vandle prepaid card brand at jugsedp.info.",
-      "threat_type": "phishing",
-      "tweet_id": "2111021663227892131",
-      "type": "domain",
-      "value": "jugsedp.info"
-    },
-    "jugsedp.info/xnkbvkyb": {
-      "confidence": 0.85,
-      "date": "2026-10-16 09:09:20",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating the Vandle prepaid card brand at jugsedp.info.",
-      "threat_type": "phishing",
-      "tweet_id": "2111021663227892131",
-      "type": "url",
-      "value": "https://jugsedp.info/XnkBVkyB/"
-    },
     "ka376.online": {
       "confidence": 0.7,
       "date": "2026-10-19 21:28:27",
@@ -66275,20 +65683,6 @@
       "tweet_id": "2112729499045630460",
       "type": "domain",
       "value": "keisigr.top"
-    },
-    "kelleydrye.myssologin.com": {
-      "confidence": 0.7,
-      "date": "2026-10-16 07:53:32",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "UNC6671 infrastructure update: new subdomains under myssologin.com reference law firms, extending a cluster to four firms; likely SSO phishing.",
-      "threat_type": "phishing",
-      "tweet_id": "2111002588996931660",
-      "type": "domain",
-      "value": "kelleydrye.myssologin.com"
     },
     "kenpousland.cfd": {
       "confidence": 0.6,
@@ -67786,20 +67180,6 @@
       "type": "domain",
       "value": "login.pt-br.webhwsapp-whatsapp.com"
     },
-    "login.rrrxxw.com": {
-      "confidence": 0.85,
-      "date": "2026-10-16 09:48:04",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site hosted at login.rrrxxw.com on a Hong Kong IP (Yancy Limited, AS138415).",
-      "threat_type": "phishing",
-      "tweet_id": "2111031412245799005",
-      "type": "domain",
-      "value": "login.rrrxxw.com"
-    },
     "login.webapi-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -68871,20 +68251,6 @@
       "type": "domain",
       "value": "mega-bigdiwalisales.icu"
     },
-    "megeve.beer": {
-      "confidence": 0.5,
-      "date": "2026-10-16 09:19:39",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious PowerShell script posing as a Windows update (KB), tied to an IP and the domain megeve.beer.",
-      "threat_type": "malware",
-      "tweet_id": "2111024260227481678",
-      "type": "domain",
-      "value": "megeve.beer"
-    },
     "merge-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -69916,18 +69282,6 @@
       "type": "url",
       "value": "https://mscupdate.blob.core.windows.net/downloads/edge.zip"
     },
-    "msjsonp.com": {
-      "confidence": 0.4,
-      "date": "2026-10-16 08:51:21",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Multiple recently registered, suspicious domains all resolving to the same IP, possibly shared malicious infrastructure.",
-      "threat_type": "other",
-      "tweet_id": "2111017138790056108",
-      "type": "domain",
-      "value": "msjsonp.com"
-    },
     "msteams-ai.com": {
       "confidence": 0.6,
       "date": "2026-11-08 18:59:59",
@@ -70118,20 +69472,6 @@
       "tweet_id": "2112423415563039186",
       "type": "url",
       "value": "https://mysmbc.iojdao.com/bplbfldb/"
-    },
-    "myssologin.com": {
-      "confidence": 0.7,
-      "date": "2026-10-16 07:53:32",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "UNC6671 infrastructure update: new subdomains under myssologin.com reference law firms, extending a cluster to four firms; likely SSO phishing.",
-      "threat_type": "phishing",
-      "tweet_id": "2111002588996931660",
-      "type": "domain",
-      "value": "myssologin.com"
     },
     "myssosetup.com": {
       "confidence": 0.85,
@@ -72731,6 +72071,22 @@
       "type": "domain",
       "value": "pregnantkha-jp.com"
     },
+    "preplexity.ai": {
+      "confidence": 0.75,
+      "date": "2026-11-15 04:56:02",
+      "enriched_at": "2026-11-15T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware"
+      ],
+      "summary": "Typosquat domains of AI services (e.g. Claude, Perplexity) lead to fake ClickFix verification pages and signed browser-hijacking apps, dubbed TypoPrompting.",
+      "threat_type": "malware",
+      "tweet_id": "2121829554465787929",
+      "type": "domain",
+      "value": "preplexity.ai"
+    },
     "prev-whatsapp.com": {
       "confidence": 0.6,
       "date": "2026-10-20 16:42:53",
@@ -73267,6 +72623,20 @@
       "type": "domain",
       "value": "ptrdfvc.sbs"
     },
+    "pub-0d275574d47649ed9944322d102ec15d.r2.dev": {
+      "confidence": 0.6,
+      "date": "2026-11-15 10:52:49",
+      "enriched_at": "2026-11-15T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Cloudflare R2 public bucket URL flagged by an automated scanner as a confirmed scam website.",
+      "threat_type": "scam",
+      "tweet_id": "2121919343000768655",
+      "type": "domain",
+      "value": "pub-0d275574d47649ed9944322d102ec15d.r2.dev"
+    },
     "pub-3f84de9aa4f04824a3cf79d4adea59cb.r2.dev": {
       "confidence": 0.6,
       "date": "2026-10-28 02:31:18",
@@ -73353,6 +72723,21 @@
       "tweet_id": "2119960743323861051",
       "type": "domain",
       "value": "pub-ac2492e7d4454a408a96a3152f656607.r2.dev"
+    },
+    "pub-dfa5dc9b1b264e89b08343cf0a26450b.r2.dev": {
+      "confidence": 0.55,
+      "date": "2026-11-15 11:53:02",
+      "enriched_at": "2026-11-15T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "malware"
+      ],
+      "summary": "Cloudflare R2 public bucket URL flagged by an automated scanner as a confirmed scam and potentially malicious.",
+      "threat_type": "scam",
+      "tweet_id": "2121934496136355988",
+      "type": "domain",
+      "value": "pub-dfa5dc9b1b264e89b08343cf0a26450b.r2.dev"
     },
     "public.mexc.co.com": {
       "confidence": 0.55,
@@ -75697,42 +75082,6 @@
       "type": "domain",
       "value": "schema-whatsapp.com"
     },
-    "scloudeliverrs.com": {
-      "confidence": 0.4,
-      "date": "2026-10-16 08:51:21",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Multiple recently registered, suspicious domains all resolving to the same IP, possibly shared malicious infrastructure.",
-      "threat_type": "other",
-      "tweet_id": "2111017138790056108",
-      "type": "domain",
-      "value": "scloudeliverrs.com"
-    },
-    "scloudsenterprise.com": {
-      "confidence": 0.4,
-      "date": "2026-10-16 08:51:21",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Multiple recently registered, suspicious domains all resolving to the same IP, possibly shared malicious infrastructure.",
-      "threat_type": "other",
-      "tweet_id": "2111017138790056108",
-      "type": "domain",
-      "value": "scloudsenterprise.com"
-    },
-    "scloudsenterprisever.com": {
-      "confidence": 0.4,
-      "date": "2026-10-16 08:51:21",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Multiple recently registered, suspicious domains all resolving to the same IP, possibly shared malicious infrastructure.",
-      "threat_type": "other",
-      "tweet_id": "2111017138790056108",
-      "type": "domain",
-      "value": "scloudsenterprisever.com"
-    },
     "scnk3.club": {
       "confidence": 0.6,
       "date": "2026-10-20 05:36:30",
@@ -76971,54 +76320,6 @@
       "type": "url",
       "value": "https://share-adminsimple.s3.eu-west-2.amazonaws.com/October2026/AS-2026-1048.zip?utm_source=chatgpt.com"
     },
-    "share.google/5o0da0jlwxyg9gim0": {
-      "confidence": 0.8,
-      "date": "2026-10-16 06:46:40",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": "PureLogs",
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Japanese-language malspam using a share.google link to deliver PureLogs stealer, with C2 at tea.vexexo.com.",
-      "threat_type": "malware",
-      "tweet_id": "2110985762032501167",
-      "type": "url",
-      "value": "http://share.google/5O0da0JLwxYG9GiM0"
-    },
-    "share.google/5o0da0jlwxyg9gim0&source=gmail&ust=1792020229421000&usg=aovvaw2mqhusfd75gkkt8qqarodo": {
-      "confidence": 0.8,
-      "date": "2026-10-16 06:46:40",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": "PureLogs",
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Japanese-language malspam using a share.google link to deliver PureLogs stealer, with C2 at tea.vexexo.com.",
-      "threat_type": "malware",
-      "tweet_id": "2110985762032501167",
-      "type": "url",
-      "value": "http://share.google/5O0da0JLwxYG9GiM0&source=gmail&ust=1792020229421000&usg=AOvVaw2mqhUsfd75GkKt8QQarOdO"
-    },
-    "share.google/qhavahyezqeekxxab": {
-      "confidence": 0.85,
-      "date": "2026-10-16 07:40:26",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": "PureRAT",
-      "suggested_tags": [
-        "rat",
-        "malware",
-        "c2"
-      ],
-      "summary": "Japanese-language malspam delivering PureRAT via a share.google link, with communication to the listed IP.",
-      "threat_type": "malware",
-      "tweet_id": "2110999292425216435",
-      "type": "url",
-      "value": "http://share.google/QHaVAHYezQEEkXXab"
-    },
     "share.google/xpdwuy4wr618gbijq": {
       "confidence": 0.5,
       "date": "2026-10-19 11:25:07",
@@ -77995,20 +77296,6 @@
       "tweet_id": "2112858839238451663",
       "type": "domain",
       "value": "stadiadev.cc"
-    },
-    "staganddoenc.com": {
-      "confidence": 0.9,
-      "date": "2026-10-16 06:59:07",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing page impersonating ANA at staganddoenc.com, hosted on the listed IP.",
-      "threat_type": "phishing",
-      "tweet_id": "2110988894280020440",
-      "type": "domain",
-      "value": "staganddoenc.com"
     },
     "stake-app-au.org": {
       "confidence": 0.85,
@@ -80274,6 +79561,21 @@
       "type": "domain",
       "value": "te1egram.lol"
     },
+    "tea.vexexo.com": {
+      "confidence": 0.6,
+      "date": "2026-10-28 05:56:35",
+      "enriched_at": "2026-11-15T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Fake product unboxing report ZIP delivers an executable that contacts tea.vexexo.com and logs.uvexio.com for command and control.",
+      "threat_type": "c2",
+      "tweet_id": "2115321813236584673",
+      "type": "domain",
+      "value": "tea.vexexo.com"
+    },
     "teamsmeeting.site": {
       "confidence": 0.8,
       "date": "2026-10-24 05:16:18",
@@ -80639,18 +79941,6 @@
       "tweet_id": "2112583368479318236",
       "type": "domain",
       "value": "testenv-whatsapp.com"
-    },
-    "testenv1829.com": {
-      "confidence": 0.4,
-      "date": "2026-10-16 08:51:21",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Multiple recently registered, suspicious domains all resolving to the same IP, possibly shared malicious infrastructure.",
-      "threat_type": "other",
-      "tweet_id": "2111017138790056108",
-      "type": "domain",
-      "value": "testenv1829.com"
     },
     "tevxorin-lak294816573.vercel.app": {
       "confidence": 0.5,
@@ -82308,6 +81598,20 @@
       "type": "domain",
       "value": "uspsfund.online"
     },
+    "uzafeho.top": {
+      "confidence": 0.6,
+      "date": "2026-11-15 10:49:49",
+      "enriched_at": "2026-11-15T12:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Domain uzafeho.top flagged by an automated scanner as a confirmed scam website.",
+      "threat_type": "scam",
+      "tweet_id": "2121918587757629482",
+      "type": "domain",
+      "value": "uzafeho.top"
+    },
     "uzeglvlb7gfekr3.icu": {
       "confidence": 0.2,
       "date": "2026-10-22 09:13:08",
@@ -83163,20 +82467,6 @@
       "tweet_id": "2112607806964535613",
       "type": "url",
       "value": "https://watts-macos.github.io/Watts_3.1.2.dmg"
-    },
-    "wauxp.vn-889club.com": {
-      "confidence": 0.9,
-      "date": "2026-10-16 06:49:21",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating Amazon hosted at wauxp.vn-889club.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2110986438565388744",
-      "type": "domain",
-      "value": "wauxp.vn-889club.com"
     },
     "wazirxkyc.com": {
       "confidence": 0.92,
@@ -84493,20 +83783,6 @@
       "type": "domain",
       "value": "wildfreedome.com"
     },
-    "willkie.myssologin.com": {
-      "confidence": 0.7,
-      "date": "2026-10-16 07:53:32",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "UNC6671 infrastructure update: new subdomains under myssologin.com reference law firms, extending a cluster to four firms; likely SSO phishing.",
-      "threat_type": "phishing",
-      "tweet_id": "2111002588996931660",
-      "type": "domain",
-      "value": "willkie.myssologin.com"
-    },
     "win10pc.oss-cn-hongkong.aliyuncs.com": {
       "confidence": 0.6,
       "date": "2026-10-28 06:14:44",
@@ -85206,20 +84482,6 @@
       "tweet_id": "2112871980328456316",
       "type": "url",
       "value": "https://www.spnetflx.com/pages/captcha.php"
-    },
-    "www.staganddoenc.com/yn18t6ktd": {
-      "confidence": 0.9,
-      "date": "2026-10-16 06:59:07",
-      "enriched_at": "2026-10-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing page impersonating ANA at staganddoenc.com, hosted on the listed IP.",
-      "threat_type": "phishing",
-      "tweet_id": "2110988894280020440",
-      "type": "url",
-      "value": "https://www.staganddoenc.com/YN18t6ktd/"
     },
     "www.supportforpolicycompliance.vercel.app": {
       "confidence": 0.7,
@@ -86882,6 +86144,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-15T06:40:04Z",
+  "generated_at": "2026-11-15T12:40:05Z",
   "window_days": 30
 }
