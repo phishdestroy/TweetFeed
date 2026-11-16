@@ -1,5 +1,5 @@
 {
-  "count": 6254,
+  "count": 6467,
   "dead_tweets": {
     "2114565057338343930": {
       "attempts": 2,
@@ -312,6 +312,22 @@
       "type": "sha256",
       "value": "04395a955f57f772cfb4d0d6161bf085c48e6d55ed6fc7cbbf522867099957d7"
     },
+    "045f59f534c54b3c1db809bd624d09dffaf29af7e4c56cedb208d2258090fec9": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "045f59f534c54b3c1db809bd624d09dffaf29af7e4c56cedb208d2258090fec9"
+    },
     "04ec3f1c19c90a91085aaa44802b3fe0a2a93285dd87f7bae6cf8f33b5ab52d4": {
       "confidence": 0.6,
       "date": "2026-11-15 14:17:12",
@@ -342,6 +358,22 @@
       "type": "sha256",
       "value": "05880d390a0ec8e221b0b8f3eb2f2f0172e192c8dd0a2f409806bc24e98a182c"
     },
+    "0697ce0efa792a47df572dd7e86239853089f6019c2f97e0fba0fcd71377ca27": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "0697ce0efa792a47df572dd7e86239853089f6019c2f97e0fba0fcd71377ca27"
+    },
     "06ec7e87c2762746dc7157dfbad7aa68": {
       "confidence": 0.85,
       "date": "2026-11-05 11:57:01",
@@ -357,6 +389,22 @@
       "tweet_id": "2118311622326276314",
       "type": "md5",
       "value": "06ec7e87c2762746dc7157dfbad7aa68"
+    },
+    "070ead99864d254494763396515c1e71cda74036f55dbdc10f50c8943273c0b3": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "070ead99864d254494763396515c1e71cda74036f55dbdc10f50c8943273c0b3"
     },
     "07213fea47525bfdcd70b5355390c97761cee899929a885a55f8f060b59ffc12": {
       "confidence": 0.4,
@@ -564,6 +612,64 @@
       "type": "sha256",
       "value": "09c5cd09d195c275a79dad60db3035ccb916fb2d6edfcd148299f1f5e20ad2ba"
     },
+    "09rzc45a.s3.us-east-1.amazonaws.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:25:40",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Tech support scam site hosted on AWS S3, received via spam email and redirecting victims; reported by a Japanese university.",
+      "threat_type": "scam",
+      "tweet_id": "2122214502087246279",
+      "type": "domain",
+      "value": "09rzc45a.s3.us-east-1.amazonaws.com"
+    },
+    "09rzc45a.s3.us-east-1.amazonaws.com/7gcjq0bjl0ct.html#9x4njin1xbq6excg": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:25:35",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "AWS S3-hosted tech support scam page targeting Japanese users.",
+      "threat_type": "scam",
+      "tweet_id": "2122214478800728489",
+      "type": "url",
+      "value": "https://09rzc45a.s3.us-east-1.amazonaws.com/7gcjq0bjl0ct.html#9X4NJIN1XBq6ExcG"
+    },
+    "09rzc45a.s3.us-east-1.amazonaws.com/index.html": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:25:40",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Tech support scam site hosted on AWS S3, received via spam email and redirecting victims; reported by a Japanese university.",
+      "threat_type": "scam",
+      "tweet_id": "2122214502087246279",
+      "type": "url",
+      "value": "https://09rzc45a.s3.us-east-1.amazonaws.com/index.html"
+    },
+    "0a084fca2d9bfebf09e10800c118b346f381cf2e035d7e2404b27215f68f7d10": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "0a084fca2d9bfebf09e10800c118b346f381cf2e035d7e2404b27215f68f7d10"
+    },
     "0ab3122f40166928fab322f0a7bfeb4df959beb68503737bf75f42e3f0701b8b": {
       "confidence": 0.45,
       "date": "2026-11-04 11:19:52",
@@ -591,6 +697,22 @@
       "tweet_id": "2117176329112322489",
       "type": "md5",
       "value": "0ae0977e0a2c707e9435b6acfea4da11"
+    },
+    "0b8753fa976ff44f5063a06dc3ca9052e5681bfbefb70a006000864a36385b52": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "0b8753fa976ff44f5063a06dc3ca9052e5681bfbefb70a006000864a36385b52"
     },
     "0b95167676069a859a7535ce88e2b9f82520485d0102400d6d3e38a21f7c1f72": {
       "confidence": 0.55,
@@ -743,6 +865,22 @@
       "tweet_id": "2118363709169181098",
       "type": "sha256",
       "value": "0e0b77f79fe5d06f11de2959559379e94d62512e073c267b481a58d19d265240"
+    },
+    "0e15d2dc579bc659fa44d711c0a4fdb4cec8b0db577fee595a3133c508ac10d2": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "0e15d2dc579bc659fa44d711c0a4fdb4cec8b0db577fee595a3133c508ac10d2"
     },
     "0e807a485125b699a83d923eea9e128a": {
       "confidence": 0.3,
@@ -2356,6 +2494,18 @@
       "type": "ip",
       "value": "103.244.149.40"
     },
+    "103.246.247.116": {
+      "confidence": 0.3,
+      "date": "2026-11-16 06:50:43",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Update to an IP indicator list: four IPs added and two removed; no threat context given.",
+      "threat_type": "other",
+      "tweet_id": "2122220803605553212",
+      "type": "ip",
+      "value": "103.246.247.116"
+    },
     "103.248.206.97": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -3533,22 +3683,6 @@
       "type": "ip",
       "value": "104.234.186.154"
     },
-    "104.237.154.191": {
-      "confidence": 0.9,
-      "date": "2026-10-17 09:58:33",
-      "enriched_at": "2026-10-17T12:40:04Z",
-      "family": "Sliver",
-      "suggested_tags": [
-        "sliver",
-        "c2",
-        "malware"
-      ],
-      "summary": "Four IP addresses identified via Shodan as Sliver C2 servers, reported with high confidence.",
-      "threat_type": "c2",
-      "tweet_id": "2111396440815947970",
-      "type": "url",
-      "value": "http://104.237.154.191"
-    },
     "104.238.147.251": {
       "confidence": 0.7,
       "date": "2026-11-03 16:26:07",
@@ -3726,22 +3860,6 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "106.52.83.144"
-    },
-    "106.55.34.199": {
-      "confidence": 0.9,
-      "date": "2026-10-17 09:58:33",
-      "enriched_at": "2026-10-17T12:40:04Z",
-      "family": "Sliver",
-      "suggested_tags": [
-        "sliver",
-        "c2",
-        "malware"
-      ],
-      "summary": "Four IP addresses identified via Shodan as Sliver C2 servers, reported with high confidence.",
-      "threat_type": "c2",
-      "tweet_id": "2111396440815947970",
-      "type": "url",
-      "value": "http://106.55.34.199"
     },
     "106.75.239.78": {
       "confidence": 0.5,
@@ -7572,6 +7690,18 @@
       "type": "ip",
       "value": "140.143.171.119"
     },
+    "140.150.227.186": {
+      "confidence": 0.3,
+      "date": "2026-11-16 06:50:43",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Update to an IP indicator list: four IPs added and two removed; no threat context given.",
+      "threat_type": "other",
+      "tweet_id": "2122220803605553212",
+      "type": "ip",
+      "value": "140.150.227.186"
+    },
     "140.188.124.242": {
       "confidence": 0.85,
       "date": "2026-10-31 09:05:29",
@@ -7771,18 +7901,6 @@
       "type": "url",
       "value": "http://144.172.103.87:8080"
     },
-    "144.172.64.128": {
-      "confidence": 0.8,
-      "date": "2026-10-17 07:29:20",
-      "enriched_at": "2026-10-17T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Microsoft reports supply chain attack abusing the ConnectWise Cloud Backup (SkyKick) OAuth app to obtain tokens across tenants; source IP 144.172.64.128.",
-      "threat_type": "other",
-      "tweet_id": "2111358888125878426",
-      "type": "url",
-      "value": "http://144.172.64.128"
-    },
     "144.202.75.159": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -7875,22 +7993,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "144.91.81.102"
-    },
-    "145.223.68.204": {
-      "confidence": 0.9,
-      "date": "2026-10-17 09:58:33",
-      "enriched_at": "2026-10-17T12:40:04Z",
-      "family": "Sliver",
-      "suggested_tags": [
-        "sliver",
-        "c2",
-        "malware"
-      ],
-      "summary": "Four IP addresses identified via Shodan as Sliver C2 servers, reported with high confidence.",
-      "threat_type": "c2",
-      "tweet_id": "2111396440815947970",
-      "type": "url",
-      "value": "http://145.223.68.204"
     },
     "145.63.130.147": {
       "confidence": 0.45,
@@ -8716,6 +8818,20 @@
       "tweet_id": "2117631175892279541",
       "type": "url",
       "value": "http://152.175.230.66"
+    },
+    "152.32.203.142": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:25:28",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating SMBC/Mitsui Sumitomo credit card across many subdomains, hosted on 152.32.203.142 (UCloud HK).",
+      "threat_type": "phishing",
+      "tweet_id": "2122229550558179362",
+      "type": "ip",
+      "value": "152.32.203.142"
     },
     "152.32.225.117": {
       "confidence": 0.5,
@@ -11303,6 +11419,20 @@
       "type": "ip",
       "value": "170.62.130.5"
     },
+    "170.78.5.46": {
+      "confidence": 0.8,
+      "date": "2026-11-16 07:02:24",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Tech support scam site hosted on AWS S3, received via spam email and redirecting victims; reported by a Japanese university.",
+      "threat_type": "scam",
+      "tweet_id": "2122223746023133325",
+      "type": "ip",
+      "value": "170.78.5.46"
+    },
     "171.34.139.222": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -11734,23 +11864,6 @@
       "type": "ip",
       "value": "175.41.25.250"
     },
-    "176.12.71.122": {
-      "confidence": 0.9,
-      "date": "2026-10-17 12:12:18",
-      "enriched_at": "2026-11-12T18:40:05Z",
-      "family": "SalatStealer",
-      "suggested_tags": [
-        "salatstealer",
-        "infostealer",
-        "stealer",
-        "c2"
-      ],
-      "summary": "SalatStealer panel bootstrap config.json on 176.12.71.122; TLS certs tie it to rotating C2 domains.",
-      "threat_type": "malware",
-      "tweet_id": "2111430099538948116",
-      "type": "url",
-      "value": "http://176.12.71.122"
-    },
     "176.123.18.20": {
       "confidence": 0.6,
       "date": "2026-10-27 09:40:07",
@@ -11881,6 +11994,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "177.10.160.46"
+    },
+    "177.107.24.82": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:25:40",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Tech support scam site hosted on AWS S3, received via spam email and redirecting victims; reported by a Japanese university.",
+      "threat_type": "scam",
+      "tweet_id": "2122214502087246279",
+      "type": "ip",
+      "value": "177.107.24.82"
     },
     "177.201.232.163": {
       "confidence": 0.55,
@@ -13021,6 +13148,22 @@
       "tweet_id": "2112866613649154450",
       "type": "md5",
       "value": "1864eff97643dd63af698a12151521ad"
+    },
+    "1873a12d28da18fd915486d556508dfa805a15842855be1913ef256edcc0eebc": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "1873a12d28da18fd915486d556508dfa805a15842855be1913ef256edcc0eebc"
     },
     "188.137.247.26": {
       "confidence": 0.2,
@@ -14413,6 +14556,22 @@
       "type": "url",
       "value": "http://199.91.221.237:3000"
     },
+    "19b569329570f3dedc38f3db1304e1a839038637e7ec2c1788400d83c9d9927d": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "19b569329570f3dedc38f3db1304e1a839038637e7ec2c1788400d83c9d9927d"
+    },
     "19e11045972770ea7959f2dc520896cdefef15f805aa5a83353aee337437efdd": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -14455,6 +14614,22 @@
       "tweet_id": "2120403173164884353",
       "type": "md5",
       "value": "1a42f539f5c522ebf01371c025da2c71"
+    },
+    "1a47ab9f852f8dee5df0678274e99623b99d230effa64e412ba8b0e31e74f63e": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "1a47ab9f852f8dee5df0678274e99623b99d230effa64e412ba8b0e31e74f63e"
     },
     "1a7820314a34909020947aafad14ec77": {
       "confidence": 0.5,
@@ -14514,6 +14689,22 @@
       "type": "sha256",
       "value": "1b519c70fe1f04dfed8e09bbbd7deb376b9c7bc6ce828fc62eba326fe71a26f2"
     },
+    "1b5da4b9e458998c8586b13bc342c73f5448c3e0796543c77f32feaaa18350ba": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "1b5da4b9e458998c8586b13bc342c73f5448c3e0796543c77f32feaaa18350ba"
+    },
     "1d13d3e576123bb0d46bea9f06382615fc1a8a21e59e603aa52b35ce8327858e": {
       "confidence": 0.7,
       "date": "2026-11-12 10:44:56",
@@ -14543,6 +14734,22 @@
       "tweet_id": "2112738026938069150",
       "type": "md5",
       "value": "1d617f5fda401b5bed0a63550f9de05d"
+    },
+    "1d85a1545239386a8957308372b109f4907d11e33d6901bff5c0c0c0faf9a788": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "1d85a1545239386a8957308372b109f4907d11e33d6901bff5c0c0c0faf9a788"
     },
     "1da2d3c8caa8ed7d7260494e2314c8671a9e6a689d87dd6338966baa6286eb66": {
       "confidence": 0.4,
@@ -14604,6 +14811,48 @@
       "tweet_id": "2119783105468715233",
       "type": "md5",
       "value": "1dfc9bd31fb20bcf4131351817cd3314"
+    },
+    "1dhc8fuc.s3.us-east-1.amazonaws.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 07:02:24",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Tech support scam site hosted on AWS S3, received via spam email and redirecting victims; reported by a Japanese university.",
+      "threat_type": "scam",
+      "tweet_id": "2122223746023133325",
+      "type": "domain",
+      "value": "1dhc8fuc.s3.us-east-1.amazonaws.com"
+    },
+    "1dhc8fuc.s3.us-east-1.amazonaws.com/index.html": {
+      "confidence": 0.8,
+      "date": "2026-11-16 07:02:24",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Tech support scam site hosted on AWS S3, received via spam email and redirecting victims; reported by a Japanese university.",
+      "threat_type": "scam",
+      "tweet_id": "2122223746023133325",
+      "type": "url",
+      "value": "https://1dhc8fuc.s3.us-east-1.amazonaws.com/index.html"
+    },
+    "1dhc8fuc.s3.us-east-1.amazonaws.com/vmcsydf8xgu4.html#vfi4zslsulev0mjq": {
+      "confidence": 0.8,
+      "date": "2026-11-16 07:02:26",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "AWS S3-hosted tech support scam page targeting Japanese users.",
+      "threat_type": "scam",
+      "tweet_id": "2122223755426754982",
+      "type": "url",
+      "value": "https://1dhc8fuc.s3.us-east-1.amazonaws.com/vmcsydf8xgu4.html#vfi4zsLSuLEv0mJQ"
     },
     "1drv.adessosnow.com": {
       "confidence": 0.6,
@@ -14726,6 +14975,22 @@
       "type": "sha256",
       "value": "1ee69c54e4123219ab841b9742f28ca5ba3874d9cc026fec3219e7a7dbc6c0c8"
     },
+    "1ee98b7671c31918051003a486d06dbe433a9a27f283fac124910ff751eb7e64": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "1ee98b7671c31918051003a486d06dbe433a9a27f283fac124910ff751eb7e64"
+    },
     "1f78dab72cbdca3319e59794bd9ab37b2228f317500083703f763a403defdac9": {
       "confidence": 0.75,
       "date": "2026-11-08 04:55:57",
@@ -14742,6 +15007,22 @@
       "tweet_id": "2119292818321809666",
       "type": "sha256",
       "value": "1f78dab72cbdca3319e59794bd9ab37b2228f317500083703f763a403defdac9"
+    },
+    "1ff90f10871642dc8fc6e8549fb76eb9b69469b34200d7119304559ee2ef0a5d": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "1ff90f10871642dc8fc6e8549fb76eb9b69469b34200d7119304559ee2ef0a5d"
     },
     "1inch-extension.vercel.app": {
       "confidence": 0.65,
@@ -16162,6 +16443,22 @@
       "type": "url",
       "value": "http://208.84.100.64"
     },
+    "208035b5296bf51257a70f9cfd7c4a9d55b439ec2ebe66534b8989efa7ed00d8": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "208035b5296bf51257a70f9cfd7c4a9d55b439ec2ebe66534b8989efa7ed00d8"
+    },
     "209.127.228.106": {
       "confidence": 0.8,
       "date": "2026-11-06 17:42:00",
@@ -17414,6 +17711,22 @@
       "type": "md5",
       "value": "234bf59aa5a95c53099ccb3a618211aa"
     },
+    "23a0d6cb650cb1e2632c188140152d04fae30f242d6ea6c50d216bbad8b6e08a": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "23a0d6cb650cb1e2632c188140152d04fae30f242d6ea6c50d216bbad8b6e08a"
+    },
     "23e64c7e4425c434b5cce1949662b797dcbbd16b068ee84527c1666023879efa": {
       "confidence": 0.5,
       "date": "2026-11-04 08:58:07",
@@ -18165,6 +18478,22 @@
       "type": "sha256",
       "value": "2c421ece8d566da75ef3473f5b19c8fa3e64b7e53e30efa2c2d91693c3d8c7a9"
     },
+    "2c7674380229c62caa7f43c3f8a7aacece3397ea91d490f90980bd037c4af069": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "2c7674380229c62caa7f43c3f8a7aacece3397ea91d490f90980bd037c4af069"
+    },
     "2c95be179f9b6a52043cbab4ba2524d66e05e0e1e762697f969474510ca79ac1": {
       "confidence": 0.7,
       "date": "2026-11-11 13:15:22",
@@ -18276,6 +18605,22 @@
       "type": "sha256",
       "value": "2efc9cf419817279bfecd7df6179ff5c921d8ec43070c58fcbf4cd535e3a4628"
     },
+    "2f31e085dfc9e71ee42981aadf456dc7": {
+      "confidence": 0.85,
+      "date": "2026-11-16 11:37:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "Braodo",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "Braodo Stealer delivered via a RAR archive posing as a medical document, with payload and Python libraries fetched from GitHub repositories.",
+      "threat_type": "malware",
+      "tweet_id": "2122292927837647183",
+      "type": "md5",
+      "value": "2f31e085dfc9e71ee42981aadf456dc7"
+    },
     "2f4df752b979c6c1784add5410ea5115e5b8d93c4250d21c07aa480175b70ccb": {
       "confidence": 0.85,
       "date": "2026-10-26 13:39:12",
@@ -18337,6 +18682,36 @@
       "tweet_id": "2118577882578710918",
       "type": "domain",
       "value": "2fcfbd.991jili.site"
+    },
+    "2rlsykgo.s3.us-east-1.amazonaws.com": {
+      "confidence": 0.85,
+      "date": "2026-11-16 08:47:20",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Fake traffic violation notice from a purported traffic enforcement center, hosted on AWS S3, part of a tech support scam.",
+      "threat_type": "phishing",
+      "tweet_id": "2122250153830879234",
+      "type": "domain",
+      "value": "2rlsykgo.s3.us-east-1.amazonaws.com"
+    },
+    "2rlsykgo.s3.us-east-1.amazonaws.com/index.html": {
+      "confidence": 0.85,
+      "date": "2026-11-16 08:47:20",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Fake traffic violation notice from a purported traffic enforcement center, hosted on AWS S3, part of a tech support scam.",
+      "threat_type": "phishing",
+      "tweet_id": "2122250153830879234",
+      "type": "url",
+      "value": "https://2rlsykgo.s3.us-east-1.amazonaws.com/index.html"
     },
     "2stdiwali-bigsavingsale.info": {
       "confidence": 0.75,
@@ -18463,6 +18838,22 @@
       "type": "sha256",
       "value": "302d62816fc064d2cd19feea1a3d46c259762ccbfc64fa8be917d1165ef1dd47"
     },
+    "3057b65c97dbfcef5379d4559df7d729645b4a0f16022c040afeafd3c2871dd1": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "3057b65c97dbfcef5379d4559df7d729645b4a0f16022c040afeafd3c2871dd1"
+    },
     "30c62be8954504caabfd030a908b6799": {
       "confidence": 0.5,
       "date": "2026-11-15 18:58:48",
@@ -18477,6 +18868,22 @@
       "tweet_id": "2122041644115480921",
       "type": "md5",
       "value": "30c62be8954504caabfd030a908b6799"
+    },
+    "30fffa363d94f1d8e2a4e069b16782b0584ab65042e0344762204c939f81c6d5": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "30fffa363d94f1d8e2a4e069b16782b0584ab65042e0344762204c939f81c6d5"
     },
     "31.128.39.24": {
       "confidence": 0.55,
@@ -18801,6 +19208,22 @@
       "tweet_id": "2121122516555227510",
       "type": "sha256",
       "value": "32c77d8dd7b64f8cf26ebda293e0809c062dd57d81d853bb56b8aa69cbb24156"
+    },
+    "3302bd70c6117a0c16f0eb0aedef2ff0a2d02729e235cd8b6db7096d7bcb3406": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "3302bd70c6117a0c16f0eb0aedef2ff0a2d02729e235cd8b6db7096d7bcb3406"
     },
     "33e61a1c7cbc0a48d1e0fcd79a2f632c10c66427a50559b9ec02b87297caa2db": {
       "confidence": 0.6,
@@ -25208,6 +25631,22 @@
       "type": "md5",
       "value": "34535b896c9898f2d3af394dd43f4150"
     },
+    "346f71bd5a04f8578041c441914d277da7b731f9f0c9438dbd98c966d4dd15a9": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "346f71bd5a04f8578041c441914d277da7b731f9f0c9438dbd98c966d4dd15a9"
+    },
     "35.185.111.215": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -27611,6 +28050,22 @@
       "type": "md5",
       "value": "366464d1eab72fa04b3b7caa62166f1e"
     },
+    "369fdbd5cb5b0b64537c4cada9e6f3bff936d73f638cbe6bbd2d4db9f882b053": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "369fdbd5cb5b0b64537c4cada9e6f3bff936d73f638cbe6bbd2d4db9f882b053"
+    },
     "37.111.215.95": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -28343,6 +28798,22 @@
       "type": "md5",
       "value": "3b487e29c8934067df661f0cb46e4b61"
     },
+    "3b6233e691e93df2913f8aa30d34f62ea8632f1c35871e888d6e5ff38f3c59ae": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "3b6233e691e93df2913f8aa30d34f62ea8632f1c35871e888d6e5ff38f3c59ae"
+    },
     "3b71d721c39fad92a44ddd764bbb34afeae44a5db886d0a4827a399a5fbd367f": {
       "confidence": 0.7,
       "date": "2026-11-08 15:26:56",
@@ -28460,6 +28931,22 @@
       "tweet_id": "2116019203992093042",
       "type": "sha256",
       "value": "3df306ee35b8abd426d2231dd10c987aec8499b8339aff39725bc925eae20c48"
+    },
+    "3e97711261d535641639d7fb12fd90ffbc2eb8e0e4b1b834012fa374a80c8306": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "3e97711261d535641639d7fb12fd90ffbc2eb8e0e4b1b834012fa374a80c8306"
     },
     "3eb6f62926824c302a46dda0528a401c43a4617bb4c05fd8ef8d723bde5ef3b4": {
       "confidence": 0.7,
@@ -28989,22 +29476,6 @@
       "type": "ip",
       "value": "43.155.183.44"
     },
-    "43.155.215.231": {
-      "confidence": 0.9,
-      "date": "2026-10-17 09:58:33",
-      "enriched_at": "2026-10-17T12:40:04Z",
-      "family": "Sliver",
-      "suggested_tags": [
-        "sliver",
-        "c2",
-        "malware"
-      ],
-      "summary": "Four IP addresses identified via Shodan as Sliver C2 servers, reported with high confidence.",
-      "threat_type": "c2",
-      "tweet_id": "2111396440815947970",
-      "type": "url",
-      "value": "http://43.155.215.231"
-    },
     "43.157.146.70": {
       "confidence": 0.8,
       "date": "2026-10-27 07:09:59",
@@ -29076,6 +29547,20 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "43.162.83.183"
+    },
+    "43.162.93.46": {
+      "confidence": 0.8,
+      "date": "2026-11-12 01:03:17",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "New phishing URL on mifidelidad.click hosted at 43.162.93.46 (Tencent, AS132203).",
+      "threat_type": "phishing",
+      "tweet_id": "2120683819015475526",
+      "type": "ip",
+      "value": "43.162.93.46"
     },
     "43.164.137.93": {
       "confidence": 0.85,
@@ -29161,6 +29646,20 @@
       "type": "ip",
       "value": "43.165.166.69"
     },
+    "43.165.167.45": {
+      "confidence": 0.9,
+      "date": "2026-11-16 11:53:58",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating VISA, targeting Japanese users, hosted on 43.165.167.45 (AS132203).",
+      "threat_type": "phishing",
+      "tweet_id": "2122297120652992688",
+      "type": "url",
+      "value": "http://43.165.167.45"
+    },
     "43.165.173.190": {
       "confidence": 0.8,
       "date": "2026-10-27 03:44:41",
@@ -29176,6 +29675,20 @@
       "tweet_id": "2114926230860697724",
       "type": "ip",
       "value": "43.165.173.190"
+    },
+    "43.165.175.239": {
+      "confidence": 0.9,
+      "date": "2026-11-16 11:30:11",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating American Express, targeting Japanese users, hosted on 43.165.175.239 (AS132203).",
+      "threat_type": "phishing",
+      "tweet_id": "2122291135704179190",
+      "type": "url",
+      "value": "http://43.165.175.239"
     },
     "43.167.177.178": {
       "confidence": 0.5,
@@ -29919,6 +30432,18 @@
       "type": "ip",
       "value": "45.199.130.20"
     },
+    "45.199.130.245": {
+      "confidence": 0.3,
+      "date": "2026-11-16 06:50:43",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Update to an IP indicator list: four IPs added and two removed; no threat context given.",
+      "threat_type": "other",
+      "tweet_id": "2122220803605553212",
+      "type": "ip",
+      "value": "45.199.130.245"
+    },
     "45.203.220.220": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -30477,6 +31002,22 @@
       "tweet_id": "2118434257165001109",
       "type": "sha256",
       "value": "455dd16af1b9096a0c39b4ada0359633c6a07fa08e639a0a4e2178ebd0ac3fc2"
+    },
+    "45d3835079574c1d3bc1366fcbee2cfae2c4cf5470a3d20bbcd696526d8b38c4": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "45d3835079574c1d3bc1366fcbee2cfae2c4cf5470a3d20bbcd696526d8b38c4"
     },
     "46.166.162.7": {
       "confidence": 0.2,
@@ -31948,6 +32489,22 @@
       "type": "sha256",
       "value": "47751fe51852d9df62842549078719f5f9bc35a6c34d48e525ed20d24985643c"
     },
+    "4841193715abddabd3b85e8d9bab651ffd7169286365f59b6dc0f1fde1be8d97": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "4841193715abddabd3b85e8d9bab651ffd7169286365f59b6dc0f1fde1be8d97"
+    },
     "489d13c17ecb75507dc13f0f68d66b4d": {
       "confidence": 0.8,
       "date": "2026-10-27 09:17:57",
@@ -32049,6 +32606,22 @@
       "tweet_id": "2120392939595600062",
       "type": "md5",
       "value": "4926a347a8de6a58310df67a858c41bc"
+    },
+    "4966886d62d123de0aa46ab344f3c25391347d3230d8bfc0c4ad5172332408f0": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "4966886d62d123de0aa46ab344f3c25391347d3230d8bfc0c4ad5172332408f0"
     },
     "4a1a63cff7f1407dc34f25ffdaacd1a6c92bfbba1de1e9d6f015253855ca6361": {
       "confidence": 0.6,
@@ -32291,6 +32864,22 @@
       "type": "sha256",
       "value": "4dc4c0bdce7d711bd4160beebbfe67d64a65a5c083429cb222926d7bd095b353"
     },
+    "4dd186c352bcf5ceeda49561ef1a0b86c350ca0c62996f9980c0f7c940475cbb": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "4dd186c352bcf5ceeda49561ef1a0b86c350ca0c62996f9980c0f7c940475cbb"
+    },
     "4dd303a1b61fe75e8edd2a3d85cb8af6": {
       "confidence": 0.8,
       "date": "2026-11-14 11:48:12",
@@ -32351,6 +32940,22 @@
       "tweet_id": "2115779252624801848",
       "type": "sha256",
       "value": "4e6489e9161e0abff2f2bc40a4fcc3489cc69371b099fd0f2756fc6a607cfcc0"
+    },
+    "4ee4d5eecb9b608ef35d9308f1d73e07019f0b7397d4134044313578d42f4bb5": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "4ee4d5eecb9b608ef35d9308f1d73e07019f0b7397d4134044313578d42f4bb5"
     },
     "4f0b4dae2cc3ace8d80bdd50b2df1b8421556e325ca65ac43037113cc61eb6ee": {
       "confidence": 0.85,
@@ -32868,6 +33473,34 @@
       "type": "ip",
       "value": "52.172.140.8"
     },
+    "52.217.118.194": {
+      "confidence": 0.8,
+      "date": "2026-11-16 07:02:24",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Tech support scam site hosted on AWS S3, received via spam email and redirecting victims; reported by a Japanese university.",
+      "threat_type": "scam",
+      "tweet_id": "2122223746023133325",
+      "type": "ip",
+      "value": "52.217.118.194"
+    },
+    "52.217.172.74": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:25:40",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Tech support scam site hosted on AWS S3, received via spam email and redirecting victims; reported by a Japanese university.",
+      "threat_type": "scam",
+      "tweet_id": "2122214502087246279",
+      "type": "ip",
+      "value": "52.217.172.74"
+    },
     "52.217.72.16": {
       "confidence": 0.85,
       "date": "2026-11-16 02:09:43",
@@ -33095,6 +33728,22 @@
       "type": "md5",
       "value": "54715f6d79797cadc8ccbcd8e8bd22d0"
     },
+    "5482a9cc3854baff32b3bb8ad6a8fdd68e3485d2c9b26ef3d7f8c7bd77dcdc9f": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "5482a9cc3854baff32b3bb8ad6a8fdd68e3485d2c9b26ef3d7f8c7bd77dcdc9f"
+    },
     "54c6472d99530cca4523378b109d176ec3684d47a32771adaa0eef40df55d2b5": {
       "confidence": 0.8,
       "date": "2026-10-18 01:24:36",
@@ -33159,6 +33808,22 @@
       "type": "sha256",
       "value": "554f9626f9b51cabfa61eeb29dd206707ec10b30555b89ec8852fa839b944439"
     },
+    "557cf95c92e71251ff02ae876b25d0e80e67ad61b08b3f18543edaf9cb52c3f3": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "557cf95c92e71251ff02ae876b25d0e80e67ad61b08b3f18543edaf9cb52c3f3"
+    },
     "55c94013769e3eb809ff76bdb35482c1971d1e3442dd6d81865da8cca13c8b46": {
       "confidence": 0.6,
       "date": "2026-11-04 15:23:00",
@@ -33203,6 +33868,22 @@
       "tweet_id": "2115547494507594049",
       "type": "sha256",
       "value": "560c1b90739343ea70a38ce5ad1c37e7b8cbc99308e45a40a1560a7de63c51a1"
+    },
+    "562031f441bf0ae2196e3686af12013e0ff4d9ca91d73f826c3c9eb3e8cea659": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "562031f441bf0ae2196e3686af12013e0ff4d9ca91d73f826c3c9eb3e8cea659"
     },
     "56899c2a305d2cc4704ae5090015820de67e827374fc46ba7413411a85b05f1d": {
       "confidence": 0.3,
@@ -33335,6 +34016,22 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "58.145.189.233"
+    },
+    "5839a8364ceaf371e387440fecfef3c937ea8e5b61da472d53fb316e7feac4f2": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "5839a8364ceaf371e387440fecfef3c937ea8e5b61da472d53fb316e7feac4f2"
     },
     "58648467edabd8e8914b022a8d475bffc6db598086f4505e09815e9d02537f91": {
       "confidence": 0.55,
@@ -33734,6 +34431,22 @@
       "type": "sha256",
       "value": "607d55dbf8bb57d6557ad1d39df67d887ab5747a5d5d2ebb5ac6d0764252c1ad"
     },
+    "60d7fa0a074d86791bb2def1043985bca53b86fc945eb53cb3cb5f305ed1ca16": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "60d7fa0a074d86791bb2def1043985bca53b86fc945eb53cb3cb5f305ed1ca16"
+    },
     "6108cbcb8ca7eed9bfa171d6f3ef6255e5d09232a8795a5f868d39cad13aacb3": {
       "confidence": 0.4,
       "date": "2026-11-04 18:30:23",
@@ -33794,6 +34507,22 @@
       "tweet_id": "2115101974613962948",
       "type": "sha256",
       "value": "61a10a01cb3ef6db810baa7d3b98c2f0fd8c0618d5ea48643a15484f4ca73587"
+    },
+    "61df4487225b6af0d2bcc6e4332603d82c72d9a058517b208eeb89533ff3f02d": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "61df4487225b6af0d2bcc6e4332603d82c72d9a058517b208eeb89533ff3f02d"
     },
     "61fcf11e431a34c80d90e8af7f1d6b11eed82397ad21cc986648af0ffeb7e4d3": {
       "confidence": 0.6,
@@ -33962,6 +34691,22 @@
       "tweet_id": "2121570892920533375",
       "type": "md5",
       "value": "6380c82fc853f44c4437acb8dbff76c3"
+    },
+    "63a7e9709a7d8808638369287a7bc8315dd7f330d002c794282fb184eb18a337": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "63a7e9709a7d8808638369287a7bc8315dd7f330d002c794282fb184eb18a337"
     },
     "64.118.151.226": {
       "confidence": 0.5,
@@ -34260,6 +35005,18 @@
       "type": "ip",
       "value": "64.83.42.68"
     },
+    "64.83.42.79": {
+      "confidence": 0.3,
+      "date": "2026-11-16 06:50:43",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Update to an IP indicator list: four IPs added and two removed; no threat context given.",
+      "threat_type": "other",
+      "tweet_id": "2122220803605553212",
+      "type": "ip",
+      "value": "64.83.42.79"
+    },
     "64.89.160.210": {
       "confidence": 0.65,
       "date": "2026-10-28 08:04:25",
@@ -34538,6 +35295,22 @@
       "tweet_id": "2113375121545236514",
       "type": "sha256",
       "value": "67c10a4f7db7fe55953b9b57492d4e6aa9cf0e20f492d193328def2662840c97"
+    },
+    "67e7bc1d3f43e71c45252de36861c59ab71d6006a317c285c6045d684b60e30f": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "67e7bc1d3f43e71c45252de36861c59ab71d6006a317c285c6045d684b60e30f"
     },
     "6869377a2ad2416910cca2d38a2efd19": {
       "confidence": 0.45,
@@ -34901,6 +35674,22 @@
       "type": "sha256",
       "value": "6d43bcc5d29a1aa8ed6014d28fe72dbe26a3a8d4359db78fbaa87a130ff9994e"
     },
+    "6dc4be477b00624af16ac45b630837453012283edaaf514fffb1bb71d3f7af20": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "6dc4be477b00624af16ac45b630837453012283edaaf514fffb1bb71d3f7af20"
+    },
     "6ed54de0bac8cf1f2d3ba4250213779730e4b0402ff1d480d124657e5b24e459": {
       "confidence": 0.75,
       "date": "2026-11-09 12:38:11",
@@ -34916,6 +35705,22 @@
       "tweet_id": "2119771532444725375",
       "type": "sha256",
       "value": "6ed54de0bac8cf1f2d3ba4250213779730e4b0402ff1d480d124657e5b24e459"
+    },
+    "6edd21472292c81b1e28356d3341582dee07c617992c9972d497438537681d63": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "6edd21472292c81b1e28356d3341582dee07c617992c9972d497438537681d63"
     },
     "6ee17554545ebe2c31f1462e2758e1e16b0b5aacef1274ff6c57345b79eab1e2": {
       "confidence": 0.5,
@@ -34976,6 +35781,22 @@
       "type": "sha256",
       "value": "6f5519e8ec9d99082f1175e3446453bb534b4248dbc3e387f79ac5dd1b40497b"
     },
+    "6f6deaa9a80f35b3799ae4f709e8abf1b48a7a7249e090d599a8d40961151fc2": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "sha256",
+      "value": "6f6deaa9a80f35b3799ae4f709e8abf1b48a7a7249e090d599a8d40961151fc2"
+    },
     "6f8ad8de03283ea13b1bdd48cbcbd4b35ebe65dd9b149c27eff718c2e8628c0e": {
       "confidence": 0.5,
       "date": "2026-11-10 11:22:46",
@@ -34989,6 +35810,38 @@
       "tweet_id": "2120114940791103856",
       "type": "sha256",
       "value": "6f8ad8de03283ea13b1bdd48cbcbd4b35ebe65dd9b149c27eff718c2e8628c0e"
+    },
+    "6fd0f633163dff5ac97c3af64ffd881718d444882df070583c5d188036425fd0": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "6fd0f633163dff5ac97c3af64ffd881718d444882df070583c5d188036425fd0"
+    },
+    "6fde9176b0ea194235b8794fdfc07299488d1aed47b717a36796b940845b8b9c": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "6fde9176b0ea194235b8794fdfc07299488d1aed47b717a36796b940845b8b9c"
     },
     "6ffdbaed7e58f7cd3c36c13bbad602176fb5f1e2fccf557d21eb84a73f795431": {
       "confidence": 0.6,
@@ -35188,6 +36041,22 @@
       "tweet_id": "2112795276310425915",
       "type": "sha256",
       "value": "73308c0cf28292fdc4653e83263e35e6451f0ff8e7f4c28b0db1e57b627841aa"
+    },
+    "73acbcd9072da404e6661a99115955459481b7a7caa687e37d8d1747556d5297": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "73acbcd9072da404e6661a99115955459481b7a7caa687e37d8d1747556d5297"
     },
     "73b2767f8bc6a714e7882645a355d8f85dedebc55e0efc9b8b1187ab26449614": {
       "confidence": 0.5,
@@ -35705,6 +36574,22 @@
       "type": "sha256",
       "value": "782b519154f11ae211cae0e8c4f0c9d8ca1c078d904684bc8923b978c6813898"
     },
+    "78714f6f57c5177201837ce7a6185a2b2bb00a074883fc6cf03b8ade192a20ba": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "78714f6f57c5177201837ce7a6185a2b2bb00a074883fc6cf03b8ade192a20ba"
+    },
     "78882.my": {
       "confidence": 0.55,
       "date": "2026-11-11 06:18:13",
@@ -35850,6 +36735,22 @@
       "type": "ip",
       "value": "79.99.164.4"
     },
+    "79667b9fab75fb02b3a2ff59bb1fad5bc1b4feb3cd7942c143ce4a15d6d04856": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "79667b9fab75fb02b3a2ff59bb1fad5bc1b4feb3cd7942c143ce4a15d6d04856"
+    },
     "79739a3d1e29136d8697f20ef6396a4a4f790659874cdb43c9cf995a31b3f660": {
       "confidence": 0.6,
       "date": "2026-11-06 10:14:39",
@@ -35879,6 +36780,22 @@
       "tweet_id": "2114818723265835051",
       "type": "sha256",
       "value": "7997f060b20c6e84a31552af0ca63fe29f4cbd5815decf48a5218175abb5dcd9"
+    },
+    "79a18a83309cc534d2884b7e1cfcd17f64bc6d4dcd3a6652842d6d703ee9a455": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "79a18a83309cc534d2884b7e1cfcd17f64bc6d4dcd3a6652842d6d703ee9a455"
     },
     "79f121fced18f5d1d425024842ed79dc": {
       "confidence": 0.7,
@@ -37459,6 +38376,22 @@
       "type": "sha256",
       "value": "838f3f24867b7ec93a6ad13c225b50f34959e7ed558175f9bc1be2a62337e7b7"
     },
+    "83cfa06e84360705a2fdfa332a8324e37dd9be45f23e37fa4a4a557f46e078f2": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "83cfa06e84360705a2fdfa332a8324e37dd9be45f23e37fa4a4a557f46e078f2"
+    },
     "84.247.156.179": {
       "confidence": 0.85,
       "date": "2026-11-09 10:46:51",
@@ -38387,6 +39320,22 @@
       "type": "url",
       "value": "http://89.36.231.178:8080"
     },
+    "89156029038e7f9cba8d25854ae6065d87e30c1edf7cb2f4fd7bf241e52dd7c6": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "89156029038e7f9cba8d25854ae6065d87e30c1edf7cb2f4fd7bf241e52dd7c6"
+    },
     "89695abb392d5cfd4972672961e644bb46baa98aa1ed7173c2a2816c762735cf": {
       "confidence": 0.75,
       "date": "2026-11-12 15:24:30",
@@ -38448,6 +39397,38 @@
       "type": "sha256",
       "value": "8a69c24b1eb03a0df3c0a277109bf9d2bb35d3492f301dbdb831476a45e647d9"
     },
+    "8adfbf4394c4720894b945881e7469ac12b2e84d6a230fd665f552daaefe2d20": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "8adfbf4394c4720894b945881e7469ac12b2e84d6a230fd665f552daaefe2d20"
+    },
+    "8bac97436a0f435e4f8f1cbb1e6de24f8bd2b09963e3e7b29ce51cacc3164c9d": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "8bac97436a0f435e4f8f1cbb1e6de24f8bd2b09963e3e7b29ce51cacc3164c9d"
+    },
     "8bc90c20c7a1b23920d979ea6e416024d92220ac1853d52d9a6bf47e958cf83f": {
       "confidence": 0.5,
       "date": "2026-10-31 15:14:21",
@@ -38491,6 +39472,38 @@
       "tweet_id": "2117956883139252716",
       "type": "sha256",
       "value": "8c9254a4c2123e1483e5c4dd7ae9e1878fbfeaad06c095d5d61fa437fd194a08"
+    },
+    "8cfbb1c4815319535dad9077fdb4f57fd85fa42ff8167f95ca63c2447bec87f2": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "8cfbb1c4815319535dad9077fdb4f57fd85fa42ff8167f95ca63c2447bec87f2"
+    },
+    "8d4cacc8cce0f80515c30aa100e36a20645c476c3d0a951905306108fa119a6b": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "8d4cacc8cce0f80515c30aa100e36a20645c476c3d0a951905306108fa119a6b"
     },
     "8d99f383de370fb1f25ccb701d3cccb055582fea03e9eef9684a642e822fd349": {
       "confidence": 0.6,
@@ -39055,6 +40068,22 @@
       "type": "sha256",
       "value": "92589172ef4b160bfe6a56ecf224d6be7c1c259923b9afc779a6ebf3f11400d8"
     },
+    "92ae988fa6fe4c6e0f91f8331168ad91e2d86bc34a8eb5d214094d01003fc8fa": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "92ae988fa6fe4c6e0f91f8331168ad91e2d86bc34a8eb5d214094d01003fc8fa"
+    },
     "92ba5b3f6556a5edfafad01f3810a6908748723cf5f1786b5a1134a6d9665337": {
       "confidence": 0.85,
       "date": "2026-10-21 09:12:42",
@@ -39555,6 +40584,22 @@
       "type": "ip",
       "value": "95.169.20.166"
     },
+    "9500e41175cbe66a3e95bd863e0e855cf15f51ab9a44024fa082697ec992db0f": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "9500e41175cbe66a3e95bd863e0e855cf15f51ab9a44024fa082697ec992db0f"
+    },
     "9567a70f4b404263a55a97e1a8e39b5626243f9f33d10110eb3ef07be42ca9b2": {
       "confidence": 0.2,
       "date": "2026-11-12 07:16:32",
@@ -39699,6 +40744,22 @@
       "type": "sha256",
       "value": "968b7458e1bce943c34bdedb25046a233b62ece869eecc8160f618ea98aea892"
     },
+    "96cacca5d1cf67b148ddea3a9f0984941aa772c7a6d7ef1e6b68f2119560dc60": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "96cacca5d1cf67b148ddea3a9f0984941aa772c7a6d7ef1e6b68f2119560dc60"
+    },
     "977e7f13d2135fff14aaaf04a9ca1905329646a1ec87330eb1c66e1f1ad9dca3": {
       "confidence": 0.5,
       "date": "2026-11-04 16:34:26",
@@ -39740,6 +40801,22 @@
       "tweet_id": "2121241291514159580",
       "type": "ip",
       "value": "98.86.118.115"
+    },
+    "986a4910dcf21a4a27842e548b98303fde163b9c3e30c6114d0aa0a9c86ac411": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "986a4910dcf21a4a27842e548b98303fde163b9c3e30c6114d0aa0a9c86ac411"
     },
     "98e71664f8321e4c064b8b688e08a83d": {
       "confidence": 0.55,
@@ -39786,6 +40863,22 @@
       "type": "sha256",
       "value": "99708308b299112e76ffc2e856e76443cad324da3a14f0755c44c136266b4256"
     },
+    "998a2d71c344f057b3f42cc859765193fab235d8297d3c3c8b0af6e35f3a0bfe": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "998a2d71c344f057b3f42cc859765193fab235d8297d3c3c8b0af6e35f3a0bfe"
+    },
     "99e781b4662daf6d65d66416bdf304b11cb10ecb6bf3a69c27fdf26d726b529c": {
       "confidence": 0.9,
       "date": "2026-10-21 03:54:00",
@@ -39830,6 +40923,22 @@
       "type": "sha256",
       "value": "9a30421a755d23c6df57dd0d4af6d3526fc6dbb9f34638f82cd1bfeefefa296c"
     },
+    "9a3dc730420a8585d38129fb11fdecebb67b3cf3c06d488c132fae3c46164f88": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "9a3dc730420a8585d38129fb11fdecebb67b3cf3c06d488c132fae3c46164f88"
+    },
     "9b0efba16de053c58e1d79d0b51c7331b74da729bd7913b9c9dfa95381398fb8": {
       "confidence": 0.2,
       "date": "2026-10-27 16:16:04",
@@ -39841,6 +40950,38 @@
       "tweet_id": "2115115324085596651",
       "type": "sha256",
       "value": "9b0efba16de053c58e1d79d0b51c7331b74da729bd7913b9c9dfa95381398fb8"
+    },
+    "9b3220954ee8c7cf3fdaf437ad6f629bbb9bd35d7fa9fb08c99516760f317d71": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "9b3220954ee8c7cf3fdaf437ad6f629bbb9bd35d7fa9fb08c99516760f317d71"
+    },
+    "9b76ada1f411ecf52aefbb8cfe318d0291fde507dbd1dc22b50f60d779eb6d52": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "9b76ada1f411ecf52aefbb8cfe318d0291fde507dbd1dc22b50f60d779eb6d52"
     },
     "9b7765be492dc4ad1078afacd049029e23cca214988bc25904f17178b8ee3764": {
       "confidence": 0.6,
@@ -40034,6 +41175,22 @@
       "tweet_id": "2112536952889016668",
       "type": "sha256",
       "value": "9dc8574843fdb8f0834bcf2c4d3f5b0c122368b925e0d3a5eec07b8f2d9e8db0"
+    },
+    "9df462e96d85ace4794e76d8ad3f2fe44c404c9d33e26d190931975e388632cd": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "9df462e96d85ace4794e76d8ad3f2fe44c404c9d33e26d190931975e388632cd"
     },
     "9e839e695fe17bf16fbdd579cf373dbe": {
       "confidence": 0.6,
@@ -40302,6 +41459,22 @@
       "tweet_id": "2117956883139252716",
       "type": "sha256",
       "value": "a15b44f855f4f415ff40faecd3e5b9a16aff571a266d8d6e2764f05e0900579e"
+    },
+    "a19dad05cee23fd1252fe813e9b2187e3d88329e26ddc4b0c451ec6498d6e367": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "a19dad05cee23fd1252fe813e9b2187e3d88329e26ddc4b0c451ec6498d6e367"
     },
     "a19e768f170561ac19b8b62533643185b80b4facdf387e805f8485d10da80f3d": {
       "confidence": 0.85,
@@ -40706,6 +41879,22 @@
       "type": "md5",
       "value": "aa6abf41a80d736c27c168e834baf3c7"
     },
+    "aadd8d30526b272ca0e5235d1e7d93fff0a121aa0dff815b5cbcb2502d1a93dd": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "aadd8d30526b272ca0e5235d1e7d93fff0a121aa0dff815b5cbcb2502d1a93dd"
+    },
     "aadhar.tech": {
       "confidence": 0.9,
       "date": "2026-11-05 18:21:43",
@@ -40803,6 +41992,22 @@
       "tweet_id": "2116268685589659959",
       "type": "url",
       "value": "https://aawwf.hkg.bcebos.com/shiade/A07.bin"
+    },
+    "ab1ce3b130bae62ed310a1fb115656c30584394e459862a4f3467ec0db901a89": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "ab1ce3b130bae62ed310a1fb115656c30584394e459862a4f3467ec0db901a89"
     },
     "ababy9.com": {
       "confidence": 0.4,
@@ -41710,6 +42915,22 @@
       "type": "domain",
       "value": "airbnb-poland.com"
     },
+    "aji9w5i3.scienceontheweb.net": {
+      "confidence": 0.7,
+      "date": "2026-11-16 09:41:53",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "kimsuky",
+        "apt",
+        "phishing"
+      ],
+      "summary": "Kimsuky-attributed infrastructure: free-hosting domains impersonating Korean financial brands, linked to a GitHub account.",
+      "threat_type": "phishing",
+      "tweet_id": "2122263881632674178",
+      "type": "domain",
+      "value": "aji9w5i3.scienceontheweb.net"
+    },
     "ajmwglfzin.zelixavon.com": {
       "confidence": 0.9,
       "date": "2026-10-22 07:46:37",
@@ -42170,6 +43391,22 @@
       "type": "domain",
       "value": "ambercouncil.xyz"
     },
+    "ambiancerealty-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "ambiancerealty-jp.com"
+    },
     "amc-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -42254,6 +43491,34 @@
       "tweet_id": "2113634827715117474",
       "type": "url",
       "value": "https://amecxfund.com/ivkehhc/lipp/vzisum/yahy/hnlxw/vjsoajyq/ckucolrd/gsjudctm/"
+    },
+    "amerepxtauric.aoqwox.asia": {
+      "confidence": 0.9,
+      "date": "2026-11-16 11:30:11",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating American Express, targeting Japanese users, hosted on 43.165.175.239 (AS132203).",
+      "threat_type": "phishing",
+      "tweet_id": "2122291135704179190",
+      "type": "domain",
+      "value": "amerepxtauric.aoqwox.asia"
+    },
+    "amerepxtauric.aoqwox.asia/2ymmlo/hepe": {
+      "confidence": 0.9,
+      "date": "2026-11-16 11:30:11",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating American Express, targeting Japanese users, hosted on 43.165.175.239 (AS132203).",
+      "threat_type": "phishing",
+      "tweet_id": "2122291135704179190",
+      "type": "url",
+      "value": "https://amerepxtauric.aoqwox.asia/2ymmlo/hepe"
     },
     "americanexmissionit.jgenkr.asia": {
       "confidence": 0.85,
@@ -42553,6 +43818,20 @@
       "tweet_id": "2119767032212439079",
       "type": "url",
       "value": "https://aniv.dqtjvxa.cn/ap/"
+    },
+    "aniv.dqtjvxa.cn/ap/signin": {
+      "confidence": 0.9,
+      "date": "2026-11-16 11:24:04",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Amazon login, targeting Japanese users, hosted on 43.165.128.22 (AS132203).",
+      "threat_type": "phishing",
+      "tweet_id": "2122289593919865142",
+      "type": "url",
+      "value": "https://aniv.dqtjvxa.cn/ap/signin"
     },
     "aniv.dqtjvxa.cn/api/captcha/page?site_key=amazon&redirect=/ap": {
       "confidence": 0.85,
@@ -43501,20 +44780,6 @@
       "tweet_id": "2118386261312348243",
       "type": "domain",
       "value": "app.keplr.to"
-    },
-    "app.slidy.ai": {
-      "confidence": 0.75,
-      "date": "2026-10-17 07:57:53",
-      "enriched_at": "2026-10-17T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Sites impersonating Google Slides with Russian-language templates; 'Try It' redirects to app.slidy.ai instead of Google Slides.",
-      "threat_type": "phishing",
-      "tweet_id": "2111366073953972720",
-      "type": "domain",
-      "value": "app.slidy.ai"
     },
     "app.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -46120,36 +47385,6 @@
       "type": "domain",
       "value": "arvion.network"
     },
-    "asdkjcn30r9.mygamesonline.org": {
-      "confidence": 0.45,
-      "date": "2026-10-17 12:10:49",
-      "enriched_at": "2026-10-17T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "Korean-named LNK file (health checkup) fetching from setting.php on a mygamesonline.org subdomain; tagged as suspicious APT activity.",
-      "threat_type": "malware",
-      "tweet_id": "2111429723574386756",
-      "type": "domain",
-      "value": "asdkjcn30r9.mygamesonline.org"
-    },
-    "asdkjcn30r9.mygamesonline.org/setting.php": {
-      "confidence": 0.45,
-      "date": "2026-10-17 12:10:49",
-      "enriched_at": "2026-10-17T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "Korean-named LNK file (health checkup) fetching from setting.php on a mygamesonline.org subdomain; tagged as suspicious APT activity.",
-      "threat_type": "malware",
-      "tweet_id": "2111429723574386756",
-      "type": "url",
-      "value": "http://asdkjcn30r9.mygamesonline.org/setting.php"
-    },
     "ashland-energy.com": {
       "confidence": 0.8,
       "date": "2026-10-24 04:56:35",
@@ -46355,6 +47590,22 @@
       "tweet_id": "2121989012256657767",
       "type": "domain",
       "value": "au88-vn.biz"
+    },
+    "auctionfloor-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "auctionfloor-jp.com"
     },
     "audio-whatsapp.com": {
       "confidence": 0.65,
@@ -46819,22 +48070,6 @@
       "type": "sha256",
       "value": "b4ee9ccd3db4836ccce2bfd5822d65c541a488ddf84fa9569070fa724c172296"
     },
-    "b5dce6d9e9972b441daa1f39fbabcf89d52de4b91535b289efed1268c6101791": {
-      "confidence": 0.7,
-      "date": "2026-10-17 08:21:13",
-      "enriched_at": "2026-10-17T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as an adult TikTok app, distributed via a phishing site targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2111371943505281036",
-      "type": "sha256",
-      "value": "b5dce6d9e9972b441daa1f39fbabcf89d52de4b91535b289efed1268c6101791"
-    },
     "b62220191f940c681ae090deae9ba3c53fff593b2202464dd8dcecc567c1c5e9": {
       "confidence": 0.3,
       "date": "2026-11-10 21:25:07",
@@ -46938,6 +48173,22 @@
       "tweet_id": "2122041659718565919",
       "type": "md5",
       "value": "b791c416988d068a3e548a0f21cd3518"
+    },
+    "b7de73b0963d57b994b5abf9ac2390ed96f7208e9ec149502d9ff5340719d4b0": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "b7de73b0963d57b994b5abf9ac2390ed96f7208e9ec149502d9ff5340719d4b0"
     },
     "b8038599839a7b01b6a36223ea0324f90d2d41b601bd672effc4160041297e20": {
       "confidence": 0.8,
@@ -47065,6 +48316,22 @@
       "tweet_id": "2112792217383321665",
       "type": "sha256",
       "value": "b9ca63d025ff38a9e148b389565c034ba8768a5e01018e1f110f87a046b231e7"
+    },
+    "ba86800b1c23de026308e7480c2b2362394adc7de14e60bc060864fc168cdc57": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "ba86800b1c23de026308e7480c2b2362394adc7de14e60bc060864fc168cdc57"
     },
     "ba96c4e1fc238fef71778726d006b2d4edd1374e177c8cde9078043e91079055": {
       "confidence": 0.8,
@@ -47244,6 +48511,22 @@
       "type": "sha256",
       "value": "bb8573dc1795986a8005754fece9117a3c52985fffed6bd30cff4299532b6819"
     },
+    "bbe28e557152a1d9af5d7c676de8323446c2a76e552b3ef879731a8fbe5f6907": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "bbe28e557152a1d9af5d7c676de8323446c2a76e552b3ef879731a8fbe5f6907"
+    },
     "bc.ailingk.xyz": {
       "confidence": 0.7,
       "date": "2026-10-19 21:28:27",
@@ -47273,6 +48556,22 @@
       "tweet_id": "2120907690037719110",
       "type": "sha256",
       "value": "bc596c984dc699cf0e19798932cdf5b4d2cf995e01dd330584961896881f7993"
+    },
+    "bc6d5b87f33deabc4deb4628bb3184962cd5a3db73a2e307537721da039db59b": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "bc6d5b87f33deabc4deb4628bb3184962cd5a3db73a2e307537721da039db59b"
     },
     "bcfae64d6b014dcabd0cb53a410c3251": {
       "confidence": 0.8,
@@ -47877,6 +49176,22 @@
       "tweet_id": "2118450511234150864",
       "type": "domain",
       "value": "bigsavingg-diwali.space"
+    },
+    "billiardacademy-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "billiardacademy-jp.com"
     },
     "binache.app": {
       "confidence": 0.9,
@@ -50324,6 +51639,22 @@
       "type": "url",
       "value": "https://buildwithknexus.xyz/check_m"
     },
+    "businessgateway-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "businessgateway-jp.com"
+    },
     "buz-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -51065,6 +52396,22 @@
       "type": "sha256",
       "value": "c438b9a3bb67e2c10eff0d01513422dc17dce7c5508303a680e46f3dcec886ef"
     },
+    "c5c79a8e870a936346b98db4519780ed0c7207b542a1282a4eb7f2329f0d4029": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "c5c79a8e870a936346b98db4519780ed0c7207b542a1282a4eb7f2329f0d4029"
+    },
     "c5ldzz07.onlinewebshop.net": {
       "confidence": 0.7,
       "date": "2026-11-06 05:46:55",
@@ -51141,6 +52488,22 @@
       "tweet_id": "2112842129873809488",
       "type": "sha256",
       "value": "c7522282e3cd0da4b9e1f1fd056361ed9b4ee40c695aa4148542016d2b0c04ba"
+    },
+    "c77cb6bda2021f10b8c67c7d385bf03a12b03740c9eb065d71105fa7511a9cb6": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "c77cb6bda2021f10b8c67c7d385bf03a12b03740c9eb065d71105fa7511a9cb6"
     },
     "c7f9ed3d6cda7e15a4a532e7eff76318bd3efea75bb823cf2d14ef1b68c6f232": {
       "confidence": 0.8,
@@ -51878,6 +53241,22 @@
       "type": "sha256",
       "value": "ccb014ba9a9dd62a2ace683183fbcda8b577de7239afc2bd3eb01c8dade04b9c"
     },
+    "ccb25fb511d1156912433a97c5e6ecdfef4b0d4903a578d61902909f56d85a2f": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "ccb25fb511d1156912433a97c5e6ecdfef4b0d4903a578d61902909f56d85a2f"
+    },
     "ccb9edfa233328c3351bd3a46fec037aeb27b3a74779c2bbb738e9e108c33e76": {
       "confidence": 0.6,
       "date": "2026-11-04 02:46:05",
@@ -51908,6 +53287,22 @@
       "tweet_id": "2112834452321632688",
       "type": "sha256",
       "value": "ccbc2673ae3de57a2cb29f0dda09926aaa155010822afc96dbf2615c565cc975"
+    },
+    "ccedc2b68f768fc6e47d0a826c8edcac": {
+      "confidence": 0.85,
+      "date": "2026-11-16 11:53:28",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "MioLab",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "MioLab macOS stealer distributed as a DMG file (AI-Plugin.dmg).",
+      "threat_type": "malware",
+      "tweet_id": "2122296996505743417",
+      "type": "md5",
+      "value": "ccedc2b68f768fc6e47d0a826c8edcac"
     },
     "ccloudbeds.com": {
       "confidence": 0.8,
@@ -52198,6 +53593,22 @@
       "type": "sha256",
       "value": "ce832350c165522db03db040ca07917976d1a91f97e7016ea36dcc6b53e0eb13"
     },
+    "cecbed8441b34d022f6dd5e7f49f76642a3413c170ca934c0bc5589ca1eaf93f": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "cecbed8441b34d022f6dd5e7f49f76642a3413c170ca934c0bc5589ca1eaf93f"
+    },
     "certificazi.one": {
       "confidence": 0.85,
       "date": "2026-10-23 05:29:37",
@@ -52256,6 +53667,38 @@
       "tweet_id": "2115017300843839826",
       "type": "sha256",
       "value": "cf4f6617c22c00b230c6e9221163c26e1a8ac70e8dec5d0a71095afb992d42c5"
+    },
+    "cf7b491b2668cdf4e10b258dcf83bd926fc752966be1650efd5757e3d3e1472c": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "cf7b491b2668cdf4e10b258dcf83bd926fc752966be1650efd5757e3d3e1472c"
+    },
+    "cfb298f5007aed3cd08089008cc9830a0f62c1415633b5b669e39790ace95983": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "cfb298f5007aed3cd08089008cc9830a0f62c1415633b5b669e39790ace95983"
     },
     "cfclear.devdesk.workers.dev": {
       "confidence": 0.75,
@@ -52348,6 +53791,22 @@
       "type": "domain",
       "value": "channels.webstatici-whatsapp.com"
     },
+    "charliegreen-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "charliegreen-jp.com"
+    },
     "charm-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -52376,6 +53835,22 @@
       "tweet_id": "2121201873709367612",
       "type": "domain",
       "value": "chase-acess.vercel.app"
+    },
+    "chasedesigns-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "chasedesigns-jp.com"
     },
     "chat.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -52448,6 +53923,22 @@
       "tweet_id": "2112583368479318236",
       "type": "domain",
       "value": "chatcore-whatsapp.com"
+    },
+    "chateauhotel-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "chateauhotel-jp.com"
     },
     "chatgpt-6.app": {
       "confidence": 0.6,
@@ -52733,6 +54224,22 @@
       "tweet_id": "2117561003261272205",
       "type": "domain",
       "value": "christmasgif-jp.com"
+    },
+    "chuyuantece-djdnjp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "chuyuantece-djdnjp.com"
     },
     "cik07-cos.7moor-fs2.com": {
       "confidence": 0.55,
@@ -53358,6 +54865,22 @@
       "type": "domain",
       "value": "cloudsec-whatsapp.com"
     },
+    "clubatlantico-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "clubatlantico-jp.com"
+    },
     "cluniacvexazai.click": {
       "confidence": 0.85,
       "date": "2026-10-28 08:23:18",
@@ -53703,6 +55226,38 @@
       "type": "domain",
       "value": "commit-whatsapp.com"
     },
+    "communitycenter-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "communitycenter-jp.com"
+    },
+    "comprehensivehc-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "comprehensivehc-jp.com"
+    },
     "configuremysso.com": {
       "confidence": 0.8,
       "date": "2026-10-21 13:01:08",
@@ -53806,6 +55361,22 @@
       "type": "domain",
       "value": "conversations.webstatici-whatsapp.com"
     },
+    "conwaycowork-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "conwaycowork-jp.com"
+    },
     "cookieapi-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -53848,6 +55419,22 @@
       "type": "domain",
       "value": "cookienode-whatsapp.com"
     },
+    "copperbracelets-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "copperbracelets-jp.com"
+    },
     "coral-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -53861,6 +55448,34 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "coral-whatsapp.com"
+    },
+    "coralyn.cfd": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "domain",
+      "value": "coralyn.cfd"
+    },
+    "coralyn.cfd/drgsdfbdr": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "url",
+      "value": "https://coralyn.cfd/drgsdfbdr/"
     },
     "coreauth-whatsapp.com": {
       "confidence": 0.7,
@@ -53988,6 +55603,38 @@
       "type": "url",
       "value": "https://corvtervsoa-te.xyz/aioserb/?tid="
     },
+    "countryradio-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "countryradio-jp.com"
+    },
+    "coveragemyway-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "coveragemyway-jp.com"
+    },
     "covtruck.com": {
       "confidence": 0.8,
       "date": "2026-11-12 00:37:02",
@@ -54097,6 +55744,22 @@
       "tweet_id": "2119883708656480532",
       "type": "domain",
       "value": "cryptocommerceohpmigration.online"
+    },
+    "crystalsprings-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "crystalsprings-jp.com"
     },
     "csrf-whatsapp.com": {
       "confidence": 0.65,
@@ -54375,6 +56038,22 @@
       "type": "md5",
       "value": "d284a2c78b1717620b9c7f99d9512aba"
     },
+    "d2d570b973851eac6a23633059fc48119c28ef312228722d3cc79cf5af40fe8a": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "d2d570b973851eac6a23633059fc48119c28ef312228722d3cc79cf5af40fe8a"
+    },
     "d2d95c5534efcea6c63843cde59b617ac5b97e057d908298191468d5e3b7635a": {
       "confidence": 0.55,
       "date": "2026-10-23 20:30:49",
@@ -54459,6 +56138,22 @@
       "tweet_id": "2118323178057404438",
       "type": "md5",
       "value": "d3f4e95113d49ab3991b45e457bda75b"
+    },
+    "d4526b655628b7237b76194695efb447": {
+      "confidence": 0.85,
+      "date": "2026-11-16 11:57:33",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "PamStealer",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "PamStealer macOS stealer sample distributed as a DMG disk image (Vocla.dmg).",
+      "threat_type": "malware",
+      "tweet_id": "2122298020142485718",
+      "type": "md5",
+      "value": "d4526b655628b7237b76194695efb447"
     },
     "d4f891f349710d0b36218a6c7dd3f72d1dc554c6207c81a142cc1c2bca155ba1": {
       "confidence": 0.3,
@@ -54625,6 +56320,22 @@
       "tweet_id": "2118710360152711333",
       "type": "sha256",
       "value": "d931c39f4326d7661be2441f1dc20a62dc75c6966d7b7a25e2f8de52ef51c551"
+    },
+    "d95b1b48537a779a437e5b5f6c1a0d55d57627855bbef22ac75ef36701337f18": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "d95b1b48537a779a437e5b5f6c1a0d55d57627855bbef22ac75ef36701337f18"
     },
     "d97bec1a5a114f4a524dd98c2249fe3d65dcdcc22f229edf8dba45757061f119": {
       "confidence": 0.6,
@@ -54949,6 +56660,22 @@
       "type": "sha256",
       "value": "dc7295a605c3486350682d7bbb4dc391d5c30c047f02748bb2d914ecd8879749"
     },
+    "dcbe4b02467481cf21dac779020d2bd46ec76303f71ba657f8674dd04ad52743": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "dcbe4b02467481cf21dac779020d2bd46ec76303f71ba657f8674dd04ad52743"
+    },
     "dd02e2d0d5f18d120933621a82401da79eb62c2009fda554460581ffee20a8de": {
       "confidence": 0.4,
       "date": "2026-11-06 14:21:28",
@@ -55145,6 +56872,22 @@
       "type": "domain",
       "value": "dealdiwali.shop"
     },
+    "deathorglory-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "deathorglory-jp.com"
+    },
     "decode-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -55232,6 +56975,22 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "defimoxx.top"
+    },
+    "demarcoenergy-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "demarcoenergy-jp.com"
     },
     "deploy-whatsapp.com": {
       "confidence": 0.7,
@@ -55389,6 +57148,20 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "desktop.webapi-whatsapp.com"
+    },
+    "detan2go.firebaseapp.com": {
+      "confidence": 0.65,
+      "date": "2026-11-16 07:54:43",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Website on firebaseapp.com flagged by a web scanner as a confirmed scam.",
+      "threat_type": "scam",
+      "tweet_id": "2122236911984988598",
+      "type": "domain",
+      "value": "detan2go.firebaseapp.com"
     },
     "detan2go.web.app": {
       "confidence": 0.5,
@@ -55955,6 +57728,22 @@
       "tweet_id": "2110315829606687172",
       "type": "url",
       "value": "http://discord.gg/monoxidevip"
+    },
+    "discountdebt-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "discountdebt-jp.com"
     },
     "discovery-whatsapp.com": {
       "confidence": 0.65,
@@ -56922,6 +58711,22 @@
       "type": "domain",
       "value": "docss-whatsapp.com"
     },
+    "doctoractive-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "doctoractive-jp.com"
+    },
     "docusign-document.info": {
       "confidence": 0.85,
       "date": "2026-10-30 19:19:20",
@@ -57648,6 +59453,22 @@
       "type": "sha256",
       "value": "e23507e03916279372baa4f0c314fb3df5d78d741eeb7df25f43fe33ae50d9c5"
     },
+    "e2ab6240861ea9e1f148bb8a38eea4a5f17f4a9271ca67f272bae16859457f1d": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "e2ab6240861ea9e1f148bb8a38eea4a5f17f4a9271ca67f272bae16859457f1d"
+    },
     "e30c0b35ba69eb044347ac21941d809affedcab9eed5b975753f0948c366bb1e": {
       "confidence": 0.45,
       "date": "2026-11-11 06:18:12",
@@ -57679,6 +59500,22 @@
       "tweet_id": "2120461992528118153",
       "type": "sha256",
       "value": "e3504423607acfd2e1d0862fe960d8889d82b0c69d5ceac63f4abbe2c8b40a06"
+    },
+    "e381825441e5591cc339d0624c362dc69e3bfb853c54c38d89ee0d19ef31d9d1": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "e381825441e5591cc339d0624c362dc69e3bfb853c54c38d89ee0d19ef31d9d1"
     },
     "e385b876ea7c56610564c5edaf3b034e": {
       "confidence": 0.6,
@@ -57802,6 +59639,22 @@
       "type": "md5",
       "value": "e505d4ffa21cf494a5dc2d7c8f4f1236"
     },
+    "e509be3c9befe158b710542bf3409ddff9866b0a74f3d321c39750f9017087a5": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "e509be3c9befe158b710542bf3409ddff9866b0a74f3d321c39750f9017087a5"
+    },
     "e527c90fa9ed585c2fe27b2ec23b6bec511b0f431d568d3b6c27ce148b2bf4d5": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -57924,6 +59777,38 @@
       "tweet_id": "2113350145672884651",
       "type": "sha256",
       "value": "e6eca876f1e4423eadde8298c879774118f094d0b714a9dd202883b50ddc02dc"
+    },
+    "e6fd05df6ddb9ccf1dffabcaddae32878685c8357bdec3698e50aa81ca237915": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "e6fd05df6ddb9ccf1dffabcaddae32878685c8357bdec3698e50aa81ca237915"
+    },
+    "e73d11909ec1525fde2232f7645860941eb8bc50ec78845ab8a95597aec81986": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "e73d11909ec1525fde2232f7645860941eb8bc50ec78845ab8a95597aec81986"
     },
     "e83e492bb70fff0564d5366cd88583289ab538498313f4e4e87a7635bb5e51c8": {
       "confidence": 0.4,
@@ -58078,6 +59963,22 @@
       "type": "md5",
       "value": "e9f0113b12649584a81def295f1510b9"
     },
+    "eaa80c3d7b0c6e4e6bc4e7db775e49e6d8e5a951d173623908d63b82e266aa2b": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "eaa80c3d7b0c6e4e6bc4e7db775e49e6d8e5a951d173623908d63b82e266aa2b"
+    },
     "eae48f1b9b57fed17a958d0625cffc66111c7891a096ce4288ae72f30c8edf23": {
       "confidence": 0.8,
       "date": "2026-10-27 23:45:43",
@@ -58121,6 +60022,22 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "earthbuddypet.cslt168.com"
+    },
+    "easternheritage-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "easternheritage-jp.com"
     },
     "easydiwali.shop": {
       "confidence": 0.75,
@@ -58241,6 +60158,22 @@
       "tweet_id": "2117857958096998481",
       "type": "sha256",
       "value": "ebf2340c7cbba01979d6163b057fd638d11a9f4514c5b042f5b5e9cb411787b5"
+    },
+    "ebf715d57c17aafd41d529b658077e5e1c18be2198ac94d7aedd4862c744861d": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "ebf715d57c17aafd41d529b658077e5e1c18be2198ac94d7aedd4862c744861d"
     },
     "ec207dcd44b9916b13c92b6f6db73d0f4afb43533ff1144cf9870d0464d92997": {
       "confidence": 0.85,
@@ -58781,6 +60714,22 @@
       "type": "sha256",
       "value": "eddbb7f87f6c3fd788f5aa002bf8ff5bf75cbdef2cced815cd412807a655168d"
     },
+    "edfa48d1299b8093bd7a90267ce8132dc79e98b585dd1a9423fdb674ceaf5790": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "edfa48d1299b8093bd7a90267ce8132dc79e98b585dd1a9423fdb674ceaf5790"
+    },
     "edgeapi-whatsapp.com": {
       "confidence": 0.7,
       "date": "2026-10-20 16:34:59",
@@ -59266,6 +61215,22 @@
       "type": "domain",
       "value": "eng-keplr.com"
     },
+    "engagerocket-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "engagerocket-jp.com"
+    },
     "engrdist.site": {
       "confidence": 0.7,
       "date": "2026-11-04 17:59:41",
@@ -59460,6 +61425,36 @@
       "type": "domain",
       "value": "es.webhwsapp-whatsapp.com"
     },
+    "eucrds8h.s3.us-east-1.amazonaws.com": {
+      "confidence": 0.9,
+      "date": "2026-11-16 11:30:11",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Japan Post phishing page hosted on an AWS S3 bucket, tied to a tech support scam directing victims to call a phone number.",
+      "threat_type": "phishing",
+      "tweet_id": "2122291134793961736",
+      "type": "domain",
+      "value": "eucrds8h.s3.us-east-1.amazonaws.com"
+    },
+    "eucrds8h.s3.us-east-1.amazonaws.com/index.html": {
+      "confidence": 0.9,
+      "date": "2026-11-16 11:30:11",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Japan Post phishing page hosted on an AWS S3 bucket, tied to a tech support scam directing victims to call a phone number.",
+      "threat_type": "phishing",
+      "tweet_id": "2122291134793961736",
+      "type": "url",
+      "value": "https://eucrds8h.s3.us-east-1.amazonaws.com/index.html"
+    },
     "everstakewfma6sxdpshoq4ebtnqamsxnajrtzu2cflai77kfup5kzyd.onion": {
       "confidence": 0.8,
       "date": "2026-10-29 16:21:47",
@@ -59532,20 +61527,6 @@
       "tweet_id": "2113564221371744425",
       "type": "url",
       "value": "https://f003.backblazeb2.com/file/fElkje3kggwxw/peazip-11.4.0.WIN64.msi"
-    },
-    "f005.backblazeb2.com/file/yttyytg/xfinityyyy.comcky.html": {
-      "confidence": 0.9,
-      "date": "2026-10-17 12:01:01",
-      "enriched_at": "2026-10-17T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Xfinity (Comcast) phishing page hosted on Backblaze B2 storage, resolving to a US-based IP.",
-      "threat_type": "phishing",
-      "tweet_id": "2111427256992034933",
-      "type": "url",
-      "value": "http://f005.backblazeb2.com/file/yttyytg/xfinityyyy.comcky.html"
     },
     "f006.backblazeb2.com/file/nlptntpx/zra091jn.jpg": {
       "confidence": 0.6,
@@ -59687,6 +61668,22 @@
       "type": "md5",
       "value": "f255d6750f7010118f77fb0d709af73d"
     },
+    "f25f43a4fcbc63dfa0d95bf1dc1d0783eb7904d5ba39cb7b8c03005484530844": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "f25f43a4fcbc63dfa0d95bf1dc1d0783eb7904d5ba39cb7b8c03005484530844"
+    },
     "f26c05cff852f4e021e9c30b3b3bef60bdbcb6fee48401a8761c1519793f85c2": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -59733,6 +61730,22 @@
       "type": "sha256",
       "value": "f317c0c816f267a1fc60ba45dfbb9f57443957605cb7a5b0cb52f5c02e7765fc"
     },
+    "f3373c71611260649bf013bfa33e71ef9b62e91ba7c4bb5cf44d0c38930f0edd": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "f3373c71611260649bf013bfa33e71ef9b62e91ba7c4bb5cf44d0c38930f0edd"
+    },
     "f34e30934adb81667ebc1dc33776f302": {
       "confidence": 0.5,
       "date": "2026-11-15 18:58:51",
@@ -59761,6 +61774,38 @@
       "tweet_id": "2114783788370731113",
       "type": "sha256",
       "value": "f452b1a06c86c4ffa7ae32359cd2c03e58f6f20c7f892c4819c85836085804ae"
+    },
+    "f4a9a1679f137fb14faadff385244e70d84817cfe80ceb6e7b88aeebaf25ecd7": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "f4a9a1679f137fb14faadff385244e70d84817cfe80ceb6e7b88aeebaf25ecd7"
+    },
+    "f4ec6729316908dd21f25ae022342dd0bb33744931a796ef48f9711df679b4d1": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "f4ec6729316908dd21f25ae022342dd0bb33744931a796ef48f9711df679b4d1"
     },
     "f4ed301e2c1eeddedd613903051c93c486aebd19140635c32b1a5b7404c51de2": {
       "confidence": 0.6,
@@ -60531,6 +62576,22 @@
       "type": "sha256",
       "value": "fc12e1cebcb8c4e154a3cf2ab38e6056cac4eb9d93eb2044bbfeffb714596b27"
     },
+    "fcb8b6304a623124ae537de769f8c8aaf319b092e7333fbb1a807e9c1fd0ff42": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "fcb8b6304a623124ae537de769f8c8aaf319b092e7333fbb1a807e9c1fd0ff42"
+    },
     "fcdnbovres.cc": {
       "confidence": 0.85,
       "date": "2026-11-09 12:02:57",
@@ -60546,6 +62607,22 @@
       "tweet_id": "2119762664838541786",
       "type": "domain",
       "value": "fcdnbovres.cc"
+    },
+    "fcef322875497851980a7a8241c4f1766f01ae110424c884785003cfabdba8cf": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "sha256",
+      "value": "fcef322875497851980a7a8241c4f1766f01ae110424c884785003cfabdba8cf"
     },
     "fcsskoolapps.co.in": {
       "confidence": 0.7,
@@ -60764,6 +62841,22 @@
       "tweet_id": "2120461992528118153",
       "type": "sha256",
       "value": "ff3e79944e1a572bd57d1fbf9cbc3e58984aad13d4f052842760a1bdbcb19373"
+    },
+    "ff5d7a70ceb8bcef3f44af46f55f15eb8d39c8095a064accc76dc23866515e94": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "apt",
+        "trojan"
+      ],
+      "summary": "SilverFox DLL sideloading samples (90 hashes) hunted via YARA rule using ExplorerBroker.exe name and an Edge user-agent string.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "ff5d7a70ceb8bcef3f44af46f55f15eb8d39c8095a064accc76dc23866515e94"
     },
     "ff7ce91bedff6d7aa923b3a0b84e81b42acf41468768d1ddd4aa01af250b7635": {
       "confidence": 0.55,
@@ -62361,21 +64454,6 @@
       "type": "url",
       "value": "https://fortvite.com/id/login"
     },
-    "forumst.co.kr": {
-      "confidence": 0.4,
-      "date": "2026-10-17 12:09:54",
-      "enriched_at": "2026-10-17T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "Malicious LNK disguised as a collaboration questions document, linked to forumst.co.kr; tagged as suspicious APT activity.",
-      "threat_type": "malware",
-      "tweet_id": "2111429495437877298",
-      "type": "domain",
-      "value": "forumst.co.kr"
-    },
     "forumvashgol.online": {
       "confidence": 0.65,
       "date": "2026-11-11 21:30:09",
@@ -62607,6 +64685,22 @@
       "tweet_id": "2106293721159582168",
       "type": "domain",
       "value": "freshmenuideas.com"
+    },
+    "freshobsessed-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "freshobsessed-jp.com"
     },
     "ftp.vietnam852.com": {
       "confidence": 0.8,
@@ -63606,6 +65700,34 @@
       "type": "domain",
       "value": "globalweb-whatsapp.com"
     },
+    "glowreef.cfd": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "domain",
+      "value": "glowreef.cfd"
+    },
+    "glowreef.cfd/drgsdfbdr": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "url",
+      "value": "https://glowreef.cfd/drgsdfbdr/"
+    },
     "gnnkarg.cn": {
       "confidence": 0.8,
       "date": "2026-10-18 23:13:52",
@@ -63693,6 +65815,22 @@
       "tweet_id": "2113911636796846532",
       "type": "domain",
       "value": "goinsideitmore.com"
+    },
+    "gointeractive-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "gointeractive-jp.com"
     },
     "goja.click": {
       "confidence": 0.9,
@@ -63926,6 +66064,22 @@
       "tweet_id": "2122014343495864483",
       "type": "url",
       "value": "http://googlemeet-join.com/wdd-fsvi-dmx"
+    },
+    "gophotography-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "gophotography-jp.com"
     },
     "gosidefastandpure.com": {
       "confidence": 0.8,
@@ -64651,6 +66805,22 @@
       "type": "domain",
       "value": "healthlys.com"
     },
+    "healthskills-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "healthskills-jp.com"
+    },
     "heaven-ads.com": {
       "confidence": 0.5,
       "date": "2026-11-10 18:49:32",
@@ -65046,6 +67216,34 @@
       "tweet_id": "2118535023771210233",
       "type": "url",
       "value": "https://hnrtqbsfwxm.cfd/drgsdfbdr/?__eat=d902583e17a9b55c#/index"
+    },
+    "hollowly.cfd": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "domain",
+      "value": "hollowly.cfd"
+    },
+    "hollowly.cfd/drgsdfbdr": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "url",
+      "value": "https://hollowly.cfd/drgsdfbdr/"
     },
     "homegardenfocus.com": {
       "confidence": 0.9,
@@ -66080,6 +68278,22 @@
       "type": "domain",
       "value": "img.webapi-whatsapp.com"
     },
+    "imprevisible-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "imprevisible-jp.com"
+    },
     "in-echallan.win": {
       "confidence": 0.8,
       "date": "2026-10-24 06:46:50",
@@ -66179,6 +68393,22 @@
       "tweet_id": "2111967927465591196",
       "type": "url",
       "value": "https://inducol.co/gmo/web/perso-login.php"
+    },
+    "infinitynikki-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "infinitynikki-jp.com"
     },
     "infoweb-whatsapp.com": {
       "confidence": 0.75,
@@ -66371,6 +68601,22 @@
       "type": "domain",
       "value": "integration-auth.com"
     },
+    "intelligencehub-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "intelligencehub-jp.com"
+    },
     "interacty.me/projects/ba837d69e93b2459": {
       "confidence": 0.8,
       "date": "2026-10-28 05:22:22",
@@ -66384,6 +68630,22 @@
       "tweet_id": "2115313202644873311",
       "type": "url",
       "value": "https://interacty.me/projects/ba837d69e93b2459"
+    },
+    "interconsult-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "interconsult-jp.com"
     },
     "inv2bullish.xyz": {
       "confidence": 0.85,
@@ -66620,6 +68882,22 @@
       "type": "url",
       "value": "https://ixyjb.com/iLItlYBb/"
     },
+    "j2mkcafd.mywebcommunity.org": {
+      "confidence": 0.7,
+      "date": "2026-11-16 09:41:53",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "kimsuky",
+        "apt",
+        "phishing"
+      ],
+      "summary": "Kimsuky-attributed infrastructure: free-hosting domains impersonating Korean financial brands, linked to a GitHub account.",
+      "threat_type": "phishing",
+      "tweet_id": "2122263881632674178",
+      "type": "domain",
+      "value": "j2mkcafd.mywebcommunity.org"
+    },
     "ja.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -66764,6 +69042,34 @@
       "tweet_id": "2117811567836496369",
       "type": "domain",
       "value": "jasperbalcony.live"
+    },
+    "jasperly.cfd": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "domain",
+      "value": "jasperly.cfd"
+    },
+    "jasperly.cfd/drgsdfbdr": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "url",
+      "value": "https://jasperly.cfd/drgsdfbdr/"
     },
     "jbm-attrezzi.com": {
       "confidence": 0.75,
@@ -66980,6 +69286,22 @@
       "type": "domain",
       "value": "joker-whatsapp.com"
     },
+    "jollyphonics-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "jollyphonics-jp.com"
+    },
     "jorvlen.cfd": {
       "confidence": 0.9,
       "date": "2026-10-25 01:40:26",
@@ -67168,6 +69490,22 @@
       "type": "domain",
       "value": "kbardiwali.fun"
     },
+    "kbcard.lovestoblog.com": {
+      "confidence": 0.7,
+      "date": "2026-11-16 09:41:53",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "kimsuky",
+        "apt",
+        "phishing"
+      ],
+      "summary": "Kimsuky-attributed infrastructure: free-hosting domains impersonating Korean financial brands, linked to a GitHub account.",
+      "threat_type": "phishing",
+      "tweet_id": "2122263881632674178",
+      "type": "domain",
+      "value": "kbcard.lovestoblog.com"
+    },
     "kddplatform.com": {
       "confidence": 0.55,
       "date": "2026-11-11 06:18:13",
@@ -67211,6 +69549,21 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "kdyweb-whatsapp.com"
+    },
+    "keishicho-metro.jp": {
+      "confidence": 0.75,
+      "date": "2026-11-16 08:42:50",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Warning that keishicho-metro.jp, a domain impersonating Tokyo police for a fake parking violation claim, does not belong to a real organization.",
+      "threat_type": "phishing",
+      "tweet_id": "2122249018684387759",
+      "type": "domain",
+      "value": "keishicho-metro.jp"
     },
     "keisigr.top": {
       "confidence": 0.9,
@@ -67698,6 +70051,34 @@
       "type": "domain",
       "value": "konsultasiagama.com"
     },
+    "koreflow.cfd": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "domain",
+      "value": "koreflow.cfd"
+    },
+    "koreflow.cfd/drgsdfbdr": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "url",
+      "value": "https://koreflow.cfd/drgsdfbdr/"
+    },
     "kozae666.com": {
       "confidence": 0.6,
       "date": "2026-10-27 19:17:23",
@@ -67916,6 +70297,22 @@
       "type": "url",
       "value": "https://ladygirl-series.com/downcb"
     },
+    "languageschool-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "languageschool-jp.com"
+    },
     "lapaca.webdirecto.com": {
       "confidence": 0.9,
       "date": "2026-11-14 16:01:48",
@@ -67957,6 +70354,34 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "latest-whatsapp.com"
+    },
+    "lavanex.cfd": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "domain",
+      "value": "lavanex.cfd"
+    },
+    "lavanex.cfd/drgsdfbdr": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "url",
+      "value": "https://lavanex.cfd/drgsdfbdr/"
     },
     "lawresearch-jp.com": {
       "confidence": 0.85,
@@ -68558,6 +70983,22 @@
       "type": "domain",
       "value": "linksync-whatsapp.com"
     },
+    "linuxpenguins-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "linuxpenguins-jp.com"
+    },
     "lityoq.cn": {
       "confidence": 0.8,
       "date": "2026-10-19 23:32:33",
@@ -68885,21 +71326,6 @@
       "type": "url",
       "value": "https://logstack.blob.core.windows.net/stackflow/codewatch.bat"
     },
-    "lojalivretos.store": {
-      "confidence": 0.4,
-      "date": "2026-10-17 12:11:24",
-      "enriched_at": "2026-10-17T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "Suspicious LNK file linked to domain lojalivretos.store, tagged as APT activity by the reporter.",
-      "threat_type": "malware",
-      "tweet_id": "2111429872891597148",
-      "type": "domain",
-      "value": "lojalivretos.store"
-    },
     "loneiggel.com": {
       "confidence": 0.2,
       "date": "2026-10-18 12:58:25",
@@ -69218,36 +71644,6 @@
       "tweet_id": "2118999843771425078",
       "type": "url",
       "value": "https://madeofinkandiron.com/downcb"
-    },
-    "maga-zine-luiza.com": {
-      "confidence": 0.85,
-      "date": "2026-10-17 11:10:42",
-      "enriched_at": "2026-10-17T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Typosquatted Magazine Luiza (Magalu) clone site targeting Brazilian shoppers with a fake product page.",
-      "threat_type": "scam",
-      "tweet_id": "2111414595235516615",
-      "type": "domain",
-      "value": "maga-zine-luiza.com"
-    },
-    "maga-zine-luiza.com/produto/escada-articulada-16-degraus-alum-nio-botafogo-altura": {
-      "confidence": 0.85,
-      "date": "2026-10-17 11:10:42",
-      "enriched_at": "2026-10-17T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Typosquatted Magazine Luiza (Magalu) clone site targeting Brazilian shoppers with a fake product page.",
-      "threat_type": "scam",
-      "tweet_id": "2111414595235516615",
-      "type": "url",
-      "value": "https://maga-zine-luiza.com/produto/escada-articulada-16-degraus-alum-nio-botafogo-altura"
     },
     "magic-whatsapp.com": {
       "confidence": 0.65,
@@ -70204,6 +72600,22 @@
       "type": "url",
       "value": "https://midas-shell.xyz/log/status"
     },
+    "midwesttactical-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "midwesttactical-jp.com"
+    },
     "mifidelidad.click": {
       "confidence": 0.8,
       "date": "2026-11-12 01:03:17",
@@ -70480,22 +72892,6 @@
       "type": "domain",
       "value": "mivorantul.com"
     },
-    "mizuhoca.com": {
-      "confidence": 0.7,
-      "date": "2026-10-17 08:21:13",
-      "enriched_at": "2026-10-17T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as an adult TikTok app, distributed via a phishing site targeting Japanese users.",
-      "threat_type": "malware",
-      "tweet_id": "2111371943505281036",
-      "type": "domain",
-      "value": "mizuhoca.com"
-    },
     "mjlusctlxe.loka777.com": {
       "confidence": 0.9,
       "date": "2026-10-22 07:46:37",
@@ -70763,6 +73159,34 @@
       "type": "url",
       "value": "https://morojames1789900170014.0690011.misitiohostgator.com/t1/page/index.php"
     },
+    "mossora.cfd": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "domain",
+      "value": "mossora.cfd"
+    },
+    "mossora.cfd/drgsdfbdr": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "url",
+      "value": "https://mossora.cfd/drgsdfbdr/"
+    },
     "mossypinediwali.online": {
       "confidence": 0.75,
       "date": "2026-11-05 21:08:55",
@@ -70777,6 +73201,22 @@
       "tweet_id": "2118450511234150864",
       "type": "domain",
       "value": "mossypinediwali.online"
+    },
+    "mountaineering-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "mountaineering-jp.com"
     },
     "movecogi.z16.web.core.windows.net": {
       "confidence": 0.85,
@@ -71178,6 +73618,22 @@
       "type": "domain",
       "value": "natnode-whatsapp.com"
     },
+    "naturaloasis-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "naturaloasis-jp.com"
+    },
     "nav-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -71191,6 +73647,34 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "nav-whatsapp.com"
+    },
+    "nebulyn.cfd": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "domain",
+      "value": "nebulyn.cfd"
+    },
+    "nebulyn.cfd/drgsdfbdr": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "url",
+      "value": "https://nebulyn.cfd/drgsdfbdr/"
     },
     "negana.cc": {
       "confidence": 0.7,
@@ -71337,6 +73821,118 @@
       "tweet_id": "2112583368479318236",
       "type": "domain",
       "value": "netedge-whatsapp.com"
+    },
+    "netflix-abonnement.com": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:49:53",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake UBS banking portal phishing kit with live polling to redirect victims to SMS, UBS Access or card-reader verification pages.",
+      "threat_type": "phishing",
+      "tweet_id": "2122220596650230101",
+      "type": "domain",
+      "value": "netflix-abonnement.com"
+    },
+    "netflix-abonnement.com/access.php?live=1": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:49:53",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake UBS banking portal phishing kit with live polling to redirect victims to SMS, UBS Access or card-reader verification pages.",
+      "threat_type": "phishing",
+      "tweet_id": "2122220596650230101",
+      "type": "url",
+      "value": "https://netflix-abonnement.com/access.php?live=1"
+    },
+    "netflix-abonnement.com/api/poll.php": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:49:53",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake UBS banking portal phishing kit with live polling to redirect victims to SMS, UBS Access or card-reader verification pages.",
+      "threat_type": "phishing",
+      "tweet_id": "2122220596650230101",
+      "type": "url",
+      "value": "https://netflix-abonnement.com/api/poll.php"
+    },
+    "netflix-abonnement.com/js/fp.js": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:49:53",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake UBS banking portal phishing kit with live polling to redirect victims to SMS, UBS Access or card-reader verification pages.",
+      "threat_type": "phishing",
+      "tweet_id": "2122220596650230101",
+      "type": "url",
+      "value": "https://netflix-abonnement.com/js/fp.js"
+    },
+    "netflix-abonnement.com/js/live.js": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:49:53",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake UBS banking portal phishing kit with live polling to redirect victims to SMS, UBS Access or card-reader verification pages.",
+      "threat_type": "phishing",
+      "tweet_id": "2122220596650230101",
+      "type": "url",
+      "value": "https://netflix-abonnement.com/js/live.js"
+    },
+    "netflix-abonnement.com/reader.php?live=1": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:49:53",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake UBS banking portal phishing kit with live polling to redirect victims to SMS, UBS Access or card-reader verification pages.",
+      "threat_type": "phishing",
+      "tweet_id": "2122220596650230101",
+      "type": "url",
+      "value": "https://netflix-abonnement.com/reader.php?live=1"
+    },
+    "netflix-abonnement.com/sms.php?live=1": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:49:53",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake UBS banking portal phishing kit with live polling to redirect victims to SMS, UBS Access or card-reader verification pages.",
+      "threat_type": "phishing",
+      "tweet_id": "2122220596650230101",
+      "type": "url",
+      "value": "https://netflix-abonnement.com/sms.php?live=1"
+    },
+    "netflix-abonnement.com/success.php": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:49:53",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake UBS banking portal phishing kit with live polling to redirect victims to SMS, UBS Access or card-reader verification pages.",
+      "threat_type": "phishing",
+      "tweet_id": "2122220596650230101",
+      "type": "url",
+      "value": "https://netflix-abonnement.com/success.php"
     },
     "netflix.exscrd.info": {
       "confidence": 0.9,
@@ -71508,6 +74104,34 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "news.webapi-whatsapp.com"
+    },
+    "nexovantis.cfd": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "domain",
+      "value": "nexovantis.cfd"
+    },
+    "nexovantis.cfd/drgsdfbdr": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:11:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Matsui Securities across multiple .cfd domains, hosted on Alibaba Cloud infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2122226137741046161",
+      "type": "url",
+      "value": "https://nexovantis.cfd/drgsdfbdr/"
     },
     "next-whatsapp.com": {
       "confidence": 0.65,
@@ -71837,6 +74461,34 @@
       "type": "url",
       "value": "https://novametalinc.com/content/rzpspjbard"
     },
+    "novastream.cfd": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:47:55",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating SBI Securities, a Japanese brokerage.",
+      "threat_type": "phishing",
+      "tweet_id": "2122235200101027954",
+      "type": "domain",
+      "value": "novastream.cfd"
+    },
+    "novastream.cfd/ljni/#/index": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:47:55",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating SBI Securities, a Japanese brokerage.",
+      "threat_type": "phishing",
+      "tweet_id": "2122235200101027954",
+      "type": "url",
+      "value": "https://novastream.cfd/LJNI/#/index"
+    },
     "novhotellogs.aclobe.me": {
       "confidence": 0.65,
       "date": "2026-10-28 18:41:18",
@@ -72028,6 +74680,22 @@
       "tweet_id": "2120808458018820466",
       "type": "url",
       "value": "https://nzxaxcj.cn/verify/update.html"
+    },
+    "o9tq2b08.onlinewebshop.net": {
+      "confidence": 0.7,
+      "date": "2026-11-16 09:41:53",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "kimsuky",
+        "apt",
+        "phishing"
+      ],
+      "summary": "Kimsuky-attributed infrastructure: free-hosting domains impersonating Korean financial brands, linked to a GitHub account.",
+      "threat_type": "phishing",
+      "tweet_id": "2122263881632674178",
+      "type": "domain",
+      "value": "o9tq2b08.onlinewebshop.net"
     },
     "obfuscator.io": {
       "confidence": 0.55,
@@ -72274,6 +74942,22 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "online.zh.webhwsapp-whatsapp.com"
+    },
+    "onlineminecraft-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "onlineminecraft-jp.com"
     },
     "only1mafia.net": {
       "confidence": 0.5,
@@ -72693,6 +75377,22 @@
       "type": "domain",
       "value": "owyweb-whatsapp.com"
     },
+    "packagingnews-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "packagingnews-jp.com"
+    },
     "pageweb-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -72811,6 +75511,22 @@
       "tweet_id": "2121570892920533375",
       "type": "domain",
       "value": "pakdigital.org"
+    },
+    "paleoindustrial-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "paleoindustrial-jp.com"
     },
     "parse-whatsapp.com": {
       "confidence": 0.65,
@@ -73002,6 +75718,38 @@
       "type": "domain",
       "value": "pdfshwodas.top"
     },
+    "peakdevelopment-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "peakdevelopment-jp.com"
+    },
+    "pelotonsports-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "pelotonsports-jp.com"
+    },
     "perfectgrillguide.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -73052,6 +75800,38 @@
       "tweet_id": "2119292818321809666",
       "type": "domain",
       "value": "perlyperlygi-jp.com"
+    },
+    "petdentistry-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "petdentistry-jp.com"
+    },
+    "petermarshall-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "petermarshall-jp.com"
     },
     "pew9862l.onlinewebshop.net": {
       "confidence": 0.7,
@@ -73344,6 +76124,30 @@
       "tweet_id": "2121491564161581148",
       "type": "domain",
       "value": "planetmaison.com"
+    },
+    "platform.dfir-lab.ch": {
+      "confidence": 0.8,
+      "date": "2026-11-16 04:56:16",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Promotional post for the DFIR Suite phishing enrichment API endpoint; not a threat report.",
+      "threat_type": "other",
+      "tweet_id": "2122192000866725959",
+      "type": "domain",
+      "value": "platform.dfir-lab.ch"
+    },
+    "platform.dfir-lab.ch/docs/phishing/enrich": {
+      "confidence": 0.8,
+      "date": "2026-11-16 04:56:16",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Promotional post for the DFIR Suite phishing enrichment API endpoint; not a threat report.",
+      "threat_type": "other",
+      "tweet_id": "2122192000866725959",
+      "type": "url",
+      "value": "http://platform.dfir-lab.ch/docs/phishing/enrich"
     },
     "play-googlese.app": {
       "confidence": 0.95,
@@ -73949,6 +76753,38 @@
       "type": "domain",
       "value": "proadblocker.pro"
     },
+    "probankruptcy-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "probankruptcy-jp.com"
+    },
+    "probeautystudio-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "probeautystudio-jp.com"
+    },
     "profile.webapi-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -73978,6 +76814,22 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "profile.webstatici-whatsapp.com"
+    },
+    "programmingz-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "programmingz-jp.com"
     },
     "progrillguide.com": {
       "confidence": 0.85,
@@ -74354,6 +77206,20 @@
       "tweet_id": "2119590805614571914",
       "type": "domain",
       "value": "pub-688274cc7fbe42babc80554f317de9ee.r2.dev"
+    },
+    "pub-8808e94b1a5c49dbb2a2e0829ec1562b.r2.dev": {
+      "confidence": 0.65,
+      "date": "2026-11-16 07:50:24",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Cloudflare R2 public bucket site flagged by a web scanner as a confirmed scam.",
+      "threat_type": "scam",
+      "tweet_id": "2122235823122681925",
+      "type": "domain",
+      "value": "pub-8808e94b1a5c49dbb2a2e0829ec1562b.r2.dev"
     },
     "pub-8bb2af2b13cd4e2d90a81254aea0d169.r2.dev": {
       "confidence": 0.85,
@@ -74940,6 +77806,22 @@
       "type": "domain",
       "value": "radwantest.click"
     },
+    "rainbowlodge-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "rainbowlodge-jp.com"
+    },
     "rainsu.com": {
       "confidence": 0.8,
       "date": "2026-11-12 05:04:13",
@@ -75124,6 +78006,22 @@
       "tweet_id": "2121398249370313052",
       "type": "domain",
       "value": "rawchocolate-jp.com"
+    },
+    "razberryjuichadndn-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "razberryjuichadndn-jp.com"
     },
     "rdtds.net": {
       "confidence": 0.8,
@@ -75899,6 +78797,34 @@
       "type": "domain",
       "value": "rne1sf2u.onlinewebshop.net"
     },
+    "robin.osaqwe.asia": {
+      "confidence": 0.9,
+      "date": "2026-11-16 11:53:58",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating VISA, targeting Japanese users, hosted on 43.165.167.45 (AS132203).",
+      "threat_type": "phishing",
+      "tweet_id": "2122297120652992688",
+      "type": "domain",
+      "value": "robin.osaqwe.asia"
+    },
+    "robin.osaqwe.asia/nmswcggq": {
+      "confidence": 0.9,
+      "date": "2026-11-16 11:53:58",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating VISA, targeting Japanese users, hosted on 43.165.167.45 (AS132203).",
+      "threat_type": "phishing",
+      "tweet_id": "2122297120652992688",
+      "type": "url",
+      "value": "https://robin.osaqwe.asia/NmSWcgGq/"
+    },
     "robiox.com.af": {
       "confidence": 0.7,
       "date": "2026-10-25 12:22:55",
@@ -75955,6 +78881,20 @@
       "tweet_id": "2112514550939501023",
       "type": "url",
       "value": "http://roblox.fo/login?returnUrl=250803160"
+    },
+    "robloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxrob.website": {
+      "confidence": 0.4,
+      "date": "2026-11-16 07:12:54",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Suspicious Roblox-lookalike domain with a repeated brand string, likely abusive or scam-related; no further context.",
+      "threat_type": "scam",
+      "tweet_id": "2122226388648575377",
+      "type": "domain",
+      "value": "robloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxrobloxrob.website"
     },
     "rockermoviezu.com": {
       "confidence": 0.8,
@@ -76457,6 +79397,22 @@
       "type": "domain",
       "value": "safeguard-online-peach.vercel.app"
     },
+    "safesolution-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "safesolution-jp.com"
+    },
     "sagawa-exp23.club": {
       "confidence": 0.9,
       "date": "2026-11-16 06:01:57",
@@ -76670,23 +79626,6 @@
       "type": "domain",
       "value": "sakenlogistics.com"
     },
-    "salator.es": {
-      "confidence": 0.93,
-      "date": "2026-10-17 12:12:18",
-      "enriched_at": "2026-10-17T18:40:04Z",
-      "family": "SalatStealer",
-      "suggested_tags": [
-        "salatstealer",
-        "infostealer",
-        "stealer",
-        "c2"
-      ],
-      "summary": "SalatStealer panel bootstrap config found on 176.12.71.122; TLS certs link it to rotating C2 domains wruser.org, salator.es and websalat.top.",
-      "threat_type": "c2",
-      "tweet_id": "2111430099538948116",
-      "type": "domain",
-      "value": "salator.es"
-    },
     "salvoren.cfd": {
       "confidence": 0.9,
       "date": "2026-11-04 04:48:53",
@@ -76809,6 +79748,22 @@
       "tweet_id": "2119412501750448421",
       "type": "url",
       "value": "https://samsung2026.sbs/static/home/js/jquery-1.11.3.min.js"
+    },
+    "samsungfire.lovestoblog.com": {
+      "confidence": 0.7,
+      "date": "2026-11-16 09:41:53",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "kimsuky",
+        "apt",
+        "phishing"
+      ],
+      "summary": "Kimsuky-attributed infrastructure: free-hosting domains impersonating Korean financial brands, linked to a GitHub account.",
+      "threat_type": "phishing",
+      "tweet_id": "2122263881632674178",
+      "type": "domain",
+      "value": "samsungfire.lovestoblog.com"
     },
     "santander.nfcobsidian.com": {
       "confidence": 0.92,
@@ -78326,6 +81281,22 @@
       "type": "url",
       "value": "https://share.google/XpDwUY4wr618gBIJQ"
     },
+    "shenlimachinedbb-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "shenlimachinedbb-jp.com"
+    },
     "shewailvsh-jp.com": {
       "confidence": 0.8,
       "date": "2026-11-02 03:44:29",
@@ -78697,6 +81668,132 @@
       "type": "url",
       "value": "http://smaluf.net:3857"
     },
+    "smbac-japanlogincheck.index0001.garderobeskabe.com": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:25:28",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating SMBC/Mitsui Sumitomo credit card across many subdomains, hosted on 152.32.203.142 (UCloud HK).",
+      "threat_type": "phishing",
+      "tweet_id": "2122229550558179362",
+      "type": "domain",
+      "value": "smbac-japanlogincheck.index0001.garderobeskabe.com"
+    },
+    "smbac-japanlogincheck.index0001.hyggethreads.com": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:25:28",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating SMBC/Mitsui Sumitomo credit card across many subdomains, hosted on 152.32.203.142 (UCloud HK).",
+      "threat_type": "phishing",
+      "tweet_id": "2122229550558179362",
+      "type": "domain",
+      "value": "smbac-japanlogincheck.index0001.hyggethreads.com"
+    },
+    "smbac-japanlogincheck.index0001.kerenlynn.com": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:25:28",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating SMBC/Mitsui Sumitomo credit card across many subdomains, hosted on 152.32.203.142 (UCloud HK).",
+      "threat_type": "phishing",
+      "tweet_id": "2122229550558179362",
+      "type": "domain",
+      "value": "smbac-japanlogincheck.index0001.kerenlynn.com"
+    },
+    "smbac-japanlogincheck.index0001.lcysoft.com": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:25:28",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating SMBC/Mitsui Sumitomo credit card across many subdomains, hosted on 152.32.203.142 (UCloud HK).",
+      "threat_type": "phishing",
+      "tweet_id": "2122229550558179362",
+      "type": "domain",
+      "value": "smbac-japanlogincheck.index0001.lcysoft.com"
+    },
+    "smbac-japanlogincheck.index0001.modemagasinet.com": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:25:28",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating SMBC/Mitsui Sumitomo credit card across many subdomains, hosted on 152.32.203.142 (UCloud HK).",
+      "threat_type": "phishing",
+      "tweet_id": "2122229550558179362",
+      "type": "domain",
+      "value": "smbac-japanlogincheck.index0001.modemagasinet.com"
+    },
+    "smbac-japanlogincheck.index0001.msmkchina.com": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:25:28",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating SMBC/Mitsui Sumitomo credit card across many subdomains, hosted on 152.32.203.142 (UCloud HK).",
+      "threat_type": "phishing",
+      "tweet_id": "2122229550558179362",
+      "type": "domain",
+      "value": "smbac-japanlogincheck.index0001.msmkchina.com"
+    },
+    "smbac-japanlogincheck.index0001.sudjs.com": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:25:28",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating SMBC/Mitsui Sumitomo credit card across many subdomains, hosted on 152.32.203.142 (UCloud HK).",
+      "threat_type": "phishing",
+      "tweet_id": "2122229550558179362",
+      "type": "domain",
+      "value": "smbac-japanlogincheck.index0001.sudjs.com"
+    },
+    "smbac-japanlogincheck.index0001.volleydepot.com": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:25:28",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating SMBC/Mitsui Sumitomo credit card across many subdomains, hosted on 152.32.203.142 (UCloud HK).",
+      "threat_type": "phishing",
+      "tweet_id": "2122229550558179362",
+      "type": "domain",
+      "value": "smbac-japanlogincheck.index0001.volleydepot.com"
+    },
+    "smbac-japanlogincheck.index0001.xfsoc.com": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:25:28",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating SMBC/Mitsui Sumitomo credit card across many subdomains, hosted on 152.32.203.142 (UCloud HK).",
+      "threat_type": "phishing",
+      "tweet_id": "2122229550558179362",
+      "type": "domain",
+      "value": "smbac-japanlogincheck.index0001.xfsoc.com"
+    },
     "smbweb-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -78940,6 +82037,22 @@
       "tweet_id": "2121221842686103566",
       "type": "domain",
       "value": "solar-glide-moss-flaeo.pro"
+    },
+    "solarwarehouse-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "solarwarehouse-jp.com"
     },
     "somnitomonito.xyz": {
       "confidence": 0.75,
@@ -80536,6 +83649,38 @@
       "type": "domain",
       "value": "sunmerksin.com"
     },
+    "sunnyinspace-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "sunnyinspace-jp.com"
+    },
+    "superannuation-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "superannuation-jp.com"
+    },
     "support-apple-in.live": {
       "confidence": 0.8,
       "date": "2026-10-21 10:42:09",
@@ -81610,6 +84755,22 @@
       "type": "domain",
       "value": "tea.vexexo.com"
     },
+    "teamsfansshop-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "teamsfansshop-jp.com"
+    },
     "teamsmeeting.site": {
       "confidence": 0.8,
       "date": "2026-10-24 05:16:18",
@@ -82198,6 +85359,38 @@
       "tweet_id": "2106293721159582168",
       "type": "domain",
       "value": "thegrillbible.com"
+    },
+    "theguesthouse-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "theguesthouse-jp.com"
+    },
+    "thehookahbar-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "thehookahbar-jp.com"
     },
     "theme-whatsapp.com": {
       "confidence": 0.65,
@@ -83286,6 +86479,22 @@
       "type": "domain",
       "value": "uncvlizd.com"
     },
+    "unionfootball-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "unionfootball-jp.com"
+    },
     "unitstrust.click": {
       "confidence": 0.65,
       "date": "2026-10-29 14:39:22",
@@ -83402,6 +86611,22 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "upload.webstatici-whatsapp.com"
+    },
+    "urbanmobility-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "urbanmobility-jp.com"
     },
     "url.newbooker.com": {
       "confidence": 0.93,
@@ -84129,6 +87354,22 @@
       "type": "domain",
       "value": "vijaydarda.in"
     },
+    "visaforchina-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "visaforchina-jp.com"
+    },
     "viuonicoiscienic.web.app": {
       "confidence": 0.55,
       "date": "2026-10-29 04:01:32",
@@ -84516,6 +87757,22 @@
       "type": "domain",
       "value": "walletsecuritypro.cam"
     },
+    "wangluoduqiu-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "wangluoduqiu-jp.com"
+    },
     "waqfggna.eu.cc": {
       "confidence": 0.85,
       "date": "2026-11-13 06:06:31",
@@ -84531,6 +87788,22 @@
       "tweet_id": "2121122516555227510",
       "type": "domain",
       "value": "waqfggna.eu.cc"
+    },
+    "watchstudies-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "watchstudies-jp.com"
     },
     "watts-macos.github.io": {
       "confidence": 0.7,
@@ -85527,23 +88800,6 @@
       "type": "domain",
       "value": "webrust-whatsapp.com"
     },
-    "websalat.top": {
-      "confidence": 0.93,
-      "date": "2026-10-17 12:12:18",
-      "enriched_at": "2026-10-17T18:40:04Z",
-      "family": "SalatStealer",
-      "suggested_tags": [
-        "salatstealer",
-        "infostealer",
-        "stealer",
-        "c2"
-      ],
-      "summary": "SalatStealer panel bootstrap config found on 176.12.71.122; TLS certs link it to rotating C2 domains wruser.org, salator.es and websalat.top.",
-      "threat_type": "c2",
-      "tweet_id": "2111430099538948116",
-      "type": "domain",
-      "value": "websalat.top"
-    },
     "webscala-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -86073,47 +89329,21 @@
       "type": "url",
       "value": "https://worker-broken-wood-ddaf.discord854832.workers.dev/payload.zip"
     },
-    "workspacegoogle.net.ru": {
-      "confidence": 0.75,
-      "date": "2026-10-17 07:57:53",
-      "enriched_at": "2026-10-17T12:40:04Z",
+    "worklifetoday-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
       "family": null,
       "suggested_tags": [
+        "android",
+        "malware",
         "phishing"
       ],
-      "summary": "Sites impersonating Google Slides with Russian-language templates; 'Try It' redirects to app.slidy.ai instead of Google Slides.",
-      "threat_type": "phishing",
-      "tweet_id": "2111366073953972720",
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
       "type": "domain",
-      "value": "workspacegoogle.net.ru"
-    },
-    "workspacegoogle.org.ru": {
-      "confidence": 0.75,
-      "date": "2026-10-17 07:57:53",
-      "enriched_at": "2026-10-17T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Sites impersonating Google Slides with Russian-language templates; 'Try It' redirects to app.slidy.ai instead of Google Slides.",
-      "threat_type": "phishing",
-      "tweet_id": "2111366073953972720",
-      "type": "domain",
-      "value": "workspacegoogle.org.ru"
-    },
-    "workspacegoogle.pp.ru": {
-      "confidence": 0.75,
-      "date": "2026-10-17 07:57:53",
-      "enriched_at": "2026-10-17T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Sites impersonating Google Slides with Russian-language templates; 'Try It' redirects to app.slidy.ai instead of Google Slides.",
-      "threat_type": "phishing",
-      "tweet_id": "2111366073953972720",
-      "type": "domain",
-      "value": "workspacegoogle.pp.ru"
+      "value": "worklifetoday-jp.com"
     },
     "workwitheigen.xyz": {
       "confidence": 0.85,
@@ -86192,23 +89422,6 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "wq-whatsapp.com"
-    },
-    "wruser.org": {
-      "confidence": 0.93,
-      "date": "2026-10-17 12:12:18",
-      "enriched_at": "2026-10-17T18:40:04Z",
-      "family": "SalatStealer",
-      "suggested_tags": [
-        "salatstealer",
-        "infostealer",
-        "stealer",
-        "c2"
-      ],
-      "summary": "SalatStealer panel bootstrap config found on 176.12.71.122; TLS certs link it to rotating C2 domains wruser.org, salator.es and websalat.top.",
-      "threat_type": "c2",
-      "tweet_id": "2111430099538948116",
-      "type": "domain",
-      "value": "wruser.org"
     },
     "wumingcccv.com": {
       "confidence": 0.5,
@@ -86356,21 +89569,6 @@
       "tweet_id": "2117276042276548954",
       "type": "url",
       "value": "http://www.flpoised.net"
-    },
-    "www.forumst.co.kr": {
-      "confidence": 0.4,
-      "date": "2026-10-17 12:09:54",
-      "enriched_at": "2026-10-17T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "Malicious LNK disguised as a collaboration questions document, linked to forumst.co.kr; tagged as suspicious APT activity.",
-      "threat_type": "malware",
-      "tweet_id": "2111429495437877298",
-      "type": "url",
-      "value": "http://www.forumst.co.kr"
     },
     "www.forumst.co.kr/gnuboard4/lib/login.php": {
       "confidence": 0.45,
@@ -87370,6 +90568,22 @@
       "type": "domain",
       "value": "young-whatsapp.com"
     },
+    "yourawakening-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 06:39:18",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware campaign impersonating SMBC and e-Tax, distributed via numerous -jp.com domains with APK samples.",
+      "threat_type": "malware",
+      "tweet_id": "2122217930972873117",
+      "type": "domain",
+      "value": "yourawakening-jp.com"
+    },
     "youtube-right.com": {
       "confidence": 0.92,
       "date": "2026-10-30 21:12:47",
@@ -87500,6 +90714,34 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "yuce.xbsti.com"
+    },
+    "yuf01.jp": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:25:28",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating SMBC/Mitsui Sumitomo credit card across many subdomains, hosted on 152.32.203.142 (UCloud HK).",
+      "threat_type": "phishing",
+      "tweet_id": "2122229550558179362",
+      "type": "domain",
+      "value": "yuf01.jp"
+    },
+    "yuf01.jp/continue.php": {
+      "confidence": 0.9,
+      "date": "2026-11-16 07:25:28",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating SMBC/Mitsui Sumitomo credit card across many subdomains, hosted on 152.32.203.142 (UCloud HK).",
+      "threat_type": "phishing",
+      "tweet_id": "2122229550558179362",
+      "type": "url",
+      "value": "https://yuf01.jp/continue.php"
     },
     "yummyhomebase.com": {
       "confidence": 0.85,
@@ -88296,6 +91538,36 @@
       "type": "domain",
       "value": "zz.aiapi2025.top"
     },
+    "zz3670qh.s3.us-east-1.amazonaws.com": {
+      "confidence": 0.85,
+      "date": "2026-11-16 07:50:35",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing email posing as a manager, linking to an AWS S3-hosted tech support scam page.",
+      "threat_type": "phishing",
+      "tweet_id": "2122235870082486453",
+      "type": "domain",
+      "value": "zz3670qh.s3.us-east-1.amazonaws.com"
+    },
+    "zz3670qh.s3.us-east-1.amazonaws.com/index.html": {
+      "confidence": 0.85,
+      "date": "2026-11-16 07:50:35",
+      "enriched_at": "2026-11-16T12:40:06Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing email posing as a manager, linking to an AWS S3-hosted tech support scam page.",
+      "threat_type": "phishing",
+      "tweet_id": "2122235870082486453",
+      "type": "url",
+      "value": "https://zz3670qh.s3.us-east-1.amazonaws.com/index.html"
+    },
     "\u7d50\u5a5a\u5f0f\u306e\u3054\u62db\u5f85.zip": {
       "confidence": 0.65,
       "date": "2026-10-28 08:14:21",
@@ -88326,6 +91598,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-16T06:40:05Z",
+  "generated_at": "2026-11-16T12:40:06Z",
   "window_days": 30
 }
