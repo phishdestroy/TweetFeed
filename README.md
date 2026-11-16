@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-16 05:15:23 (UTC)</th>
+        <th colspan=4>2026-11-16 05:31:10 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -189,7 +189,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 23 | 502 | 3276 | 43881 |
 | **:globe_with_meridians: Domains** | 15 | 343 | 2713 | 37672 |
-| **:triangular_flag_on_post: IPs** | 13 | 306 | 2390 | 8227 |
+| **:triangular_flag_on_post: IPs** | 14 | 307 | 2391 | 8228 |
 | **:1234: SHA256** | 2 | 125 | 586 | 3327 |
 | **:1234: MD5** | 0 | 50 | 151 | 2054 |
 
@@ -209,7 +209,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 0 | 18 | 11687 |
 | **#malware** | 20 | 288 | 1305 | 4501 |
 | **#scam** | 2 | 20 | 44 | 2593 |
-| **#C2** | 0 | 49 | 192 | 2053 |
+| **#C2** | 1 | 50 | 193 | 2054 |
 | **#APT** | 0 | 34 | 85 | 1471 |
 | **#ClickFix** | 15 | 66 | 282 | 1297 |
 | **#ransomware** | 0 | 26 | 82 | 703 |
@@ -236,7 +236,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#5** | [PhishStats](https://x.com/PhishStats) | 2 |
 | **#6** | [chris_uk2026](https://x.com/chris_uk2026) | 2 |
 | **#7** | [TKemmerling](https://x.com/TKemmerling) | 2 |
-| **#8** | [-](https://x.com/-) | 0 |
+| **#8** | [Fact_Finder03](https://x.com/Fact_Finder03) | 1 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
 <!-- TOP_REPORTERS_END -->
