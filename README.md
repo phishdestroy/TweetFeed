@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-16 10:31:24 (UTC)</th>
+        <th colspan=4>2026-11-16 10:45:49 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,8 +187,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 145 | 624 | 3398 | 44003 |
-| **:globe_with_meridians: Domains** | 128 | 456 | 2826 | 37785 |
+| **:link: URLs** | 146 | 625 | 3399 | 44004 |
+| **:globe_with_meridians: Domains** | 129 | 457 | 2827 | 37786 |
 | **:triangular_flag_on_post: IPs** | 27 | 320 | 2404 | 8241 |
 | **:1234: SHA256** | 95 | 218 | 679 | 3420 |
 | **:1234: MD5** | 0 | 50 | 151 | 2054 |
