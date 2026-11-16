@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-16 06:46:12 (UTC)</th>
+        <th colspan=4>2026-11-16 07:00:31 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,9 +187,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 103 | 582 | 3356 | 43961 |
-| **:globe_with_meridians: Domains** | 94 | 422 | 2792 | 37751 |
-| **:triangular_flag_on_post: IPs** | 17 | 310 | 2394 | 8231 |
+| **:link: URLs** | 112 | 591 | 3365 | 43970 |
+| **:globe_with_meridians: Domains** | 96 | 424 | 2794 | 37753 |
+| **:triangular_flag_on_post: IPs** | 23 | 316 | 2400 | 8237 |
 | **:1234: SHA256** | 5 | 128 | 589 | 3330 |
 | **:1234: MD5** | 0 | 50 | 151 | 2054 |
 
@@ -204,7 +204,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 31 | 397 | 3816 | 30813 |
+| **#phishing** | 42 | 408 | 3827 | 30824 |
 | **#Kimsuky** | 0 | 0 | 32 | 13315 |
 | **#DPRK** | 0 | 0 | 18 | 11687 |
 | **#malware** | 20 | 288 | 1305 | 4501 |
@@ -232,13 +232,13 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#1** | [KesaGataMe0](https://x.com/KesaGataMe0) | 159 |
 | **#2** | [romonlyht](https://x.com/romonlyht) | 26 |
 | **#3** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 15 |
-| **#4** | [skocherhan](https://x.com/skocherhan) | 8 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 3 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#7** | [chris_uk2026](https://x.com/chris_uk2026) | 2 |
-| **#8** | [TKemmerling](https://x.com/TKemmerling) | 2 |
-| **#9** | [TheKn0ck0ut](https://x.com/TheKn0ck0ut) | 1 |
-| **#10** | [Fact_Finder03](https://x.com/Fact_Finder03) | 1 |
+| **#4** | [Malwarehunterr](https://x.com/Malwarehunterr) | 9 |
+| **#5** | [skocherhan](https://x.com/skocherhan) | 8 |
+| **#6** | [LandscapeThreat](https://x.com/LandscapeThreat) | 6 |
+| **#7** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#8** | [masaomi346](https://x.com/masaomi346) | 3 |
+| **#9** | [PhishStats](https://x.com/PhishStats) | 2 |
+| **#10** | [chris_uk2026](https://x.com/chris_uk2026) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
