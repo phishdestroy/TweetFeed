@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2584
-; Updated: 2026-11-16T01:00:25Z
+; Entries: 2589
+; Updated: 2026-11-16T02:30:28Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794790825 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794796228 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1868,6 +1868,8 @@ docuxsign.com CNAME .
 *.docuxsign.com CNAME .
 domain-privacy.group CNAME .
 *.domain-privacy.group CNAME .
+doraholdings-jp.com CNAME .
+*.doraholdings-jp.com CNAME .
 download-6zk.pages.dev CNAME .
 *.download-6zk.pages.dev CNAME .
 download.sakenlogistics.com CNAME .
@@ -3536,6 +3538,8 @@ pobruog.wiki CNAME .
 *.pobruog.wiki CNAME .
 podnode-whatsapp.com CNAME .
 *.podnode-whatsapp.com CNAME .
+pofga.com CNAME .
+*.pofga.com CNAME .
 poijkukasdd.com CNAME .
 *.poijkukasdd.com CNAME .
 poiwalsdas.com CNAME .
@@ -3660,8 +3664,12 @@ qa3u8erl.online CNAME .
 *.qa3u8erl.online CNAME .
 qbqxgnbsnb.a.pinggy.link CNAME .
 *.qbqxgnbsnb.a.pinggy.link CNAME .
+qdwez.com CNAME .
+*.qdwez.com CNAME .
 qdxz4578.hkg.bcebos.com CNAME .
 *.qdxz4578.hkg.bcebos.com CNAME .
+qfcas.com CNAME .
+*.qfcas.com CNAME .
 qh883-pqd-q56b-r2kwh-15-10-2026-aa.pages.dev CNAME .
 *.qh883-pqd-q56b-r2kwh-15-10-2026-aa.pages.dev CNAME .
 qhqgcy.com CNAME .
@@ -4622,6 +4630,8 @@ uau.pp.ua CNAME .
 *.uau.pp.ua CNAME .
 uazweb-whatsapp.com CNAME .
 *.uazweb-whatsapp.com CNAME .
+ub6vh9m8.s3.us-east-1.amazonaws.com CNAME .
+*.ub6vh9m8.s3.us-east-1.amazonaws.com CNAME .
 ubbrobccheck20.cc CNAME .
 *.ubbrobccheck20.cc CNAME .
 ubuntulivepatch.com CNAME .
