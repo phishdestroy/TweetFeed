@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2594
-; Updated: 2026-11-16T04:30:26Z
+; Entries: 2606
+; Updated: 2026-11-16T06:15:27Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794803426 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794809727 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3870,6 +3870,30 @@ s3051017.s3.us-east-2.amazonaws.com CNAME .
 *.s3051017.s3.us-east-2.amazonaws.com CNAME .
 safeguard-online-peach.vercel.app CNAME .
 *.safeguard-online-peach.vercel.app CNAME .
+sagawa-exp23.club CNAME .
+*.sagawa-exp23.club CNAME .
+sagawa-exp34.club CNAME .
+*.sagawa-exp34.club CNAME .
+sagawa-exp72.club CNAME .
+*.sagawa-exp72.club CNAME .
+sagawa-exp8j.club CNAME .
+*.sagawa-exp8j.club CNAME .
+sagawa-exp8t.club CNAME .
+*.sagawa-exp8t.club CNAME .
+sagawa-expak.club CNAME .
+*.sagawa-expak.club CNAME .
+sagawa-expco.club CNAME .
+*.sagawa-expco.club CNAME .
+sagawa-expf0.club CNAME .
+*.sagawa-expf0.club CNAME .
+sagawa-expfx.club CNAME .
+*.sagawa-expfx.club CNAME .
+sagawa-expgk.club CNAME .
+*.sagawa-expgk.club CNAME .
+sagawa-exph9.club CNAME .
+*.sagawa-exph9.club CNAME .
+sagawa-expns.club CNAME .
+*.sagawa-expns.club CNAME .
 saissodbn202607oint.u0fnd.info CNAME .
 *.saissodbn202607oint.u0fnd.info CNAME .
 sakenlogistics.com CNAME .
