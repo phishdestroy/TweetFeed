@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-16 09:31:19 (UTC)</th>
+        <th colspan=4>2026-11-16 09:45:29 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,8 +187,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 140 | 619 | 3393 | 43998 |
-| **:globe_with_meridians: Domains** | 123 | 451 | 2821 | 37780 |
+| **:link: URLs** | 145 | 624 | 3398 | 44003 |
+| **:globe_with_meridians: Domains** | 128 | 456 | 2826 | 37785 |
 | **:triangular_flag_on_post: IPs** | 27 | 320 | 2404 | 8241 |
 | **:1234: SHA256** | 95 | 218 | 679 | 3420 |
 | **:1234: MD5** | 0 | 50 | 151 | 2054 |
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 48 | 414 | 3833 | 30830 |
-| **#Kimsuky** | 0 | 0 | 32 | 13315 |
+| **#Kimsuky** | 10 | 10 | 42 | 13325 |
 | **#DPRK** | 0 | 0 | 18 | 11687 |
 | **#malware** | 24 | 292 | 1309 | 4505 |
 | **#scam** | 6 | 24 | 48 | 2597 |
@@ -234,11 +234,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#3** | [romonlyht](https://x.com/romonlyht) | 31 |
 | **#4** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 15 |
 | **#5** | [Malwarehunterr](https://x.com/Malwarehunterr) | 11 |
-| **#6** | [chris_uk2026](https://x.com/chris_uk2026) | 6 |
-| **#7** | [LandscapeThreat](https://x.com/LandscapeThreat) | 6 |
-| **#8** | [harugasumi](https://x.com/harugasumi) | 6 |
-| **#9** | [masaomi346](https://x.com/masaomi346) | 5 |
-| **#10** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#6** | [copy_and_paster](https://x.com/copy_and_paster) | 10 |
+| **#7** | [chris_uk2026](https://x.com/chris_uk2026) | 6 |
+| **#8** | [LandscapeThreat](https://x.com/LandscapeThreat) | 6 |
+| **#9** | [harugasumi](https://x.com/harugasumi) | 6 |
+| **#10** | [masaomi346](https://x.com/masaomi346) | 5 |
 <!-- TOP_REPORTERS_END -->
 
 </div>

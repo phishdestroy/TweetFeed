@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2698
-; Updated: 2026-11-16T09:00:33Z
+; Entries: 2703
+; Updated: 2026-11-16T09:45:29Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794819633 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794822329 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -214,6 +214,8 @@ aiagentmi.com CNAME .
 *.aiagentmi.com CNAME .
 airbnb-poland.com CNAME .
 *.airbnb-poland.com CNAME .
+aji9w5i3.scienceontheweb.net CNAME .
+*.aji9w5i3.scienceontheweb.net CNAME .
 ajmwglfzin.zelixavon.com CNAME .
 *.ajmwglfzin.zelixavon.com CNAME .
 ajz-whatsapp.com CNAME .
@@ -2838,6 +2840,8 @@ ivory-whatsapp.com CNAME .
 *.ivory-whatsapp.com CNAME .
 ixyjb.com CNAME .
 *.ixyjb.com CNAME .
+j2mkcafd.mywebcommunity.org CNAME .
+*.j2mkcafd.mywebcommunity.org CNAME .
 ja.webhwsapp-whatsapp.com CNAME .
 *.ja.webhwsapp-whatsapp.com CNAME .
 jal-air.spguiapp.com CNAME .
@@ -2908,6 +2912,8 @@ karichilevels.click CNAME .
 *.karichilevels.click CNAME .
 kbardiwali.fun CNAME .
 *.kbardiwali.fun CNAME .
+kbcard.lovestoblog.com CNAME .
+*.kbcard.lovestoblog.com CNAME .
 kddplatform.com CNAME .
 *.kddplatform.com CNAME .
 kdyweb-whatsapp.com CNAME .
@@ -3486,6 +3492,8 @@ nzctjvr.com CNAME .
 *.nzctjvr.com CNAME .
 nzxaxcj.cn CNAME .
 *.nzxaxcj.cn CNAME .
+o9tq2b08.onlinewebshop.net CNAME .
+*.o9tq2b08.onlinewebshop.net CNAME .
 obfuscator.io CNAME .
 *.obfuscator.io CNAME .
 oceanpoet.com CNAME .
@@ -4046,6 +4054,8 @@ samsung2026.lol CNAME .
 *.samsung2026.lol CNAME .
 samsung2026.sbs CNAME .
 *.samsung2026.sbs CNAME .
+samsungfire.lovestoblog.com CNAME .
+*.samsungfire.lovestoblog.com CNAME .
 santander.nfcobsidian.com CNAME .
 *.santander.nfcobsidian.com CNAME .
 satano.xyz CNAME .
