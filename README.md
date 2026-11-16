@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-16 06:30:33 (UTC)</th>
+        <th colspan=4>2026-11-16 06:46:12 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,10 +187,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 35 | 514 | 3288 | 43893 |
-| **:globe_with_meridians: Domains** | 27 | 355 | 2725 | 37684 |
-| **:triangular_flag_on_post: IPs** | 15 | 308 | 2392 | 8229 |
-| **:1234: SHA256** | 3 | 126 | 587 | 3328 |
+| **:link: URLs** | 103 | 582 | 3356 | 43961 |
+| **:globe_with_meridians: Domains** | 94 | 422 | 2792 | 37751 |
+| **:triangular_flag_on_post: IPs** | 17 | 310 | 2394 | 8231 |
+| **:1234: SHA256** | 5 | 128 | 589 | 3330 |
 | **:1234: MD5** | 0 | 50 | 151 | 2054 |
 
 </div>
@@ -229,10 +229,10 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [romonlyht](https://x.com/romonlyht) | 25 |
-| **#2** | [KesaGataMe0](https://x.com/KesaGataMe0) | 25 |
+| **#1** | [KesaGataMe0](https://x.com/KesaGataMe0) | 159 |
+| **#2** | [romonlyht](https://x.com/romonlyht) | 26 |
 | **#3** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 15 |
-| **#4** | [skocherhan](https://x.com/skocherhan) | 4 |
+| **#4** | [skocherhan](https://x.com/skocherhan) | 8 |
 | **#5** | [masaomi346](https://x.com/masaomi346) | 3 |
 | **#6** | [PhishStats](https://x.com/PhishStats) | 2 |
 | **#7** | [chris_uk2026](https://x.com/chris_uk2026) | 2 |

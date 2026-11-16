@@ -1,5 +1,5 @@
 {
-  "count": 6209,
+  "count": 6254,
   "dead_tweets": {
     "2114565057338343930": {
       "attempts": 2,
@@ -3349,6 +3349,20 @@
       "type": "ip",
       "value": "104.196.203.105"
     },
+    "104.198.122.168": {
+      "confidence": 0.7,
+      "date": "2026-11-16 02:29:42",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "IP address tagged as phishing in a Mitsui Sumitomo Card (SMCC) impersonation campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2122155118347084256",
+      "type": "ip",
+      "value": "104.198.122.168"
+    },
     "104.198.91.98": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -3670,6 +3684,20 @@
       "tweet_id": "2120381775960821803",
       "type": "ip",
       "value": "106.41.200.151"
+    },
+    "106.51.149.138": {
+      "confidence": 0.85,
+      "date": "2026-11-16 02:09:43",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Tech support scam page hosted on an AWS S3 bucket, reached via redirect, reported by a Japanese university tracker.",
+      "threat_type": "scam",
+      "tweet_id": "2122150090752037369",
+      "type": "ip",
+      "value": "106.51.149.138"
     },
     "106.52.119.73": {
       "confidence": 0.5,
@@ -11314,6 +11342,20 @@
       "type": "ip",
       "value": "172.105.109.85"
     },
+    "172.191.90.169": {
+      "confidence": 0.85,
+      "date": "2026-11-16 02:28:49",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Mitsui Sumitomo Card phishing link on pofga.com that redirects to doraholdings-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2122154896762028169",
+      "type": "ip",
+      "value": "172.191.90.169"
+    },
     "172.232.203.210": {
       "confidence": 0.6,
       "date": "2026-10-26 08:45:00",
@@ -12504,6 +12546,20 @@
       "tweet_id": "2121272002921250845",
       "type": "ip",
       "value": "185.139.215.221"
+    },
+    "185.141.135.40": {
+      "confidence": 0.8,
+      "date": "2026-11-16 02:56:54",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing email URL on dev.sbphototours.com redirecting to xc.frenchconnection.com.br, from a Japanese university phishing report.",
+      "threat_type": "phishing",
+      "tweet_id": "2122161961890943023",
+      "type": "ip",
+      "value": "185.141.135.40"
     },
     "185.149.24.166": {
       "confidence": 0.9,
@@ -15037,6 +15093,20 @@
       "tweet_id": "2116166833682178423",
       "type": "ip",
       "value": "20.124.33.198"
+    },
+    "20.210.157.107": {
+      "confidence": 0.85,
+      "date": "2026-11-16 02:29:41",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Mitsui Sumitomo Card phishing link on qdwez.com that redirects to doraholdings-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2122155115536949293",
+      "type": "ip",
+      "value": "20.210.157.107"
     },
     "20.245.48.59": {
       "confidence": 0.88,
@@ -17904,6 +17974,22 @@
       "type": "md5",
       "value": "28affd3d72889a2c15d33d3eebc320ff"
     },
+    "28c83736f3a78819bd02ac1c6c06fe111639aadc60861b90824065c177af51b9": {
+      "confidence": 0.7,
+      "date": "2026-11-16 02:53:52",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as Plotzy distributed via googlea.eu.cc, with a related sample hash.",
+      "threat_type": "malware",
+      "tweet_id": "2122161201132277825",
+      "type": "sha256",
+      "value": "28c83736f3a78819bd02ac1c6c06fe111639aadc60861b90824065c177af51b9"
+    },
     "292db63dc6cde2712cecc0b4b9c96573": {
       "confidence": 0.5,
       "date": "2026-10-28 18:41:19",
@@ -19080,6 +19166,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "34.118.196.103"
+    },
+    "34.118.81.153": {
+      "confidence": 0.55,
+      "date": "2026-11-16 02:45:58",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Possible SBI Securities phishing URL on help-aws-login.zhcflow.com; the reporter notes it may not be a phishing site.",
+      "threat_type": "phishing",
+      "tweet_id": "2122159211010511303",
+      "type": "ip",
+      "value": "34.118.81.153"
     },
     "34.12.113.29": {
       "confidence": 0.5,
@@ -28977,20 +29077,6 @@
       "type": "ip",
       "value": "43.162.83.183"
     },
-    "43.162.93.46": {
-      "confidence": 0.85,
-      "date": "2026-10-17 05:45:23",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page reported at canjepuntosrapidobac.click/pa, hosted on a Tencent-network IP (AS132203) in the United States.",
-      "threat_type": "phishing",
-      "tweet_id": "2111332728524165248",
-      "type": "ip",
-      "value": "43.162.93.46"
-    },
     "43.164.137.93": {
       "confidence": 0.85,
       "date": "2026-10-23 10:44:17",
@@ -29018,6 +29104,20 @@
       "tweet_id": "2112731197189263691",
       "type": "url",
       "value": "http://43.165.128.22"
+    },
+    "43.165.130.83": {
+      "confidence": 0.85,
+      "date": "2026-11-16 02:29:41",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Mitsui Sumitomo Card phishing link on qdwez.com that redirects to doraholdings-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2122155115536949293",
+      "type": "ip",
+      "value": "43.165.130.83"
     },
     "43.165.135.154": {
       "confidence": 0.9,
@@ -30114,6 +30214,22 @@
       "tweet_id": "2114346835334570269",
       "type": "ip",
       "value": "45.74.61.9"
+    },
+    "45.76.255.108": {
+      "confidence": 0.9,
+      "date": "2026-11-16 05:26:07",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": "Byakugan",
+      "suggested_tags": [
+        "c2",
+        "stealer",
+        "infostealer"
+      ],
+      "summary": "C2 panel of Byakugan Stealer reported on an IP at port 8080.",
+      "threat_type": "c2",
+      "tweet_id": "2122199514765554146",
+      "type": "ip",
+      "value": "45.76.255.108"
     },
     "45.77.24.71": {
       "confidence": 0.5,
@@ -31399,6 +31515,20 @@
       "tweet_id": "2121241291514159580",
       "type": "ip",
       "value": "47.79.89.216"
+    },
+    "47.79.90.161": {
+      "confidence": 0.55,
+      "date": "2026-11-16 02:45:58",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Possible SBI Securities phishing URL on help-aws-login.zhcflow.com; the reporter notes it may not be a phishing site.",
+      "threat_type": "phishing",
+      "tweet_id": "2122159211010511303",
+      "type": "ip",
+      "value": "47.79.90.161"
     },
     "47.79.90.200": {
       "confidence": 0.6,
@@ -32738,6 +32868,34 @@
       "type": "ip",
       "value": "52.172.140.8"
     },
+    "52.217.72.16": {
+      "confidence": 0.85,
+      "date": "2026-11-16 02:09:43",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Tech support scam page hosted on an AWS S3 bucket, reached via redirect, reported by a Japanese university tracker.",
+      "threat_type": "scam",
+      "tweet_id": "2122150090752037369",
+      "type": "ip",
+      "value": "52.217.72.16"
+    },
+    "52.225.75.237": {
+      "confidence": 0.85,
+      "date": "2026-11-16 02:27:39",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Mitsui Sumitomo Card phishing link on qfcas.com that redirects to doraholdings-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2122154603156529242",
+      "type": "ip",
+      "value": "52.225.75.237"
+    },
     "52.253.119.229": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -33991,6 +34149,20 @@
       "type": "ip",
       "value": "64.226.84.77"
     },
+    "64.247.176.56": {
+      "confidence": 0.8,
+      "date": "2026-11-16 02:56:55",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing redirect chain to xc.frenchconnection.com.br/xserver/index.php with a Japanese email-address parameter, reported by Japanese phishing tracker.",
+      "threat_type": "phishing",
+      "tweet_id": "2122161965841985606",
+      "type": "ip",
+      "value": "64.247.176.56"
+    },
     "64.37.63.18": {
       "confidence": 0.15,
       "date": "2026-11-11 05:03:04",
@@ -34893,6 +35065,20 @@
       "tweet_id": "2117956883139252716",
       "type": "sha256",
       "value": "717ce10ab324d01bc51602cf360ce03854ec607a360548bb764b623293a4de45"
+    },
+    "72.29.178.86": {
+      "confidence": 0.8,
+      "date": "2026-11-16 02:56:55",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing redirect chain to xc.frenchconnection.com.br/xserver/index.php with a Japanese email-address parameter, reported by Japanese phishing tracker.",
+      "threat_type": "phishing",
+      "tweet_id": "2122161965841985606",
+      "type": "ip",
+      "value": "72.29.178.86"
     },
     "72.47.208.142": {
       "confidence": 0.85,
@@ -47135,6 +47321,20 @@
       "type": "md5",
       "value": "bd6ff51ec573b5d1cced6b5faa0d78ab"
     },
+    "bd92efe1ffe1a83bc34c4685872220f79c2da9b43450efb4c079bc5e8e4a960c": {
+      "confidence": 0.4,
+      "date": "2026-11-16 00:10:16",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "SHA256 hash of a sample fetched from an open-directory-style IP URL path /815/815w; no family identified.",
+      "threat_type": "malware",
+      "tweet_id": "2122120027763614176",
+      "type": "sha256",
+      "value": "bd92efe1ffe1a83bc34c4685872220f79c2da9b43450efb4c079bc5e8e4a960c"
+    },
     "be08eab0f301bd06281f819f97805371810c9b1947ddc5bc91f3ffbf0da7c72b": {
       "confidence": 0.4,
       "date": "2026-11-05 19:50:41",
@@ -47413,6 +47613,20 @@
       "tweet_id": "2118450511234150864",
       "type": "domain",
       "value": "bestdiwalioffers.shop"
+    },
+    "bestinsurancevault.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 04:16:02",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing alert: a State Farm fire-kit survey lure routes to the unrelated domain bestinsurancevault.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2122181877260030221",
+      "type": "domain",
+      "value": "bestinsurancevault.com"
     },
     "bestpartneha-jp.com": {
       "confidence": 0.88,
@@ -51297,34 +51511,6 @@
       "tweet_id": "2120711373990875531",
       "type": "url",
       "value": "https://caninadogtraining.com/QaerNxiz/"
-    },
-    "canjepuntosrapidobac.click": {
-      "confidence": 0.85,
-      "date": "2026-10-17 05:45:23",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page reported at canjepuntosrapidobac.click/pa, hosted on a Tencent-network IP (AS132203) in the United States.",
-      "threat_type": "phishing",
-      "tweet_id": "2111332728524165248",
-      "type": "domain",
-      "value": "canjepuntosrapidobac.click"
-    },
-    "canjepuntosrapidobac.click/pa": {
-      "confidence": 0.85,
-      "date": "2026-10-17 05:45:23",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page reported at canjepuntosrapidobac.click/pa, hosted on a Tencent-network IP (AS132203) in the United States.",
-      "threat_type": "phishing",
-      "tweet_id": "2111332728524165248",
-      "type": "url",
-      "value": "https://canjepuntosrapidobac.click/pa"
     },
     "carloxmextos.org": {
       "confidence": 0.9,
@@ -55218,6 +55404,34 @@
       "type": "domain",
       "value": "detan2go.web.app"
     },
+    "dev.sbphototours.com": {
+      "confidence": 0.8,
+      "date": "2026-11-16 02:56:54",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing email URL on dev.sbphototours.com redirecting to xc.frenchconnection.com.br, from a Japanese university phishing report.",
+      "threat_type": "phishing",
+      "tweet_id": "2122161961890943023",
+      "type": "domain",
+      "value": "dev.sbphototours.com"
+    },
+    "dev.sbphototours.com/includes/companylogo.php?url=https%3a%2f%2fxc.frenchconnection.com.br/xserver/index": {
+      "confidence": 0.8,
+      "date": "2026-11-16 02:56:54",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing email URL on dev.sbphototours.com redirecting to xc.frenchconnection.com.br, from a Japanese university phishing report.",
+      "threat_type": "phishing",
+      "tweet_id": "2122161961890943023",
+      "type": "url",
+      "value": "https://dev.sbphototours.com/includes/companyLogo.php?url=https%3A%2F%2Fxc.frenchconnection.com.br/xserver/index"
+    },
     "devapi-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -56854,6 +57068,20 @@
       "tweet_id": "2112834452321632688",
       "type": "domain",
       "value": "domain-privacy.group"
+    },
+    "doraholdings-jp.com": {
+      "confidence": 0.85,
+      "date": "2026-11-16 02:29:41",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Mitsui Sumitomo Card phishing link on qdwez.com that redirects to doraholdings-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2122155115536949293",
+      "type": "domain",
+      "value": "doraholdings-jp.com"
     },
     "download-6zk.pages.dev": {
       "confidence": 0.8,
@@ -63602,6 +63830,22 @@
       "type": "domain",
       "value": "google.workspacedoc.com"
     },
+    "googlea.eu.cc": {
+      "confidence": 0.7,
+      "date": "2026-11-16 02:53:52",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as Plotzy distributed via googlea.eu.cc, with a related sample hash.",
+      "threat_type": "malware",
+      "tweet_id": "2122161201132277825",
+      "type": "domain",
+      "value": "googlea.eu.cc"
+    },
     "googlegemini-earlyaccess.com": {
       "confidence": 0.5,
       "date": "2026-11-04 07:03:00",
@@ -64288,6 +64532,20 @@
       "type": "domain",
       "value": "happydiwali.tech"
     },
+    "harborstonegroup.shop": {
+      "confidence": 0.8,
+      "date": "2026-10-26 02:02:48",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing alert: ThermiVest discount uses the unrelated domain harborstonegroup.shop.",
+      "threat_type": "phishing",
+      "tweet_id": "2114538203697094738",
+      "type": "domain",
+      "value": "harborstonegroup.shop"
+    },
     "havelbeenpwned.net": {
       "confidence": 0.7,
       "date": "2026-10-20 13:59:03",
@@ -64465,6 +64723,34 @@
       "tweet_id": "2113733954490470752",
       "type": "domain",
       "value": "hello-world-fancy-mud-57ff.2111857176.workers.dev"
+    },
+    "help-aws-login.zhcflow.com": {
+      "confidence": 0.55,
+      "date": "2026-11-16 02:45:58",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Possible SBI Securities phishing URL on help-aws-login.zhcflow.com; the reporter notes it may not be a phishing site.",
+      "threat_type": "phishing",
+      "tweet_id": "2122159211010511303",
+      "type": "domain",
+      "value": "help-aws-login.zhcflow.com"
+    },
+    "help-aws-login.zhcflow.com/?_i=nefgqipd": {
+      "confidence": 0.55,
+      "date": "2026-11-16 02:45:58",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Possible SBI Securities phishing URL on help-aws-login.zhcflow.com; the reporter notes it may not be a phishing site.",
+      "threat_type": "phishing",
+      "tweet_id": "2122159211010511303",
+      "type": "url",
+      "value": "https://help-aws-login.zhcflow.com/?_i=NEFGqIPD"
     },
     "help.pactvow.com": {
       "confidence": 0.92,
@@ -69154,6 +69440,22 @@
       "type": "domain",
       "value": "mailnode-whatsapp.com"
     },
+    "mamatambiensr-jp.com": {
+      "confidence": 0.7,
+      "date": "2026-10-27 23:49:40",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as e-Tax distributed via Japanese-themed phishing domains such as mamatambiensr-jp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2115229475822809290",
+      "type": "domain",
+      "value": "mamatambiensr-jp.com"
+    },
     "manw-2ansn-smanqjk.xo.je": {
       "confidence": 0.5,
       "date": "2026-11-08 10:32:07",
@@ -73147,6 +73449,34 @@
       "type": "domain",
       "value": "podnode-whatsapp.com"
     },
+    "pofga.com": {
+      "confidence": 0.85,
+      "date": "2026-11-16 02:28:49",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Mitsui Sumitomo Card phishing link on pofga.com that redirects to doraholdings-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2122154896762028169",
+      "type": "domain",
+      "value": "pofga.com"
+    },
+    "pofga.com/blog/08kbxa8": {
+      "confidence": 0.85,
+      "date": "2026-11-16 02:28:49",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Mitsui Sumitomo Card phishing link on pofga.com that redirects to doraholdings-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2122154896762028169",
+      "type": "url",
+      "value": "https://pofga.com/blog/08kBxa8"
+    },
     "poijkukasdd.com": {
       "confidence": 0.55,
       "date": "2026-11-07 09:31:46",
@@ -74221,6 +74551,34 @@
       "type": "url",
       "value": "http://qbqxgnbsnb.a.pinggy.link:18914"
     },
+    "qdwez.com": {
+      "confidence": 0.85,
+      "date": "2026-11-16 02:29:41",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Mitsui Sumitomo Card phishing link on qdwez.com that redirects to doraholdings-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2122155115536949293",
+      "type": "domain",
+      "value": "qdwez.com"
+    },
+    "qdwez.com/wiki/5zdm3m3": {
+      "confidence": 0.85,
+      "date": "2026-11-16 02:29:41",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Mitsui Sumitomo Card phishing link on qdwez.com that redirects to doraholdings-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2122155115536949293",
+      "type": "url",
+      "value": "https://qdwez.com/wiki/5ZDM3m3"
+    },
     "qdxz4578.hkg.bcebos.com": {
       "confidence": 0.55,
       "date": "2026-10-30 20:39:07",
@@ -74249,19 +74607,33 @@
       "type": "url",
       "value": "https://qdxz4578.hkg.bcebos.com/updata/zip.zip"
     },
-    "qh883-pqd-q56b-r2kwh-15-10-2026-aa.pages.dev": {
-      "confidence": 0.7,
-      "date": "2026-10-17 01:21:00",
-      "enriched_at": "2026-10-17T06:40:04Z",
+    "qfcas.com": {
+      "confidence": 0.85,
+      "date": "2026-11-16 02:27:39",
+      "enriched_at": "2026-11-16T06:40:05Z",
       "family": null,
       "suggested_tags": [
-        "scam"
+        "phishing"
       ],
-      "summary": "Scan verdict flags a Cloudflare Pages subdomain as a confirmed scam site; no specific malware family identified.",
-      "threat_type": "scam",
-      "tweet_id": "2111266193432572410",
+      "summary": "Mitsui Sumitomo Card phishing link on qfcas.com that redirects to doraholdings-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2122154603156529242",
       "type": "domain",
-      "value": "qh883-pqd-q56b-r2kwh-15-10-2026-aa.pages.dev"
+      "value": "qfcas.com"
+    },
+    "qfcas.com/topics/4ejo8ag": {
+      "confidence": 0.85,
+      "date": "2026-11-16 02:27:39",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Mitsui Sumitomo Card phishing link on qfcas.com that redirects to doraholdings-jp.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2122154603156529242",
+      "type": "url",
+      "value": "https://qfcas.com/topics/4ejo8AG"
     },
     "qhqgcy.com": {
       "confidence": 0.88,
@@ -75541,6 +75913,21 @@
       "type": "domain",
       "value": "robiox.com.af"
     },
+    "robiox.com.gr": {
+      "confidence": 0.6,
+      "date": "2026-11-16 00:50:51",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "malware"
+      ],
+      "summary": "Website robiox.com.gr flagged as a confirmed scam by an online scanner, likely impersonating Roblox.",
+      "threat_type": "scam",
+      "tweet_id": "2122130241451659747",
+      "type": "domain",
+      "value": "robiox.com.gr"
+    },
     "roblox.fo": {
       "confidence": 0.9,
       "date": "2026-10-20 12:01:32",
@@ -76069,6 +76456,174 @@
       "tweet_id": "2121814443822576107",
       "type": "domain",
       "value": "safeguard-online-peach.vercel.app"
+    },
+    "sagawa-exp23.club": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:01:57",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Sagawa Express using 12 lookalike .club domains hosted on an Alibaba-hosted IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2122208533135675767",
+      "type": "domain",
+      "value": "sagawa-exp23.club"
+    },
+    "sagawa-exp34.club": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:01:57",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Sagawa Express using 12 lookalike .club domains hosted on an Alibaba-hosted IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2122208533135675767",
+      "type": "domain",
+      "value": "sagawa-exp34.club"
+    },
+    "sagawa-exp72.club": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:01:57",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Sagawa Express using 12 lookalike .club domains hosted on an Alibaba-hosted IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2122208533135675767",
+      "type": "domain",
+      "value": "sagawa-exp72.club"
+    },
+    "sagawa-exp8j.club": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:01:57",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Sagawa Express using 12 lookalike .club domains hosted on an Alibaba-hosted IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2122208533135675767",
+      "type": "domain",
+      "value": "sagawa-exp8j.club"
+    },
+    "sagawa-exp8t.club": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:01:57",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Sagawa Express using 12 lookalike .club domains hosted on an Alibaba-hosted IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2122208533135675767",
+      "type": "domain",
+      "value": "sagawa-exp8t.club"
+    },
+    "sagawa-expak.club": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:01:57",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Sagawa Express using 12 lookalike .club domains hosted on an Alibaba-hosted IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2122208533135675767",
+      "type": "domain",
+      "value": "sagawa-expak.club"
+    },
+    "sagawa-expco.club": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:01:57",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Sagawa Express using 12 lookalike .club domains hosted on an Alibaba-hosted IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2122208533135675767",
+      "type": "domain",
+      "value": "sagawa-expco.club"
+    },
+    "sagawa-expf0.club": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:01:57",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Sagawa Express using 12 lookalike .club domains hosted on an Alibaba-hosted IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2122208533135675767",
+      "type": "domain",
+      "value": "sagawa-expf0.club"
+    },
+    "sagawa-expfx.club": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:01:57",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Sagawa Express using 12 lookalike .club domains hosted on an Alibaba-hosted IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2122208533135675767",
+      "type": "domain",
+      "value": "sagawa-expfx.club"
+    },
+    "sagawa-expgk.club": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:01:57",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Sagawa Express using 12 lookalike .club domains hosted on an Alibaba-hosted IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2122208533135675767",
+      "type": "domain",
+      "value": "sagawa-expgk.club"
+    },
+    "sagawa-exph9.club": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:01:57",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Sagawa Express using 12 lookalike .club domains hosted on an Alibaba-hosted IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2122208533135675767",
+      "type": "domain",
+      "value": "sagawa-exph9.club"
+    },
+    "sagawa-expns.club": {
+      "confidence": 0.9,
+      "date": "2026-11-16 06:01:57",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign impersonating Sagawa Express using 12 lookalike .club domains hosted on an Alibaba-hosted IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2122208533135675767",
+      "type": "domain",
+      "value": "sagawa-expns.club"
     },
     "saissodbn202607oint.u0fnd.info": {
       "confidence": 0.9,
@@ -82539,6 +83094,48 @@
       "type": "domain",
       "value": "uazweb-whatsapp.com"
     },
+    "ub6vh9m8.s3.us-east-1.amazonaws.com": {
+      "confidence": 0.85,
+      "date": "2026-11-16 02:09:43",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Tech support scam page hosted on an AWS S3 bucket, reached via redirect, reported by a Japanese university tracker.",
+      "threat_type": "scam",
+      "tweet_id": "2122150090752037369",
+      "type": "domain",
+      "value": "ub6vh9m8.s3.us-east-1.amazonaws.com"
+    },
+    "ub6vh9m8.s3.us-east-1.amazonaws.com/3qv69pjuh7dw.html#zfqzwo9abbzmhhki": {
+      "confidence": 0.8,
+      "date": "2026-11-16 01:57:58",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Tech support scam URL hosted on an AWS S3 bucket.",
+      "threat_type": "scam",
+      "tweet_id": "2122147132199329985",
+      "type": "url",
+      "value": "https://ub6vh9m8.s3.us-east-1.amazonaws.com/3qv69pjuh7dw.html#zfqZWo9AbbzmhhKI"
+    },
+    "ub6vh9m8.s3.us-east-1.amazonaws.com/index.html": {
+      "confidence": 0.85,
+      "date": "2026-11-16 02:09:43",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Tech support scam page hosted on an AWS S3 bucket, reached via redirect, reported by a Japanese university tracker.",
+      "threat_type": "scam",
+      "tweet_id": "2122150090752037369",
+      "type": "url",
+      "value": "https://ub6vh9m8.s3.us-east-1.amazonaws.com/index.html"
+    },
     "ubbrobccheck20.cc": {
       "confidence": 0.85,
       "date": "2026-11-09 12:02:57",
@@ -85964,6 +86561,21 @@
       "type": "url",
       "value": "https://www.ovenwisdom.com"
     },
+    "www.robiox.com.gr": {
+      "confidence": 0.6,
+      "date": "2026-11-16 00:50:51",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "malware"
+      ],
+      "summary": "Website robiox.com.gr flagged as a confirmed scam by an online scanner, likely impersonating Roblox.",
+      "threat_type": "scam",
+      "tweet_id": "2122130241451659747",
+      "type": "url",
+      "value": "http://www.robiox.com.gr"
+    },
     "www.searedrecipes.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -86237,6 +86849,34 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "xbxj1.top"
+    },
+    "xc.frenchconnection.com.br": {
+      "confidence": 0.8,
+      "date": "2026-11-16 02:56:55",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing redirect chain to xc.frenchconnection.com.br/xserver/index.php with a Japanese email-address parameter, reported by Japanese phishing tracker.",
+      "threat_type": "phishing",
+      "tweet_id": "2122161965841985606",
+      "type": "domain",
+      "value": "xc.frenchconnection.com.br"
+    },
+    "xc.frenchconnection.com.br/xserver/index.php?uid=aaaa@example.jp": {
+      "confidence": 0.8,
+      "date": "2026-11-16 02:56:55",
+      "enriched_at": "2026-11-16T06:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing redirect chain to xc.frenchconnection.com.br/xserver/index.php with a Japanese email-address parameter, reported by Japanese phishing tracker.",
+      "threat_type": "phishing",
+      "tweet_id": "2122161965841985606",
+      "type": "url",
+      "value": "https://xc.frenchconnection.com.br/xserver/index.php?uid=aaaa@example.jp"
     },
     "xerox-whatsapp.com": {
       "confidence": 0.65,
@@ -87686,6 +88326,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-16T00:40:05Z",
+  "generated_at": "2026-11-16T06:40:05Z",
   "window_days": 30
 }
