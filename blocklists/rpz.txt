@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2710
-; Updated: 2026-11-16T14:30:29Z
+; Entries: 2727
+; Updated: 2026-11-16T15:15:27Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794839429 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794842127 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -72,6 +72,8 @@ $TTL 300
 *.31.56.209.167.sslip.io CNAME .
 351312.cc CNAME .
 *.351312.cc CNAME .
+360givereference.org CNAME .
+*.360givereference.org CNAME .
 3cdffc93.fase-x.com CNAME .
 *.3cdffc93.fase-x.com CNAME .
 3today-diwalisales.icu CNAME .
@@ -1368,6 +1370,8 @@ cdnmail-whatsapp.com CNAME .
 *.cdnmail-whatsapp.com CNAME .
 cdnnet-whatsapp.com CNAME .
 *.cdnnet-whatsapp.com CNAME .
+centrorosemaryschmidt.com.br CNAME .
+*.centrorosemaryschmidt.com.br CNAME .
 certificazi.one CNAME .
 *.certificazi.one CNAME .
 cfclear.devdesk.workers.dev CNAME .
@@ -1910,6 +1914,8 @@ doctoractive-jp.com CNAME .
 *.doctoractive-jp.com CNAME .
 docu-sign.biz CNAME .
 *.docu-sign.biz CNAME .
+docurevealerantics.es CNAME .
+*.docurevealerantics.es CNAME .
 docusign-document.info CNAME .
 *.docusign-document.info CNAME .
 docusign.alt3-doc3ea7-v2.sbs CNAME .
@@ -2060,6 +2066,12 @@ edgehost-whatsapp.com CNAME .
 *.edgehost-whatsapp.com CNAME .
 edgenode-whatsapp.com CNAME .
 *.edgenode-whatsapp.com CNAME .
+edgovor.org CNAME .
+*.edgovor.org CNAME .
+edgxxwors.org CNAME .
+*.edgxxwors.org CNAME .
+edhxgov.org CNAME .
+*.edhxgov.org CNAME .
 efanxian.com CNAME .
 *.efanxian.com CNAME .
 egfbp.cn CNAME .
@@ -2122,14 +2134,20 @@ es-mx.webhwsapp-whatsapp.com CNAME .
 *.es-mx.webhwsapp-whatsapp.com CNAME .
 es.webhwsapp-whatsapp.com CNAME .
 *.es.webhwsapp-whatsapp.com CNAME .
+esgo.com.mx CNAME .
+*.esgo.com.mx CNAME .
 eucrds8h.s3.us-east-1.amazonaws.com CNAME .
 *.eucrds8h.s3.us-east-1.amazonaws.com CNAME .
 everstakewfma6sxdpshoq4ebtnqamsxnajrtzu2cflai77kfup5kzyd.onion CNAME .
 *.everstakewfma6sxdpshoq4ebtnqamsxnajrtzu2cflai77kfup5kzyd.onion CNAME .
 excerpthub.com CNAME .
 *.excerpthub.com CNAME .
+expertset.vu CNAME .
+*.expertset.vu CNAME .
 eyeearhospital.com CNAME .
 *.eyeearhospital.com CNAME .
+f34efdfd.org CNAME .
+*.f34efdfd.org CNAME .
 f7-whatsapp.com CNAME .
 *.f7-whatsapp.com CNAME .
 f8-whatsapp.com CNAME .
@@ -2636,6 +2654,8 @@ hfgxsc.cn CNAME .
 *.hfgxsc.cn CNAME .
 hfpzuia.cn CNAME .
 *.hfpzuia.cn CNAME .
+hguygui.org CNAME .
+*.hguygui.org CNAME .
 hhevzhgcokx6xlzh4o4exuo2kryy6ectpb7trm5ut2g3u4trskptv7ad.onion CNAME .
 *.hhevzhgcokx6xlzh4o4exuo2kryy6ectpb7trm5ut2g3u4trskptv7ad.onion CNAME .
 hi.webhwsapp-whatsapp.com CNAME .
@@ -2908,6 +2928,10 @@ jr-east.52hysmj.com CNAME .
 *.jr-east.52hysmj.com CNAME .
 jreast-ekinet-mypage.help CNAME .
 *.jreast-ekinet-mypage.help CNAME .
+jvamost.club CNAME .
+*.jvamost.club CNAME .
+jvamost.health CNAME .
+*.jvamost.health CNAME .
 ka376.online CNAME .
 *.ka376.online CNAME .
 kaizensolutions-jp.com CNAME .
@@ -3358,6 +3382,8 @@ mscupdate.blob.core.windows.net CNAME .
 *.mscupdate.blob.core.windows.net CNAME .
 msteams-ai.com CNAME .
 *.msteams-ai.com CNAME .
+msteams.pro CNAME .
+*.msteams.pro CNAME .
 msteamsoss.top CNAME .
 *.msteamsoss.top CNAME .
 msteamsss.com CNAME .
@@ -3630,6 +3656,8 @@ perfectpitmaster.com CNAME .
 *.perfectpitmaster.com CNAME .
 perlyperlygi-jp.com CNAME .
 *.perlyperlygi-jp.com CNAME .
+personalinjurylawyerchicago.org CNAME .
+*.personalinjurylawyerchicago.org CNAME .
 petdentistry-jp.com CNAME .
 *.petdentistry-jp.com CNAME .
 petermarshall-jp.com CNAME .
@@ -3666,6 +3694,8 @@ plain-whatsapp.com CNAME .
 *.plain-whatsapp.com CNAME .
 planetmaison.com CNAME .
 *.planetmaison.com CNAME .
+planisterhosting.com CNAME .
+*.planisterhosting.com CNAME .
 platform.dfir-lab.ch CNAME .
 *.platform.dfir-lab.ch CNAME .
 play-googlese.app CNAME .
@@ -4670,6 +4700,8 @@ te1egram.lol CNAME .
 *.te1egram.lol CNAME .
 tea.vexexo.com CNAME .
 *.tea.vexexo.com CNAME .
+teamkuhner.com CNAME .
+*.teamkuhner.com CNAME .
 teamsfansshop-jp.com CNAME .
 *.teamsfansshop-jp.com CNAME .
 teamsmeeting.site CNAME .
@@ -5340,6 +5372,8 @@ ypnfeo.cc CNAME .
 *.ypnfeo.cc CNAME .
 ypro0asz.firebaseapp.com CNAME .
 *.ypro0asz.firebaseapp.com CNAME .
+ytrring.pro CNAME .
+*.ytrring.pro CNAME .
 yuce.xbsti.com CNAME .
 *.yuce.xbsti.com CNAME .
 yuf01.jp CNAME .
