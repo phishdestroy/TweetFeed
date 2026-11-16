@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2589
-; Updated: 2026-11-16T02:30:28Z
+; Entries: 2593
+; Updated: 2026-11-16T03:00:25Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794796228 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794798025 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1670,6 +1670,8 @@ desktop.webapi-whatsapp.com CNAME .
 *.desktop.webapi-whatsapp.com CNAME .
 detan2go.web.app CNAME .
 *.detan2go.web.app CNAME .
+dev.sbphototours.com CNAME .
+*.dev.sbphototours.com CNAME .
 devapi-whatsapp.com CNAME .
 *.devapi-whatsapp.com CNAME .
 devapp-whatsapp.com CNAME .
@@ -2440,6 +2442,8 @@ google.drive03.com CNAME .
 *.google.drive03.com CNAME .
 google.workspacedoc.com CNAME .
 *.google.workspacedoc.com CNAME .
+googlea.eu.cc CNAME .
+*.googlea.eu.cc CNAME .
 googlegemini-earlyaccess.com CNAME .
 *.googlegemini-earlyaccess.com CNAME .
 googlemeeeeet.live CNAME .
@@ -2544,6 +2548,8 @@ helensolution.info CNAME .
 *.helensolution.info CNAME .
 hello-world-fancy-mud-57ff.2111857176.workers.dev CNAME .
 *.hello-world-fancy-mud-57ff.2111857176.workers.dev CNAME .
+help-aws-login.zhcflow.com CNAME .
+*.help-aws-login.zhcflow.com CNAME .
 help.pactvow.com CNAME .
 *.help.pactvow.com CNAME .
 help.webapi-whatsapp.com CNAME .
@@ -5036,6 +5042,8 @@ xboxtelemetry-defender.cc CNAME .
 *.xboxtelemetry-defender.cc CNAME .
 xbxj1.top CNAME .
 *.xbxj1.top CNAME .
+xc.frenchconnection.com.br CNAME .
+*.xc.frenchconnection.com.br CNAME .
 xerox-whatsapp.com CNAME .
 *.xerox-whatsapp.com CNAME .
 xfinity-145t.square.site CNAME .

@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-16 02:45:25 (UTC)</th>
+        <th colspan=4>2026-11-16 03:00:26 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,10 +187,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 18 | 497 | 3271 | 43876 |
-| **:globe_with_meridians: Domains** | 10 | 338 | 2708 | 37667 |
-| **:triangular_flag_on_post: IPs** | 8 | 301 | 2385 | 8222 |
-| **:1234: SHA256** | 1 | 124 | 585 | 3326 |
+| **:link: URLs** | 22 | 501 | 3275 | 43880 |
+| **:globe_with_meridians: Domains** | 14 | 342 | 2712 | 37671 |
+| **:triangular_flag_on_post: IPs** | 13 | 306 | 2390 | 8227 |
+| **:1234: SHA256** | 2 | 125 | 586 | 3327 |
 | **:1234: MD5** | 0 | 50 | 151 | 2054 |
 
 </div>
@@ -204,10 +204,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 15 | 381 | 3800 | 30797 |
+| **#phishing** | 29 | 395 | 3814 | 30811 |
 | **#Kimsuky** | 0 | 0 | 32 | 13315 |
 | **#DPRK** | 0 | 0 | 18 | 11687 |
-| **#malware** | 17 | 285 | 1302 | 4498 |
+| **#malware** | 20 | 288 | 1305 | 4501 |
 | **#scam** | 2 | 20 | 44 | 2593 |
 | **#C2** | 0 | 49 | 192 | 2053 |
 | **#APT** | 0 | 34 | 85 | 1471 |
@@ -229,12 +229,12 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 15 |
-| **#2** | [romonlyht](https://x.com/romonlyht) | 14 |
+| **#1** | [romonlyht](https://x.com/romonlyht) | 25 |
+| **#2** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 15 |
 | **#3** | [skocherhan](https://x.com/skocherhan) | 4 |
-| **#4** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#5** | [chris_uk2026](https://x.com/chris_uk2026) | 2 |
-| **#6** | [-](https://x.com/-) | 0 |
+| **#4** | [masaomi346](https://x.com/masaomi346) | 3 |
+| **#5** | [PhishStats](https://x.com/PhishStats) | 2 |
+| **#6** | [chris_uk2026](https://x.com/chris_uk2026) | 2 |
 | **#7** | [-](https://x.com/-) | 0 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
