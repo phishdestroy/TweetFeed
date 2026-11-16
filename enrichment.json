@@ -1,5 +1,5 @@
 {
-  "count": 6141,
+  "count": 6209,
   "dead_tweets": {
     "2114565057338343930": {
       "attempts": 2,
@@ -101,6 +101,21 @@
       "tweet_id": "2114021415678832768",
       "type": "sha256",
       "value": "015d656140983c33965fef9b6893127e15da222d06a8b3ab216b70599c17ccd9"
+    },
+    "018dd859cbc0fe19c0b8055bb2aed481": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:51",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of a malicious LNK file with a Mongolian-language EU-related lure, part of a multi-tweet campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041659718565919",
+      "type": "md5",
+      "value": "018dd859cbc0fe19c0b8055bb2aed481"
     },
     "018eb6ba821f9e586e22fdcdbad7dc7de9c3aba0850c654402a14f9342f1c35f": {
       "confidence": 0.35,
@@ -205,6 +220,21 @@
       "type": "sha256",
       "value": "0329c3dcb71f6ed5eed1d17f1e945612aeba5d67cc80699d734a2df64bba1cdf"
     },
+    "0332688e9e6f9dab4160aa1548fd86a7": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:35",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of a benign decoy PDF (49th ASEAN Summit agenda) used in an LNK-based campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2122041589136826789",
+      "type": "md5",
+      "value": "0332688e9e6f9dab4160aa1548fd86a7"
+    },
     "03461464e27ec1ef067a3085399b2e2930b4c500f296e5b9385630ceae6b2e28": {
       "confidence": 0.7,
       "date": "2026-11-11 11:22:17",
@@ -252,6 +282,21 @@
       "tweet_id": "2114385282728378453",
       "type": "md5",
       "value": "03b0942b48585f29fe2e4f63140b2aab"
+    },
+    "03b7d8b8ef9fd80726b710d435a657e3": {
+      "confidence": 0.6,
+      "date": "2026-11-15 18:58:00",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Archive with a benign BugSplatHD.exe loader side-loading a malicious DLL that executes shellcode from a .dat file.",
+      "threat_type": "malware",
+      "tweet_id": "2122041445917880686",
+      "type": "md5",
+      "value": "03b7d8b8ef9fd80726b710d435a657e3"
     },
     "04395a955f57f772cfb4d0d6161bf085c48e6d55ed6fc7cbbf522867099957d7": {
       "confidence": 0.6,
@@ -396,6 +441,22 @@
       "tweet_id": "2115205774485966891",
       "type": "sha256",
       "value": "0835b744a4f60827529a3b4e92d02fccd28bd04ae7a16f0e0ec191a833532c13"
+    },
+    "08508c6cffa68f9f40f28a74333f8559d64aa67efb50b9ee05d25d13bed0877d": {
+      "confidence": 0.7,
+      "date": "2026-11-15 23:50:41",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as a Sumitomo Mitsui card app, distributed via a phishing site impersonating the brand.",
+      "threat_type": "malware",
+      "tweet_id": "2122115100714979634",
+      "type": "sha256",
+      "value": "08508c6cffa68f9f40f28a74333f8559d64aa67efb50b9ee05d25d13bed0877d"
     },
     "0874fd28183187a94e649269cc68866c0f71fd94e08e6083fd56792d1164632d": {
       "confidence": 0.6,
@@ -3402,6 +3463,20 @@
       "type": "url",
       "value": "http://104.207.93.111"
     },
+    "104.219.250.37": {
+      "confidence": 0.8,
+      "date": "2026-11-15 20:19:14",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site reported on lifeinsurancecoimbatore.com hosted in the US (Namecheap, AS22612).",
+      "threat_type": "phishing",
+      "tweet_id": "2122061888855167147",
+      "type": "ip",
+      "value": "104.219.250.37"
+    },
     "104.223.41.172": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -3885,36 +3960,6 @@
       "type": "url",
       "value": "http://107.174.181.40"
     },
-    "107.174.19.11": {
-      "confidence": 0.6,
-      "date": "2026-10-16 22:09:34",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": "ScreenConnect",
-      "suggested_tags": [
-        "malware",
-        "rat"
-      ],
-      "summary": "Malicious ZoomInstallerFull.js script downloading a ScreenConnect client MSI from a remote IP, enabling unauthorized remote access.",
-      "threat_type": "malware",
-      "tweet_id": "2111218017547817401",
-      "type": "ip",
-      "value": "107.174.19.11"
-    },
-    "107.174.19.11:443/bin/screenconnect.clientsetup.msi?e=access&y=guest": {
-      "confidence": 0.6,
-      "date": "2026-10-16 22:09:34",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": "ScreenConnect",
-      "suggested_tags": [
-        "malware",
-        "rat"
-      ],
-      "summary": "Malicious ZoomInstallerFull.js script downloading a ScreenConnect client MSI from a remote IP, enabling unauthorized remote access.",
-      "threat_type": "malware",
-      "tweet_id": "2111218017547817401",
-      "type": "url",
-      "value": "http://107.174.19.11:443/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
-    },
     "107.174.39.142": {
       "confidence": 0.9,
       "date": "2026-10-22 06:25:14",
@@ -4211,6 +4256,22 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "111.229.191.222"
+    },
+    "111.229.218.205": {
+      "confidence": 0.9,
+      "date": "2026-11-15 20:36:32",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Sliver C2 server IP addresses identified via Shodan, high confidence.",
+      "threat_type": "c2",
+      "tweet_id": "2122066239216357711",
+      "type": "url",
+      "value": "http://111.229.218.205"
     },
     "111.92.246.145": {
       "confidence": 0.55,
@@ -7160,6 +7221,21 @@
       "type": "ip",
       "value": "137.23.10.39"
     },
+    "137d8b79e5678d8438a8df0ad1d67fd2": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:51",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of a malicious LNK file with a Mongolian-language EU-related lure, part of a multi-tweet campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041659718565919",
+      "type": "md5",
+      "value": "137d8b79e5678d8438a8df0ad1d67fd2"
+    },
     "138.197.85.193": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -8841,20 +8917,6 @@
       "type": "ip",
       "value": "154.192.75.99"
     },
-    "154.198.163.77": {
-      "confidence": 0.85,
-      "date": "2026-10-16 21:52:45",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page impersonating the Brazilian Desenrola Brasil portal, hosted on a comercial.ws subdomain.",
-      "threat_type": "phishing",
-      "tweet_id": "2111213787235631441",
-      "type": "ip",
-      "value": "154.198.163.77"
-    },
     "154.198.52.10": {
       "confidence": 0.6,
       "date": "2026-11-13 13:58:29",
@@ -8927,6 +8989,22 @@
       "tweet_id": "2112106786064896324",
       "type": "url",
       "value": "http://154.222.28.41"
+    },
+    "154.36.168.196": {
+      "confidence": 0.9,
+      "date": "2026-11-15 20:36:32",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Sliver C2 server IP addresses identified via Shodan, high confidence.",
+      "threat_type": "c2",
+      "tweet_id": "2122066239216357711",
+      "type": "url",
+      "value": "http://154.36.168.196"
     },
     "154.36.188.133": {
       "confidence": 0.5,
@@ -9868,6 +9946,21 @@
       "tweet_id": "2119845581166457185",
       "type": "url",
       "value": "http://159.195.215.68"
+    },
+    "15aaac1daf169572a96c2572fa1d5104": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:54",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of a malicious LNK file themed as an energy infrastructure note on Tehran Province, part of a multi-tweet campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041669818425499",
+      "type": "md5",
+      "value": "15aaac1daf169572a96c2572fa1d5104"
     },
     "16.16.63.239": {
       "confidence": 0.6,
@@ -11284,6 +11377,22 @@
       "tweet_id": "2115801928198218034",
       "type": "url",
       "value": "http://172.239.109.247"
+    },
+    "172.81.61.139": {
+      "confidence": 0.9,
+      "date": "2026-11-15 20:36:32",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Sliver C2 server IP addresses identified via Shodan, high confidence.",
+      "threat_type": "c2",
+      "tweet_id": "2122066239216357711",
+      "type": "url",
+      "value": "http://172.81.61.139"
     },
     "172.82.64.48": {
       "confidence": 0.3,
@@ -12898,6 +13007,22 @@
       "type": "ip",
       "value": "189.105.68.190"
     },
+    "189.105.68.230": {
+      "confidence": 0.9,
+      "date": "2026-11-15 20:36:32",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Sliver C2 server IP addresses identified via Shodan, high confidence.",
+      "threat_type": "c2",
+      "tweet_id": "2122066239216357711",
+      "type": "url",
+      "value": "http://189.105.68.230"
+    },
     "189.12.226.77": {
       "confidence": 0.75,
       "date": "2026-10-21 16:40:05",
@@ -13216,6 +13341,22 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "192.253.209.93"
+    },
+    "192.253.228.163": {
+      "confidence": 0.7,
+      "date": "2026-11-15 18:38:37",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "IP linked to fake India e-Challan sites distributing a malicious Android APK, bypassing Play Protect warnings.",
+      "threat_type": "malware",
+      "tweet_id": "2122036566692684082",
+      "type": "url",
+      "value": "http://192.253.228.163"
     },
     "192.255.249.243": {
       "confidence": 0.5,
@@ -14259,6 +14400,21 @@
       "type": "md5",
       "value": "1a42f539f5c522ebf01371c025da2c71"
     },
+    "1a7820314a34909020947aafad14ec77": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:51",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of a malicious LNK file with a Mongolian-language EU-related lure, part of a multi-tweet campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041659718565919",
+      "type": "md5",
+      "value": "1a7820314a34909020947aafad14ec77"
+    },
     "1aa47ce02867f847227839b60d396ca96dac60372b0cd26b78b71a34473bb079": {
       "confidence": 0.4,
       "date": "2026-10-23 12:01:07",
@@ -14392,6 +14548,36 @@
       "tweet_id": "2119783105468715233",
       "type": "md5",
       "value": "1dfc9bd31fb20bcf4131351817cd3314"
+    },
+    "1drv.adessosnow.com": {
+      "confidence": 0.6,
+      "date": "2026-11-15 18:58:22",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Malicious ZIP archive hosted on a fake OneDrive-style domain with ASEAN Summit agenda lure, start of the delivery chain.",
+      "threat_type": "malware",
+      "tweet_id": "2122041534220537887",
+      "type": "domain",
+      "value": "1drv.adessosnow.com"
+    },
+    "1drv.adessosnow.com/download/draft-agenda-and-list-of-delegates-49th-asean-summit-bilateral-meeting-lao-philippines4": {
+      "confidence": 0.6,
+      "date": "2026-11-15 18:58:22",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Malicious ZIP archive hosted on a fake OneDrive-style domain with ASEAN Summit agenda lure, start of the delivery chain.",
+      "threat_type": "malware",
+      "tweet_id": "2122041534220537887",
+      "type": "url",
+      "value": "http://1drv.adessosnow.com/download/draft-agenda-and-list-of-delegates-49th-asean-summit-bilateral-meeting-lao-philippines4"
     },
     "1drv.ms/u/c/f400180846e79b3b/iqak_0buc3ijqbtg5elbfpyhaax9ukmd1jhlqgrzpv3gs5c?e=qsjwob": {
       "confidence": 0.65,
@@ -17763,6 +17949,21 @@
       "type": "sha256",
       "value": "29bf740f291858f01f7c0c915b5e7137eb29ef25da8b7870f017f0d5abdeac00"
     },
+    "2a1e75ae91d37161870ccadb27916f95": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:48",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of additional malicious LNK files themed as a Russia-Iran consultations memo, part of a campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041644115480921",
+      "type": "md5",
+      "value": "2a1e75ae91d37161870ccadb27916f95"
+    },
     "2a773196601437c7721f8ba78527d028658d19cdd4cec40bdd68993640b5e2ba": {
       "confidence": 0.4,
       "date": "2026-11-04 22:33:48",
@@ -18175,6 +18376,21 @@
       "tweet_id": "2118256775195717933",
       "type": "sha256",
       "value": "302d62816fc064d2cd19feea1a3d46c259762ccbfc64fa8be917d1165ef1dd47"
+    },
+    "30c62be8954504caabfd030a908b6799": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:48",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of additional malicious LNK files themed as a Russia-Iran consultations memo, part of a campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041644115480921",
+      "type": "md5",
+      "value": "30c62be8954504caabfd030a908b6799"
     },
     "31.128.39.24": {
       "confidence": 0.55,
@@ -27983,6 +28199,21 @@
       "type": "sha256",
       "value": "3ae1f3c24b2ccb11f882578ff1e6e415bdac1db8a8793be4241733ef0017ffa4"
     },
+    "3b154cef4ecd209c7c7986289cadfaeba7a939bd6c77a74fa099327983ad0bd5": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:35",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of a benign decoy PDF (49th ASEAN Summit agenda) used in an LNK-based campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2122041589136826789",
+      "type": "sha256",
+      "value": "3b154cef4ecd209c7c7986289cadfaeba7a939bd6c77a74fa099327983ad0bd5"
+    },
     "3b3318ee8c7ff6470237a95f263004fa4819fc31efc280b1fc3f3986ab451340": {
       "confidence": 0.4,
       "date": "2026-10-21 10:16:57",
@@ -28098,6 +28329,21 @@
       "tweet_id": "2112029478574780667",
       "type": "url",
       "value": "https://3cdffc93.fase-x.com/7a7e36d3"
+    },
+    "3dba86749e67a7d3b1c639eeee1080da": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:51",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of a malicious LNK file with a Mongolian-language EU-related lure, part of a multi-tweet campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041659718565919",
+      "type": "md5",
+      "value": "3dba86749e67a7d3b1c639eeee1080da"
     },
     "3df306ee35b8abd426d2231dd10c987aec8499b8339aff39725bc925eae20c48": {
       "confidence": 0.8,
@@ -28439,6 +28685,21 @@
       "tweet_id": "2119579864319889738",
       "type": "sha256",
       "value": "42074f21e41d540685a56123828416ea3c64dc9d52cd26a3504a0f32065de54e"
+    },
+    "42fd91f217aeaeef241a27962643d070": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:54",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of a malicious LNK file themed as an energy infrastructure note on Tehran Province, part of a multi-tweet campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041669818425499",
+      "type": "md5",
+      "value": "42fd91f217aeaeef241a27962643d070"
     },
     "43.108.120.121": {
       "confidence": 0.5,
@@ -28978,6 +29239,21 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "43.254.166.250"
+    },
+    "43a7078411a39ba9d798496104c448a8": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:51",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of a malicious LNK file with a Mongolian-language EU-related lure, part of a multi-tweet campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041659718565919",
+      "type": "md5",
+      "value": "43a7078411a39ba9d798496104c448a8"
     },
     "44.220.188.120": {
       "confidence": 0.8,
@@ -30140,6 +30416,20 @@
       "tweet_id": "2119534899258392627",
       "type": "url",
       "value": "http://46.29.166.104"
+    },
+    "46.30.215.76": {
+      "confidence": 0.8,
+      "date": "2026-11-15 20:19:27",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site reported on autosseba.be hosted in Denmark (ASN AS51468).",
+      "threat_type": "phishing",
+      "tweet_id": "2122061940457693515",
+      "type": "ip",
+      "value": "46.30.215.76"
     },
     "461f8ab06a9bd0a09ec335b81ac676e1b868c295592abe44edf5c5e1f693639e": {
       "confidence": 0.5,
@@ -31706,6 +31996,21 @@
       "type": "sha256",
       "value": "4ba47673daa8d72840581537f301c4fd42c0a75948695caa4cabc363f4774228"
     },
+    "4bb305b7acbdaaafcf932aa032ed5afc": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:54",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of a malicious LNK file themed as an energy infrastructure note on Tehran Province, part of a multi-tweet campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041669818425499",
+      "type": "md5",
+      "value": "4bb305b7acbdaaafcf932aa032ed5afc"
+    },
     "4be13f0b5666b5692dab383afcafbd248f906dcc9d5c206bb6e83678b0311ac5": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -33018,6 +33323,21 @@
       "type": "sha256",
       "value": "59a364ccc3aa269831ba8915abbb060a32de7ea27c74ef69b8c21331bb71f3ea"
     },
+    "59e4c117cc2dcbc26c842c364c8816d8": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:48",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of additional malicious LNK files themed as a Russia-Iran consultations memo, part of a campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041644115480921",
+      "type": "md5",
+      "value": "59e4c117cc2dcbc26c842c364c8816d8"
+    },
     "5a15f996dd4157ea7e88ed80d6a77dfcdd81f54305f4414fee99bd609d01f1b4": {
       "confidence": 0.6,
       "date": "2026-10-21 19:30:28",
@@ -33136,22 +33456,6 @@
       "type": "sha256",
       "value": "5bb41baf3b0f8491a80e913c3c328974f9de5840580e3f59dbf3521460e6453d"
     },
-    "5be88d5893fb9b4e854c18d311e299da36ef5b389546d53ada1f37802ef128c2": {
-      "confidence": 0.8,
-      "date": "2026-10-16 23:17:47",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as Amazon, distributed via a Japanese phishing site with a malicious APK sample.",
-      "threat_type": "malware",
-      "tweet_id": "2111235182514823471",
-      "type": "sha256",
-      "value": "5be88d5893fb9b4e854c18d311e299da36ef5b389546d53ada1f37802ef128c2"
-    },
     "5c31e863cf876705908401a5d80ccad343d8191251321afe74bac6b651a0a44c": {
       "confidence": 0.7,
       "date": "2026-10-23 05:58:06",
@@ -33213,21 +33517,6 @@
       "tweet_id": "2113342928957415879",
       "type": "sha256",
       "value": "5f4bf788c53ba55b9ed13ac1d71e636ed6d378c7d04ff1bd9d2ec52015cf36df"
-    },
-    "5kiwqdzvhip5yjx5u6ms2hsv3yozpslxocjhyf4cyimrg33fcb7devid.onion": {
-      "confidence": 0.5,
-      "date": "2026-10-16 21:57:51",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malicious Java JAR sample that communicates with a Tor .onion domain.",
-      "threat_type": "malware",
-      "tweet_id": "2111215067245011403",
-      "type": "domain",
-      "value": "5kiwqdzvhip5yjx5u6ms2hsv3yozpslxocjhyf4cyimrg33fcb7devid.onion"
     },
     "5today-diwalisales.icu": {
       "confidence": 0.75,
@@ -35578,6 +35867,36 @@
       "type": "sha256",
       "value": "7d6bb9676a513f3cd13795367686b82c6b2bdcb9c474118f2d49487f92f589ce"
     },
+    "7d833dc0bd6d4369a13df8855e40fc67": {
+      "confidence": 0.6,
+      "date": "2026-11-15 18:58:00",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Archive with a benign BugSplatHD.exe loader side-loading a malicious DLL that executes shellcode from a .dat file.",
+      "threat_type": "malware",
+      "tweet_id": "2122041445917880686",
+      "type": "md5",
+      "value": "7d833dc0bd6d4369a13df8855e40fc67"
+    },
+    "7e1949f5231b8901b42b05d92adaa518": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:54",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of a malicious LNK file themed as an energy infrastructure note on Tehran Province, part of a multi-tweet campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041669818425499",
+      "type": "md5",
+      "value": "7e1949f5231b8901b42b05d92adaa518"
+    },
     "7fcafe.wwvip88.site": {
       "confidence": 0.88,
       "date": "2026-11-06 15:05:31",
@@ -36998,6 +37317,23 @@
       "type": "ip",
       "value": "84.54.47.141"
     },
+    "8424e607d7da598ac295905a0a7b1f47": {
+      "confidence": 0.7,
+      "date": "2026-11-15 18:58:08",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": "PlugX",
+      "suggested_tags": [
+        "mustangpanda",
+        "apt",
+        "plugx",
+        "malware"
+      ],
+      "summary": "Mustang Panda campaign using a RAR archive on a Zoho WorkDrive lookalike, abusing Greenshot.exe for DLL side-loading.",
+      "threat_type": "malware",
+      "tweet_id": "2120658026663153700",
+      "type": "md5",
+      "value": "8424e607d7da598ac295905a0a7b1f47"
+    },
     "85.11.167.243": {
       "confidence": 0.85,
       "date": "2026-10-23 08:00:38",
@@ -38058,6 +38394,22 @@
       "tweet_id": "2115354875597115803",
       "type": "sha256",
       "value": "8f689b12b178ebf4a523ccecd600da8406abd1c9101542ed9fa7dd9dc667d13b"
+    },
+    "8fb93ba4948095b8a126e68d930cacc4759552078bb8b7cc7b62b600fc1a67a6": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "sha256",
+      "value": "8fb93ba4948095b8a126e68d930cacc4759552078bb8b7cc7b62b600fc1a67a6"
     },
     "8j536vj.cn": {
       "confidence": 0.7,
@@ -39203,6 +39555,21 @@
       "type": "ip",
       "value": "98.86.118.115"
     },
+    "98e71664f8321e4c064b8b688e08a83d": {
+      "confidence": 0.55,
+      "date": "2026-11-15 18:58:27",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of an archive extracted from the initial archive by a ScriptRunner PowerShell script in a malicious LNK.",
+      "threat_type": "malware",
+      "tweet_id": "2122041557947691119",
+      "type": "md5",
+      "value": "98e71664f8321e4c064b8b688e08a83d"
+    },
     "99.91.221.237": {
       "confidence": 0.6,
       "date": "2026-11-06 10:01:06",
@@ -39481,6 +39848,21 @@
       "tweet_id": "2112536952889016668",
       "type": "sha256",
       "value": "9dc8574843fdb8f0834bcf2c4d3f5b0c122368b925e0d3a5eec07b8f2d9e8db0"
+    },
+    "9e839e695fe17bf16fbdd579cf373dbe": {
+      "confidence": 0.6,
+      "date": "2026-11-15 18:58:00",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Archive with a benign BugSplatHD.exe loader side-loading a malicious DLL that executes shellcode from a .dat file.",
+      "threat_type": "malware",
+      "tweet_id": "2122041445917880686",
+      "type": "md5",
+      "value": "9e839e695fe17bf16fbdd579cf373dbe"
     },
     "9fb62ab9072f8b320c5b4170ac054def36effbc457f9560410ee1de16cc642aa": {
       "confidence": 0.6,
@@ -39836,6 +40218,21 @@
       "type": "sha256",
       "value": "a3c64998a58595b7a6c2d16db68a767a87c9f3c3eb89784870ce51667a09d15b"
     },
+    "a3ee8569777f81a2cbce304d3ebe499e": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:48",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of additional malicious LNK files themed as a Russia-Iran consultations memo, part of a campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041644115480921",
+      "type": "md5",
+      "value": "a3ee8569777f81a2cbce304d3ebe499e"
+    },
     "a44cad7e7d26a0f0284ceb2e9a10a964d9e7ab44ab74b22464eb2f836af3d90a": {
       "confidence": 0.4,
       "date": "2026-10-23 12:01:07",
@@ -39895,22 +40292,6 @@
       "tweet_id": "2112488698289799447",
       "type": "sha256",
       "value": "a5aaabe0dfe73e2a3f2071c150f4ddbbc5e53cebb6b67fb8425ac4b9038f5f99"
-    },
-    "a5d2fee1e407b2567ac886c9e2213c3c5fd631225b3a1cf30877eee818bd325f": {
-      "confidence": 0.7,
-      "date": "2026-10-16 21:52:56",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "Batch script stealing Roblox cookies and exfiltrating host details through a Telegram bot API.",
-      "threat_type": "malware",
-      "tweet_id": "2111213831322026472",
-      "type": "sha256",
-      "value": "a5d2fee1e407b2567ac886c9e2213c3c5fd631225b3a1cf30877eee818bd325f"
     },
     "a62c87a28f32b2a2965653f587cd3cfdcc42d13a59bc365261adc7cd342235cc": {
       "confidence": 0.8,
@@ -42072,34 +42453,6 @@
       "type": "url",
       "value": "https://annesophievieren.com/MbZaRrPZ/"
     },
-    "anqbsss.cn": {
-      "confidence": 0.9,
-      "date": "2026-10-17 00:09:09",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Eight .cn domains hosting Apple-impersonating phishing login pages at /Login/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2111248110081224749",
-      "type": "domain",
-      "value": "anqbsss.cn"
-    },
-    "anqbsss.cn/login": {
-      "confidence": 0.9,
-      "date": "2026-10-17 00:09:09",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Eight .cn domains hosting Apple-impersonating phishing login pages at /Login/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2111248110081224749",
-      "type": "url",
-      "value": "https://anqbsss.cn/Login/"
-    },
     "anthropic.rsvpconnect-events.com": {
       "confidence": 0.9,
       "date": "2026-10-28 13:30:23",
@@ -42249,6 +42602,51 @@
       "tweet_id": "2113705487405343051",
       "type": "domain",
       "value": "api.brandogdigital.org"
+    },
+    "api.certificate.rest": {
+      "confidence": 0.75,
+      "date": "2026-11-15 19:59:58",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Fake Google Meet page showing a bogus certificate error and delivering Windows ClickOnce and macOS AppleScript payloads; EXE currently unavailable.",
+      "threat_type": "malware",
+      "tweet_id": "2122057038394269974",
+      "type": "domain",
+      "value": "api.certificate.rest"
+    },
+    "api.certificate.rest/installer%20googlecert.scpt": {
+      "confidence": 0.75,
+      "date": "2026-11-15 19:59:58",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Fake Google Meet page showing a bogus certificate error and delivering Windows ClickOnce and macOS AppleScript payloads; EXE currently unavailable.",
+      "threat_type": "malware",
+      "tweet_id": "2122057038394269974",
+      "type": "url",
+      "value": "https://api.certificate.rest/Installer%20GoogleCert.scpt"
+    },
+    "api.certificate.rest/installer/certificateupdate.application": {
+      "confidence": 0.75,
+      "date": "2026-11-15 19:59:58",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Fake Google Meet page showing a bogus certificate error and delivering Windows ClickOnce and macOS AppleScript payloads; EXE currently unavailable.",
+      "threat_type": "malware",
+      "tweet_id": "2122057038394269974",
+      "type": "url",
+      "value": "https://api.certificate.rest/installer/CertificateUpdate.application"
     },
     "api.cerysoi.ink": {
       "confidence": 0.88,
@@ -42467,22 +42865,6 @@
       "tweet_id": "2114620544901583017",
       "type": "domain",
       "value": "api.newenterpr1se.lat"
-    },
-    "api.telegram.org/bot8570784604:aagrqrct-lfor9nrhhc8zrz99cqkidygj3w/sendmessage?chat_id=-1003836062940&text=roblox%20not%20found%0a%0acomputer%3a%20desktop-et51ajo%0auser%3a%20bruno%0a%0arobloxcookies.dat%20does%20not%20exist.%0aroblox%20may%20not%20be%20installed%20or%20user%20never%20logged%20in": {
-      "confidence": 0.7,
-      "date": "2026-10-16 21:52:56",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "Batch script stealing Roblox cookies and exfiltrating host details through a Telegram bot API.",
-      "threat_type": "malware",
-      "tweet_id": "2111213831322026472",
-      "type": "url",
-      "value": "https://api.telegram.org/bot8570784604:AAGrQrct-LFOr9nrhHC8zrZ99cqKIDYGj3w/sendMessage?chat_id=-1003836062940&text=ROBLOX%20NOT%20FOUND%0A%0AComputer%3A%20DESKTOP-ET51AJO%0AUser%3A%20Bruno%0A%0ARobloxCookies.dat%20does%20not%20exist.%0ARoblox%20may%20not%20be%20installed%20or%20user%20never%20logged%20in"
     },
     "api.telegram.org/bot8961178007:aagynwoahzkoywmi-aguesauqofaf9p1fg0/getupdates?offset=-20&timeout=1": {
       "confidence": 0.6,
@@ -45582,20 +45964,6 @@
       "type": "url",
       "value": "http://asdkjcn30r9.mygamesonline.org/setting.php"
     },
-    "asdkjcn30r9.mygamesonline.org/setting.php?aaaaaa=desktop-et51ajo&bbbbbb=bruno&cccccc=alpha": {
-      "confidence": 0.5,
-      "date": "2026-10-16 22:04:23",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Korean-named health checkup ZIP lure whose payload connects to a remote PHP endpoint and references an embedded PDF URL on a free host.",
-      "threat_type": "malware",
-      "tweet_id": "2111216711831810173",
-      "type": "url",
-      "value": "http://asdkjcn30r9.mygamesonline.org/setting.php?aaaaaa=DESKTOP-ET51AJO&bbbbbb=Bruno&cccccc=alpha"
-    },
     "ashland-energy.com": {
       "confidence": 0.8,
       "date": "2026-10-24 04:56:35",
@@ -45944,6 +46312,20 @@
       "tweet_id": "2115526217537298573",
       "type": "domain",
       "value": "authy-ledger.at"
+    },
+    "autosseba.be": {
+      "confidence": 0.8,
+      "date": "2026-11-15 20:19:27",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site reported on autosseba.be hosted in Denmark (ASN AS51468).",
+      "threat_type": "phishing",
+      "tweet_id": "2122061940457693515",
+      "type": "domain",
+      "value": "autosseba.be"
     },
     "avinfra.in": {
       "confidence": 0.9,
@@ -46356,6 +46738,21 @@
       "type": "sha256",
       "value": "b787551280f511c33c29286cd467dd0e352fa24260344409b0a2ab3b51afe7b8"
     },
+    "b791c416988d068a3e548a0f21cd3518": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:51",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of a malicious LNK file with a Mongolian-language EU-related lure, part of a multi-tweet campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041659718565919",
+      "type": "md5",
+      "value": "b791c416988d068a3e548a0f21cd3518"
+    },
     "b8038599839a7b01b6a36223ea0324f90d2d41b601bd672effc4160041297e20": {
       "confidence": 0.8,
       "date": "2026-10-27 23:54:22",
@@ -46453,21 +46850,6 @@
       "tweet_id": "2117956883139252716",
       "type": "sha256",
       "value": "b93b1bead17abdc21e7124b2bf10ea7df7e6df70013383d719417ca44a4a0425"
-    },
-    "b9472cc080b4fef1cbc38bad1f1981380a7d71fc74138c7f4c41f18d8e6dacb1": {
-      "confidence": 0.5,
-      "date": "2026-10-16 21:57:51",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malicious Java JAR sample that communicates with a Tor .onion domain.",
-      "threat_type": "malware",
-      "tweet_id": "2111215067245011403",
-      "type": "sha256",
-      "value": "b9472cc080b4fef1cbc38bad1f1981380a7d71fc74138c7f4c41f18d8e6dacb1"
     },
     "b97980c046ff56cd4393bc37bfea4db5": {
       "confidence": 0.8,
@@ -47563,34 +47945,6 @@
       "tweet_id": "2116429993446371366",
       "type": "domain",
       "value": "birch-nuiis-d9q37.xyz"
-    },
-    "bixsgrb.cn": {
-      "confidence": 0.9,
-      "date": "2026-10-17 00:09:09",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Eight .cn domains hosting Apple-impersonating phishing login pages at /Login/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2111248110081224749",
-      "type": "domain",
-      "value": "bixsgrb.cn"
-    },
-    "bixsgrb.cn/login": {
-      "confidence": 0.9,
-      "date": "2026-10-17 00:09:09",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Eight .cn domains hosting Apple-impersonating phishing login pages at /Login/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2111248110081224749",
-      "type": "url",
-      "value": "https://bixsgrb.cn/Login/"
     },
     "bjjmsjcfsb.com": {
       "confidence": 0.85,
@@ -49283,6 +49637,34 @@
       "type": "domain",
       "value": "brave-whatsapp.com"
     },
+    "breeze.gscahf.cn": {
+      "confidence": 0.85,
+      "date": "2026-11-15 23:22:54",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating ANA (All Nippon Airways) hosted on a Chinese domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2122108107308593485",
+      "type": "domain",
+      "value": "breeze.gscahf.cn"
+    },
+    "breeze.gscahf.cn/atlsfxfo": {
+      "confidence": 0.85,
+      "date": "2026-11-15 23:22:54",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating ANA (All Nippon Airways) hosted on a Chinese domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2122108107308593485",
+      "type": "url",
+      "value": "https://breeze.gscahf.cn/aTLSfxfo/"
+    },
     "bridge-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -50314,6 +50696,21 @@
       "type": "sha256",
       "value": "c25ce463779b6ec689c5a9f0cb24fb03dc2fa6f5e781997c5d2a2186d90646e4"
     },
+    "c2614f12739a63b612267f058cb3bc3e": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:48",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of additional malicious LNK files themed as a Russia-Iran consultations memo, part of a campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041644115480921",
+      "type": "md5",
+      "value": "c2614f12739a63b612267f058cb3bc3e"
+    },
     "c27ca16248e04f6535ae3e6d1670d740b3884f0fa64935ddfd39faf712f4175d": {
       "confidence": 0.8,
       "date": "2026-11-03 17:11:10",
@@ -50377,22 +50774,6 @@
       "type": "sha256",
       "value": "c2fe5cd2d1dd27e8a670d245f4640e4981d65dfdfddaa88a0628e7c98c1649a6"
     },
-    "c33a46f5b19906972345745c4bc24562469b746804ceedee8dd2b3561431dbc9": {
-      "confidence": 0.8,
-      "date": "2026-10-16 23:39:48",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax service, distributed via a phishing site and a malicious APK.",
-      "threat_type": "malware",
-      "tweet_id": "2111240726738821316",
-      "type": "sha256",
-      "value": "c33a46f5b19906972345745c4bc24562469b746804ceedee8dd2b3561431dbc9"
-    },
     "c3424b5b968d07d979e9b3cb46cc7c42718bd4e96fbc8e77e051264d67faf625": {
       "confidence": 0.5,
       "date": "2026-10-28 10:17:54",
@@ -50437,6 +50818,21 @@
       "tweet_id": "2117743021223747762",
       "type": "sha256",
       "value": "c4030c746fbf00752483a4a562eeed6e298eedbd766e46b12db277a54429ea18"
+    },
+    "c42f9bbee6ab8310704c82376772ab227b05c239e422bd07894ea050d29a68ab": {
+      "confidence": 0.55,
+      "date": "2026-11-15 18:58:27",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of an archive extracted from the initial archive by a ScriptRunner PowerShell script in a malicious LNK.",
+      "threat_type": "malware",
+      "tweet_id": "2122041557947691119",
+      "type": "sha256",
+      "value": "c42f9bbee6ab8310704c82376772ab227b05c239e422bd07894ea050d29a68ab"
     },
     "c438b9a3bb67e2c10eff0d01513422dc17dce7c5508303a680e46f3dcec886ef": {
       "confidence": 0.9,
@@ -50637,6 +51033,21 @@
       "tweet_id": "2118605355949117947",
       "type": "md5",
       "value": "ca3e2e824c48017fc81b0a5614e1453e"
+    },
+    "ca9656e50f0e5d1c592eace09435872c": {
+      "confidence": 0.6,
+      "date": "2026-11-15 18:58:24",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Malicious LNK file abusing ScriptRunner.exe, themed as an ASEAN Summit agenda; part of a campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041545482256608",
+      "type": "md5",
+      "value": "ca9656e50f0e5d1c592eace09435872c"
     },
     "ca9a5a5b5c7e12abf723f61db77ac54bf0f477db1f60bbc527157e62f94f637d": {
       "confidence": 0.9,
@@ -51628,6 +52039,21 @@
       "tweet_id": "2113503087054799198",
       "type": "url",
       "value": "https://certificazi.one/galicia-personas/"
+    },
+    "cf4e460b9bc4654512c9f53d7c19b29f": {
+      "confidence": 0.6,
+      "date": "2026-11-15 18:58:22",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Malicious ZIP archive hosted on a fake OneDrive-style domain with ASEAN Summit agenda lure, start of the delivery chain.",
+      "threat_type": "malware",
+      "tweet_id": "2122041534220537887",
+      "type": "md5",
+      "value": "cf4e460b9bc4654512c9f53d7c19b29f"
     },
     "cf4f6617c22c00b230c6e9221163c26e1a8ac70e8dec5d0a71095afb992d42c5": {
       "confidence": 0.7,
@@ -54351,6 +54777,21 @@
       "type": "sha256",
       "value": "dd02e2d0d5f18d120933621a82401da79eb62c2009fda554460581ffee20a8de"
     },
+    "dd82199fe9a36850aaaa6bf28293380a": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:54",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of a malicious LNK file themed as an energy infrastructure note on Tehran Province, part of a multi-tweet campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041669818425499",
+      "type": "md5",
+      "value": "dd82199fe9a36850aaaa6bf28293380a"
+    },
     "dde505f27b7a245044670679e49bab78c4b2629bcb56f265a0d79590327edcab": {
       "confidence": 0.55,
       "date": "2026-11-03 11:29:36",
@@ -54517,20 +54958,6 @@
       "tweet_id": "2118450511234150864",
       "type": "domain",
       "value": "dealdiwali.shop"
-    },
-    "dechert.myssologin.com": {
-      "confidence": 0.65,
-      "date": "2026-10-16 20:01:26",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "UNC6671 infrastructure update: two new myssologin.com hostnames apparently impersonating law firms Stinson and Dechert.",
-      "threat_type": "phishing",
-      "tweet_id": "2111185771000406305",
-      "type": "domain",
-      "value": "dechert.myssologin.com"
     },
     "decode-whatsapp.com": {
       "confidence": 0.65,
@@ -56842,34 +57269,6 @@
       "type": "url",
       "value": "https://duo-you.com/logininfo"
     },
-    "dzwwftf.cn": {
-      "confidence": 0.9,
-      "date": "2026-10-17 00:09:09",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Eight .cn domains hosting Apple-impersonating phishing login pages at /Login/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2111248110081224749",
-      "type": "domain",
-      "value": "dzwwftf.cn"
-    },
-    "dzwwftf.cn/login": {
-      "confidence": 0.9,
-      "date": "2026-10-17 00:09:09",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Eight .cn domains hosting Apple-impersonating phishing login pages at /Login/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2111248110081224749",
-      "type": "url",
-      "value": "https://dzwwftf.cn/Login/"
-    },
     "e-challan.download": {
       "confidence": 0.8,
       "date": "2026-10-24 06:50:58",
@@ -56959,21 +57358,6 @@
       "tweet_id": "2120519605449904136",
       "type": "sha256",
       "value": "e010d8471b3a836670625ecefcb0a18a743edbe795783d0fdb8fa8ec0ce515f1"
-    },
-    "e050ddccbdac97dfc8eb41760a76b1ae7f0c9e22a44034304462ea20c3ed51f5": {
-      "confidence": 0.6,
-      "date": "2026-10-16 22:09:34",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": "ScreenConnect",
-      "suggested_tags": [
-        "malware",
-        "rat"
-      ],
-      "summary": "Malicious ZoomInstallerFull.js script downloading a ScreenConnect client MSI from a remote IP, enabling unauthorized remote access.",
-      "threat_type": "malware",
-      "tweet_id": "2111218017547817401",
-      "type": "sha256",
-      "value": "e050ddccbdac97dfc8eb41760a76b1ae7f0c9e22a44034304462ea20c3ed51f5"
     },
     "e118a4e9d48fcf7af31fa73e2b805ab1c8f5005b11b19a95ad68e4957df1a0b8": {
       "confidence": 0.4,
@@ -57083,6 +57467,21 @@
       "type": "md5",
       "value": "e385b876ea7c56610564c5edaf3b034e"
     },
+    "e38a45e4a8079a21e2e51c45833add4d": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:48",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of additional malicious LNK files themed as a Russia-Iran consultations memo, part of a campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041644115480921",
+      "type": "md5",
+      "value": "e38a45e4a8079a21e2e51c45833add4d"
+    },
     "e427ed276ea311eb72b511f710b8d0bb": {
       "confidence": 0.85,
       "date": "2026-10-19 12:08:03",
@@ -57143,6 +57542,23 @@
       "tweet_id": "2112455783023595713",
       "type": "sha256",
       "value": "e478de33724ef288215d8f238e52846b5da173574b48825dcdc2ac2627e44535"
+    },
+    "e47f8a304364122de4978ba4fcc9952d": {
+      "confidence": 0.7,
+      "date": "2026-11-15 18:58:08",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": "PlugX",
+      "suggested_tags": [
+        "mustangpanda",
+        "apt",
+        "plugx",
+        "malware"
+      ],
+      "summary": "Mustang Panda campaign using a RAR archive on a Zoho WorkDrive lookalike, abusing Greenshot.exe for DLL side-loading.",
+      "threat_type": "malware",
+      "tweet_id": "2120658026663153700",
+      "type": "md5",
+      "value": "e47f8a304364122de4978ba4fcc9952d"
     },
     "e505d4ffa21cf494a5dc2d7c8f4f1236": {
       "confidence": 0.85,
@@ -57507,6 +57923,21 @@
       "type": "domain",
       "value": "eaucool.com"
     },
+    "eb760bf0ffb0805eef524267a635788265f5d3f1d0062b23999c67ff7fa267f9": {
+      "confidence": 0.6,
+      "date": "2026-11-15 18:58:24",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Malicious LNK file abusing ScriptRunner.exe, themed as an ASEAN Summit agenda; part of a campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041545482256608",
+      "type": "sha256",
+      "value": "eb760bf0ffb0805eef524267a635788265f5d3f1d0062b23999c67ff7fa267f9"
+    },
     "ebae9qsf.s3.us-east-1.amazonaws.com": {
       "confidence": 0.85,
       "date": "2026-11-15 04:40:12",
@@ -57773,6 +58204,54 @@
       "type": "domain",
       "value": "echalla.xyz"
     },
+    "echallaa.cam": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echallaa.cam"
+    },
+    "echallae.shop": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echallae.shop"
+    },
+    "echallal.cam": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echallal.cam"
+    },
     "echallan.party": {
       "confidence": 0.8,
       "date": "2026-10-21 19:01:12",
@@ -57806,6 +58285,230 @@
       "tweet_id": "2112982551166120281",
       "type": "url",
       "value": "http://echallan.party/install"
+    },
+    "echallao.icu": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echallao.icu"
+    },
+    "echallax.shop": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echallax.shop"
+    },
+    "echallin.cam": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echallin.cam"
+    },
+    "echallin.click": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echallin.click"
+    },
+    "echallin.cyou": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echallin.cyou"
+    },
+    "echallin.shop": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echallin.shop"
+    },
+    "echallin.xyz": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echallin.xyz"
+    },
+    "echallln.bar": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echallln.bar"
+    },
+    "echallln.cfd": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echallln.cfd"
+    },
+    "echalln.cam": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echalln.cam"
+    },
+    "echalln.cyou": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echalln.cyou"
+    },
+    "echalln.icu": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echalln.icu"
+    },
+    "echalln.top": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echalln.top"
+    },
+    "echallna.icu": {
+      "confidence": 0.8,
+      "date": "2026-11-15 18:36:31",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seventeen fake e-Challan sites impersonating India's Road Transport portal distributing the same Android APK via /d.php.",
+      "threat_type": "malware",
+      "tweet_id": "2122036035454750894",
+      "type": "domain",
+      "value": "echallna.icu"
     },
     "ecoformacao.com": {
       "confidence": 0.85,
@@ -57963,20 +58666,6 @@
       "tweet_id": "2119429133730295987",
       "type": "sha256",
       "value": "ee346d1b288a620b6be253f8158deff3ff5ab44105c604eb14d7a7519139a9c9"
-    },
-    "ee39f091a23c746763ff44a273d11307abe5ca531f363b5621dfaa695f39a37b": {
-      "confidence": 0.5,
-      "date": "2026-10-16 22:04:23",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Korean-named health checkup ZIP lure whose payload connects to a remote PHP endpoint and references an embedded PDF URL on a free host.",
-      "threat_type": "malware",
-      "tweet_id": "2111216711831810173",
-      "type": "sha256",
-      "value": "ee39f091a23c746763ff44a273d11307abe5ca531f363b5621dfaa695f39a37b"
     },
     "ee3e768983ac1090ee49278575dabea12723527ab9442e7b603ad9b2d7d8f74e": {
       "confidence": 0.5,
@@ -58816,6 +59505,21 @@
       "type": "sha256",
       "value": "f317c0c816f267a1fc60ba45dfbb9f57443957605cb7a5b0cb52f5c02e7765fc"
     },
+    "f34e30934adb81667ebc1dc33776f302": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:51",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of a malicious LNK file with a Mongolian-language EU-related lure, part of a multi-tweet campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041659718565919",
+      "type": "md5",
+      "value": "f34e30934adb81667ebc1dc33776f302"
+    },
     "f452b1a06c86c4ffa7ae32359cd2c03e58f6f20c7f892c4819c85836085804ae": {
       "confidence": 0.4,
       "date": "2026-10-26 18:18:40",
@@ -59169,6 +59873,21 @@
       "type": "sha256",
       "value": "f9f8bb03427562dc0948d90c0324465ef9ba2d5bc63317ae650b10422bc9e0b4"
     },
+    "fa107167ff9303c06c8c7c518a7a1923": {
+      "confidence": 0.5,
+      "date": "2026-11-15 18:58:54",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "apt"
+      ],
+      "summary": "Hashes of a malicious LNK file themed as an energy infrastructure note on Tehran Province, part of a multi-tweet campaign thread.",
+      "threat_type": "malware",
+      "tweet_id": "2122041669818425499",
+      "type": "md5",
+      "value": "fa107167ff9303c06c8c7c518a7a1923"
+    },
     "fa8578201bc4633d696071062144c8002cdd153b70cc63256243c5f95101c4bf": {
       "confidence": 0.35,
       "date": "2026-11-11 20:51:08",
@@ -59197,6 +59916,150 @@
       "tweet_id": "2113964013755179333",
       "type": "domain",
       "value": "facebook.recovery.jisandev.com"
+    },
+    "faceebook-ai.com": {
+      "confidence": 0.85,
+      "date": "2026-11-15 18:14:47",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake Facebook AI trading investment scam collecting names, phones and emails, claiming high profits with a minimum \u20ac180 deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2122030566438580561",
+      "type": "domain",
+      "value": "faceebook-ai.com"
+    },
+    "faceebook-ai.com/app.js": {
+      "confidence": 0.85,
+      "date": "2026-11-15 18:14:47",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake Facebook AI trading investment scam collecting names, phones and emails, claiming high profits with a minimum \u20ac180 deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2122030566438580561",
+      "type": "url",
+      "value": "http://faceebook-ai.com/app.js"
+    },
+    "faceebook-ai.com/contact.js": {
+      "confidence": 0.85,
+      "date": "2026-11-15 18:14:47",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake Facebook AI trading investment scam collecting names, phones and emails, claiming high profits with a minimum \u20ac180 deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2122030566438580561",
+      "type": "url",
+      "value": "http://faceebook-ai.com/contact.js"
+    },
+    "faceebook-ai.com/mail.php": {
+      "confidence": 0.85,
+      "date": "2026-11-15 18:14:47",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake Facebook AI trading investment scam collecting names, phones and emails, claiming high profits with a minimum \u20ac180 deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2122030566438580561",
+      "type": "url",
+      "value": "http://faceebook-ai.com/mail.php"
+    },
+    "faceebook-ai.com/mail.php?action=csrf": {
+      "confidence": 0.85,
+      "date": "2026-11-15 18:14:47",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake Facebook AI trading investment scam collecting names, phones and emails, claiming high profits with a minimum \u20ac180 deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2122030566438580561",
+      "type": "url",
+      "value": "http://faceebook-ai.com/mail.php?action=csrf"
+    },
+    "faceebook-ai.com/posthog.js": {
+      "confidence": 0.85,
+      "date": "2026-11-15 18:14:47",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake Facebook AI trading investment scam collecting names, phones and emails, claiming high profits with a minimum \u20ac180 deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2122030566438580561",
+      "type": "url",
+      "value": "http://faceebook-ai.com/posthog.js"
+    },
+    "faceebook-ai.com/taboola.js": {
+      "confidence": 0.85,
+      "date": "2026-11-15 18:14:47",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake Facebook AI trading investment scam collecting names, phones and emails, claiming high profits with a minimum \u20ac180 deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2122030566438580561",
+      "type": "url",
+      "value": "http://faceebook-ai.com/taboola.js"
+    },
+    "faceebook-ai.com/thank-you.php": {
+      "confidence": 0.85,
+      "date": "2026-11-15 18:14:47",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake Facebook AI trading investment scam collecting names, phones and emails, claiming high profits with a minimum \u20ac180 deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2122030566438580561",
+      "type": "url",
+      "value": "http://faceebook-ai.com/thank-you.php"
+    },
+    "faceebook-ai.com/tracking.js": {
+      "confidence": 0.85,
+      "date": "2026-11-15 18:14:47",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "cryptoscam",
+        "scam",
+        "phishing"
+      ],
+      "summary": "Fake Facebook AI trading investment scam collecting names, phones and emails, claiming high profits with a minimum \u20ac180 deposit.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2122030566438580561",
+      "type": "url",
+      "value": "http://faceebook-ai.com/tracking.js"
     },
     "fadeabd9497af31e13c24c6db329cc5f8ab09e6aac0d5abf0cd2266f29815c8f": {
       "confidence": 0.75,
@@ -61228,34 +62091,6 @@
       "type": "domain",
       "value": "flpoised.net"
     },
-    "fmcoyko.cn": {
-      "confidence": 0.9,
-      "date": "2026-10-17 00:09:09",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Eight .cn domains hosting Apple-impersonating phishing login pages at /Login/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2111248110081224749",
-      "type": "domain",
-      "value": "fmcoyko.cn"
-    },
-    "fmcoyko.cn/login": {
-      "confidence": 0.9,
-      "date": "2026-10-17 00:09:09",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Eight .cn domains hosting Apple-impersonating phishing login pages at /Login/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2111248110081224749",
-      "type": "url",
-      "value": "https://fmcoyko.cn/Login/"
-    },
     "format-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -61707,6 +62542,150 @@
       "type": "domain",
       "value": "g.fetc-twqgov.com"
     },
+    "g.meet.e2qs0.com": {
+      "confidence": 0.8,
+      "date": "2026-11-15 20:30:29",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site using ClickFix-style social engineering, prompting victims to run terminal commands; payload execution unconfirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2122064716130599348",
+      "type": "domain",
+      "value": "g.meet.e2qs0.com"
+    },
+    "g.meet.e2qs0.com/1.mp4": {
+      "confidence": 0.8,
+      "date": "2026-11-15 20:30:29",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site using ClickFix-style social engineering, prompting victims to run terminal commands; payload execution unconfirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2122064716130599348",
+      "type": "url",
+      "value": "https://g.meet.e2qs0.com/1.mp4"
+    },
+    "g.meet.e2qs0.com/app.js": {
+      "confidence": 0.8,
+      "date": "2026-11-15 20:30:29",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site using ClickFix-style social engineering, prompting victims to run terminal commands; payload execution unconfirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2122064716130599348",
+      "type": "url",
+      "value": "https://g.meet.e2qs0.com/app.js"
+    },
+    "g.meet.e2qs0.com/events.php": {
+      "confidence": 0.8,
+      "date": "2026-11-15 20:30:29",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site using ClickFix-style social engineering, prompting victims to run terminal commands; payload execution unconfirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2122064716130599348",
+      "type": "url",
+      "value": "https://g.meet.e2qs0.com/events.php"
+    },
+    "g.meet.e2qs0.com/internal/bot.php": {
+      "confidence": 0.8,
+      "date": "2026-11-15 20:30:29",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site using ClickFix-style social engineering, prompting victims to run terminal commands; payload execution unconfirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2122064716130599348",
+      "type": "url",
+      "value": "https://g.meet.e2qs0.com/internal/bot.php"
+    },
+    "g.meet.e2qs0.com/internal/stats.php": {
+      "confidence": 0.8,
+      "date": "2026-11-15 20:30:29",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site using ClickFix-style social engineering, prompting victims to run terminal commands; payload execution unconfirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2122064716130599348",
+      "type": "url",
+      "value": "https://g.meet.e2qs0.com/internal/stats.php"
+    },
+    "g.meet.e2qs0.com/room/rea-dfsj-ema": {
+      "confidence": 0.8,
+      "date": "2026-11-15 20:30:29",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site using ClickFix-style social engineering, prompting victims to run terminal commands; payload execution unconfirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2122064716130599348",
+      "type": "url",
+      "value": "https://g.meet.e2qs0.com/room/rea-dfsj-ema"
+    },
+    "g.meet.e2qs0.com/signal.php": {
+      "confidence": 0.8,
+      "date": "2026-11-15 20:30:29",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site using ClickFix-style social engineering, prompting victims to run terminal commands; payload execution unconfirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2122064716130599348",
+      "type": "url",
+      "value": "https://g.meet.e2qs0.com/signal.php"
+    },
+    "g.meet.e2qs0.com/track.php": {
+      "confidence": 0.8,
+      "date": "2026-11-15 20:30:29",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "phishing",
+        "fakecaptcha"
+      ],
+      "summary": "Fake Google Meet site using ClickFix-style social engineering, prompting victims to run terminal commands; payload execution unconfirmed.",
+      "threat_type": "phishing",
+      "tweet_id": "2122064716130599348",
+      "type": "url",
+      "value": "https://g.meet.e2qs0.com/track.php"
+    },
     "g2-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -61877,34 +62856,6 @@
       "tweet_id": "2112002920686518471",
       "type": "url",
       "value": "https://gakik.cn/?pkrynnjy"
-    },
-    "gbjeifr.cn": {
-      "confidence": 0.9,
-      "date": "2026-10-17 00:09:09",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Eight .cn domains hosting Apple-impersonating phishing login pages at /Login/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2111248110081224749",
-      "type": "domain",
-      "value": "gbjeifr.cn"
-    },
-    "gbjeifr.cn/login": {
-      "confidence": 0.9,
-      "date": "2026-10-17 00:09:09",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Eight .cn domains hosting Apple-impersonating phishing login pages at /Login/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2111248110081224749",
-      "type": "url",
-      "value": "https://gbjeifr.cn/Login/"
     },
     "geils.eu.cc": {
       "confidence": 0.75,
@@ -63337,20 +64288,6 @@
       "type": "domain",
       "value": "happydiwali.tech"
     },
-    "harborstonegroup.shop": {
-      "confidence": 0.8,
-      "date": "2026-10-16 21:58:08",
-      "enriched_at": "2026-11-13T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Refills offer lure linking to unrelated domain harborstonegroup.shop.",
-      "threat_type": "phishing",
-      "tweet_id": "2111215138552574004",
-      "type": "domain",
-      "value": "harborstonegroup.shop"
-    },
     "havelbeenpwned.net": {
       "confidence": 0.7,
       "date": "2026-10-20 13:59:03",
@@ -63646,34 +64583,6 @@
       "tweet_id": "2112326062575333635",
       "type": "domain",
       "value": "hfgxsc.cn"
-    },
-    "hfpzuia.cn": {
-      "confidence": 0.9,
-      "date": "2026-10-17 00:09:09",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Eight .cn domains hosting Apple-impersonating phishing login pages at /Login/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2111248110081224749",
-      "type": "domain",
-      "value": "hfpzuia.cn"
-    },
-    "hfpzuia.cn/login": {
-      "confidence": 0.9,
-      "date": "2026-10-17 00:09:09",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Eight .cn domains hosting Apple-impersonating phishing login pages at /Login/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2111248110081224749",
-      "type": "url",
-      "value": "https://hfpzuia.cn/Login/"
     },
     "hhevzhgcokx6xlzh4o4exuo2kryy6ectpb7trm5ut2g3u4trskptv7ad.onion": {
       "confidence": 0.85,
@@ -64422,34 +65331,6 @@
       "type": "domain",
       "value": "hyipbird.com"
     },
-    "iasteun.cn": {
-      "confidence": 0.9,
-      "date": "2026-10-17 00:09:09",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Eight .cn domains hosting Apple-impersonating phishing login pages at /Login/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2111248110081224749",
-      "type": "domain",
-      "value": "iasteun.cn"
-    },
-    "iasteun.cn/login": {
-      "confidence": 0.9,
-      "date": "2026-10-17 00:09:09",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Eight .cn domains hosting Apple-impersonating phishing login pages at /Login/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2111248110081224749",
-      "type": "url",
-      "value": "https://iasteun.cn/Login/"
-    },
     "icgsxf.com": {
       "confidence": 0.8,
       "date": "2026-11-10 05:37:27",
@@ -64826,22 +65707,6 @@
       "tweet_id": "2121131525156827291",
       "type": "url",
       "value": "https://ii-sen.ir/nv/payload_113212.png"
-    },
-    "illustrationi-jp.com": {
-      "confidence": 0.75,
-      "date": "2026-10-16 23:01:04",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Phishing site impersonating Amazon Japan that distributes Android malware.",
-      "threat_type": "phishing",
-      "tweet_id": "2111230976244556247",
-      "type": "domain",
-      "value": "illustrationi-jp.com"
     },
     "im-quirky.com": {
       "confidence": 0.65,
@@ -65426,34 +66291,6 @@
       "tweet_id": "2120789013233570160",
       "type": "domain",
       "value": "itau-unibanco.sbs"
-    },
-    "iugbkbg.cn": {
-      "confidence": 0.9,
-      "date": "2026-10-17 00:09:09",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Eight .cn domains hosting Apple-impersonating phishing login pages at /Login/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2111248110081224749",
-      "type": "domain",
-      "value": "iugbkbg.cn"
-    },
-    "iugbkbg.cn/login": {
-      "confidence": 0.9,
-      "date": "2026-10-17 00:09:09",
-      "enriched_at": "2026-10-17T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Eight .cn domains hosting Apple-impersonating phishing login pages at /Login/ paths.",
-      "threat_type": "phishing",
-      "tweet_id": "2111248110081224749",
-      "type": "url",
-      "value": "https://iugbkbg.cn/Login/"
     },
     "ivory-whatsapp.com": {
       "confidence": 0.65,
@@ -67000,6 +67837,51 @@
       "type": "domain",
       "value": "legacy-whatsapp.com"
     },
+    "legendsofvelora.cc": {
+      "confidence": 0.75,
+      "date": "2026-11-15 19:59:58",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Fake Google Meet page showing a bogus certificate error and delivering Windows ClickOnce and macOS AppleScript payloads; EXE currently unavailable.",
+      "threat_type": "malware",
+      "tweet_id": "2122057038394269974",
+      "type": "domain",
+      "value": "legendsofvelora.cc"
+    },
+    "legendsofvelora.cc/installer/application%20files/velora_1_0_0_212/velora.dll.manifest": {
+      "confidence": 0.75,
+      "date": "2026-11-15 19:59:58",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Fake Google Meet page showing a bogus certificate error and delivering Windows ClickOnce and macOS AppleScript payloads; EXE currently unavailable.",
+      "threat_type": "malware",
+      "tweet_id": "2122057038394269974",
+      "type": "url",
+      "value": "https://legendsofvelora.cc/installer/Application%20Files/Velora_1_0_0_212/Velora.dll.manifest"
+    },
+    "legendsofvelora.cc/installer/velora.application": {
+      "confidence": 0.75,
+      "date": "2026-11-15 19:59:58",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Fake Google Meet page showing a bogus certificate error and delivering Windows ClickOnce and macOS AppleScript payloads; EXE currently unavailable.",
+      "threat_type": "malware",
+      "tweet_id": "2122057038394269974",
+      "type": "url",
+      "value": "https://legendsofvelora.cc/installer/Velora.application"
+    },
     "lehd01.hkg.bcebos.com": {
       "confidence": 0.3,
       "date": "2026-11-02 17:12:49",
@@ -67027,6 +67909,22 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "lemon-whatsapp.com"
+    },
+    "lemonsqueeze-jp.com": {
+      "confidence": 0.7,
+      "date": "2026-11-15 23:50:41",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as a Sumitomo Mitsui card app, distributed via a phishing site impersonating the brand.",
+      "threat_type": "malware",
+      "tweet_id": "2122115100714979634",
+      "type": "domain",
+      "value": "lemonsqueeze-jp.com"
     },
     "lestvnas.icu": {
       "confidence": 0.6,
@@ -67143,6 +68041,20 @@
       "tweet_id": "2112991811169841325",
       "type": "url",
       "value": "https://lhdn.tos-cn-hongkong.volces.com/MyInvois_e-Invoice_INV57872_LHDN_Validated.zip"
+    },
+    "lifeinsurancecoimbatore.com": {
+      "confidence": 0.8,
+      "date": "2026-11-15 20:19:14",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site reported on lifeinsurancecoimbatore.com hosted in the US (Namecheap, AS22612).",
+      "threat_type": "phishing",
+      "tweet_id": "2122061888855167147",
+      "type": "domain",
+      "value": "lifeinsurancecoimbatore.com"
     },
     "lifemanagement-jp.com": {
       "confidence": 0.85,
@@ -68241,22 +69153,6 @@
       "tweet_id": "2112583368479318236",
       "type": "domain",
       "value": "mailnode-whatsapp.com"
-    },
-    "mamatambiensr-jp.com": {
-      "confidence": 0.8,
-      "date": "2026-10-16 23:39:48",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware disguised as the Japanese e-Tax service, distributed via a phishing site and a malicious APK.",
-      "threat_type": "malware",
-      "tweet_id": "2111240726738821316",
-      "type": "domain",
-      "value": "mamatambiensr-jp.com"
     },
     "manw-2ansn-smanqjk.xo.je": {
       "confidence": 0.5,
@@ -72415,34 +73311,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "pool-whatsapp.com"
-    },
-    "portal-desenrolabrasil.comercial.ws": {
-      "confidence": 0.85,
-      "date": "2026-10-16 21:52:45",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page impersonating the Brazilian Desenrola Brasil portal, hosted on a comercial.ws subdomain.",
-      "threat_type": "phishing",
-      "tweet_id": "2111213787235631441",
-      "type": "domain",
-      "value": "portal-desenrolabrasil.comercial.ws"
-    },
-    "portal-desenrolabrasil.comercial.ws/pt_br/home.html": {
-      "confidence": 0.85,
-      "date": "2026-10-16 21:52:45",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page impersonating the Brazilian Desenrola Brasil portal, hosted on a comercial.ws subdomain.",
-      "threat_type": "phishing",
-      "tweet_id": "2111213787235631441",
-      "type": "url",
-      "value": "https://portal-desenrolabrasil.comercial.ws/pt_br/home.html"
     },
     "portal.stpmex.br.com": {
       "confidence": 0.85,
@@ -76677,6 +77545,126 @@
       "type": "domain",
       "value": "setweb-whatsapp.com"
     },
+    "sever.cx": {
+      "confidence": 0.7,
+      "date": "2026-11-15 20:43:52",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer"
+      ],
+      "summary": "SeverVault marketplace advertising millions of infostealer logs and over 1 billion compromised accounts, with clearnet and onion domains.",
+      "threat_type": "other",
+      "tweet_id": "2122068085691817993",
+      "type": "domain",
+      "value": "sever.cx"
+    },
+    "sever.st": {
+      "confidence": 0.7,
+      "date": "2026-11-15 20:43:52",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer"
+      ],
+      "summary": "SeverVault marketplace advertising millions of infostealer logs and over 1 billion compromised accounts, with clearnet and onion domains.",
+      "threat_type": "other",
+      "tweet_id": "2122068085691817993",
+      "type": "domain",
+      "value": "sever.st"
+    },
+    "sever.to": {
+      "confidence": 0.7,
+      "date": "2026-11-15 20:43:52",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer"
+      ],
+      "summary": "SeverVault marketplace advertising millions of infostealer logs and over 1 billion compromised accounts, with clearnet and onion domains.",
+      "threat_type": "other",
+      "tweet_id": "2122068085691817993",
+      "type": "domain",
+      "value": "sever.to"
+    },
+    "sever.ws": {
+      "confidence": 0.7,
+      "date": "2026-11-15 20:43:52",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer"
+      ],
+      "summary": "SeverVault marketplace advertising millions of infostealer logs and over 1 billion compromised accounts, with clearnet and onion domains.",
+      "threat_type": "other",
+      "tweet_id": "2122068085691817993",
+      "type": "domain",
+      "value": "sever.ws"
+    },
+    "sever4apt73wclanpzgoelsscbj274xupr4npybhyr4vyvxl7jlarrqd.onion": {
+      "confidence": 0.7,
+      "date": "2026-11-15 20:43:52",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer"
+      ],
+      "summary": "SeverVault marketplace advertising millions of infostealer logs and over 1 billion compromised accounts, with clearnet and onion domains.",
+      "threat_type": "other",
+      "tweet_id": "2122068085691817993",
+      "type": "domain",
+      "value": "sever4apt73wclanpzgoelsscbj274xupr4npybhyr4vyvxl7jlarrqd.onion"
+    },
+    "severgoodb3kdzmdnrnx3gb4jbw4gxe43mhvnxaacfq7oowb2ttsh7id.onion": {
+      "confidence": 0.7,
+      "date": "2026-11-15 20:43:52",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer"
+      ],
+      "summary": "SeverVault marketplace advertising millions of infostealer logs and over 1 billion compromised accounts, with clearnet and onion domains.",
+      "threat_type": "other",
+      "tweet_id": "2122068085691817993",
+      "type": "domain",
+      "value": "severgoodb3kdzmdnrnx3gb4jbw4gxe43mhvnxaacfq7oowb2ttsh7id.onion"
+    },
+    "severown5xd6ojimw7qij32dvgeav5ath7fei4w7rbui5zo2rutk3yad.onion": {
+      "confidence": 0.7,
+      "date": "2026-11-15 20:43:52",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer"
+      ],
+      "summary": "SeverVault marketplace advertising millions of infostealer logs and over 1 billion compromised accounts, with clearnet and onion domains.",
+      "threat_type": "other",
+      "tweet_id": "2122068085691817993",
+      "type": "domain",
+      "value": "severown5xd6ojimw7qij32dvgeav5ath7fei4w7rbui5zo2rutk3yad.onion"
+    },
+    "severxpppwio5sku5ffx2ddlbqszqous3wr7hph52dlcbdr3henfibid.onion": {
+      "confidence": 0.7,
+      "date": "2026-11-15 20:43:52",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer"
+      ],
+      "summary": "SeverVault marketplace advertising millions of infostealer logs and over 1 billion compromised accounts, with clearnet and onion domains.",
+      "threat_type": "other",
+      "tweet_id": "2122068085691817993",
+      "type": "domain",
+      "value": "severxpppwio5sku5ffx2ddlbqszqous3wr7hph52dlcbdr3henfibid.onion"
+    },
     "sexgirltiktok.cam": {
       "confidence": 0.7,
       "date": "2026-10-19 21:28:27",
@@ -77398,6 +78386,36 @@
       "type": "domain",
       "value": "solar-glide-moss-flaeo.pro"
     },
+    "somnitomonito.xyz": {
+      "confidence": 0.75,
+      "date": "2026-11-15 19:59:58",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Fake Google Meet page showing a bogus certificate error and delivering Windows ClickOnce and macOS AppleScript payloads; EXE currently unavailable.",
+      "threat_type": "malware",
+      "tweet_id": "2122057038394269974",
+      "type": "domain",
+      "value": "somnitomonito.xyz"
+    },
+    "somnitomonito.xyz/api/commands?land_id=29": {
+      "confidence": 0.75,
+      "date": "2026-11-15 19:59:58",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Fake Google Meet page showing a bogus certificate error and delivering Windows ClickOnce and macOS AppleScript payloads; EXE currently unavailable.",
+      "threat_type": "malware",
+      "tweet_id": "2122057038394269974",
+      "type": "url",
+      "value": "https://somnitomonito.xyz/api/commands?land_id=29"
+    },
     "sonichires.site": {
       "confidence": 0.85,
       "date": "2026-11-08 11:35:57",
@@ -77847,20 +78865,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "status.webstatici-whatsapp.com"
-    },
-    "stinson.myssologin.com": {
-      "confidence": 0.65,
-      "date": "2026-10-16 20:01:26",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "UNC6671 infrastructure update: two new myssologin.com hostnames apparently impersonating law firms Stinson and Dechert.",
-      "threat_type": "phishing",
-      "tweet_id": "2111185771000406305",
-      "type": "domain",
-      "value": "stinson.myssologin.com"
     },
     "storageimagedisplay.com": {
       "confidence": 0.6,
@@ -79020,6 +80024,21 @@
       "tweet_id": "2112532836871782885",
       "type": "domain",
       "value": "support-apple.top"
+    },
+    "support-team.website": {
+      "confidence": 0.85,
+      "date": "2026-11-15 20:11:09",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "Fake Google Meet page redirects to a fraudulent Google login page designed to steal credentials and MFA codes.",
+      "threat_type": "phishing",
+      "tweet_id": "2122059852755427413",
+      "type": "domain",
+      "value": "support-team.website"
     },
     "support.rogmafia.top": {
       "confidence": 0.7,
@@ -81653,6 +82672,22 @@
       "tweet_id": "2112437054269448214",
       "type": "url",
       "value": "https://umabju.com/ekinet/jp"
+    },
+    "uncvlizd.com": {
+      "confidence": 0.7,
+      "date": "2026-11-15 18:58:03",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": "PlugX",
+      "suggested_tags": [
+        "plugx",
+        "c2",
+        "apt"
+      ],
+      "summary": "C2 domain from a campaign thread, assessed as likely PlugX.",
+      "threat_type": "c2",
+      "tweet_id": "2122041455057236063",
+      "type": "domain",
+      "value": "uncvlizd.com"
     },
     "unitstrust.click": {
       "confidence": 0.65,
@@ -84396,6 +85431,23 @@
       "type": "domain",
       "value": "word-majority-cahoots.ngrok-free.dev"
     },
+    "workdrive.zohoexternal.jp": {
+      "confidence": 0.7,
+      "date": "2026-11-15 18:58:08",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": "PlugX",
+      "suggested_tags": [
+        "mustangpanda",
+        "apt",
+        "plugx",
+        "malware"
+      ],
+      "summary": "Mustang Panda campaign using a RAR archive on a Zoho WorkDrive lookalike, abusing Greenshot.exe for DLL side-loading.",
+      "threat_type": "malware",
+      "tweet_id": "2120658026663153700",
+      "type": "domain",
+      "value": "workdrive.zohoexternal.jp"
+    },
     "worker-broken-wood-ddaf.discord854832.workers.dev": {
       "confidence": 0.6,
       "date": "2026-10-20 08:11:20",
@@ -85407,20 +86459,6 @@
       "type": "domain",
       "value": "xncdvoghw.wuaze.com"
     },
-    "xncdvoghw.wuaze.com//xac74/xac15/xac80/xc9c4.pdf": {
-      "confidence": 0.5,
-      "date": "2026-10-16 22:04:23",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Korean-named health checkup ZIP lure whose payload connects to a remote PHP endpoint and references an embedded PDF URL on a free host.",
-      "threat_type": "malware",
-      "tweet_id": "2111216711831810173",
-      "type": "url",
-      "value": "https://xncdvoghw.wuaze.com//xac74/xac15/xac80/xc9c4.pdf"
-    },
     "xrtweb-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -85968,6 +87006,50 @@
       "tweet_id": "2116325245670097301",
       "type": "domain",
       "value": "yzhw666.com"
+    },
+    "z29vz2xl.batasee.com": {
+      "confidence": 0.75,
+      "date": "2026-11-15 20:12:27",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing subdomain impersonating Google, linked to a fake Google Meet campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2122060179273564298",
+      "type": "domain",
+      "value": "z29vz2xl.batasee.com"
+    },
+    "z29vz2xl.batasee.com/bigk8leh5k2/d44d6ousxjs/qooux1ywmrk": {
+      "confidence": 0.85,
+      "date": "2026-11-15 20:11:09",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "Fake Google Meet page redirects to a fraudulent Google login page designed to steal credentials and MFA codes.",
+      "threat_type": "phishing",
+      "tweet_id": "2122059852755427413",
+      "type": "url",
+      "value": "https://z29vz2xl.batasee.com/bIGk8LEh5K2/D44D6OuSxJS/qoOuX1YwMRK"
+    },
+    "z29vz2xl.batasee.com/uanwkupjyua/hgges01pfti/qi8j4nfjemi": {
+      "confidence": 0.85,
+      "date": "2026-11-15 20:11:09",
+      "enriched_at": "2026-11-16T00:40:05Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "Fake Google Meet page redirects to a fraudulent Google login page designed to steal credentials and MFA codes.",
+      "threat_type": "phishing",
+      "tweet_id": "2122059852755427413",
+      "type": "url",
+      "value": "https://z29vz2xl.batasee.com/uANwKUPJyUA/HgGES01PFtI/qI8j4NFjemI"
     },
     "zdhweb-whatsapp.com": {
       "confidence": 0.65,
@@ -86604,6 +87686,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-15T18:40:04Z",
+  "generated_at": "2026-11-16T00:40:05Z",
   "window_days": 30
 }
