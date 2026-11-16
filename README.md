@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-16 11:30:32 (UTC)</th>
+        <th colspan=4>2026-11-16 11:45:31 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,11 +187,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 148 | 627 | 3401 | 44006 |
-| **:globe_with_meridians: Domains** | 130 | 458 | 2828 | 37787 |
-| **:triangular_flag_on_post: IPs** | 28 | 321 | 2405 | 8242 |
+| **:link: URLs** | 153 | 632 | 3406 | 44011 |
+| **:globe_with_meridians: Domains** | 132 | 460 | 2830 | 37789 |
+| **:triangular_flag_on_post: IPs** | 29 | 322 | 2406 | 8243 |
 | **:1234: SHA256** | 95 | 218 | 679 | 3420 |
-| **:1234: MD5** | 0 | 50 | 151 | 2054 |
+| **:1234: MD5** | 1 | 51 | 152 | 2055 |
 
 </div>
 
@@ -204,7 +204,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 52 | 418 | 3837 | 30834 |
+| **#phishing** | 58 | 424 | 3843 | 30840 |
 | **#Kimsuky** | 10 | 10 | 42 | 13325 |
 | **#DPRK** | 0 | 0 | 18 | 11687 |
 | **#malware** | 24 | 292 | 1309 | 4505 |
@@ -235,10 +235,10 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#4** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 15 |
 | **#5** | [Malwarehunterr](https://x.com/Malwarehunterr) | 11 |
 | **#6** | [copy_and_paster](https://x.com/copy_and_paster) | 10 |
-| **#7** | [chris_uk2026](https://x.com/chris_uk2026) | 6 |
-| **#8** | [LandscapeThreat](https://x.com/LandscapeThreat) | 6 |
-| **#9** | [harugasumi](https://x.com/harugasumi) | 6 |
-| **#10** | [masaomi346](https://x.com/masaomi346) | 5 |
+| **#7** | [harugasumi](https://x.com/harugasumi) | 8 |
+| **#8** | [Metemcyber](https://x.com/Metemcyber) | 8 |
+| **#9** | [chris_uk2026](https://x.com/chris_uk2026) | 6 |
+| **#10** | [LandscapeThreat](https://x.com/LandscapeThreat) | 6 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
