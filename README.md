@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-16 12:01:20 (UTC)</th>
+        <th colspan=4>2026-11-16 12:16:14 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,11 +187,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 153 | 632 | 3406 | 44011 |
-| **:globe_with_meridians: Domains** | 132 | 460 | 2830 | 37789 |
-| **:triangular_flag_on_post: IPs** | 29 | 322 | 2406 | 8243 |
+| **:link: URLs** | 155 | 634 | 3408 | 44013 |
+| **:globe_with_meridians: Domains** | 133 | 461 | 2831 | 37790 |
+| **:triangular_flag_on_post: IPs** | 30 | 323 | 2407 | 8244 |
 | **:1234: SHA256** | 95 | 218 | 679 | 3420 |
-| **:1234: MD5** | 2 | 52 | 153 | 2056 |
+| **:1234: MD5** | 3 | 53 | 154 | 2057 |
 
 </div>
 
@@ -204,7 +204,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 58 | 424 | 3843 | 30840 |
+| **#phishing** | 62 | 428 | 3847 | 30844 |
 | **#Kimsuky** | 10 | 10 | 42 | 13325 |
 | **#DPRK** | 0 | 0 | 18 | 11687 |
 | **#malware** | 24 | 292 | 1309 | 4505 |
@@ -233,10 +233,10 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#2** | [skocherhan](https://x.com/skocherhan) | 98 |
 | **#3** | [romonlyht](https://x.com/romonlyht) | 31 |
 | **#4** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 15 |
-| **#5** | [Malwarehunterr](https://x.com/Malwarehunterr) | 11 |
-| **#6** | [copy_and_paster](https://x.com/copy_and_paster) | 10 |
-| **#7** | [harugasumi](https://x.com/harugasumi) | 8 |
-| **#8** | [Metemcyber](https://x.com/Metemcyber) | 8 |
+| **#5** | [Metemcyber](https://x.com/Metemcyber) | 12 |
+| **#6** | [Malwarehunterr](https://x.com/Malwarehunterr) | 11 |
+| **#7** | [copy_and_paster](https://x.com/copy_and_paster) | 10 |
+| **#8** | [harugasumi](https://x.com/harugasumi) | 8 |
 | **#9** | [chris_uk2026](https://x.com/chris_uk2026) | 6 |
 | **#10** | [LandscapeThreat](https://x.com/LandscapeThreat) | 6 |
 <!-- TOP_REPORTERS_END -->

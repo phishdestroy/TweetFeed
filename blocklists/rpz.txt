@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2706
-; Updated: 2026-11-16T11:45:30Z
+; Entries: 2707
+; Updated: 2026-11-16T12:16:13Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794829530 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794831373 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3958,6 +3958,8 @@ rn-a-g-a-z-i-n-promocoes.com CNAME .
 *.rn-a-g-a-z-i-n-promocoes.com CNAME .
 rne1sf2u.onlinewebshop.net CNAME .
 *.rne1sf2u.onlinewebshop.net CNAME .
+robin.osaqwe.asia CNAME .
+*.robin.osaqwe.asia CNAME .
 robiox.com.af CNAME .
 *.robiox.com.af CNAME .
 robiox.com.gr CNAME .
