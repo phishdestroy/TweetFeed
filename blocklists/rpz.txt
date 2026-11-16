@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2696
-; Updated: 2026-11-16T08:16:43Z
+; Entries: 2698
+; Updated: 2026-11-16T09:00:33Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794817003 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794819633 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -58,6 +58,8 @@ $TTL 300
 *.2c2a9c.jackpot-deluxe.net CNAME .
 2fcfbd.991jili.site CNAME .
 *.2fcfbd.991jili.site CNAME .
+2rlsykgo.s3.us-east-1.amazonaws.com CNAME .
+*.2rlsykgo.s3.us-east-1.amazonaws.com CNAME .
 2stdiwali-bigsavingsale.info CNAME .
 *.2stdiwali-bigsavingsale.info CNAME .
 2stdiwali-bigsavingsale.shop CNAME .
@@ -2910,6 +2912,8 @@ kddplatform.com CNAME .
 *.kddplatform.com CNAME .
 kdyweb-whatsapp.com CNAME .
 *.kdyweb-whatsapp.com CNAME .
+keishicho-metro.jp CNAME .
+*.keishicho-metro.jp CNAME .
 keisigr.top CNAME .
 *.keisigr.top CNAME .
 kenpousland.cfd CNAME .
