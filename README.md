@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-16 00:45:22 (UTC)</th>
+        <th colspan=4>2026-11-16 01:00:26 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,8 +187,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 11 | 490 | 3264 | 43869 |
-| **:globe_with_meridians: Domains** | 4 | 332 | 2702 | 37661 |
+| **:link: URLs** | 12 | 491 | 3265 | 43870 |
+| **:globe_with_meridians: Domains** | 5 | 333 | 2703 | 37662 |
 | **:triangular_flag_on_post: IPs** | 1 | 294 | 2378 | 8215 |
 | **:1234: SHA256** | 1 | 124 | 585 | 3326 |
 | **:1234: MD5** | 0 | 50 | 151 | 2054 |
@@ -207,8 +207,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#phishing** | 2 | 368 | 3787 | 30784 |
 | **#Kimsuky** | 0 | 0 | 32 | 13315 |
 | **#DPRK** | 0 | 0 | 18 | 11687 |
-| **#malware** | 15 | 283 | 1300 | 4496 |
-| **#scam** | 0 | 18 | 42 | 2591 |
+| **#malware** | 17 | 285 | 1302 | 4498 |
+| **#scam** | 2 | 20 | 44 | 2593 |
 | **#C2** | 0 | 49 | 192 | 2053 |
 | **#APT** | 0 | 34 | 85 | 1471 |
 | **#ClickFix** | 15 | 66 | 282 | 1297 |
@@ -231,7 +231,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 15 |
 | **#2** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#3** | [-](https://x.com/-) | 0 |
+| **#3** | [chris_uk2026](https://x.com/chris_uk2026) | 2 |
 | **#4** | [-](https://x.com/-) | 0 |
 | **#5** | [-](https://x.com/-) | 0 |
 | **#6** | [-](https://x.com/-) | 0 |
